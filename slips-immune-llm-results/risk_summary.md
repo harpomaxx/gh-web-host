@@ -1,25 +1,25 @@
 # LLM Evaluation Summary Report
 
-**Judge:** GPT-4o
-**Total Evaluations:** 46
+**Judge:** gpt-oss-120b
+**Total Evaluations:** 532
 
 ## Overall Performance Rankings
 
 | Rank | Model | Avg Position | Avg Score | Win Rate | Wins |
 |------|-------|--------------|-----------|----------|------|
-| 1 | GPT-4o | 1.70 | 7.83/10 | 56.5% | 26 |
-| 2 | GPT-4o-mini | 2.09 | 7.37/10 | 19.6% | 9 |
-| 3 | Qwen2.5 | 3.09 | 5.67/10 | 19.6% | 9 |
-| 4 | Qwen2.5 3B | 3.13 | 5.85/10 | 4.3% | 2 |
+| 1 | GPT-4o | 1.46 | 7.98/10 | 65.6% | 349 |
+| 2 | GPT-4o-mini | 1.92 | 7.34/10 | 26.3% | 140 |
+| 3 | Qwen2.5 3B | 3.08 | 5.33/10 | 4.9% | 26 |
+| 4 | Qwen2.5 | 3.54 | 4.29/10 | 3.2% | 17 |
 
 ## Position Distribution
 
 | Model | 1st | 2nd | 3rd | 4th |
 |-------|-----|-----|-----|-----|
-| GPT-4o | 26 | 11 | 6 | 3 |
-| GPT-4o-mini | 9 | 25 | 11 | 1 |
-| Qwen2.5 | 9 | 1 | 13 | 23 |
-| Qwen2.5 3B | 2 | 9 | 16 | 19 |
+| GPT-4o | 349 | 137 | 30 | 16 |
+| GPT-4o-mini | 140 | 304 | 81 | 7 |
+| Qwen2.5 3B | 26 | 58 | 293 | 155 |
+| Qwen2.5 | 17 | 33 | 128 | 354 |
 
 ## Performance by Incident Category
 
@@ -27,19 +27,19 @@
 
 | Model | Count | Avg Position | Avg Score | Wins |
 |-------|-------|--------------|-----------|------|
-| GPT-4o | 28 | 1.50 | 8.43/10 | 19 |
-| GPT-4o-mini | 28 | 1.96 | 7.96/10 | 7 |
-| Qwen2.5 3B | 28 | 2.96 | 6.61/10 | 1 |
-| Qwen2.5 | 28 | 3.57 | 5.46/10 | 1 |
+| GPT-4o | 514 | 1.45 | 8.08/10 | 342 |
+| GPT-4o-mini | 514 | 1.91 | 7.43/10 | 134 |
+| Qwen2.5 3B | 514 | 3.08 | 5.39/10 | 25 |
+| Qwen2.5 | 514 | 3.56 | 4.30/10 | 13 |
 
 ### Normal Incidents
 
 | Model | Count | Avg Position | Avg Score | Wins |
 |-------|-------|--------------|-----------|------|
-| GPT-4o | 18 | 2.00 | 6.89/10 | 7 |
-| GPT-4o-mini | 18 | 2.28 | 6.44/10 | 2 |
-| Qwen2.5 | 18 | 2.33 | 6.00/10 | 8 |
-| Qwen2.5 3B | 18 | 3.39 | 4.67/10 | 1 |
+| GPT-4o | 18 | 1.83 | 5.17/10 | 7 |
+| GPT-4o-mini | 18 | 2.00 | 4.89/10 | 6 |
+| Qwen2.5 | 18 | 2.89 | 4.00/10 | 4 |
+| Qwen2.5 3B | 18 | 3.28 | 3.56/10 | 1 |
 
 ## Performance by Incident Complexity
 
@@ -47,38 +47,38 @@
 
 | Model | Count | Avg Position | Avg Score | Wins |
 |-------|-------|--------------|-----------|------|
-| GPT-4o | 22 | 2.14 | 7.18/10 | 9 |
-| GPT-4o-mini | 22 | 2.36 | 6.91/10 | 3 |
-| Qwen2.5 | 22 | 2.64 | 6.27/10 | 9 |
-| Qwen2.5 3B | 22 | 2.86 | 6.18/10 | 1 |
+| GPT-4o | 324 | 1.57 | 7.76/10 | 193 |
+| GPT-4o-mini | 324 | 1.91 | 7.29/10 | 98 |
+| Qwen2.5 3B | 324 | 3.08 | 5.38/10 | 17 |
+| Qwen2.5 | 324 | 3.44 | 4.53/10 | 16 |
 
 ### Medium Incidents
 
 | Model | Count | Avg Position | Avg Score | Wins |
 |-------|-------|--------------|-----------|------|
-| GPT-4o | 15 | 1.33 | 8.20/10 | 10 |
-| GPT-4o-mini | 15 | 1.87 | 7.53/10 | 4 |
-| Qwen2.5 3B | 15 | 3.33 | 5.40/10 | 1 |
-| Qwen2.5 | 15 | 3.47 | 5.00/10 | 0 |
+| GPT-4o | 62 | 1.23 | 8.31/10 | 49 |
+| GPT-4o-mini | 62 | 1.94 | 7.39/10 | 11 |
+| Qwen2.5 3B | 62 | 3.10 | 5.42/10 | 2 |
+| Qwen2.5 | 62 | 3.74 | 4.06/10 | 0 |
 
 ### Complex Incidents
 
 | Model | Count | Avg Position | Avg Score | Wins |
 |-------|-------|--------------|-----------|------|
-| GPT-4o | 9 | 1.22 | 8.78/10 | 7 |
-| GPT-4o-mini | 9 | 1.78 | 8.22/10 | 2 |
-| Qwen2.5 3B | 9 | 3.44 | 5.78/10 | 0 |
-| Qwen2.5 | 9 | 3.56 | 5.33/10 | 0 |
+| GPT-4o | 146 | 1.32 | 8.32/10 | 107 |
+| GPT-4o-mini | 146 | 1.91 | 7.44/10 | 31 |
+| Qwen2.5 3B | 146 | 3.10 | 5.18/10 | 7 |
+| Qwen2.5 | 146 | 3.68 | 3.86/10 | 1 |
 
 ## Key Insights
 
 **Best Overall Model:** GPT-4o
-- Average Position: 1.70
-- Average Score: 7.83/10
-- Win Rate: 56.5%
+- Average Position: 1.46
+- Average Score: 7.98/10
+- Win Rate: 65.6%
 
 **Best for Malware Incidents:** GPT-4o
-- Avg Position: 1.50
+- Avg Position: 1.45
 
 **Best for Normal Incidents:** GPT-4o
-- Avg Position: 2.00
+- Avg Position: 1.83
