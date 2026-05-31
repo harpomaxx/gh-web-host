@@ -1,0 +1,1456 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📚 La Tribu de los Zippoli - App Interactiva</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700;800&family=Comic+Neue:wght@400;700&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Comic Neue', cursive, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Floating particles */
+    .particles {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none;
+      z-index: 0;
+      overflow: hidden;
+    }
+    .particle {
+      position: absolute;
+      font-size: 24px;
+      animation: floatUp linear infinite;
+      opacity: 0.6;
+    }
+    @keyframes floatUp {
+      0% { transform: translateY(100vh) rotate(0deg); opacity: 0; }
+      10% { opacity: 0.6; }
+      90% { opacity: 0.6; }
+      100% { transform: translateY(-10vh) rotate(360deg); opacity: 0; }
+    }
+
+    /* Header */
+    .header {
+      background: linear-gradient(135deg, #ff6b6b, #ffa500, #ffd93d);
+      padding: 20px;
+      text-align: center;
+      position: relative;
+      z-index: 10;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+      border-bottom: 5px dashed #fff;
+    }
+    .header h1 {
+      font-family: 'Baloo 2', cursive;
+      font-size: 2.5em;
+      color: #fff;
+      text-shadow: 3px 3px 0 #c0392b, 6px 6px 0 rgba(0,0,0,0.1);
+      animation: bounce 2s ease infinite;
+    }
+    .header .subtitle {
+      font-size: 1.2em;
+      color: #fff;
+      margin-top: 5px;
+      text-shadow: 1px 1px 0 rgba(0,0,0,0.2);
+    }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-8px); }
+    }
+
+    /* Navigation */
+    .nav-bar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 8px;
+      padding: 15px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(102, 126, 234, 0.95);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 2px 15px rgba(0,0,0,0.2);
+    }
+    .nav-btn {
+      font-family: 'Baloo 2', cursive;
+      font-size: 1em;
+      padding: 8px 16px;
+      border: 3px solid #fff;
+      border-radius: 25px;
+      background: #fff;
+      color: #764ba2;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-weight: 700;
+    }
+    .nav-btn:hover, .nav-btn.active {
+      background: #ffd93d;
+      color: #333;
+      transform: scale(1.1);
+      box-shadow: 0 4px 15px rgba(255, 217, 61, 0.5);
+    }
+
+    /* Main content */
+    .main-content {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      position: relative;
+      z-index: 10;
+    }
+
+    /* Sections */
+    .section {
+      display: none;
+      animation: fadeIn 0.5s ease;
+    }
+    .section.active {
+      display: block;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Cards */
+    .card {
+      background: #fff;
+      border-radius: 20px;
+      padding: 25px;
+      margin-bottom: 20px;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.15);
+      border: 4px solid;
+      position: relative;
+      overflow: hidden;
+    }
+    .card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 8px;
+    }
+    .card-red { border-color: #ff6b6b; }
+    .card-red::before { background: linear-gradient(90deg, #ff6b6b, #ee5a24); }
+    .card-blue { border-color: #4ecdc4; }
+    .card-blue::before { background: linear-gradient(90deg, #4ecdc4, #45b7d1); }
+    .card-green { border-color: #2ecc71; }
+    .card-green::before { background: linear-gradient(90deg, #2ecc71, #27ae60); }
+    .card-yellow { border-color: #f39c12; }
+    .card-yellow::before { background: linear-gradient(90deg, #f39c12, #e67e22); }
+    .card-purple { border-color: #9b59b6; }
+    .card-purple::before { background: linear-gradient(90deg, #9b59b6, #8e44ad); }
+    .card-orange { border-color: #e67e22; }
+    .card-orange::before { background: linear-gradient(90deg, #e67e22, #d35400); }
+
+    .card h2 {
+      font-family: 'Baloo 2', cursive;
+      font-size: 1.8em;
+      margin-bottom: 15px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .card-red h2 { color: #e74c3c; }
+    .card-blue h2 { color: #3498db; }
+    .card-green h2 { color: #27ae60; }
+    .card-yellow h2 { color: #f39c12; }
+    .card-purple h2 { color: #8e44ad; }
+    .card-orange h2 { color: #d35400; }
+
+    .card p {
+      font-size: 1.15em;
+      line-height: 1.8;
+      color: #444;
+      margin-bottom: 12px;
+    }
+
+    .card .emoji-bullet {
+      font-size: 1.3em;
+      margin-right: 5px;
+    }
+
+    /* SVG illustrations */
+    .illustration {
+      text-align: center;
+      margin: 20px 0;
+    }
+    .illustration svg {
+      max-width: 100%;
+      height: auto;
+    }
+
+    /* Character cards */
+    .character-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      margin: 15px 0;
+    }
+    .character-card {
+      background: linear-gradient(135deg, #f8f9fa, #fff);
+      border-radius: 15px;
+      padding: 15px;
+      text-align: center;
+      border: 3px solid #e0e0e0;
+      transition: transform 0.3s, box-shadow 0.3s;
+      cursor: pointer;
+    }
+    .character-card:hover {
+      transform: translateY(-5px) scale(1.03);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    }
+    .character-card .char-name {
+      font-family: 'Baloo 2', cursive;
+      font-size: 1.2em;
+      font-weight: 700;
+      margin-top: 10px;
+      color: #333;
+    }
+    .character-card .char-role {
+      font-size: 0.95em;
+      color: #777;
+      margin-top: 3px;
+    }
+
+    /* Theme tags */
+    .theme-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 15px 0;
+    }
+    .theme-tag {
+      padding: 10px 20px;
+      border-radius: 25px;
+      font-family: 'Baloo 2', cursive;
+      font-size: 1.05em;
+      font-weight: 600;
+      color: #fff;
+      cursor: pointer;
+      transition: transform 0.3s;
+    }
+    .theme-tag:hover { transform: scale(1.1); }
+    .theme-tag:nth-child(1) { background: #e74c3c; }
+    .theme-tag:nth-child(2) { background: #3498db; }
+    .theme-tag:nth-child(3) { background: #2ecc71; }
+    .theme-tag:nth-child(4) { background: #f39c12; }
+    .theme-tag:nth-child(5) { background: #9b59b6; }
+    .theme-tag:nth-child(6) { background: #1abc9c; }
+
+    /* Fun facts */
+    .fun-fact {
+      background: linear-gradient(135deg, #fff9c4, #fff176);
+      border-radius: 15px;
+      padding: 15px 20px;
+      margin: 10px 0;
+      border-left: 6px solid #f39c12;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 1.1em;
+      transition: transform 0.3s;
+    }
+    .fun-fact:hover { transform: translateX(5px); }
+    .fun-fact .fact-icon { font-size: 1.8em; }
+
+    /* Quiz */
+    .quiz-question {
+      background: #f0f0f0;
+      border-radius: 15px;
+      padding: 20px;
+      margin: 15px 0;
+      border: 3px solid #ddd;
+    }
+    .quiz-question h3 {
+      font-family: 'Baloo 2', cursive;
+      color: #333;
+      margin-bottom: 12px;
+      font-size: 1.2em;
+    }
+    .quiz-option {
+      display: block;
+      width: 100%;
+      padding: 12px 18px;
+      margin: 8px 0;
+      border: 3px solid #ddd;
+      border-radius: 12px;
+      background: #fff;
+      font-family: 'Comic Neue', cursive;
+      font-size: 1.05em;
+      cursor: pointer;
+      text-align: left;
+      transition: all 0.3s;
+    }
+    .quiz-option:hover {
+      border-color: #667eea;
+      background: #f0f0ff;
+      transform: translateX(5px);
+    }
+    .quiz-option.correct {
+      border-color: #2ecc71;
+      background: #d5f4e6;
+      color: #27ae60;
+      font-weight: 700;
+    }
+    .quiz-option.wrong {
+      border-color: #e74c3c;
+      background: #fde8e8;
+      color: #c0392b;
+    }
+    .quiz-result {
+      display: none;
+      padding: 15px;
+      border-radius: 12px;
+      margin-top: 10px;
+      font-size: 1.1em;
+      font-weight: 700;
+      text-align: center;
+    }
+
+    /* Progress bar */
+    .progress-container {
+      background: rgba(255,255,255,0.3);
+      border-radius: 20px;
+      padding: 5px;
+      margin: 10px 0;
+    }
+    .progress-bar {
+      height: 12px;
+      background: linear-gradient(90deg, #ffd93d, #ff6b6b);
+      border-radius: 15px;
+      width: 0%;
+      transition: width 0.5s ease;
+    }
+    .progress-text {
+      color: #fff;
+      font-family: 'Baloo 2', cursive;
+      font-size: 0.9em;
+      text-align: center;
+      margin-top: 5px;
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 30px;
+      color: rgba(255,255,255,0.8);
+      font-size: 1em;
+      position: relative;
+      z-index: 10;
+    }
+    .footer a { color: #ffd93d; }
+
+    /* Interactive book */
+    .magic-book {
+      text-align: center;
+      margin: 20px 0;
+    }
+    .magic-book-btn {
+      font-family: 'Baloo 2', cursive;
+      font-size: 1.3em;
+      padding: 15px 35px;
+      border: none;
+      border-radius: 30px;
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      color: #fff;
+      cursor: pointer;
+      transition: all 0.3s;
+      box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+    }
+    .magic-book-btn:hover {
+      transform: scale(1.1);
+      box-shadow: 0 8px 30px rgba(102, 126, 234, 0.6);
+    }
+    .magic-book-btn:active { transform: scale(0.95); }
+
+    .story-reveal {
+      display: none;
+      background: linear-gradient(135deg, #fff9c4, #fff176);
+      border-radius: 20px;
+      padding: 25px;
+      margin-top: 15px;
+      border: 4px dashed #f39c12;
+      animation: sparkle 1s ease;
+    }
+    @keyframes sparkle {
+      0% { opacity: 0; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.05); }
+      100% { transform: scale(1); }
+    }
+    .story-reveal p {
+      font-size: 1.15em;
+      line-height: 1.8;
+      color: #333;
+    }
+
+    /* Responsive */
+    @media (max-width: 600px) {
+      .header h1 { font-size: 1.8em; }
+      .nav-btn { font-size: 0.85em; padding: 6px 12px; }
+      .card { padding: 18px; }
+      .card h2 { font-size: 1.4em; }
+      .card p { font-size: 1.05em; }
+      .character-grid { grid-template-columns: 1fr 1fr; }
+    }
+
+    /* Confetti animation */
+    .confetti-piece {
+      position: fixed;
+      width: 10px;
+      height: 10px;
+      z-index: 9999;
+      pointer-events: none;
+    }
+    @keyframes confettiFall {
+      0% { transform: translateY(-10vh) rotate(0deg); opacity: 1; }
+      100% { transform: translateY(110vh) rotate(720deg); opacity: 0; }
+    }
+
+    /* Tooltip */
+    .tooltip {
+      position: relative;
+      display: inline-block;
+      cursor: help;
+      border-bottom: 2px dotted #667eea;
+    }
+    .tooltip .tooltip-text {
+      visibility: hidden;
+      background: #333;
+      color: #fff;
+      text-align: center;
+      padding: 8px 14px;
+      border-radius: 10px;
+      font-size: 0.9em;
+      position: absolute;
+      z-index: 100;
+      bottom: 125%;
+      left: 50%;
+      transform: translateX(-50%);
+      white-space: nowrap;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    .tooltip:hover .tooltip-text {
+      visibility: visible;
+      opacity: 1;
+    }
+
+    /* Section intro banner */
+    .section-banner {
+      background: rgba(255,255,255,0.15);
+      border-radius: 15px;
+      padding: 15px 20px;
+      margin-bottom: 20px;
+      color: #fff;
+      font-family: 'Baloo 2', cursive;
+      font-size: 1.1em;
+      text-align: center;
+      backdrop-filter: blur(5px);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Floating particles -->
+  <div class="particles" id="particles"></div>
+
+  <!-- Header -->
+  <div class="header">
+    <h1>📚 La Tribu de los Zippoli 📚</h1>
+    <div class="subtitle">Una historia mágica sobre la lectura ✨ | 4° Grado - Argentina</div>
+    <div class="progress-container" style="max-width:400px;margin:10px auto 0;">
+      <div class="progress-bar" id="progressBar"></div>
+    </div>
+    <div class="progress-text" id="progressText">📖 0 de 7 secciones leídas</div>
+  </div>
+
+  <!-- Navigation -->
+  <div class="nav-bar">
+    <button class="nav-btn active" onclick="showSection('intro')">🏠 Inicio</button>
+    <button class="nav-btn" onclick="showSection('personajes')">👥 Personajes</button>
+    <button class="nav-btn" onclick="showSection('capitulo1')">📖 Capítulo 1</button>
+    <button class="nav-btn" onclick="showSection('capitulo2')">📖 Capítulo 2</button>
+    <button class="nav-btn" onclick="showSection('capitulo3')">📖 Capítulo 3</button>
+    <button class="nav-btn" onclick="showSection('temas')">💡 Temas</button>
+    <button class="nav-btn" onclick="showSection('quiz')">🎮 ¡Juguemos!</button>
+  </div>
+
+  <!-- Main Content -->
+  <div class="main-content">
+
+    <!-- ==================== SECTION: INTRO ==================== -->
+    <div class="section active" id="sec-intro">
+      <div class="section-banner">
+        ¡Bienvenidos a la aventura! 👋 Lee todo el resumen y luego jugá con el quiz 🎮
+      </div>
+
+      <!-- Book info card -->
+      <div class="card card-purple">
+        <h2>📕 ¿De qué trata este libro?</h2>
+        <div class="illustration">
+          <svg width="280" height="180" viewBox="0 0 280 180">
+            <!-- Book -->
+            <rect x="60" y="40" width="160" height="120" rx="8" fill="#8B4513" stroke="#654321" stroke-width="3"/>
+            <rect x="65" y="45" width="150" height="110" rx="5" fill="#F5DEB3"/>
+            <!-- Pages lines -->
+            <line x1="80" y1="65" x2="190" y2="65" stroke="#999" stroke-width="1"/>
+            <line x1="80" y1="75" x2="180" y2="75" stroke="#999" stroke-width="1"/>
+            <line x1="80" y1="85" x2="195" y2="85" stroke="#999" stroke-width="1"/>
+            <line x1="80" y1="95" x2="175" y2="95" stroke="#999" stroke-width="1"/>
+            <line x1="80" y1="105" x2="190" y2="105" stroke="#999" stroke-width="1"/>
+            <line x1="80" y1="115" x2="185" y2="115" stroke="#999" stroke-width="1"/>
+            <line x1="80" y1="125" x2="170" y2="125" stroke="#999" stroke-width="1"/>
+            <!-- Book title -->
+            <text x="140" y="55" text-anchor="middle" font-family="Baloo 2, cursive" font-size="11" fill="#8B4513" font-weight="bold">La Tribu de los</text>
+            <text x="140" y="68" text-anchor="middle" font-family="Baloo 2, cursive" font-size="11" fill="#8B4513" font-weight="bold">Zippoli</text>
+            <!-- Magic sparkles -->
+            <circle cx="50" cy="30" r="4" fill="#FFD700" opacity="0.8">
+              <animate attributeName="opacity" values="0.8;0.2;0.8" dur="1.5s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="230" cy="25" r="3" fill="#FF69B4" opacity="0.8">
+              <animate attributeName="opacity" values="0.2;0.8;0.2" dur="1.2s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="240" cy="60" r="5" fill="#00CED1" opacity="0.6">
+              <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.8s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="40" cy="70" r="3" fill="#FF6347" opacity="0.7">
+              <animate attributeName="opacity" values="0.7;0.2;0.7" dur="1.4s" repeatCount="indefinite"/>
+            </circle>
+            <!-- Child reading -->
+            <circle cx="140" cy="170" r="12" fill="#FFDAB9"/>
+            <circle cx="136" cy="167" r="2" fill="#333"/>
+            <circle cx="144" cy="167" r="2" fill="#333"/>
+            <path d="M 135 173 Q 140 178 145 173" stroke="#333" stroke-width="1.5" fill="none"/>
+            <!-- Hair -->
+            <path d="M 128 165 Q 130 155 140 155 Q 150 155 152 165" fill="#8B4513"/>
+          </svg>
+        </div>
+        <p>
+          <strong>📝 Título:</strong> La tribu de los Zippoli<br>
+          <strong>✍️ Autor:</strong> David Nel·lo<br>
+          <strong>🎨 Ilustrador:</strong> Pere Ginard<br>
+          <strong>🏢 Editorial:</strong> Editorial Bambú (Grupo Casals)<br>
+          <strong>📅 Año:</strong> 2017<br>
+          <strong>📚 Colección:</strong> Jóvenes Lectores
+        </p>
+        <p style="background:#f8f4ff;padding:12px;border-radius:10px;border-left:5px solid #9b59b6;">
+          <strong>💬 Resumen:</strong> Guillermo es un niño que <strong>no le gusta leer</strong>, pero todos en su familia son lectores apasionados. Un día, en la biblioteca del colegio, descubre un pequeño libro mágico llamado <em>"La tribu de los Zippoli"</em> que cambia su vida para siempre. ¡Descubrirá que cada persona lee una historia diferente y que la lectura puede ser la mayor aventura!
+        </p>
+      </div>
+
+      <!-- Interactive book reveal -->
+      <div class="card card-blue">
+        <h2>🔮 ¡Descubrí el secreto del libro mágico!</h2>
+        <div class="magic-book">
+          <button class="magic-book-btn" onclick="revealBook()">✨ Abrir el libro mágico ✨</button>
+          <div class="story-reveal" id="bookReveal">
+            <p>
+              📖 <strong>"La tribu de los Zippoli"</strong> es un libro <em>dentro</em> del libro. Es un pequeño volumen escrito por un autor ficticio llamado <strong>Jakob Klein</strong>. Cuando Guillermo lo encuentra escondido detrás de un libro más grande, descubre que <strong>cada miembro de su familia lee una historia completamente distinta</strong> cuando lo lee. ¡Es como si el libro fuera mágico y se adaptara a cada lector!
+            </p>
+            <p style="text-align:center;margin-top:10px;">
+              <span style="font-size:2em;">🪄📚✨📖✨📚🪄</span>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Fun facts -->
+      <div class="card card-yellow">
+        <h2>🌟 Datos curiosos</h2>
+        <div class="fun-fact">
+          <span class="fact-icon">📖</span>
+          <span>El autor David Nel·lo es catalán y escribió este libro para que los niños que no les gusta leer descubran el placer de la lectura.</span>
+        </div>
+        <div class="fun-fact">
+          <span class="fact-icon">🎨</span>
+          <span>Las ilustraciones de Pere Ginard hacen que el libro sea aún más especial y divertido.</span>
+        </div>
+        <div class="fun-fact">
+          <span class="fact-icon">🇦🇷</span>
+          <span>Este libro es muy usado en las escuelas de Argentina en 4° grado como parte del Plan Lector.</span>
+        </div>
+        <div class="fun-fact">
+          <span class="fact-icon">🌍</span>
+          <span>El libro fue publicado originalmente en catalán y luego traducido al español.</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==================== SECTION: PERSONAJES ==================== -->
+    <div class="section" id="sec-personajes">
+      <div class="section-banner">
+        ¡Conocé a los personajes de la historia! 👆 Hacé clic en cada uno para saber más
+      </div>
+
+      <div class="card card-red">
+        <h2>👥 Los Personajes</h2>
+
+        <div class="character-grid">
+          <!-- Guillermo -->
+          <div class="character-card" onclick="showCharDetail('guillermo')">
+            <svg width="120" height="120" viewBox="0 0 120 120">
+              <!-- Body -->
+              <rect x="40" y="65" width="40" height="40" rx="5" fill="#3498db"/>
+              <!-- Head -->
+              <circle cx="60" cy="40" r="25" fill="#FFDAB9"/>
+              <!-- Hair -->
+              <path d="M 35 35 Q 38 15 60 15 Q 82 15 85 35" fill="#8B4513"/>
+              <!-- Eyes -->
+              <circle cx="52" cy="38" r="4" fill="#333"/>
+              <circle cx="68" cy="38" r="4" fill="#333"/>
+              <circle cx="53" cy="37" r="1.5" fill="#fff"/>
+              <circle cx="69" cy="37" r="1.5" fill="#fff"/>
+              <!-- Sad mouth -->
+              <path d="M 52 50 Q 60 44 68 50" stroke="#333" stroke-width="2" fill="none"/>
+              <!-- Arms -->
+              <rect x="25" y="70" width="15" height="8" rx="4" fill="#FFDAB9"/>
+              <rect x="80" y="70" width="15" height="8" rx="4" fill="#FFDAB9"/>
+              <!-- Legs -->
+              <rect x="45" y="100" width="10" height="15" rx="3" fill="#2c3e50"/>
+              <rect x="65" y="100" width="10" height="15" rx="3" fill="#2c3e50"/>
+              <!-- Book -->
+              <rect x="30" y="75" width="12" height="16" rx="2" fill="#e74c3c" stroke="#c0392b" stroke-width="1"/>
+              <text x="36" y="86" text-anchor="middle" font-size="6" fill="#fff" font-weight="bold">NO</text>
+            </svg>
+            <div class="char-name">Guillermo</div>
+            <div class="char-role">⭐ Protagonista</div>
+          </div>
+
+          <!-- Father -->
+          <div class="character-card" onclick="showCharDetail('padre')">
+            <svg width="120" height="120" viewBox="0 0 120 120">
+              <!-- Body -->
+              <rect x="38" y="60" width="44" height="45" rx="5" fill="#2c3e50"/>
+              <!-- Head -->
+              <circle cx="60" cy="35" r="22" fill="#FFDAB9"/>
+              <!-- Hair (balding) -->
+              <path d="M 38 30 Q 40 15 60 12 Q 80 15 82 30" fill="#555"/>
+              <rect x="45" y="12" width="30" height="8" rx="4" fill="#ddd"/>
+              <!-- Glasses -->
+              <circle cx="52" cy="33" r="7" fill="none" stroke="#333" stroke-width="1.5"/>
+              <circle cx="68" cy="33" r="7" fill="none" stroke="#333" stroke-width="1.5"/>
+              <line x1="59" y1="33" x2="61" y2="33" stroke="#333" stroke-width="1.5"/>
+              <!-- Eyes -->
+              <circle cx="52" cy="33" r="2.5" fill="#333"/>
+              <circle cx="68" cy="33" r="2.5" fill="#333"/>
+              <!-- Smile -->
+              <path d="M 52 44 Q 60 50 68 44" stroke="#333" stroke-width="2" fill="none"/>
+              <!-- Mustache -->
+              <path d="M 50 42 Q 55 39 60 42 Q 65 39 70 42" stroke="#555" stroke-width="1.5" fill="none"/>
+              <!-- Book in hand -->
+              <rect x="82" y="65" width="14" height="20" rx="2" fill="#3498db" stroke="#2980b9" stroke-width="1"/>
+              <line x1="86" y1="70" x2="93" y2="70" stroke="#fff" stroke-width="0.5"/>
+              <line x1="86" y1="74" x2="93" y2="74" stroke="#fff" stroke-width="0.5"/>
+              <line x1="86" y1="78" x2="93" y2="78" stroke="#fff" stroke-width="0.5"/>
+            </svg>
+            <div class="char-name">Señor Caldara</div>
+            <div class="char-role">👨 Papá lector</div>
+          </div>
+
+          <!-- Mother -->
+          <div class="character-card" onclick="showCharDetail('madre')">
+            <svg width="120" height="120" viewBox="0 0 120 120">
+              <!-- Body -->
+              <rect x="38" y="60" width="44" height="45" rx="5" fill="#e74c3c"/>
+              <!-- Head -->
+              <circle cx="60" cy="35" r="22" fill="#FFDAB9"/>
+              <!-- Hair -->
+              <path d="M 35 35 Q 35 10 60 10 Q 85 10 85 35 L 88 55 Q 80 50 60 50 Q 40 50 32 55 Z" fill="#5D4037"/>
+              <!-- Eyes -->
+              <circle cx="52" cy="33" r="3.5" fill="#333"/>
+              <circle cx="68" cy="33" r="3.5" fill="#333"/>
+              <circle cx="53" cy="32" r="1.2" fill="#fff"/>
+              <circle cx="69" cy="32" r="1.2" fill="#fff"/>
+              <!-- Eyelashes -->
+              <line x1="48" y1="30" x2="46" y2="27" stroke="#333" stroke-width="1"/>
+              <line x1="56" y1="30" x2="58" y2="27" stroke="#333" stroke-width="1"/>
+              <line x1="64" y1="30" x2="62" y2="27" stroke="#333" stroke-width="1"/>
+              <line x1="72" y1="30" x2="74" y2="27" stroke="#333" stroke-width="1"/>
+              <!-- Smile -->
+              <path d="M 52 44 Q 60 50 68 44" stroke="#333" stroke-width="2" fill="none"/>
+              <!-- Book in hand -->
+              <rect x="22" y="65" width="14" height="20" rx="2" fill="#9b59b6" stroke="#8e44ad" stroke-width="1"/>
+              <line x1="26" y1="70" x2="33" y2="70" stroke="#fff" stroke-width="0.5"/>
+              <line x1="26" y1="74" x2="33" y2="74" stroke="#fff" stroke-width="0.5"/>
+              <line x1="26" y1="78" x2="33" y2="78" stroke="#fff" stroke-width="0.5"/>
+            </svg>
+            <div class="char-name">Señora Caldara</div>
+            <div class="char-role">👩 Mamá lectora</div>
+          </div>
+
+          <!-- Brother -->
+          <div class="character-card" onclick="showCharDetail('hermano')">
+            <svg width="120" height="120" viewBox="0 0 120 120">
+              <!-- Body -->
+              <rect x="38" y="55" width="44" height="50" rx="5" fill="#27ae60"/>
+              <!-- Head -->
+              <circle cx="60" cy="30" r="22" fill="#FFDAB9"/>
+              <!-- Hair (spiky) -->
+              <path d="M 38 28 L 42 10 L 50 22 L 55 5 L 62 20 L 68 3 L 75 22 L 82 10 L 82 28" fill="#333"/>
+              <!-- Eyes -->
+              <circle cx="52" cy="28" r="3.5" fill="#333"/>
+              <circle cx="68" cy="28" r="3.5" fill="#333"/>
+              <circle cx="53" cy="27" r="1.2" fill="#fff"/>
+              <circle cx="69" cy="27" r="1.2" fill="#fff"/>
+              <!-- Big smile -->
+              <path d="M 50 40 Q 60 52 70 40" stroke="#333" stroke-width="2" fill="#fff"/>
+              <path d="M 53 42 Q 60 48 67 42" fill="#e74c3c"/>
+              <!-- Book -->
+              <rect x="82" y="60" width="16" height="22" rx="2" fill="#f39c12" stroke="#e67e22" stroke-width="1"/>
+              <line x1="86" y1="66" x2="95" y2="66" stroke="#fff" stroke-width="0.5"/>
+              <line x1="86" y1="70" x2="95" y2="70" stroke="#fff" stroke-width="0.5"/>
+              <line x1="86" y1="74" x2="95" y2="74" stroke="#fff" stroke-width="0.5"/>
+              <line x1="86" y1="78" x2="95" y2="78" stroke="#fff" stroke-width="0.5"/>
+            </svg>
+            <div class="char-name">Hermano Mayor</div>
+            <div class="char-role">📚 Lector apasionado</div>
+          </div>
+        </div>
+
+        <!-- Character details (hidden by default) -->
+        <div id="charDetail" style="display:none; margin-top:15px; padding:15px; background:#f8f4ff; border-radius:12px;">
+          <p id="charDetailText" style="font-size:1.1em; line-height:1.7; color:#444;"></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==================== SECTION: CHAPTER 1 ==================== -->
+    <div class="section" id="sec-capitulo1">
+      <div class="section-banner">
+        📖 Capítulo 1: Guillermo y su familia de lectores
+      </div>
+
+      <div class="card card-red">
+        <h2>🏠 Una familia de lectores</h2>
+        <div class="illustration">
+          <svg width="300" height="200" viewBox="0 0 300 200">
+            <!-- House -->
+            <rect x="50" y="80" width="200" height="110" rx="5" fill="#DEB887" stroke="#8B4513" stroke-width="3"/>
+            <!-- Roof -->
+            <polygon points="40,80 150,20 260,80" fill="#e74c3c" stroke="#c0392b" stroke-width="3"/>
+            <!-- Chimney -->
+            <rect x="200" y="30" width="20" height="40" fill="#8B4513"/>
+            <!-- Smoke -->
+            <circle cx="210" cy="20" r="6" fill="#ccc" opacity="0.6">
+              <animate attributeName="cy" values="20;5;20" dur="3s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.6;0.1;0.6" dur="3s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="215" cy="15" r="4" fill="#ccc" opacity="0.4">
+              <animate attributeName="cy" values="15;0;15" dur="2.5s" repeatCount="indefinite"/>
+            </circle>
+            <!-- Door -->
+            <rect x="130" y="130" width="40" height="60" rx="3" fill="#8B4513" stroke="#654321" stroke-width="2"/>
+            <circle cx="162" cy="162" r="3" fill="#FFD700"/>
+            <!-- Windows -->
+            <rect x="65" y="100" width="40" height="35" rx="3" fill="#87CEEB" stroke="#8B4513" stroke-width="2"/>
+            <line x1="85" y1="100" x2="85" y2="135" stroke="#8B4513" stroke-width="1.5"/>
+            <line x1="65" y1="117" x2="105" y2="117" stroke="#8B4513" stroke-width="1.5"/>
+            <rect x="195" y="100" width="40" height="35" rx="3" fill="#87CEEB" stroke="#8B4513" stroke-width="2"/>
+            <line x1="215" y1="100" x2="215" y2="135" stroke="#8B4513" stroke-width="1.5"/>
+            <line x1="195" y1="117" x2="235" y2="117" stroke="#8B4513" stroke-width="1.5"/>
+            <!-- Books flying out -->
+            <rect x="100" y="55" width="15" height="10" rx="2" fill="#3498db" transform="rotate(-15 107 60)">
+              <animateTransform attributeName="transform" type="translate" values="0,0; -5,-10; 0,0" dur="2s" repeatCount="indefinite"/>
+            </rect>
+            <rect x="180" y="50" width="12" height="9" rx="2" fill="#e74c3c" transform="rotate(10 186 54)">
+              <animateTransform attributeName="transform" type="translate" values="0,0; 5,-8; 0,0" dur="2.5s" repeatCount="indefinite"/>
+            </rect>
+            <rect x="140" y="45" width="14" height="8" rx="2" fill="#2ecc71" transform="rotate(-5 147 49)">
+              <animateTransform attributeName="transform" type="translate" values="0,0; 0,-12; 0,0" dur="1.8s" repeatCount="indefinite"/>
+            </rect>
+            <!-- Ground -->
+            <rect x="0" y="190" width="300" height="10" fill="#27ae60"/>
+            <!-- Flowers -->
+            <circle cx="30" cy="185" r="5" fill="#FF69B4"/>
+            <circle cx="270" cy="185" r="5" fill="#FF6347"/>
+            <circle cx="280" cy="182" r="4" fill="#FFD700"/>
+          </svg>
+        </div>
+        <p>
+          Guillermo es un niño que pertenece a la familia <strong>Caldara</strong>. Y los Caldara son <strong>una familia de grandes lectores</strong>. 📚
+        </p>
+        <p>
+          El <strong>padre</strong> se toma el café de la mañana leyendo un libro. ☕📖<br>
+          La <strong>madre</strong> aprovecha para leer un poco mientras se lava los dientes antes de acostarse, moviendo el cepillo de arriba abajo y de abajo arriba. 🪥📖<br>
+          El <strong>hermano mayor</strong> devora los libros sin parar, siempre tiene uno entre manos. 📚
+        </p>
+        <p>
+          Pero Guillermo... <strong>¡a él no le gusta nada leer!</strong> 😞<br>
+          Le cuesta, se encalla y se aburre terriblemente. Para él, leer es una <em>tortura</em>.
+        </p>
+
+        <div class="fun-fact">
+          <span class="fact-icon">💡</span>
+          <span>¿Sabías que Guillermo también intentó leer los cómics de Tintín? Pero ni siquiera eso le resultaba divertido.</span>
+        </div>
+      </div>
+
+      <div class="card card-blue">
+        <h2>😫 La tortura semanal: la biblioteca</h2>
+        <div class="illustration">
+          <svg width="280" height="180" viewBox="0 0 280 180">
+            <!-- Library shelves -->
+            <rect x="20" y="30" width="60" height="140" rx="3" fill="#8B4513"/>
+            <rect x="200" y="30" width="60" height="140" rx="3" fill="#8B4513"/>
+            <!-- Books on left shelf -->
+            <rect x="25" y="40" width="12" height="25" rx="1" fill="#e74c3c"/>
+            <rect x="40" y="45" width="10" height="20" rx="1" fill="#3498db"/>
+            <rect x="53" y="38" width="14" height="27" rx="1" fill="#2ecc71"/>
+            <rect x="25" y="75" width="13" height="22" rx="1" fill="#f39c12"/>
+            <rect x="40" y="70" width="11" height="27" rx="1" fill="#9b59b6"/>
+            <rect x="54" y="78" width="12" height="19" rx="1" fill="#1abc9c"/>
+            <rect x="25" y="108" width="14" height="24" rx="1" fill="#e67e22"/>
+            <rect x="42" y="110" width="10" height="22" rx="1" fill="#3498db"/>
+            <rect x="200" y="42" width="12" height="23" rx="1" fill="#2ecc71"/>
+            <rect x="215" y="38" width="14" height="27" rx="1" fill="#e74c3c"/>
+            <rect x="232" y="45" width="10" height="20" rx="1" fill="#f39c12"/>
+            <rect x="200" y="80" width="13" height="20" rx="1" fill="#9b59b6"/>
+            <rect x="215" y="75" width="11" height="25" rx="1" fill="#1abc9c"/>
+            <rect x="232" y="82" width="12" height="18" rx="1" fill="#3498db"/>
+            <rect x="200" y="115" width="14" height="22" rx="1" fill="#e74c3c"/>
+            <rect x="218" y="110" width="10" height="27" rx="1" fill="#2ecc71"/>
+            <!-- Guillermo in the middle (bored) -->
+            <circle cx="140" cy="70" r="18" fill="#FFDAB9"/>
+            <path d="M 122 65 Q 125 48 140 48 Q 155 48 158 65" fill="#8B4513"/>
+            <circle cx="133" cy="68" r="3" fill="#333"/>
+            <circle cx="147" cy="68" r="3" fill="#333"/>
+            <circle cx="134" cy="67" r="1" fill="#fff"/>
+            <circle cx="148" cy="67" r="1" fill="#fff"/>
+            <!-- Bored mouth -->
+            <line x1="133" y1="80" x2="147" y2="80" stroke="#333" stroke-width="2"/>
+            <!-- Zzz -->
+            <text x="160" y="55" font-family="Baloo 2, cursive" font-size="14" fill="#667eea" font-weight="bold">Z</text>
+            <text x="168" y="45" font-family="Baloo 2, cursive" font-size="11" fill="#667eea" font-weight="bold">z</text>
+            <text x="174" y="37" font-family="Baloo 2, cursive" font-size="8" fill="#667eea" font-weight="bold">z</text>
+            <!-- Body -->
+            <rect x="125" y="88" width="30" height="35" rx="5" fill="#e74c3c"/>
+            <!-- Arms -->
+            <rect x="110" y="93" width="15" height="7" rx="3" fill="#FFDAB9"/>
+            <rect x="155" y="93" width="15" height="7" rx="3" fill="#FFDAB9"/>
+            <!-- Legs -->
+            <rect x="130" y="120" width="8" height="20" rx="3" fill="#34495e"/>
+            <rect x="142" y="120" width="8" height="20" rx="3" fill="#34495e"/>
+            <!-- Sad expression -->
+            <line x1="125" y1="58" x2="135" y2="62" stroke="#333" stroke-width="1.5"/>
+            <line x1="155" y1="58" x2="145" y2="62" stroke="#333" stroke-width="1.5"/>
+            <!-- Ground -->
+            <rect x="0" y="170" width="280" height="10" fill="#DEB887"/>
+          </svg>
+        </div>
+        <p>
+          Cada semana en el colegio, Guillermo es obligado a ir a la <strong>biblioteca</strong> a elegir un libro, leerlo y escribir un resumen para clase. 📝
+        </p>
+        <p>
+          Guillermo va, hojea los libros... pero <strong>siempre vuelve sin encontrar nada que le guste</strong>. Se encalla, se aburre y no logra encontrar <em>su</em> libro.
+        </p>
+        <p>
+          Todo el mundo habla del <strong>placer de leer</strong>, pero Guillermo no lo entiende. Se siente como el <strong>"patito feo"</strong> en una familia de cisnes. 🦆
+        </p>
+
+        <div class="fun-fact">
+          <span class="fact-icon">🤔</span>
+          <span>¿Alguna vez sentiste que no encajás con tu familia en algo? Guillermo siente exactamente eso con la lectura.</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==================== SECTION: CHAPTER 2 ==================== -->
+    <div class="section" id="sec-capitulo2">
+      <div class="section-banner">
+        📖 Capítulo 2: El descubrimiento mágico ✨
+      </div>
+
+      <div class="card card-green">
+        <h2>🔍 El libro escondido</h2>
+        <div class="illustration">
+          <svg width="300" height="200" viewBox="0 0 300 200">
+            <!-- Bookshelf -->
+            <rect x="30" y="20" width="240" height="160" rx="5" fill="#8B4513" stroke="#654321" stroke-width="3"/>
+            <!-- Shelf -->
+            <rect x="30" y="100" width="240" height="8" fill="#A0522D"/>
+            <!-- Big books on top shelf -->
+            <rect x="40" y="30" width="25" height="68" rx="2" fill="#e74c3c"/>
+            <rect x="68" y="25" width="20" height="73" rx="2" fill="#3498db"/>
+            <rect x="91" y="35" width="30" height="63" rx="2" fill="#2ecc71"/>
+            <rect x="124" y="28" width="22" height="70" rx="2" fill="#f39c12"/>
+            <rect x="149" y="32" width="28" height="66" rx="2" fill="#9b59b6"/>
+            <rect x="180" y="26" width="24" height="72" rx="2" fill="#1abc9c"/>
+            <rect x="207" y="30" width="26" height="68" rx="2" fill="#e67e22"/>
+            <rect x="236" y="34" width="20" height="64" rx="2" fill="#34495e"/>
+            <!-- Small book peeking out (the magic one) -->
+            <rect x="155" y="110" width="18" height="55" rx="2" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
+            <text x="164" y="140" text-anchor="middle" font-family="Baloo 2, cursive" font-size="5" fill="#8B4513" font-weight="bold">Zippoli</text>
+            <!-- Magic glow around small book -->
+            <circle cx="164" cy="138" r="25" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.5">
+              <animate attributeName="r" values="25;30;25" dur="2s" repeatCount="indefinite"/>
+              <animate attributeName="opacity" values="0.5;0.2;0.5" dur="2s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="164" cy="138" r="35" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.3">
+              <animate attributeName="r" values="35;42;35" dur="2.5s" repeatCount="indefinite"/>
+            </circle>
+            <!-- Sparkles -->
+            <circle cx="148" cy="120" r="2" fill="#FFD700">
+              <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="180" cy="115" r="2" fill="#FF69B4">
+              <animate attributeName="opacity" values="0;1;0" dur="1.3s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="155" cy="155" r="1.5" fill="#00CED1">
+              <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="175" cy="150" r="2" fill="#FFD700">
+              <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
+            </circle>
+            <!-- Hand reaching -->
+            <path d="M 250 140 Q 220 135 190 140 Q 180 142 175 145" stroke="#FFDAB9" stroke-width="10" fill="none" stroke-linecap="round"/>
+            <circle cx="172" cy="147" r="8" fill="#FFDAB9"/>
+            <!-- Fingers -->
+            <rect x="165" y="140" width="8" height="12" rx="4" fill="#FFDAB9"/>
+            <rect x="170" y="138" width="8" height="12" rx="4" fill="#FFDAB9"/>
+            <!-- Guillermo's face (surprised) -->
+            <circle cx="270" cy="50" r="20" fill="#FFDAB9"/>
+            <path d="M 250 45 Q 253 28 270 28 Q 287 28 290 45" fill="#8B4513"/>
+            <!-- Surprised eyes -->
+            <circle cx="263" cy="48" r="5" fill="#fff" stroke="#333" stroke-width="1"/>
+            <circle cx="277" cy="48" r="5" fill="#fff" stroke="#333" stroke-width="1"/>
+            <circle cx="263" cy="48" r="2.5" fill="#333"/>
+            <circle cx="277" cy="48" r="2.5" fill="#333"/>
+            <!-- Surprised mouth -->
+            <ellipse cx="270" cy="60" rx="5" ry="6" fill="#333"/>
+            <!-- Ground -->
+            <rect x="0" y="180" width="300" height="20" fill="#DEB887"/>
+          </svg>
+        </div>
+        <p>
+          Un día, mientras está en la biblioteca del colegio, Guillermo descubre algo increíble: un <strong>pequeñísimo libro escondido</strong> detrás de unos libros mucho más gruesos. 🤩
+        </p>
+        <p>
+          El título del libro es <strong>"La tribu de los Zippoli"</strong> y, debajo, en un tipo de letra más pequeño, aparece el nombre del autor: <strong>Jakob Klein</strong>.
+        </p>
+        <p>
+          En la cubierta hay un dibujo de un grupo de personajes vestidos con <strong>falditas de plumas</strong> y descalzos, que parecen bailar una <strong>danza ritual</strong>. 💃🕺
+        </p>
+        <p>
+          Guillermo coge el libro y, al abrirlo, <strong>escucha una voz</strong> que le dice:
+        </p>
+        <div style="background:#f0fff0;padding:15px;border-radius:12px;border-left:5px solid #27ae60;margin:10px 0;font-style:italic;font-size:1.15em;">
+          <em>"¡Bienvenido a la tribu de los Zippoli, Guillermo! Has tardado mucho en descubrirnos, pero nosotros no nos enfadamos. Lo cierto es que los Zippoli no nos enfadamos nunca..."</em>
+        </div>
+        <p>
+          Guillermo queda <strong>totalmente atónito</strong>. Se pregunta quién se esconde detrás del libro y de dónde sale esa voz mágica. Y lo más raro: <strong>¡el libro no está catalogado!</strong> 😲
+        </p>
+
+        <div class="fun-fact">
+          <span class="fact-icon">🤯</span>
+          <span>¡Imaginate encontrar un libro que te habla! ¿Qué harías vos en ese momento?</span>
+        </div>
+      </div>
+
+      <div class="card card-purple">
+        <h2>🪄 La magia del libro</h2>
+        <div class="illustration">
+          <svg width="280" height="180" viewBox="0 0 280 180">
+            <!-- Magic book in center -->
+            <rect x="100" y="60" width="80" height="70" rx="5" fill="#8B4513" stroke="#654321" stroke-width="2"/>
+            <rect x="105" y="65" width="70" height="60" rx="3" fill="#FFF8DC"/>
+            <text x="140" y="90" text-anchor="middle" font-family="Baloo 2, cursive" font-size="8" fill="#8B4513" font-weight="bold">La tribu</text>
+            <text x="140" y="102" text-anchor="middle" font-family="Baloo 2, cursive" font-size="8" fill="#8B4513" font-weight="bold">de los</text>
+            <text x="140" y="114" text-anchor="middle" font-family="Baloo 2, cursive" font-size="8" fill="#8B4513" font-weight="bold">Zippoli</text>
+            <!-- Magic rays -->
+            <line x1="140" y1="60" x2="140" y2="15" stroke="#FFD700" stroke-width="2" opacity="0.6">
+              <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.5s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="60" x2="55" y2="25" stroke="#FFD700" stroke-width="2" opacity="0.6">
+              <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.8s" repeatCount="indefinite"/>
+            </line>
+            <line x1="180" y1="60" x2="225" y2="25" stroke="#FFD700" stroke-width="2" opacity="0.6">
+              <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.3s" repeatCount="indefinite"/>
+            </line>
+            <line x1="100" y1="130" x2="55" y2="155" stroke="#FFD700" stroke-width="2" opacity="0.6">
+              <animate attributeName="opacity" values="0.6;0.1;0.6" dur="2s" repeatCount="indefinite"/>
+            </line>
+            <line x1="180" y1="130" x2="225" y2="155" stroke="#FFD700" stroke-width="2" opacity="0.6">
+              <animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.6s" repeatCount="indefinite"/>
+            </line>
+            <!-- Stars -->
+            <polygon points="140,5 143,12 150,12 145,17 147,24 140,20 133,24 135,17 130,12 137,12" fill="#FFD700">
+              <animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/>
+            </polygon>
+            <!-- Different stories coming out -->
+            <rect x="20" y="30" width="30" height="20" rx="3" fill="#e74c3c" opacity="0.8">
+              <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2s" repeatCount="indefinite"/>
+            </rect>
+            <text x="35" y="43" text-anchor="middle" font-size="6" fill="#fff">Aventura</text>
+            <rect x="230" y="30" width="30" height="20" rx="3" fill="#3498db" opacity="0.8">
+              <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2.5s" repeatCount="indefinite"/>
+            </rect>
+            <text x="245" y="43" text-anchor="middle" font-size="6" fill="#fff">Misterio</text>
+            <rect x="20" y="130" width="30" height="20" rx="3" fill="#2ecc71" opacity="0.8">
+              <animate attributeName="opacity" values="0.8;0.3;0.8" dur="1.7s" repeatCount="indefinite"/>
+            </rect>
+            <text x="35" y="143" text-anchor="middle" font-size="6" fill="#fff">Fantasía</text>
+            <rect x="230" y="130" width="30" height="20" rx="3" fill="#f39c12" opacity="0.8">
+              <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2.2s" repeatCount="indefinite"/>
+            </rect>
+            <text x="245" y="143" text-anchor="middle" font-size="6" fill="#fff">Comedia</text>
+            <!-- Ground -->
+            <rect x="0" y="170" width="280" height="10" fill="#DEB887"/>
+          </svg>
+        </div>
+        <p>
+          A partir de ese momento, Guillermo descubre algo <strong>extraordinario</strong>: <strong>cada miembro de su familia, cuando lee "La tribu de los Zippoli", lee una historia completamente distinta</strong>. 🤯
+        </p>
+        <p>
+          El padre lee una historia, la madre lee otra, el hermano mayor lee una tercera, y Guillermo lee la suya propia. ¡El libro es <strong>mágico y personal</strong>! Se adapta a cada lector y le ofrece una experiencia única. ✨
+        </p>
+        <p>
+          Guillermo empieza a sentir <strong>curiosidad</strong> por saber qué otras historias esconde ese pequeño y misterioso libro. Por primera vez, la lectura no es una obligación, sino una <strong>aventura</strong>. 🗺️
+        </p>
+      </div>
+    </div>
+
+    <!-- ==================== SECTION: CHAPTER 3 ==================== -->
+    <div class="section" id="sec-capitulo3">
+      <div class="section-banner">
+        📖 Capítulo 3: La transformación de Guillermo 🦋
+      </div>
+
+      <div class="card card-yellow">
+        <h2>🦋 El gran cambio</h2>
+        <div class="illustration">
+          <svg width="280" height="200" viewBox="0 0 280 200">
+            <!-- Butterfly -->
+            <ellipse cx="140" cy="100" rx="5" ry="20" fill="#333"/>
+            <!-- Left wing -->
+            <path d="M 135 80 Q 80 30 50 70 Q 40 100 80 115 Q 100 120 135 110" fill="#FF69B4" opacity="0.8">
+              <animate attributeName="d" values="M 135 80 Q 80 30 50 70 Q 40 100 80 115 Q 100 120 135 110;M 135 80 Q 75 25 45 65 Q 35 95 75 110 Q 95 115 135 108;M 135 80 Q 80 30 50 70 Q 40 100 80 115 Q 100 120 135 110" dur="2s" repeatCount="indefinite"/>
+            </path>
+            <!-- Right wing -->
+            <path d="M 145 80 Q 200 30 230 70 Q 240 100 200 115 Q 180 120 145 110" fill="#9b59b6" opacity="0.8">
+              <animate attributeName="d" values="M 145 80 Q 200 30 230 70 Q 240 100 200 115 Q 180 120 145 110;M 145 80 Q 205 25 235 65 Q 245 95 205 110 Q 185 115 145 108;M 145 80 Q 200 30 230 70 Q 240 100 200 115 Q 180 120 145 110" dur="2s" repeatCount="indefinite"/>
+            </path>
+            <!-- Wing patterns -->
+            <circle cx="90" cy="85" r="8" fill="#FFD700" opacity="0.6"/>
+            <circle cx="190" cy="85" r="8" fill="#FFD700" opacity="0.6"/>
+            <circle cx="70" cy="100" r="5" fill="#3498db" opacity="0.5"/>
+            <circle cx="210" cy="100" r="5" fill="#3498db" opacity="0.5"/>
+            <!-- Antennae -->
+            <path d="M 137 80 Q 130 55 120 50" stroke="#333" stroke-width="2" fill="none"/>
+            <circle cx="118" cy="48" r="3" fill="#FF69B4"/>
+            <path d="M 143 80 Q 150 55 160 50" stroke="#333" stroke-width="2" fill="none"/>
+            <circle cx="162" cy="48" r="3" fill="#9b59b6"/>
+            <!-- Happy Guillermo below -->
+            <circle cx="140" cy="170" r="15" fill="#FFDAB9"/>
+            <path d="M 125 165 Q 128 150 140 150 Q 152 150 155 165" fill="#8B4513"/>
+            <circle cx="134" cy="168" r="2.5" fill="#333"/>
+            <circle cx="146" cy="168" r="2.5" fill="#333"/>
+            <circle cx="135" cy="167" r="1" fill="#fff"/>
+            <circle cx="147" cy="167" r="1" fill="#fff"/>
+            <!-- Big smile -->
+            <path d="M 132 176 Q 140 185 148 176" stroke="#333" stroke-width="2" fill="#fff"/>
+            <!-- Body -->
+            <rect x="128" y="185" width="24" height="10" rx="3" fill="#2ecc71"/>
+            <!-- Ground -->
+            <rect x="0" y="195" width="280" height="5" fill="#27ae60"/>
+            <!-- Flowers -->
+            <circle cx="40" cy="188" r="4" fill="#FF69B4"/>
+            <circle cx="240" cy="188" r="4" fill="#FF6347"/>
+            <circle cx="250" cy="186" r="3" fill="#FFD700"/>
+            <!-- Sparkles around butterfly -->
+            <circle cx="60" cy="50" r="3" fill="#FFD700">
+              <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="220" cy="45" r="2" fill="#FF69B4">
+              <animate attributeName="opacity" values="0;1;0" dur="1.3s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="100" cy="40" r="2" fill="#00CED1">
+              <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="180" cy="38" r="3" fill="#FFD700">
+              <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
+            </circle>
+          </svg>
+        </div>
+        <p>
+          Gracias al descubrimiento de "La tribu de los Zippoli", Guillermo experimenta una <strong>transformación profunda</strong>. 🌟
+        </p>
+        <p>
+          Deja de ver la lectura como una tortura y empieza a <strong>disfrutarla</strong>. El libro mágico le abre las puertas de un mundo nuevo, y por primera vez siente <strong>verdadera curiosidad</strong> por saber qué otras historias esconde ese pequeño y misterioso libro.
+        </p>
+        <p>
+          Al acabar la historia, Guillermo <strong>manifiesta su agradecimiento a los Zippoli de la mejor manera posible</strong>: eligiendo <strong>otro libro</strong> para continuar con su nueva afición lectora. 📚😊
+        </p>
+        <p>
+          Ya no se siente el <strong>"patito feo"</strong> de la familia. Encontró su propio camino en el mundo de los libros. 🦋
+        </p>
+      </div>
+
+      <div class="card card-orange">
+        <h2>💬 La gran lección</h2>
+        <div style="background:linear-gradient(135deg,#fff3e0,#ffe0b2);padding:20px;border-radius:15px;border-left:6px solid #e67e22;margin:10px 0;">
+          <p style="font-size:1.2em;font-style:italic;text-align:center;color:#333;">
+            "Guillermo entiende ahora que la lectura es un <strong>encuentro personal</strong> con quien escribe y con lo escrito, y no una penosa e inútil obligación."
+          </p>
+        </div>
+        <p>
+          Esta es la gran enseñanza del libro: <strong>no existe una forma correcta de leer</strong>. Cada persona tiene su propia relación con los libros, y lo importante es encontrar <em>tu</em> libro, ese que te hable a vos.
+        </p>
+        <p>
+          Como dice el propio libro al principio: <strong>"A lo mejor lo que pasa es que no ha encontrado todavía su libro"</strong>. Y esa es la esperanza que todos podemos transmitir: ¡si aún no encontraste tu libro, seguí buscando! 🌈
+        </p>
+
+        <div class="fun-fact">
+          <span class="fact-icon">🌈</span>
+          <span>¡Guillermo empezó leyendo solo cómics de Tintín y terminó descubriendo que los libros pueden ser mágicos! A veces los cambios empiezan de formas muy pequeñas.</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==================== SECTION: THEMAS ==================== -->
+    <div class="section" id="sec-temas">
+      <div class="section-banner">
+        💡 Temas principales del libro - ¡Hacé clic en cada tema para saber más!
+      </div>
+
+      <div class="card card-purple">
+        <h2>🎯 Temas del libro</h2>
+        <div class="theme-tags">
+          <span class="theme-tag" onclick="showTheme(0)">📖 Descubrir la lectura</span>
+          <span class="theme-tag" onclick="showTheme(1)">🧑‍🤝‍🧑 Individualidad</span>
+          <span class="theme-tag" onclick="showTheme(2)">👨‍👩‍👦‍👦 Familia</span>
+          <span class="theme-tag" onclick="showTheme(3)">📚 Biblioteca</span>
+          <span class="theme-tag" onclick="showTheme(4)">🌟 Identidad</span>
+          <span class="theme-tag" onclick="showTheme(5)">😊 Placer vs Obligación</span>
+        </div>
+
+        <div id="themeDetail" style="margin-top:15px;">
+          <div class="fun-fact" id="theme0" style="display:none;">
+            <span class="fact-icon">📖</span>
+            <div>
+              <strong>El descubrimiento de la lectura:</strong> La historia muestra cómo un niño puede pasar de <em>odiar</em> la lectura a <em>disfrutarla</em> cuando encuentra el libro adecuado. Guillermo nos demuestra que nunca es tarde para descubrir algo nuevo.
+            </div>
+          </div>
+          <div class="fun-fact" id="theme1" style="display:none;">
+            <span class="fact-icon">🧑‍🤝‍🧑</span>
+            <div>
+              <strong>La individualidad en la lectura:</strong> Cada lector tiene su propia relación con los libros. No existe una forma correcta de leer. Lo importante es encontrar el libro que nos hable a nosotros, con nuestras propias emociones e imaginación.
+            </div>
+          </div>
+          <div class="fun-fact" id="theme2" style="display:none;">
+            <span class="fact-icon">👨‍👩‍👦‍👦</span>
+            <div>
+              <strong>La familia y la lectura:</strong> La familia Caldara representa la importancia del entorno familiar en los hábitos de lectura. Pero también nos enseña que <em>no todos los miembros tienen que ser iguales</em> — está bien ser diferente.
+            </div>
+          </div>
+          <div class="fun-fact" id="theme3" style="display:none;">
+            <span class="fact-icon">📚</span>
+            <div>
+              <strong>La magia de la biblioteca:</strong> La biblioteca escolar es presentada como un lugar de <em>descubrimiento y posibilidad</em>, donde se pueden encontrar tesoros inesperados. ¡Las mejores aventuras empiezan abriendo una puerta nueva!
+            </div>
+          </div>
+          <div class="fun-fact" id="theme4" style="display:none;">
+            <span class="fact-icon">🌟</span>
+            <div>
+              <strong>La identidad y la pertenencia:</strong> Guillermo, a través de los Zippoli, encuentra un lugar donde pertenece. La tribu de los Zippoli lo acepta sin juzgarlo. Todos merecemos sentirnos parte de algo.
+            </div>
+          </div>
+          <div class="fun-fact" id="theme5" style="display:none;">
+            <span class="fact-icon">😊</span>
+            <div>
+              <strong>El placer vs. la obligación:</strong> El libro contrasta la lectura como <em>placer personal</em> con la lectura como <em>obligación escolar</em>, mostrando que la verdadera lectura nace de la curiosidad y no de la imposición.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Summary card -->
+      <div class="card card-green">
+        <h2>📝 Conclusión</h2>
+        <p>
+          <strong>"La tribu de los Zippoli"</strong> es una historia <em>tierna, divertida y profundamente significativa</em> que habla sobre la lectura desde una perspectiva muy personal.
+        </p>
+        <p>
+          David Nel·lo logra transmitir un mensaje poderoso: <strong>cada persona tiene su propio libro</strong>, y encontrarlo puede cambiar la vida. El libro es una invitación a seguir buscando, a no rendirse, y a descubrir que la lectura puede ser una de las mayores aventuras de la vida. 🌟
+        </p>
+        <p>
+          Es un libro ideal para <strong>niños y jóvenes lectores</strong> que aún no han encontrado su pasión por los libros, y también para los que ya son lectores, para que recuerden por qué les gusta leer.
+        </p>
+        <div style="text-align:center;margin-top:15px;">
+          <span style="font-size:2.5em;">📚✨📖✨📚</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ==================== SECTION: QUIZ ==================== -->
+    <div class="section" id="sec-quiz">
+      <div class="section-banner">
+        🎮 ¡Hora de jugar! Respondé estas preguntas y comprobá cuánto aprendiste
+      </div>
+
+      <div class="card card-red">
+        <h2>🎯 Quiz: ¿Cuánto aprendiste?</h2>
+        <p style="font-size:1.1em;color:#666;">Respondé las 5 preguntas. ¡Vamos a ver cuántas acertás! 🌟</p>
+
+        <!-- Question 1 -->
+        <div class="quiz-question" id="q1">
+          <h3>1️⃣ ¿Cómo se llama el protagonista de la historia?</h3>
+          <button class="quiz-option" onclick="checkAnswer(1, this, false)">a) Pedro</button>
+          <button class="quiz-option" onclick="checkAnswer(1, this, true)">b) Guillermo</button>
+          <button class="quiz-option" onclick="checkAnswer(1, this, false)">c) Jakob</button>
+          <button class="quiz-option" onclick="checkAnswer(1, this, false)">d) Tintín</button>
+          <div class="quiz-result" id="result1"></div>
+        </div>
+
+        <!-- Question 2 -->
+        <div class="quiz-question" id="q2">
+          <h3>2️⃣ ¿Qué siente Guillermo por la lectura al principio?</h3>
+          <button class="quiz-option" onclick="checkAnswer(2, this, false)">a) Le encanta</button>
+          <button class="quiz-option" onclick="checkAnswer(2, this, false)">b) Le da igual</button>
+          <button class="quiz-option" onclick="checkAnswer(2, this, true)">c) Le da miedo y aburrimiento</button>
+          <button class="quiz-option" onclick="checkAnswer(2, this, false)">d) La odia pero la disfruta</button>
+          <div class="quiz-result" id="result2"></div>
+        </div>
+
+        <!-- Question 3 -->
+        <div class="quiz-question" id="q3">
+          <h3>3️⃣ ¿Cómo se llama la familia de Guillermo?</h3>
+          <button class="quiz-option" onclick="checkAnswer(3, this, false)">a) Los García</button>
+          <button class="quiz-option" onclick="checkAnswer(3, this, false)">b) Los López</button>
+          <button class="quiz-option" onclick="checkAnswer(3, this, true)">c) Los Caldara</button>
+          <button class="quiz-option" onclick="checkAnswer(3, this, false)">d) Los Zippoli</button>
+          <div class="quiz-result" id="result3"></div>
+        </div>
+
+        <!-- Question 4 -->
+        <div class="quiz-question" id="q4">
+          <h3>4️⃣ ¿Qué descubre Guillermo sobre el libro "La tribu de los Zippoli"?</h3>
+          <button class="quiz-option" onclick="checkAnswer(4, this, false)">a) Que todos leen la misma historia</button>
+          <button class="quiz-option" onclick="checkAnswer(4, this, true)">b) Que cada persona lee una historia distinta</button>
+          <button class="quiz-option" onclick="checkAnswer(4, this, false)">c) Que es un libro aburrido</button>
+          <button class="quiz-option" onclick="checkAnswer(4, this, false)">d) Que no tiene páginas</button>
+          <div class="quiz-result" id="result4"></div>
+        </div>
+
+        <!-- Question 5 -->
+        <div class="quiz-question" id="q5">
+          <h3>5️⃣ ¿Cuál es la gran enseñanza del libro?</h3>
+          <button class="quiz-option" onclick="checkAnswer(5, this, false)">a) Hay que leer siempre lo que dicen los padres</button>
+          <button class="quiz-option" onclick="checkAnswer(5, this, false)">b) La biblioteca es un lugar aburrido</button>
+          <button class="quiz-option" onclick="checkAnswer(5, this, true)">c) Cada persona tiene su propio libro y su propia forma de leer</button>
+          <button class="quiz-option" onclick="checkAnswer(5, this, false)">d) Los cómics son mejores que los libros</button>
+          <div class="quiz-result" id="result5"></div>
+        </div>
+
+        <!-- Score -->
+        <div id="scoreContainer" style="display:none; text-align:center; margin-top:20px;">
+          <div style="font-size:3em;" id="scoreEmoji"></div>
+          <p style="font-family:'Baloo 2',cursive; font-size:1.5em; color:#333;" id="scoreText"></p>
+          <button class="magic-book-btn" onclick="resetQuiz()" style="margin-top:15px;">🔄 ¡Intentar de nuevo!</button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    <p>📚 <strong>La Tribu de los Zippoli</strong> — App educativa para 4° Grado</p>
+    <p>Basado en el libro de <strong>David Nel·lo</strong> | Editorial Bambú</p>
+    <p style="margin-top:10px;">Hecho con ❤️ para los chicos y chicas de Argentina 🇦🇷</p>
+  </div>
+
+  <script>
+    // ===== PARTICLES =====
+    const particlesContainer = document.getElementById('particles');
+    const emojis = ['📚', '✨', '📖', '⭐', '🌟', '💫', '🦋', '🎨', '🌈', '📝'];
+    for (let i = 0; i < 20; i++) {
+      const p = document.createElement('div');
+      p.className = 'particle';
+      p.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+      p.style.left = Math.random() * 100 + '%';
+      p.style.animationDuration = (8 + Math.random() * 12) + 's';
+      p.style.animationDelay = Math.random() * 10 + 's';
+      p.style.fontSize = (16 + Math.random() * 16) + 'px';
+      particlesContainer.appendChild(p);
+    }
+
+    // ===== NAVIGATION =====
+    let sectionsRead = new Set();
+    const totalSections = 7;
+
+    function showSection(name) {
+      document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+      document.getElementById('sec-' + name).classList.add('active');
+
+      document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+      event.target.classList.add('active');
+
+      // Track progress
+      sectionsRead.add(name);
+      updateProgress();
+
+      // Scroll to top
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function updateProgress() {
+      const pct = (sectionsRead.size / totalSections) * 100;
+      document.getElementById('progressBar').style.width = pct + '%';
+      document.getElementById('progressText').textContent = `📖 ${sectionsRead.size} de ${totalSections} secciones leídas`;
+
+      if (sectionsRead.size === totalSections) {
+        launchConfetti();
+      }
+    }
+
+    // ===== MAGIC BOOK REVEAL =====
+    function revealBook() {
+      const reveal = document.getElementById('bookReveal');
+      reveal.style.display = 'block';
+      launchConfetti();
+    }
+
+    // ===== CHARACTER DETAILS =====
+    const charDetails = {
+      guillermo: '<strong>🌟 Guillermo Caldara</strong> es el protagonista de la historia. Es un niño que <strong>no le gusta leer</strong>, a diferencia del resto de su familia. Al principio se siente frustrado y excluido porque todos en su casa aman los libros y él no. Pero su viaje es un viaje de <em>autodescubrimiento</em>: al encontrar "La tribu de los Zippoli", descubre que la lectura puede ser mágica y personal. Guillermo es un personaje con el que muchos niños pueden identificarse.',
+      padre: '<strong>👨 Señor Caldara (el papá)</strong> es un lector apasionado. Se toma el café de la mañana leyendo un libro. Para él, la lectura es parte fundamental de su vida cotidiana. Representa a los padres que viven inmersos en el mundo de los libros y que desean que sus hijos también disfruten de esa experiencia.',
+      madre: '<strong>👩 Señora Caldara (la mamá)</strong> también es una gran lectora. Aprovecha cada momento para leer, incluso mientras se lava los dientes antes de acostarse. Su amor por los libros es constante y demuestra que leer puede acompañarnos en cualquier actividad.',
+      hermano: '<strong>📚 Hermano Mayor</strong> es un lector voraz que siempre tiene un libro entre manos. Su existencia en la familia refuerza la idea de que Guillermo es el "escrito" en una familia de lectores. Pero al final, Guillermo encuentra su propio camino y deja de sentirse diferente.',
+    };
+
+    function showCharDetail(char) {
+      const detail = document.getElementById('charDetail');
+      const text = document.getElementById('charDetailText');
+      text.innerHTML = charDetails[char];
+      detail.style.display = 'block';
+      detail.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+
+    // ===== THEMES =====
+    function showTheme(index) {
+      for (let i = 0; i < 6; i++) {
+        const el = document.getElementById('theme' + i);
+        el.style.display = i === index ? 'block' : 'none';
+      }
+    }
+
+    // ===== QUIZ =====
+    let score = 0;
+    let answered = new Set();
+
+    function checkAnswer(qNum, btn, isCorrect) {
+      if (answered.has(qNum)) return;
+      answered.add(qNum);
+
+      const question = document.getElementById('q' + qNum);
+      const options = question.querySelectorAll('.quiz-option');
+      const result = document.getElementById('result' + qNum);
+
+      options.forEach(opt => {
+        opt.style.pointerEvents = 'none';
+      });
+
+      if (isCorrect) {
+        btn.classList.add('correct');
+        result.style.display = 'block';
+        result.style.background = '#d5f4e6';
+        result.style.color = '#27ae60';
+        result.textContent = '✅ ¡Correcto! ¡Muy bien!';
+        score++;
+      } else {
+        btn.classList.add('wrong');
+        result.style.display = 'block';
+        result.style.background = '#fde8e8';
+        result.style.color = '#c0392b';
+        result.textContent = '❌ ¡Ups! No es esa. ¡Seguí leyendo para aprender más!';
+        // Highlight correct answer
+        options.forEach(opt => {
+          if (opt.onclick.toString().includes('true')) {
+            opt.classList.add('correct');
+          }
+        });
+      }
+
+      // Check if all answered
+      if (answered.size === 5) {
+        setTimeout(showScore, 500);
+      }
+    }
+
+    function showScore() {
+      const container = document.getElementById('scoreContainer');
+      container.style.display = 'block';
+
+      let emoji, text;
+      if (score === 5) {
+        emoji = '🏆🌟🎉';
+        text = `¡Perfecto! ¡Acertaste las 5! ¡Sos un genio de la lectura!`;
+      } else if (score >= 3) {
+        emoji = '👏😊';
+        text = `¡Muy bien! Acertaste ${score} de 5. ¡Casi perfecto!`;
+      } else if (score >= 1) {
+        emoji = '💪📖';
+        text = `Acertaste ${score} de 5. ¡Seguí leyendo y vas a mejorar!`;
+      } else {
+        emoji = '📚💪';
+        text = `No acertaste ninguna. ¡No te preocupás! Volvé a leer las secciones y volvé a intentar.`;
+      }
+
+      document.getElementById('scoreEmoji').textContent = emoji;
+      document.getElementById('scoreText').textContent = text;
+      container.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+      if (score >= 4) launchConfetti();
+    }
+
+    function resetQuiz() {
+      score = 0;
+      answered.clear();
+
+      for (let i = 1; i <= 5; i++) {
+        const question = document.getElementById('q' + i);
+        const options = question.querySelectorAll('.quiz-option');
+        const result = document.getElementById('result' + i);
+
+        options.forEach(opt => {
+          opt.classList.remove('correct', 'wrong');
+          opt.style.pointerEvents = 'auto';
+        });
+
+        result.style.display = 'none';
+      }
+
+      document.getElementById('scoreContainer').style.display = 'none';
+      document.getElementById('q1').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    // ===== CONFETTI =====
+    function launchConfetti() {
+      const colors = ['#e74c3c', '#3498db', '#2ecc71', '#f39c12', '#9b59b6', '#FFD700', '#FF69B4', '#00CED1'];
+      for (let i = 0; i < 50; i++) {
+        const confetti = document.createElement('div');
+        confetti.className = 'confetti-piece';
+        confetti.style.left = Math.random() * 100 + 'vw';
+        confetti.style.top = '-10px';
+        confetti.style.background = colors[Math.floor(Math.random() * colors.length)];
+        confetti.style.borderRadius = Math.random() > 0.5 ? '50%' : '0';
+        confetti.style.width = (6 + Math.random() * 8) + 'px';
+        confetti.style.height = (6 + Math.random() * 8) + 'px';
+        confetti.style.animation = `confettiFall ${2 + Math.random() * 3}s linear forwards`;
+        confetti.style.animationDelay = Math.random() * 0.5 + 's';
+        document.body.appendChild(confetti);
+        setTimeout(() => confetti.remove(), 5000);
+      }
+    }
+  </script>
+</body>
+</html>
