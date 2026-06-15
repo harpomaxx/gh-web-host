@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mayas, Aztecas e Incas</title>
+<style>
+  :root{
+    --jade:#1f7a6d;
+    --jade-dark:#10544a;
+    --sun:#f0a830;
+    --terra:#c4502e;
+    --terra-light:#e0744f;
+    --cream:#f6efe2;
+    --ink:#2a2118;
+    --sky:#7fb8c9;
+    --gold:#e6b84a;
+    --paper:#fffaf0;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    font-family:'Trebuchet MS','Segoe UI',sans-serif;
+    background:
+      radial-gradient(circle at 12% 20%, rgba(240,168,48,.12), transparent 25%),
+      radial-gradient(circle at 88% 75%, rgba(31,122,109,.14), transparent 30%),
+      var(--cream);
+    color:var(--ink);
+    line-height:1.55;
+    -webkit-text-size-adjust:100%;
+  }
+  .wrap{max-width:920px;margin:0 auto;padding:0 16px 60px;}
+
+  /* ---------- HERO ---------- */
+  header.hero{
+    position:relative;
+    text-align:center;
+    padding:42px 16px 28px;
+    overflow:hidden;
+  }
+  .hero h1{
+    font-size:clamp(28px,6vw,52px);
+    color:var(--terra);
+    letter-spacing:.5px;
+    text-shadow:2px 2px 0 var(--gold);
+    line-height:1.1;
+  }
+  .hero p.sub{
+    margin-top:10px;
+    font-size:clamp(15px,2.6vw,20px);
+    color:var(--jade-dark);
+    font-weight:bold;
+  }
+  .hero-svg{display:block;margin:14px auto 0;max-width:340px;width:80%;}
+
+  /* ---------- TABS ---------- */
+  nav.tabs{
+    display:flex;gap:8px;justify-content:center;flex-wrap:wrap;
+    margin:8px 0 24px;
+    position:sticky;top:0;z-index:20;
+    background:linear-gradient(var(--cream) 70%, transparent);
+    padding:10px 6px;
+  }
+  nav.tabs button{
+    font-family:inherit;font-weight:bold;font-size:15px;
+    padding:10px 18px;border:3px solid var(--ink);border-radius:30px;
+    cursor:pointer;background:var(--paper);color:var(--ink);
+    box-shadow:3px 3px 0 rgba(0,0,0,.18);
+    transition:transform .12s, background .2s;
+  }
+  nav.tabs button:hover{transform:translateY(-2px);}
+  nav.tabs button.active{color:#fff;transform:translateY(-2px);}
+  nav.tabs button[data-tab="maya"].active{background:var(--jade);}
+  nav.tabs button[data-tab="azteca"].active{background:var(--terra);}
+  nav.tabs button[data-tab="inca"].active{background:var(--sun);color:var(--ink);}
+  nav.tabs button[data-tab="quiz"].active{background:var(--jade-dark);}
+
+  /* ---------- PANELS ---------- */
+  .panel{display:none;animation:fade .35s ease;}
+  .panel.show{display:block;}
+  @keyframes fade{from{opacity:0;transform:translateY(10px);}to{opacity:1;transform:none;}}
+
+  .card{
+    background:var(--paper);
+    border:4px solid var(--ink);
+    border-radius:22px;
+    padding:22px;
+    margin-bottom:22px;
+    box-shadow:6px 6px 0 rgba(0,0,0,.15);
+  }
+  .card h2{font-size:clamp(22px,4vw,32px);margin-bottom:6px;display:flex;align-items:center;gap:12px;}
+  .maya h2{color:var(--jade-dark);}
+  .azteca h2{color:var(--terra);}
+  .inca h2{color:#b5821f;}
+  .card .where{font-style:italic;color:var(--jade);font-weight:bold;margin-bottom:14px;}
+  .card p{margin-bottom:12px;}
+  .card strong{color:var(--terra);}
+
+  .icon-svg{flex:0 0 auto;}
+
+  /* fact chips */
+  .facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:8px;}
+  .fact{
+    background:var(--cream);
+    border:3px dashed var(--jade);
+    border-radius:16px;
+    padding:12px;text-align:center;font-size:14px;
+    display:flex;flex-direction:column;align-items:center;gap:8px;
+  }
+  .azteca .fact{border-color:var(--terra-light);}
+  .inca .fact{border-color:var(--gold);}
+  .fact b{color:var(--ink);font-size:15px;}
+
+  /* comparison table */
+  .table-card table{width:100%;border-collapse:collapse;font-size:14px;}
+  .table-card th,.table-card td{border:2px solid var(--ink);padding:8px;text-align:center;}
+  .table-card thead th{color:#fff;font-size:15px;}
+  .table-card th.maya-h{background:var(--jade);}
+  .table-card th.azteca-h{background:var(--terra);}
+  .table-card th.inca-h{background:var(--sun);color:var(--ink);}
+  .table-card td:first-child,.table-card th:first-child{background:var(--cream);font-weight:bold;text-align:left;}
+
+  /* ---------- QUIZ ---------- */
+  .quiz-head{text-align:center;margin-bottom:10px;}
+  .progress{
+    height:16px;background:var(--cream);border:3px solid var(--ink);
+    border-radius:20px;overflow:hidden;margin:14px 0;
+  }
+  .progress > i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--sun),var(--jade));transition:width .4s;}
+  .q-text{font-size:clamp(17px,3.2vw,22px);font-weight:bold;margin:6px 0 16px;}
+  .options{display:flex;flex-direction:column;gap:12px;}
+  .options button{
+    font-family:inherit;font-size:16px;text-align:left;
+    padding:14px 16px;border:3px solid var(--ink);border-radius:16px;
+    background:var(--cream);cursor:pointer;color:var(--ink);
+    box-shadow:3px 3px 0 rgba(0,0,0,.15);transition:transform .1s;
+  }
+  .options button:hover:not(:disabled){transform:translateX(4px);background:#fff;}
+  .options button.correct{background:#a8d5a2;border-color:#2e7d32;}
+  .options button.wrong{background:#f0a9a0;border-color:#b3261e;}
+  .options button:disabled{cursor:default;opacity:.95;}
+  .feedback{margin-top:16px;font-weight:bold;font-size:17px;min-height:26px;text-align:center;}
+  .quiz-foot{display:flex;justify-content:space-between;align-items:center;margin-top:18px;flex-wrap:wrap;gap:10px;}
+  .score{font-weight:bold;color:var(--jade-dark);}
+  .btn{
+    font-family:inherit;font-weight:bold;font-size:16px;
+    padding:12px 22px;border:3px solid var(--ink);border-radius:30px;
+    cursor:pointer;background:var(--sun);color:var(--ink);
+    box-shadow:3px 3px 0 rgba(0,0,0,.2);
+  }
+  .btn:hover{transform:translateY(-2px);}
+  .btn[disabled]{opacity:.4;cursor:not-allowed;transform:none;}
+  .result{text-align:center;padding:10px;}
+  .result h3{font-size:26px;color:var(--terra);margin-bottom:8px;}
+  .result .big{font-size:40px;font-weight:bold;color:var(--jade-dark);}
+  .stars{font-size:34px;letter-spacing:6px;margin:10px 0;}
+  footer{text-align:center;font-size:13px;color:var(--jade-dark);margin-top:30px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="hero">
+  <h1>Mayas, Aztecas e Incas</h1>
+  <p class="sub">¡Tres grandes civilizaciones de América! 🌎</p>
+  <!-- Hero SVG: pirámide + sol -->
+  <svg class="hero-svg" viewBox="0 0 360 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pirámide bajo el sol">
+    <defs>
+      <linearGradient id="skyG" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#9ad0df"/><stop offset="1" stop-color="#d8eef3"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="360" height="180" rx="14" fill="url(#skyG)"/>
+    <!-- sol -->
+    <circle cx="300" cy="46" r="26" fill="#f0a830"/>
+    <g stroke="#f0a830" stroke-width="4" stroke-linecap="round">
+      <line x1="300" y1="6" x2="300" y2="-2"/><line x1="300" y1="94" x2="300" y2="102"/>
+      <line x1="260" y1="46" x2="252" y2="46"/><line x1="340" y1="46" x2="348" y2="46"/>
+      <line x1="272" y1="18" x2="266" y2="12"/><line x1="328" y1="74" x2="334" y2="80"/>
+      <line x1="328" y1="18" x2="334" y2="12"/><line x1="272" y1="74" x2="266" y2="80"/>
+    </g>
+    <!-- selva -->
+    <ellipse cx="55" cy="150" rx="60" ry="34" fill="#2e8b6f"/>
+    <ellipse cx="20" cy="158" rx="40" ry="26" fill="#1f7a6d"/>
+    <!-- pirámide escalonada -->
+    <g>
+      <polygon points="180,40 250,150 110,150" fill="#caa472"/>
+      <polygon points="180,40 250,150 110,150" fill="none" stroke="#8c6a3e" stroke-width="2"/>
+      <rect x="148" y="120" width="64" height="30" fill="#b8915f" stroke="#8c6a3e"/>
+      <rect x="138" y="100" width="84" height="22" fill="#caa472" stroke="#8c6a3e"/>
+      <rect x="128" y="80" width="104" height="22" fill="#b8915f" stroke="#8c6a3e"/>
+      <!-- escalera -->
+      <rect x="172" y="80" width="16" height="70" fill="#8c6a3e"/>
+      <!-- templo arriba -->
+      <rect x="164" y="46" width="32" height="20" fill="#c4502e" stroke="#7a2f1a" stroke-width="2"/>
+    </g>
+    <rect x="0" y="150" width="360" height="30" fill="#3a7d4f"/>
+  </svg>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button data-tab="maya" class="active">🌿 Mayas</button>
+  <button data-tab="azteca">⚔️ Aztecas</button>
+  <button data-tab="inca">⛰️ Incas</button>
+  <button data-tab="comparar">📊 Comparar</button>
+  <button data-tab="quiz">🎯 Quiz</button>
+</nav>
+
+<!-- ============ MAYAS ============ -->
+<section class="panel show maya" data-panel="maya">
+  <div class="card maya">
+    <h2>
+      <svg class="icon-svg" width="46" height="46" viewBox="0 0 46 46"><circle cx="23" cy="23" r="22" fill="#1f7a6d"/><polygon points="23,9 34,33 12,33" fill="#caa472"/><rect x="19" y="25" width="8" height="8" fill="#8c6a3e"/></svg>
+      Los mayas, dueños de la selva
+    </h2>
+    <p class="where">📍 Vivían en el sur de México y el norte de América Central.</p>
+    <p>Se organizaban en <strong>ciudades-Estado</strong>: cada ciudad era independiente y tenía su propio gobierno. ¡No tenían una capital única! Aunque hablaban el mismo idioma, solo se unían en caso de peligro.</p>
+    <p>En cada ciudad mandaba un jefe supremo llamado <strong>Halach uinic</strong>, acompañado por un consejo de nobles. La sociedad era <strong>jerárquica</strong>: había nobles, sacerdotes, guerreros, comerciantes, artesanos, campesinos y personas esclavizadas.</p>
+    <p>Como vivían en la selva, cultivaban con la <strong>técnica de la roza</strong>. ¡Y fueron muy buenos en muchas ciencias!</p>
+    <div class="facts">
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><rect x="6" y="6" width="28" height="28" rx="4" fill="#1f7a6d"/><circle cx="14" cy="14" r="2.5" fill="#fff"/><circle cx="20" cy="14" r="2.5" fill="#fff"/><circle cx="26" cy="14" r="2.5" fill="#fff"/><rect x="11" y="24" width="18" height="3" fill="#fff"/></svg>
+        <b>Numeración</b><span>Inventaron un sistema con puntos y rayas, ¡y el cero!</span>
+      </div>
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><circle cx="20" cy="20" r="16" fill="none" stroke="#f0a830" stroke-width="4"/><line x1="20" y1="20" x2="20" y2="9" stroke="#1f7a6d" stroke-width="3"/><line x1="20" y1="20" x2="28" y2="24" stroke="#1f7a6d" stroke-width="3"/></svg>
+        <b>Calendarios</b><span>Crearon dos: uno de 260 días y otro de 365 días.</span>
+      </div>
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><rect x="7" y="9" width="26" height="22" rx="2" fill="#caa472" stroke="#8c6a3e" stroke-width="2"/><line x1="13" y1="15" x2="27" y2="15" stroke="#8c6a3e" stroke-width="2"/><line x1="13" y1="20" x2="27" y2="20" stroke="#8c6a3e" stroke-width="2"/><line x1="13" y1="25" x2="22" y2="25" stroke="#8c6a3e" stroke-width="2"/></svg>
+        <b>Escritura</b><span>Escribían con dibujos y signos en libros llamados códices.</span>
+      </div>
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><polygon points="20,6 32,32 8,32" fill="#b8915f" stroke="#8c6a3e" stroke-width="2"/><rect x="16" y="22" width="8" height="10" fill="#8c6a3e"/></svg>
+        <b>Arquitectura</b><span>Construían palacios y templos de piedra decorados.</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ AZTECAS ============ -->
+<section class="panel azteca" data-panel="azteca">
+  <div class="card azteca">
+    <h2>
+      <svg class="icon-svg" width="46" height="46" viewBox="0 0 46 46"><circle cx="23" cy="23" r="22" fill="#c4502e"/><circle cx="23" cy="23" r="13" fill="#f0a830"/><circle cx="23" cy="23" r="5" fill="#7a2f1a"/></svg>
+      Los aztecas, invencibles guerreros
+    </h2>
+    <p class="where">📍 Vivían en el Valle de México, al norte de los mayas.</p>
+    <p>Fueron un pueblo <strong>guerrero</strong> que formó un <strong>imperio poderoso</strong> en el siglo XV. Dominaban a otros pueblos y los obligaban a pagar altos impuestos.</p>
+    <p>La máxima autoridad era el <strong>emperador</strong>, acompañado por un consejo de guerreros. La sociedad también era jerárquica: nobles y sacerdotes arriba, luego comerciantes, artesanos y agricultores, y por último las personas esclavizadas.</p>
+    <p>Su capital fue <strong>Tenochtitlán</strong>, una ciudad increíble construida sobre islotes de un lago y unida por puentes. ¡Sobre sus ruinas hoy está la Ciudad de México!</p>
+    <div class="facts">
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><rect x="4" y="22" width="32" height="12" fill="#7fb8c9"/><polygon points="14,22 26,22 20,8" fill="#caa472" stroke="#8c6a3e" stroke-width="2"/><rect x="2" y="20" width="36" height="3" fill="#b8915f"/></svg>
+        <b>Tenochtitlán</b><span>Ciudad sobre un lago, con templos en forma de pirámide.</span>
+      </div>
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><rect x="6" y="14" width="28" height="20" rx="3" fill="#f0a830"/><rect x="10" y="10" width="6" height="6" fill="#c4502e"/><rect x="24" y="10" width="6" height="6" fill="#c4502e"/><circle cx="14" cy="24" r="3" fill="#7a2f1a"/><circle cx="26" cy="24" r="3" fill="#7a2f1a"/></svg>
+        <b>Gran mercado</b><span>Vendían productos de la tierra, cerámicas y pieles.</span>
+      </div>
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><rect x="6" y="24" width="28" height="8" fill="#2e8b6f"/><rect x="6" y="20" width="6" height="4" fill="#3a7d4f"/><rect x="17" y="20" width="6" height="4" fill="#3a7d4f"/><rect x="28" y="20" width="6" height="4" fill="#3a7d4f"/><path d="M10 20 q4 -8 8 0" fill="none" stroke="#1f7a6d" stroke-width="2"/></svg>
+        <b>Chinampas</b><span>Islas de cultivo en el lago: maíz, ajíes, calabazas y porotos.</span>
+      </div>
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><rect x="9" y="8" width="22" height="26" rx="2" fill="#caa472" stroke="#8c6a3e" stroke-width="2"/><circle cx="20" cy="16" r="4" fill="#c4502e"/><line x1="14" y1="25" x2="26" y2="25" stroke="#8c6a3e" stroke-width="2"/><line x1="14" y1="29" x2="26" y2="29" stroke="#8c6a3e" stroke-width="2"/></svg>
+        <b>Escritura</b><span>Crearon un sistema de escritura y un calendario.</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ INCAS ============ -->
+<section class="panel inca" data-panel="inca">
+  <div class="card inca">
+    <h2>
+      <svg class="icon-svg" width="46" height="46" viewBox="0 0 46 46"><circle cx="23" cy="23" r="22" fill="#e6b84a"/><polygon points="6,34 16,16 24,28 30,18 40,34" fill="#8c6a3e"/><polygon points="6,34 16,16 24,28 30,18 40,34" fill="none" stroke="#5e472a" stroke-width="1.5"/></svg>
+      Los incas, un poderoso imperio
+    </h2>
+    <p class="where">📍 Vivían a lo largo de la Cordillera de los Andes, desde Colombia hasta Argentina y Chile.</p>
+    <p>Tenían un <strong>imperio enorme</strong>. La capital era <strong>Cusco</strong>, donde vivía la máxima autoridad: el <strong>Inca</strong>, junto con su familia.</p>
+    <p>Su organización también era jerárquica. La mayoría de la gente vivía en comunidades llamadas <strong>ayllus</strong>, con tierras para cultivar. Debían dar parte de su cosecha al imperio.</p>
+    <p>En las montañas construyeron <strong>terrazas de cultivo</strong> para sembrar maíz y papa. Para hacer cuentas usaban los <strong>quipus</strong>: cuerdas anudadas de colores.</p>
+    <div class="facts">
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><rect x="6" y="26" width="28" height="8" fill="#3a7d4f"/><rect x="9" y="19" width="22" height="7" fill="#4f9a5e"/><rect x="12" y="12" width="16" height="7" fill="#6bb56e"/><rect x="15" y="6" width="10" height="6" fill="#86c98a"/></svg>
+        <b>Terrazas</b><span>Escalones en la montaña para cultivar maíz y papa.</span>
+      </div>
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><line x1="8" y1="8" x2="32" y2="8" stroke="#8c6a3e" stroke-width="3"/><line x1="12" y1="8" x2="12" y2="30" stroke="#c4502e" stroke-width="2"/><line x1="20" y1="8" x2="20" y2="34" stroke="#1f7a6d" stroke-width="2"/><line x1="28" y1="8" x2="28" y2="26" stroke="#e6b84a" stroke-width="2"/><circle cx="12" cy="20" r="2" fill="#c4502e"/><circle cx="20" cy="24" r="2" fill="#1f7a6d"/><circle cx="28" cy="18" r="2" fill="#e6b84a"/></svg>
+        <b>Quipus</b><span>Cuerdas anudadas para registrar datos y hacer cuentas.</span>
+      </div>
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><path d="M20 6 C12 6 12 16 20 16 C28 16 28 6 20 6Z" fill="#c4502e"/><rect x="16" y="16" width="8" height="14" fill="#e0744f"/><rect x="12" y="20" width="16" height="6" fill="#c4502e"/></svg>
+        <b>Cerámica</b><span>El aríbalo o urpu servía para llevar agua y guardar alimentos.</span>
+      </div>
+      <div class="fact">
+        <svg width="40" height="40" viewBox="0 0 40 40"><circle cx="20" cy="20" r="15" fill="none" stroke="#1f7a6d" stroke-width="3"/><text x="20" y="25" font-size="13" text-anchor="middle" fill="#1f7a6d" font-family="sans-serif">qu</text></svg>
+        <b>Quechua</b><span>Su lengua: hoy unos 8 millones de personas la hablan.</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ COMPARAR ============ -->
+<section class="panel" data-panel="comparar">
+  <div class="card table-card">
+    <h2 style="color:var(--jade-dark)">📊 Cuadro comparativo</h2>
+    <p>Un cuadro comparativo te ayuda a ver mejor cómo se relaciona la información de los tres pueblos.</p>
+    <div style="overflow-x:auto">
+    <table>
+      <thead>
+        <tr><th></th><th class="maya-h">Mayas</th><th class="azteca-h">Aztecas</th><th class="inca-h">Incas</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Máxima autoridad</td><td>Halach uinic</td><td>Emperador</td><td>El Inca</td></tr>
+        <tr><td>Capital</td><td>No tenían (ciudades-Estado)</td><td>Tenochtitlán</td><td>Cusco</td></tr>
+        <tr><td>Organización social</td><td>Jerárquica</td><td>Jerárquica</td><td>Jerárquica</td></tr>
+        <tr><td>Técnica de cultivo</td><td>La roza</td><td>Chinampas</td><td>Terrazas de cultivo</td></tr>
+        <tr><td>Sistema de escritura</td><td>Sí (códices)</td><td>Sí</td><td>No (usaban quipus)</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </div>
+</section>
+
+<!-- ============ QUIZ ============ -->
+<section class="panel" data-panel="quiz">
+  <div class="card">
+    <div class="quiz-head">
+      <h2 style="color:var(--jade-dark);justify-content:center">🎯 ¡A jugar con el Quiz!</h2>
+      <p>5 preguntas al azar. ¡Cada vez son distintas!</p>
+    </div>
+    <div class="progress"><i id="bar"></i></div>
+    <div id="quizBody"></div>
+    <div class="quiz-foot">
+      <span class="score" id="score">Puntaje: 0</span>
+      <button class="btn" id="nextBtn" disabled>Siguiente →</button>
+    </div>
+  </div>
+</section>
+
+<footer>Hecho para chicos y chicas de 4to grado 🇦🇷 · Mayas, Aztecas e Incas</footer>
+</div>
+
+<script>
+/* ---------- Navegación por pestañas ---------- */
+const tabs = document.querySelectorAll('#tabs button');
+const panels = document.querySelectorAll('.panel');
+tabs.forEach(btn=>{
+  btn.addEventListener('click',()=>{
+    tabs.forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+    const t = btn.dataset.tab;
+    panels.forEach(p=>p.classList.toggle('show', p.dataset.panel===t));
+    if(t==='quiz') startQuiz();
+    window.scrollTo({top:0,behavior:'smooth'});
+  });
+});
+
+/* ---------- Banco de preguntas ---------- */
+const BANCO = [
+  {q:"¿Dónde vivían los mayas?", o:["En la selva del sur de México y América Central","En los Andes","En el Valle de México","En la Patagonia"], c:0},
+  {q:"¿Cómo se llamaba el jefe supremo maya?", o:["El Inca","Halach uinic","El emperador","El curaca"], c:1},
+  {q:"Los mayas se organizaban en…", o:["Un solo imperio","Ayllus","Ciudades-Estado independientes","Provincias"], c:2},
+  {q:"¿Qué inventaron los mayas en matemática?", o:["La calculadora","Un sistema de numeración con el cero","Los números romanos","Las fracciones"], c:1},
+  {q:"¿Cómo se llamaban los libros de los mayas?", o:["Quipus","Códices","Pergaminos","Tablillas"], c:1},
+  {q:"¿Quién era la máxima autoridad azteca?", o:["El Inca","El Halach uinic","El emperador","El curaca"], c:2},
+  {q:"¿Cuál era la capital de los aztecas?", o:["Cusco","Tenochtitlán","Machu Picchu","Tikal"], c:1},
+  {q:"¿Sobre qué estaba construida Tenochtitlán?", o:["Sobre una montaña","Sobre islotes de un lago","En el desierto","Bajo tierra"], c:1},
+  {q:"¿Qué eran las chinampas?", o:["Templos","Islas de cultivo en el lago","Barcos","Mercados"], c:1},
+  {q:"¿Qué se vendía en el mercado azteca?", o:["Autos","Productos de la tierra, cerámicas y pieles","Computadoras","Oro solamente"], c:1},
+  {q:"¿Dónde vivían los incas?", o:["En la selva","A lo largo de la Cordillera de los Andes","En el Caribe","En el Valle de México"], c:1},
+  {q:"¿Cuál era la capital de los incas?", o:["Cusco","Tenochtitlán","Lima","Quito"], c:0},
+  {q:"¿Qué eran los quipus?", o:["Cuerdas anudadas para hacer cuentas","Pirámides","Calendarios de piedra","Canoas"], c:0},
+  {q:"¿Cómo cultivaban los incas en la montaña?", o:["Con chinampas","Con terrazas de cultivo","Con la roza","En invernaderos"], c:1},
+  {q:"¿En qué comunidades vivían los incas?", o:["Tribus","Ayllus","Clanes","Aldeas"], c:1},
+  {q:"¿Qué lengua hablaban los incas y aún se habla hoy?", o:["Guaraní","Quechua","Maya","Náhuatl"], c:1},
+  {q:"¿Qué tipo de sociedad tenían los tres pueblos?", o:["Igualitaria","Jerárquica","Nómade","Sin jefes"], c:1},
+  {q:"¿Cuál de estos pueblos NO tenía sistema de escritura?", o:["Mayas","Aztecas","Incas","Todos tenían"], c:2},
+  {q:"¿Qué cultivaban principalmente los incas?", o:["Maíz y papa","Solo café","Trigo y arroz","Bananas"], c:0},
+  {q:"¿Qué técnica de cultivo usaban los mayas en la selva?", o:["Terrazas","La roza","Chinampas","Regadío"], c:1}
+];
+
+/* ---------- Lógica del quiz ---------- */
+let preguntas=[], idx=0, score=0, answered=false;
+const TOTAL=5;
+
+function mezclar(a){a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+
+function startQuiz(){
+  preguntas = mezclar(BANCO).slice(0,TOTAL).map(p=>{
+    // mezclar opciones manteniendo la correcta
+    const correctText = p.o[p.c];
+    const opts = mezclar(p.o);
+    return {q:p.q, o:opts, c:opts.indexOf(correctText)};
+  });
+  idx=0; score=0; answered=false;
+  document.getElementById('score').textContent='Puntaje: 0';
+  document.getElementById('nextBtn').textContent='Siguiente →';
+  render();
+}
+
+function render(){
+  const body=document.getElementById('quizBody');
+  const bar=document.getElementById('bar');
+  bar.style.width=((idx)/TOTAL*100)+'%';
+
+  if(idx>=TOTAL){ showResult(); return; }
+  answered=false;
+  document.getElementById('nextBtn').disabled=true;
+  const p=preguntas[idx];
+  let html=`<p class="q-text">Pregunta ${idx+1} de ${TOTAL}: ${p.q}</p><div class="options">`;
+  p.o.forEach((op,i)=>{ html+=`<button data-i="${i}">${op}</button>`; });
+  html+=`</div><div class="feedback" id="fb"></div>`;
+  body.innerHTML=html;
+
+  body.querySelectorAll('.options button').forEach(b=>{
+    b.addEventListener('click',()=>choose(b,p));
+  });
+}
+
+function choose(btn,p){
+  if(answered) return;
+  answered=true;
+  const chosen=parseInt(btn.dataset.i);
+  const all=document.querySelectorAll('.options button');
+  all.forEach(b=>b.disabled=true);
+  const fb=document.getElementById('fb');
+  if(chosen===p.c){
+    btn.classList.add('correct');
+    score++;
+    fb.textContent='✅ ¡Muy bien!';
+    fb.style.color='#2e7d32';
+  }else{
+    btn.classList.add('wrong');
+    all[p.c].classList.add('correct');
+    fb.textContent='❌ ¡Casi! La respuesta correcta está en verde.';
+    fb.style.color='#b3261e';
+  }
+  document.getElementById('score').textContent='Puntaje: '+score;
+  document.getElementById('nextBtn').disabled=false;
+  document.getElementById('bar').style.width=((idx+1)/TOTAL*100)+'%';
+}
+
+document.getElementById('nextBtn').addEventListener('click',()=>{
+  if(idx>=TOTAL){ startQuiz(); return; }   // estaba en pantalla de resultado
+  idx++;
+  if(idx>=TOTAL){ showResult(); } else { render(); }
+});
+
+function showResult(){
+  document.getElementById('bar').style.width='100%';
+  const body=document.getElementById('quizBody');
+  let stars = score>=5?'⭐⭐⭐⭐⭐': score>=4?'⭐⭐⭐⭐': score>=3?'⭐⭐⭐': score>=2?'⭐⭐':'⭐';
+  let msg = score>=4?'¡Sos un experto en civilizaciones! 🏆': score>=3?'¡Muy bien! Sabés un montón. 👏':'¡Buen intento! Repasá y volvé a jugar. 📚';
+  body.innerHTML=`<div class="result">
+    <h3>¡Terminaste!</h3>
+    <div class="big">${score} / ${TOTAL}</div>
+    <div class="stars">${stars}</div>
+    <p>${msg}</p>
+  </div>`;
+  const nb=document.getElementById('nextBtn');
+  nb.textContent='🔄 Jugar de nuevo';
+  nb.disabled=false;
+}
+</script>
+</body>
+</html>
