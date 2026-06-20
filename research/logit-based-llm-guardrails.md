@@ -2,6 +2,14 @@
 
 Below are the **top 5 logit-based strategies for LLM guardrails**, with key papers and videos.
 
+## Core Idea
+
+Before an LLM chooses the next token, it produces a list of raw scores called **logits**: one score for each possible token in the vocabulary. These logits are converted into probabilities and then sampled or selected.
+
+Logit-based guardrails work by intervening at this decision point. Instead of only checking the final answer after it is written, the system can **ban**, **boost**, **down-rank**, or **score** tokens while generation is happening. This makes guardrails more direct: the model can be prevented from producing invalid formats, nudged away from unsafe content, or monitored for uncertainty using the probabilities behind its choices.
+
+In short: **logits are the control surface between model intent and generated text**.
+
 | # | Strategy | How logits are used | Best for | References |
 |---|---|---|---|---|
 | 1 | **Hard logit masking / constrained decoding** | Set invalid token logits to `-∞` before sampling, so the model literally cannot emit disallowed tokens. | JSON/schema compliance, regex/grammar constraints, tool-call safety, SQL/code format control. | **LMQL**: *Prompting Is Programming* — https://arxiv.org/abs/2212.06094 <br> **Outlines**: *Efficient Guided Generation for LLMs* — https://arxiv.org/abs/2307.09702 <br> **XGrammar** — https://arxiv.org/abs/2411.15100 |

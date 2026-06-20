@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Logit-Based Strategies for LLM Guardrails</title>
+  <style>
+    body {
+      margin: 40px auto;
+      max-width: 980px;
+      padding: 0 20px;
+      background: #fff;
+      color: #111;
+      font: 16px/1.6 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    a { color: #0645ad; }
+    h1, h2 { line-height: 1.25; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.95rem;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 0.65rem;
+      vertical-align: top;
+    }
+    th { background: #f5f5f5; text-align: left; }
+    code {
+      background: #f5f5f5;
+      padding: 0.1rem 0.25rem;
+      border-radius: 3px;
+    }
+    .back { color: #555; }
+  </style>
+</head>
+<body>
+  <p class="back"><a href="index.html">← Research</a></p>
+
+  <h1>Logit-Based Strategies for LLM Guardrails</h1>
+
+  <p>Below are the <strong>top 5 logit-based strategies for LLM guardrails</strong>, with key papers and videos.</p>
+
+  <h2>Core Idea</h2>
+
+  <p>Before an LLM chooses the next token, it produces a list of raw scores called <strong>logits</strong>: one score for each possible token in the vocabulary. These logits are converted into probabilities and then sampled or selected.</p>
+
+  <p>Logit-based guardrails work by intervening at this decision point. Instead of only checking the final answer after it is written, the system can <strong>ban</strong>, <strong>boost</strong>, <strong>down-rank</strong>, or <strong>score</strong> tokens while generation is happening. This makes guardrails more direct: the model can be prevented from producing invalid formats, nudged away from unsafe content, or monitored for uncertainty using the probabilities behind its choices.</p>
+
+  <p>In short: <strong>logits are the control surface between model intent and generated text</strong>.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Strategy</th>
+        <th>How logits are used</th>
+        <th>Best for</th>
+        <th>References</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td><strong>Hard logit masking / constrained decoding</strong></td>
+        <td>Set invalid token logits to <code>-∞</code> before sampling, so the model literally cannot emit disallowed tokens.</td>
+        <td>JSON/schema compliance, regex/grammar constraints, tool-call safety, SQL/code format control.</td>
+        <td>
+          <strong>LMQL</strong>: <a href="https://arxiv.org/abs/2212.06094">Prompting Is Programming</a><br>
+          <strong>Outlines</strong>: <a href="https://arxiv.org/abs/2307.09702">Efficient Guided Generation for LLMs</a><br>
+          <strong>XGrammar</strong> — <a href="https://arxiv.org/abs/2411.15100">https://arxiv.org/abs/2411.15100</a>
+        </td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td><strong>Logit bias / token allowlists and blocklists</strong></td>
+        <td>Add positive/negative bias to selected token logits. Extreme negative bias approximates banning; positive bias can force labels like <code>safe/unsafe</code>.</td>
+        <td>Simple profanity/PII blocking, forcing binary classifiers, nudging refusal phrases, reducing forbidden vocabulary.</td>
+        <td>
+          <a href="https://help.openai.com/en/articles/5247780-using-logit-bias-to-alter-token-probability">OpenAI logit bias guide</a><br>
+          <a href="https://www.vellum.ai/llm-parameters/logit-bias">Vellum guide</a>
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td><strong>Classifier-guided or expert/anti-expert decoding</strong></td>
+        <td>Combine base model logits with logits or scores from a safety classifier, “good” expert, or “bad” anti-expert. Unsafe continuations get down-weighted during generation.</td>
+        <td>Detoxification, style/safety steering, reducing toxic or policy-violating completions without retraining the base model.</td>
+        <td>
+          <strong>DExperts</strong> — <a href="https://arxiv.org/abs/2105.03023">https://arxiv.org/abs/2105.03023</a><br>
+          <strong>GeDi</strong> — <a href="https://arxiv.org/abs/2009.06367">https://arxiv.org/abs/2009.06367</a><br>
+          <strong>FUDGE</strong> — <a href="https://arxiv.org/abs/2104.05218">https://arxiv.org/abs/2104.05218</a><br>
+          <strong>PPLM video/poster</strong> — <a href="https://iclr.cc/virtual_2020/poster_H1edEyBKDS.html">https://iclr.cc/virtual_2020/poster_H1edEyBKDS.html</a>
+        </td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td><strong>Logit-based safety scoring / moderation classifiers</strong></td>
+        <td>Use logits or logprobs over labels such as <code>safe</code>, <code>unsafe</code>, or risk categories; threshold the probabilities to block, route, or escalate.</td>
+        <td>Input/output moderation, policy classifiers, fast guardrail pipelines.</td>
+        <td>
+          <strong>Llama Guard</strong> — <a href="https://arxiv.org/abs/2312.06674">https://arxiv.org/abs/2312.06674</a><br>
+          <a href="https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/">Meta page</a><br>
+          <a href="https://www.youtube.com/watch?v=MTFKSAfyGIo">Demo video</a>
+        </td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td><strong>Uncertainty, hallucination, and provenance guardrails from logits</strong></td>
+        <td>Use token logprobs, entropy, contrastive logits, or watermark logit shifts to detect low-confidence, hallucinated, or machine-generated text.</td>
+        <td>Abstention, retrieval fallback, human review, factuality checks, AI-output detection.</td>
+        <td>
+          <strong>Semantic Entropy</strong> — <a href="https://www.nature.com/articles/s41586-024-07421-0">https://www.nature.com/articles/s41586-024-07421-0</a><br>
+          <a href="https://www.youtube.com/watch?v=eiL6egIX4ms">Video</a><br>
+          <strong>DoLa: Decoding by Contrasting Layers</strong> — <a href="https://arxiv.org/abs/2309.03883">https://arxiv.org/abs/2309.03883</a><br>
+          <strong>Watermark for LLMs</strong> — <a href="https://arxiv.org/abs/2301.10226">https://arxiv.org/abs/2301.10226</a><br>
+          <strong>SynthID-Text</strong> — <a href="https://www.nature.com/articles/s41586-024-08025-4">https://www.nature.com/articles/s41586-024-08025-4</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Practical Recommendation</h2>
+
+  <p>For production guardrails, the strongest pattern is usually layered:</p>
+
+  <ol>
+    <li><strong>Input classifier</strong> using safe/unsafe logits.</li>
+    <li><strong>Constrained decoding / logit masking</strong> for required structure.</li>
+    <li><strong>Logit bias or expert-guided decoding</strong> for soft safety steering.</li>
+    <li><strong>Output classifier</strong> using risk logits.</li>
+    <li><strong>Uncertainty/logprob checks</strong> to trigger abstention, retrieval, or human review.</li>
+  </ol>
+
+  <p class="back">Source: <a href="logit-based-llm-guardrails.md">Markdown version</a></p>
+</body>
+</html>
