@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Running LLMs on a Raspberry Pi 5 (8GB)</title>
+  <style>
+    body {
+      margin: 40px auto;
+      max-width: 860px;
+      padding: 0 20px;
+      background: #fff;
+      color: #111;
+      font: 16px/1.6 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    h1, h2, h3 { line-height: 1.25; }
+    h1 { margin-bottom: 0.25rem; }
+    a { color: #0645ad; }
+    code { background: #f5f5f5; padding: 0.1rem 0.25rem; border-radius: 3px; }
+    pre { background: #f5f5f5; padding: 1rem; overflow-x: auto; border-radius: 4px; }
+    pre code { padding: 0; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ddd; padding: 0.45rem; text-align: left; vertical-align: top; }
+    th { background: #f5f5f5; }
+    blockquote { border-left: 3px solid #ddd; margin-left: 0; padding-left: 1rem; color: #444; }
+    .back { color: #666; font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <p class="back"><a href="index.html">← Research index</a> · Source: <a href="llm-on-raspberry-pi-edge-prompt-cache.md">Markdown</a></p>
+<h1 id="running-llms-on-a-raspberry-pi-5-8gb-prompt-caching-and-speed-techniques">Running LLMs on a Raspberry Pi 5 (8GB): prompt caching and speed techniques</h1>
+<p>Date: 2026-06-22</p>
+<h2 id="executive-summary">Executive summary</h2>
+<p>A Raspberry Pi 5 with 8GB RAM can run useful local LLMs, but the practical target is <strong>small quantized models</strong> rather than 7B+ models. For interactive use, start with <strong>0.5B-3B parameter models</strong> in <strong>GGUF</strong> format through <strong>llama.cpp</strong> or <strong>Ollama</strong>. Expect roughly:</p>
+<ul>
+<li><strong>1-1.5B models:</strong> often usable for chat, about <strong>5-15 tokens/s</strong> in community and published Pi 5 benchmarks.</li>
+<li><strong>3B models:</strong> more capable, but slower, often <strong>2-5 tokens/s</strong>.</li>
+<li><strong>7B models:</strong> may technically load at aggressive quantization, but are usually too slow for interactive use on the base Pi 5.</li>
+</ul>
+<p>The biggest speed wins come from: choosing a smaller or better-distilled model, using 4-bit/5-bit quantization, keeping prompts short, running the model as a long-lived server, reusing prompt/KV cache, avoiding swap, and cooling/powering the Pi well.</p>
+<h2 id="what-llm-on-the-edge-means-here">What “LLM on the edge” means here</h2>
+<p>“LLM on the edge” means the model runs on a local device near the sensor/user/application rather than in a cloud data center. For a Raspberry Pi 5, the benefits are privacy, offline operation, predictable cost, and low-latency local control. The tradeoff is severe compute and memory-bandwidth limits.</p>
+<p>The Pi 5 is usually <strong>memory-bandwidth-bound</strong> during token generation: each new token requires repeatedly reading model weights from RAM. That is why model size and quantization dominate performance.</p>
+<h2 id="recommended-stack">Recommended stack</h2>
+<h3 id="easiest-path-ollama">Easiest path: Ollama</h3>
+<p>Use Ollama if you want the fastest setup and an OpenAI-compatible local API:</p>
+<pre><code class="language-bash">curl -fsSL https://ollama.com/install.sh | sh
+sudo systemctl enable ollama
+sudo systemctl start ollama
+ollama pull qwen2.5:1.5b
+ollama run qwen2.5:1.5b
+</code></pre>
+<p>Good first models to try:</p>
+<ul>
+<li><code>qwen2.5:1.5b</code> or a newer small Qwen/Qwen-Coder model for general utility.</li>
+<li><code>llama3.2:1b</code> or <code>llama3.2:3b</code> for Meta’s small edge-friendly family.</li>
+<li><code>gemma3:1b</code> / small Gemma variants where available.</li>
+<li>TinyLlama-class models for maximum speed, accepting lower quality.</li>
+</ul>
+<h3 id="more-control-llamacpp">More control: llama.cpp</h3>
+<p>Use llama.cpp if you want direct control over quantization, prompt cache behavior, KV-cache types, context length, speculative decoding, and benchmarking.</p>
+<p>Build with OpenBLAS on Raspberry Pi OS / Linux:</p>
+<pre><code class="language-bash">sudo apt update
+sudo apt install -y build-essential cmake git libopenblas-dev
+
+git clone https://github.com/ggml-org/llama.cpp
+cd llama.cpp
+cmake -B build -DGGML_BLAS=ON -DGGML_BLAS_VENDOR=OpenBLAS
+cmake --build build --config Release -j4
+</code></pre>
+<p>llama.cpp’s build documentation notes that BLAS helps prompt processing/prefill; it does not significantly improve autoregressive token-by-token generation.</p>
+<h2 id="prompt-cache-techniques">Prompt cache techniques</h2>
+<p>There are several different “caches” people mean when they say prompt caching.</p>
+<h3 id="1-normal-kv-cache-inside-a-conversation">1. Normal KV cache inside a conversation</h3>
+<p>Every transformer inference engine stores keys and values for previous tokens so that each new token does not recompute the entire conversation from scratch. This is the <strong>KV cache</strong>. It is essential and normally always used.</p>
+<p>Tradeoff: KV cache consumes RAM proportional to context length, number of layers, hidden size, and concurrent sessions. Long context windows can push a Pi into swap, destroying speed.</p>
+<p>Practical advice:</p>
+<ul>
+<li>Keep context modest: start around <strong>2048-4096 tokens</strong>.</li>
+<li>Do not paste huge documents directly; use RAG or summaries.</li>
+<li>Avoid long chat histories; periodically summarize.</li>
+</ul>
+<h3 id="2-prefixprompt-cache-across-requests">2. Prefix/prompt cache across requests</h3>
+<p>If many requests share the same system prompt, tool instructions, persona, or document prefix, the server can reuse the already-computed KV state for the common prefix.</p>
+<p>In llama.cpp server, prompt caching is exposed as <code>--cache-prompt</code> / <code>--no-cache-prompt</code> and is enabled by default in current server docs. API requests can also use <code>cache_prompt: true</code>. The common prefix must be byte/token identical enough to be reused.</p>
+<p>Design prompts for prefix reuse:</p>
+<pre><code class="language-text">[stable system prompt]
+[stable tool instructions]
+[stable examples]
+
+User request:
+{dynamic user text}
+</code></pre>
+<p>Avoid putting volatile values such as timestamps, random IDs, or per-request metadata at the top of the prompt, because they break the shared prefix. Put dynamic data late.</p>
+<h3 id="3-llamacpp-slots-for-repeated-sessions">3. llama.cpp slots for repeated sessions</h3>
+<p>llama-server has “slots.” A slot can retain a conversation/prefix state. If you have two recurring prompt patterns, run multiple slots and keep each pattern pinned to a slot.</p>
+<p>Example server shape:</p>
+<pre><code class="language-bash">./build/bin/llama-server \
+  -m models/qwen2.5-1.5b-instruct-q4_k_m.gguf \
+  -c 4096 \
+  -t 4 \
+  -np 2 \
+  --host 0.0.0.0 \
+  --port 8080
+</code></pre>
+<p>Then send requests with stable prefixes and <code>cache_prompt: true</code>. For a single-user appliance, <code>-np 1</code> is usually simpler and uses less RAM.</p>
+<h3 id="4-persisting-cachesession-state">4. Persisting cache/session state</h3>
+<p>llama-server exposes <code>--slot-save-path PATH</code>, which can be used by clients that save and restore slot KV state. This is useful when you have a large fixed system prompt or local knowledge prefix that you want to avoid recomputing after a restart.</p>
+<p>Caveat: persistent KV cache is fragile across model changes, prompt changes, tokenizer changes, and llama.cpp version changes. Treat it as an optimization, not as durable application state.</p>
+<h3 id="5-kv-cache-quantization">5. KV-cache quantization</h3>
+<p>llama.cpp supports separate KV cache data types, for example:</p>
+<pre><code class="language-bash">--cache-type-k q8_0 --cache-type-v q8_0
+# or more aggressive:
+--cache-type-k q4_0 --cache-type-v q4_0
+</code></pre>
+<p>This can reduce RAM use and allow longer contexts or more slots. On a Pi, the main benefit is often <strong>avoiding swap</strong> rather than raw speed. Start with default <code>f16</code>; try <code>q8_0</code> if memory is tight; use <code>q4_0</code> only after testing answer quality.</p>
+<h2 id="other-speed-techniques">Other speed techniques</h2>
+<h3 id="1-pick-the-right-model-size">1. Pick the right model size</h3>
+<p>This matters more than almost everything else. For a Pi 5 8GB:</p>
+<table>
+<thead>
+<tr>
+<th>Model size</th>
+<th style="text-align: right;">Practicality</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&lt;1B</td>
+<td style="text-align: right;">Fastest</td>
+<td>Good for classification, routing, simple commands.</td>
+</tr>
+<tr>
+<td>1-1.5B</td>
+<td style="text-align: right;">Best first target</td>
+<td>Usable chat speed with small-model quality limits.</td>
+</tr>
+<tr>
+<td>2-3B</td>
+<td style="text-align: right;">Better answers, slower</td>
+<td>Good for careful tasks where waiting is okay.</td>
+</tr>
+<tr>
+<td>7B+</td>
+<td style="text-align: right;">Usually not interactive</td>
+<td>May load with low-bit quantization but slow.</td>
+</tr>
+</tbody>
+</table>
+<p>Research and community benchmarks identify small Gemma, Qwen, and Llama 3.2 1B/3B models as strong candidates. Stratosphere Laboratory’s Pi 5 testing found <code>gemma3:1b</code>, <code>llama3.2:1b-instruct</code>, and <code>qwen2.5:1.5b</code> among the more efficient choices.</p>
+<h3 id="2-use-quantized-gguf-weights">2. Use quantized GGUF weights</h3>
+<p>Use Q4 or Q5 quantization for most Pi deployments:</p>
+<ul>
+<li><strong>Q4_K_M / Q4_0:</strong> smaller and faster, some quality loss.</li>
+<li><strong>Q5_K_M:</strong> larger and sometimes better quality, modestly slower.</li>
+<li><strong>Q8_0:</strong> better quality but often too large/slow for edge use.</li>
+</ul>
+<p>Avoid full precision models on the Pi.</p>
+<h3 id="3-keep-prompts-short-and-structured">3. Keep prompts short and structured</h3>
+<p>Prompt prefill can be a large part of latency, especially with long system prompts. Techniques:</p>
+<ul>
+<li>Put fixed instructions in a cached prefix.</li>
+<li>Keep examples few and short.</li>
+<li>Use bullet-point output requirements instead of long prose.</li>
+<li>Cap retrieved RAG context aggressively.</li>
+<li>Summarize old conversation turns.</li>
+</ul>
+<h3 id="4-limit-generation-length">4. Limit generation length</h3>
+<p>Set a realistic maximum output token count. A model producing 5 tokens/s takes about 40 seconds to generate 200 tokens. For command/control tasks, ask for compact JSON or short answers.</p>
+<h3 id="5-run-a-long-lived-server">5. Run a long-lived server</h3>
+<p>Avoid reloading the model for every request. Use Ollama or llama-server as a service so model weights stay memory-mapped/in RAM and caches can be reused.</p>
+<h3 id="6-tune-threads-batch-and-context-empirically">6. Tune threads, batch, and context empirically</h3>
+<p>For Pi 5’s four Cortex-A76 cores, start with:</p>
+<pre><code class="language-bash">-t 4 -c 2048
+</code></pre>
+<p>Then benchmark. Larger batch sizes help prompt processing but consume memory. Larger context windows consume KV cache memory and can slow down when memory pressure increases.</p>
+<p>Use llama.cpp’s benchmarking tools if possible:</p>
+<pre><code class="language-bash">./build/bin/llama-bench -m model.gguf
+</code></pre>
+<h3 id="7-avoid-thermal-throttling-and-slow-storage">7. Avoid thermal throttling and slow storage</h3>
+<p>Hardware matters:</p>
+<ul>
+<li>Use the official high-quality power supply.</li>
+<li>Use active cooling.</li>
+<li>Prefer SSD/NVMe over microSD for model loading and general responsiveness.</li>
+<li>Monitor temperature and throttling.</li>
+<li>Avoid swap during inference; if the system swaps, use a smaller model/context.</li>
+</ul>
+<h3 id="8-speculative-decoding">8. Speculative decoding</h3>
+<p>Speculative decoding uses a faster draft model to propose tokens that the main model verifies in batches. llama.cpp supports it via draft model options such as <code>--model-draft</code> / <code>--spec-draft-model</code> and also supports n-gram speculative modes.</p>
+<p>On a Raspberry Pi, classic two-model speculative decoding may not always help because it loads another model and increases memory pressure. It is most worth testing when:</p>
+<ul>
+<li>The target model is relatively large and slow.</li>
+<li>The draft model is tiny and from a compatible family.</li>
+<li>You have enough RAM headroom.</li>
+</ul>
+<p>N-gram speculative decoding is lightweight and can help for repetitive text, editing, summarization, or code-like workloads.</p>
+<h3 id="9-application-level-caching">9. Application-level caching</h3>
+<p>For edge applications, do not rely only on model-level caches. Add simple application caches:</p>
+<ul>
+<li>Cache exact prompt -&gt; answer for repeated questions.</li>
+<li>Cache embeddings/RAG retrieval results.</li>
+<li>Cache summaries of documents.</li>
+<li>Cache tool outputs, sensor readings, or parsed state.</li>
+</ul>
+<p>This can outperform any inference optimization if your workload repeats.</p>
+<h3 id="10-consider-accelerator-hardware-but-check-model-support">10. Consider accelerator hardware, but check model support</h3>
+<p>The base Pi 5 runs LLMs on CPU. Raspberry Pi’s newer AI HAT+ 2 / Hailo-10H class hardware is aimed at generative AI acceleration, but model/runtime support is narrower than llama.cpp CPU inference. For experimentation across many models, CPU llama.cpp is more flexible. For a fixed appliance model, an accelerator may be useful if it supports exactly your model family and quantization.</p>
+<h2 id="practical-starting-configuration">Practical starting configuration</h2>
+<p>For a first Pi 5 8GB experiment:</p>
+<ol>
+<li>Install Ollama for convenience.</li>
+<li>Try <code>qwen2.5:1.5b</code>, <code>llama3.2:1b</code>, and <code>llama3.2:3b</code>.</li>
+<li>Measure latency and tokens/s on your real prompts.</li>
+<li>If you need more control, move to llama.cpp with a Q4_K_M GGUF.</li>
+<li>Run as a persistent server.</li>
+<li>Keep the system prompt stable and put dynamic content late.</li>
+<li>Enable/use prompt caching; test whether repeated requests skip prefill.</li>
+<li>Keep context at 2048 or 4096 initially.</li>
+<li>Only then experiment with KV-cache quantization, speculative decoding, and accelerator hardware.</li>
+</ol>
+<p>Example llama-server command:</p>
+<pre><code class="language-bash">./build/bin/llama-server \
+  -m models/qwen2.5-1.5b-instruct-q4_k_m.gguf \
+  --host 0.0.0.0 \
+  --port 8080 \
+  -t 4 \
+  -c 4096 \
+  -np 1 \
+  --cache-prompt \
+  --cache-type-k q8_0 \
+  --cache-type-v q8_0
+</code></pre>
+<p>If quality drops or memory is fine, remove the KV quantization flags and use the default cache type.</p>
+<h2 id="checklist-for-fast-edge-answers">Checklist for fast edge answers</h2>
+<ul>
+<li>[ ] Use a 1-1.5B model first.</li>
+<li>[ ] Use Q4/Q5 GGUF quantization.</li>
+<li>[ ] Keep the model loaded in a server process.</li>
+<li>[ ] Use stable prompt prefixes to maximize prompt cache hits.</li>
+<li>[ ] Put dynamic per-request data after the stable prefix.</li>
+<li>[ ] Keep context length modest.</li>
+<li>[ ] Cap output length.</li>
+<li>[ ] Use active cooling and good power.</li>
+<li>[ ] Avoid swap.</li>
+<li>[ ] Benchmark with your real prompts, not only synthetic examples.</li>
+</ul>
+<h2 id="sources">Sources</h2>
+<ul>
+<li>llama.cpp server README: prompt caching, slots, slot save path, KV cache type flags, speculative options: https://github.com/ggml-org/llama.cpp/blob/master/tools/server/README.md</li>
+<li>llama.cpp build documentation: OpenBLAS build flags and BLAS notes: https://github.com/ggml-org/llama.cpp/blob/master/docs/build.md</li>
+<li>llama.cpp speculative decoding documentation: https://github.com/ggml-org/llama.cpp/blob/master/docs/speculative.md</li>
+<li>Stratosphere Laboratory, “How Well Do LLMs Perform on a Raspberry Pi 5?” (2025): https://www.stratosphereips.org/blog/2025/6/5/how-well-do-llms-perform-on-a-raspberry-pi-5</li>
+<li>TinyWeights, “Running LLMs on Raspberry Pi 5: A Practical Guide with Real Benchmarks” (2026): https://tinyweights.dev/posts/run-llms-raspberry-pi-5/</li>
+<li>Raspberry Pi AI software documentation: https://www.raspberrypi.com/documentation/computers/ai.html</li>
+<li>Raspberry Pi announcement of AI HAT+ 2 / generative AI acceleration: https://www.raspberrypi.com/news/introducing-the-raspberry-pi-ai-hat-plus-2-generative-ai-on-raspberry-pi-5/</li>
+</ul>
+</body>
+</html>
