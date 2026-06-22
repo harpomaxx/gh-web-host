@@ -413,7 +413,8 @@ function genComparar(){
 function genProblema(){
   const name=pick(NAMES), name2=pick(NAMES.filter(x=>x!==name));
   const thing=pick(THINGS), place=pick(PLACES);
-  const kind=pick(['suma','resta','multi','divi']);
+  // división aparece con más frecuencia que el resto
+  const kind=pick(['suma','resta','multi','divi','divi','divi']);
   let a,b,answer,text,opName;
 
   if(kind==='suma'){
@@ -446,13 +447,37 @@ function genProblema(){
 
 /* 4) CÁLCULO directo: suma, resta, multi x1 cifra, divi x1 cifra */
 function genCalculo(){
-  const kind=pick(['suma','resta','multi','divi']);
+  const kind=pick(['suma','resta','multi','divi','divi']);
   let txt,answer,ribbon;
   if(kind==='suma'){ const a=rnd(150,7800),b=rnd(150,7800); txt=`${a} + ${b}`; answer=a+b; ribbon='➕ Suma'; }
   else if(kind==='resta'){ const a=rnd(900,9500),b=rnd(120,a-50); txt=`${a} − ${b}`; answer=a-b; ribbon='➖ Resta'; }
   else if(kind==='multi'){ const a=rnd(12,98),b=rnd(2,9); txt=`${a} × ${b}`; answer=a*b; ribbon='✖️ Por 1 cifra'; }
   else { const b=rnd(2,9),q=rnd(11,98); txt=`${q*b} ÷ ${b}`; answer=q; ribbon='➗ Por 1 cifra'; }
   return { type:'num', ribbon, prompt:'Resolvé el cálculo:', big:txt, hint:'Tomate tu tiempo y revisá.', answer };
+}
+
+/* 4b) DIVISIÓN dedicada por 1 cifra (exacta o con resto) */
+function genDivision(){
+  const conResto = Math.random()<0.35;
+  const b = rnd(2,9);
+  if(!conResto){
+    const q = rnd(11,98);
+    return {
+      type:'num', ribbon:'➗ División',
+      prompt:'Resolvé la división:', big:`${q*b} ÷ ${b}`,
+      hint:'¿Cuántas veces entra el divisor?', answer:q
+    };
+  } else {
+    const q = rnd(11,80), r = rnd(1,b-1);
+    const dividendo = q*b + r;
+    return {
+      type:'num', ribbon:'➗ División con resto',
+      prompt:`En ${dividendo} ÷ ${b}, ¿cuál es el cociente?`,
+      big:`${dividendo} ÷ ${b}`,
+      hint:'El cociente es el resultado entero (sin contar lo que sobra).',
+      answer:q
+    };
+  }
 }
 
 /* 5) COMBINADAS muy simples: a × b + c  /  a × b − c  /  a + b × c */
@@ -541,12 +566,13 @@ function genRectas(){
   }
 }
 
-/* pool de generadores con pesos (resolución de problemas y cálculo aparecen más) */
+/* pool de generadores con pesos. genDivision se suma para que haya MÁS divisiones */
 const GENERATORS = [
   genEscritura, genEscritura,
   genComparar, genComparar,
   genProblema, genProblema, genProblema,
   genCalculo, genCalculo,
+  genDivision, genDivision, genDivision,
   genCombinada, genCombinada,
   genRectas, genRectas,
 ];
