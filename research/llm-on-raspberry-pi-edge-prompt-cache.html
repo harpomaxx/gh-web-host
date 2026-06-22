@@ -114,6 +114,93 @@ User request:
 --cache-type-k q4_0 --cache-type-v q4_0
 </code></pre>
 <p>This can reduce RAM use and allow longer contexts or more slots. On a Pi, the main benefit is often <strong>avoiding swap</strong> rather than raw speed. Start with default <code>f16</code>; try <code>q8_0</code> if memory is tight; use <code>q4_0</code> only after testing answer quality.</p>
+<h3 id="6-gist-tokens-and-kv-cache-transfer-for-agents">6. Gist tokens and KV-cache transfer for agents</h3>
+<p><strong>Gist tokens</strong> are an advanced prompt-compression idea: train or fine-tune a model to compress a long prompt into a small number of special tokens. The paper “Learning to Compress Prompts with Gist Tokens” presents this as a way to cache and reuse compressed representations of instructions, achieving large prompt-compression ratios in the studied settings.</p>
+<p>Conceptually:</p>
+<pre><code class="language-text">Long reusable prefix:
+  system prompt + examples + tool docs + agent memory
+
+↓ learned compression
+
+[gist token] or [gist token 1] [gist token 2] ...
+
+↓ reused with new requests
+
+[gist tokens] + new user request
+</code></pre>
+<p>This is related to, but not the same as, normal prompt caching:</p>
+<ul>
+<li><strong>Prompt/KV cache reuse</strong> keeps the internal key/value tensors for an exact or near-exact prefix so the model does not redo prefill.</li>
+<li><strong>Gist tokens</strong> try to replace a long text prefix with a shorter learned representation.</li>
+<li><strong>KV-cache transfer</strong> saves, streams, or moves the internal KV cache blocks themselves between sessions, agents, or servers.</li>
+</ul>
+<p>For LLM agents, these techniques target the same bottleneck: agents often repeat large stable prefixes such as role instructions, tool schemas, examples, safety rules, and memory. If the agent loop repeatedly sends similar prefixes, prefill becomes a major cost even before generation starts.</p>
+<p>A useful mental model for agent deployments:</p>
+<pre><code class="language-text">Agent base context
+  = system prompt + tool descriptions + policies + stable memory
+        ↓ prefill once
+Reusable KV block or compressed gist
+        ↓ append changing task state
+Current user message + tool observations + generation
+</code></pre>
+<p>For a Raspberry Pi 5, the practical recommendation is conservative:</p>
+<table>
+<thead>
+<tr>
+<th>Technique</th>
+<th style="text-align: right;">Practical on Pi 5 today?</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stable prefix design</td>
+<td style="text-align: right;">Yes</td>
+<td>Put reusable instructions first and dynamic data late.</td>
+</tr>
+<tr>
+<td>llama.cpp prompt cache / slot reuse</td>
+<td style="text-align: right;">Yes</td>
+<td>Best immediate approximation of “agent memory below the prompt.”</td>
+</tr>
+<tr>
+<td>Persistent slot KV cache</td>
+<td style="text-align: right;">Partly</td>
+<td>Useful for fixed agents, but fragile across model/runtime/prompt changes.</td>
+</tr>
+<tr>
+<td>KV-cache quantization</td>
+<td style="text-align: right;">Yes</td>
+<td>Helps fit longer agent contexts without swapping.</td>
+</tr>
+<tr>
+<td>Learned gist tokens</td>
+<td style="text-align: right;">Experimental</td>
+<td>Requires model training/fine-tuning and runtime/model support.</td>
+</tr>
+<tr>
+<td>Cross-agent or cross-device KV transfer</td>
+<td style="text-align: right;">Experimental</td>
+<td>Cache tensors are not portable like text.</td>
+</tr>
+</tbody>
+</table>
+<p>Important limitations:</p>
+<ul>
+<li>A KV cache generally only works with the <strong>same model weights, tokenizer, prompt tokens, position encoding/RoPE settings, context layout, and runtime assumptions</strong>.</li>
+<li>Cache blocks are not a stable data format for long-term storage. Treat them as an inference optimization, not durable memory.</li>
+<li>Learned gist tokens are not available as a simple flag for arbitrary Ollama or llama.cpp GGUF models.</li>
+<li>For small Pi-friendly models, the overhead of sophisticated cache transfer may exceed the benefit unless the stable prefix is large and reused often.</li>
+</ul>
+<p>Best edge-agent pattern:</p>
+<ol>
+<li>Use a small quantized model.</li>
+<li>Design one stable agent prefix.</li>
+<li>Run llama-server continuously with one slot per active agent/session if RAM allows.</li>
+<li>Use <code>cache_prompt: true</code> and keep dynamic observations after the stable prefix.</li>
+<li>Consider <code>--slot-save-path</code> for restart recovery of fixed agent states.</li>
+<li>Only explore learned gist tokens or cross-device KV transfer if you control the model/runtime and have a repeated long-prefix workload.</li>
+</ol>
 <h2 id="other-speed-techniques">Other speed techniques</h2>
 <h3 id="1-pick-the-right-model-size">1. Pick the right model size</h3>
 <p>This matters more than almost everything else. For a Pi 5 8GB:</p>
@@ -251,6 +338,8 @@ User request:
 <li>llama.cpp server README: prompt caching, slots, slot save path, KV cache type flags, speculative options: https://github.com/ggml-org/llama.cpp/blob/master/tools/server/README.md</li>
 <li>llama.cpp build documentation: OpenBLAS build flags and BLAS notes: https://github.com/ggml-org/llama.cpp/blob/master/docs/build.md</li>
 <li>llama.cpp speculative decoding documentation: https://github.com/ggml-org/llama.cpp/blob/master/docs/speculative.md</li>
+<li>Mu, Li, and Goodman, “Learning to Compress Prompts with Gist Tokens” (2023): https://arxiv.org/abs/2304.08467</li>
+<li>CacheGen, “KV Cache Compression and Streaming for Fast Large Language Model Serving” (2024): https://arxiv.org/abs/2310.07240</li>
 <li>Stratosphere Laboratory, “How Well Do LLMs Perform on a Raspberry Pi 5?” (2025): https://www.stratosphereips.org/blog/2025/6/5/how-well-do-llms-perform-on-a-raspberry-pi-5</li>
 <li>TinyWeights, “Running LLMs on Raspberry Pi 5: A Practical Guide with Real Benchmarks” (2026): https://tinyweights.dev/posts/run-llms-raspberry-pi-5/</li>
 <li>Raspberry Pi AI software documentation: https://www.raspberrypi.com/documentation/computers/ai.html</li>
