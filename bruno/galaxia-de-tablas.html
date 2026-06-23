@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Galaxia de las Tablas · Multiplicar</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Baloo+2:wght@600;700;800&family=Orbitron:wght@600;800&display=swap');
+
+  :root{
+    --space:#0b1030;
+    --space2:#171b4d;
+    --nebula:#3a1d6e;
+    --cyan:#22e0d8;
+    --cyan-deep:#0fb8b0;
+    --magenta:#ff4d9d;
+    --violet:#8a6bff;
+    --gold:#ffd23c;
+    --gold-deep:#ffae1b;
+    --green:#3ce67a;
+    --green-deep:#1fb95a;
+    --red:#ff5470;
+    --ink:#0a0e24;
+    --panel:#1b2150;
+    --panel2:#232a63;
+    --text:#eef1ff;
+    --muted:#9aa3d8;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'Fredoka',system-ui,sans-serif;
+    background:
+      radial-gradient(circle at 78% 12%, rgba(138,107,255,.35), transparent 42%),
+      radial-gradient(circle at 12% 80%, rgba(34,224,216,.22), transparent 45%),
+      radial-gradient(circle at 50% 50%, rgba(255,77,157,.12), transparent 60%),
+      linear-gradient(160deg, var(--space) 0%, var(--space2) 60%, var(--nebula) 130%);
+    min-height:100vh;color:var(--text);overflow-x:hidden;
+    -webkit-tap-highlight-color:transparent;
+  }
+  .stars{position:fixed;inset:0;z-index:0;pointer-events:none}
+  .star{position:absolute;background:#fff;border-radius:50%;animation:tw 3s infinite ease-in-out}
+  @keyframes tw{0%,100%{opacity:.2;transform:scale(.7)}50%{opacity:1;transform:scale(1.3)}}
+  .shoot{position:absolute;width:2px;height:80px;background:linear-gradient(transparent,#fff);opacity:0}
+
+  .wrap{position:relative;z-index:2;max-width:740px;margin:0 auto;padding:18px 16px 60px}
+
+  /* HUD */
+  header{
+    display:flex;align-items:center;gap:12px;
+    background:rgba(27,33,80,.85);backdrop-filter:blur(6px);
+    border:2px solid var(--violet);border-radius:20px;padding:11px 16px;
+    box-shadow:0 0 26px rgba(138,107,255,.35), inset 0 0 18px rgba(34,224,216,.08);
+    margin-bottom:16px;
+  }
+  .logo{font-family:'Orbitron',sans-serif;font-weight:800;font-size:1.25rem;letter-spacing:1px;
+    background:linear-gradient(90deg,var(--cyan),var(--magenta));-webkit-background-clip:text;background-clip:text;color:transparent;
+    display:flex;align-items:center;gap:8px}
+  .logo .rocket{-webkit-text-fill-color:initial;font-size:1.5rem;filter:drop-shadow(0 0 6px var(--cyan))}
+  .hud{margin-left:auto;display:flex;gap:9px;flex-wrap:wrap}
+  .chip{background:rgba(10,14,36,.7);border:2px solid var(--cyan-deep);border-radius:13px;padding:5px 11px;
+    font-weight:600;display:flex;align-items:center;gap:5px;font-size:.92rem;box-shadow:inset 0 0 10px rgba(34,224,216,.12)}
+  .chip.gold{border-color:var(--gold-deep)}
+  .chip.fuel{border-color:var(--magenta)}
+  .chip b{font-family:'Baloo 2';font-size:1.05rem}
+
+  /* generic panel */
+  .panel{
+    background:linear-gradient(180deg, rgba(35,42,99,.95), rgba(27,33,80,.95));
+    border:2.5px solid var(--violet);border-radius:26px;
+    box-shadow:0 0 32px rgba(138,107,255,.3), inset 0 0 24px rgba(11,16,48,.5);
+    padding:24px 20px;position:relative;animation:warp .45s cubic-bezier(.2,1.4,.4,1) both;
+  }
+  @keyframes warp{from{opacity:0;transform:scale(.9) translateY(16px)}to{opacity:1;transform:scale(1) translateY(0)}}
+
+  /* ---------- START / MAP ---------- */
+  .hero{text-align:center}
+  .hero .big-rocket{font-size:4.6rem;animation:float 3s infinite ease-in-out;filter:drop-shadow(0 0 16px var(--cyan))}
+  @keyframes float{0%,100%{transform:translateY(0) rotate(-3deg)}50%{transform:translateY(-12px) rotate(3deg)}}
+  .hero h1{font-family:'Orbitron';font-weight:800;font-size:2rem;margin:8px 0 4px;letter-spacing:1px;
+    background:linear-gradient(90deg,var(--cyan),var(--violet),var(--magenta));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .hero .sub{color:var(--muted);font-size:1.1rem;margin-bottom:18px}
+
+  .mode-title{font-family:'Baloo 2';font-weight:700;font-size:1.05rem;color:var(--cyan);margin:18px 0 10px;text-align:left}
+
+  /* planet picker = choose table */
+  .planets{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+  @media(max-width:520px){.planets{grid-template-columns:repeat(3,1fr)}}
+  .planet{
+    aspect-ratio:1;border-radius:50%;border:none;cursor:pointer;position:relative;
+    font-family:'Baloo 2';font-weight:800;font-size:1.5rem;color:#fff;
+    display:flex;align-items:center;justify-content:center;
+    box-shadow:0 6px 0 rgba(0,0,0,.35), inset -6px -8px 14px rgba(0,0,0,.3), inset 6px 6px 12px rgba(255,255,255,.25);
+    transition:transform .12s;
+  }
+  .planet:hover{transform:translateY(-3px) scale(1.05)}
+  .planet:active{transform:translateY(2px)}
+  .planet small{position:absolute;bottom:-4px;left:50%;transform:translateX(-50%);font-size:.55rem;
+    font-family:'Fredoka';font-weight:600;background:rgba(0,0,0,.55);padding:1px 7px;border-radius:8px;white-space:nowrap;
+    color:var(--gold)}
+  .planet .ring{position:absolute;inset:-8px -18px;border:3px solid rgba(255,255,255,.3);border-radius:50%;
+    transform:rotate(-18deg);pointer-events:none}
+
+  .mode-btns{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:6px}
+  @media(max-width:520px){.mode-btns{grid-template-columns:1fr}}
+  .mode-btn{
+    text-align:left;background:rgba(10,14,36,.55);border:2px solid var(--cyan-deep);border-radius:18px;
+    padding:14px 16px;cursor:pointer;color:var(--text);box-shadow:0 4px 0 rgba(0,0,0,.3);transition:transform .1s,border-color .15s}
+  .mode-btn:hover{border-color:var(--cyan);transform:translateY(-2px)}
+  .mode-btn:active{transform:translateY(2px);box-shadow:0 1px 0 rgba(0,0,0,.3)}
+  .mode-btn .mt{font-family:'Baloo 2';font-weight:800;font-size:1.15rem;display:flex;align-items:center;gap:8px}
+  .mode-btn .md{color:var(--muted);font-size:.92rem;margin-top:3px}
+
+  /* progress (mission) */
+  .mission{display:flex;align-items:center;gap:10px;margin-bottom:14px;
+    background:rgba(10,14,36,.55);border:2px solid var(--violet);border-radius:16px;padding:9px 12px}
+  .mission .label{font-weight:600;font-size:.9rem;color:var(--muted);white-space:nowrap}
+  .mission .track{flex:1;height:14px;background:rgba(0,0,0,.4);border-radius:8px;overflow:hidden;position:relative}
+  .mission .fill{height:100%;width:0;background:linear-gradient(90deg,var(--cyan),var(--magenta));transition:width .5s cubic-bezier(.3,1.4,.5,1)}
+  .mission .ship{position:absolute;top:50%;transform:translate(-50%,-50%);font-size:1rem;transition:left .5s cubic-bezier(.3,1.4,.5,1);filter:drop-shadow(0 0 4px var(--cyan))}
+
+  /* QUESTION */
+  .qtag{font-family:'Orbitron';font-size:.78rem;letter-spacing:1px;color:var(--cyan);text-transform:uppercase;margin-bottom:10px;text-align:center}
+  .equation{font-family:'Baloo 2';font-weight:800;font-size:3rem;text-align:center;margin:6px 0 4px;
+    text-shadow:0 0 18px rgba(34,224,216,.4);letter-spacing:1px}
+  .equation .q{color:var(--gold);animation:pulseq 1.4s infinite}
+  @keyframes pulseq{0%,100%{opacity:1}50%{opacity:.4}}
+  .timerbar{height:8px;background:rgba(0,0,0,.4);border-radius:6px;overflow:hidden;margin:14px 0 18px}
+  .timerbar .t{height:100%;width:100%;background:linear-gradient(90deg,var(--green),var(--gold),var(--red));transition:width .1s linear}
+
+  .opts{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .opt{
+    font-family:'Baloo 2';font-weight:800;font-size:1.7rem;color:var(--text);
+    background:linear-gradient(180deg, var(--panel2), var(--panel));
+    border:2.5px solid var(--violet);border-radius:18px;padding:18px 10px;cursor:pointer;
+    box-shadow:0 5px 0 rgba(0,0,0,.4), inset 0 0 16px rgba(138,107,255,.15);transition:transform .08s}
+  .opt:hover:not(:disabled){border-color:var(--cyan);transform:translateY(-2px)}
+  .opt:active:not(:disabled){transform:translateY(3px);box-shadow:0 2px 0 rgba(0,0,0,.4)}
+  .opt:disabled{cursor:default}
+  .opt.correct{background:linear-gradient(180deg,var(--green),var(--green-deep));border-color:#fff;animation:zap .5s}
+  .opt.wrong{background:linear-gradient(180deg,var(--red),#c0304c);border-color:#fff;animation:shk .4s}
+  .opt.dim{opacity:.35}
+  @keyframes zap{0%,100%{transform:scale(1)}40%{transform:scale(1.08)}}
+  @keyframes shk{0%,100%{transform:translateX(0)}25%{transform:translateX(-8px)}75%{transform:translateX(8px)}}
+
+  /* typed answer */
+  .type-row{display:flex;gap:10px}
+  .type-in{flex:1;font-family:'Baloo 2';font-weight:800;font-size:2rem;text-align:center;color:var(--cyan);
+    background:rgba(10,14,36,.7);border:2.5px solid var(--violet);border-radius:18px;padding:14px;}
+  .type-in:focus{outline:none;border-color:var(--cyan);box-shadow:0 0 18px rgba(34,224,216,.4)}
+  .fire{font-family:'Orbitron';font-weight:800;font-size:1.1rem;color:var(--ink);
+    background:linear-gradient(180deg,var(--gold),var(--gold-deep));border:none;border-radius:18px;padding:0 24px;cursor:pointer;
+    box-shadow:0 5px 0 rgba(0,0,0,.4);transition:transform .08s}
+  .fire:active{transform:translateY(3px);box-shadow:0 2px 0 rgba(0,0,0,.4)}
+
+  /* feedback */
+  .fb{margin-top:18px;border-radius:16px;padding:13px 16px;font-weight:600;font-size:1.06rem;display:none;
+    align-items:center;gap:12px;border:2px solid;animation:warp .35s both}
+  .fb.show{display:flex}
+  .fb.ok{background:rgba(60,230,122,.16);border-color:var(--green);color:#aef5c6}
+  .fb.no{background:rgba(255,84,112,.16);border-color:var(--red);color:#ffc2cd}
+  .fb .face{font-size:1.9rem}
+  .fb .txt{flex:1}
+  .fb .next{font-family:'Orbitron';font-weight:800;font-size:.95rem;color:var(--ink);
+    background:linear-gradient(180deg,var(--cyan),var(--cyan-deep));border:none;border-radius:13px;padding:10px 18px;cursor:pointer;
+    box-shadow:0 4px 0 rgba(0,0,0,.4);transition:transform .08s;white-space:nowrap}
+  .fb .next:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(0,0,0,.4)}
+
+  /* combo flash */
+  .combo{position:fixed;top:30%;left:50%;transform:translateX(-50%);font-family:'Orbitron';font-weight:800;
+    font-size:2.4rem;color:var(--gold);text-shadow:0 0 20px var(--gold-deep);z-index:60;pointer-events:none;opacity:0}
+
+  /* learn strip (table reference) */
+  .learn{margin-top:16px;background:rgba(10,14,36,.5);border:2px dashed var(--cyan-deep);border-radius:16px;padding:12px 14px}
+  .learn h3{font-family:'Baloo 2';color:var(--cyan);font-size:1rem;margin-bottom:8px;display:flex;align-items:center;gap:6px}
+  .learn .rows{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
+  @media(max-width:520px){.learn .rows{grid-template-columns:repeat(3,1fr)}}
+  .learn .r{background:rgba(138,107,255,.15);border-radius:9px;padding:6px 4px;text-align:center;font-size:.9rem;font-weight:600}
+  .learn .r b{color:var(--gold);font-family:'Baloo 2'}
+
+  /* WIN */
+  .win{text-align:center}
+  .win .planet-won{font-size:5rem;animation:float 2.4s infinite ease-in-out}
+  .win h1{font-family:'Orbitron';font-size:1.8rem;margin:8px 0;
+    background:linear-gradient(90deg,var(--gold),var(--magenta));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .stars-earned{font-size:2.4rem;margin:10px 0;letter-spacing:6px}
+  .btn-main{font-family:'Orbitron';font-weight:800;font-size:1.3rem;color:var(--ink);
+    background:linear-gradient(180deg,var(--green),var(--green-deep));border:none;border-radius:18px;padding:14px 38px;cursor:pointer;
+    box-shadow:0 7px 0 rgba(0,0,0,.4);transition:transform .1s;margin-top:16px}
+  .btn-main:active{transform:translateY(4px);box-shadow:0 3px 0 rgba(0,0,0,.4)}
+  .btn-ghost{font-family:'Fredoka';font-weight:600;font-size:1rem;color:var(--cyan);background:none;border:2px solid var(--cyan-deep);
+    border-radius:14px;padding:11px 22px;cursor:pointer;margin-top:12px}
+  .row-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center}
+
+  .conf{position:fixed;top:-12px;width:10px;height:16px;z-index:55;pointer-events:none;border-radius:2px}
+  .small{color:var(--muted);font-size:.9rem}
+</style>
+</head>
+<body>
+<div class="stars" id="stars"></div>
+<div class="wrap">
+  <header>
+    <div class="logo"><span class="rocket">🚀</span> GALAXIA DE TABLAS</div>
+    <div class="hud">
+      <div class="chip gold"><span>⭐</span><b id="hScore">0</b></div>
+      <div class="chip"><span>⚡</span><b id="hCombo">0</b></div>
+      <div class="chip fuel"><span>🛸</span><b id="hLives">3</b></div>
+    </div>
+  </header>
+  <div id="app"></div>
+</div>
+
+<div class="combo" id="comboFlash"></div>
+
+<script>
+/* ===================================================
+   GALAXIA DE LAS TABLAS — refuerzo de multiplicación
+   =================================================== */
+const app=document.getElementById('app');
+const hud={score:document.getElementById('hScore'),combo:document.getElementById('hCombo'),lives:document.getElementById('hLives')};
+const comboFlash=document.getElementById('comboFlash');
+
+const rnd=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+const pick=a=>a[rnd(0,a.length-1)];
+const shuffle=a=>{const r=[...a];for(let i=r.length-1;i>0;i--){const j=rnd(0,i);[r[i],r[j]]=[r[j],r[i]];}return r;};
+
+const ROUND=10;
+const PLANET_COLORS={
+  2:'#ff7a59',3:'#ffd23c',4:'#3ce67a',5:'#22e0d8',
+  6:'#5b9bff',7:'#8a6bff',8:'#ff4d9d',9:'#ff5470',
+  10:'#b06fd4',0:'#9aa3d8'
+};
+const PLANET_NAMES={2:'Dosaria',3:'Treslux',4:'Cuatropia',5:'Pentaluna',6:'Sextor',7:'Heptania',8:'Octavia',9:'Novaria',10:'Decarion'};
+
+const state={score:0,combo:0,bestCombo:0,lives:3,q:0,correct:0,table:null,mode:'choice',timer:null};
+
+/* ---- stars background ---- */
+(function(){const s=document.getElementById('stars');
+  for(let i=0;i<60;i++){const d=document.createElement('div');d.className='star';
+    const sz=Math.random()*2+1;d.style.width=d.style.height=sz+'px';
+    d.style.left=Math.random()*100+'vw';d.style.top=Math.random()*100+'vh';
+    d.style.animationDelay=Math.random()*3+'s';s.appendChild(d);}
+})();
+
+/* ---- confetti / star burst ---- */
+function burst(n=28){const cols=['#ffd23c','#ff4d9d','#22e0d8','#3ce67a','#8a6bff'];
+  for(let i=0;i<n;i++){const c=document.createElement('div');c.className='conf';
+    c.style.left=Math.random()*100+'vw';c.style.background=pick(cols);
+    document.body.appendChild(c);
+    c.animate([{top:'-12px',opacity:1,transform:'rotate(0)'},
+      {top:'104vh',opacity:.9,transform:`translateX(${(Math.random()-.5)*240}px) rotate(${Math.random()*720}deg)`}],
+      {duration:1100+Math.random()*800,easing:'cubic-bezier(.2,.6,.5,1)'}).onfinish=()=>c.remove();}
+}
+function flashCombo(txt){
+  comboFlash.textContent=txt;
+  comboFlash.animate([{opacity:0,transform:'translateX(-50%) scale(.6)'},
+    {opacity:1,transform:'translateX(-50%) scale(1.1)'},
+    {opacity:0,transform:'translateX(-50%) scale(1.3) translateY(-30px)'}],
+    {duration:1000,easing:'ease-out'});
+}
+
+function syncHud(){hud.score.textContent=state.score;hud.combo.textContent=state.combo;hud.lives.textContent=state.lives;}
+
+/* ===================== SCREENS ===================== */
+function showStart(){
+  const tables=[2,3,4,5,6,7,8,9,10];
+  app.innerHTML=`
+   <div class="panel hero">
+     <div class="big-rocket">🚀</div>
+     <h1>Galaxia de las Tablas</h1>
+     <p class="sub">Elegí un planeta (una tabla) y conquistalo respondiendo bien.</p>
+     <div class="mode-title">🪐 Elegí tu planeta</div>
+     <div class="planets">
+       ${tables.map(t=>`
+         <button class="planet" style="background:radial-gradient(circle at 32% 28%, #fff6, ${PLANET_COLORS[t]} 60%, #0006);"
+           onclick="chooseTable(${t})">
+           ${t}<small>${PLANET_NAMES[t]}</small>
+           ${t%2===0?'<span class="ring"></span>':''}
+         </button>`).join('')}
+       <button class="planet" style="background:radial-gradient(circle at 32% 28%, #fff6, #6a73c0 60%, #0006);"
+         onclick="chooseTable(0)">🌌<small>Mezcla</small></button>
+     </div>
+     <p class="small" style="margin-top:16px">El planeta 🌌 mezcla todas las tablas. ¡El desafío total!</p>
+   </div>`;
+}
+
+function chooseTable(t){
+  state.table=t;
+  app.innerHTML=`
+   <div class="panel hero">
+     <div class="big-rocket" style="font-size:3.4rem">${t===0?'🌌':'🪐'}</div>
+     <h1 style="font-size:1.6rem">${t===0?'Mezcla Galáctica':'Planeta '+PLANET_NAMES[t]}</h1>
+     <p class="sub">${t===0?'Preguntas de todas las tablas.':'Tabla del '+t}</p>
+     <div class="mode-title">🎮 ¿Cómo querés jugar?</div>
+     <div class="mode-btns">
+       <button class="mode-btn" onclick="startRound('choice')">
+         <div class="mt">🛰️ Elegir respuesta</div>
+         <div class="md">Tocá la opción correcta entre 4. Ideal para empezar.</div>
+       </button>
+       <button class="mode-btn" onclick="startRound('type')">
+         <div class="mt">⌨️ Escribir respuesta</div>
+         <div class="md">Tipeá el resultado. Más desafiante.</div>
+       </button>
+     </div>
+     ${t!==0?learnStrip(t):''}
+     <div class="row-btns"><button class="btn-ghost" onclick="showStart()">← Cambiar planeta</button></div>
+   </div>`;
+}
+
+function learnStrip(t){
+  let rows='';
+  for(let i=1;i<=10;i++){rows+=`<div class="r">${t}×${i}=<b>${t*i}</b></div>`;}
+  return `<div class="learn"><h3>📖 Repasá la tabla del ${t}</h3><div class="rows">${rows}</div></div>`;
+}
+
+function startRound(mode){
+  state.mode=mode;state.score=0;state.combo=0;state.bestCombo=0;state.lives=3;state.q=0;state.correct=0;
+  syncHud();
+  nextQuestion();
+}
+
+/* ---- build a question ---- */
+function buildQ(){
+  const a = state.table===0 ? rnd(2,10) : state.table;
+  const b = rnd(1,10);
+  const ans=a*b;
+  // distractores plausibles (cercanos, o de tablas vecinas)
+  const opts=new Set([ans]);
+  const cands=[ans+a, ans-a, ans+b, ans-b, a*(b+1), a*(b-1), ans+rnd(1,4), ans-rnd(1,4)];
+  for(const c of shuffle(cands)){ if(c>0 && c!==ans) opts.add(c); if(opts.size>=4) break; }
+  while(opts.size<4){ opts.add(ans+rnd(1,9)); }
+  return {a,b,ans,opts:shuffle([...opts]).slice(0,4)};
+}
+
+let current=null,timeLeft=0;
+function nextQuestion(){
+  clearInterval(state.timer);
+  if(state.q>=ROUND || state.lives<=0){ showWin(); return; }
+  current=buildQ();
+  state.q++;
+  const pct=Math.round(((state.q-1)/ROUND)*100);
+
+  const optsHTML = state.mode==='choice'
+    ? `<div class="opts" id="opts">${current.opts.map((o,i)=>`<button class="opt" onclick="answerChoice(${i})">${o}</button>`).join('')}</div>`
+    : `<div class="type-row"><input class="type-in" id="typeIn" type="text" inputmode="numeric" placeholder="?" autocomplete="off"><button class="fire" onclick="answerType()">🔥</button></div>`;
+
+  app.innerHTML=`
+   <div class="mission">
+     <span class="label">Misión</span>
+     <div class="track"><div class="fill" id="fill" style="width:${pct}%"></div><span class="ship" id="ship" style="left:${pct}%">🚀</span></div>
+     <span class="label">${state.q}/${ROUND}</span>
+   </div>
+   <div class="panel">
+     <div class="qtag">${state.table===0?'Mezcla galáctica':'Planeta '+PLANET_NAMES[state.table]} · ${state.combo>=2?'⚡combo x'+state.combo:'pregunta '+state.q}</div>
+     <div class="equation">${current.a} <span style="color:var(--magenta)">×</span> ${current.b} = <span class="q">?</span></div>
+     <div class="timerbar"><div class="t" id="timer"></div></div>
+     ${optsHTML}
+     <div class="fb" id="fb"></div>
+   </div>`;
+
+  const inp=document.getElementById('typeIn');
+  if(inp){inp.focus();inp.addEventListener('keydown',e=>{if(e.key==='Enter')answerType();});}
+  startTimer();
+}
+
+/* ---- soft timer: not lose-on-zero, just less points ---- */
+function startTimer(){
+  timeLeft=100;
+  const bar=document.getElementById('timer');
+  state.timer=setInterval(()=>{
+    timeLeft-=0.7;
+    if(bar) bar.style.width=Math.max(0,timeLeft)+'%';
+    if(timeLeft<=0){clearInterval(state.timer);}
+  },100);
+}
+
+function parseNum(raw){const c=String(raw).replace(/[.\s,]/g,'').trim();
+  return (c===''||!/^-?\d+$/.test(c))?NaN:parseInt(c,10);}
+
+function reward(ok){
+  if(ok){
+    state.combo++; state.correct++;
+    if(state.combo>state.bestCombo) state.bestCombo=state.combo;
+    const fast = timeLeft>55, mid=timeLeft>20;
+    let pts = 10 + (fast?6:mid?3:0) + (state.combo>=3?5:state.combo>=2?2:0);
+    state.score+=pts;
+    burst(state.combo>=3?38:22);
+    if(state.combo===3) flashCombo('⚡ COMBO x3 ⚡');
+    else if(state.combo>=5) flashCombo('🔥 EN LLAMAS x'+state.combo);
+    return pts;
+  } else {
+    state.combo=0; state.lives--;
+    return 0;
+  }
+}
+
+function endTimerVisual(){clearInterval(state.timer);}
+
+function showFeedback(ok){
+  const fb=document.getElementById('fb');
+  fb.className='fb show '+(ok?'ok':'no');
+  const face=ok?pick(['🚀','🛸','🌟','😎','🤩']):pick(['☄️','🪨','😅','💫']);
+  const okMsg=pick(['¡Despegamos!','¡Órbita perfecta!','¡Combustible al máximo!','¡Sos un astronauta!','¡Brillante!']);
+  const noMsg=pick(['¡Casi en órbita!','Uy, asteroide. ¡Seguimos!','No pasa nada, ¡al próximo!','¡Concentración, piloto!']);
+  const last=(state.q>=ROUND||state.lives<=0);
+  const correctLine = ok?'':`<br><span class="small">${current.a} × ${current.b} = <b style="color:var(--gold)">${current.ans}</b></span>`;
+  fb.innerHTML=`<span class="face">${face}</span>
+    <span class="txt">${ok?okMsg:noMsg}${correctLine}</span>
+    <button class="next" onclick="nextQuestion()">${last?'🏁 Resultado':'Seguir →'}</button>`;
+}
+
+function answerChoice(i){
+  endTimerVisual();
+  const chosen=current.opts[i];
+  const ok=chosen===current.ans;
+  document.querySelectorAll('#opts .opt').forEach((b,bi)=>{
+    b.disabled=true;
+    if(current.opts[bi]===current.ans) b.classList.add('correct');
+    else if(bi===i) b.classList.add('wrong');
+    else b.classList.add('dim');
+  });
+  reward(ok);syncHud();showFeedback(ok);
+}
+
+function answerType(){
+  const inp=document.getElementById('typeIn');
+  if(inp.value.trim()===''){inp.focus();inp.style.borderColor='var(--red)';return;}
+  const val=parseNum(inp.value);
+  if(Number.isNaN(val)){
+    inp.focus();inp.style.borderColor='var(--gold)';
+    const fb=document.getElementById('fb');fb.className='fb show no';
+    fb.innerHTML=`<span class="face">✏️</span><span class="txt">Escribí el resultado con números.</span>`;
+    return;
+  }
+  endTimerVisual();
+  const ok=val===current.ans;
+  inp.disabled=true;document.querySelector('.fire').disabled=true;
+  inp.style.borderColor=ok?'var(--green)':'var(--red)';
+  reward(ok);syncHud();showFeedback(ok);
+}
+
+/* ---- win screen ---- */
+function showWin(){
+  clearInterval(state.timer);
+  const won=state.lives>0;
+  const acc=Math.round((state.correct/ROUND)*100);
+  const stars = acc>=90?3 : acc>=60?2 : 1;
+  burst(64);
+  const planetLabel = state.table===0?'la Mezcla Galáctica':'el Planeta '+PLANET_NAMES[state.table];
+  app.innerHTML=`
+   <div class="panel win">
+     <div class="planet-won">${won?(stars===3?'🪐':'🌟'):'☄️'}</div>
+     <h1>${won?'¡Planeta conquistado!':'Misión terminada'}</h1>
+     <p class="sub">${won?'Dominaste '+planetLabel:'Te quedaste sin naves, pero aprendiste mucho.'}</p>
+     <div class="stars-earned">${'⭐'.repeat(stars)}${'·'.repeat(3-stars)}</div>
+     <div class="hud" style="justify-content:center;margin:6px 0 4px">
+       <div class="chip gold"><span>⭐</span><b>${state.score}</b> pts</div>
+       <div class="chip"><span>✅</span><b>${state.correct}/${ROUND}</b></div>
+       <div class="chip fuel"><span>⚡</span><b>${state.bestCombo}</b> combo</div>
+     </div>
+     <p class="small" style="margin-top:8px">Precisión: ${acc}%</p>
+     <div class="row-btns">
+       <button class="btn-main" onclick="startRound(state.mode)">🔄 Jugar de nuevo</button>
+     </div>
+     <div class="row-btns">
+       <button class="btn-ghost" onclick="chooseTable(state.table)">🎮 Cambiar modo</button>
+       <button class="btn-ghost" onclick="showStart()">🪐 Otro planeta</button>
+     </div>
+   </div>`;
+}
+
+showStart();
+</script>
+</body>
+</html>
