@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Expedición Naturaleza · Ciencias</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Baloo+2:wght@600;700;800&family=Caveat:wght@600;700&display=swap');
+
+  :root{
+    --forest:#1f4d2e;
+    --forest2:#2e6b3f;
+    --moss:#5a8f3c;
+    --leaf:#86c34a;
+    --sky:#bfe3c4;
+    --sun:#ffc741;
+    --sun-deep:#f5a623;
+    --bark:#7a5230;
+    --bark-deep:#5c3d22;
+    --cream:#fdf6e3;
+    --paper:#fffdf5;
+    --water:#2f9fb5;
+    --berry:#d6455f;
+    --grape:#7b4b9e;
+    --ink:#243023;
+    --muted:#6f7d68;
+    --ok:#3ca35a;
+    --ok-deep:#2b8044;
+    --no:#e25563;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'Fredoka',system-ui,sans-serif;color:var(--ink);min-height:100vh;overflow-x:hidden;
+    -webkit-tap-highlight-color:transparent;
+    background:
+      radial-gradient(circle at 82% 10%, rgba(255,199,65,.4), transparent 38%),
+      radial-gradient(circle at 12% 88%, rgba(47,159,181,.25), transparent 42%),
+      linear-gradient(170deg, #d8f0d0 0%, #acd9a6 45%, #7bbf7a 100%);
+  }
+  /* leaves floating */
+  .scene{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+  .leaf-f{position:absolute;font-size:1.3rem;opacity:.5;animation:fall linear infinite}
+  @keyframes fall{0%{transform:translateY(-10vh) rotate(0)}100%{transform:translateY(110vh) rotate(360deg)}}
+  .hill{position:absolute;bottom:0;width:100%}
+
+  .wrap{position:relative;z-index:2;max-width:760px;margin:0 auto;padding:18px 16px 64px}
+
+  /* HEADER */
+  header{display:flex;align-items:center;gap:12px;background:var(--paper);
+    border:3px solid var(--bark);border-radius:22px;padding:11px 16px;
+    box-shadow:0 7px 0 rgba(92,61,34,.3);margin-bottom:16px}
+  .brand{font-family:'Baloo 2';font-weight:800;font-size:1.3rem;color:var(--forest);display:flex;align-items:center;gap:8px}
+  .brand .bug{font-size:1.6rem;filter:drop-shadow(0 2px 0 rgba(0,0,0,.12))}
+  .hud{margin-left:auto;display:flex;gap:9px;flex-wrap:wrap}
+  .chip{background:var(--cream);border:2.5px solid var(--bark);border-radius:13px;padding:5px 11px;
+    font-weight:600;display:flex;align-items:center;gap:5px;font-size:.92rem;box-shadow:0 3px 0 rgba(92,61,34,.25)}
+  .chip b{font-family:'Baloo 2';font-size:1.05rem}
+
+  /* PANEL */
+  .panel{background:var(--paper);border:3.5px solid var(--bark);border-radius:26px;
+    box-shadow:0 11px 0 rgba(92,61,34,.28);padding:24px 20px;position:relative;
+    animation:grow .42s cubic-bezier(.2,1.4,.4,1) both}
+  @keyframes grow{from{opacity:0;transform:scale(.93) translateY(14px)}to{opacity:1;transform:scale(1) translateY(0)}}
+
+  .tab{position:absolute;top:-16px;left:24px;background:var(--moss);color:#fff;font-family:'Baloo 2';font-weight:700;
+    padding:6px 16px;border-radius:14px;border:3px solid var(--bark);box-shadow:0 4px 0 rgba(92,61,34,.3);
+    font-size:.92rem;display:flex;align-items:center;gap:7px}
+
+  /* START */
+  .hero{text-align:center}
+  .hero .explorer{font-size:4.6rem;animation:bob 2.6s infinite ease-in-out;filter:drop-shadow(0 4px 0 rgba(0,0,0,.1))}
+  @keyframes bob{0%,100%{transform:translateY(0) rotate(-3deg)}50%{transform:translateY(-11px) rotate(3deg)}}
+  .hero h1{font-family:'Baloo 2';font-weight:800;font-size:2.1rem;color:var(--forest);margin:6px 0 2px;line-height:1.05}
+  .hero .sub{color:var(--muted);font-size:1.12rem;margin-bottom:18px}
+  .biomes{display:grid;grid-template-columns:1fr 1fr 1fr;gap:9px;max-width:520px;margin:0 auto 20px}
+  @media(max-width:520px){.biomes{grid-template-columns:1fr 1fr}}
+  .biome{background:var(--cream);border:2.5px solid var(--bark);border-radius:14px;padding:9px 8px;font-weight:500;
+    font-size:.85rem;display:flex;flex-direction:column;align-items:center;gap:3px;box-shadow:0 3px 0 rgba(92,61,34,.22);text-align:center}
+  .biome .e{font-size:1.5rem}
+
+  .play{font-family:'Baloo 2';font-weight:800;font-size:1.5rem;color:#fff;
+    background:linear-gradient(180deg,var(--moss),var(--forest2));border:3.5px solid var(--bark);border-radius:20px;
+    padding:15px 44px;cursor:pointer;box-shadow:0 8px 0 rgba(92,61,34,.32);transition:transform .1s}
+  .play:active{transform:translateY(5px);box-shadow:0 3px 0 rgba(92,61,34,.32)}
+  .ghost{font-family:'Fredoka';font-weight:600;font-size:1rem;color:var(--forest);background:none;border:2.5px solid var(--moss);
+    border-radius:14px;padding:11px 22px;cursor:pointer;margin-top:12px}
+
+  /* progress trail */
+  .trail{display:flex;align-items:center;gap:10px;margin-bottom:14px;background:var(--paper);
+    border:3px solid var(--bark);border-radius:16px;padding:9px 13px;box-shadow:0 5px 0 rgba(92,61,34,.25)}
+  .trail .lab{font-weight:600;font-size:.88rem;color:var(--muted);white-space:nowrap}
+  .trail .track{flex:1;height:15px;background:var(--sky);border-radius:9px;overflow:hidden;border:2px solid var(--bark);position:relative}
+  .trail .fill{height:100%;width:0;background:linear-gradient(90deg,var(--leaf),var(--moss));transition:width .5s cubic-bezier(.3,1.4,.5,1)}
+  .trail .walker{position:absolute;top:50%;transform:translate(-50%,-50%);font-size:.95rem;transition:left .5s cubic-bezier(.3,1.4,.5,1)}
+
+  /* QUESTION */
+  .qtag{font-family:'Caveat';font-weight:700;font-size:1.25rem;color:var(--moss);margin-bottom:4px}
+  .prompt{font-size:1.32rem;line-height:1.45;font-weight:500;margin-bottom:6px}
+  .prompt b{color:var(--forest2)}
+  .scenario{background:var(--cream);border-left:5px solid var(--moss);border-radius:0 12px 12px 0;
+    padding:11px 14px;font-size:1.12rem;margin:10px 0 4px;font-style:italic;color:#3c4a39}
+  .hintline{font-size:.96rem;color:var(--muted);margin:8px 0 16px;display:flex;align-items:center;gap:6px}
+
+  .choices{display:grid;gap:11px}
+  .choice{font-family:'Fredoka';font-size:1.13rem;font-weight:500;background:#fff;border:3px solid var(--bark);
+    border-radius:16px;padding:14px 15px;cursor:pointer;text-align:left;box-shadow:0 5px 0 rgba(92,61,34,.22);
+    transition:transform .08s,background .15s;display:flex;align-items:center;gap:11px;color:var(--ink)}
+  .choice .em{font-size:1.35rem;flex-shrink:0}
+  .choice:hover:not(:disabled){background:var(--cream);transform:translateY(-2px)}
+  .choice:active:not(:disabled){transform:translateY(2px);box-shadow:0 2px 0 rgba(92,61,34,.22)}
+  .choice:disabled{cursor:default}
+  .choice.correct{background:linear-gradient(180deg,var(--ok),var(--ok-deep));color:#fff;border-color:var(--ok-deep);animation:cheer .5s}
+  .choice.wrong{background:linear-gradient(180deg,var(--no),#bf3c49);color:#fff;animation:shake .4s}
+  .choice.dim{opacity:.4}
+  @keyframes cheer{0%,100%{transform:scale(1)}40%{transform:scale(1.05)}}
+  @keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-7px)}75%{transform:translateX(7px)}}
+
+  /* true/false */
+  .tf{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .tf .choice{justify-content:center;font-family:'Baloo 2';font-weight:800;font-size:1.4rem}
+
+  /* feedback */
+  .fb{margin-top:18px;border-radius:16px;padding:14px 16px;font-weight:600;font-size:1.05rem;display:none;
+    align-items:flex-start;gap:12px;border:3px solid var(--bark);animation:grow .35s both}
+  .fb.show{display:flex}
+  .fb.ok{background:#e4f7e7;border-color:var(--ok-deep)}
+  .fb.no{background:#fde6e8;border-color:#bf3c49}
+  .fb .face{font-size:1.9rem;line-height:1}
+  .fb .txt{flex:1}
+  .fb .txt .ex{display:block;margin-top:5px;font-weight:500;font-size:.96rem;color:#4b5a47}
+  .fb .next{font-family:'Baloo 2';font-weight:800;font-size:1.02rem;color:#fff;background:var(--forest2);
+    border:3px solid var(--bark);border-radius:14px;padding:10px 18px;cursor:pointer;box-shadow:0 4px 0 rgba(92,61,34,.3);
+    transition:transform .08s;white-space:nowrap}
+  .fb .next:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(92,61,34,.3)}
+
+  /* badge flash */
+  .badge-pop{position:fixed;top:26%;left:50%;transform:translateX(-50%);z-index:60;pointer-events:none;
+    background:var(--sun);border:4px solid var(--bark);border-radius:20px;padding:14px 22px;font-family:'Baloo 2';
+    font-weight:800;font-size:1.3rem;color:var(--bark-deep);box-shadow:0 8px 0 rgba(92,61,34,.4);opacity:0;text-align:center}
+
+  /* WIN */
+  .win{text-align:center}
+  .win .medal{font-size:5rem;animation:bob 2.2s infinite ease-in-out}
+  .stars{font-size:2.3rem;letter-spacing:6px;margin:10px 0}
+  .row-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center;margin-top:14px}
+  .badges-won{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:14px 0}
+  .bw{background:var(--cream);border:2.5px solid var(--bark);border-radius:12px;padding:7px 11px;font-size:.85rem;font-weight:600;
+    display:flex;align-items:center;gap:5px;box-shadow:0 3px 0 rgba(92,61,34,.22)}
+  .bw .e{font-size:1.2rem}
+
+  .conf{position:fixed;top:-12px;width:11px;height:17px;z-index:55;pointer-events:none;border-radius:2px}
+  .small{color:var(--muted);font-size:.9rem}
+</style>
+</head>
+<body>
+<div class="scene" id="scene"></div>
+<div class="wrap">
+  <header>
+    <div class="brand"><span class="bug">🐞</span> Expedición Naturaleza</div>
+    <div class="hud">
+      <div class="chip"><span>🌿</span><b id="hScore">0</b></div>
+      <div class="chip"><span>🔥</span><b id="hStreak">0</b></div>
+      <div class="chip"><span>❤️</span><b id="hLives">3</b></div>
+    </div>
+  </header>
+  <div id="app"></div>
+</div>
+<div class="badge-pop" id="badgePop"></div>
+
+<script>
+/* =====================================================
+   EXPEDICIÓN NATURALEZA — Ciencias Naturales (4° grado)
+   Contenido basado en el manual (Mendoza · Santillana)
+   ===================================================== */
+const app=document.getElementById('app');
+const hud={score:document.getElementById('hScore'),streak:document.getElementById('hStreak'),lives:document.getElementById('hLives')};
+const badgePop=document.getElementById('badgePop');
+
+const rnd=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+const pick=a=>a[rnd(0,a.length-1)];
+const shuffle=a=>{const r=[...a];for(let i=r.length-1;i>0;i--){const j=rnd(0,i);[r[i],r[j]]=[r[j],r[i]];}return r;};
+/* elige n elementos distintos de un array */
+const sample=(a,n)=>shuffle(a).slice(0,n);
+
+const TOTAL=10;
+const state={score:0,streak:0,best:0,lives:3,q:0,correct:0,topics:new Set()};
+
+/* ---------- scenery ---------- */
+(function(){const s=document.getElementById('scene');
+  const leaves=['🍃','🍂','🌿'];
+  for(let i=0;i<10;i++){const d=document.createElement('div');d.className='leaf-f';
+    d.textContent=pick(leaves);d.style.left=Math.random()*100+'vw';
+    d.style.animationDuration=(8+Math.random()*9)+'s';d.style.animationDelay=Math.random()*8+'s';
+    d.style.fontSize=(1+Math.random())+'rem';s.appendChild(d);}
+  s.insertAdjacentHTML('beforeend',`
+   <svg class="hill" viewBox="0 0 1440 200" preserveAspectRatio="none" style="height:150px">
+     <path d="M0,130 C220,70 360,150 600,110 C840,70 980,160 1200,100 C1320,70 1400,110 1440,100 L1440,200 L0,200 Z" fill="#3a7a45" opacity=".55"/>
+     <path d="M0,160 C240,120 420,175 680,145 C940,115 1100,180 1440,150 L1440,200 L0,200 Z" fill="#2c5e36" opacity=".85"/>
+   </svg>`);
+})();
+
+function burst(n=26){const cols=['#86c34a','#ffc741','#d6455f','#2f9fb5','#7b4b9e','#3ca35a'];
+  for(let i=0;i<n;i++){const c=document.createElement('div');c.className='conf';
+    c.style.left=Math.random()*100+'vw';c.style.background=pick(cols);document.body.appendChild(c);
+    c.animate([{top:'-12px',opacity:1},{top:'104vh',opacity:.9,transform:`translateX(${(Math.random()-.5)*240}px) rotate(${Math.random()*720}deg)`}],
+      {duration:1100+Math.random()*800,easing:'cubic-bezier(.2,.6,.5,1)'}).onfinish=()=>c.remove();}
+}
+function popBadge(txt){
+  badgePop.innerHTML=txt;
+  badgePop.animate([{opacity:0,transform:'translateX(-50%) scale(.6)'},
+    {opacity:1,transform:'translateX(-50%) scale(1.08)',offset:.3},
+    {opacity:1,transform:'translateX(-50%) scale(1)',offset:.7},
+    {opacity:0,transform:'translateX(-50%) scale(1) translateY(-26px)'}],{duration:1400,easing:'ease-out'});
+}
+function syncHud(){hud.score.textContent=state.score;hud.streak.textContent=state.streak;hud.lives.textContent=state.lives;}
+
+/* =====================================================
+   BANCO DE GENERADORES POR TEMA
+   Cada generador devuelve:
+   {topic, tag, prompt(html), scenario?, type:'choice'|'tf',
+    choices:[{label, ok, em?}], explain }
+   ===================================================== */
+
+/* ---------------------------------------------------------------
+   TEMA 1 · Características de los seres vivos
+   (se alimentan, ciclo de vida, respiran, responden a estímulos,
+    formados por células, tienen adaptaciones)
+---------------------------------------------------------------- */
+const CARACTERISTICAS = [
+  {nombre:'se alimentan', ej:'El moho crece sobre el pan y se alimenta descomponiéndolo.', desc:'incorporar alimento'},
+  {nombre:'pasan por un ciclo de vida', ej:'Una semilla germina, la planta crece, se reproduce, envejece y muere.', desc:'nacer, crecer, reproducirse y morir'},
+  {nombre:'respiran', ej:'Los peces usan el oxígeno disuelto en el agua; las ballenas toman oxígeno del aire.', desc:'todos los seres vivos respiran'},
+  {nombre:'responden a estímulos', ej:'La campanita abre sus flores de día y las cierra de noche.', desc:'detectar cambios del entorno y responder'},
+  {nombre:'están formados por células', ej:'Algunos seres tienen una sola célula y otros, muchísimas.', desc:'la célula es la unidad de los seres vivos'},
+  {nombre:'tienen adaptaciones', ej:'Algunos insectos "patinan" sobre el agua gracias a los pelos de sus patas.', desc:'características que les permiten vivir en su ambiente'},
+];
+function genCaracteristica(){
+  const modo = pick(['cual','ejemplo','cuantas','tf']);
+  if(modo==='cual'){
+    const c=pick(CARACTERISTICAS);
+    const otras = sample(CARACTERISTICAS.filter(x=>x!==c),3).map(x=>x.nombre);
+    return {
+      topic:'Seres vivos', tag:'Características de los seres vivos',
+      type:'choice',
+      prompt:`Esto describe una característica de los seres vivos: <b>«${c.desc}»</b>. ¿Cuál es?`,
+      hint:'Pensá en lo que hacen TODOS los seres vivos.',
+      choices: shuffle([{label:capit(c.nombre),ok:true},...otras.map(o=>({label:capit(o),ok:false}))]),
+      explain:`«${capit(c.nombre)}» es una de las características comunes a todos los seres vivos. Ejemplo: ${c.ej}`
+    };
+  }
+  if(modo==='ejemplo'){
+    const c=pick(CARACTERISTICAS);
+    const otras = sample(CARACTERISTICAS.filter(x=>x!==c),3);
+    return {
+      topic:'Seres vivos', tag:'Características de los seres vivos',
+      type:'choice',
+      prompt:`Ejemplo: <i>«${c.ej}»</i><br>¿Qué característica de los seres vivos muestra?`,
+      hint:'Relacioná el ejemplo con la característica correcta.',
+      choices: shuffle([{label:capit(c.nombre),ok:true},...otras.map(o=>({label:capit(o.nombre),ok:false}))]),
+      explain:`Ese ejemplo muestra que los seres vivos ${c.nombre}.`
+    };
+  }
+  if(modo==='cuantas'){
+    return {
+      topic:'Seres vivos', tag:'Formados por células',
+      type:'choice',
+      prompt:`Todos los seres vivos están formados por pequeñísimas unidades. ¿Cómo se llaman?`,
+      hint:'Solo se ven con microscopio.',
+      choices: shuffle([
+        {label:'Células', ok:true, em:'🔬'},
+        {label:'Semillas', ok:false, em:'🌱'},
+        {label:'Átomos de aire', ok:false, em:'💨'},
+        {label:'Gotas de agua', ok:false, em:'💧'},
+      ]),
+      explain:'Los seres vivos están formados por células. Algunos tienen una sola y otros, muchísimas.'
+    };
+  }
+  // tf: verdadero/falso sobre una característica
+  const verdaderas = [
+    {t:'Las ballenas respiran tomando oxígeno del aire.', ok:true},
+    {t:'Todos los seres vivos pueden reproducirse.', ok:true},
+    {t:'Los seres vivos responden a estímulos como la luz o la temperatura.', ok:true},
+    {t:'Los seres vivos están formados por células.', ok:true},
+    {t:'Las rocas son seres vivos porque crecen.', ok:false},
+    {t:'Solo los animales respiran; las plantas no.', ok:false},
+    {t:'Ningún ser vivo nace ni muere.', ok:false},
+    {t:'Una sola célula nunca puede ser un ser vivo.', ok:false},
+  ];
+  const q=pick(verdaderas);
+  return {
+    topic:'Seres vivos', tag:'¿Verdadero o falso?',
+    type:'tf',
+    prompt:`«${q.t}»`,
+    hint:'Pensá en lo que estudiaste sobre los seres vivos.',
+    choices:[{label:'✅ Verdadero',ok:q.ok===true},{label:'❌ Falso',ok:q.ok===false}],
+    explain: q.ok?'Es verdadero, así funcionan los seres vivos.':'Es falso. Repasá las características de los seres vivos.'
+  };
+}
+
+/* ---------------------------------------------------------------
+   TEMA 2 · Criterios de clasificación y grupos
+   Grupos: animales, plantas, hongos pluricelulares, microorganismos
+   Criterios: cantidad de células, alimentación, desplazamiento
+---------------------------------------------------------------- */
+const GRUPOS = {
+  Animales:{celulas:'Muchas', alim:'Se alimentan de otros seres vivos', desp:'Se desplazan al menos durante alguna etapa de su vida', ej:['un puma','un cóndor','un guanaco','una ballena']},
+  Plantas:{celulas:'Muchas', alim:'Fabrican su propio alimento', desp:'Viven fijas al suelo', ej:['un algarrobo','una jarilla','un sauce','una yareta']},
+  'Hongos pluricelulares':{celulas:'Muchas', alim:'Se alimentan de restos de seres vivos', desp:'Viven fijos al suelo', ej:['un hongo de sombrero','un moho grande']},
+  Microorganismos:{celulas:'Una o pocas', alim:'Algunos fabrican su alimento y otros lo obtienen de otros seres', desp:'Muchos se desplazan por sus propios medios y otros no', ej:['un paramecio','una bacteria']},
+};
+const CRITERIOS = ['cantidad de células','alimentación','desplazamiento'];
+function genClasificacion(){
+  const modo=pick(['criterios','grupo_alim','grupo_celulas','grupo_desp','cuantos','ejemplo','tf']);
+
+  if(modo==='criterios'){
+    const c=pick(CRITERIOS);
+    const otras=sample(['el color','el tamaño del nombre','la cantidad de patas','el peso exacto','la edad'],3);
+    return {
+      topic:'Clasificación', tag:'Criterios de clasificación',
+      type:'choice',
+      prompt:`El libro usa <b>tres criterios</b> para clasificar a los seres vivos. ¿Cuál de estos es uno de ellos?`,
+      hint:'Los tres son: cantidad de células, alimentación y desplazamiento.',
+      choices: shuffle([{label:capit(c),ok:true},...otras.map(o=>({label:capit(o),ok:false}))]),
+      explain:'Los tres criterios son: cantidad de células, alimentación y desplazamiento.'
+    };
+  }
+  if(modo==='cuantos'){
+    return {
+      topic:'Clasificación', tag:'Grupos de seres vivos',
+      type:'choice',
+      prompt:`Según el cuadro del libro, los seres vivos se agrupan en <b>cuatro grupos</b>. ¿Cuáles son?`,
+      hint:'Uno de ellos se ve solo con microscopio.',
+      choices: shuffle([
+        {label:'Animales, plantas, hongos pluricelulares y microorganismos', ok:true},
+        {label:'Animales, plantas, piedras y agua', ok:false},
+        {label:'Perros, gatos, árboles y flores', ok:false},
+        {label:'Grandes, medianos, chicos y diminutos', ok:false},
+      ]),
+      explain:'Los cuatro grupos son: animales, plantas, hongos pluricelulares y microorganismos.'
+    };
+  }
+  if(modo==='grupo_alim'){
+    const g=pick(Object.keys(GRUPOS));
+    const data=GRUPOS[g];
+    const otros=sample(Object.keys(GRUPOS).filter(x=>x!==g),3);
+    return {
+      topic:'Clasificación', tag:'Criterio: alimentación',
+      type:'choice',
+      prompt:`¿Qué grupo de seres vivos cumple esto?: <b>«${data.alim}»</b>`,
+      hint:'Es el criterio de la alimentación.',
+      choices: shuffle([{label:g,ok:true},...otros.map(o=>({label:o,ok:false}))]),
+      explain:`Eso corresponde a: ${g}.`
+    };
+  }
+  if(modo==='grupo_celulas'){
+    return {
+      topic:'Clasificación', tag:'Criterio: cantidad de células',
+      type:'choice',
+      prompt:`Un ser vivo formado por <b>una o pocas células</b> pertenece al grupo de los…`,
+      hint:'Son tan pequeños que se ven con microscopio.',
+      choices: shuffle([
+        {label:'Microorganismos', ok:true},
+        {label:'Animales', ok:false},
+        {label:'Plantas', ok:false},
+        {label:'Hongos pluricelulares', ok:false},
+      ]),
+      explain:'Si tiene una o pocas células, es del grupo de los microorganismos.'
+    };
+  }
+  if(modo==='grupo_desp'){
+    const opt=pick([
+      {label:'Animales', ok:true, frase:'se desplazan al menos durante alguna etapa de su vida'},
+    ]);
+    return {
+      topic:'Clasificación', tag:'Criterio: desplazamiento',
+      type:'choice',
+      prompt:`Las plantas y los hongos pluricelulares <b>viven fijos al suelo</b>. ¿Qué grupo, en cambio, se desplaza al menos en alguna etapa de su vida?`,
+      hint:'Pensá en los que se mueven para buscar alimento.',
+      choices: shuffle([
+        {label:'Animales', ok:true},
+        {label:'Plantas', ok:false},
+        {label:'Hongos pluricelulares', ok:false},
+        {label:'Ninguno se mueve', ok:false},
+      ]),
+      explain:'Los animales se desplazan al menos durante alguna etapa de su vida.'
+    };
+  }
+  if(modo==='ejemplo'){
+    const g=pick(Object.keys(GRUPOS));
+    const ej=pick(GRUPOS[g].ej);
+    const otros=sample(Object.keys(GRUPOS).filter(x=>x!==g),3);
+    return {
+      topic:'Clasificación', tag:'¿A qué grupo pertenece?',
+      type:'choice',
+      prompt:`¿A qué grupo pertenece <b>${ej}</b>?`,
+      hint:'Pensá cómo se alimenta y si se mueve.',
+      choices: shuffle([{label:g,ok:true},...otros.map(o=>({label:o,ok:false}))]),
+      explain:`${capit(ej)} pertenece al grupo: ${g}.`
+    };
+  }
+  // tf criterios
+  const tfs=[
+    {t:'Las plantas fabrican su propio alimento.', ok:true},
+    {t:'Los animales se alimentan de otros seres vivos.', ok:true},
+    {t:'Los hongos pluricelulares se alimentan de restos de seres vivos.', ok:true},
+    {t:'Las plantas se desplazan corriendo de un lado a otro.', ok:false},
+    {t:'Los microorganismos siempre tienen muchísimas células.', ok:false},
+    {t:'El color es uno de los tres criterios de clasificación del libro.', ok:false},
+  ];
+  const q=pick(tfs);
+  return {
+    topic:'Clasificación', tag:'¿Verdadero o falso?',
+    type:'tf',
+    prompt:`«${q.t}»`,
+    hint:'Repasá el cuadro de los cuatro grupos.',
+    choices:[{label:'✅ Verdadero',ok:q.ok===true},{label:'❌ Falso',ok:q.ok===false}],
+    explain:q.ok?'Es verdadero según el cuadro del libro.':'Es falso. Revisá los criterios y grupos.'
+  };
+}
+
+/* ---------------------------------------------------------------
+   TEMA 3 · Ambientes aeroterrestres y su preservación
+   (qué es un ambiente, desierto frío antártico, la selva/Yungas)
+---------------------------------------------------------------- */
+function genAmbientesGenerales(){
+  const modo=pick(['definicion','desierto','desierto2','selva','selva2','tf']);
+
+  if(modo==='definicion'){
+    return {
+      topic:'Ambientes', tag:'¿A qué llamamos ambiente?',
+      type:'choice',
+      prompt:`En Ciencias naturales, ¿qué es un <b>ambiente</b>?`,
+      hint:'Hasta una plaza es un ambiente.',
+      choices: shuffle([
+        {label:'Todo lugar o entorno donde habitan los seres vivos', ok:true},
+        {label:'Solo los lugares donde no vive nadie', ok:false},
+        {label:'Únicamente los bosques y selvas', ok:false},
+        {label:'Una jaula del zoológico', ok:false},
+      ]),
+      explain:'Un ambiente es todo lugar o entorno en el que habitan los seres vivos.'
+    };
+  }
+  if(modo==='desierto'){
+    return {
+      topic:'Ambientes', tag:'El desierto frío',
+      type:'choice',
+      prompt:`El <b>desierto frío</b> tiene temperaturas muy bajas y fuertes vientos. En nuestro país, ¿dónde se encuentra?`,
+      hint:'Es la zona más al sur, muy helada.',
+      choices: shuffle([
+        {label:'En la península antártica', ok:true, em:'🧊'},
+        {label:'En la selva misionera', ok:false, em:'🌴'},
+        {label:'En el centro de Buenos Aires', ok:false, em:'🏙️'},
+        {label:'En el océano Pacífico', ok:false, em:'🌊'},
+      ]),
+      explain:'En la Argentina, el desierto frío se encuentra en la península antártica.'
+    };
+  }
+  if(modo==='desierto2'){
+    return {
+      topic:'Ambientes', tag:'El desierto frío',
+      type:'choice',
+      prompt:`En el desierto frío antártico crecen y florecen solo <b>dos tipos de plantas</b>. ¿Cuáles son?`,
+      hint:'Llevan el nombre del lugar donde viven.',
+      choices: shuffle([
+        {label:'El pasto antártico y el clavel antártico', ok:true},
+        {label:'El cactus y la palmera', ok:false},
+        {label:'El algarrobo y la jarilla', ok:false},
+        {label:'El helecho y la liana', ok:false},
+      ]),
+      explain:'En el desierto frío crecen el pasto antártico y el clavel antártico.'
+    };
+  }
+  if(modo==='selva'){
+    return {
+      topic:'Ambientes', tag:'La selva',
+      type:'choice',
+      prompt:`En el noroeste de la Argentina hay selvas de montaña casi siempre envueltas en nubes. ¿Cómo se llaman?`,
+      hint:'Empieza con "Y".',
+      choices: shuffle([
+        {label:'Las Yungas', ok:true, em:'🌫️'},
+        {label:'La Pampa', ok:false, em:'🌾'},
+        {label:'La Patagonia', ok:false, em:'🏔️'},
+        {label:'Los Esteros', ok:false, em:'💧'},
+      ]),
+      explain:'Las selvas de montaña del noroeste argentino se llaman Yungas.'
+    };
+  }
+  if(modo==='selva2'){
+    return {
+      topic:'Ambientes', tag:'La selva',
+      type:'choice',
+      prompt:`En la selva las lluvias son muy abundantes. Por eso la humedad del aire y del suelo es…`,
+      hint:'Mucha agua = mucha…',
+      choices: shuffle([
+        {label:'Muy alta, y permite vegetación variada y abundante', ok:true},
+        {label:'Muy baja, casi no hay plantas', ok:false},
+        {label:'Helada todo el año', ok:false},
+        {label:'Igual que en el desierto', ok:false},
+      ]),
+      explain:'En la selva la humedad es muy alta, lo que permite una vegetación variada y abundante con distintos estratos.'
+    };
+  }
+  const tfs=[
+    {t:'En el desierto frío el suelo permanece helado casi todo el año.', ok:true},
+    {t:'Las plazas también son ambientes.', ok:true},
+    {t:'En la selva las plantas crecen en distintos estratos (alturas).', ok:true},
+    {t:'En el desierto frío llueve muchísimo todos los días.', ok:false},
+    {t:'En la selva casi no hay plantas porque falta agua.', ok:false},
+    {t:'Un ambiente es solo un lugar donde no vive nadie.', ok:false},
+  ];
+  const q=pick(tfs);
+  return {
+    topic:'Ambientes', tag:'¿Verdadero o falso?',
+    type:'tf',
+    prompt:`«${q.t}»`,
+    hint:'Pensá en el desierto frío y en la selva.',
+    choices:[{label:'✅ Verdadero',ok:q.ok===true},{label:'❌ Falso',ok:q.ok===false}],
+    explain:q.ok?'Es verdadero.':'Es falso. Repasá los ambientes aeroterrestres.'
+  };
+}
+
+/* ---------------------------------------------------------------
+   TEMA 4 · Los ambientes de NUESTRA PROVINCIA (Mendoza)
+   Altos Andes (cóndor, yareta) · Monte (guanaco, jarilla, algarrobo, cuis, puma)
+   Estepa patagónica / La Payunia (plantas xerófilas)
+---------------------------------------------------------------- */
+const MENDOZA = {
+  'Altos Andes':{
+    desc:'Abarca las cumbres del oeste hasta la Precordillera. Clima frío y vegetación escasa.',
+    seres:['el cóndor','la yareta'],
+    em:'🏔️'
+  },
+  'Monte':{
+    desc:'Ocupa casi la mitad este de la provincia. Vegetación arbustiva como jarillas y retamos, y árboles como el algarrobo.',
+    seres:['el guanaco','la jarilla','el algarrobo','el cuis','el puma'],
+    em:'🌵'
+  },
+  'Estepa patagónica':{
+    desc:'En el centro-sur está La Payunia, con pastos y arbustos xerófilos.',
+    seres:['las plantas xerófilas'],
+    em:'🍂'
+  },
+};
+function genMendoza(){
+  const modo=pick(['clima','ambiente_ser','altos','monte','payunia','tf']);
+
+  if(modo==='clima'){
+    return {
+      topic:'Mendoza', tag:'Ambientes de Mendoza',
+      type:'choice',
+      prompt:`El clima de Mendoza es <b>árido</b>. ¿Qué significa eso?`,
+      hint:'Tiene que ver con la lluvia.',
+      choices: shuffle([
+        {label:'Llueve poco', ok:true, em:'🏜️'},
+        {label:'Llueve muchísimo', ok:false, em:'🌧️'},
+        {label:'Nieva todos los días', ok:false, em:'❄️'},
+        {label:'Hace calor pero llueve mucho', ok:false, em:'🌴'},
+      ]),
+      explain:'Árido significa que llueve poco. Por eso en Mendoza la vegetación suele ser resistente a la sequía.'
+    };
+  }
+  if(modo==='ambiente_ser'){
+    const a=pick(Object.keys(MENDOZA));
+    const ser=pick(MENDOZA[a].seres);
+    const otros=sample(Object.keys(MENDOZA).filter(x=>x!==a),Math.min(2,Object.keys(MENDOZA).length-1));
+    return {
+      topic:'Mendoza', tag:'Ambientes de Mendoza',
+      type:'choice',
+      prompt:`En Mendoza, ¿en qué ambiente vive <b>${ser}</b>?`,
+      hint:'Pensá en el paisaje mendocino.',
+      choices: shuffle([{label:a,ok:true,em:MENDOZA[a].em},...otros.map(o=>({label:o,ok:false,em:MENDOZA[o].em}))]),
+      explain:`${capit(ser)} vive en el ambiente: ${a}. ${MENDOZA[a].desc}`
+    };
+  }
+  if(modo==='altos'){
+    return {
+      topic:'Mendoza', tag:'Altos Andes',
+      type:'choice',
+      prompt:`En el ambiente de los <b>Altos Andes</b> de Mendoza el clima es frío y la vegetación escasa. ¿Qué ave enorme vuela allí?`,
+      hint:'Es el ave más grande de la cordillera.',
+      choices: shuffle([
+        {label:'El cóndor', ok:true, em:'🦅'},
+        {label:'El pingüino', ok:false, em:'🐧'},
+        {label:'El tucán', ok:false, em:'🦜'},
+        {label:'La gallina', ok:false, em:'🐔'},
+      ]),
+      explain:'En los Altos Andes vuela el cóndor, y también crece la yareta.'
+    };
+  }
+  if(modo==='monte'){
+    return {
+      topic:'Mendoza', tag:'El Monte',
+      type:'choice',
+      prompt:`El <b>Monte</b> ocupa casi la mitad este de Mendoza. ¿Qué planta es típica de este ambiente?`,
+      hint:'Es un arbusto muy común del monte mendocino.',
+      choices: shuffle([
+        {label:'La jarilla', ok:true, em:'🌿'},
+        {label:'La palmera', ok:false, em:'🌴'},
+        {label:'El helecho', ok:false, em:'🌱'},
+        {label:'El clavel antártico', ok:false, em:'❄️'},
+      ]),
+      explain:'En el Monte hay vegetación arbustiva como la jarilla y los retamos, y árboles como el algarrobo. Allí viven cuises, guanacos y pumas.'
+    };
+  }
+  if(modo==='payunia'){
+    return {
+      topic:'Mendoza', tag:'La Payunia',
+      type:'choice',
+      prompt:`En el centro-sur de Mendoza está <b>La Payunia</b>. ¿Qué tipo de ambiente predomina allí?`,
+      hint:'Tiene pastos y arbustos xerófilos.',
+      choices: shuffle([
+        {label:'La estepa patagónica', ok:true, em:'🍂'},
+        {label:'La selva tropical', ok:false, em:'🌴'},
+        {label:'El desierto frío antártico', ok:false, em:'🧊'},
+        {label:'El fondo del mar', ok:false, em:'🌊'},
+      ]),
+      explain:'En La Payunia predomina la estepa patagónica, con pastos y arbustos xerófilos (resistentes a la sequía).'
+    };
+  }
+  const tfs=[
+    {t:'En Mendoza el clima es árido: llueve poco.', ok:true},
+    {t:'El guanaco es un animal del Monte mendocino.', ok:true},
+    {t:'El cóndor vuela en los Altos Andes.', ok:true},
+    {t:'La yareta es una planta de los Altos Andes.', ok:true},
+    {t:'En Mendoza llueve muchísimo todos los días.', ok:false},
+    {t:'En el Monte mendocino crecen palmeras tropicales.', ok:false},
+    {t:'En Mendoza hay selvas con tucanes y monos.', ok:false},
+  ];
+  const q=pick(tfs);
+  return {
+    topic:'Mendoza', tag:'¿Verdadero o falso?',
+    type:'tf',
+    prompt:`«${q.t}»`,
+    hint:'Pensá en los ambientes mendocinos.',
+    choices:[{label:'✅ Verdadero',ok:q.ok===true},{label:'❌ Falso',ok:q.ok===false}],
+    explain:q.ok?'Es verdadero sobre Mendoza.':'Es falso. Repasá los ambientes de tu provincia.'
+  };
+}
+
+/* ---------------------------------------------------------------
+   TEMA 5 · Cambios en los ambientes
+   (naturales vs humanos, desmonte/tala, basura, especies exóticas,
+    pérdida de biodiversidad, cardenal amarillo, categorías EX/EN/V)
+---------------------------------------------------------------- */
+function genCambios(){
+  const modo=pick(['causa','desmonte','basura','exotica','exotica2','biodiv','cardenal','categoria','tf']);
+
+  if(modo==='causa'){
+    return {
+      topic:'Cambios', tag:'Cambios en los ambientes',
+      type:'choice',
+      prompt:`Algunos cambios en los ambientes son causados por la <b>naturaleza</b>. ¿Cuál de estos es un ejemplo natural?`,
+      hint:'No lo hace el ser humano.',
+      choices: shuffle([
+        {label:'Una erupción volcánica o un terremoto', ok:true, em:'🌋'},
+        {label:'Construir un edificio', ok:false, em:'🏢'},
+        {label:'Tirar basura al suelo', ok:false, em:'🗑️'},
+        {label:'Talar un bosque', ok:false, em:'🪓'},
+      ]),
+      explain:'Las erupciones volcánicas y los terremotos son cambios causados por la naturaleza. Los otros los provoca el ser humano.'
+    };
+  }
+  if(modo==='desmonte'){
+    return {
+      topic:'Cambios', tag:'Desmonte o tala',
+      type:'choice',
+      prompt:`El <b>desmonte o tala</b> es una actividad humana. ¿En qué consiste?`,
+      hint:'Tiene que ver con los bosques.',
+      choices: shuffle([
+        {label:'Eliminar zonas de bosque para dejarlas sin vegetación o usarlas para cultivo', ok:true, em:'🪓'},
+        {label:'Plantar muchos árboles nuevos', ok:false, em:'🌳'},
+        {label:'Regar las plantas del jardín', ok:false, em:'💧'},
+        {label:'Cuidar a los animales del bosque', ok:false, em:'🦌'},
+      ]),
+      explain:'El desmonte o tala consiste en eliminar zonas de bosque, a veces para usar la madera o para cultivo y ganado.'
+    };
+  }
+  if(modo==='basura'){
+    return {
+      topic:'Cambios', tag:'Acumulación de basura',
+      type:'choice',
+      prompt:`Cuando se acumula basura, el plástico tarda muchísimo en desintegrarse. Según el libro, ¿cuánto demora aproximadamente?`,
+      hint:'Es un número enorme de años.',
+      choices: shuffle([
+        {label:'Unos 4.000 años', ok:true},
+        {label:'Unos 4 días', ok:false},
+        {label:'Unas 4 horas', ok:false},
+        {label:'Unos 40 años', ok:false},
+      ]),
+      explain:'El plástico demora unos 4.000 años en desintegrarse. Por eso la basura contamina el suelo, el aire y el agua.'
+    };
+  }
+  if(modo==='exotica'){
+    return {
+      topic:'Cambios', tag:'Especies exóticas',
+      type:'choice',
+      prompt:`Una <b>especie exótica o invasora</b> es un ser vivo de otro ambiente que llega a uno nuevo. ¿Por qué puede ser un problema?`,
+      hint:'Pensá quién la controla en el nuevo lugar.',
+      choices: shuffle([
+        {label:'Muchas no tienen predadores naturales y por eso invaden el territorio', ok:true},
+        {label:'Porque son muy bonitas', ok:false},
+        {label:'Porque siempre se mueren enseguida', ok:false},
+        {label:'Porque no comen nada', ok:false},
+      ]),
+      explain:'Muchas especies exóticas no tienen predadores naturales en el nuevo lugar, entonces invaden y dañan el ambiente.'
+    };
+  }
+  if(modo==='exotica2'){
+    return {
+      topic:'Cambios', tag:'Especies exóticas',
+      type:'choice',
+      prompt:`¿Qué especie exótica fue introducida en la Argentina en 1970 y hoy se encuentra también en Mendoza?`,
+      hint:'Es un pequeño animal de cola peluda.',
+      choices: shuffle([
+        {label:'La ardilla de vientre rojo', ok:true, em:'🐿️'},
+        {label:'El cóndor', ok:false, em:'🦅'},
+        {label:'El guanaco', ok:false, em:'🦙'},
+        {label:'El paramecio', ok:false, em:'🔬'},
+      ]),
+      explain:'La ardilla de vientre rojo fue introducida en 1970 y hoy se encuentra en varias provincias, entre ellas Mendoza.'
+    };
+  }
+  if(modo==='biodiv'){
+    return {
+      topic:'Cambios', tag:'Pérdida de biodiversidad',
+      type:'choice',
+      prompt:`Cuando una especie ya no está más en la Tierra, decimos que se ha…`,
+      hint:'Desaparece para siempre.',
+      choices: shuffle([
+        {label:'Extinguido', ok:true},
+        {label:'Reproducido', ok:false},
+        {label:'Alimentado', ok:false},
+        {label:'Adaptado', ok:false},
+      ]),
+      explain:'Cuando una especie ya no está más en la Tierra, se ha extinguido. Existe una Lista Roja de Especies Amenazadas.'
+    };
+  }
+  if(modo==='cardenal'){
+    return {
+      topic:'Cambios', tag:'El cardenal amarillo',
+      type:'choice',
+      prompt:`El <b>cardenal amarillo</b> es un ave amenazada. ¿Cuáles son dos amenazas que sufre?`,
+      hint:'Una tiene que ver con ferias e internet.',
+      choices: shuffle([
+        {label:'La venta ilegal y la destrucción de su hábitat', ok:true},
+        {label:'El frío de la Antártida', ok:false},
+        {label:'Que vuela demasiado alto', ok:false},
+        {label:'Que come muchas semillas', ok:false},
+      ]),
+      explain:'El cardenal amarillo está amenazado por la venta ilegal (en ferias e internet) y la destrucción de su hábitat.'
+    };
+  }
+  if(modo==='categoria'){
+    const cats=[
+      {sigla:'EX', sig:'extinta'},
+      {sigla:'EN', sig:'en peligro de extinción'},
+      {sigla:'V', sig:'vulnerable'},
+    ];
+    const c=pick(cats);
+    const otras=sample(cats.filter(x=>x!==c),2).map(x=>x.sig);
+    return {
+      topic:'Cambios', tag:'Lista Roja de Especies',
+      type:'choice',
+      prompt:`En la Lista Roja, la categoría <b>${c.sigla}</b> significa que una especie está…`,
+      hint:'EX = extinta · EN = en peligro · V = vulnerable.',
+      choices: shuffle([{label:capit(c.sig),ok:true},...otras.map(o=>({label:capit(o),ok:false}))]),
+      explain:`${c.sigla} significa «${c.sig}». El cardenal amarillo, por ejemplo, está en la categoría EN.`
+    };
+  }
+  const tfs=[
+    {t:'El ser humano puede modificar los ambientes al construir y ocupar espacios.', ok:true},
+    {t:'El desmonte elimina zonas de bosque.', ok:true},
+    {t:'Las especies exóticas pueden dañar un ambiente nuevo.', ok:true},
+    {t:'Si una especie se extingue, vuelve fácilmente al poco tiempo.', ok:false},
+    {t:'La basura no contamina ni el agua ni el aire.', ok:false},
+    {t:'El cardenal amarillo no corre ningún peligro.', ok:false},
+  ];
+  const q=pick(tfs);
+  return {
+    topic:'Cambios', tag:'¿Verdadero o falso?',
+    type:'tf',
+    prompt:`«${q.t}»`,
+    hint:'Pensá en cómo cambian los ambientes.',
+    choices:[{label:'✅ Verdadero',ok:q.ok===true},{label:'❌ Falso',ok:q.ok===false}],
+    explain:q.ok?'Es verdadero.':'Es falso. Repasá los cambios en los ambientes.'
+  };
+}
+
+/* helper */
+function capit(s){return s.charAt(0).toUpperCase()+s.slice(1);}
+
+/* pool ponderado: todos los temas aparecen, equilibrado */
+const POOL = [
+  genCaracteristica, genCaracteristica,
+  genClasificacion, genClasificacion,
+  genAmbientesGenerales, genAmbientesGenerales,
+  genMendoza, genMendoza,
+  genCambios, genCambios,
+];
+/* evita repetir la misma pregunta seguida */
+let lastPrompt='';
+function nextExercise(){
+  let ex, tries=0;
+  do{ ex=pick(POOL)(); tries++; }while(ex.prompt===lastPrompt && tries<6);
+  lastPrompt=ex.prompt;
+  return ex;
+}
+
+/* =====================================================
+   FLUJO / UI
+   ===================================================== */
+const OKMSG=['¡Genial, guardaparque!','¡Anotado en la libreta!','¡Sos un experto!','¡Excelente observación!','¡Naturalista de primera!','¡Perfecto!'];
+const NOMSG=['¡Casi! Seguimos explorando.','Uy, esa se escondió. ¡Vamos!','No pasa nada, cada error enseña.','¡Tranqui! Probá la próxima.'];
+
+function showStart(){
+  app.innerHTML=`
+   <div class="panel hero">
+     <div class="explorer">🧑‍🌾</div>
+     <h1>Expedición Naturaleza</h1>
+     <p class="sub">Recorré ${TOTAL} estaciones y ganá insignias de explorador.</p>
+     <div class="biomes">
+       <div class="biome"><span class="e">🐞</span> Seres vivos</div>
+       <div class="biome"><span class="e">🔬</span> Clasificación</div>
+       <div class="biome"><span class="e">🌍</span> Ambientes</div>
+       <div class="biome"><span class="e">🏔️</span> Mendoza</div>
+       <div class="biome"><span class="e">♻️</span> Cambios</div>
+       <div class="biome"><span class="e">🏅</span> Insignias</div>
+     </div>
+     <button class="play" onclick="startGame()">¡Comenzar expedición!</button>
+     <p class="small" style="margin-top:14px">Tenés 3 vidas ❤️ · sumá racha 🔥 para más puntos 🌿</p>
+   </div>`;
+}
+
+function startGame(){
+  state.score=0;state.streak=0;state.best=0;state.lives=3;state.q=0;state.correct=0;state.topics=new Set();
+  syncHud();loadNext();
+}
+
+let current=null;
+function loadNext(){
+  if(state.q>=TOTAL || state.lives<=0){ showWin(); return; }
+  current=nextExercise();
+  state.q++;
+  render(current);
+}
+
+function render(ex){
+  const pct=Math.round(((state.q-1)/TOTAL)*100);
+  const scenario = ex.scenario?`<div class="scenario">${ex.scenario}</div>`:'';
+  let choicesHTML;
+  if(ex.type==='tf'){
+    choicesHTML=`<div class="tf" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice" onclick="answer(${i})">${c.label}</button>`).join('')}</div>`;
+  }else{
+    choicesHTML=`<div class="choices" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice" onclick="answer(${i})">${c.em?`<span class="em">${c.em}</span>`:''}<span>${c.label}</span></button>`).join('')}</div>`;
+  }
+
+  app.innerHTML=`
+   <div class="trail">
+     <span class="lab">🥾 Estación ${state.q}/${TOTAL}</span>
+     <div class="track"><div class="fill" style="width:${pct}%"></div><span class="walker" style="left:${pct}%">🧑‍🌾</span></div>
+     <span class="lab">${state.streak>1?'🔥 x'+state.streak:''}</span>
+   </div>
+   <div class="panel">
+     <div class="tab">${ex.tag}</div>
+     <div class="qtag" style="margin-top:8px">Misión de campo</div>
+     <div class="prompt">${ex.prompt}</div>
+     ${scenario}
+     <p class="hintline">💡 ${ex.hint||''}</p>
+     ${choicesHTML}
+     <div class="fb" id="fb"></div>
+   </div>`;
+}
+
+function reward(ok){
+  if(ok){
+    state.streak++;state.correct++;
+    if(state.streak>state.best)state.best=state.streak;
+    const bonus=state.streak>=3?10:state.streak>=2?5:0;
+    state.score+=10+bonus;
+    burst(state.streak>=3?40:24);
+    if(state.streak===3) popBadge('🔥 ¡Racha de 3!<br>+10 bonus');
+    else if(state.streak>=5) popBadge('🌟 ¡Imparable! x'+state.streak);
+  }else{
+    state.streak=0;state.lives--;
+  }
+  syncHud();
+}
+
+function answer(i){
+  const ex=current;
+  const ok=ex.choices[i].ok;
+  document.querySelectorAll('#choices .choice').forEach((b,bi)=>{
+    b.disabled=true;
+    if(ex.choices[bi].ok) b.classList.add('correct');
+    else if(bi===i) b.classList.add('wrong');
+    else b.classList.add('dim');
+  });
+  if(ok) state.topics.add(ex.topic);
+  reward(ok);
+  const fb=document.getElementById('fb');
+  fb.className='fb show '+(ok?'ok':'no');
+  const face=ok?pick(['🌿','🦋','🐞','😄','🤩','🦅']):pick(['🍂','🐌','😅','🤔']);
+  const last=(state.q>=TOTAL||state.lives<=0);
+  fb.innerHTML=`<span class="face">${face}</span>
+    <span class="txt">${ok?pick(OKMSG):pick(NOMSG)}<span class="ex">📘 ${ex.explain}</span></span>
+    <button class="next" onclick="loadNext()">${last?'🏁 Resultado':'Seguir →'}</button>`;
+  fb.scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+const TOPIC_BADGE={
+  'Seres vivos':'🐞 Conocedor de seres vivos',
+  'Clasificación':'🔬 Maestro clasificador',
+  'Ambientes':'🌍 Explorador de ambientes',
+  'Mendoza':'🏔️ Guardián de Mendoza',
+  'Cambios':'♻️ Protector del ambiente',
+};
+function showWin(){
+  const won=state.lives>0;
+  const acc=Math.round((state.correct/TOTAL)*100);
+  const stars= acc>=90?3 : acc>=60?2 : 1;
+  burst(64);
+  const badges=[...state.topics].map(t=>`<div class="bw"><span class="e">${TOPIC_BADGE[t].split(' ')[0]}</span>${TOPIC_BADGE[t].split(' ').slice(1).join(' ')}</div>`).join('');
+  app.innerHTML=`
+   <div class="panel win">
+     <div class="tab">🏁 Fin de la expedición</div>
+     <div class="medal" style="margin-top:10px">${won?(stars===3?'🏆':'🎖️'):'🧭'}</div>
+     <h1 style="font-family:'Baloo 2';color:var(--forest);font-size:2rem;margin:6px 0">
+       ${won?'¡Expedición completada!':'¡Buena travesía, explorador!'}
+     </h1>
+     <p class="sub" style="color:var(--muted)">${won?'Recorriste toda la naturaleza 🌳':'Se acabaron las vidas, pero aprendiste un montón.'}</p>
+     <div class="stars">${'⭐'.repeat(stars)}${'·'.repeat(3-stars)}</div>
+     <div class="hud" style="justify-content:center;margin:6px 0">
+       <div class="chip"><span>🌿</span><b>${state.score}</b> pts</div>
+       <div class="chip"><span>✅</span><b>${state.correct}/${TOTAL}</b></div>
+       <div class="chip"><span>🔥</span><b>${state.best}</b> racha</div>
+     </div>
+     <p class="small" style="margin-top:6px">Precisión: ${acc}%</p>
+     ${badges?`<p class="small" style="margin-top:14px">🏅 Insignias ganadas:</p><div class="badges-won">${badges}</div>`:''}
+     <div class="row-btns">
+       <button class="play" onclick="startGame()">🔄 Nueva expedición</button>
+     </div>
+   </div>`;
+}
+
+showStart();
+</script>
+</body>
+</html>
