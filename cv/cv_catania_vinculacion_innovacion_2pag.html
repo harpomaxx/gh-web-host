@@ -1,0 +1,334 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>CV - Carlos Adrián Catania</title>
+  <style>
+    @page { size: A4; margin: 0; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #e9eef3;
+      color: #263238;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 10.2pt;
+      line-height: 1.32;
+    }
+    .page {
+      width: 210mm;
+      min-height: 297mm;
+      margin: 0 auto;
+      padding: 13mm 15mm 12mm 15mm;
+      background: #ffffff;
+      page-break-after: always;
+      position: relative;
+    }
+    .page:last-child { page-break-after: auto; }
+    .topbar {
+      height: 5px;
+      background: linear-gradient(90deg, #174a7c, #2a9d8f);
+      margin: -13mm -15mm 9mm -15mm;
+    }
+    .header {
+      border-bottom: 1.5px solid #d7e1ea;
+      padding-bottom: 8px;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .header-text { flex: 1; }
+    .profile-photo {
+      width: 32mm;
+      height: 40mm;
+      object-fit: cover;
+      border-radius: 6px;
+      border: 2px solid #d7e1ea;
+      box-shadow: 0 1px 4px rgba(20, 59, 99, 0.18);
+    }
+    h1 {
+      margin: 0 0 3px 0;
+      color: #143b63;
+      font-size: 24pt;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+    }
+    .subtitle {
+      color: #2a6f73;
+      font-size: 11.5pt;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .contact {
+      color: #52616d;
+      font-size: 10.1pt;
+      line-height: 1.38;
+      margin-bottom: 7px;
+    }
+    .header-profile {
+      margin-top: 7px;
+      padding-top: 7px;
+      border-top: 1px solid #edf2f6;
+      max-width: 136mm;
+    }
+    .header-profile-title {
+      color: #174a7c;
+      font-size: 10.7pt;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .35px;
+      margin-bottom: 5px;
+      padding-bottom: 2px;
+      border-bottom: 1px solid #dce6ef;
+    }
+    .header-profile p {
+      font-size: 9.6pt;
+      line-height: 1.28;
+      margin: 0 0 5px 0;
+    }
+    h2 {
+      color: #174a7c;
+      font-size: 12.2pt;
+      margin: 12px 0 6px 0;
+      padding-bottom: 2px;
+      border-bottom: 1px solid #dce6ef;
+      text-transform: uppercase;
+      letter-spacing: .4px;
+    }
+    h3 {
+      margin: 8px 0 2px 0;
+      color: #263238;
+      font-size: 10.6pt;
+      font-weight: 700;
+    }
+    p { margin: 0 0 7px 0; }
+    ul { margin: 4px 0 0 0; padding-left: 15px; }
+    li { margin: 0 0 3px 0; }
+    strong { color: #1d3557; }
+    .role {
+      color: #2a6f73;
+      font-weight: 700;
+      margin: 1px 0 3px 0;
+    }
+    .focus-line {
+      color: #263238;
+      font-weight: 400;
+    }
+    .role .inline-bullet {
+      margin: 2px 0 2px 15px;
+      padding: 0;
+      color: #263238;
+      font-weight: 400;
+    }
+    .muted { color: #60717d; }
+    .section { margin-bottom: 8px; }
+    .compact li { margin-bottom: 2px; }
+    .highlight-box {
+      border-left: 4px solid #2a9d8f;
+      background: #f3faf9;
+      padding: 7px 9px;
+      margin: 6px 0 8px 0;
+    }
+    .chips { margin-top: 5px; }
+    .chip {
+      display: inline-block;
+      border: 1px solid #c8dbe8;
+      background: #f5f9fc;
+      color: #244861;
+      border-radius: 10px;
+      padding: 2px 7px;
+      margin: 0 3px 4px 0;
+      font-size: 8.8pt;
+      white-space: nowrap;
+    }
+    .two-col {
+      display: table;
+      width: 100%;
+      border-spacing: 0;
+    }
+    .col {
+      display: table-cell;
+      vertical-align: top;
+    }
+    .col.left { width: 49%; padding-right: 7px; }
+    .col.right { width: 51%; padding-left: 7px; }
+    .footer {
+      position: absolute;
+      bottom: 7mm;
+      left: 15mm;
+      right: 15mm;
+      color: #8a98a3;
+      font-size: 8.5pt;
+      border-top: 1px solid #edf2f6;
+      padding-top: 4px;
+      text-align: right;
+    }
+    a { color: #174a7c; text-decoration: none; }
+    @media print {
+      body { background: #ffffff; }
+      .page { margin: 0; box-shadow: none; }
+    }
+  </style>
+</head>
+<body>
+
+<section class="page">
+  <div class="topbar"></div>
+  <header class="header">
+    <div class="header-text">
+      <h1>Dr. Carlos Adrián Catania</h1>
+      <div class="contact">
+        Mendoza, Argentina · harpomaxx@gmail.com · <a href="https://harpomaxx.github.io">harpomaxx.github.io</a><br>
+        Profesor Titular, Facultad de Ingeniería, Universidad Nacional de Cuyo · Investigador CONICET CIC · Director LABSIN
+      </div>
+      <div class="header-profile">
+        <div class="header-profile-title">Perfil ejecutivo</div>
+        <p>Investigador, docente y gestor académico especializado en <strong>inteligencia artificial, ciencia de datos, ciberseguridad, sistemas distribuidos y optimización</strong>. Su trayectoria se centra en proyectos de <strong>investigación aplicada y transferencia tecnológica</strong>, con vínculos sostenidos con sectores productivos nacionales e internacionales.</p>
+        <p>Ha dirigido laboratorios, equipos y proyectos de I+D. También ha formado recursos humanos, articulado desarrollos con empresas y gestionado financiamiento competitivo. Su trabajo combina solidez científica, capacidad técnica y experiencia institucional para transformar conocimiento universitario en soluciones aplicadas.</p>
+      </div>
+    </div>
+    <img class="profile-photo" src="assets/harpo-speaking-khipu-crop.jpeg" alt="Foto de Carlos Adrián Catania">
+  </header>
+
+  <div class="section highlight-box">
+    <strong>Capacidades relevantes:</strong>
+    <div class="chips">
+      <span class="chip">Investigación aplicada</span>
+      <span class="chip">Gestión de I+D</span>
+      <span class="chip">Soluciones tecnológicas</span>
+      <span class="chip">Equipos interdisciplinarios</span>
+      <span class="chip">Cooperación internacional</span>
+      <span class="chip">Innovación basada en datos</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Experiencia institucional y de gestión</h2>
+
+    <h3>Universidad Nacional de Cuyo — Facultad de Ingeniería</h3>
+    <div class="role">Profesor Titular, dedicación exclusiva · 2017–actualidad
+      <ul class="inline-bullet"><li>Focalizado en Inteligencia Artificial y Algoritmia</li></ul>
+      Director del Laboratorio de Sistemas Inteligentes (LABSIN) · <a href="https://labsin.org">labsin.org</a>
+    </div>
+    <ul class="compact">
+      <li>Desarrollo de líneas de investigación aplicada en inteligencia artificial, ciberseguridad, ciencia de datos, sistemas distribuidos y optimización.</li>
+      <li>Dirección de proyectos y formación de estudiantes, becarios e investigadores jóvenes.</li>
+      <li>Articulación de capacidades académicas con problemas industriales y científicos.</li>
+    </ul>
+
+    <h3>CONICET</h3>
+    <div class="role">Investigador CONICET CIC · 2023–actualidad</div>
+    <ul class="compact">
+      <li>Investigación aplicada en IA, aprendizaje automático, análisis de datos y ciberseguridad.</li>
+      <li>Producción científica internacional y participación en equipos interdisciplinarios.</li>
+    </ul>
+
+    <h3>Universidad Champagnat</h3>
+    <div class="role">Director del Instituto de Investigaciones de la Facultad de Informática y Diseño</div>
+    <ul class="compact">
+      <li>Gestión y seguimiento de proyectos de investigación en ciencia de datos, computación distribuida e ingeniería de software.</li>
+    </ul>
+
+    <h3>Czech Technical University in Prague — Artificial Intelligence Center</h3>
+    <div class="role">Investigador asociado / colaborador · 2024–actualidad</div>
+    <ul class="compact">
+      <li>Trabajo en tecnologías basadas en modelos de lenguaje y agentes inteligentes.</li>
+      <li>Participación en proyectos internacionales de IA aplicada a ciberseguridad.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Experiencia con industria y organizaciones</h2>
+    <ul class="compact">
+      <li><strong>Advisor / Klari</strong> — Chatbots para gestión comercial. <span class="muted">2024–actualidad</span></li>
+      <li><strong>Tenaris</strong> — Algoritmos de planificación de demanda usando SAS. <span class="muted">2022–2023</span></li>
+      <li><strong>IMBECU, Argentina</strong> — Algoritmos para detección de firmas genéticas en subtipos de cáncer. <span class="muted">2018–2020</span></li>
+      <li><strong>Whalebone, República Checa</strong> — Detección de dominios maliciosos generados algorítmicamente. <span class="muted">2016–2019</span></li>
+      <li><strong>Sequre S.A., Argentina</strong> — Actualización de precios de servicios cloud. <span class="muted">2017–2018</span></li>
+      <li><strong>Synovo, Francia</strong> — Optimización de flotas de vehículos de salud. <span class="muted">2014–2015</span></li>
+    </ul>
+    <p><strong>Sectores:</strong> ciberseguridad, industria, salud, bioinformática, transporte sanitario, ganadería de precisión, educación superior, cloud y big data.</p>
+  </div>
+
+  <div class="footer">Carlos Adrián Catania · CV resumido · 1/2</div>
+</section>
+
+<section class="page">
+  <div class="topbar"></div>
+
+  <div class="section">
+    <h2>Proyectos seleccionados y financiamiento</h2>
+    <ul class="compact">
+      <li><strong>AI4CZ / Národní centrum umělé inteligence</strong> — Investigador en proyecto financiado por TAČR, programa SIGMA, República Checa.</li>
+      <li><strong>Slips Immune I</strong> — Investigador. NLNET, 2025–2026. Monto: EUR 50.000.</li>
+      <li><strong>Melisseus: Large Language Models as Defensive Honeypots</strong> — Investigador. NGI Sargasso, 2023–2024. Monto: EUR 50.000.</li>
+      <li><strong>Aprendizaje por Refuerzo Aplicado al Etiquetado de Tráfico de Red</strong> — Director. SIIP, UNCUYO, 2022–2024.</li>
+      <li><strong>Aplicación de redes neuronales profundas para detección automática de dominios generados algorítmicamente</strong> — Director. SIIP, UNCUYO, 2018–2020.</li>
+      <li><strong>PICT-2015-1435: Análisis y reconocimiento de comportamiento malicioso en grandes volúmenes de tráfico de red</strong> — Investigador responsable / Director. FONCyT-ANPCyT, 2015–2018.</li>
+      <li><strong>Análisis y procesamiento de grandes volúmenes de datos en entornos cloud</strong> — Director. SECTYP, UNCUYO, 2013–2015.</li>
+      <li><strong>Proyecto bilateral argentino-checo en Data Mining y Distributed Computing</strong> — Investigador. Czech Technical University / UNCUYO, 2010–2011.</li>
+    </ul>
+  </div>
+
+  <div class="two-col">
+    <div class="col left">
+      <div class="section">
+        <h2>Producción científica</h2>
+        <p>Autor de <strong>más de 80 publicaciones</strong> en congresos y revistas nacionales e internacionales.</p>
+        <p>Sus trabajos incluyen publicaciones en <strong>Expert Systems with Applications</strong>, <strong>Nature Communications</strong>, <strong>Computers &amp; Security</strong>, <strong>Bioinformatics</strong>, <strong>Journal of Information Security and Applications</strong> y <strong>Computers &amp; Electrical Engineering</strong>.</p>
+      </div>
+
+      <div class="section">
+        <h2>Áreas de especialidad</h2>
+        <ul class="compact">
+          <li>Inteligencia artificial y aprendizaje automático.</li>
+          <li>Ciberseguridad y detección de anomalías.</li>
+          <li>Ciencia de datos, big data y cloud.</li>
+          <li>Optimización y metaheurísticas.</li>
+          <li>Sistemas distribuidos y sensores.</li>
+          <li>Bioinformática y modelos de lenguaje.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col right">
+      <div class="section">
+        <h2>Formación académica</h2>
+        <p><strong>Doctorado en Ciencias de la Computación</strong><br>
+        Universidad Nacional del Centro de la Provincia de Buenos Aires, UNICEN. 2013.<br>
+        <span class="muted">Tesis sobre detección de intrusiones mediante aprendizaje automático. Calificación máxima.</span></p>
+
+        <p><strong>Maestría en Teleinformática</strong><br>
+        Universidad de Mendoza. 2007.<br>
+        <span class="muted">Tesis sobre clasificación de patrones evolutivos en entornos distribuidos. Calificación máxima.</span></p>
+
+        <p><strong>Licenciatura en Ciencias en Sistemas de Información</strong><br>
+        Universidad Champagnat. 2004.</p>
+      </div>
+
+      <div class="section">
+        <h2>Competencias técnicas</h2>
+        <p>IA, machine learning, deep learning, modelos de lenguaje, ciencia de datos, big data, ciberseguridad, optimización, sistemas distribuidos y cloud.</p>
+      </div>
+
+      <div class="section">
+        <h2>Idiomas</h2>
+        <ul class="compact">
+          <li>Español: nativo.</li>
+          <li>Inglés: avanzado.</li>
+          <li>Francés: intermedio / B1.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="section highlight-box" style="margin-top: 12px;">
+    <strong>Síntesis:</strong> trayectoria académica de casi dos décadas, con dirección de proyectos aplicados, formación de equipos y colaboración sostenida con industria y organizaciones. Combina producción científica, experiencia institucional y desarrollo de soluciones tecnológicas para problemas concretos.
+  </div>
+
+  <div class="footer">Carlos Adrián Catania · CV resumido · 2/2</div>
+</section>
+
+</body>
+</html>
