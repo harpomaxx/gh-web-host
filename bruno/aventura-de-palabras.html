@@ -1,0 +1,1174 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aventura de Palabras · Lengua</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Baloo+2:wght@600;700;800&family=Caveat:wght@600;700&display=swap');
+
+  :root{
+    --grape:#6b3fa0;
+    --grape2:#8a5bc4;
+    --lilac:#c7a8ec;
+    --rose:#ff6f9c;
+    --rose-deep:#e04b7c;
+    --cream:#fff6e9;
+    --paper:#fffdf7;
+    --ink:#2e2340;
+    --ink-soft:#6d6382;
+    --gold:#ffc94d;
+    --gold-deep:#eda520;
+    --mint:#3fbf94;
+    --sky:#4fc0e8;
+    --ok:#3ca35a;
+    --ok-deep:#2b8044;
+    --no:#e25563;
+    --no-deep:#bf3c49;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'Fredoka',system-ui,sans-serif;color:var(--ink);min-height:100vh;overflow-x:hidden;
+    -webkit-tap-highlight-color:transparent;
+    background:
+      radial-gradient(circle at 84% 8%, rgba(255,201,77,.42), transparent 36%),
+      radial-gradient(circle at 10% 84%, rgba(255,111,156,.28), transparent 42%),
+      linear-gradient(168deg,#efe2ff 0%, #d9c5f5 48%, #b79ae4 100%);
+  }
+
+  /* ---------- escenografía vectorial ---------- */
+  .scene{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+  .float-paper{position:absolute;width:44px;animation:drift linear infinite;opacity:.75}
+  @keyframes drift{
+    0%{transform:translateY(-14vh) rotate(-12deg)}
+    100%{transform:translateY(112vh) rotate(348deg)}
+  }
+  .cloud{position:absolute;opacity:.55;animation:slide linear infinite}
+  @keyframes slide{0%{transform:translateX(-30vw)}100%{transform:translateX(130vw)}}
+  .books{position:absolute;bottom:0;width:100%;height:170px}
+
+  .wrap{position:relative;z-index:2;max-width:760px;margin:0 auto;padding:18px 16px 64px}
+
+  /* ---------- header ---------- */
+  header{display:flex;align-items:center;gap:12px;background:var(--paper);
+    border:3px solid var(--grape);border-radius:22px;padding:11px 16px;
+    box-shadow:0 7px 0 rgba(107,63,160,.32);margin-bottom:16px}
+  .brand{font-family:'Baloo 2';font-weight:800;font-size:1.28rem;color:var(--grape);
+    display:flex;align-items:center;gap:9px;line-height:1}
+  .brand svg{flex-shrink:0}
+  .hud{margin-left:auto;display:flex;gap:9px;flex-wrap:wrap}
+  .chip{background:var(--cream);border:2.5px solid var(--grape);border-radius:13px;padding:5px 11px;
+    font-weight:600;display:flex;align-items:center;gap:5px;font-size:.92rem;box-shadow:0 3px 0 rgba(107,63,160,.25)}
+  .chip b{font-family:'Baloo 2';font-size:1.05rem}
+
+  /* ---------- panel ---------- */
+  .panel{background:var(--paper);border:3.5px solid var(--grape);border-radius:26px;
+    box-shadow:0 11px 0 rgba(107,63,160,.3);padding:24px 20px;position:relative;
+    animation:grow .42s cubic-bezier(.2,1.4,.4,1) both}
+  @keyframes grow{from{opacity:0;transform:scale(.93) translateY(14px)}to{opacity:1;transform:scale(1) translateY(0)}}
+
+  .tab{position:absolute;top:-16px;left:24px;background:var(--rose);color:#fff;font-family:'Baloo 2';font-weight:700;
+    padding:6px 16px;border-radius:14px;border:3px solid var(--grape);box-shadow:0 4px 0 rgba(107,63,160,.32);
+    font-size:.92rem;display:flex;align-items:center;gap:7px}
+
+  /* ---------- inicio ---------- */
+  .hero{text-align:center}
+  .hero .owl{animation:bob 2.6s infinite ease-in-out;filter:drop-shadow(0 5px 0 rgba(0,0,0,.1))}
+  @keyframes bob{0%,100%{transform:translateY(0) rotate(-3deg)}50%{transform:translateY(-11px) rotate(3deg)}}
+  .hero h1{font-family:'Baloo 2';font-weight:800;font-size:2.1rem;color:var(--grape);margin:8px 0 2px;line-height:1.05}
+  .hero .sub{color:var(--ink-soft);font-size:1.12rem;margin-bottom:18px}
+  .topics{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;max-width:530px;margin:0 auto 20px}
+  @media(max-width:520px){.topics{grid-template-columns:1fr 1fr}}
+  .topic{background:var(--cream);border:2.5px solid var(--grape);border-radius:14px;padding:9px 8px;font-weight:500;
+    font-size:.84rem;display:flex;flex-direction:column;align-items:center;gap:4px;
+    box-shadow:0 3px 0 rgba(107,63,160,.22);text-align:center}
+
+  .play{font-family:'Baloo 2';font-weight:800;font-size:1.5rem;color:#fff;
+    background:linear-gradient(180deg,var(--grape2),var(--grape));border:3.5px solid var(--ink);border-radius:20px;
+    padding:15px 40px;cursor:pointer;box-shadow:0 8px 0 rgba(46,35,64,.35);transition:transform .1s}
+  .play:active{transform:translateY(5px);box-shadow:0 3px 0 rgba(46,35,64,.35)}
+
+  /* ---------- progreso ---------- */
+  .trail{display:flex;align-items:center;gap:10px;margin-bottom:14px;background:var(--paper);
+    border:3px solid var(--grape);border-radius:16px;padding:9px 13px;box-shadow:0 5px 0 rgba(107,63,160,.26)}
+  .trail .lab{font-weight:600;font-size:.86rem;color:var(--ink-soft);white-space:nowrap}
+  .trail .track{flex:1;height:15px;background:#ece0fb;border-radius:9px;overflow:hidden;border:2px solid var(--grape);position:relative}
+  .trail .fill{height:100%;width:0;background:linear-gradient(90deg,var(--rose),var(--grape2));transition:width .5s cubic-bezier(.3,1.4,.5,1)}
+  .trail .walker{position:absolute;top:50%;transform:translate(-50%,-50%);font-size:.95rem;transition:left .5s cubic-bezier(.3,1.4,.5,1)}
+
+  /* ---------- pregunta ---------- */
+  .qtag{font-family:'Caveat';font-weight:700;font-size:1.28rem;color:var(--rose-deep);margin-bottom:4px}
+  .prompt{font-size:1.3rem;line-height:1.45;font-weight:500;margin-bottom:6px}
+  .prompt b{color:var(--grape)}
+  .scenario{background:var(--cream);border-left:5px solid var(--rose);border-radius:0 12px 12px 0;
+    padding:12px 15px;font-size:1.1rem;margin:10px 0 4px;color:#453a56;line-height:1.5}
+  .scenario.poem{font-family:'Caveat';font-size:1.5rem;line-height:1.35;text-align:center;font-weight:600;color:var(--grape)}
+  .scenario .gap{display:inline-block;min-width:52px;border-bottom:3px dotted var(--rose);margin:0 3px}
+  .hintline{font-size:.95rem;color:var(--ink-soft);margin:8px 0 16px;display:flex;align-items:center;gap:6px}
+
+  .choices{display:grid;gap:11px}
+  .choice{font-family:'Fredoka';font-size:1.13rem;font-weight:500;background:#fff;border:3px solid var(--grape);
+    border-radius:16px;padding:14px 15px;cursor:pointer;text-align:left;box-shadow:0 5px 0 rgba(107,63,160,.22);
+    transition:transform .08s,background .15s;display:flex;align-items:center;gap:11px;color:var(--ink)}
+  .choice .em{font-size:1.35rem;flex-shrink:0}
+  .choice:hover:not(:disabled){background:var(--cream);transform:translateY(-2px)}
+  .choice:active:not(:disabled){transform:translateY(2px);box-shadow:0 2px 0 rgba(107,63,160,.22)}
+  .choice:disabled{cursor:default}
+  .choice.correct{background:linear-gradient(180deg,var(--ok),var(--ok-deep));color:#fff;border-color:var(--ok-deep);animation:cheer .5s}
+  .choice.wrong{background:linear-gradient(180deg,var(--no),var(--no-deep));color:#fff;animation:shake .4s}
+  .choice.dim{opacity:.4}
+  @keyframes cheer{0%,100%{transform:scale(1)}40%{transform:scale(1.05)}}
+  @keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-7px)}75%{transform:translateX(7px)}}
+
+  .tf{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .tf .choice{justify-content:center;font-family:'Baloo 2';font-weight:800;font-size:1.35rem}
+  .mini{display:grid;grid-template-columns:repeat(auto-fit,minmax(108px,1fr));gap:10px}
+  .mini .choice{justify-content:center;font-family:'Baloo 2';font-weight:800;font-size:1.2rem;padding:13px 8px}
+
+  /* ---------- feedback ---------- */
+  .fb{margin-top:18px;border-radius:16px;padding:14px 16px;font-weight:600;font-size:1.05rem;display:none;
+    align-items:flex-start;gap:12px;border:3px solid var(--grape);animation:grow .35s both}
+  .fb.show{display:flex}
+  .fb.ok{background:#e4f7e7;border-color:var(--ok-deep)}
+  .fb.no{background:#fde6e8;border-color:var(--no-deep)}
+  .fb .face{font-size:1.9rem;line-height:1}
+  .fb .txt{flex:1}
+  .fb .txt .ex{display:block;margin-top:5px;font-weight:500;font-size:.96rem;color:#544a63}
+  .fb .next{font-family:'Baloo 2';font-weight:800;font-size:1.02rem;color:#fff;background:var(--grape);
+    border:3px solid var(--ink);border-radius:14px;padding:10px 18px;cursor:pointer;box-shadow:0 4px 0 rgba(46,35,64,.32);
+    transition:transform .08s;white-space:nowrap}
+  .fb .next:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(46,35,64,.32)}
+
+  .badge-pop{position:fixed;top:26%;left:50%;transform:translateX(-50%);z-index:60;pointer-events:none;
+    background:var(--gold);border:4px solid var(--grape);border-radius:20px;padding:14px 22px;font-family:'Baloo 2';
+    font-weight:800;font-size:1.3rem;color:#5a3d10;box-shadow:0 8px 0 rgba(107,63,160,.4);opacity:0;text-align:center}
+
+  /* ---------- final ---------- */
+  .win{text-align:center}
+  .win .medal{font-size:5rem;animation:bob 2.2s infinite ease-in-out}
+  .stars{font-size:2.3rem;letter-spacing:6px;margin:10px 0}
+  .row-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center;margin-top:14px}
+  .badges-won{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:14px 0}
+  .bw{background:var(--cream);border:2.5px solid var(--grape);border-radius:12px;padding:7px 11px;font-size:.85rem;font-weight:600;
+    display:flex;align-items:center;gap:5px;box-shadow:0 3px 0 rgba(107,63,160,.22)}
+  .bw .e{font-size:1.2rem}
+
+  .conf{position:fixed;top:-12px;width:11px;height:17px;z-index:55;pointer-events:none;border-radius:2px}
+  .small{color:var(--ink-soft);font-size:.9rem}
+  .back{display:inline-block;margin-top:18px;color:var(--grape);font-weight:600;text-decoration:none;
+    background:var(--paper);border:2.5px solid var(--grape);border-radius:14px;padding:8px 16px;
+    box-shadow:0 4px 0 rgba(107,63,160,.25)}
+</style>
+</head>
+<body>
+<div class="scene" id="scene"></div>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <svg width="30" height="30" viewBox="0 0 40 40" aria-hidden="true">
+        <ellipse cx="20" cy="23" rx="13" ry="14" fill="#8ad4e8" stroke="#2e2340" stroke-width="2.4"/>
+        <path d="M7 16 Q20 4 33 16 Q20 12 7 16Z" fill="#6b3fa0" stroke="#2e2340" stroke-width="2.4" stroke-linejoin="round"/>
+        <circle cx="14.5" cy="21" r="4.6" fill="#fffdf7" stroke="#2e2340" stroke-width="2"/>
+        <circle cx="25.5" cy="21" r="4.6" fill="#fffdf7" stroke="#2e2340" stroke-width="2"/>
+        <circle cx="15.2" cy="21.4" r="1.9" fill="#2e2340"/>
+        <circle cx="24.8" cy="21.4" r="1.9" fill="#2e2340"/>
+        <path d="M20 25 l-3 3 h6Z" fill="#ffc94d" stroke="#2e2340" stroke-width="1.8" stroke-linejoin="round"/>
+      </svg>
+      Aventura de Palabras
+    </div>
+    <div class="hud">
+      <div class="chip"><span>📚</span><b id="hScore">0</b></div>
+      <div class="chip"><span>🔥</span><b id="hStreak">0</b></div>
+      <div class="chip"><span>❤️</span><b id="hLives">3</b></div>
+    </div>
+  </header>
+  <div id="app"></div>
+  <p style="text-align:center"><a class="back" href="index.html">← Volver a los juegos</a></p>
+</div>
+<div class="badge-pop" id="badgePop"></div>
+
+<script>
+/* =====================================================
+   AVENTURA DE PALABRAS — Lengua (4° grado, Argentina)
+   Temas: poesía · artículos · adjetivos calificativos ·
+   adjetivos no descriptivos · preposiciones · concordancia
+   Todas las preguntas se generan al azar en cada partida.
+   ===================================================== */
+const app=document.getElementById('app');
+const hud={score:document.getElementById('hScore'),streak:document.getElementById('hStreak'),lives:document.getElementById('hLives')};
+const badgePop=document.getElementById('badgePop');
+
+const rnd=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+const pick=a=>a[rnd(0,a.length-1)];
+const shuffle=a=>{const r=[...a];for(let i=r.length-1;i>0;i--){const j=rnd(0,i);[r[i],r[j]]=[r[j],r[i]];}return r;};
+const sample=(a,n)=>shuffle(a).slice(0,n);
+const capit=s=>s.charAt(0).toUpperCase()+s.slice(1);
+
+const TOTAL=10;
+const state={score:0,streak:0,best:0,lives:3,q:0,correct:0,topics:new Set()};
+
+/* ---------- escenografía ---------- */
+(function(){
+  const s=document.getElementById('scene');
+  /* hojitas de papel con una letra escrita */
+  const letras=['a','de','sí','la','el','y','en','oh'];
+  for(let i=0;i<9;i++){
+    const d=document.createElement('div');
+    d.className='float-paper';
+    d.style.left=Math.random()*100+'vw';
+    d.style.animationDuration=(11+Math.random()*10)+'s';
+    d.style.animationDelay=(-Math.random()*14)+'s';
+    d.style.width=(30+Math.random()*24)+'px';
+    d.innerHTML=`<svg viewBox="0 0 44 54">
+      <path d="M4 3 h30 l6 6 v42 a2 2 0 0 1 -2 2 H4 a2 2 0 0 1 -2 -2 V5 a2 2 0 0 1 2 -2Z"
+            fill="#fffdf7" stroke="#6b3fa0" stroke-width="2.6" stroke-linejoin="round"/>
+      <path d="M34 3 v6 h6" fill="none" stroke="#6b3fa0" stroke-width="2.6" stroke-linejoin="round"/>
+      <text x="21" y="36" text-anchor="middle" font-family="Caveat,cursive" font-size="19"
+            font-weight="700" fill="#ff6f9c">${pick(letras)}</text>
+    </svg>`;
+    s.appendChild(d);
+  }
+  /* nubes suaves */
+  for(let i=0;i<3;i++){
+    const c=document.createElement('div');
+    c.className='cloud';
+    c.style.top=(6+i*17)+'%';
+    c.style.width=(120+Math.random()*90)+'px';
+    c.style.animationDuration=(48+Math.random()*40)+'s';
+    c.style.animationDelay=(-Math.random()*50)+'s';
+    c.innerHTML=`<svg viewBox="0 0 160 70">
+      <path d="M28 58 a22 22 0 0 1 3 -43 a26 26 0 0 1 48 -6 a24 24 0 0 1 42 12 a20 20 0 0 1 6 37Z"
+            fill="#fffdf7" stroke="#b79ae4" stroke-width="3" stroke-linejoin="round"/>
+    </svg>`;
+    s.appendChild(c);
+  }
+  /* pila de libros al pie de la página */
+  s.insertAdjacentHTML('beforeend',`
+   <svg class="books" viewBox="0 0 1440 170" preserveAspectRatio="none">
+     <path d="M0,96 C210,58 380,120 610,90 C860,58 1010,128 1240,96 C1350,80 1400,96 1440,90 L1440,170 L0,170Z"
+           fill="#a184d8" opacity=".5"/>
+     <path d="M0,126 C230,96 420,142 690,118 C950,94 1120,148 1440,124 L1440,170 L0,170Z"
+           fill="#7f5bbd" opacity=".85"/>
+     <g transform="translate(96,86)" opacity=".95">
+       <rect x="0" y="34" width="132" height="20" rx="5" fill="#ff6f9c" stroke="#2e2340" stroke-width="3"/>
+       <rect x="10" y="16" width="112" height="19" rx="5" fill="#ffc94d" stroke="#2e2340" stroke-width="3"/>
+       <rect x="22" y="0" width="92" height="17" rx="5" fill="#3fbf94" stroke="#2e2340" stroke-width="3"/>
+     </g>
+     <g transform="translate(1188,80)" opacity=".95">
+       <path d="M0,44 Q34,28 68,44 L68,16 Q34,0 0,16Z" fill="#fffdf7" stroke="#2e2340" stroke-width="3" stroke-linejoin="round"/>
+       <path d="M68,44 Q102,28 136,44 L136,16 Q102,0 68,16Z" fill="#fffdf7" stroke="#2e2340" stroke-width="3" stroke-linejoin="round"/>
+       <line x1="68" y1="16" x2="68" y2="44" stroke="#2e2340" stroke-width="3"/>
+     </g>
+   </svg>`);
+})();
+
+function burst(n=26){
+  const cols=['#ff6f9c','#ffc94d','#8a5bc4','#3fbf94','#4fc0e8','#e04b7c'];
+  for(let i=0;i<n;i++){
+    const c=document.createElement('div');c.className='conf';
+    c.style.left=Math.random()*100+'vw';c.style.background=pick(cols);document.body.appendChild(c);
+    c.animate([{top:'-12px',opacity:1},{top:'104vh',opacity:.9,transform:`translateX(${(Math.random()-.5)*240}px) rotate(${Math.random()*720}deg)`}],
+      {duration:1100+Math.random()*800,easing:'cubic-bezier(.2,.6,.5,1)'}).onfinish=()=>c.remove();
+  }
+}
+function popBadge(txt){
+  badgePop.innerHTML=txt;
+  badgePop.animate([{opacity:0,transform:'translateX(-50%) scale(.6)'},
+    {opacity:1,transform:'translateX(-50%) scale(1.08)',offset:.3},
+    {opacity:1,transform:'translateX(-50%) scale(1)',offset:.7},
+    {opacity:0,transform:'translateX(-50%) scale(1) translateY(-26px)'}],{duration:1400,easing:'ease-out'});
+}
+function syncHud(){hud.score.textContent=state.score;hud.streak.textContent=state.streak;hud.lives.textContent=state.lives;}
+
+/* =====================================================
+   TEMA 1 · LA POESÍA
+   verso · estrofa · rima consonante y asonante · imágenes sensoriales
+   ===================================================== */
+
+/* estrofas de 4 versos, escritas para este juego */
+const ESTROFAS=[
+  ['El viento juega en la plaza','y hace bailar el sombrero,','la luna asoma en la casa','y se ríe del lucero.'],
+  ['Un gato duerme en la esquina','soñando con pez dorado,','la lluvia canta y afina','el techo recién mojado.'],
+  ['Volaba un barco de papel','por el charco de la escuela,','llevaba adentro un cascabel','y una diminuta vela.'],
+  ['La abuela guarda en su lata','botones de mil colores,','y cada vez que los saca','se llena el aire de flores.'],
+  ['Cuando la noche se apaga','y el sol despierta al jazmín,','el río cuenta una saga','que no se acaba jamás.'],
+];
+
+/* pares de rima: consonante = coinciden vocales Y consonantes desde la última tónica
+   asonante = coinciden solo las vocales */
+const RIMAS_CONS=[
+  ['luna','cuna'],['flores','colores'],['montaña','cabaña'],['viento','cuento'],
+  ['canción','corazón'],['estrella','huella'],['camino','molino'],['sombrero','lucero'],
+];
+const RIMAS_ASON=[
+  ['gato','pájaro'],['sombra','cosa'],['nube','dulce'],['barco','pato'],
+  ['río','abrigo'],['casa','mañana'],['libro','ombligo'],['flecha','vela'],
+];
+
+/* imágenes sensoriales */
+const IMAGENES=[
+  {frase:'el perfume del pan recién horneado', sentido:'olfato', em:'👃'},
+  {frase:'la seda fría de la sábana', sentido:'tacto', em:'✋'},
+  {frase:'el dulce sabor del durazno', sentido:'gusto', em:'👅'},
+  {frase:'el canto ronco de las ranas', sentido:'oído', em:'👂'},
+  {frase:'un cielo lleno de estrellas doradas', sentido:'vista', em:'👁️'},
+  {frase:'el aroma a tierra mojada', sentido:'olfato', em:'👃'},
+  {frase:'el chirrido de la puerta vieja', sentido:'oído', em:'👂'},
+  {frase:'la arena áspera bajo los pies', sentido:'tacto', em:'✋'},
+  {frase:'el limón amargo de la abuela', sentido:'gusto', em:'👅'},
+  {frase:'la luna blanca sobre el techo', sentido:'vista', em:'👁️'},
+];
+const SENTIDOS=['vista','oído','olfato','gusto','tacto'];
+const SENT_EM={vista:'👁️','oído':'👂',olfato:'👃',gusto:'👅',tacto:'✋'};
+
+function genPoesia(){
+  const modo=pick(['versos','estrofas','rima','imagen','concepto']);
+
+  if(modo==='versos'){
+    const e=pick(ESTROFAS);
+    const n=e.length;
+    const opciones=shuffle([n,n-1,n+1,n+2].filter(x=>x>0)).slice(0,4);
+    return {
+      topic:'Poesía', tag:'📜 La poesía',
+      type:'mini',
+      prompt:'¿Cuántos <b>versos</b> tiene esta estrofa?',
+      scenario:e.join('<br>'), poem:true,
+      hint:'Cada línea de un poema es un verso.',
+      choices: opciones.map(o=>({label:String(o),ok:o===n})),
+      explain:`Tiene ${n} versos. El verso es cada una de las líneas que forman el poema.`
+    };
+  }
+
+  if(modo==='estrofas'){
+    const cant=rnd(2,4);
+    const elegidas=sample(ESTROFAS,cant);
+    return {
+      topic:'Poesía', tag:'📜 La poesía',
+      type:'mini',
+      prompt:'¿Cuántas <b>estrofas</b> tiene este poema?',
+      scenario: elegidas.map(e=>e.join('<br>')).join('<br><br>'), poem:true,
+      hint:'Las estrofas son los grupos de versos separados por un espacio.',
+      choices: shuffle([cant,cant+1,cant-1,cant+2].filter(x=>x>0)).slice(0,4).map(o=>({label:String(o),ok:o===cant})),
+      explain:`Tiene ${cant} estrofas. Una estrofa es un grupo de versos separado de los demás por un espacio en blanco.`
+    };
+  }
+
+  if(modo==='rima'){
+    const esCons=Math.random()<.5;
+    const par=esCons?pick(RIMAS_CONS):pick(RIMAS_ASON);
+    return {
+      topic:'Poesía', tag:'🎵 Tipos de rima',
+      type:'tf2',
+      prompt:`Las palabras <b>${par[0]}</b> y <b>${par[1]}</b> riman. ¿Qué tipo de rima es?`,
+      hint:'Consonante: se repiten vocales Y consonantes. Asonante: solo las vocales.',
+      choices: shuffle([
+        {label:'Consonante', ok:esCons, em:'🎯'},
+        {label:'Asonante', ok:!esCons, em:'🎶'},
+      ]),
+      explain: esCons
+        ? `Es rima <b>consonante</b>: desde la última vocal acentuada, «${par[0]}» y «${par[1]}» repiten todos los sonidos, vocales y consonantes.`
+        : `Es rima <b>asonante</b>: «${par[0]}» y «${par[1]}» repiten solo las vocales; las consonantes son distintas.`
+    };
+  }
+
+  if(modo==='imagen'){
+    const img=pick(IMAGENES);
+    const otros=sample(SENTIDOS.filter(s=>s!==img.sentido),3);
+    return {
+      topic:'Poesía', tag:'✨ Imágenes sensoriales',
+      type:'choice',
+      prompt:`En el verso «<b>${img.frase}</b>», ¿a qué sentido apela la imagen sensorial?`,
+      hint:'Las imágenes sensoriales hacen que imaginemos con los cinco sentidos.',
+      choices: shuffle([
+        {label:capit(img.sentido), ok:true, em:img.em},
+        ...otros.map(o=>({label:capit(o), ok:false, em:SENT_EM[o]}))
+      ]),
+      explain:`Apela al <b>${img.sentido}</b> ${img.em}. Los poetas usan imágenes sensoriales para que el lector sienta lo que describen.`
+    };
+  }
+
+  /* concepto: verdadero o falso sobre la poesía */
+  const tfs=[
+    {t:'Cada línea de un poema se llama verso.', ok:true},
+    {t:'Un grupo de versos separado por un espacio se llama estrofa.', ok:true},
+    {t:'En la poesía los poetas juegan con el sonido y el significado de las palabras.', ok:true},
+    {t:'Al leer un poema hacemos una pausa después de cada verso y eso da musicalidad.', ok:true},
+    {t:'Todos los poemas tienen que rimar obligatoriamente.', ok:false},
+    {t:'Las estrofas son las palabras que riman al final del verso.', ok:false},
+    {t:'La poesía se escribe siempre en un solo párrafo largo, igual que un cuento.', ok:false},
+    {t:'Una imagen sensorial es un dibujo que acompaña al poema.', ok:false},
+  ];
+  const q=pick(tfs);
+  return {
+    topic:'Poesía', tag:'📜 ¿Verdadero o falso?',
+    type:'tf',
+    prompt:`«${q.t}»`,
+    hint:'Acordate de qué es un verso, una estrofa y una imagen sensorial.',
+    choices:[{label:'✅ Verdadero',ok:q.ok===true},{label:'❌ Falso',ok:q.ok===false}],
+    explain: q.ok
+      ? 'Es <b>verdadero</b>. ¡Bien recordado!'
+      : 'Es <b>falso</b>. Verso = cada línea · estrofa = grupo de versos · imagen sensorial = palabras que hacen sentir con los sentidos.'
+  };
+}
+
+/* =====================================================
+   TEMA 2 · LOS ARTÍCULOS
+   determinados / indeterminados · género y número · contracciones al y del
+   ===================================================== */
+const SUSTANTIVOS=[
+  {p:'libro',   g:'m', n:'s', pl:'libros'},
+  {p:'poema',   g:'m', n:'s', pl:'poemas'},
+  {p:'festival',g:'m', n:'s', pl:'festivales'},
+  {p:'club',    g:'m', n:'s', pl:'clubes'},
+  {p:'verso',   g:'m', n:'s', pl:'versos'},
+  {p:'cuaderno',g:'m', n:'s', pl:'cuadernos'},
+  {p:'león',    g:'m', n:'s', pl:'leones'},
+  {p:'río',     g:'m', n:'s', pl:'ríos'},
+  {p:'poesía',  g:'f', n:'s', pl:'poesías'},
+  {p:'calle',   g:'f', n:'s', pl:'calles'},
+  {p:'estrofa', g:'f', n:'s', pl:'estrofas'},
+  {p:'fiesta',  g:'f', n:'s', pl:'fiestas'},
+  {p:'montaña', g:'f', n:'s', pl:'montañas'},
+  {p:'poetisa', g:'f', n:'s', pl:'poetisas'},
+  {p:'palabra', g:'f', n:'s', pl:'palabras'},
+  {p:'escuela', g:'f', n:'s', pl:'escuelas'},
+];
+const ART={
+  det:{ms:'el', fs:'la', mp:'los', fp:'las'},
+  ind:{ms:'un', fs:'una', mp:'unos', fp:'unas'}
+};
+
+function genArticulos(){
+  const modo=pick(['completar','clasificar','contraccion','concordancia','tf']);
+
+  if(modo==='completar'){
+    const s=pick(SUSTANTIVOS);
+    const plural=Math.random()<.45;
+    const tipo=Math.random()<.5?'det':'ind';
+    const clave=(s.g)+(plural?'p':'s');
+    const correcto=ART[tipo][clave];
+    const palabra=plural?s.pl:s.p;
+    const todos=[...new Set([...Object.values(ART.det),...Object.values(ART.ind)])];
+    const distract=sample(todos.filter(a=>a!==correcto),3);
+    return {
+      topic:'Artículos', tag:'🔤 Los artículos',
+      type:'mini',
+      prompt:'¿Qué <b>artículo</b> completa correctamente la frase?',
+      scenario:`<span class="gap"></span> ${palabra}`,
+      hint:'El artículo concuerda en género (masculino/femenino) y número (singular/plural) con el sustantivo.',
+      choices: shuffle([{label:correcto,ok:true},...distract.map(d=>({label:d,ok:false}))]),
+      explain:`Se dice <b>${correcto} ${palabra}</b>, porque «${palabra}» es ${s.g==='m'?'masculino':'femenino'} ${plural?'plural':'singular'} y el artículo debe concordar con él.`
+    };
+  }
+
+  if(modo==='clasificar'){
+    const tipo=Math.random()<.5?'det':'ind';
+    const s=pick(SUSTANTIVOS);
+    const plural=Math.random()<.4;
+    const clave=(s.g)+(plural?'p':'s');
+    const art=ART[tipo][clave];
+    const palabra=plural?s.pl:s.p;
+    return {
+      topic:'Artículos', tag:'🔤 Determinado o indeterminado',
+      type:'tf2',
+      prompt:`En «<b>${art} ${palabra}</b>», el artículo <b>${art}</b> es…`,
+      hint:'Determinados: el, la, los, las (ya sabemos de cuál hablamos). Indeterminados: un, una, unos, unas.',
+      choices: shuffle([
+        {label:'Determinado', ok:tipo==='det', em:'🎯'},
+        {label:'Indeterminado', ok:tipo==='ind', em:'❓'},
+      ]),
+      explain: tipo==='det'
+        ? `<b>${art}</b> es un artículo <b>determinado</b> (el, la, los, las). Se usa cuando ya sabemos de qué objeto hablamos.`
+        : `<b>${art}</b> es un artículo <b>indeterminado</b> (un, una, unos, unas). Se usa cuando no conocemos el objeto del que hablamos.`
+    };
+  }
+
+  if(modo==='contraccion'){
+    const usaA=Math.random()<.5;
+    const s=pick(SUSTANTIVOS.filter(x=>x.g==='m'));
+    const correcto=usaA?'al':'del';
+    const frase=usaA
+      ? `Se entregará un premio <span class="gap"></span> mejor ${s.p}.`
+      : `Los organizadores <span class="gap"></span> ${s.p} prepararon todo.`;
+    return {
+      topic:'Artículos', tag:'🔗 Contracciones',
+      type:'mini',
+      prompt:'¿Qué <b>contracción</b> completa la oración?',
+      scenario:frase,
+      hint:'a + el = al · de + el = del',
+      choices: shuffle([
+        {label:correcto,ok:true},
+        {label:usaA?'a el':'de el',ok:false},
+        {label:usaA?'del':'al',ok:false},
+        {label:usaA?'a la':'de la',ok:false},
+      ]),
+      explain: usaA
+        ? 'Se escribe <b>al</b>, porque <b>a + el = al</b>. Nunca se escribe «a el».'
+        : 'Se escribe <b>del</b>, porque <b>de + el = del</b>. Nunca se escribe «de el».'
+    };
+  }
+
+  if(modo==='concordancia'){
+    /* detectar el error de concordancia */
+    const s=pick(SUSTANTIVOS);
+    const clave=s.g+'s';
+    const bueno=ART.det[clave];
+    const malo=s.g==='m'?'la':'el';
+    const otroG=s.g==='m'?'f':'m';
+    return {
+      topic:'Artículos', tag:'🔍 Cazador de errores',
+      type:'choice',
+      prompt:'¿Cuál de estas frases está <b>bien escrita</b>?',
+      hint:'Fijate si el artículo concuerda en género y número con el sustantivo.',
+      choices: shuffle([
+        {label:`${capit(bueno)} ${s.p}`, ok:true, em:'✅'},
+        {label:`${capit(malo)} ${s.p}`, ok:false, em:'❌'},
+        {label:`${capit(ART.det[s.g+'p'])} ${s.p}`, ok:false, em:'❌'},
+        {label:`${capit(ART.ind[otroG+'p'])} ${s.p}`, ok:false, em:'❌'},
+      ]),
+      explain:`Lo correcto es <b>${bueno} ${s.p}</b>: «${s.p}» es ${s.g==='m'?'masculino':'femenino'} singular, así que le corresponde el artículo «${bueno}».`
+    };
+  }
+
+  const tfs=[
+    {t:'Los artículos se ubican antes del sustantivo.', ok:true},
+    {t:'El artículo concuerda con el sustantivo en género y número.', ok:true},
+    {t:'«un, una, unos, unas» son artículos indeterminados.', ok:true},
+    {t:'«de + el» forma la contracción «del».', ok:true},
+    {t:'«el, la, los, las» son artículos indeterminados.', ok:false},
+    {t:'Los artículos van siempre después del sustantivo.', ok:false},
+    {t:'Se escribe «a el mejor poema».', ok:false},
+    {t:'Los artículos no cambian nunca de número.', ok:false},
+  ];
+  const q=pick(tfs);
+  return {
+    topic:'Artículos', tag:'🔤 ¿Verdadero o falso?',
+    type:'tf',
+    prompt:`«${q.t}»`,
+    hint:'Determinados: el, la, los, las · Indeterminados: un, una, unos, unas.',
+    choices:[{label:'✅ Verdadero',ok:q.ok===true},{label:'❌ Falso',ok:q.ok===false}],
+    explain: q.ok ? 'Es <b>verdadero</b>. ¡Muy bien!' :
+      'Es <b>falso</b>. Repasá: los artículos van antes del sustantivo, concuerdan con él y forman las contracciones <b>al</b> y <b>del</b>.'
+  };
+}
+
+/* =====================================================
+   TEMA 3 · ADJETIVOS CALIFICATIVOS
+   calificativos · concordancia · invariables · gentilicios
+   ===================================================== */
+const FRASES_ADJ=[
+  {sust:'melena',   adjs:['abundante','rojiza','larga'], art:'la'},
+  {sust:'rugido',   adjs:['impresionante'],              art:'el'},
+  {sust:'colmillos',adjs:['enormes','blancos'],          art:'los'},
+  {sust:'noche',    adjs:['fría','estrellada'],          art:'la'},
+  {sust:'poema',    adjs:['divertido','corto'],          art:'el'},
+  {sust:'montañas', adjs:['altas','nevadas'],            art:'las'},
+  {sust:'río',      adjs:['ancho','tranquilo'],          art:'el'},
+  {sust:'perro',    adjs:['peludo','juguetón'],          art:'el'},
+  {sust:'flores',   adjs:['amarillas','perfumadas'],     art:'las'},
+];
+const NO_ADJETIVOS=['corre','ventana','rápidamente','saltó','árbol','mañana','cantar','mochila'];
+
+/* adjetivos que sí cambian de género vs. invariables */
+const VARIABLES=['bueno','amoroso','talentoso','hermoso','pequeño','ruidoso','tranquilo'];
+/* cada invariable con un par de ejemplos masculino/femenino que suenen naturales */
+const INVARIABLES=[
+  {a:'inolvidable',   m:'un día inolvidable',      f:'una tarde inolvidable'},
+  {a:'incondicional', m:'un amigo incondicional',  f:'una amiga incondicional'},
+  {a:'libre',         m:'un verso libre',          f:'una tarde libre'},
+  {a:'feliz',         m:'un chico feliz',          f:'una chica feliz'},
+  {a:'grande',        m:'un perro grande',         f:'una casa grande'},
+  {a:'fuerte',        m:'un viento fuerte',        f:'una lluvia fuerte'},
+  {a:'alegre',        m:'un color alegre',         f:'una canción alegre'},
+  {a:'amable',        m:'un señor amable',         f:'una señora amable'},
+];
+
+const GENTILICIOS=[
+  {lugar:'Corrientes',            ok:'correntino',  mal:['correntense','correnteño']},
+  {lugar:'Salta',                 ok:'salteño',     mal:['salteano','saltarense']},
+  {lugar:'la provincia de Buenos Aires', ok:'bonaerense', mal:['bonaereño','bonarino']},
+  {lugar:'Mendoza',               ok:'mendocino',   mal:['mendozano','mendoceño']},
+  {lugar:'Córdoba',               ok:'cordobés',    mal:['cordobeño','cordobino']},
+  {lugar:'San Juan',              ok:'sanjuanino',  mal:['sanjuanense','sanjuaneño']},
+  {lugar:'Tucumán',               ok:'tucumano',    mal:['tucumeño','tucumense']},
+  {lugar:'Santa Fe',              ok:'santafesino', mal:['santafeño','santafense']},
+  {lugar:'Río Negro',             ok:'rionegrino',  mal:['rionegreño','rionegrense']},
+];
+
+function genCalificativos(){
+  const modo=pick(['cual_adj','que_sust','invariable','gentilicio','completar','tf']);
+
+  if(modo==='cual_adj'){
+    const f=pick(FRASES_ADJ);
+    const adj=pick(f.adjs);
+    const distract=sample(NO_ADJETIVOS,3);
+    return {
+      topic:'Calificativos', tag:'🎨 Adjetivos calificativos',
+      type:'choice',
+      prompt:`En «<b>${f.art} ${adj} ${f.sust}</b>», ¿cuál es el <b>adjetivo calificativo</b>?`,
+      hint:'El adjetivo calificativo dice cómo es el sustantivo.',
+      choices: shuffle([{label:adj,ok:true,em:'🎨'},...distract.map(d=>({label:d,ok:false,em:'🔸'}))]),
+      explain:`<b>${capit(adj)}</b> es el adjetivo: dice cómo es «${f.sust}». Los adjetivos calificativos describen al sustantivo.`
+    };
+  }
+
+  if(modo==='que_sust'){
+    const f=pick(FRASES_ADJ);
+    const adj=pick(f.adjs);
+    const otros=sample(FRASES_ADJ.filter(x=>x.sust!==f.sust),3).map(x=>x.sust);
+    return {
+      topic:'Calificativos', tag:'🎨 ¿A quién modifica?',
+      type:'choice',
+      prompt:`El adjetivo <b>${adj}</b> modifica a un sustantivo. ¿A cuál?`,
+      scenario:`${capit(f.art)} ${f.adjs.join(' y ')} ${f.sust} del cuento.`,
+      hint:'Preguntate: ¿qué cosa es «'+adj+'»?',
+      choices: shuffle([{label:f.sust,ok:true,em:'📌'},...otros.map(o=>({label:o,ok:false,em:'🔸'}))]),
+      explain:`Modifica a <b>${f.sust}</b>. El adjetivo siempre acompaña a un sustantivo y concuerda con él en género y número.`
+    };
+  }
+
+  if(modo==='invariable'){
+    const esInv=Math.random()<.5;
+    const inv=pick(INVARIABLES);
+    const adj=esInv?inv.a:pick(VARIABLES);
+    return {
+      topic:'Calificativos', tag:'🔁 Adjetivos invariables',
+      type:'tf2',
+      prompt:`El adjetivo <b>${adj}</b>, ¿cambia según el género?`,
+      hint:'Invariable = se escribe igual para masculino y femenino (un día feliz / una tarde feliz).',
+      choices: shuffle([
+        {label:'Es invariable', ok:esInv, em:'🔁'},
+        {label:'Sí cambia', ok:!esInv, em:'🔀'},
+      ]),
+      explain: esInv
+        ? `<b>${capit(adj)}</b> es <b>invariable</b> en género: se dice «${inv.m}» y «${inv.f}», igual para los dos.`
+        : `<b>${capit(adj)}</b> <b>sí cambia</b>: «${adj}» (masculino) / «${adj.slice(0,-1)}a» (femenino).`
+    };
+  }
+
+  if(modo==='gentilicio'){
+    const g=pick(GENTILICIOS);
+    return {
+      topic:'Calificativos', tag:'🇦🇷 Gentilicios',
+      type:'choice',
+      prompt:`Alguien que nació en <b>${g.lugar}</b> es…`,
+      hint:'Los gentilicios dicen de dónde es originario algo o alguien.',
+      choices: shuffle([{label:g.ok,ok:true,em:'📍'},...g.mal.map(m=>({label:m,ok:false,em:'🔸'}))]),
+      explain:`Se dice <b>${g.ok}</b>. Los gentilicios son adjetivos que indican el lugar de origen.`
+    };
+  }
+
+  if(modo==='completar'){
+    /* completar el adjetivo según el sustantivo, como el ejercicio 5 del libro */
+    const casos=[
+      {sust:'amigos',       base:'incondicional', ok:'incondicionales', inv:true},
+      {sust:'versos',       base:'libre',         ok:'libres',          inv:true},
+      {sust:'autor',        base:'talentoso',     ok:'talentoso',       inv:false},
+      {sust:'poetisa',      base:'talentoso',     ok:'talentosa',       inv:false},
+      {sust:'amigas',       base:'incondicional', ok:'incondicionales', inv:true},
+      {sust:'celebraciones',base:'libre',         ok:'libres',          inv:true},
+      {sust:'palabras',     base:'amoroso',       ok:'amorosas',        inv:false},
+      {sust:'deseos',       base:'bueno',         ok:'buenos',          inv:false},
+    ];
+    const c=pick(casos);
+    const malas=[c.base, c.ok.replace(/s$/,'')+'os', c.ok+'s'].filter(x=>x!==c.ok);
+    return {
+      topic:'Calificativos', tag:'✏️ Completá el adjetivo',
+      type:'mini',
+      prompt:`Completá el adjetivo para que concuerde con <b>${c.sust}</b>:`,
+      scenario:`${c.sust} <span class="gap"></span>`,
+      hint:'El adjetivo concuerda en género y número con el sustantivo.',
+      choices: shuffle([{label:c.ok,ok:true},...sample([...new Set(malas)],2).map(m=>({label:m,ok:false}))]),
+      explain:`Lo correcto es <b>${c.sust} ${c.ok}</b>.${c.inv?' Es un adjetivo invariable en género, pero sí cambia en número.':' Concuerda en género y número con el sustantivo.'}`
+    };
+  }
+
+  const tfs=[
+    {t:'Los adjetivos calificativos dicen cómo es el sustantivo.', ok:true},
+    {t:'Los adjetivos concuerdan en género y número con el sustantivo.', ok:true},
+    {t:'El adjetivo puede ir antes o después del sustantivo.', ok:true},
+    {t:'«Inolvidable» es un adjetivo invariable en género.', ok:true},
+    {t:'Los gentilicios indican de dónde es originario alguien.', ok:true},
+    {t:'Un sustantivo solo puede llevar un adjetivo.', ok:false},
+    {t:'Todos los adjetivos cambian de forma para el masculino y el femenino.', ok:false},
+    {t:'Los adjetivos calificativos acompañan siempre a un verbo.', ok:false},
+  ];
+  const q=pick(tfs);
+  return {
+    topic:'Calificativos', tag:'🎨 ¿Verdadero o falso?',
+    type:'tf',
+    prompt:`«${q.t}»`,
+    hint:'Pensá en «melena abundante, rojiza y larga».',
+    choices:[{label:'✅ Verdadero',ok:q.ok===true},{label:'❌ Falso',ok:q.ok===false}],
+    explain: q.ok ? 'Es <b>verdadero</b>. ¡Excelente!' :
+      'Es <b>falso</b>. El adjetivo acompaña al <b>sustantivo</b>, puede haber varios, y algunos son invariables (feliz, libre, grande).'
+  };
+}
+
+/* =====================================================
+   TEMA 4 · ADJETIVOS NO DESCRIPTIVOS
+   demostrativos · posesivos · numerales (cardinales y ordinales)
+   ===================================================== */
+const DEMOSTRATIVOS=[
+  {a:'este',   dist:'cerca'},   {a:'esta',   dist:'cerca'},
+  {a:'estos',  dist:'cerca'},   {a:'estas',  dist:'cerca'},
+  {a:'ese',    dist:'a media distancia'}, {a:'esa', dist:'a media distancia'},
+  {a:'esos',   dist:'a media distancia'}, {a:'esas',dist:'a media distancia'},
+  {a:'aquel',  dist:'lejos'},   {a:'aquella',dist:'lejos'},
+  {a:'aquellos',dist:'lejos'},  {a:'aquellas',dist:'lejos'},
+];
+const POSESIVOS=['mi','tu','su','mis','tus','sus','nuestro','nuestra','nuestros','nuestras'];
+const CARDINALES=['cinco','quince','dos','diez','tres','veinte','ocho','cien'];
+const ORDINALES=['primera','tercera','segundo','cuarto','quinto','décimo','primer','segunda'];
+
+const SUST_NEUTROS=['película','butacas','mochila','fila','pochoclo','entrada','sala','cine','prima','hamburguesa','gaseosa','libro','cuaderno','minutos','amigas'];
+
+function genNoDescriptivos(){
+  const modo=pick(['clasificar','card_ord','distancia','cual_es','tf']);
+
+  if(modo==='clasificar'){
+    const tipo=pick(['demostrativo','posesivo','numeral']);
+    let adj;
+    if(tipo==='demostrativo') adj=pick(DEMOSTRATIVOS).a;
+    else if(tipo==='posesivo') adj=pick(POSESIVOS);
+    else adj=pick([...CARDINALES,...ORDINALES]);
+    const sust=pick(SUST_NEUTROS);
+    return {
+      topic:'No descriptivos', tag:'🧩 Adjetivos no descriptivos',
+      type:'choice',
+      prompt:`En «<b>${adj} ${sust}</b>», ¿qué tipo de adjetivo es <b>${adj}</b>?`,
+      hint:'Demostrativo = señala dónde · Posesivo = de quién es · Numeral = cantidad u orden.',
+      choices: shuffle([
+        {label:'Demostrativo', ok:tipo==='demostrativo', em:'👉'},
+        {label:'Posesivo',     ok:tipo==='posesivo',     em:'🎒'},
+        {label:'Numeral',      ok:tipo==='numeral',      em:'🔢'},
+      ]),
+      explain: tipo==='demostrativo'
+        ? `<b>${capit(adj)}</b> es <b>demostrativo</b>: señala si el sustantivo está cerca, lejos o muy lejos del hablante.`
+        : tipo==='posesivo'
+        ? `<b>${capit(adj)}</b> es <b>posesivo</b>: indica posesión o relación (de quién es «${sust}»).`
+        : `<b>${capit(adj)}</b> es <b>numeral</b>: da un dato relacionado con los números (cantidad u orden).`
+    };
+  }
+
+  if(modo==='card_ord'){
+    const esCard=Math.random()<.5;
+    const adj=esCard?pick(CARDINALES):pick(ORDINALES);
+    return {
+      topic:'No descriptivos', tag:'🔢 Numerales',
+      type:'tf2',
+      prompt:`El numeral <b>${adj}</b> ¿es cardinal u ordinal?`,
+      hint:'Cardinal = cuántos hay (cinco butacas). Ordinal = en qué orden (tercera fila).',
+      choices: shuffle([
+        {label:'Cardinal', ok:esCard, em:'🔢'},
+        {label:'Ordinal',  ok:!esCard, em:'🥇'},
+      ]),
+      explain: esCard
+        ? `<b>${capit(adj)}</b> es <b>cardinal</b>: indica una cantidad, cuántos hay.`
+        : `<b>${capit(adj)}</b> es <b>ordinal</b>: indica el orden, en qué lugar está.`
+    };
+  }
+
+  if(modo==='distancia'){
+    const d=pick(DEMOSTRATIVOS);
+    const sust=pick(SUST_NEUTROS);
+    return {
+      topic:'No descriptivos', tag:'👉 Demostrativos',
+      type:'choice',
+      prompt:`En «<b>${d.a} ${sust}</b>», el demostrativo indica que está…`,
+      hint:'este = cerca · ese = a media distancia · aquel = lejos.',
+      choices: shuffle([
+        {label:'Cerca del hablante',            ok:d.dist==='cerca', em:'🙋'},
+        {label:'A media distancia',             ok:d.dist==='a media distancia', em:'🚶'},
+        {label:'Lejos del hablante',            ok:d.dist==='lejos', em:'🏔️'},
+      ]),
+      explain:`«${capit(d.a)}» señala algo que está <b>${d.dist}</b>. Serie: este (cerca) · ese (media) · aquel (lejos).`
+    };
+  }
+
+  if(modo==='cual_es'){
+    const tipo=pick(['demostrativo','posesivo','numeral']);
+    let ok, malos;
+    if(tipo==='demostrativo'){
+      ok=pick(DEMOSTRATIVOS).a;
+      malos=[pick(POSESIVOS),pick(CARDINALES),pick(['rojo','alto','lindo'])];
+    }else if(tipo==='posesivo'){
+      ok=pick(POSESIVOS);
+      malos=[pick(DEMOSTRATIVOS).a,pick(ORDINALES),pick(['verde','rápido','grande'])];
+    }else{
+      ok=pick([...CARDINALES,...ORDINALES]);
+      malos=[pick(DEMOSTRATIVOS).a,pick(POSESIVOS),pick(['azul','triste','fuerte'])];
+    }
+    return {
+      topic:'No descriptivos', tag:'🧩 Encontralo',
+      type:'mini',
+      prompt:`¿Cuál de estas palabras es un adjetivo <b>${tipo}</b>?`,
+      hint:'Demostrativo: este/ese/aquel · Posesivo: mi/tu/su · Numeral: cinco/tercera.',
+      choices: shuffle([{label:ok,ok:true},...[...new Set(malos)].slice(0,3).map(m=>({label:m,ok:false}))]),
+      explain:`<b>${capit(ok)}</b> es un adjetivo <b>${tipo}</b>. Los no descriptivos acompañan al sustantivo pero no lo califican.`
+    };
+  }
+
+  const tfs=[
+    {t:'Los adjetivos demostrativos señalan si el sustantivo está cerca o lejos del hablante.', ok:true},
+    {t:'«mi», «tu» y «su» son adjetivos posesivos.', ok:true},
+    {t:'Los numerales ordinales indican el orden, como «tercera fila».', ok:true},
+    {t:'Los adjetivos no descriptivos acompañan al sustantivo pero no lo califican.', ok:true},
+    {t:'«Aquella» señala algo que está muy cerca del que habla.', ok:false},
+    {t:'«Quince» es un adjetivo demostrativo.', ok:false},
+    {t:'Los adjetivos posesivos indican cantidad.', ok:false},
+    {t:'«Primera» es un numeral cardinal.', ok:false},
+  ];
+  const q=pick(tfs);
+  return {
+    topic:'No descriptivos', tag:'🧩 ¿Verdadero o falso?',
+    type:'tf',
+    prompt:`«${q.t}»`,
+    hint:'Demostrativos, posesivos y numerales son adjetivos no descriptivos.',
+    choices:[{label:'✅ Verdadero',ok:q.ok===true},{label:'❌ Falso',ok:q.ok===false}],
+    explain: q.ok ? 'Es <b>verdadero</b>. ¡Muy bien!' :
+      'Es <b>falso</b>. Demostrativos (este/ese/aquel) señalan · posesivos (mi/tu/su) indican de quién · numerales dan cantidad u orden.'
+  };
+}
+
+/* =====================================================
+   TEMA 5 · PREPOSICIONES
+   a, bajo, con, contra, de, desde, durante, en, entre,
+   hacia, hasta, para, por, según, sin
+   ===================================================== */
+const PREPOSICIONES=['a','bajo','con','contra','de','desde','durante','en','entre','hacia','hasta','para','por','según','sin'];
+const NO_PREP=['casa','correr','rápido','verde','nosotros','saltar','mesa','feliz','ayer','pero','cantar','árbol'];
+
+const FRASES_PREP=[
+  {f:'El gato duerme <span class="gap"></span> la mesa.',            ok:'bajo',   mal:['durante','según','entre']},
+  {f:'Viajamos <span class="gap"></span> Mendoza en micro.',          ok:'hacia',  mal:['sin','bajo','durante']},
+  {f:'Leí el poema <span class="gap"></span> voz alta.',              ok:'en',     mal:['contra','desde','hasta']},
+  {f:'Salí de casa <span class="gap"></span> paraguas y me mojé.',    ok:'sin',    mal:['con','para','entre']},
+  {f:'El regalo es <span class="gap"></span> mi hermana.',            ok:'para',   mal:['bajo','desde','según']},
+  {f:'Caminamos <span class="gap"></span> la escuela hasta la plaza.',ok:'desde',  mal:['durante','contra','sin']},
+  {f:'La pelota chocó <span class="gap"></span> la pared.',           ok:'contra', mal:['según','entre','desde']},
+  {f:'Estudié <span class="gap"></span> toda la tarde.',              ok:'durante',mal:['hacia','entre','bajo']},
+  {f:'El secreto quedó <span class="gap"></span> vos y yo.',          ok:'entre',  mal:['bajo','hasta','según']},
+  {f:'<span class="gap"></span> el diario, mañana llueve.',           ok:'Según',  mal:['Sin','Entre','Bajo']},
+  {f:'Corrí <span class="gap"></span> la esquina y volví.',           ok:'hasta',  mal:['con','de','según']},
+  {f:'Fui al cine <span class="gap"></span> mis amigos.',             ok:'con',    mal:['sin','bajo','contra']},
+];
+
+function genPreposiciones(){
+  const modo=pick(['cual','completar','contar','tf']);
+
+  if(modo==='cual'){
+    const ok=pick(PREPOSICIONES);
+    const malos=sample(NO_PREP,3);
+    return {
+      topic:'Preposiciones', tag:'🧭 Preposiciones',
+      type:'mini',
+      prompt:'¿Cuál de estas palabras es una <b>preposición</b>?',
+      hint:'a, bajo, con, contra, de, desde, durante, en, entre, hacia, hasta, para, por, según, sin.',
+      choices: shuffle([{label:ok,ok:true},...malos.map(m=>({label:m,ok:false}))]),
+      explain:`<b>${capit(ok)}</b> es una preposición. Las preposiciones son palabras que unen o relacionan otras palabras dentro de la oración.`
+    };
+  }
+
+  if(modo==='completar'){
+    const f=pick(FRASES_PREP);
+    return {
+      topic:'Preposiciones', tag:'🧭 Completá la oración',
+      type:'mini',
+      prompt:'¿Qué <b>preposición</b> completa mejor la oración?',
+      scenario:f.f,
+      hint:'Leé la oración completa con cada opción y fijate cuál tiene sentido.',
+      choices: shuffle([{label:f.ok,ok:true},...f.mal.map(m=>({label:m,ok:false}))]),
+      explain:`La preposición correcta es <b>${f.ok}</b>: ${f.f.replace('<span class="gap"></span>',`<b>${f.ok}</b>`)}`
+    };
+  }
+
+  if(modo==='contar'){
+    /* dos preposiciones dentro de una oración; encontrar la que NO es */
+    const p=sample(PREPOSICIONES,2);
+    const noP=pick(NO_PREP);
+    return {
+      topic:'Preposiciones', tag:'🔍 La intrusa',
+      type:'mini',
+      prompt:'Tres son preposiciones y una no. ¿Cuál es <b>la intrusa</b>?',
+      hint:'Repasá la lista: a, bajo, con, contra, de, desde, durante, en, entre, hacia, hasta, para, por, según, sin.',
+      choices: shuffle([
+        {label:noP, ok:true},
+        ...p.map(x=>({label:x, ok:false})),
+        {label:pick(PREPOSICIONES.filter(x=>!p.includes(x))), ok:false},
+      ]),
+      explain:`La intrusa es <b>${noP}</b>: no está en la lista de preposiciones.`
+    };
+  }
+
+  const tfs=[
+    {t:'«durante» es una preposición.', ok:true},
+    {t:'«según» es una preposición.', ok:true},
+    {t:'Las preposiciones relacionan palabras dentro de la oración.', ok:true},
+    {t:'«sin» y «con» son preposiciones opuestas y las dos están en la lista.', ok:true},
+    {t:'«corriendo» es una preposición.', ok:false},
+    {t:'«nosotros» es una preposición.', ok:false},
+    {t:'Las preposiciones son siempre el sujeto de la oración.', ok:false},
+    {t:'«pero» es una preposición.', ok:false},
+  ];
+  const q=pick(tfs);
+  return {
+    topic:'Preposiciones', tag:'🧭 ¿Verdadero o falso?',
+    type:'tf',
+    prompt:`«${q.t}»`,
+    hint:'a, bajo, con, contra, de, desde, durante, en, entre, hacia, hasta, para, por, según, sin.',
+    choices:[{label:'✅ Verdadero',ok:q.ok===true},{label:'❌ Falso',ok:q.ok===false}],
+    explain: q.ok ? 'Es <b>verdadero</b>. ¡Bien!' :
+      'Es <b>falso</b>. La lista completa es: a, bajo, con, contra, de, desde, durante, en, entre, hacia, hasta, para, por, según, sin.'
+  };
+}
+
+/* =====================================================
+   TEMA 6 · CAZADOR DE ERRORES (concordancia general)
+   ===================================================== */
+const ERRORES=[
+  {mal:'Los organizadores de el festival prepararon muchas actividades.',
+   bien:'Los organizadores del festival prepararon muchas actividades.',
+   por:'«de el» siempre se contrae en <b>del</b>.'},
+  {mal:'La festival se cerrará con un show.',
+   bien:'El festival se cerrará con un show.',
+   por:'«festival» es masculino, así que le corresponde el artículo <b>el</b>.'},
+  {mal:'Los invitadas presentarán sus libros.',
+   bien:'Las invitadas presentarán sus libros.',
+   por:'«invitadas» es femenino plural: el artículo debe ser <b>las</b>.'},
+  {mal:'Se entregará un premio a el mejor poema.',
+   bien:'Se entregará un premio al mejor poema.',
+   por:'«a el» siempre se contrae en <b>al</b>.'},
+  {mal:'Las poema son muy lindas.',
+   bien:'Los poemas son muy lindos.',
+   por:'«poema» es masculino: <b>los poemas</b>, y el adjetivo también concuerda.'},
+  {mal:'El montañas están nevada.',
+   bien:'Las montañas están nevadas.',
+   por:'«montañas» es femenino plural: artículo y adjetivo deben concordar.'},
+  {mal:'Unos poetisa leyó su poema.',
+   bien:'Una poetisa leyó su poema.',
+   por:'«poetisa» es femenino singular: le corresponde <b>una</b>.'},
+  {mal:'Mi amigas son incondicional.',
+   bien:'Mis amigas son incondicionales.',
+   por:'El posesivo y el adjetivo deben ir en plural: <b>mis amigas incondicionales</b>.'},
+];
+
+function genErrores(){
+  const e=pick(ERRORES);
+  const modo=pick(['elegir_bien','por_que']);
+
+  if(modo==='elegir_bien'){
+    return {
+      topic:'Errores', tag:'🔍 Cazador de errores',
+      type:'choice',
+      prompt:'Una de estas oraciones está <b>bien escrita</b>. ¿Cuál?',
+      hint:'Revisá los artículos, las contracciones y la concordancia.',
+      choices: shuffle([
+        {label:e.bien, ok:true, em:'✅'},
+        {label:e.mal,  ok:false, em:'❌'},
+      ]),
+      explain:`Lo correcto es: «${e.bien}» — ${e.por}`
+    };
+  }
+
+  return {
+    topic:'Errores', tag:'🔍 ¿Dónde está el error?',
+    type:'choice',
+    prompt:'Esta oración tiene un error. ¿Cómo se corrige?',
+    scenario:`❌ ${e.mal}`,
+    hint:'Fijate en el artículo, la contracción o la concordancia.',
+    choices: shuffle([
+      {label:e.bien, ok:true, em:'✅'},
+      ...sample(ERRORES.filter(x=>x!==e),2).map(x=>({label:x.bien, ok:false, em:'🔸'})),
+    ]),
+    explain:`La forma correcta es «${e.bien}» — ${e.por}`
+  };
+}
+
+/* =====================================================
+   POOL DE PREGUNTAS
+   ===================================================== */
+const POOL=[
+  genPoesia, genPoesia,
+  genArticulos, genArticulos,
+  genCalificativos, genCalificativos,
+  genNoDescriptivos, genNoDescriptivos,
+  genPreposiciones, genPreposiciones,
+  genErrores,
+];
+let lastPrompt='';
+function nextExercise(){
+  let ex, tries=0;
+  do{ ex=pick(POOL)(); tries++; }while(ex.prompt===lastPrompt && tries<8);
+  lastPrompt=ex.prompt;
+  return ex;
+}
+
+/* =====================================================
+   FLUJO / UI
+   ===================================================== */
+const OKMSG=['¡Genial, poeta!','¡Palabra dominada!','¡Sos un crack de Lengua!','¡Excelente!','¡Anotado en el cuaderno!','¡De diez!'];
+const NOMSG=['¡Casi! Seguimos.','Uy, esa se escapó. ¡Vamos!','No pasa nada, cada error enseña.','¡Tranqui! Probá la próxima.'];
+
+function showStart(){
+  app.innerHTML=`
+   <div class="panel hero">
+     <svg class="owl" width="120" height="120" viewBox="0 0 120 120" aria-hidden="true">
+       <!-- rama -->
+       <path d="M14 104 h92" stroke="#7a5230" stroke-width="7" stroke-linecap="round"/>
+       <path d="M96 104 q12 -8 16 -18" stroke="#7a5230" stroke-width="5" stroke-linecap="round" fill="none"/>
+       <path d="M110 84 q8 2 10 8 q-9 2 -12 -4Z" fill="#3fbf94" stroke="#2e2340" stroke-width="2"/>
+       <!-- cuerpo -->
+       <ellipse cx="60" cy="66" rx="33" ry="36" fill="#8ad4e8" stroke="#2e2340" stroke-width="3.5"/>
+       <ellipse cx="60" cy="80" rx="21" ry="22" fill="#d8f2f8" stroke="#2e2340" stroke-width="2.6"/>
+       <!-- gorrito -->
+       <path d="M27 44 Q60 8 93 44 Q60 34 27 44Z" fill="#6b3fa0" stroke="#2e2340" stroke-width="3.5" stroke-linejoin="round"/>
+       <circle cx="60" cy="16" r="6" fill="#ffc94d" stroke="#2e2340" stroke-width="3"/>
+       <!-- ojos -->
+       <circle cx="46" cy="56" r="12" fill="#fffdf7" stroke="#2e2340" stroke-width="3"/>
+       <circle cx="74" cy="56" r="12" fill="#fffdf7" stroke="#2e2340" stroke-width="3"/>
+       <circle cx="48" cy="57" r="5" fill="#2e2340"/>
+       <circle cx="72" cy="57" r="5" fill="#2e2340"/>
+       <circle cx="49.6" cy="55" r="1.8" fill="#fff"/>
+       <circle cx="73.6" cy="55" r="1.8" fill="#fff"/>
+       <!-- pico -->
+       <path d="M60 64 l-6 8 h12Z" fill="#ffc94d" stroke="#2e2340" stroke-width="2.6" stroke-linejoin="round"/>
+       <!-- alas -->
+       <path d="M30 62 q-8 18 4 30 q6 -14 4 -30Z" fill="#6fc6de" stroke="#2e2340" stroke-width="2.8" stroke-linejoin="round"/>
+       <path d="M90 62 q8 18 -4 30 q-6 -14 -4 -30Z" fill="#6fc6de" stroke="#2e2340" stroke-width="2.8" stroke-linejoin="round"/>
+       <!-- patitas -->
+       <path d="M52 101 v-4 M68 101 v-4" stroke="#ffc94d" stroke-width="4.5" stroke-linecap="round"/>
+     </svg>
+     <h1>Aventura de Palabras</h1>
+     <p class="sub">Resolvé ${TOTAL} desafíos de Lengua y ganá insignias.</p>
+     <div class="topics">
+       <div class="topic"><span style="font-size:1.5rem">📜</span> La poesía</div>
+       <div class="topic"><span style="font-size:1.5rem">🔤</span> Artículos</div>
+       <div class="topic"><span style="font-size:1.5rem">🎨</span> Calificativos</div>
+       <div class="topic"><span style="font-size:1.5rem">🧩</span> No descriptivos</div>
+       <div class="topic"><span style="font-size:1.5rem">🧭</span> Preposiciones</div>
+       <div class="topic"><span style="font-size:1.5rem">🔍</span> Cazar errores</div>
+     </div>
+     <button class="play" onclick="startGame()">¡Empezar!</button>
+     <p class="small" style="margin-top:14px">Tenés 3 vidas ❤️ · sumá racha 🔥 para más puntos 📚</p>
+   </div>`;
+}
+
+function startGame(){
+  state.score=0;state.streak=0;state.best=0;state.lives=3;state.q=0;state.correct=0;state.topics=new Set();
+  syncHud();loadNext();
+}
+
+let current=null;
+function loadNext(){
+  if(state.q>=TOTAL || state.lives<=0){ showWin(); return; }
+  current=nextExercise();
+  state.q++;
+  render(current);
+}
+
+function render(ex){
+  const pct=Math.round(((state.q-1)/TOTAL)*100);
+  const scenario = ex.scenario?`<div class="scenario${ex.poem?' poem':''}">${ex.scenario}</div>`:'';
+  const cls = ex.type==='tf' ? 'tf' : (ex.type==='mini'||ex.type==='tf2') ? 'mini' : 'choices';
+  const withEm = ex.type==='choice' || ex.type==='tf2';
+  const choicesHTML=`<div class="${cls}" id="choices">${ex.choices.map((c,i)=>
+    `<button class="choice" onclick="answer(${i})">${(withEm&&c.em)?`<span class="em">${c.em}</span>`:''}<span>${c.label}</span></button>`
+  ).join('')}</div>`;
+
+  app.innerHTML=`
+   <div class="trail">
+     <span class="lab">📖 Página ${state.q}/${TOTAL}</span>
+     <div class="track"><div class="fill" style="width:${pct}%"></div><span class="walker" style="left:${pct}%">🦉</span></div>
+     <span class="lab">${state.streak>1?'🔥 x'+state.streak:''}</span>
+   </div>
+   <div class="panel">
+     <div class="tab">${ex.tag}</div>
+     <div class="qtag" style="margin-top:8px">Desafío de Lengua</div>
+     <div class="prompt">${ex.prompt}</div>
+     ${scenario}
+     <p class="hintline">💡 ${ex.hint||''}</p>
+     ${choicesHTML}
+     <div class="fb" id="fb"></div>
+   </div>`;
+}
+
+function reward(ok){
+  if(ok){
+    state.streak++;state.correct++;
+    if(state.streak>state.best)state.best=state.streak;
+    const bonus=state.streak>=3?10:state.streak>=2?5:0;
+    state.score+=10+bonus;
+    burst(state.streak>=3?40:24);
+    if(state.streak===3) popBadge('🔥 ¡Racha de 3!<br>+10 bonus');
+    else if(state.streak>=5) popBadge('🌟 ¡Imparable! x'+state.streak);
+  }else{
+    state.streak=0;state.lives--;
+  }
+  syncHud();
+}
+
+function answer(i){
+  const ex=current;
+  const ok=ex.choices[i].ok;
+  document.querySelectorAll('#choices .choice').forEach((b,bi)=>{
+    b.disabled=true;
+    if(ex.choices[bi].ok) b.classList.add('correct');
+    else if(bi===i) b.classList.add('wrong');
+    else b.classList.add('dim');
+  });
+  if(ok) state.topics.add(ex.topic);
+  reward(ok);
+  const fb=document.getElementById('fb');
+  fb.className='fb show '+(ok?'ok':'no');
+  const face=ok?pick(['🦉','📚','✨','😄','🤩','🏆']):pick(['📖','🤔','😅','✏️']);
+  const last=(state.q>=TOTAL||state.lives<=0);
+  fb.innerHTML=`<span class="face">${face}</span>
+    <span class="txt">${ok?pick(OKMSG):pick(NOMSG)}<span class="ex">📘 ${ex.explain}</span></span>
+    <button class="next" onclick="loadNext()">${last?'🏁 Resultado':'Seguir →'}</button>`;
+  fb.scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+const TOPIC_BADGE={
+  'Poesía':'📜 Poeta de la clase',
+  'Artículos':'🔤 Rey de los artículos',
+  'Calificativos':'🎨 Maestro del adjetivo',
+  'No descriptivos':'🧩 Detective de adjetivos',
+  'Preposiciones':'🧭 Explorador de preposiciones',
+  'Errores':'🔍 Cazador de errores',
+};
+function showWin(){
+  const won=state.lives>0;
+  const acc=Math.round((state.correct/TOTAL)*100);
+  const stars= acc>=90?3 : acc>=60?2 : 1;
+  burst(64);
+  const badges=[...state.topics].map(t=>{
+    const b=TOPIC_BADGE[t].split(' ');
+    return `<div class="bw"><span class="e">${b[0]}</span>${b.slice(1).join(' ')}</div>`;
+  }).join('');
+  app.innerHTML=`
+   <div class="panel win">
+     <div class="tab">🏁 Fin de la aventura</div>
+     <div class="medal" style="margin-top:10px">${won?(stars===3?'🏆':'🎖️'):'📖'}</div>
+     <h1 style="font-family:'Baloo 2';color:var(--grape);font-size:2rem;margin:6px 0">
+       ${won?'¡Aventura completada!':'¡Buen intento, poeta!'}
+     </h1>
+     <p class="sub" style="color:var(--ink-soft)">${won?'Recorriste todas las páginas 📚':'Se acabaron las vidas, pero aprendiste un montón.'}</p>
+     <div class="stars">${'⭐'.repeat(stars)}${'·'.repeat(3-stars)}</div>
+     <div class="hud" style="justify-content:center;margin:6px 0">
+       <div class="chip"><span>📚</span><b>${state.score}</b> pts</div>
+       <div class="chip"><span>✅</span><b>${state.correct}/${TOTAL}</b></div>
+       <div class="chip"><span>🔥</span><b>${state.best}</b> racha</div>
+     </div>
+     <p class="small" style="margin-top:6px">Precisión: ${acc}%</p>
+     ${badges?`<p class="small" style="margin-top:14px">🏅 Insignias ganadas:</p><div class="badges-won">${badges}</div>`:''}
+     <div class="row-btns">
+       <button class="play" onclick="startGame()">🔄 Jugar de nuevo</button>
+     </div>
+   </div>`;
+}
+
+showStart();
+</script>
+</body>
+</html>

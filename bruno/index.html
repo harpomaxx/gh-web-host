@@ -65,8 +65,8 @@
   .mascot{font-size:3.4rem;margin-bottom:6px;filter:drop-shadow(0 4px 0 rgba(0,0,0,.12));animation:bounce 2.4s infinite ease-in-out}
   @keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
 
-  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
-  @media(max-width:760px){.grid{grid-template-columns:1fr}}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+  @media(max-width:520px){.grid{grid-template-columns:1fr}}
 
   .card{
     display:flex;
@@ -96,6 +96,7 @@
   .card.math::after{background:var(--yellow)}
   .card.nature::after{background:var(--green)}
   .card.galaxy::after{background:var(--blue)}
+  .card.words::after{background:var(--pink)}
 
   .icon{font-size:3.2rem;margin-bottom:12px;position:relative;z-index:1}
   h2{font-family:'Baloo 2';font-size:1.65rem;line-height:1.05;margin-bottom:8px;position:relative;z-index:1}
@@ -121,6 +122,7 @@
   .math .go{background:#ff9e1b}
   .nature .go{background:#2faa6a}
   .galaxy .go{background:#7b4bce}
+  .words .go{background:#ff5d8f}
 
   footer{text-align:center;color:white;margin-top:24px;font-weight:600;text-shadow:0 2px 0 rgba(0,0,0,.2)}
 </style>
@@ -157,6 +159,13 @@
         <h2>Galaxia de las Tablas</h2>
         <p>Viaja por el espacio practicando multiplicaciones.</p>
         <span class="go">Despegar ✨</span>
+      </a>
+
+      <a class="card words" href="aventura-de-palabras.html">
+        <div class="icon" aria-hidden="true">🦉</div>
+        <h2>Aventura de Palabras</h2>
+        <p>Poesía, artículos, adjetivos y preposiciones.</p>
+        <span class="go">Jugar 📚</span>
       </a>
     </section>
 
