@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Viaje al Nuevo Mundo · Ciencias Sociales</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Baloo+2:wght@600;700;800&family=Caveat:wght@600;700&display=swap');
+
+  :root{
+    --sea:#1b5a8a;
+    --sea2:#2b7fb8;
+    --deep:#0f3f63;
+    --sand:#e8cf9a;
+    --sand2:#d4b273;
+    --wood:#7a4f2a;
+    --wood-deep:#59371c;
+    --gold:#f5b923;
+    --gold-deep:#d99306;
+    --cream:#fdf3dd;
+    --paper:#fffbf0;
+    --red:#c8443c;
+    --green:#2f8f56;
+    --grape:#7b4b9e;
+    --ink:#2e2418;
+    --muted:#7b6b52;
+    --ok:#3ca35a;
+    --ok-deep:#2b8044;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'Fredoka',system-ui,sans-serif;color:var(--ink);min-height:100vh;overflow-x:hidden;
+    -webkit-tap-highlight-color:transparent;
+    background:
+      radial-gradient(circle at 84% 8%, rgba(245,185,35,.42), transparent 36%),
+      radial-gradient(circle at 10% 90%, rgba(43,127,184,.35), transparent 44%),
+      linear-gradient(172deg, #bfe3f2 0%, #6fb5da 42%, #2b7fb8 100%);
+  }
+
+  /* olas y nubes de fondo */
+  .scene{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+  .float{position:absolute;font-size:1.5rem;opacity:.45;animation:drift linear infinite}
+  @keyframes drift{0%{transform:translateX(-15vw) translateY(0) rotate(-4deg)}100%{transform:translateX(115vw) translateY(-18px) rotate(4deg)}}
+  .waves{position:absolute;bottom:0;left:0;width:200%;height:110px;
+    background:radial-gradient(circle at 50% 0, transparent 68%, rgba(255,255,255,.35) 70%) 0 0/70px 110px repeat-x;
+    animation:rollwave 9s linear infinite;opacity:.55}
+  @keyframes rollwave{from{transform:translateX(0)}to{transform:translateX(-70px)}}
+
+  .wrap{position:relative;z-index:2;max-width:760px;margin:0 auto;padding:18px 16px 64px}
+
+  /* HEADER */
+  header{display:flex;align-items:center;gap:12px;background:var(--paper);
+    border:3px solid var(--wood);border-radius:22px;padding:11px 16px;
+    box-shadow:0 7px 0 rgba(89,55,28,.32);margin-bottom:16px;flex-wrap:wrap}
+  .brand{font-family:'Baloo 2';font-weight:800;font-size:1.28rem;color:var(--sea);display:flex;align-items:center;gap:8px}
+  .brand .ship{font-size:1.7rem;filter:drop-shadow(0 2px 0 rgba(0,0,0,.14));animation:sail 3.2s infinite ease-in-out}
+  @keyframes sail{0%,100%{transform:rotate(-6deg) translateY(0)}50%{transform:rotate(6deg) translateY(-4px)}}
+  .hud{margin-left:auto;display:flex;gap:9px;flex-wrap:wrap}
+  .chip{background:var(--cream);border:2.5px solid var(--wood);border-radius:13px;padding:5px 11px;
+    font-weight:600;display:flex;align-items:center;gap:5px;font-size:.92rem;box-shadow:0 3px 0 rgba(89,55,28,.26)}
+  .chip b{font-family:'Baloo 2';font-size:1.05rem}
+
+  /* PANEL estilo pergamino */
+  .panel{background:var(--paper);border:3.5px solid var(--wood);border-radius:26px;
+    box-shadow:0 11px 0 rgba(89,55,28,.3);padding:26px 20px 22px;position:relative;
+    background-image:radial-gradient(circle at 12% 18%, rgba(232,207,154,.4), transparent 30%),
+      radial-gradient(circle at 88% 82%, rgba(232,207,154,.4), transparent 32%);
+    animation:grow .42s cubic-bezier(.2,1.4,.4,1) both}
+  @keyframes grow{from{opacity:0;transform:scale(.93) translateY(14px)}to{opacity:1;transform:scale(1) translateY(0)}}
+
+  .tab{position:absolute;top:-16px;left:24px;background:var(--sea2);color:#fff;font-family:'Baloo 2';font-weight:700;
+    padding:6px 16px;border-radius:14px;border:3px solid var(--wood);box-shadow:0 4px 0 rgba(89,55,28,.32);
+    font-size:.92rem;display:flex;align-items:center;gap:7px}
+
+  /* PORTADA */
+  .hero{text-align:center}
+  .hero .sailor{font-size:4.6rem;animation:bob 2.6s infinite ease-in-out;filter:drop-shadow(0 4px 0 rgba(0,0,0,.12))}
+  @keyframes bob{0%,100%{transform:translateY(0) rotate(-4deg)}50%{transform:translateY(-11px) rotate(4deg)}}
+  .hero h1{font-family:'Baloo 2';font-weight:800;font-size:2.1rem;color:var(--sea);margin:6px 0 2px;line-height:1.05}
+  .hero .sub{color:var(--muted);font-size:1.12rem;margin-bottom:18px}
+  .isles{display:grid;grid-template-columns:1fr 1fr 1fr;gap:9px;max-width:520px;margin:0 auto 20px}
+  @media(max-width:520px){.isles{grid-template-columns:1fr 1fr}}
+  .isle{background:var(--cream);border:2.5px solid var(--wood);border-radius:14px;padding:9px 8px;font-weight:500;
+    font-size:.85rem;display:flex;flex-direction:column;align-items:center;gap:3px;box-shadow:0 3px 0 rgba(89,55,28,.24);text-align:center}
+  .isle .e{font-size:1.5rem}
+
+  .play{font-family:'Baloo 2';font-weight:800;font-size:1.5rem;color:#fff;
+    background:linear-gradient(180deg,var(--sea2),var(--deep));border:3.5px solid var(--wood);border-radius:20px;
+    padding:15px 40px;cursor:pointer;box-shadow:0 8px 0 rgba(89,55,28,.34);transition:transform .1s}
+  .play:active{transform:translateY(5px);box-shadow:0 3px 0 rgba(89,55,28,.34)}
+
+  /* barra de travesía */
+  .trail{display:flex;align-items:center;gap:10px;margin-bottom:14px;background:var(--paper);
+    border:3px solid var(--wood);border-radius:16px;padding:9px 13px;box-shadow:0 5px 0 rgba(89,55,28,.28)}
+  .trail .lab{font-weight:600;font-size:.86rem;color:var(--muted);white-space:nowrap}
+  .trail .track{flex:1;height:15px;background:#bfe3f2;border-radius:9px;overflow:hidden;border:2px solid var(--wood);position:relative}
+  .trail .fill{height:100%;width:0;background:linear-gradient(90deg,#7fd3f2,var(--sea2));transition:width .5s cubic-bezier(.3,1.4,.5,1)}
+  .trail .walker{position:absolute;top:50%;transform:translate(-50%,-50%);font-size:1rem;transition:left .5s cubic-bezier(.3,1.4,.5,1)}
+
+  /* PREGUNTA */
+  .qtag{font-family:'Caveat';font-weight:700;font-size:1.3rem;color:var(--sea2);margin-bottom:4px}
+  .prompt{font-size:1.32rem;line-height:1.45;font-weight:500;margin-bottom:6px}
+  .prompt b{color:var(--red)}
+  .scenario{background:var(--cream);border-left:5px solid var(--gold);border-radius:0 12px 12px 0;
+    padding:11px 14px;font-size:1.1rem;margin:10px 0 4px;font-style:italic;color:#4a3c28}
+  .hintline{font-size:.95rem;color:var(--muted);margin:8px 0 16px;display:flex;align-items:center;gap:6px}
+
+  .choices{display:grid;gap:11px}
+  .choice{font-family:'Fredoka';font-size:1.12rem;font-weight:500;background:#fff;border:3px solid var(--wood);
+    border-radius:16px;padding:14px 15px;cursor:pointer;text-align:left;display:flex;align-items:center;gap:11px;
+    box-shadow:0 5px 0 rgba(89,55,28,.22);transition:transform .1s,background .15s;color:var(--ink)}
+  .choice:active{transform:translateY(3px);box-shadow:0 2px 0 rgba(89,55,28,.22)}
+  .choice .em{font-size:1.5rem;line-height:1}
+  .choice.correct{background:#dff5e4;border-color:var(--ok-deep)}
+  .choice.wrong{background:#fbe0e0;border-color:#bf3c49}
+  .choice.dim{opacity:.5}
+  .choice:disabled{cursor:default}
+  .tf{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media(max-width:420px){.tf{grid-template-columns:1fr}}
+
+  /* ordenar cronológicamente */
+  .order-pool{display:grid;gap:9px;margin-bottom:12px}
+  .oitem{font-family:'Fredoka';font-size:1.04rem;font-weight:500;background:#fff;border:3px solid var(--wood);
+    border-radius:14px;padding:11px 13px;cursor:pointer;text-align:left;display:flex;align-items:center;gap:9px;
+    box-shadow:0 4px 0 rgba(89,55,28,.2);color:var(--ink)}
+  .oitem:active{transform:translateY(2px)}
+  .oitem.used{opacity:.35;pointer-events:none}
+  .oitem .num{background:var(--gold);border:2px solid var(--wood);border-radius:9px;width:26px;height:26px;
+    display:flex;align-items:center;justify-content:center;font-family:'Baloo 2';font-weight:800;font-size:.9rem;flex:none}
+  .order-line{display:flex;gap:7px;flex-wrap:wrap;min-height:44px;background:var(--cream);border:2.5px dashed var(--wood);
+    border-radius:14px;padding:9px;margin-bottom:12px;align-items:center}
+  .otok{background:var(--sea2);color:#fff;border:2px solid var(--wood);border-radius:11px;padding:5px 9px;
+    font-weight:600;font-size:.86rem;display:flex;align-items:center;gap:5px}
+  .otok.bad{background:var(--red)}
+  .ghost{font-family:'Fredoka';font-weight:600;font-size:.98rem;color:var(--sea);background:none;
+    border:2.5px solid var(--sea2);border-radius:14px;padding:9px 18px;cursor:pointer}
+
+  /* FEEDBACK */
+  .fb{margin-top:18px;border-radius:16px;padding:14px 16px;font-weight:600;font-size:1.04rem;display:none;
+    gap:12px;align-items:flex-start;border:3px solid var(--ok-deep)}
+  .fb.show{display:flex}
+  .fb.ok{background:#e4f7e7;border-color:var(--ok-deep)}
+  .fb.no{background:#fde6e8;border-color:#bf3c49}
+  .fb .face{font-size:1.9rem;line-height:1}
+  .fb .txt{flex:1}
+  .fb .txt .ex{display:block;margin-top:5px;font-weight:500;font-size:.95rem;color:#5a4c36}
+  .fb .next{font-family:'Baloo 2';font-weight:800;font-size:1.02rem;color:#fff;background:var(--sea2);
+    border:3px solid var(--wood);border-radius:14px;padding:9px 16px;cursor:pointer;box-shadow:0 4px 0 rgba(89,55,28,.32)}
+  .fb .next:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(89,55,28,.32)}
+
+  .badge-pop{position:fixed;top:26%;left:50%;transform:translateX(-50%);z-index:60;pointer-events:none;
+    background:var(--gold);border:3.5px solid var(--wood);border-radius:20px;padding:14px 22px;text-align:center;
+    font-family:'Baloo 2';font-weight:800;font-size:1.2rem;color:var(--ink);box-shadow:0 8px 0 rgba(89,55,28,.35);
+    opacity:0;transition:opacity .3s,transform .3s;display:none}
+  .badge-pop.show{display:block;opacity:1;transform:translateX(-50%) scale(1.06)}
+
+  .win{text-align:center}
+  .win .medal{font-size:5rem;animation:bob 2.2s infinite ease-in-out}
+  .stars{font-size:2.3rem;letter-spacing:6px;margin:10px 0}
+  .row-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center;margin-top:14px}
+  .badges-won{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:14px 0}
+  .bw{background:var(--cream);border:2.5px solid var(--wood);border-radius:12px;padding:7px 11px;font-size:.85rem;font-weight:600;
+    display:flex;align-items:center;gap:6px;box-shadow:0 3px 0 rgba(89,55,28,.24)}
+  .bw .e{font-size:1.2rem}
+  .conf{position:fixed;top:-12px;width:11px;height:17px;z-index:55;pointer-events:none;border-radius:2px}
+  .small{color:var(--muted);font-size:.9rem}
+  .back{display:inline-block;margin-top:18px;color:#fff;font-weight:600;text-decoration:none;text-shadow:0 2px 0 rgba(0,0,0,.25)}
+</style>
+</head>
+<body>
+<div class="scene" id="scene"><div class="waves"></div></div>
+<div class="wrap">
+  <header>
+    <div class="brand"><span class="ship">⛵</span> Viaje al Nuevo Mundo</div>
+    <div class="hud">
+      <div class="chip"><span>🪙</span><b id="hScore">0</b></div>
+      <div class="chip"><span>🔥</span><b id="hStreak">0</b></div>
+      <div class="chip"><span>❤️</span><b id="hLives">3</b></div>
+    </div>
+  </header>
+  <div id="app"></div>
+  <div style="text-align:center"><a class="back" href="index.html">⬅ Volver a los juegos</a></div>
+</div>
+<div class="badge-pop" id="badgePop"></div>
+
+<script>
+/* =====================================================
+   VIAJE AL NUEVO MUNDO — Ciencias Sociales (4° grado)
+   Exploración, conquista de América y fundación de ciudades
+   Contenido basado en el manual (Mendoza · Santillana)
+   ===================================================== */
+const app=document.getElementById('app');
+const hud={score:document.getElementById('hScore'),streak:document.getElementById('hStreak'),lives:document.getElementById('hLives')};
+const badgePop=document.getElementById('badgePop');
+
+const rnd=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+const pick=a=>a[rnd(0,a.length-1)];
+const shuffle=a=>{const r=[...a];for(let i=r.length-1;i>0;i--){const j=rnd(0,i);[r[i],r[j]]=[r[j],r[i]];}return r;};
+const sample=(a,n)=>shuffle(a).slice(0,n);
+const others=(arr,not,n)=>sample(arr.filter(x=>x!==not),n);
+const capit=s=>s.charAt(0).toUpperCase()+s.slice(1);
+
+const TOTAL=12;
+const state={score:0,streak:0,best:0,lives:3,q:0,correct:0,topics:new Set()};
+
+/* ---------- decoración de fondo ---------- */
+(function scenery(){
+  const sc=document.getElementById('scene');
+  const things=['☁️','🕊️','⛵','🐬','☁️','🦜'];
+  for(let i=0;i<7;i++){
+    const d=document.createElement('div');
+    d.className='float';d.textContent=pick(things);
+    d.style.top=rnd(4,70)+'vh';
+    d.style.animationDuration=rnd(26,52)+'s';
+    d.style.animationDelay=(-rnd(0,30))+'s';
+    sc.appendChild(d);
+  }
+})();
+
+function burst(n=26){
+  const cols=['#f5b923','#2b7fb8','#c8443c','#2f8f56','#7b4b9e','#e8cf9a'];
+  for(let i=0;i<n;i++){
+    const c=document.createElement('div');c.className='conf';
+    c.style.left=Math.random()*100+'vw';c.style.background=pick(cols);document.body.appendChild(c);
+    const dur=rnd(1400,2600);
+    c.animate([{transform:'translateY(0) rotate(0)',opacity:1},
+               {transform:`translateY(105vh) rotate(${rnd(360,900)}deg)`,opacity:.9}],
+      {duration:dur,easing:'cubic-bezier(.3,.7,.5,1)'});
+    setTimeout(()=>c.remove(),dur);
+  }
+}
+function popBadge(txt){
+  badgePop.innerHTML=txt;badgePop.classList.add('show');
+  setTimeout(()=>badgePop.classList.remove('show'),1500);
+}
+function syncHud(){hud.score.textContent=state.score;hud.streak.textContent=state.streak;hud.lives.textContent=state.lives;}
+
+/* =====================================================
+   DATOS DEL MANUAL
+   ===================================================== */
+
+/* — Exploradores — */
+const EXPLORADORES=[
+  {nombre:'Juan Díaz de Solís', em:'🧭', anio:1516,
+   hecho:'recorrió las costas de lo que hoy es Brasil y llegó al Río de la Plata, al que llamó "Mar Dulce"',
+   corto:'llegó al Río de la Plata y lo llamó "Mar Dulce"'},
+  {nombre:'Hernando de Magallanes', em:'⛵', anio:1519,
+   hecho:'salió a buscar un paso hacia Oriente y en 1520 encontró el estrecho que hoy lleva su nombre',
+   corto:'encontró el estrecho de Magallanes'},
+  {nombre:'Juan Sebastián Elcano', em:'🚩', anio:1522,
+   hecho:'quedó al mando después de la muerte de Magallanes y completó la primera vuelta al mundo',
+   corto:'completó la primera vuelta al mundo'},
+  {nombre:'Cristóbal Colón', em:'🌊', anio:1492,
+   hecho:'llegó a América el 12 de octubre de 1492 creyendo que había llegado a Asia',
+   corto:'llegó a América creyendo que era Asia'},
+];
+
+/* — Línea de tiempo (para ordenar) — */
+const CRONO=[
+  {t:'Los turcos otomanos interrumpieron las rutas hacia Oriente', anio:1453, em:'🚧'},
+  {t:'Los portugueses llegaron a la India bordeando África', anio:1498, em:'🌍'},
+  {t:'Cristóbal Colón llegó con sus barcos a América', anio:1492, em:'🌊'},
+  {t:'Solís navegó por el Río de la Plata', anio:1516, em:'🧭'},
+  {t:'Magallanes navegó por el estrecho que hoy lleva su nombre', anio:1520, em:'⛵'},
+  {t:'Elcano regresó a España tras la primera vuelta al mundo', anio:1522, em:'🚩'},
+  {t:'Se fundó la ciudad de Mendoza', anio:1561, em:'🏙️'},
+];
+
+/* — Ciudades fundadas (mapa del manual) — */
+const CIUDADES=[
+  {n:'Santiago del Estero', a:1553, reg:'Noroeste', em:'🌵', nota:'fue la primera ciudad fundada en el noroeste'},
+  {n:'San Miguel de Tucumán', a:1565, reg:'Noroeste', em:'🍋'},
+  {n:'Córdoba', a:1573, reg:'Noroeste', em:'⛪'},
+  {n:'Santa Fe', a:1573, reg:'Este', em:'🌾'},
+  {n:'Salta', a:1582, reg:'Noroeste', em:'⛰️'},
+  {n:'Corrientes', a:1588, reg:'Este', em:'🐊'},
+  {n:'San Salvador de Jujuy', a:1593, reg:'Noroeste', em:'🏔️'},
+  {n:'La Rioja', a:1591, reg:'Noroeste', em:'🍇'},
+  {n:'San Fernando del Valle de Catamarca', a:1683, reg:'Noroeste', em:'🧶'},
+  {n:'Mendoza', a:1561, reg:'Cuyo', em:'🍷'},
+  {n:'San Juan', a:1562, reg:'Cuyo', em:'☀️'},
+  {n:'San Luis', a:1594, reg:'Cuyo', em:'🐎'},
+  {n:'Buenos Aires', a:1536, reg:'Este', em:'⚓', nota:'se fundó dos veces: en 1536 y en 1580'},
+];
+const CUYO=CIUDADES.filter(c=>c.reg==='Cuyo');
+
+/* — Causas y armas de la conquista — */
+const CAUSAS_CONQUISTA=[
+  {t:'América era rica en metales preciosos como el oro y la plata', em:'💰'},
+  {t:'Los reyes de España querían asegurar su dominio del territorio', em:'👑'},
+  {t:'Los españoles tenían armas más eficaces que los pueblos originarios', em:'⚔️'},
+  {t:'Hicieron alianzas con pueblos sometidos por los incas y los aztecas', em:'🤝'},
+  {t:'Muchos indígenas al comienzo creyeron que los españoles eran dioses', em:'✨'},
+  {t:'Los conquistadores engañaron a los jefes indígenas fingiendo amistad', em:'🎭'},
+];
+const ARMAS_ESP=['armaduras','espadas de metal','ballestas','armas de fuego'];
+const ARMAS_ABO=['lanzas','arcos','flechas'];
+
+/* — Consecuencias — */
+const CONSECUENCIAS=[
+  {t:'Gran parte de la población indígena murió', em:'💔'},
+  {t:'Llegaron enfermedades europeas como la viruela y el sarampión', em:'🦠'},
+  {t:'Los indígenas sufrieron malos tratos', em:'😢'},
+  {t:'Les impusieron un duro ritmo de trabajo', em:'⛏️'},
+];
+
+/* — Requisitos del lugar para fundar una ciudad — */
+const REQUISITOS=[
+  {t:'un sitio elevado, para evitar inundaciones', em:'⛰️'},
+  {t:'estar cerca de un río, para tener agua', em:'🏞️'},
+  {t:'un lugar con alimentos abundantes', em:'🌽'},
+  {t:'poder protegerse de los ataques', em:'🛡️'},
+];
+
+/* =====================================================
+   GENERADORES DE PREGUNTAS
+   Cada uno arma una consigna distinta en cada partida
+   ===================================================== */
+
+/* ---------- 1. EXPLORADORES ---------- */
+function genExploradores(){
+  const modo=pick(['quien','quien2','anio','solis','magallanes','elcano','motivo','tf']);
+  const T='Exploradores';
+
+  if(modo==='quien'){
+    const e=pick(EXPLORADORES);
+    return {topic:T,tag:'🧭 Exploradores',
+      prompt:`¿Quién <b>${e.corto}</b>?`,
+      hint:'Pensá en los viajes de exploración.',
+      choices:shuffle([{label:e.nombre,ok:true,em:e.em},
+        ...others(EXPLORADORES,e,3).map(o=>({label:o.nombre,ok:false,em:o.em}))]),
+      explain:`${e.nombre} ${e.hecho}.`};
+  }
+
+  if(modo==='quien2'){
+    const e=pick(EXPLORADORES.filter(x=>x.nombre!=='Cristóbal Colón'));
+    return {topic:T,tag:'🧭 Exploradores',
+      prompt:`Leé la bitácora del navegante. ¿De quién es?`,
+      scenario:`"Es el año ${e.anio}. ${capit(e.hecho)}."`,
+      hint:'Fijate en el año y en el hecho.',
+      choices:shuffle([{label:e.nombre,ok:true,em:e.em},
+        ...others(EXPLORADORES,e,3).map(o=>({label:o.nombre,ok:false,em:o.em}))]),
+      explain:`Era ${e.nombre}, en el año ${e.anio}.`};
+  }
+
+  if(modo==='anio'){
+    const e=pick(EXPLORADORES);
+    const opts=shuffle([e.anio,e.anio+rnd(3,9),e.anio-rnd(3,9),e.anio+rnd(12,25)]);
+    return {topic:T,tag:'📅 Fechas',
+      prompt:`¿En qué año ${e.corto}?`,
+      hint:'Todos estos viajes ocurrieron entre 1492 y 1522.',
+      choices:opts.map(a=>({label:String(a),ok:a===e.anio,em:'📅'})),
+      explain:`Fue en ${e.anio}: ${e.nombre} ${e.hecho}.`};
+  }
+
+  if(modo==='solis'){
+    return {topic:T,tag:'🌊 Río de la Plata',
+      prompt:'Solís se sorprendió por la enorme extensión del río y lo llamó…',
+      hint:'Le pareció un mar, pero con agua dulce.',
+      choices:shuffle([
+        {label:'"Mar Dulce"',ok:true,em:'🌊'},
+        {label:'"Mar de Plata"',ok:false,em:'🥈'},
+        {label:'"Río Grande"',ok:false,em:'🏞️'},
+        {label:'"Mar de Oriente"',ok:false,em:'🧭'}]),
+      explain:'En 1516 Solís llamó "Mar Dulce" al Río de la Plata por su gran extensión.'};
+  }
+
+  if(modo==='magallanes'){
+    const sub=pick(['nombre','para','muerte']);
+    if(sub==='nombre') return {topic:T,tag:'⛵ Magallanes',
+      prompt:'Cuando Magallanes encontró el paso en 1520, ¿qué nombre le puso?',
+      hint:'Hoy ese paso se llama estrecho de Magallanes.',
+      choices:shuffle([
+        {label:'"Estrecho de Todos los Santos"',ok:true,em:'⛪'},
+        {label:'"Estrecho del Rey"',ok:false,em:'👑'},
+        {label:'"Paso del Sur"',ok:false,em:'🧭'},
+        {label:'"Canal de Oriente"',ok:false,em:'🌏'}]),
+      explain:'Lo llamó "Estrecho de Todos los Santos"; hoy lleva el nombre de estrecho de Magallanes.'};
+    if(sub==='para') return {topic:T,tag:'⛵ Magallanes',
+      prompt:'En 1519 los reyes de España enviaron a Magallanes. ¿Con qué propósito?',
+      hint:'Querían llegar a Oriente sin bordear África.',
+      choices:shuffle([
+        {label:'Encontrar un paso hacia Oriente',ok:true,em:'🧭'},
+        {label:'Fundar ciudades en Cuyo',ok:false,em:'🏙️'},
+        {label:'Buscar el imperio de los aztecas',ok:false,em:'🛕'},
+        {label:'Construir escuelas en América',ok:false,em:'🏫'}]),
+      explain:'Buscaba un paso que comunicara el Atlántico con el Pacífico para llegar a Oriente.'};
+    return {topic:T,tag:'⛵ Magallanes',
+      prompt:'¿Dónde murió Magallanes?',
+      hint:'Fue después de meses navegando el océano Pacífico.',
+      choices:shuffle([
+        {label:'En una isla de las Filipinas (Asia)',ok:true,em:'🏝️'},
+        {label:'En el Río de la Plata',ok:false,em:'🌊'},
+        {label:'En España, al regresar',ok:false,em:'🇪🇸'},
+        {label:'En el estrecho que lleva su nombre',ok:false,em:'⛵'}]),
+      explain:'Murió en un enfrentamiento con los nativos en una isla de las Filipinas.'};
+  }
+
+  if(modo==='elcano'){
+    const sub=pick(['quien','cuantos','cuanto']);
+    if(sub==='quien') return {topic:T,tag:'🚩 Elcano',
+      prompt:'Al morir Magallanes, ¿quién quedó al mando de la expedición?',
+      hint:'Con él se completó la primera vuelta al mundo.',
+      choices:shuffle([
+        {label:'Juan Sebastián Elcano',ok:true,em:'🚩'},
+        {label:'Juan Díaz de Solís',ok:false,em:'🧭'},
+        {label:'Cristóbal Colón',ok:false,em:'🌊'},
+        {label:'Atahualpa',ok:false,em:'👑'}]),
+      explain:'Elcano tomó el mando y regresó a España completando la primera vuelta al mundo.'};
+    if(sub==='cuantos') return {topic:T,tag:'🚩 Elcano',
+      prompt:'De los <b>240</b> tripulantes que salieron, ¿cuántos volvieron a España con Elcano?',
+      hint:'¡Fueron muy poquitos!',
+      choices:shuffle([
+        {label:'18 tripulantes',ok:true,em:'😮'},
+        {label:'120 tripulantes',ok:false,em:'🙂'},
+        {label:'80 tripulantes',ok:false,em:'🤔'},
+        {label:'240 tripulantes',ok:false,em:'😄'}]),
+      explain:'Regresaron solo 18 de los 240 que se habían embarcado.'};
+    return {topic:T,tag:'🚩 Elcano',
+      prompt:'¿Cuánto tiempo duró la navegación de regreso de Elcano?',
+      hint:'Más de un año en el mar.',
+      choices:shuffle([
+        {label:'Un año y medio',ok:true,em:'⏳'},
+        {label:'Tres meses',ok:false,em:'📆'},
+        {label:'Diez años',ok:false,em:'🕰️'},
+        {label:'Una semana',ok:false,em:'⚡'}]),
+      explain:'Elcano volvió a España luego de un año y medio de navegación.'};
+  }
+
+  if(modo==='motivo'){
+    return {topic:T,tag:'🧭 ¿Por qué?',
+      prompt:'¿Por qué los reyes de España mandaron a Solís a buscar "un paso"?',
+      hint:'Colón no había llegado a donde ellos creían.',
+      choices:shuffle([
+        {label:'Para comunicar los océanos Atlántico y Pacífico',ok:true,em:'🌊'},
+        {label:'Para fundar la ciudad de Mendoza',ok:false,em:'🍷'},
+        {label:'Para dibujar el mapa de África',ok:false,em:'🗺️'},
+        {label:'Para pelear con los portugueses',ok:false,em:'⚔️'}]),
+      explain:'Al saber que Colón no había llegado a Asia, buscaban un paso que uniera el Atlántico con el Pacífico.'};
+  }
+
+  /* tf */
+  const tfs=[
+    {p:'Colón decidió atravesar el océano Atlántico hacia el <b>este</b> para llegar al Lejano Oriente.',v:false,
+     e:'Falso: navegó hacia el OESTE, porque creía que así llegaría a Oriente.'},
+    {p:'El 12 de octubre de 1492 Colón y su tripulación desembarcaron en una isla del mar Caribe.',v:true,
+     e:'Verdadero: allí llegaron el 12 de octubre de 1492.'},
+    {p:'Colón regresó a España con la noticia de que había llegado a América.',v:false,
+     e:'Falso: él creía haber llegado a Asia, no sabía que era un continente nuevo.'},
+    {p:'Colón no quiso volver a América porque no encontró las riquezas que esperaba.',v:false,
+     e:'Falso: Colón realizó otros viajes a América.'},
+    {p:'Los sobrevivientes de la expedición de Solís hicieron correr el rumor de una sierra con oro y plata.',v:true,
+     e:'Verdadero: por ese rumor muchos quisieron venir a estas tierras.'},
+    {p:'La expedición de Magallanes-Elcano dio la primera vuelta al mundo.',v:true,
+     e:'Verdadero: fue el primer viaje que rodeó todo el planeta.'},
+  ];
+  const q=pick(tfs);
+  return {topic:T,tag:'✅ ¿Verdadero o falso?',type:'tf',
+    prompt:'Decidí si esta afirmación es verdadera o falsa:',
+    scenario:q.p,hint:'Leé con atención cada palabra.',
+    choices:[{label:'✅ Verdadero',ok:q.v},{label:'❌ Falso',ok:!q.v}],
+    explain:q.e};
+}
+
+/* ---------- 2. CONQUISTA ---------- */
+function genConquista(){
+  const modo=pick(['definicion','causa','armas','armas2','alianzas','engano','atahualpa','imperios','tf']);
+  const T='Conquista';
+
+  if(modo==='definicion'){
+    return {topic:T,tag:'⚔️ La conquista',
+      prompt:'¿Qué significa <b>conquistar</b>?',
+      hint:'Tiene que ver con quedarse con un territorio.',
+      choices:shuffle([
+        {label:'Ocupar un territorio y adueñarse de él',ok:true,em:'🏴'},
+        {label:'Visitar un lugar y volver a casa',ok:false,em:'🧳'},
+        {label:'Dibujar el mapa de un continente',ok:false,em:'🗺️'},
+        {label:'Comerciar especias con Oriente',ok:false,em:'🌶️'}]),
+      explain:'Conquistar es ocupar un territorio y adueñarse de él.'};
+  }
+
+  if(modo==='causa'){
+    const c=pick(CAUSAS_CONQUISTA);
+    const falsas=[
+      'Los españoles querían construir escuelas para los indígenas',
+      'Los españoles buscaban un lugar más frío para vivir',
+      'Los reyes querían aprender las lenguas originarias',
+      'Los españoles venían a estudiar los animales de América'];
+    return {topic:T,tag:'⚔️ Causas',
+      prompt:'¿Cuál de estas fue una <b>causa</b> de la conquista de América?',
+      hint:'Pensá en el oro, la plata y el poder de los reyes.',
+      choices:shuffle([{label:c.t,ok:true,em:c.em},
+        ...sample(falsas,3).map(f=>({label:f,ok:false,em:'❌'}))]),
+      explain:`Sí: ${c.t.toLowerCase()}.`};
+  }
+
+  if(modo==='armas'){
+    const arma=pick(ARMAS_ESP);
+    return {topic:T,tag:'🛡️ Armas',
+      prompt:`¿Quiénes usaban <b>${arma}</b>?`,
+      hint:'Los españoles tenían armas de metal y de fuego.',
+      choices:shuffle([
+        {label:'Los españoles',ok:true,em:'🛡️'},
+        {label:'Los aborígenes',ok:false,em:'🏹'},
+        {label:'Nadie las usaba',ok:false,em:'🚫'},
+        {label:'Solo los portugueses',ok:false,em:'⛵'}]),
+      explain:`Los españoles usaban ${ARMAS_ESP.join(', ')}. Los aborígenes contaban con ${ARMAS_ABO.join(', ')}.`};
+  }
+
+  if(modo==='armas2'){
+    return {topic:T,tag:'🔥 Armas de fuego',
+      prompt:'¿Por qué las <b>armas de fuego</b> daban ventaja a los españoles?',
+      hint:'Los aborígenes no las conocían.',
+      choices:shuffle([
+        {label:'Producían temor por el ruido y causaban muchas muertes',ok:true,em:'💥'},
+        {label:'Eran livianas y fáciles de llevar',ok:false,em:'🪶'},
+        {label:'Servían para pescar en el río',ok:false,em:'🐟'},
+        {label:'Se usaban para hacer señales de humo',ok:false,em:'💨'}]),
+      explain:'Los aborígenes desconocían las armas de fuego: el ruido les producía temor y causaban muchas muertes.'};
+  }
+
+  if(modo==='alianzas'){
+    return {topic:T,tag:'🤝 Alianzas',
+      prompt:'Los españoles hicieron <b>alianzas</b>. ¿Con quiénes y por qué?',
+      hint:'Los incas y aztecas habían sometido a otros pueblos.',
+      choices:shuffle([
+        {label:'Con pueblos vencidos por incas y aztecas, para luchar juntos contra los imperios',ok:true,em:'🤝'},
+        {label:'Con los portugueses, para repartirse el oro',ok:false,em:'⛵'},
+        {label:'Con los reyes de Asia, para comerciar especias',ok:false,em:'🌶️'},
+        {label:'Con los propios incas, para gobernar juntos',ok:false,em:'👑'}]),
+      explain:'Aprovecharon el resentimiento de los pueblos sometidos y se aliaron con ellos contra los ejércitos imperiales.'};
+  }
+
+  if(modo==='engano'){
+    return {topic:T,tag:'🎭 Engaño',
+      prompt:'¿Cómo engañaron los conquistadores a los jefes indígenas?',
+      hint:'Primero se mostraron amigos… y después no.',
+      choices:shuffle([
+        {label:'Fingieron amistad y después los tomaron prisioneros',ok:true,em:'🎭'},
+        {label:'Les regalaron sus barcos',ok:false,em:'⛵'},
+        {label:'Les enseñaron a leer y escribir',ok:false,em:'📖'},
+        {label:'Se fueron sin decir nada',ok:false,em:'🚶'}]),
+      explain:'Fingieron amistad, los tomaron prisioneros y así se adueñaron de sus tierras y riquezas.'};
+  }
+
+  if(modo==='atahualpa'){
+    return {topic:T,tag:'👑 Atahualpa',
+      prompt:'Los españoles tomaron prisionero a <b>Atahualpa</b>. ¿Quién era?',
+      hint:'Gobernaba en el Perú.',
+      choices:shuffle([
+        {label:'El emperador inca',ok:true,em:'👑'},
+        {label:'Un rey de España',ok:false,em:'🇪🇸'},
+        {label:'Un navegante portugués',ok:false,em:'⛵'},
+        {label:'El fundador de Mendoza',ok:false,em:'🍷'}]),
+      explain:'Atahualpa era el Inca, emperador tras la muerte de su hermano. Los españoles lo tomaron prisionero.'};
+  }
+
+  if(modo==='imperios'){
+    const par=pick([{p:'los incas',l:'Perú',otros:['México','Brasil','España']},
+                    {p:'los aztecas',l:'México',otros:['Perú','Chile','Portugal']}]);
+    return {topic:T,tag:'🛕 Imperios',
+      prompt:`¿Dónde habían formado su imperio <b>${par.p}</b>?`,
+      hint:'Eran pueblos originarios con grandes imperios.',
+      choices:shuffle([{label:par.l,ok:true,em:'🛕'},
+        ...par.otros.map(o=>({label:o,ok:false,em:'📍'}))]),
+      explain:`Los incas formaron su imperio en Perú y los aztecas, en México.`};
+  }
+
+  /* tf */
+  const tfs=[
+    {p:'Los conquistadores fundaban ciudades y buscaban riquezas.',v:true,
+     e:'Verdadero: fundar ciudades y buscar riquezas eran dos de sus tareas.'},
+    {p:'Los conquistadores venían principalmente a construir escuelas.',v:false,
+     e:'Falso: buscaban riquezas, fundaban ciudades y se apropiaban del territorio.'},
+    {p:'Los conquistadores se apropiaban del territorio.',v:true,
+     e:'Verdadero: ocupar el territorio y adueñarse de él era el objetivo de la conquista.'},
+    {p:'En un comienzo, muchos indígenas creyeron que los españoles eran dioses.',v:true,
+     e:'Verdadero: eso facilitó el avance de los conquistadores.'},
+    {p:'Los aborígenes tenían armas de fuego igual que los españoles.',v:false,
+     e:'Falso: usaban lanzas, arcos y flechas; desconocían las armas de fuego.'},
+  ];
+  const q=pick(tfs);
+  return {topic:T,tag:'✅ ¿Verdadero o falso?',type:'tf',
+    prompt:'Decidí si esta afirmación es verdadera o falsa:',
+    scenario:q.p,hint:'Pensá en lo que aprendiste sobre la conquista.',
+    choices:[{label:'✅ Verdadero',ok:q.v},{label:'❌ Falso',ok:!q.v}],
+    explain:q.e};
+}
+
+/* ---------- 3. CONSECUENCIAS ---------- */
+function genConsecuencias(){
+  const modo=pick(['cual','enfermedad','porque','no_corresponde']);
+  const T='Consecuencias';
+
+  if(modo==='cual'){
+    const c=pick(CONSECUENCIAS);
+    const falsas=['La población indígena creció mucho','Los indígenas viajaron a Europa de vacaciones',
+      'Los pueblos originarios se hicieron más ricos','No cambió nada en la vida de los indígenas'];
+    return {topic:T,tag:'💔 Consecuencias',
+      prompt:'¿Cuál fue una <b>consecuencia</b> de la conquista para los pueblos originarios?',
+      hint:'La conquista cambió mucho sus vidas, y no para bien.',
+      choices:shuffle([{label:c.t,ok:true,em:c.em},
+        ...sample(falsas,3).map(f=>({label:f,ok:false,em:'❌'}))]),
+      explain:'La conquista causó enormes cambios: muertes, malos tratos, duro trabajo y enfermedades nuevas.'};
+  }
+
+  if(modo==='enfermedad'){
+    return {topic:T,tag:'🦠 Enfermedades',
+      prompt:'¿Qué enfermedades trajeron los europeos que eran <b>desconocidas</b> en América?',
+      hint:'Los indígenas no tenían defensas contra ellas.',
+      choices:shuffle([
+        {label:'La viruela y el sarampión',ok:true,em:'🦠'},
+        {label:'El dolor de muelas',ok:false,em:'🦷'},
+        {label:'La picadura de mosquito',ok:false,em:'🦟'},
+        {label:'El resfrío de la montaña',ok:false,em:'🏔️'}]),
+      explain:'Los europeos trajeron viruela y sarampión: los indígenas se contagiaban y morían por falta de defensas.'};
+  }
+
+  if(modo==='porque'){
+    return {topic:T,tag:'💔 ¿Por qué?',
+      prompt:'Con la conquista, la población indígena <b>disminuyó</b>. ¿Cuál de estas NO es una razón?',
+      hint:'Buscá la que no aparece en el libro.',
+      choices:shuffle([
+        {label:'Se escapó a otros continentes',ok:true,em:'🚫'},
+        {label:'Se contagió enfermedades desconocidas en América',ok:false,em:'🦠'},
+        {label:'Sufrió malos tratos',ok:false,em:'😢'},
+        {label:'Padeció duras condiciones de trabajo',ok:false,em:'⛏️'}]),
+      explain:'Escaparse a otros continentes NO fue una causa. Sí lo fueron las enfermedades, los malos tratos y el duro trabajo.'};
+  }
+
+  return {topic:T,tag:'🎨 Trabajo en grupo',
+    prompt:'Bruno y sus compañeros hacen un mural sobre la conquista. ¿Qué NO corresponde al tema?',
+    hint:'El mural debe mostrar escenas de la conquista de América.',
+    choices:shuffle([
+      {label:'Un cohete viajando a la Luna',ok:true,em:'🚀'},
+      {label:'La llegada de los barcos españoles',ok:false,em:'⛵'},
+      {label:'La prisión del Inca Atahualpa',ok:false,em:'👑'},
+      {label:'La fundación de una ciudad con su Plaza Mayor',ok:false,em:'🏙️'}]),
+    explain:'El mural trata sobre la conquista de América: barcos, encuentros, prisioneros y fundación de ciudades.'};
+}
+
+/* ---------- 4. FUNDACIÓN DE CIUDADES ---------- */
+function genFundacion(){
+  const modo=pick(['porque','requisito','requisito2','picota','plaza','ceremonia','tf']);
+  const T='Fundación';
+
+  if(modo==='porque'){
+    return {topic:T,tag:'🏙️ Fundar ciudades',
+      prompt:'¿Por qué los reyes querían que los españoles <b>fundaran ciudades</b>?',
+      hint:'Tenía que ver con el control del territorio.',
+      choices:shuffle([
+        {label:'Para poder controlar el territorio',ok:true,em:'🏰'},
+        {label:'Para descansar del viaje',ok:false,em:'😴'},
+        {label:'Para aprender de los pueblos originarios',ok:false,em:'📖'},
+        {label:'Para cultivar flores',ok:false,em:'🌷'}]),
+      explain:'Creían que para controlar el territorio los españoles tenían que establecerse en ciudades.'};
+  }
+
+  if(modo==='requisito'){
+    const r=pick(REQUISITOS);
+    const falsas=['estar lejos del agua','un lugar muy bajo y pantanoso',
+      'un sitio sin alimentos','un lugar sin salida al camino'];
+    return {topic:T,tag:'📍 El buen lugar',
+      prompt:'Para fundar una ciudad había que buscar un buen lugar. ¿Cuál de estas condiciones era necesaria?',
+      hint:'Agua, alimentos, altura y protección.',
+      choices:shuffle([{label:capit(r.t),ok:true,em:r.em},
+        ...sample(falsas,3).map(f=>({label:capit(f),ok:false,em:'❌'}))]),
+      explain:'El lugar debía ser elevado (para evitar inundaciones y ataques), cerca de un río y con alimentos abundantes.'};
+  }
+
+  if(modo==='requisito2'){
+    const par=pick([
+      {p:'¿Por qué la ciudad debía estar en un <b>sitio elevado</b>?',
+       ok:'Para evitar inundaciones y protegerse de los ataques',
+       mal:['Para ver el mar desde arriba','Para que llegara antes el correo','Porque hacía menos calor'],
+       ex:'Un sitio elevado evitaba las inundaciones y ayudaba a protegerse de los ataques.'},
+      {p:'¿Por qué la ciudad debía estar <b>cerca de un río</b>?',
+       ok:'Para proveerse de agua',
+       mal:['Para pescar ballenas','Para llegar más rápido a España','Para lavar el oro'],
+       ex:'Debía estar cerca de un río para proveerse de agua.'}]);
+    return {topic:T,tag:'📍 El buen lugar',
+      prompt:par.p,hint:'Está en el texto "A fundar ciudades".',
+      choices:shuffle([{label:par.ok,ok:true,em:'✅'},...par.mal.map(m=>({label:m,ok:false,em:'❌'}))]),
+      explain:par.ex};
+  }
+
+  if(modo==='picota'){
+    const sub=pick(['que','simbolo']);
+    if(sub==='que') return {topic:T,tag:'🪵 La picota',
+      prompt:'En la ceremonia, el fundador plantaba un tronco de árbol llamado…',
+      hint:'Empieza con "pi".',
+      choices:shuffle([
+        {label:'Picota',ok:true,em:'🪵'},
+        {label:'Pícara',ok:false,em:'🌳'},
+        {label:'Pilar',ok:false,em:'🏛️'},
+        {label:'Palenque',ok:false,em:'🐴'}]),
+      explain:'La picota era un tronco que se plantaba en el centro de la plaza principal.'};
+    return {topic:T,tag:'🪵 La picota',
+      prompt:'La <b>picota</b> era el símbolo de…',
+      hint:'Tiene que ver con las leyes y los castigos.',
+      choices:shuffle([
+        {label:'La justicia',ok:true,em:'⚖️'},
+        {label:'La amistad',ok:false,em:'🤝'},
+        {label:'El comercio',ok:false,em:'💰'},
+        {label:'La cosecha',ok:false,em:'🌾'}]),
+      explain:'La picota simbolizaba la justicia y se plantaba en el centro de la Plaza Mayor.'};
+  }
+
+  if(modo==='plaza'){
+    return {topic:T,tag:'🏛️ Plaza Mayor',
+      prompt:'¿Dónde plantaba el fundador la picota?',
+      hint:'En el corazón de la ciudad nueva.',
+      choices:shuffle([
+        {label:'En el centro de la plaza principal o Plaza Mayor',ok:true,em:'🏛️'},
+        {label:'A la orilla del río',ok:false,em:'🏞️'},
+        {label:'En lo alto de la montaña',ok:false,em:'⛰️'},
+        {label:'Dentro de un barco',ok:false,em:'⛵'}]),
+      explain:'La picota se plantaba en el centro de la plaza principal, llamada Plaza Mayor.'};
+  }
+
+  if(modo==='ceremonia'){
+    return {topic:T,tag:'📜 La ceremonia',
+      prompt:'En la ceremonia de fundación, ¿en nombre de quién tomaba posesión el fundador?',
+      hint:'Mandaba desde muy lejos, del otro lado del océano.',
+      choices:shuffle([
+        {label:'Del rey de España',ok:true,em:'👑'},
+        {label:'Del Inca Atahualpa',ok:false,em:'🛕'},
+        {label:'De Cristóbal Colón',ok:false,em:'🌊'},
+        {label:'Del gobernador de Mendoza',ok:false,em:'🍷'}]),
+      explain:'El fundador tomaba posesión del territorio en nombre del rey de España.'};
+  }
+
+  const tfs=[
+    {p:'Después de plantar la picota, el fundador repartía las tierras entre los primeros pobladores.',v:true,
+     e:'Verdadero: también indicaba dónde se ubicarían los edificios importantes.'},
+    {p:'Todas las ciudades fundadas por los españoles siguen existiendo en el mismo lugar.',v:false,
+     e:'Falso: algunas desaparecieron, otras fueron trasladadas y muchas permanecieron.'},
+    {p:'Los españoles entraron al territorio de la actual Argentina desde Perú, desde Chile o desde España.',v:true,
+     e:'Verdadero: por esos tres caminos llegaron y fundaron ciudades.'},
+  ];
+  const q=pick(tfs);
+  return {topic:T,tag:'✅ ¿Verdadero o falso?',type:'tf',
+    prompt:'Decidí si esta afirmación es verdadera o falsa:',
+    scenario:q.p,hint:'Pensá en "A fundar ciudades".',
+    choices:[{label:'✅ Verdadero',ok:q.v},{label:'❌ Falso',ok:!q.v}],
+    explain:q.e};
+}
+
+/* ---------- 5. CIUDADES Y MAPA ---------- */
+function genCiudades(){
+  const modo=pick(['anio','cuyo','primera_noroeste','desde_donde','dos_veces','mendoza','region','este']);
+  const T='Ciudades';
+
+  if(modo==='anio'){
+    const c=pick(CIUDADES.filter(x=>x.n!=='Buenos Aires'));
+    const opts=shuffle([c.a,c.a+rnd(4,14),c.a-rnd(4,14),c.a+rnd(18,40)]);
+    return {topic:T,tag:'🗺️ Mapa de ciudades',
+      prompt:`¿En qué año se fundó <b>${c.n}</b>?`,
+      hint:'Mirá bien: casi todas se fundaron en los siglos XVI y XVII.',
+      choices:opts.map(a=>({label:String(a),ok:a===c.a,em:'📅'})),
+      explain:`${c.n} ${c.em} se fundó en ${c.a}.`};
+  }
+
+  if(modo==='cuyo'){
+    const sub=pick(['cuales','desde']);
+    if(sub==='cuales'){
+      const intruso=pick(CIUDADES.filter(c=>c.reg!=='Cuyo'));
+      return {topic:T,tag:'🍇 Región de Cuyo',
+        prompt:'¿Cuál de estas ciudades <b>NO</b> es una ciudad cuyana?',
+        hint:'Las cuyanas son Mendoza, San Juan y San Luis.',
+        choices:shuffle([{label:intruso.n,ok:true,em:intruso.em},
+          ...CUYO.map(c=>({label:c.n,ok:false,em:c.em}))]),
+        explain:`Las ciudades cuyanas son Mendoza, San Juan y San Luis. ${intruso.n} está en la región ${intruso.reg.toLowerCase()}.`};
+    }
+    return {topic:T,tag:'🍇 Región de Cuyo',
+      prompt:'Las ciudades cuyanas (Mendoza, San Juan y San Luis) fueron fundadas por conquistadores que llegaron desde…',
+      hint:'Del otro lado de la cordillera.',
+      choices:shuffle([
+        {label:'Chile',ok:true,em:'🏔️'},
+        {label:'Perú',ok:false,em:'🛕'},
+        {label:'Brasil',ok:false,em:'🌴'},
+        {label:'Portugal',ok:false,em:'⛵'}]),
+      explain:'Mendoza, San Juan y San Luis fueron fundadas por conquistadores llegados desde Chile.'};
+  }
+
+  if(modo==='primera_noroeste'){
+    return {topic:T,tag:'🌵 Noroeste',
+      prompt:'En el <b>noroeste</b>, ¿cuál fue la <b>primera</b> ciudad que se fundó?',
+      hint:'Fue en 1553, antes que Tucumán y Córdoba.',
+      choices:shuffle([
+        {label:'Santiago del Estero (1553)',ok:true,em:'🌵'},
+        {label:'Salta (1582)',ok:false,em:'⛰️'},
+        {label:'Córdoba (1573)',ok:false,em:'⛪'},
+        {label:'San Salvador de Jujuy (1593)',ok:false,em:'🏔️'}]),
+      explain:'Santiago del Estero, en 1553, fue la primera ciudad fundada en el noroeste.'};
+  }
+
+  if(modo==='desde_donde'){
+    return {topic:T,tag:'🧭 Caminos',
+      prompt:'¿Desde qué lugares entraron los españoles al territorio de la actual Argentina?',
+      hint:'Fueron tres caminos distintos.',
+      choices:shuffle([
+        {label:'Desde Perú, desde Chile o directamente desde España',ok:true,em:'🧭'},
+        {label:'Solamente desde el Río de la Plata',ok:false,em:'🌊'},
+        {label:'Desde México y desde Asia',ok:false,em:'🛕'},
+        {label:'Desde el estrecho de Magallanes únicamente',ok:false,em:'⛵'}]),
+      explain:'Entraron desde Perú, desde Chile o directamente desde España, y fundaron un conjunto de ciudades.'};
+  }
+
+  if(modo==='dos_veces'){
+    return {topic:T,tag:'⚓ Buenos Aires',
+      prompt:'¿Qué ciudad se fundó <b>dos veces</b> (en 1536 y en 1580)?',
+      hint:'Está en el este, junto al Río de la Plata.',
+      choices:shuffle([
+        {label:'Buenos Aires',ok:true,em:'⚓'},
+        {label:'Mendoza',ok:false,em:'🍷'},
+        {label:'Corrientes',ok:false,em:'🐊'},
+        {label:'Santa Fe',ok:false,em:'🌾'}]),
+      explain:'Buenos Aires se fundó por primera vez en 1536 y por segunda vez en 1580.'};
+  }
+
+  if(modo==='mendoza'){
+    const sub=pick(['anio','vecinas']);
+    if(sub==='anio'){
+      const opts=shuffle([1561,1562,1594,1573]);
+      return {topic:T,tag:'🍷 ¡Mendoza!',
+        prompt:'¿En qué año se fundó la ciudad de <b>Mendoza</b>?',
+        hint:'¡Es tu provincia! Fue un año antes que San Juan.',
+        choices:opts.map(a=>({label:String(a),ok:a===1561,em:'🍷'})),
+        explain:'Mendoza se fundó en 1561. Un año después, en 1562, se fundó San Juan.'};
+    }
+    return {topic:T,tag:'🍷 ¡Mendoza!',
+      prompt:'Además de Mendoza, ¿qué otras ciudades se fundaron en la región de <b>Cuyo</b>?',
+      hint:'Son dos ciudades vecinas.',
+      choices:shuffle([
+        {label:'San Juan y San Luis',ok:true,em:'🤝'},
+        {label:'Salta y Jujuy',ok:false,em:'⛰️'},
+        {label:'Santa Fe y Corrientes',ok:false,em:'🌾'},
+        {label:'Córdoba y La Rioja',ok:false,em:'⛪'}]),
+      explain:'En Cuyo se fundaron Mendoza (1561), San Juan (1562) y San Luis (1594).'};
+  }
+
+  /* región / este */
+  const c=pick(CIUDADES.filter(x=>x.reg!=='Cuyo'||Math.random()<.4));
+  return {topic:T,tag:'🗺️ Regiones',
+    prompt:`¿En qué región del mapa se fundó <b>${c.n}</b>?`,
+    hint:'Noroeste, Cuyo o Este.',
+    choices:shuffle([{label:c.reg,ok:true,em:'📍'},
+      ...others(['Noroeste','Cuyo','Este'],c.reg,2).map(r=>({label:r,ok:false,em:'📍'}))]),
+  explain:`${c.n} (${c.a}) pertenece a la región ${c.reg}.`};
+}
+
+/* ---------- 6. LÍNEA DE TIEMPO (ordenar) ---------- */
+function genCronologia(){
+  const items=sample(CRONO,4).sort(()=>0);
+  const correcto=[...items].sort((a,b)=>a.anio-b.anio);
+  return {topic:'Cronología',tag:'⏳ Línea de tiempo',type:'order',
+    prompt:'Ordená los hechos del <b>más antiguo</b> al <b>más reciente</b>.',
+    hint:'Tocá los hechos en orden. Podés reiniciar si te equivocás de orden.',
+    items:shuffle(items),
+    solution:correcto,
+    explain:'Orden correcto: '+correcto.map(i=>`${i.anio} · ${i.t}`).join(' → ')+'.'};
+}
+
+/* =====================================================
+   MEZCLA DE TEMAS
+   ===================================================== */
+const POOL=[
+  genExploradores, genExploradores, genExploradores,
+  genConquista, genConquista, genConquista,
+  genConsecuencias, genConsecuencias,
+  genFundacion, genFundacion, genFundacion,
+  genCiudades, genCiudades, genCiudades,
+  genCronologia,
+];
+let lastPrompt='';
+function nextExercise(){
+  let ex,tries=0;
+  do{ ex=pick(POOL)(); tries++; }while(ex.prompt===lastPrompt && tries<7);
+  lastPrompt=ex.prompt;
+  return ex;
+}
+
+/* =====================================================
+   FLUJO / UI
+   ===================================================== */
+const OKMSG=['¡Muy bien, navegante!','¡Anotado en la bitácora!','¡Sos un gran explorador!','¡Excelente, grumete!','¡Tierra a la vista!','¡Perfecto!'];
+const NOMSG=['¡Casi! Seguimos navegando.','Uy, se nos escapó. ¡Vamos!','No pasa nada, cada error enseña.','¡Tranqui! Probá la próxima.'];
+
+function showStart(){
+  app.innerHTML=`
+   <div class="panel hero">
+     <div class="sailor">🧭</div>
+     <h1>Viaje al Nuevo Mundo</h1>
+     <p class="sub">Navegá ${TOTAL} escalas y convertite en explorador experto.</p>
+     <div class="isles">
+       <div class="isle"><span class="e">⛵</span> Exploradores</div>
+       <div class="isle"><span class="e">⚔️</span> La conquista</div>
+       <div class="isle"><span class="e">💔</span> Consecuencias</div>
+       <div class="isle"><span class="e">🏙️</span> Fundar ciudades</div>
+       <div class="isle"><span class="e">🗺️</span> Mapa y ciudades</div>
+       <div class="isle"><span class="e">⏳</span> Línea de tiempo</div>
+     </div>
+     <button class="play" onclick="startGame()">¡Zarpar! ⛵</button>
+     <p class="small" style="margin-top:14px">Tenés 3 vidas ❤️ · sumá racha 🔥 para ganar más monedas 🪙</p>
+   </div>`;
+}
+
+function startGame(){
+  state.score=0;state.streak=0;state.best=0;state.lives=3;state.q=0;state.correct=0;state.topics=new Set();
+  syncHud();loadNext();
+}
+
+let current=null;
+function loadNext(){
+  if(state.q>=TOTAL || state.lives<=0){ showWin(); return; }
+  current=nextExercise();
+  state.q++;
+  render(current);
+}
+
+function render(ex){
+  const pct=Math.round(((state.q-1)/TOTAL)*100);
+  const scenario=ex.scenario?`<div class="scenario">${ex.scenario}</div>`:'';
+  let body;
+
+  if(ex.type==='order'){
+    body=`<div class="order-line" id="oline"><span class="small">Tocá el hecho más antiguo primero…</span></div>
+      <div class="order-pool" id="opool">${ex.items.map((it,i)=>
+        `<button class="oitem" id="oi${i}" onclick="pickOrder(${i})"><span class="num">?</span><span>${it.em} ${it.t}</span></button>`).join('')}</div>
+      <button class="ghost" onclick="resetOrder()">🔄 Empezar de nuevo</button>`;
+  }else if(ex.type==='tf'){
+    body=`<div class="tf" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice" onclick="answer(${i})" style="justify-content:center">${c.label}</button>`).join('')}</div>`;
+  }else{
+    body=`<div class="choices" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice" onclick="answer(${i})">${c.em?`<span class="em">${c.em}</span>`:''}<span>${c.label}</span></button>`).join('')}</div>`;
+  }
+
+  app.innerHTML=`
+   <div class="trail">
+     <span class="lab">⛵ Escala ${state.q}/${TOTAL}</span>
+     <div class="track"><div class="fill" style="width:${pct}%"></div><span class="walker" style="left:${pct}%">⛵</span></div>
+     <span class="lab">${state.streak>1?'🔥 x'+state.streak:''}</span>
+   </div>
+   <div class="panel">
+     <div class="tab">${ex.tag}</div>
+     <div class="qtag" style="margin-top:8px">Bitácora de viaje</div>
+     <div class="prompt">${ex.prompt}</div>
+     ${scenario}
+     <p class="hintline">💡 ${ex.hint||''}</p>
+     ${body}
+     <div class="fb" id="fb"></div>
+   </div>`;
+}
+
+/* ----- ordenar cronológicamente ----- */
+let orderPicked=[];
+function resetOrder(){
+  orderPicked=[];
+  document.getElementById('oline').innerHTML='<span class="small">Tocá el hecho más antiguo primero…</span>';
+  current.items.forEach((_,i)=>{
+    const b=document.getElementById('oi'+i);
+    b.classList.remove('used');b.querySelector('.num').textContent='?';
+  });
+}
+function pickOrder(i){
+  const it=current.items[i];
+  orderPicked.push(it);
+  const b=document.getElementById('oi'+i);
+  b.classList.add('used');
+  b.querySelector('.num').textContent=orderPicked.length;
+  const line=document.getElementById('oline');
+  if(orderPicked.length===1) line.innerHTML='';
+  const ok=current.solution[orderPicked.length-1].t===it.t;
+  line.insertAdjacentHTML('beforeend',
+    `<span class="otok${ok?'':' bad'}">${it.em} ${it.anio}</span>`);
+  if(orderPicked.length===current.items.length) finishOrder();
+}
+function finishOrder(){
+  const ok=orderPicked.every((it,i)=>current.solution[i].t===it.t);
+  document.querySelectorAll('.oitem').forEach(b=>b.classList.add('used'));
+  if(ok) state.topics.add(current.topic);
+  reward(ok);
+  showFeedback(ok,current);
+}
+
+function reward(ok){
+  if(ok){
+    state.streak++;state.correct++;
+    if(state.streak>state.best)state.best=state.streak;
+    const bonus=state.streak>=3?10:state.streak>=2?5:0;
+    state.score+=10+bonus;
+    burst(state.streak>=3?40:24);
+    if(state.streak===3) popBadge('🔥 ¡Racha de 3!<br>+10 monedas');
+    else if(state.streak>=5) popBadge('🌟 ¡Imparable! x'+state.streak);
+  }else{
+    state.streak=0;state.lives--;
+  }
+  syncHud();
+}
+
+function showFeedback(ok,ex){
+  const fb=document.getElementById('fb');
+  fb.className='fb show '+(ok?'ok':'no');
+  const face=ok?pick(['⛵','🏝️','🦜','😄','🤩','🧭']):pick(['🌧️','🐙','😅','🤔']);
+  const last=(state.q>=TOTAL||state.lives<=0);
+  fb.innerHTML=`<span class="face">${face}</span>
+    <span class="txt">${ok?pick(OKMSG):pick(NOMSG)}<span class="ex">📜 ${ex.explain}</span></span>
+    <button class="next" onclick="loadNext()">${last?'🏁 Resultado':'Seguir →'}</button>`;
+  fb.scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+function answer(i){
+  const ex=current;
+  const ok=ex.choices[i].ok;
+  document.querySelectorAll('#choices .choice').forEach((b,bi)=>{
+    b.disabled=true;
+    if(ex.choices[bi].ok) b.classList.add('correct');
+    else if(bi===i) b.classList.add('wrong');
+    else b.classList.add('dim');
+  });
+  if(ok) state.topics.add(ex.topic);
+  reward(ok);
+  showFeedback(ok,ex);
+}
+
+const TOPIC_BADGE={
+  'Exploradores':'🧭 Navegante intrépido',
+  'Conquista':'⚔️ Conocedor de la conquista',
+  'Consecuencias':'💔 Memoria de los pueblos',
+  'Fundación':'🪵 Fundador de ciudades',
+  'Ciudades':'🗺️ Cartógrafo de Argentina',
+  'Cronología':'⏳ Maestro del tiempo',
+};
+function showWin(){
+  const won=state.lives>0;
+  const acc=Math.round((state.correct/TOTAL)*100);
+  const stars= acc>=90?3 : acc>=60?2 : 1;
+  burst(64);
+  const badges=[...state.topics].map(t=>{
+    const b=TOPIC_BADGE[t].split(' ');
+    return `<div class="bw"><span class="e">${b[0]}</span>${b.slice(1).join(' ')}</div>`;
+  }).join('');
+  app.innerHTML=`
+   <div class="panel win">
+     <div class="tab">🏁 Fin de la travesía</div>
+     <div class="medal" style="margin-top:10px">${won?(stars===3?'🏆':'🎖️'):'🧭'}</div>
+     <h1 style="font-family:'Baloo 2';color:var(--sea);font-size:2rem;margin:6px 0">
+       ${won?'¡Travesía completada!':'¡Buen viaje, navegante!'}
+     </h1>
+     <p class="sub" style="color:var(--muted)">${won?'Diste la vuelta al mundo de la historia 🌎':'Se acabaron las vidas, pero aprendiste un montón.'}</p>
+     <div class="stars">${'⭐'.repeat(stars)}${'·'.repeat(3-stars)}</div>
+     <div class="hud" style="justify-content:center;margin:6px 0">
+       <div class="chip"><span>🪙</span><b>${state.score}</b> pts</div>
+       <div class="chip"><span>✅</span><b>${state.correct}/${TOTAL}</b></div>
+       <div class="chip"><span>🔥</span><b>${state.best}</b> racha</div>
+     </div>
+     <p class="small" style="margin-top:6px">Precisión: ${acc}%</p>
+     ${badges?`<p class="small" style="margin-top:14px">🏅 Insignias ganadas:</p><div class="badges-won">${badges}</div>`:''}
+     <div class="row-btns">
+       <button class="play" onclick="startGame()">🔄 Nueva travesía</button>
+     </div>
+   </div>`;
+}
+
+showStart();
+</script>
+</body>
+</html>
