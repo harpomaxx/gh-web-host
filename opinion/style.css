@@ -1,0 +1,295 @@
+/* Opinion — black and white editorial theme */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0 1.5rem;
+  background: #ffffff;
+  color: #111111;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 19px;
+  line-height: 1.7;
+  text-rendering: optimizeLegibility;
+}
+
+.wrap {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 3.5rem 0 5rem;
+}
+
+/* Site header */
+
+.site-header {
+  margin-bottom: 3rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #111111;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: normal;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+
+.site-title a {
+  color: inherit;
+  text-decoration: none;
+  border: none;
+}
+
+.site-tagline {
+  margin: 0.4rem 0 0;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #555555;
+}
+
+/* Post index */
+
+.post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.post-list li {
+  padding: 1.6rem 0;
+  border-bottom: 1px solid #dddddd;
+}
+
+.post-list li:first-child {
+  padding-top: 0;
+}
+
+.post-list h2 {
+  margin: 0 0 0.3rem;
+  font-size: 1.35rem;
+  font-weight: normal;
+  line-height: 1.35;
+}
+
+.post-list h2 a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid #bbbbbb;
+}
+
+.post-list h2 a:hover {
+  border-bottom-color: #111111;
+}
+
+.post-list .summary {
+  margin: 0.4rem 0 0;
+  color: #444444;
+  font-size: 1rem;
+}
+
+.meta {
+  display: block;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #777777;
+}
+
+/* Post body */
+
+.post-header {
+  margin-bottom: 2.5rem;
+}
+
+.post-header h1 {
+  margin: 0.6rem 0 0.5rem;
+  font-size: 2.1rem;
+  font-weight: normal;
+  line-height: 1.25;
+}
+
+.post-header .subtitle {
+  margin: 0;
+  font-size: 1.15rem;
+  font-style: italic;
+  color: #555555;
+  line-height: 1.5;
+}
+
+.post-body > *:first-child {
+  margin-top: 0;
+}
+
+.post-body h2 {
+  margin: 2.6rem 0 0.8rem;
+  font-size: 1.4rem;
+  font-weight: normal;
+  line-height: 1.3;
+}
+
+.post-body h3 {
+  margin: 2rem 0 0.6rem;
+  font-size: 1.15rem;
+  font-weight: bold;
+  line-height: 1.35;
+}
+
+.post-body p {
+  margin: 0 0 1.3rem;
+}
+
+.post-body a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid #999999;
+}
+
+.post-body a:hover {
+  border-bottom-color: #111111;
+}
+
+.post-body ul,
+.post-body ol {
+  margin: 0 0 1.3rem;
+  padding-left: 1.4rem;
+}
+
+.post-body li {
+  margin-bottom: 0.4rem;
+}
+
+.post-body blockquote {
+  margin: 1.8rem 0;
+  padding-left: 1.3rem;
+  border-left: 2px solid #111111;
+  font-style: italic;
+  color: #333333;
+}
+
+.post-body blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.post-body hr {
+  margin: 2.8rem auto;
+  border: none;
+  border-top: 1px solid #dddddd;
+}
+
+.post-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.8rem auto;
+}
+
+.post-body figure {
+  margin: 1.8rem 0;
+}
+
+.post-body figcaption {
+  font-size: 0.85rem;
+  color: #666666;
+  text-align: center;
+  font-style: italic;
+}
+
+.post-body code {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.85em;
+  background: #f4f4f4;
+  padding: 0.12em 0.35em;
+  border-radius: 2px;
+}
+
+.post-body pre {
+  background: #f4f4f4;
+  padding: 1rem 1.1rem;
+  overflow-x: auto;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  margin: 0 0 1.5rem;
+}
+
+.post-body pre code {
+  background: none;
+  padding: 0;
+  font-size: inherit;
+}
+
+.post-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 1.5rem;
+  font-size: 0.95rem;
+}
+
+.post-body th,
+.post-body td {
+  text-align: left;
+  padding: 0.5rem 0.6rem;
+  border-bottom: 1px solid #dddddd;
+}
+
+.post-body th {
+  border-bottom: 1px solid #111111;
+  font-weight: bold;
+}
+
+/* Footer */
+
+.site-footer {
+  margin-top: 4rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid #dddddd;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.82rem;
+  color: #777777;
+}
+
+.site-footer a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid #cccccc;
+}
+
+.site-footer a:hover {
+  color: #111111;
+  border-bottom-color: #111111;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 17px;
+    padding: 0 1.2rem;
+  }
+
+  .wrap {
+    padding: 2.5rem 0 3.5rem;
+  }
+
+  .post-header h1 {
+    font-size: 1.7rem;
+  }
+}
+
+@media print {
+  body {
+    font-size: 12pt;
+  }
+
+  .site-header,
+  .site-footer {
+    border-color: #000000;
+  }
+}
