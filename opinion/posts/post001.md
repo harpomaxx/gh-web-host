@@ -1,5 +1,5 @@
 ---
-title: Inequality, AI, and the Value of Knowledge
+title: AI and the End of Social Mobility
 date: 2026-08-17
 subtitle: What happens to a society in which only those who already have money can afford the years that knowledge requires?
 summary: From today's inequality to AI's impact on work, the choices young people are already making, and the long-term social consequence: a division reproduced not by wealth alone, but by who can afford the time that knowledge costs.
