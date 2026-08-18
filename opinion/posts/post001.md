@@ -5,8 +5,6 @@ subtitle: What happens to a society in which only those who already have money c
 summary: From today's inequality to AI's impact on work, the choices young people are already making, and the long-term social consequence: a division reproduced not by wealth alone, but by who can afford the time that knowledge costs.
 ---
 
-## 1. The starting point: an increasingly unequal society
-
 The French economist [Thomas Piketty](http://piketty.pse.ens.fr/en/)
 argued in [*Capital in the Twenty-First
 Century*](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century)
@@ -21,8 +19,6 @@ The problem is not only economic inequality, but also the **lack of social
 mobility**. It is becoming harder and harder for anyone to significantly
 improve their economic position through study, work, or a profession.
 
-## 2. AI may deepen that process even further
-
 On top of this comes something Piketty perhaps does not develop far
 enough: the transformation of the labor market brought about by artificial
 intelligence.
@@ -35,8 +31,6 @@ that historically offered economic security may stop doing so.
 Our generation, one way or another, will probably pass through this
 transition with some measure of protection. We entered the labor market
 before it changed. **The bigger problem is for those coming after us.**
-
-## 3. Young people are already reacting to that uncertainty
 
 Many young people are starting to ask why they should invest so many years
 in a traditional career (engineering, law, medicine) if that investment no
@@ -58,8 +52,6 @@ qualifications but little practical experience.
 
 And in a certain sense, that decision can be perfectly rational from an
 economic point of view.
-
-## 4. The risk is not that they choose other jobs, but that they abandon intellectual development
 
 The advice is now coming from inside the field. Geoffrey Hinton, whose
 work on neural networks earned him the label of godfather of AI and who
@@ -100,8 +92,6 @@ A paradox could then emerge: a society far more advanced technologically,
 but with an ever-smaller proportion of people devoted to developing
 complex knowledge.
 
-## 5. The consequence could be a new class structure
-
 This could produce a social division unlike the traditional one.
 
 On one side, the intellectual class: a small elite that owns the capital,
@@ -124,8 +114,6 @@ division stops being a position and becomes an inheritance.
 
 That is: **not only a concentration of wealth, but also a concentration of
 knowledge and intellectual capacity.**
-
-## 6. The most unsettling part
 
 What is depressing about this scenario is that it seems difficult to
 change at the individual level.
