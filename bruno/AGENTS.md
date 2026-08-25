@@ -14,6 +14,8 @@ Páginas:
 - `expedicion-naturaleza.html`: Ciencias Naturales (seres vivos, ambientes, Mendoza).
 - `aventura-de-palabras.html`: Lengua (poesía, artículos, adjetivos, preposiciones).
 - `viaje-al-nuevo-mundo.html`: Ciencias Sociales (exploración, conquista, fundación de ciudades).
+- `constructores-de-frases.html`: Lengua (construcciones sustantivas: núcleo, md, mi).
+  Además del juego tiene una **sala de estudio** (`showLearn()`) que explica el tema.
 
 ## Tarea habitual
 

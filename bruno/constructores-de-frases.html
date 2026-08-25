@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Constructores de Frases · Construcciones sustantivas</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Baloo+2:wght@600;700;800&family=Caveat:wght@600;700&display=swap');
+
+  :root{
+    --brick:#b4552f;
+    --brick-deep:#8a3d1e;
+    --clay:#e08a4c;
+    --sand:#f6d9ac;
+    --cream:#fff6e6;
+    --paper:#fffdf6;
+    --wood:#7a5230;
+    --wood-deep:#57391f;
+    --md:#2e8b57;
+    --md-deep:#1f6b41;
+    --nucleo:#3557c7;
+    --nucleo-deep:#243b8f;
+    --mi:#e07b16;
+    --mi-deep:#b35d06;
+    --ink:#2b2320;
+    --muted:#7b6f66;
+    --ok:#3ca35a;
+    --ok-deep:#2b8044;
+    --no:#e25563;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'Fredoka',system-ui,sans-serif;color:var(--ink);min-height:100vh;overflow-x:hidden;
+    -webkit-tap-highlight-color:transparent;
+    background:
+      radial-gradient(circle at 85% 8%, rgba(255,208,102,.45), transparent 38%),
+      radial-gradient(circle at 10% 90%, rgba(53,87,199,.20), transparent 44%),
+      linear-gradient(170deg,#ffeccb 0%,#f8d3a4 48%,#e8ac74 100%);
+  }
+  /* escenario: ladrillos flotando */
+  .scene{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+  .brick-f{position:absolute;font-size:1.2rem;opacity:.4;animation:fall linear infinite}
+  @keyframes fall{0%{transform:translateY(-12vh) rotate(0)}100%{transform:translateY(112vh) rotate(340deg)}}
+  .hill{position:absolute;bottom:0;width:100%}
+
+  .wrap{position:relative;z-index:2;max-width:760px;margin:0 auto;padding:18px 16px 64px}
+
+  /* HEADER */
+  header{display:flex;align-items:center;gap:12px;background:var(--paper);
+    border:3px solid var(--wood);border-radius:22px;padding:11px 16px;
+    box-shadow:0 7px 0 rgba(87,57,31,.3);margin-bottom:16px}
+  .brand{font-family:'Baloo 2';font-weight:800;font-size:1.22rem;color:var(--brick-deep);display:flex;align-items:center;gap:8px}
+  .brand .bug{font-size:1.55rem;filter:drop-shadow(0 2px 0 rgba(0,0,0,.12))}
+  .hud{margin-left:auto;display:flex;gap:9px;flex-wrap:wrap}
+  .chip{background:var(--cream);border:2.5px solid var(--wood);border-radius:13px;padding:5px 11px;
+    font-weight:600;display:flex;align-items:center;gap:5px;font-size:.92rem;box-shadow:0 3px 0 rgba(87,57,31,.25)}
+  .chip b{font-family:'Baloo 2';font-size:1.05rem}
+
+  /* PANEL */
+  .panel{background:var(--paper);border:3.5px solid var(--wood);border-radius:26px;
+    box-shadow:0 11px 0 rgba(87,57,31,.28);padding:24px 20px;position:relative;
+    animation:grow .42s cubic-bezier(.2,1.4,.4,1) both}
+  @keyframes grow{from{opacity:0;transform:scale(.93) translateY(14px)}to{opacity:1;transform:scale(1) translateY(0)}}
+
+  .tab{position:absolute;top:-16px;left:24px;background:var(--brick);color:#fff;font-family:'Baloo 2';font-weight:700;
+    padding:6px 16px;border-radius:14px;border:3px solid var(--wood);box-shadow:0 4px 0 rgba(87,57,31,.3);
+    font-size:.92rem;display:flex;align-items:center;gap:7px}
+
+  /* START */
+  .hero{text-align:center}
+  .hero .explorer{font-size:4.4rem;animation:bob 2.6s infinite ease-in-out;filter:drop-shadow(0 4px 0 rgba(0,0,0,.1))}
+  @keyframes bob{0%,100%{transform:translateY(0) rotate(-3deg)}50%{transform:translateY(-11px) rotate(3deg)}}
+  .hero h1{font-family:'Baloo 2';font-weight:800;font-size:2.05rem;color:var(--brick-deep);margin:6px 0 2px;line-height:1.05}
+  .hero .sub{color:var(--muted);font-size:1.1rem;margin-bottom:16px}
+  .biomes{display:grid;grid-template-columns:1fr 1fr 1fr;gap:9px;max-width:520px;margin:0 auto 18px}
+  @media(max-width:520px){.biomes{grid-template-columns:1fr 1fr}}
+  .biome{background:var(--cream);border:2.5px solid var(--wood);border-radius:14px;padding:9px 8px;font-weight:500;
+    font-size:.85rem;display:flex;flex-direction:column;align-items:center;gap:3px;box-shadow:0 3px 0 rgba(87,57,31,.22);text-align:center}
+  .biome .e{font-size:1.5rem}
+
+  .play{font-family:'Baloo 2';font-weight:800;font-size:1.45rem;color:#fff;
+    background:linear-gradient(180deg,var(--clay),var(--brick));border:3.5px solid var(--wood);border-radius:20px;
+    padding:15px 40px;cursor:pointer;box-shadow:0 8px 0 rgba(87,57,31,.32);transition:transform .1s}
+  .play:active{transform:translateY(5px);box-shadow:0 3px 0 rgba(87,57,31,.32)}
+  .ghost{font-family:'Fredoka';font-weight:600;font-size:1rem;color:var(--brick-deep);background:var(--cream);
+    border:2.5px solid var(--brick);border-radius:16px;padding:12px 22px;cursor:pointer;margin-top:10px;
+    box-shadow:0 4px 0 rgba(87,57,31,.22)}
+  .ghost:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(87,57,31,.22)}
+
+  /* progress trail */
+  .trail{display:flex;align-items:center;gap:10px;margin-bottom:14px;background:var(--paper);
+    border:3px solid var(--wood);border-radius:16px;padding:9px 13px;box-shadow:0 5px 0 rgba(87,57,31,.25)}
+  .trail .lab{font-weight:600;font-size:.88rem;color:var(--muted);white-space:nowrap}
+  .trail .track{flex:1;height:15px;background:var(--sand);border-radius:9px;overflow:hidden;border:2px solid var(--wood);position:relative}
+  .trail .fill{height:100%;width:0;background:linear-gradient(90deg,var(--clay),var(--brick));transition:width .5s cubic-bezier(.3,1.4,.5,1)}
+  .trail .walker{position:absolute;top:50%;transform:translate(-50%,-50%);font-size:.95rem;transition:left .5s cubic-bezier(.3,1.4,.5,1)}
+
+  /* QUESTION */
+  .qtag{font-family:'Caveat';font-weight:700;font-size:1.25rem;color:var(--brick);margin-bottom:4px}
+  .prompt{font-size:1.3rem;line-height:1.45;font-weight:500;margin-bottom:6px}
+  .prompt b{color:var(--brick-deep)}
+  .scenario{background:var(--cream);border-left:5px solid var(--clay);border-radius:0 12px 12px 0;
+    padding:11px 14px;font-size:1.12rem;margin:10px 0 4px;color:#4a3d34}
+  .hintline{font-size:.96rem;color:var(--muted);margin:8px 0 16px;display:flex;align-items:flex-start;gap:6px}
+
+  /* la construcción dibujada con etiquetas md / n / mi */
+  .constr{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin:14px 0 6px}
+  .wcell{display:flex;flex-direction:column;align-items:center;gap:4px}
+  .wcell .w{font-family:'Baloo 2';font-weight:700;font-size:1.35rem;padding:3px 7px;border-bottom:3.5px solid var(--muted)}
+  .wcell .t{font-family:'Caveat';font-weight:700;font-size:1.15rem;color:var(--muted);min-height:1.2em}
+  .wcell.md .w{border-color:var(--md);color:var(--md-deep)}   .wcell.md .t{color:var(--md)}
+  .wcell.n  .w{border-color:var(--nucleo);color:var(--nucleo-deep)} .wcell.n .t{color:var(--nucleo)}
+  .wcell.mi .w{border-color:var(--mi);color:var(--mi-deep)}   .wcell.mi .t{color:var(--mi)}
+  .wcell.q  .w{border-color:var(--brick);color:var(--brick-deep);background:#ffe9c9;border-radius:8px 8px 0 0;animation:pulseq 1.4s infinite}
+  @keyframes pulseq{0%,100%{background:#ffe9c9}50%{background:#ffd79a}}
+  .wcell.plain .w{border-color:transparent;color:var(--ink);font-weight:600}
+
+  .choices{display:grid;gap:11px}
+  .choice{font-family:'Fredoka';font-size:1.12rem;font-weight:500;background:#fff;border:3px solid var(--wood);
+    border-radius:16px;padding:14px 15px;cursor:pointer;text-align:left;box-shadow:0 5px 0 rgba(87,57,31,.22);
+    transition:transform .08s,background .15s;display:flex;align-items:center;gap:11px;color:var(--ink)}
+  .choice .em{font-size:1.35rem;flex-shrink:0}
+  .choice:hover:not(:disabled){background:var(--cream);transform:translateY(-2px)}
+  .choice:active:not(:disabled){transform:translateY(2px);box-shadow:0 2px 0 rgba(87,57,31,.22)}
+  .choice:disabled{cursor:default}
+  .choice.correct{background:linear-gradient(180deg,var(--ok),var(--ok-deep));color:#fff;border-color:var(--ok-deep);animation:cheer .5s}
+  .choice.wrong{background:linear-gradient(180deg,var(--no),#bf3c49);color:#fff;animation:shake .4s}
+  .choice.dim{opacity:.4}
+  @keyframes cheer{0%,100%{transform:scale(1)}40%{transform:scale(1.05)}}
+  @keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-7px)}75%{transform:translateX(7px)}}
+
+  .tf{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .tf .choice{justify-content:center;font-family:'Baloo 2';font-weight:800;font-size:1.35rem}
+
+  /* elegir palabras dentro de la frase */
+  .wordpick{display:flex;flex-wrap:wrap;gap:9px;justify-content:center;margin:6px 0 4px}
+  .wordpick .choice{font-family:'Baloo 2';font-weight:700;font-size:1.2rem;padding:11px 16px;text-align:center;display:inline-flex}
+
+  /* feedback */
+  .fb{margin-top:18px;border-radius:16px;padding:14px 16px;font-weight:600;font-size:1.04rem;display:none;
+    align-items:flex-start;gap:12px;border:3px solid var(--wood);animation:grow .35s both}
+  .fb.show{display:flex}
+  .fb.ok{background:#e4f7e7;border-color:var(--ok-deep)}
+  .fb.no{background:#fde6e8;border-color:#bf3c49}
+  .fb .face{font-size:1.9rem;line-height:1}
+  .fb .txt{flex:1}
+  .fb .txt .ex{display:block;margin-top:5px;font-weight:500;font-size:.96rem;color:#5a4d44}
+  .fb .next{font-family:'Baloo 2';font-weight:800;font-size:1.02rem;color:#fff;background:var(--brick);
+    border:3px solid var(--wood);border-radius:14px;padding:10px 18px;cursor:pointer;box-shadow:0 4px 0 rgba(87,57,31,.3);
+    transition:transform .08s;white-space:nowrap}
+  .fb .next:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(87,57,31,.3)}
+
+  .badge-pop{position:fixed;top:26%;left:50%;transform:translateX(-50%);z-index:60;pointer-events:none;
+    background:var(--sand);border:4px solid var(--wood);border-radius:20px;padding:14px 22px;font-family:'Baloo 2';
+    font-weight:800;font-size:1.3rem;color:var(--wood-deep);box-shadow:0 8px 0 rgba(87,57,31,.4);opacity:0;text-align:center}
+
+  /* WIN */
+  .win{text-align:center}
+  .win .medal{font-size:5rem;animation:bob 2.2s infinite ease-in-out}
+  .starsrow{font-size:2.3rem;letter-spacing:6px;margin:10px 0}
+  .row-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center;margin-top:14px}
+  .badges-won{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:14px 0}
+  .bw{background:var(--cream);border:2.5px solid var(--wood);border-radius:12px;padding:7px 11px;font-size:.85rem;font-weight:600;
+    display:flex;align-items:center;gap:5px;box-shadow:0 3px 0 rgba(87,57,31,.22)}
+  .bw .e{font-size:1.2rem}
+
+  .conf{position:fixed;top:-12px;width:11px;height:17px;z-index:55;pointer-events:none;border-radius:2px}
+  .small{color:var(--muted);font-size:.9rem}
+  .back{display:inline-block;margin-top:18px;color:var(--wood-deep);font-weight:600;text-decoration:none;
+    background:rgba(255,253,246,.85);border:2.5px solid var(--wood);border-radius:14px;padding:8px 14px;
+    box-shadow:0 4px 0 rgba(87,57,31,.22)}
+  .center{text-align:center}
+
+  /* ===== SALA DE ESTUDIO ===== */
+  .learn{text-align:left}
+  .learn h2{font-family:'Baloo 2';font-size:1.5rem;color:var(--brick-deep);margin:20px 0 8px;line-height:1.1}
+  .learn h2:first-of-type{margin-top:6px}
+  .learn p{font-size:1.08rem;line-height:1.5;margin-bottom:10px}
+  .learn ul{margin:0 0 12px 20px}
+  .learn li{font-size:1.05rem;line-height:1.5;margin-bottom:5px}
+  .box{border:3px solid var(--wood);border-radius:18px;padding:14px 16px;margin:12px 0;background:var(--cream);
+    box-shadow:0 5px 0 rgba(87,57,31,.2)}
+  .box.green{border-color:var(--md);background:#e8f6ec}
+  .box.blue{border-color:var(--nucleo);background:#e8eefc}
+  .box.orange{border-color:var(--mi);background:#fdf0dd}
+  .box .bt{font-family:'Baloo 2';font-weight:800;font-size:1.12rem;margin-bottom:6px;display:flex;align-items:center;gap:7px}
+  .box.green .bt{color:var(--md-deep)} .box.blue .bt{color:var(--nucleo-deep)} .box.orange .bt{color:var(--mi-deep)}
+  .qs{display:flex;flex-wrap:wrap;gap:7px;margin-top:8px}
+  .qs span{background:#fff;border:2.5px solid var(--mi);border-radius:12px;padding:5px 10px;font-weight:600;font-size:.95rem;color:var(--mi-deep)}
+  .keyword{background:var(--sand);border-radius:6px;padding:1px 5px;font-weight:600}
+  .prep-list{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+  .prep-list span{background:#fff;border:2px solid var(--mi);border-radius:10px;padding:4px 9px;font-family:'Baloo 2';
+    font-weight:700;font-size:1rem;color:var(--mi-deep)}
+</style>
+</head>
+<body>
+<div class="scene" id="scene"></div>
+<div class="wrap">
+  <header>
+    <div class="brand"><span class="bug">🧱</span> Constructores de Frases</div>
+    <div class="hud">
+      <div class="chip"><span>🧱</span><b id="hScore">0</b></div>
+      <div class="chip"><span>🔥</span><b id="hStreak">0</b></div>
+      <div class="chip"><span>❤️</span><b id="hLives">3</b></div>
+    </div>
+  </header>
+  <div id="app"></div>
+  <div class="center"><a class="back" href="index.html">⬅ Volver a los juegos</a></div>
+</div>
+<div class="badge-pop" id="badgePop"></div>
+
+<script>
+/* =====================================================
+   CONSTRUCTORES DE FRASES — Lengua (4° grado)
+   Construcciones sustantivas: núcleo, modificadores
+   directos (md) y modificadores indirectos (mi).
+   Contenido del manual (Mendoza · Santillana)
+   ===================================================== */
+const app=document.getElementById('app');
+const hud={score:document.getElementById('hScore'),streak:document.getElementById('hStreak'),lives:document.getElementById('hLives')};
+const badgePop=document.getElementById('badgePop');
+
+const rnd=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+const pick=a=>a[rnd(0,a.length-1)];
+const shuffle=a=>{const r=[...a];for(let i=r.length-1;i>0;i--){const j=rnd(0,i);[r[i],r[j]]=[r[j],r[i]];}return r;};
+const sample=(a,n)=>shuffle(a).slice(0,n);
+/* todos los elementos de a que no estén en excl */
+const others=(a,excl)=>a.filter(x=>!(Array.isArray(excl)?excl:[excl]).includes(x));
+
+const TOTAL=10;
+const state={score:0,streak:0,best:0,lives:3,q:0,correct:0,topics:new Set()};
+
+/* ---------- escenario ---------- */
+(function(){const s=document.getElementById('scene');
+  const bits=['🧱','🔨','📐','🧰'];
+  for(let i=0;i<9;i++){const d=document.createElement('div');d.className='brick-f';
+    d.textContent=pick(bits);d.style.left=Math.random()*100+'vw';
+    d.style.animationDuration=(9+Math.random()*10)+'s';d.style.animationDelay=Math.random()*9+'s';
+    d.style.fontSize=(.9+Math.random())+'rem';s.appendChild(d);}
+  s.insertAdjacentHTML('beforeend',`
+   <svg class="hill" viewBox="0 0 1440 200" preserveAspectRatio="none" style="height:140px">
+     <path d="M0,140 L180,140 L180,90 L340,90 L340,140 L620,140 L620,60 L780,60 L780,140 L1060,140 L1060,100 L1240,100 L1240,140 L1440,140 L1440,200 L0,200 Z" fill="#c47a45" opacity=".5"/>
+     <path d="M0,170 L260,170 L260,130 L460,130 L460,170 L900,170 L900,120 L1080,120 L1080,170 L1440,170 L1440,200 L0,200 Z" fill="#a55c2e" opacity=".8"/>
+   </svg>`);
+})();
+
+function burst(n=26){const cols=['#e08a4c','#3557c7','#2e8b57','#ffd166','#b4552f','#7b4b9e'];
+  for(let i=0;i<n;i++){const c=document.createElement('div');c.className='conf';
+    c.style.left=Math.random()*100+'vw';c.style.background=pick(cols);document.body.appendChild(c);
+    c.animate([{top:'-12px',opacity:1},{top:'104vh',opacity:.9,transform:`translateX(${(Math.random()-.5)*240}px) rotate(${Math.random()*720}deg)`}],
+      {duration:1100+Math.random()*800,easing:'cubic-bezier(.2,.6,.5,1)'}).onfinish=()=>c.remove();}
+}
+function popBadge(txt){
+  badgePop.innerHTML=txt;
+  badgePop.animate([{opacity:0,transform:'translateX(-50%) scale(.6)'},
+    {opacity:1,transform:'translateX(-50%) scale(1.08)',offset:.3},
+    {opacity:1,transform:'translateX(-50%) scale(1)',offset:.7},
+    {opacity:0,transform:'translateX(-50%) scale(1) translateY(-26px)'}],{duration:1400,easing:'ease-out'});
+}
+function syncHud(){hud.score.textContent=state.score;hud.streak.textContent=state.streak;hud.lives.textContent=state.lives;}
+
+/* =====================================================
+   MATERIALES DE CONSTRUCCIÓN (vocabulario del manual)
+   ===================================================== */
+
+/* sustantivos núcleo: g = género/número para concordar el artículo */
+/* sustantivos núcleo. g = género/número (para concordar el artículo),
+   adj = adjetivos que le quedan bien, mis = modificadores indirectos posibles.
+   Todo escrito a mano para que las construcciones tengan sentido. */
+const SUS = [
+  {p:'cierva', g:'fs', em:'🦌', adj:['blanca','pequeña','veloz','asustada'],
+   mis:[['del','bosque'],['con','manchas'],['entre','los árboles'],['sin','miedo']]},
+  {p:'reloj', g:'ms', em:'⏰', adj:['viejo','nuevo','redondo','dorado'],
+   mis:[['de','arena'],['de','mi abuelo'],['sin','pilas'],['con','números grandes'],['sobre','la mesa']]},
+  {p:'casa', g:'fs', em:'🏠', adj:['blanca','grande','pequeña','nueva'],
+   mis:[['de','madera'],['de','mi tía'],['con','techo rojo'],['sin','ventanas'],['en','la montaña']]},
+  {p:'perro', g:'ms', em:'🐶', adj:['blanco','grande','peludo','veloz'],
+   mis:[['de','mi primo'],['con','manchas'],['sin','collar'],['de','la vecina']]},
+  {p:'montaña', g:'fs', em:'🏔️', adj:['grande','nevada','alta','lejana'],
+   mis:[['de','Mendoza'],['con','nieve'],['sin','árboles'],['entre','las nubes']]},
+  {p:'río', g:'ms', em:'🏞️', adj:['ancho','helado','tranquilo','largo'],
+   mis:[['de','montaña'],['con','piedras'],['sin','peces'],['entre','los cerros']]},
+  {p:'maestra', g:'fs', em:'👩‍🏫', adj:['nueva','paciente','inteligente','simpática'],
+   mis:[['de','música'],['de','cuarto grado'],['con','mucha paciencia'],['sin','apuro']]},
+  {p:'cuaderno', g:'ms', em:'📓', adj:['nuevo','grande','prolijo','viejo'],
+   mis:[['de','Lengua'],['de','tapa dura'],['con','dibujos'],['sin','hojas'],['para','la escuela']]},
+  {p:'bicicleta', g:'fs', em:'🚲', adj:['nueva','roja','veloz','pequeña'],
+   mis:[['de','carrera'],['de','mi hermano'],['con','luces'],['sin','frenos'],['para','la ciudad']]},
+  {p:'árbol', g:'ms', em:'🌳', adj:['grande','viejo','frondoso','alto'],
+   mis:[['de','la plaza'],['con','flores'],['sin','hojas'],['del','patio']]},
+  {p:'pelota', g:'fs', em:'⚽', adj:['nueva','pequeña','blanca','pinchada'],
+   mis:[['de','fútbol'],['de','cuero'],['con','lunares'],['sin','aire'],['para','el recreo']]},
+  {p:'camión', g:'ms', em:'🚚', adj:['grande','rojo','viejo','pesado'],
+   mis:[['de','bomberos'],['con','acoplado'],['sin','carga'],['de','mi tío']]},
+  {p:'flores', g:'fp', em:'🌸', adj:['amarillas','nuevas','pequeñas','perfumadas'],
+   mis:[['del','jardín'],['de','papel'],['con','perfume'],['sin','espinas'],['para','mi abuela']]},
+  {p:'libros', g:'mp', em:'📚', adj:['nuevos','viejos','pesados','divertidos'],
+   mis:[['de','aventuras'],['de','la biblioteca'],['con','ilustraciones'],['sin','tapas'],['para','la clase']]},
+  {p:'abuela', g:'fs', em:'👵', adj:['querida','paciente','simpática'],
+   mis:[['de','Bruno'],['con','anteojos'],['de','Mendoza']]},
+  {p:'gato', g:'ms', em:'🐱', adj:['blanco','pequeño','dormilón','veloz'],
+   mis:[['de','la vecina'],['con','manchas'],['sin','cola'],['del','tejado']]},
+  {p:'ventana', g:'fs', em:'🪟', adj:['grande','nueva','pequeña','abierta'],
+   mis:[['de','la cocina'],['de','vidrio'],['con','cortinas'],['sin','rejas']]},
+  {p:'caballo', g:'ms', em:'🐴', adj:['blanco','veloz','grande','manso'],
+   mis:[['de','carrera'],['de','mi abuelo'],['con','montura'],['sin','herraduras']]},
+  {p:'vaso', g:'ms', em:'🥛', adj:['pequeño','nuevo','transparente'],
+   mis:[['de','vidrio'],['de','agua'],['con','jugo'],['sin','asa']]},
+  {p:'canción', g:'fs', em:'🎵', adj:['nueva','linda','alegre','conocida'],
+   mis:[['de','cuna'],['de','mi banda'],['con','guitarra'],['sin','letra'],['para','el acto']]},
+];
+
+/* artículos por género y número */
+const ART = {
+  ms:['el','un'], fs:['la','una'], mp:['los','unos'], fp:['las','unas']
+};
+const ART_TODOS=['el','la','los','las','un','una','unos','unas'];
+
+/* adjetivos por género y número */
+const ADJ = {
+  ms:['blanco','grande','pequeño','inteligente','viejo','nuevo','veloz','amarillo'],
+  fs:['blanca','grande','pequeña','inteligente','vieja','nueva','veloz','amarilla'],
+  mp:['blancos','grandes','pequeños','inteligentes','viejos','nuevos','veloces','amarillos'],
+  fp:['blancas','grandes','pequeñas','inteligentes','viejas','nuevas','veloces','amarillas'],
+};
+const PREP=['a','de','con','sin','por','para','en','entre','desde','hasta','contra','hacia','sobre','bajo','según','durante'];
+
+
+/* pregunta que responde cada preposición (según el manual) */
+const PREG_MI = {
+  de:'¿de qué? / ¿de quién?', del:'¿de qué? / ¿de quién?', con:'¿con qué?', sin:'¿sin qué?',
+  para:'¿para qué? / ¿para quién?', en:'¿dónde?', por:'¿por dónde? / ¿cuándo?', a:'¿cómo?',
+  entre:'¿dónde?', desde:'¿desde dónde?', hasta:'¿hasta dónde?', sobre:'¿dónde?', hacia:'¿hacia dónde?'
+};
+/* aclaración para el chico cuando aparece la contracción */
+const ES_CONTRACCION={del:'del = de + el', al:'al = a + el'};
+
+/* si la preposición es una contracción, agregamos la aclaración */
+function notaContr(prep){return ES_CONTRACCION[prep]?` <i>(${ES_CONTRACCION[prep]})</i>`:'';}
+/* Emoji según lo que ES la opción, nunca según si es la correcta:
+   así el emoji nunca delata la respuesta. */
+const EM={md:'🟩',n:'🎯',mi:'🟧',art:'📘',adj:'🎨',prep:'🔗',sus:'🎯',frase:'🧱',preg:'❔',num:'🔢'};
+function artFor(g){return pick(ART[g]);}
+function adjFor(g){return pick(ADJ[g]);}
+/* adjetivo que le queda bien a ESE sustantivo */
+function adjDe(s){return pick(s.adj);}
+/* mi que le queda bien a ESE sustantivo */
+function miDe(s){return pick(s.mis);}
+function capit(s){return s.charAt(0).toUpperCase()+s.slice(1);}
+
+/* arma una construcción como lista de piezas {w, rol} con rol md|n|mi */
+function armar(opts){
+  const s=pick(SUS);
+  const o=opts||{};
+  const conArt = o.art!==undefined ? o.art : true;
+  const conAdj = o.adj!==undefined ? o.adj : (Math.random()<.5);
+  const conMi  = o.mi !==undefined ? o.mi  : (Math.random()<.5);
+  const piezas=[];
+  if(conArt) piezas.push({w:artFor(s.g),rol:'md',tipo:'artículo'});
+  piezas.push({w:s.p,rol:'n',tipo:'sustantivo',em:s.em});
+  if(conAdj) piezas.push({w:adjDe(s),rol:'md',tipo:'adjetivo'});
+  let prep=null,compl=null;
+  if(conMi){
+    [prep,compl]=miDe(s);
+    piezas.push({w:prep,rol:'mi',tipo:'preposición'});
+    compl.split(' ').forEach(w=>piezas.push({w,rol:'mi',tipo:'parte del mi'}));
+  }
+  return {piezas,sus:s,prep,compl,
+          texto:piezas.map(p=>p.w).join(' '),
+          mitexto:prep?prep+' '+compl:null};
+}
+
+/* dibuja la construcción; marca[] indica qué etiqueta mostrar por índice */
+function dibujar(piezas,{mostrar='todo',foco=-1}={}){
+  return `<div class="constr">${piezas.map((p,i)=>{
+    let cls='plain', t='';
+    if(i===foco){ cls='q'; t='?'; }
+    else if(mostrar==='todo'){ cls=p.rol; t=p.rol; }
+    else if(mostrar==='nucleo' && p.rol==='n'){ cls='n'; t='n'; }
+    return `<span class="wcell ${cls}"><span class="w">${p.w}</span><span class="t">${t}</span></span>`;
+  }).join('')}</div>`;
+}
+
+/* =====================================================
+   GENERADORES
+   ===================================================== */
+
+/* ---------- TEMA 1 · Encontrar el núcleo ---------- */
+function genNucleo(){
+  const modo=pick(['cual','tf','definicion']);
+  if(modo==='cual'){
+    const c=armar({art:true,adj:true,mi:Math.random()<.5});
+    const distr=[...new Set(c.piezas.filter(p=>p.rol!=='n'&&p.w!==c.sus.p).map(p=>p.w))];
+    const malas=sample(distr,Math.min(3,distr.length)).map(w=>({label:w,ok:false,em:EM.frase}));
+    return {topic:'Núcleo',tag:'🎯 El núcleo',
+      prompt:'¿Cuál es el <b>núcleo</b> de esta construcción sustantiva?',
+      scenario:dibujar(c.piezas,{mostrar:'nada'}),
+      hint:'El núcleo es la palabra principal: siempre es un <b>sustantivo</b>.',
+      choices:shuffle([{label:c.sus.p,ok:true,em:EM.frase},...malas]),
+      explain:`El núcleo es <b>${c.sus.p}</b>, porque es el sustantivo del que hablan todas las demás palabras.`};
+  }
+  if(modo==='tf'){
+    const c=armar({art:true,adj:true,mi:false});
+    const adjPieza=c.piezas.find(p=>p.tipo==='adjetivo');
+    const dice=Math.random()<.5;
+    const palabra=dice?c.sus.p:adjPieza.w;
+    return {topic:'Núcleo',tag:'🎯 El núcleo',type:'tf',
+      prompt:`En «<b>${c.texto}</b>», ¿el núcleo es la palabra <b>${palabra}</b>?`,
+      hint:'El núcleo tiene que ser un sustantivo, no un adjetivo ni un artículo.',
+      choices:[{label:'✅ Verdadero',ok:dice},{label:'❌ Falso',ok:!dice}],
+      explain:dice
+        ? `Sí: <b>${c.sus.p}</b> es el sustantivo y por eso es el núcleo. <b>${adjPieza.w}</b> es un adjetivo que lo modifica.`
+        : `No: <b>${adjPieza.w}</b> es un adjetivo (un md). El núcleo es el sustantivo <b>${c.sus.p}</b>.`};
+  }
+  return {topic:'Núcleo',tag:'🎯 El núcleo',
+    prompt:'¿Qué es una <b>construcción sustantiva</b>?',
+    hint:'Fijate qué clase de palabra manda en el grupo.',
+    choices:shuffle([
+      {label:'Un grupo de palabras cuyo núcleo es un sustantivo',ok:true,em:EM.frase},
+      {label:'Un grupo de palabras cuyo núcleo es un verbo',ok:false,em:EM.frase},
+      {label:'Una palabra que siempre lleva preposición',ok:false,em:EM.frase},
+      {label:'Una oración con sujeto y predicado',ok:false,em:EM.frase},
+    ]),
+    explain:'Una construcción sustantiva es un conjunto de palabras que tiene como <b>núcleo</b> (n) a un <b>sustantivo</b>.'};
+}
+
+/* ---------- TEMA 2 · Modificador directo ---------- */
+function genMD(){
+  const modo=pick(['cual','clase','definicion','tf','contarmd']);
+  if(modo==='cual'){
+    const c=armar({art:true,adj:true,mi:true});
+    const mds=c.piezas.filter(p=>p.rol==='md');
+    const correcto=pick(mds);
+    const malas=[{label:c.sus.p,ok:false,em:EM.frase},
+                 {label:c.prep,ok:false,em:EM.frase},
+                 {label:c.compl.split(' ').slice(-1)[0],ok:false,em:EM.frase}];
+    const opciones=[{label:correcto.w,ok:true,em:EM.frase},...malas]
+      .filter((o,i,arr)=>arr.findIndex(x=>x.label===o.label)===i);
+    return {topic:'Modificador directo',tag:'🟩 Modificador directo',
+      prompt:'¿Cuál de estas palabras es un <b>modificador directo (md)</b>?',
+      scenario:dibujar(c.piezas,{mostrar:'nucleo'}),
+      hint:'El md acompaña al núcleo <b>sin preposición</b>: es un artículo o un adjetivo.',
+      choices:shuffle(opciones),
+      explain:`<b>${correcto.w}</b> es un ${correcto.tipo} y acompaña al núcleo <b>${c.sus.p}</b> sin preposición: es un md.`};
+  }
+  if(modo==='clase'){
+    const s=pick(SUS);
+    const art=artFor(s.g), adj=adjDe(s);
+    const esArt=Math.random()<.5;
+    const palabra=esArt?art:adj;
+    return {topic:'Modificador directo',tag:'🟩 Modificador directo',
+      prompt:`En la construcción «<b>${art} ${s.p} ${adj}</b>», la palabra <b>${palabra}</b> es un md. ¿De qué clase?`,
+      hint:'Los md pueden ser <b>artículos</b> (el, la, los, las, un, una…) o <b>adjetivos</b> (que dicen cómo es).',
+      choices:shuffle([
+        {label:'Artículo',ok:esArt,em:EM.frase},
+        {label:'Adjetivo',ok:!esArt,em:EM.frase},
+        {label:'Preposición',ok:false,em:EM.frase},
+        {label:'Sustantivo',ok:false,em:EM.frase},
+      ]),
+      explain:esArt
+        ? `<b>${palabra}</b> es un <b>artículo</b>. Los artículos son: el, la, los, las, un, una, unos, unas.`
+        : `<b>${palabra}</b> es un <b>adjetivo</b>: dice cómo es el sustantivo (lindo, blanco, grande, pequeño, inteligente…).`};
+  }
+  if(modo==='definicion'){
+    return {topic:'Modificador directo',tag:'🟩 Modificador directo',
+      prompt:'¿Cómo acompaña un <b>modificador directo</b> al núcleo?',
+      hint:'La palabra "directo" te da la pista.',
+      choices:shuffle([
+        {label:'Directamente, sin preposición en el medio',ok:true,em:EM.frase},
+        {label:'A través de una preposición',ok:false,em:EM.frase},
+        {label:'Siempre después de un verbo',ok:false,em:EM.frase},
+        {label:'Solamente al final de la oración',ok:false,em:EM.frase},
+      ]),
+      explain:'El md acompaña <b>directamente</b> al sustantivo núcleo, <b>sin preposición</b>. Pueden ser artículos y adjetivos.'};
+  }
+  if(modo==='tf'){
+    const c=armar({art:true,adj:false,mi:true});
+    const pal=Math.random()<.5?c.piezas[0].w:c.prep;
+    const esMD=(pal===c.piezas[0].w);
+    return {topic:'Modificador directo',tag:'🟩 Modificador directo',type:'tf',
+      prompt:`En «<b>${c.texto}</b>», ¿la palabra <b>${pal}</b> es un modificador directo?`,
+      hint:'Preguntate: ¿es un artículo o adjetivo pegado al núcleo, o hay una preposición?',
+      choices:[{label:'✅ Verdadero',ok:esMD},{label:'❌ Falso',ok:!esMD}],
+      explain:esMD
+        ? `Sí: <b>${pal}</b> es un artículo que acompaña al núcleo <b>${c.sus.p}</b> sin preposición.`
+        : `No: <b>${pal}</b> es una <b>preposición</b>. Junto con lo que sigue forma un modificador indirecto (mi).`};
+  }
+  const c=armar({art:true,adj:true,mi:false});
+  const n=c.piezas.filter(p=>p.rol==='md').length;
+  return {topic:'Modificador directo',tag:'🟩 Modificador directo',
+    prompt:`¿Cuántos <b>modificadores directos</b> tiene «<b>${c.texto}</b>»?`,
+    hint:'Contá los artículos y adjetivos que acompañan al núcleo sin preposición.',
+    choices:shuffle([{label:String(n),ok:true,em:EM.num},...others(['0','1','2','3'],String(n)).slice(0,3).map(x=>({label:x,ok:false,em:EM.num}))]),
+    explain:`Tiene <b>${n}</b>: el núcleo es <b>${c.sus.p}</b> y lo acompañan ${c.piezas.filter(p=>p.rol==='md').map(p=>'<b>'+p.w+'</b>').join(' y ')}.`};
+}
+
+/* ---------- TEMA 3 · Modificador indirecto ---------- */
+function genMI(){
+  const modo=pick(['cual','prep','pregunta','definicion','tf']);
+  if(modo==='cual'){
+    const c=armar({art:true,adj:Math.random()<.5,mi:true});
+    const malas=[{label:c.sus.p,ok:false,em:EM.frase},
+                 {label:c.piezas[0].w,ok:false,em:EM.frase}];
+    const adjP=c.piezas.find(p=>p.tipo==='adjetivo');
+    if(adjP) malas.push({label:adjP.w,ok:false,em:EM.frase});
+    else malas.push({label:c.compl.split(' ').slice(-1)[0],ok:false,em:EM.frase});
+    const opciones=[{label:c.mitexto,ok:true,em:EM.frase},...malas]
+      .filter((o,i,arr)=>arr.findIndex(x=>x.label===o.label)===i);
+    return {topic:'Modificador indirecto',tag:'🟧 Modificador indirecto',
+      prompt:'¿Cuál es el <b>modificador indirecto (mi)</b>?',
+      scenario:dibujar(c.piezas,{mostrar:'nucleo'}),
+      hint:'El mi empieza siempre con una <b>preposición</b> (de, con, sin, para, en…).',
+      choices:shuffle(opciones),
+      explain:`El mi es <b>${c.mitexto}</b>: empieza con la preposición <b>${c.prep}</b>${notaContr(c.prep)} y modifica al núcleo <b>${c.sus.p}</b>.`};
+  }
+  if(modo==='prep'){
+    const c=armar({art:true,adj:false,mi:true});
+    const malas=sample(others(PREP,c.prep),3).map(p=>({label:p,ok:false,em:EM.prep}));
+    return {topic:'Modificador indirecto',tag:'🟧 Modificador indirecto',
+      prompt:`En «<b>${c.texto}</b>», ¿cuál es la <b>preposición</b> que arma el mi?`,
+      hint:'Preposiciones: a, de, con, sin, por, para, en, entre, desde, hasta…',
+      choices:shuffle([{label:c.prep,ok:true,em:EM.prep},...malas]),
+      explain:`La preposición es <b>${c.prep}</b>${notaContr(c.prep)}. Por eso <b>${c.mitexto}</b> modifica de forma <b>indirecta</b> al núcleo.`};
+  }
+  if(modo==='pregunta'){
+    const c=armar({art:true,adj:false,mi:true});
+    const correcta=PREG_MI[c.prep];
+    const malas=sample(others([...new Set(Object.values(PREG_MI))],correcta),3).map(p=>({label:p,ok:false,em:EM.preg}));
+    return {topic:'Modificador indirecto',tag:'🟧 Modificador indirecto',
+      prompt:`«<b>${c.texto}</b>». ¿Qué pregunta le hacemos al núcleo <b>${c.sus.p}</b> para encontrar el mi?`,
+      hint:'Al núcleo le preguntamos: ¿de qué? ¿a quién? ¿con qué? ¿dónde? ¿para qué? ¿cómo?',
+      choices:shuffle([{label:correcta,ok:true,em:EM.preg},...malas]),
+      explain:`Preguntamos <b>${correcta}</b> y la respuesta es <b>${c.compl}</b>. Ese es el mi: <b>${c.mitexto}</b>.`};
+  }
+  if(modo==='definicion'){
+    return {topic:'Modificador indirecto',tag:'🟧 Modificador indirecto',
+      prompt:'¿Por qué el modificador <b>indirecto</b> se llama así?',
+      hint:'Fijate qué palabrita se mete entre el núcleo y el modificador.',
+      choices:shuffle([
+        {label:'Porque se une al núcleo a través de una preposición',ok:true,em:EM.frase},
+        {label:'Porque va siempre al principio de la construcción',ok:false,em:EM.frase},
+        {label:'Porque es un adjetivo muy largo',ok:false,em:EM.frase},
+        {label:'Porque no modifica a nadie',ok:false,em:EM.frase},
+      ]),
+      explain:'Se relaciona con el núcleo <b>a través de una preposición</b> (a, de, con, sin, por, para, en, entre…). Por eso lo modifica de forma indirecta.'};
+  }
+  const c=armar({art:true,adj:false,mi:true});
+  const dice=Math.random()<.5;
+  const pal=dice?c.mitexto:c.piezas[0].w;
+  return {topic:'Modificador indirecto',tag:'🟧 Modificador indirecto',type:'tf',
+    prompt:`En «<b>${c.texto}</b>», ¿<b>${pal}</b> es un modificador indirecto?`,
+    hint:'Si empieza con preposición, es mi. Si no, es md.',
+    choices:[{label:'✅ Verdadero',ok:dice},{label:'❌ Falso',ok:!dice}],
+    explain:dice
+      ? `Sí: <b>${c.mitexto}</b> empieza con la preposición <b>${c.prep}</b>.`
+      : `No: <b>${pal}</b> es un artículo, o sea un <b>md</b>. El mi de esta construcción es <b>${c.mitexto}</b>.`};
+}
+
+/* ---------- TEMA 4 · Analizar (poner la etiqueta a una palabra) ---------- */
+function genAnalisis(){
+  const modo=pick(['etiqueta','etiqueta','todaslasetiquetas','elegirpalabra']);
+  if(modo==='etiqueta'){
+    const c=armar({art:true,adj:Math.random()<.6,mi:true});
+    const idx=rnd(0,c.piezas.length-1);
+    const p=c.piezas[idx];
+    const rolNombre={md:'md (modificador directo)',n:'n (núcleo)',mi:'mi (modificador indirecto)'};
+    return {topic:'Análisis',tag:'🔎 Analizar',
+      prompt:`¿Qué etiqueta le ponés a la palabra marcada?`,
+      scenario:dibujar(c.piezas,{mostrar:'nada',foco:idx}),
+      hint:'Sustantivo principal = <b>n</b> · artículo o adjetivo pegado = <b>md</b> · preposición y lo que sigue = <b>mi</b>.',
+      choices:shuffle(['md','n','mi'].map(r=>({label:rolNombre[r],ok:r===p.rol,em:EM[r]}))),
+      explain:`<b>${p.w}</b> es ${p.tipo}, así que se etiqueta <b>${p.rol}</b>. El núcleo de la construcción es <b>${c.sus.p}</b>.`};
+  }
+  if(modo==='todaslasetiquetas'){
+    const c=armar({art:true,adj:false,mi:true});
+    const orden=c.piezas.map(p=>p.rol);
+    const correcto=orden.join(' - ');
+    const variantes=new Set([correcto]);
+    const roles=['md','n','mi'];
+    let guard=0;
+    while(variantes.size<4 && guard++<40){
+      variantes.add(orden.map((r,i)=> i===rnd(0,orden.length-1)?pick(others(roles,r)):r).join(' - '));
+    }
+    const opts=[...variantes].map(v=>({label:v,ok:v===correcto,em:EM.frase}));
+    return {topic:'Análisis',tag:'🔎 Analizar',
+      prompt:`Analizá «<b>${c.texto}</b>». ¿Cuál es el orden correcto de las etiquetas?`,
+      hint:'Etiquetá palabra por palabra, de izquierda a derecha.',
+      choices:shuffle(opts),
+      explain:`Es <b>${correcto}</b>: núcleo <b>${c.sus.p}</b>, y el mi <b>${c.mitexto}</b> empieza con la preposición <b>${c.prep}</b>${notaContr(c.prep)}.`};
+  }
+  /* elegir cuál construcción tiene mi (o no lo tiene) */
+  const buscarMi=Math.random()<.5;
+  const conMi=armar({art:true,adj:false,mi:true});
+  const sinMi=[armar({art:true,adj:true,mi:false}),armar({art:true,adj:true,mi:false}),armar({art:true,adj:false,mi:false})];
+  const opts=buscarMi
+    ? [{label:conMi.texto,ok:true,em:EM.frase},...sinMi.map(c=>({label:c.texto,ok:false,em:EM.frase}))]
+    : [{label:sinMi[0].texto,ok:true,em:EM.frase},{label:conMi.texto,ok:false,em:EM.frase},
+       ...[armar({art:true,adj:false,mi:true}),armar({art:true,adj:true,mi:true})].map(c=>({label:c.texto,ok:false,em:EM.frase}))];
+  const unicas=opts.filter((o,i,arr)=>arr.findIndex(x=>x.label===o.label)===i);
+  return {topic:'Análisis',tag:'🔎 Analizar',
+    prompt:buscarMi
+      ? '¿Cuál de estas construcciones tiene un <b>modificador indirecto</b>?'
+      : '¿Cuál de estas construcciones <b>NO</b> tiene modificador indirecto?',
+    hint:'Buscá la preposición: a, de, con, sin, por, para, en, entre…',
+    choices:shuffle(unicas),
+    explain:buscarMi
+      ? `<b>${conMi.texto}</b> tiene el mi <b>${conMi.mitexto}</b>, porque empieza con la preposición <b>${conMi.prep}</b>.`
+      : `<b>${sinMi[0].texto}</b> solo tiene md (artículo y adjetivo): no aparece ninguna preposición.`};
+}
+
+/* ---------- TEMA 5 · Armar la construcción ---------- */
+function genArmar(){
+  const modo=pick(['completarmd','completarmi','concordancia']);
+  if(modo==='completarmd'){
+    const s=pick(SUS);
+    const art=artFor(s.g);
+    const bueno=adjDe(s);
+    /* distractor: un mi (lleva preposición), un sustantivo, y un adjetivo que no concuerda */
+    const miAjeno=miDe(s);
+    const otrosGeneros=others(['ms','fs','mp','fp'],s.g);
+    const adjMalos=others(otrosGeneros.flatMap(g=>ADJ[g]),[bueno,...s.adj]);
+    const malas=[
+      {label:miAjeno.join(' '),ok:false,em:EM.frase},
+      {label:pick(SUS.filter(x=>x.p!==s.p)).p,ok:false,em:EM.frase},
+      {label:pick(adjMalos),ok:false,em:EM.frase},
+    ];
+    return {topic:'Construir',tag:'🔨 Construir',
+      prompt:`Querés agregarle un <b>md</b> a «<b>${art} ${s.p}</b>». ¿Cuál sirve?`,
+      hint:'Un md es un artículo o un adjetivo, y tiene que concordar en género y número con el sustantivo.',
+      choices:shuffle([{label:bueno,ok:true,em:EM.frase},...malas]),
+      explain:`<b>${art} ${s.p} ${bueno}</b>: el adjetivo <b>${bueno}</b> acompaña al núcleo sin preposición, así que es un md.`};
+  }
+  if(modo==='completarmi'){
+    const s=pick(SUS);
+    const art=artFor(s.g);
+    const [prep,compl]=miDe(s);
+    const malas=[
+      {label:adjDe(s),ok:false,em:EM.frase},
+      {label:pick(ART_TODOS),ok:false,em:EM.frase},
+      {label:compl,ok:false,em:EM.frase},
+    ];
+    return {topic:'Construir',tag:'🔨 Construir',
+      prompt:`Querés agregarle un <b>mi</b> a «<b>${art} ${s.p}</b>». ¿Cuál sirve?`,
+      hint:'Un mi siempre arranca con una preposición.',
+      choices:shuffle([{label:prep+' '+compl,ok:true,em:EM.frase},...malas]),
+      explain:`<b>${art} ${s.p} ${prep} ${compl}</b>: <b>${prep}</b> es preposición${notaContr(prep)}, entonces <b>${prep} ${compl}</b> es un modificador indirecto.`};
+  }
+  const s=pick(SUS);
+  const bueno=artFor(s.g);
+  const malos=sample(others(ART_TODOS,ART[s.g]),3).map(a=>({label:a,ok:false,em:EM.art}));
+  return {topic:'Construir',tag:'🔨 Construir',
+    prompt:`¿Qué <b>artículo</b> le queda bien al sustantivo <b>${s.p}</b>? ${s.em}`,
+    hint:'El artículo tiene que coincidir en género (masculino/femenino) y número (singular/plural).',
+    choices:shuffle([{label:bueno,ok:true,em:EM.art},...malos]),
+    explain:`Se dice <b>${bueno} ${s.p}</b>. El artículo es un md y siempre concuerda con el sustantivo núcleo.`};
+}
+
+/* pool ponderado */
+const POOL = [
+  genNucleo, genNucleo,
+  genMD, genMD, genMD,
+  genMI, genMI, genMI,
+  genAnalisis, genAnalisis, genAnalisis,
+  genArmar, genArmar,
+];
+let lastPrompt='';
+function nextExercise(){
+  let ex, tries=0;
+  do{ ex=pick(POOL)(); tries++; }while(ex.prompt===lastPrompt && tries<6);
+  lastPrompt=ex.prompt;
+  return ex;
+}
+
+/* =====================================================
+   FLUJO / UI
+   ===================================================== */
+const OKMSG=['¡Bien puesto ese ladrillo!','¡Obra firme!','¡Sos un maestro constructor!','¡Perfecto!','¡Qué buena mirada!','¡Anotado en el plano!'];
+const NOMSG=['¡Casi! Acomodamos y seguimos.','Uy, ese ladrillo no iba ahí.','Tranqui, así se aprende a construir.','¡Nada grave! Probá la próxima.'];
+
+function showStart(){
+  app.innerHTML=`
+   <div class="panel hero">
+     <div class="explorer">👷</div>
+     <h1>Constructores de Frases</h1>
+     <p class="sub">Armá ${TOTAL} construcciones sustantivas y ganá insignias de constructor.</p>
+     <div class="biomes">
+       <div class="biome"><span class="e">🎯</span> El núcleo</div>
+       <div class="biome"><span class="e">🟩</span> md</div>
+       <div class="biome"><span class="e">🟧</span> mi</div>
+       <div class="biome"><span class="e">🔎</span> Analizar</div>
+       <div class="biome"><span class="e">🔨</span> Construir</div>
+       <div class="biome"><span class="e">🏅</span> Insignias</div>
+     </div>
+     <button class="play" onclick="startGame()">¡Empezar la obra!</button>
+     <div><button class="ghost" onclick="showLearn()">📖 Antes, quiero repasar el tema</button></div>
+     <p class="small" style="margin-top:14px">Tenés 3 vidas ❤️ · sumá racha 🔥 para más puntos 🧱</p>
+   </div>`;
+}
+
+/* ---------- SALA DE ESTUDIO ---------- */
+function ejemploFijo(piezas){
+  return `<div class="constr">${piezas.map(p=>
+    `<span class="wcell ${p.rol}"><span class="w">${p.w}</span><span class="t">${p.rol}</span></span>`).join('')}</div>`;
+}
+function showLearn(){
+  app.innerHTML=`
+   <div class="panel learn">
+     <div class="tab">📖 Sala de planos</div>
+     <h2 style="margin-top:8px">🧱 ¿Qué es una construcción sustantiva?</h2>
+     <p>Es un <b>conjunto de palabras</b> que tiene como <b>núcleo</b> (lo escribimos <b>n</b>),
+        o sea como palabra principal, un <b>sustantivo</b>.</p>
+     <p>Pensalo como una construcción de ladrillos: el <span class="keyword">sustantivo</span> es
+        el ladrillo del medio, el que sostiene todo. Las demás palabras se apoyan en él y lo
+        <b>modifican</b>, o sea, cuentan algo más sobre él.</p>
+
+     <div class="box blue">
+       <div class="bt">🎯 El núcleo (n)</div>
+       <p style="margin:0">Es el <b>sustantivo</b> principal. Si sacás el núcleo, la construcción se cae.</p>
+       ${ejemploFijo([{w:'La',rol:'md'},{w:'cierva',rol:'n'},{w:'blanca',rol:'md'}])}
+     </div>
+
+     <h2>🟩 Modificadores directos (md)</h2>
+     <p>Acompañan <b>directamente</b> al sustantivo núcleo, <b>sin preposición</b> en el medio.</p>
+     <div class="box green">
+       <div class="bt">📘 Pueden ser artículos</div>
+       <p style="margin:0">el, la, los, las, un, una, unos, unas.</p>
+       <div class="bt" style="margin-top:10px">🎨 O adjetivos</div>
+       <p style="margin:0">lindo, blanco, grande, pequeño, inteligente, veloz…</p>
+       ${ejemploFijo([{w:'Unos',rol:'md'},{w:'perros',rol:'n'},{w:'grandes',rol:'md'}])}
+     </div>
+
+     <h2>🟧 Modificadores indirectos (mi)</h2>
+     <p>Se relacionan con el sustantivo núcleo <b>a través de una preposición</b>.
+        Por eso lo modifican de forma <b>indirecta</b>.</p>
+     <div class="box orange">
+       <div class="bt">🔗 Algunas preposiciones</div>
+       <div class="prep-list">
+         ${['a','de','con','sin','por','para','en','entre','desde','hasta','contra','hacia','sobre','bajo'].map(p=>`<span>${p}</span>`).join('')}
+       </div>
+       <div class="bt" style="margin-top:12px">❔ Cómo se encuentran</div>
+       <p style="margin:0">Le hacemos una pregunta al sustantivo núcleo:</p>
+       <div class="qs">
+         <span>¿de qué?</span><span>¿a quién?</span><span>¿con qué?</span>
+         <span>¿dónde?</span><span>¿para qué?</span><span>¿cómo?</span>
+       </div>
+       <p style="margin:10px 0 0">Ejemplo: <b>el reloj</b> → ¿de qué? → <b>de arena</b>.</p>
+       <p style="margin:8px 0 0" class="small">Ojo con las contracciones: <span class="keyword">del</span> = de + el
+          y <span class="keyword">al</span> = a + el. Igual arrancan un mi.</p>
+       ${ejemploFijo([{w:'El',rol:'md'},{w:'reloj',rol:'n'},{w:'de',rol:'mi'},{w:'arena',rol:'mi'}])}
+     </div>
+
+     <h2>🔎 Truco para analizar</h2>
+     <ul>
+       <li>1️⃣ Buscá el <b>sustantivo</b>: ese es el núcleo (<b>n</b>).</li>
+       <li>2️⃣ Mirá las palabras pegadas a él sin preposición: son <b>md</b>.</li>
+       <li>3️⃣ Si aparece una <b>preposición</b>, desde ahí empieza un <b>mi</b>.</li>
+     </ul>
+
+     <div class="box">
+       <div class="bt">👀 Compará</div>
+       ${ejemploFijo([{w:'La',rol:'md'},{w:'casa',rol:'n'},{w:'blanca',rol:'md'}])}
+       <p class="small" style="text-align:center;margin:0 0 8px">"blanca" está pegada al núcleo → md</p>
+       ${ejemploFijo([{w:'La',rol:'md'},{w:'casa',rol:'n'},{w:'de',rol:'mi'},{w:'madera',rol:'mi'}])}
+       <p class="small" style="text-align:center;margin:0">"de madera" empieza con preposición → mi</p>
+     </div>
+
+     <div class="row-btns">
+       <button class="play" onclick="startGame()">🔨 ¡Ahora sí, a jugar!</button>
+       <button class="ghost" onclick="showStart()">⬅ Volver al inicio</button>
+     </div>
+   </div>`;
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function startGame(){
+  state.score=0;state.streak=0;state.best=0;state.lives=3;state.q=0;state.correct=0;state.topics=new Set();
+  syncHud();loadNext();
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+let current=null;
+function loadNext(){
+  if(state.q>=TOTAL || state.lives<=0){ showWin(); return; }
+  current=nextExercise();
+  state.q++;
+  render(current);
+}
+
+function render(ex){
+  const pct=Math.round(((state.q-1)/TOTAL)*100);
+  const scenario = ex.scenario?`<div class="scenario">${ex.scenario}</div>`:'';
+  let choicesHTML;
+  if(ex.type==='tf'){
+    choicesHTML=`<div class="tf" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice" onclick="answer(${i})">${c.label}</button>`).join('')}</div>`;
+  }else{
+    choicesHTML=`<div class="choices" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice" onclick="answer(${i})">${c.em?`<span class="em">${c.em}</span>`:''}<span>${c.label}</span></button>`).join('')}</div>`;
+  }
+  app.innerHTML=`
+   <div class="trail">
+     <span class="lab">🧱 Ladrillo ${state.q}/${TOTAL}</span>
+     <div class="track"><div class="fill" style="width:${pct}%"></div><span class="walker" style="left:${pct}%">👷</span></div>
+     <span class="lab">${state.streak>1?'🔥 x'+state.streak:''}</span>
+   </div>
+   <div class="panel">
+     <div class="tab">${ex.tag}</div>
+     <div class="qtag" style="margin-top:8px">Orden de trabajo</div>
+     <div class="prompt">${ex.prompt}</div>
+     ${scenario}
+     <p class="hintline">💡 <span>${ex.hint||''}</span></p>
+     ${choicesHTML}
+     <div class="fb" id="fb"></div>
+   </div>`;
+}
+
+function reward(ok){
+  if(ok){
+    state.streak++;state.correct++;
+    if(state.streak>state.best)state.best=state.streak;
+    const bonus=state.streak>=3?10:state.streak>=2?5:0;
+    state.score+=10+bonus;
+    burst(state.streak>=3?40:24);
+    if(state.streak===3) popBadge('🔥 ¡Racha de 3!<br>+10 bonus');
+    else if(state.streak>=5) popBadge('🌟 ¡Imparable! x'+state.streak);
+  }else{
+    state.streak=0;state.lives--;
+  }
+  syncHud();
+}
+
+function answer(i){
+  const ex=current;
+  const ok=ex.choices[i].ok;
+  document.querySelectorAll('#choices .choice').forEach((b,bi)=>{
+    b.disabled=true;
+    if(ex.choices[bi].ok) b.classList.add('correct');
+    else if(bi===i) b.classList.add('wrong');
+    else b.classList.add('dim');
+  });
+  if(ok) state.topics.add(ex.topic);
+  reward(ok);
+  const fb=document.getElementById('fb');
+  fb.className='fb show '+(ok?'ok':'no');
+  const face=ok?pick(['🧱','👷','🏗️','😄','🤩','🛠️']):pick(['🪨','😅','🤔','📐']);
+  const last=(state.q>=TOTAL||state.lives<=0);
+  fb.innerHTML=`<span class="face">${face}</span>
+    <span class="txt">${ok?pick(OKMSG):pick(NOMSG)}<span class="ex">📘 ${ex.explain}</span></span>
+    <button class="next" onclick="loadNext()">${last?'🏁 Resultado':'Seguir →'}</button>`;
+  fb.scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+const TOPIC_BADGE={
+  'Núcleo':'🎯 Buscador de núcleos',
+  'Modificador directo':'🟩 Experto en md',
+  'Modificador indirecto':'🟧 Experto en mi',
+  'Análisis':'🔎 Analista de frases',
+  'Construir':'🔨 Maestro constructor',
+};
+function showWin(){
+  const won=state.lives>0;
+  const acc=Math.round((state.correct/TOTAL)*100);
+  const stars= acc>=90?3 : acc>=60?2 : 1;
+  burst(64);
+  const badges=[...state.topics].map(t=>`<div class="bw"><span class="e">${TOPIC_BADGE[t].split(' ')[0]}</span>${TOPIC_BADGE[t].split(' ').slice(1).join(' ')}</div>`).join('');
+  app.innerHTML=`
+   <div class="panel win">
+     <div class="tab">🏁 Fin de la obra</div>
+     <div class="medal" style="margin-top:10px">${won?(stars===3?'🏆':'🎖️'):'🧰'}</div>
+     <h1 style="font-family:'Baloo 2';color:var(--brick-deep);font-size:2rem;margin:6px 0">
+       ${won?'¡Construcción terminada!':'¡Buen intento, constructor!'}
+     </h1>
+     <p class="sub" style="color:var(--muted)">${won?'Armaste todas las construcciones sustantivas 🏗️':'Se acabaron las vidas, pero aprendiste un montón.'}</p>
+     <div class="starsrow">${'⭐'.repeat(stars)}${'·'.repeat(3-stars)}</div>
+     <div class="hud" style="justify-content:center;margin:6px 0">
+       <div class="chip"><span>🧱</span><b>${state.score}</b> pts</div>
+       <div class="chip"><span>✅</span><b>${state.correct}/${TOTAL}</b></div>
+       <div class="chip"><span>🔥</span><b>${state.best}</b> racha</div>
+     </div>
+     <p class="small" style="margin-top:6px">Precisión: ${acc}%</p>
+     ${badges?`<p class="small" style="margin-top:14px">🏅 Insignias ganadas:</p><div class="badges-won">${badges}</div>`:''}
+     <div class="row-btns">
+       <button class="play" onclick="startGame()">🔄 Nueva obra</button>
+       <button class="ghost" onclick="showLearn()">📖 Repasar el tema</button>
+     </div>
+   </div>`;
+}
+
+showStart();
+</script>
+</body>
+</html>
