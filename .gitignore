@@ -1,0 +1,8 @@
+# Imágenes fuente del manual y archivos de trabajo de los juegos de Bruno
+bruno/tmp/
+
+# Temporales del sistema
+.DS_Store
+Thumbs.db
+*~
+*.swp
