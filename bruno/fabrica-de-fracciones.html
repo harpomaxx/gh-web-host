@@ -1,0 +1,1080 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fábrica de Fracciones · Matemática</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Baloo+2:wght@600;700;800&family=Caveat:wght@600;700&display=swap');
+
+  :root{
+    --tomato:#e0472f;
+    --tomato-deep:#a82f1c;
+    --crust:#e8a33d;
+    --crust-deep:#b9761d;
+    --dough:#f7dfb2;
+    --cream:#fff4e2;
+    --paper:#fffdf7;
+    --oven:#7a4a2c;
+    --oven-deep:#54301a;
+    --propia:#2e8b57;
+    --propia-deep:#1f6b41;
+    --impropia:#3557c7;
+    --impropia-deep:#243b8f;
+    --aparente:#9b4bce;
+    --aparente-deep:#6d2f96;
+    --ink:#2b2320;
+    --muted:#7b6f66;
+    --ok:#3ca35a;
+    --ok-deep:#2b8044;
+    --no:#e25563;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'Fredoka',system-ui,sans-serif;color:var(--ink);min-height:100vh;overflow-x:hidden;
+    -webkit-tap-highlight-color:transparent;
+    background:
+      radial-gradient(circle at 84% 8%, rgba(255,205,110,.5), transparent 38%),
+      radial-gradient(circle at 12% 88%, rgba(224,71,47,.20), transparent 44%),
+      linear-gradient(170deg,#fff0d4 0%,#fbd7a8 48%,#eeb079 100%);
+  }
+  /* escenario: porciones cayendo */
+  .scene{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+  .bit-f{position:absolute;font-size:1.2rem;opacity:.38;animation:fall linear infinite}
+  @keyframes fall{0%{transform:translateY(-12vh) rotate(0)}100%{transform:translateY(112vh) rotate(340deg)}}
+  .hill{position:absolute;bottom:0;width:100%}
+
+  .wrap{position:relative;z-index:2;max-width:760px;margin:0 auto;padding:18px 16px 64px}
+
+  /* HEADER */
+  header{display:flex;align-items:center;gap:12px;background:var(--paper);
+    border:3px solid var(--oven);border-radius:22px;padding:11px 16px;
+    box-shadow:0 7px 0 rgba(84,48,26,.3);margin-bottom:16px}
+  .brand{font-family:'Baloo 2';font-weight:800;font-size:1.2rem;color:var(--tomato-deep);display:flex;align-items:center;gap:8px}
+  .brand .bug{font-size:1.55rem;filter:drop-shadow(0 2px 0 rgba(0,0,0,.12))}
+  .hud{margin-left:auto;display:flex;gap:9px;flex-wrap:wrap}
+  .chip{background:var(--cream);border:2.5px solid var(--oven);border-radius:13px;padding:5px 11px;
+    font-weight:600;display:flex;align-items:center;gap:5px;font-size:.92rem;box-shadow:0 3px 0 rgba(84,48,26,.25)}
+  .chip b{font-family:'Baloo 2';font-size:1.05rem}
+
+  /* PANEL */
+  .panel{background:var(--paper);border:3.5px solid var(--oven);border-radius:26px;
+    box-shadow:0 11px 0 rgba(84,48,26,.28);padding:24px 20px;position:relative;
+    animation:grow .42s cubic-bezier(.2,1.4,.4,1) both}
+  @keyframes grow{from{opacity:0;transform:scale(.93) translateY(14px)}to{opacity:1;transform:scale(1) translateY(0)}}
+
+  .tab{position:absolute;top:-16px;left:24px;background:var(--tomato);color:#fff;font-family:'Baloo 2';font-weight:700;
+    padding:6px 16px;border-radius:14px;border:3px solid var(--oven);box-shadow:0 4px 0 rgba(84,48,26,.3);
+    font-size:.92rem;display:flex;align-items:center;gap:7px}
+
+  /* START */
+  .hero{text-align:center}
+  .hero .explorer{font-size:4.4rem;animation:bob 2.6s infinite ease-in-out;filter:drop-shadow(0 4px 0 rgba(0,0,0,.1))}
+  @keyframes bob{0%,100%{transform:translateY(0) rotate(-3deg)}50%{transform:translateY(-11px) rotate(3deg)}}
+  .hero h1{font-family:'Baloo 2';font-weight:800;font-size:2.05rem;color:var(--tomato-deep);margin:6px 0 2px;line-height:1.05}
+  .hero .sub{color:var(--muted);font-size:1.1rem;margin-bottom:16px}
+  .biomes{display:grid;grid-template-columns:1fr 1fr 1fr;gap:9px;max-width:520px;margin:0 auto 18px}
+  @media(max-width:520px){.biomes{grid-template-columns:1fr 1fr}}
+  .biome{background:var(--cream);border:2.5px solid var(--oven);border-radius:14px;padding:9px 8px;font-weight:500;
+    font-size:.85rem;display:flex;flex-direction:column;align-items:center;gap:3px;box-shadow:0 3px 0 rgba(84,48,26,.22);text-align:center}
+  .biome .e{font-size:1.5rem}
+
+  .play{font-family:'Baloo 2';font-weight:800;font-size:1.45rem;color:#fff;
+    background:linear-gradient(180deg,var(--crust),var(--tomato));border:3.5px solid var(--oven);border-radius:20px;
+    padding:15px 40px;cursor:pointer;box-shadow:0 8px 0 rgba(84,48,26,.32);transition:transform .1s}
+  .play:active{transform:translateY(5px);box-shadow:0 3px 0 rgba(84,48,26,.32)}
+  .ghost{font-family:'Fredoka';font-weight:600;font-size:1rem;color:var(--tomato-deep);background:var(--cream);
+    border:2.5px solid var(--tomato);border-radius:16px;padding:12px 22px;cursor:pointer;margin-top:10px;
+    box-shadow:0 4px 0 rgba(84,48,26,.22)}
+  .ghost:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(84,48,26,.22)}
+
+  /* progress trail */
+  .trail{display:flex;align-items:center;gap:10px;margin-bottom:14px;background:var(--paper);
+    border:3px solid var(--oven);border-radius:16px;padding:9px 13px;box-shadow:0 5px 0 rgba(84,48,26,.25)}
+  .trail .lab{font-weight:600;font-size:.88rem;color:var(--muted);white-space:nowrap}
+  .trail .track{flex:1;height:15px;background:var(--dough);border-radius:9px;overflow:hidden;border:2px solid var(--oven);position:relative}
+  .trail .fill{height:100%;width:0;background:linear-gradient(90deg,var(--crust),var(--tomato));transition:width .5s cubic-bezier(.3,1.4,.5,1)}
+  .trail .walker{position:absolute;top:50%;transform:translate(-50%,-50%);font-size:.95rem;transition:left .5s cubic-bezier(.3,1.4,.5,1)}
+
+  /* QUESTION */
+  .qtag{font-family:'Caveat';font-weight:700;font-size:1.25rem;color:var(--tomato);margin-bottom:4px}
+  .prompt{font-size:1.3rem;line-height:1.45;font-weight:500;margin-bottom:6px}
+  .prompt b{color:var(--tomato-deep)}
+  .scenario{background:var(--cream);border-left:5px solid var(--crust);border-radius:0 12px 12px 0;
+    padding:11px 14px;font-size:1.12rem;margin:10px 0 4px;color:#4a3d34}
+  .hintline{font-size:.96rem;color:var(--muted);margin:8px 0 16px;display:flex;align-items:flex-start;gap:6px}
+
+  /* ===== FIGURAS DE FRACCIONES ===== */
+  .figs{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:14px;margin:6px 0 2px}
+  .fig{filter:drop-shadow(0 3px 0 rgba(84,48,26,.2))}
+  .fig .bgp{fill:#fff}
+  .fig .onp{fill:var(--tomato)}
+  .fig .edge{stroke:var(--oven);stroke-width:3;fill:none}
+  .fig .cut{stroke:var(--oven);stroke-width:2;opacity:.85}
+
+  /* fracción escrita */
+  .frac{display:inline-flex;flex-direction:column;align-items:center;vertical-align:middle;
+    font-family:'Baloo 2';font-weight:800;line-height:1.05;margin:0 3px}
+  .frac .num{padding:0 5px}
+  .frac .den{padding:0 5px;border-top:3px solid currentColor}
+  .frac.big{font-size:1.9rem;color:var(--tomato-deep)}
+  .frac.mid{font-size:1.4rem;color:var(--tomato-deep)}
+  .frac.sm{font-size:1.05rem}
+
+  /* recta numérica */
+  .lineNum{margin:10px auto 2px;display:block;max-width:100%}
+  .lineNum .axis{stroke:var(--oven);stroke-width:3}
+  .lineNum .tick{stroke:var(--oven);stroke-width:2}
+  .lineNum .lbl{font-family:'Baloo 2';font-weight:700;font-size:15px;fill:var(--oven-deep);text-anchor:middle}
+  .lineNum .dot{fill:var(--tomato);stroke:var(--oven);stroke-width:2.5}
+  .lineNum .qm{font-family:'Baloo 2';font-weight:800;font-size:20px;fill:var(--tomato-deep);text-anchor:middle}
+
+  .choices{display:grid;gap:11px}
+  .choice{font-family:'Fredoka';font-size:1.12rem;font-weight:500;background:#fff;border:3px solid var(--oven);
+    border-radius:16px;padding:14px 15px;cursor:pointer;text-align:left;box-shadow:0 5px 0 rgba(84,48,26,.22);
+    transition:transform .08s,background .15s;display:flex;align-items:center;gap:11px;color:var(--ink)}
+  .choice .em{font-size:1.35rem;flex-shrink:0}
+  .choice:hover:not(:disabled){background:var(--cream);transform:translateY(-2px)}
+  .choice:active:not(:disabled){transform:translateY(2px);box-shadow:0 2px 0 rgba(84,48,26,.22)}
+  .choice:disabled{cursor:default}
+  .choice.correct{background:linear-gradient(180deg,var(--ok),var(--ok-deep));color:#fff;border-color:var(--ok-deep);animation:cheer .5s}
+  .choice.wrong{background:linear-gradient(180deg,var(--no),#bf3c49);color:#fff;animation:shake .4s}
+  .choice.dim{opacity:.4}
+  .choice.correct .frac,.choice.wrong .frac{color:#fff}
+  @keyframes cheer{0%,100%{transform:scale(1)}40%{transform:scale(1.05)}}
+  @keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-7px)}75%{transform:translateX(7px)}}
+
+  .tf{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .tf .choice{justify-content:center;font-family:'Baloo 2';font-weight:800;font-size:1.35rem}
+  /* opciones cortas (fracciones, números): en grilla */
+  .short{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:11px}
+  .short .choice{justify-content:center;text-align:center;flex-direction:column;gap:4px;padding:12px 8px}
+
+  /* feedback */
+  .fb{margin-top:18px;border-radius:16px;padding:14px 16px;font-weight:600;font-size:1.04rem;display:none;
+    align-items:flex-start;gap:12px;border:3px solid var(--oven);animation:grow .35s both}
+  .fb.show{display:flex}
+  .fb.ok{background:#e4f7e7;border-color:var(--ok-deep)}
+  .fb.no{background:#fde6e8;border-color:#bf3c49}
+  .fb .face{font-size:1.9rem;line-height:1}
+  .fb .txt{flex:1}
+  .fb .txt .ex{display:block;margin-top:5px;font-weight:500;font-size:.96rem;color:#5a4d44}
+  .fb .next{font-family:'Baloo 2';font-weight:800;font-size:1.02rem;color:#fff;background:var(--tomato);
+    border:3px solid var(--oven);border-radius:14px;padding:10px 18px;cursor:pointer;box-shadow:0 4px 0 rgba(84,48,26,.3);
+    transition:transform .08s;white-space:nowrap}
+  .fb .next:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(84,48,26,.3)}
+
+  .badge-pop{position:fixed;top:26%;left:50%;transform:translateX(-50%);z-index:60;pointer-events:none;
+    background:var(--dough);border:4px solid var(--oven);border-radius:20px;padding:14px 22px;font-family:'Baloo 2';
+    font-weight:800;font-size:1.3rem;color:var(--oven-deep);box-shadow:0 8px 0 rgba(84,48,26,.4);opacity:0;text-align:center}
+
+  /* WIN */
+  .win{text-align:center}
+  .win .medal{font-size:5rem;animation:bob 2.2s infinite ease-in-out}
+  .starsrow{font-size:2.3rem;letter-spacing:6px;margin:10px 0}
+  .row-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center;margin-top:14px}
+  .badges-won{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:14px 0}
+  .bw{background:var(--cream);border:2.5px solid var(--oven);border-radius:12px;padding:7px 11px;font-size:.85rem;font-weight:600;
+    display:flex;align-items:center;gap:5px;box-shadow:0 3px 0 rgba(84,48,26,.22)}
+  .bw .e{font-size:1.2rem}
+
+  .conf{position:fixed;top:-12px;width:11px;height:17px;z-index:55;pointer-events:none;border-radius:2px}
+  .small{color:var(--muted);font-size:.9rem}
+  .back{display:inline-block;margin-top:18px;color:var(--oven-deep);font-weight:600;text-decoration:none;
+    background:rgba(255,253,247,.85);border:2.5px solid var(--oven);border-radius:14px;padding:8px 14px;
+    box-shadow:0 4px 0 rgba(84,48,26,.22)}
+  .center{text-align:center}
+
+  /* ===== SALA DE ESTUDIO ===== */
+  .learn{text-align:left}
+  .learn h2{font-family:'Baloo 2';font-size:1.5rem;color:var(--tomato-deep);margin:20px 0 8px;line-height:1.1}
+  .learn h2:first-of-type{margin-top:6px}
+  .learn p{font-size:1.08rem;line-height:1.5;margin-bottom:10px}
+  .learn ul{margin:0 0 12px 20px}
+  .learn li{font-size:1.05rem;line-height:1.5;margin-bottom:5px}
+  .box{border:3px solid var(--oven);border-radius:18px;padding:14px 16px;margin:12px 0;background:var(--cream);
+    box-shadow:0 5px 0 rgba(84,48,26,.2)}
+  .box.green{border-color:var(--propia);background:#e8f6ec}
+  .box.blue{border-color:var(--impropia);background:#e8eefc}
+  .box.violet{border-color:var(--aparente);background:#f3e9fb}
+  .box .bt{font-family:'Baloo 2';font-weight:800;font-size:1.12rem;margin-bottom:6px;display:flex;align-items:center;gap:7px}
+  .box.green .bt{color:var(--propia-deep)} .box.blue .bt{color:var(--impropia-deep)} .box.violet .bt{color:var(--aparente-deep)}
+  .keyword{background:var(--dough);border-radius:6px;padding:1px 5px;font-weight:600}
+  .namerow{display:flex;flex-wrap:wrap;gap:7px;margin-top:8px}
+  .namerow span{background:#fff;border:2.5px solid var(--crust);border-radius:12px;padding:5px 10px;font-weight:600;font-size:.95rem;color:var(--crust-deep)}
+  .cmp{display:flex;align-items:center;justify-content:center;gap:14px;flex-wrap:wrap;margin:8px 0}
+  .cmp .sign{font-family:'Baloo 2';font-weight:800;font-size:1.8rem;color:var(--tomato-deep)}
+  .tagP{color:var(--propia-deep);font-weight:700}
+  .tagI{color:var(--impropia-deep);font-weight:700}
+  .tagA{color:var(--aparente-deep);font-weight:700}
+</style>
+</head>
+<body>
+<div class="scene" id="scene"></div>
+<div class="wrap">
+  <header>
+    <div class="brand"><span class="bug">🍕</span> Fábrica de Fracciones</div>
+    <div class="hud">
+      <div class="chip"><span>🍕</span><b id="hScore">0</b></div>
+      <div class="chip"><span>🔥</span><b id="hStreak">0</b></div>
+      <div class="chip"><span>❤️</span><b id="hLives">3</b></div>
+    </div>
+  </header>
+  <div id="app"></div>
+  <div class="center"><a class="back" href="index.html">⬅ Volver a los juegos</a></div>
+</div>
+<div class="badge-pop" id="badgePop"></div>
+
+<script>
+/* =====================================================
+   FÁBRICA DE FRACCIONES — Matemática (4° grado)
+   Fracciones: partes, lectura, representación gráfica,
+   recta numérica, clasificación (propia / impropia /
+   aparente) y comparación.
+   Contenido de la carpeta de clase (Mendoza · Santillana)
+   ===================================================== */
+const app=document.getElementById('app');
+const hud={score:document.getElementById('hScore'),streak:document.getElementById('hStreak'),lives:document.getElementById('hLives')};
+const badgePop=document.getElementById('badgePop');
+
+const rnd=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+const pick=a=>a[rnd(0,a.length-1)];
+const shuffle=a=>{const r=[...a];for(let i=r.length-1;i>0;i--){const j=rnd(0,i);[r[i],r[j]]=[r[j],r[i]];}return r;};
+const sample=(a,n)=>shuffle(a).slice(0,n);
+const others=(a,excl)=>a.filter(x=>!(Array.isArray(excl)?excl:[excl]).includes(x));
+const gcd=(a,b)=>b?gcd(b,a%b):a;
+
+/* ---- helpers de distractores ----
+   Los generadores proponen distractores "a mano" y a veces se repiten entre sí
+   o coinciden con la respuesta correcta. Estos helpers los filtran y, si faltan,
+   los completan con un generador de reserva. Así nunca hay opciones repetidas. */
+
+/* pares [n,d] únicos y distintos del correcto; completa con `reserva()` si faltan */
+function distFrac(buena,candidatos,reserva,cuantos=3){
+  const vistos=new Set([buena.join('/')]);
+  const out=[];
+  const meter=([a,b])=>{
+    if(!(a>0&&b>1)) return;
+    const k=a+'/'+b;
+    if(vistos.has(k)) return;
+    vistos.add(k); out.push([a,b]);
+  };
+  candidatos.forEach(meter);
+  let guarda=0;
+  while(out.length<cuantos && guarda++<80) meter(reserva());
+  return out.slice(0,cuantos);
+}
+/* números únicos y distintos del correcto */
+function distNum(bueno,candidatos,reserva,cuantos=3){
+  const vistos=new Set([bueno]);
+  const out=[];
+  const meter=x=>{ if(!(x>0)||vistos.has(x)) return; vistos.add(x); out.push(x); };
+  candidatos.forEach(meter);
+  let guarda=0;
+  while(out.length<cuantos && guarda++<80) meter(reserva());
+  return out.slice(0,cuantos);
+}
+
+const TOTAL=10;
+const state={score:0,streak:0,best:0,lives:3,q:0,correct:0,topics:new Set()};
+
+/* ---------- escenario ---------- */
+(function(){const s=document.getElementById('scene');
+  const bits=['🍕','🍰','🍫','🥧','🧀'];
+  for(let i=0;i<9;i++){const d=document.createElement('div');d.className='bit-f';
+    d.textContent=pick(bits);d.style.left=Math.random()*100+'vw';
+    d.style.animationDuration=(9+Math.random()*10)+'s';d.style.animationDelay=Math.random()*9+'s';
+    d.style.fontSize=(.9+Math.random())+'rem';s.appendChild(d);}
+  s.insertAdjacentHTML('beforeend',`
+   <svg class="hill" viewBox="0 0 1440 200" preserveAspectRatio="none" style="height:140px">
+     <path d="M0,150 L1440,150 L1440,200 L0,200 Z" fill="#d79a5c" opacity=".45"/>
+     <path d="M0,172 L1440,172 L1440,200 L0,200 Z" fill="#b9761d" opacity=".75"/>
+   </svg>`);
+})();
+
+function burst(n=26){const cols=['#e0472f','#e8a33d','#2e8b57','#ffd166','#9b4bce','#3557c7'];
+  for(let i=0;i<n;i++){const c=document.createElement('div');c.className='conf';
+    c.style.left=Math.random()*100+'vw';c.style.background=pick(cols);document.body.appendChild(c);
+    c.animate([{top:'-12px',opacity:1},{top:'104vh',opacity:.9,transform:`translateX(${(Math.random()-.5)*240}px) rotate(${Math.random()*720}deg)`}],
+      {duration:1100+Math.random()*800,easing:'cubic-bezier(.2,.6,.5,1)'}).onfinish=()=>c.remove();}
+}
+function popBadge(txt){
+  badgePop.innerHTML=txt;
+  badgePop.animate([{opacity:0,transform:'translateX(-50%) scale(.6)'},
+    {opacity:1,transform:'translateX(-50%) scale(1.08)',offset:.3},
+    {opacity:1,transform:'translateX(-50%) scale(1)',offset:.7},
+    {opacity:0,transform:'translateX(-50%) scale(1) translateY(-26px)'}],{duration:1400,easing:'ease-out'});
+}
+function syncHud(){hud.score.textContent=state.score;hud.streak.textContent=state.streak;hud.lives.textContent=state.lives;}
+
+/* =====================================================
+   INGREDIENTES (vocabulario y datos)
+   ===================================================== */
+
+/* nombres de los denominadores, como los pide el manual */
+const NOMBRE_DEN={
+  2:['medio','medios'], 3:['tercio','tercios'], 4:['cuarto','cuartos'],
+  5:['quinto','quintos'], 6:['sexto','sextos'], 7:['séptimo','séptimos'],
+  8:['octavo','octavos'], 9:['noveno','novenos'], 10:['décimo','décimos'],
+  11:['onceavo','onceavos'], 12:['doceavos','doceavos'], 13:['treceavo','treceavos'],
+  14:['catorceavo','catorceavos'], 15:['quinceavo','quinceavos'], 16:['dieciseisavo','dieciseisavos'],
+  20:['veinteavo','veinteavos'],
+};
+const NUM_PAL=['cero','un','dos','tres','cuatro','cinco','seis','siete','ocho','nueve','diez',
+  'once','doce','trece','catorce','quince','dieciséis','diecisiete','dieciocho','diecinueve','veinte'];
+
+/* nombre completo de la fracción: 3/4 -> "tres cuartos" */
+function leerFrac(n,d){
+  const [sing,plu]=NOMBRE_DEN[d]||[d+'avo',d+'avos'];
+  const pal=NUM_PAL[n]||String(n);
+  if(d===2 && n===1) return 'un medio';
+  return `${pal} ${n===1?sing:plu}`;
+}
+
+/* comidas que se cortan en porciones (para los problemas) */
+const COMIDAS=[
+  {p:'pizza',    g:'f', em:'🍕', porc:'porciones'},
+  {p:'torta',    g:'f', em:'🎂', porc:'porciones'},
+  {p:'chocolate',g:'m', em:'🍫', porc:'partes'},
+  {p:'tarta',    g:'f', em:'🥧', porc:'porciones'},
+  {p:'budín',    g:'m', em:'🍞', porc:'porciones'},
+  {p:'alfajor',  g:'m', em:'🍪', porc:'partes'},
+  {p:'sandía',   g:'f', em:'🍉', porc:'porciones'},
+  {p:'queso',    g:'m', em:'🧀', porc:'partes'},
+];
+const CHICOS=['Bruno','Lucía','Marcos','Julieta','Renato','Manuel','Pedro','Juana','Micaela','Macarena','Jorgelina','Carlos','Nazareno'];
+
+/* cosas que se pintan / riegan / recorren (problemas de "cuánto falta") */
+const TAREAS=[
+  {v:'pintó',   n:'la pared',    falta:'pintar',  em:'🎨'},
+  {v:'regó',    n:'el jardín',   falta:'regar',   em:'🌱'},
+  {v:'recorrió',n:'el circuito', falta:'recorrer',em:'🏃'},
+  {v:'leyó',    n:'el libro',    falta:'leer',    em:'📖'},
+  {v:'usó',     n:'el azúcar',   falta:'usar',    em:'🥄'},
+  {v:'sembró',  n:'el terreno',  falta:'sembrar', em:'🌾'},
+];
+
+const EM={frac:'🍕',prop:'🟢',impr:'🔵',apar:'🟣',num:'🔢',den:'🍰',rec:'📏',cmp:'⚖️',lee:'🗣️'};
+
+/* =====================================================
+   DIBUJO DE FIGURAS
+   ===================================================== */
+
+/* círculo cortado en d porciones, con n pintadas */
+function figCirculo(d,n,size=96){
+  const r=size/2-4, cx=size/2, cy=size/2;
+  let s=`<svg class="fig" width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">`;
+  s+=`<circle cx="${cx}" cy="${cy}" r="${r}" class="bgp"/>`;
+  for(let i=0;i<d;i++){
+    const a0=(i/d)*2*Math.PI-Math.PI/2, a1=((i+1)/d)*2*Math.PI-Math.PI/2;
+    const x0=cx+r*Math.cos(a0), y0=cy+r*Math.sin(a0);
+    const x1=cx+r*Math.cos(a1), y1=cy+r*Math.sin(a1);
+    const big=(a1-a0)>Math.PI?1:0;
+    if(i<n){
+      if(d===1) s+=`<circle cx="${cx}" cy="${cy}" r="${r}" class="onp"/>`;
+      else s+=`<path class="onp" d="M${cx},${cy} L${x0.toFixed(1)},${y0.toFixed(1)} A${r},${r} 0 ${big} 1 ${x1.toFixed(1)},${y1.toFixed(1)} Z"/>`;
+    }
+    if(d>1) s+=`<line class="cut" x1="${cx}" y1="${cy}" x2="${x0.toFixed(1)}" y2="${y0.toFixed(1)}"/>`;
+  }
+  s+=`<circle cx="${cx}" cy="${cy}" r="${r}" class="edge"/></svg>`;
+  return s;
+}
+
+/* barra rectangular cortada en d partes, con n pintadas */
+function figBarra(d,n,w=150,h=44){
+  const paso=w/d;
+  let s=`<svg class="fig" width="${w+6}" height="${h+6}" viewBox="0 0 ${w+6} ${h+6}">`;
+  s+=`<rect x="3" y="3" width="${w}" height="${h}" class="bgp"/>`;
+  for(let i=0;i<d;i++){
+    if(i<n) s+=`<rect class="onp" x="${(3+i*paso).toFixed(1)}" y="3" width="${paso.toFixed(1)}" height="${h}"/>`;
+    if(i>0) s+=`<line class="cut" x1="${(3+i*paso).toFixed(1)}" y1="3" x2="${(3+i*paso).toFixed(1)}" y2="${3+h}"/>`;
+  }
+  s+=`<rect x="3" y="3" width="${w}" height="${h}" class="edge"/></svg>`;
+  return s;
+}
+
+/* dibuja n/d con varias unidades enteras si hace falta (impropias) */
+function figuras(n,d,forma){
+  const f=forma||pick(['circulo','barra']);
+  const unidades=Math.max(1,Math.ceil(n/d));
+  let quedan=n, out='';
+  for(let u=0;u<unidades;u++){
+    const pint=Math.min(d,quedan); quedan-=pint;
+    out += f==='circulo' ? figCirculo(d,pint,unidades>2?76:96)
+                         : figBarra(d,pint,unidades>2?110:150,unidades>2?36:44);
+  }
+  return `<div class="figs">${out}</div>`;
+}
+
+/* fracción escrita como HTML */
+function frac(n,d,cls='mid'){
+  return `<span class="frac ${cls}"><span class="num">${n}</span><span class="den">${d}</span></span>`;
+}
+
+/* recta numérica de 0 a 1 partida en d, con un punto en n (o un ? en n) */
+function recta(d,n,{incognita=false,w=320}={}){
+  const x0=34, x1=w-24, y=44, paso=(x1-x0)/d;
+  let s=`<svg class="lineNum" width="${w}" height="76" viewBox="0 0 ${w} 76">`;
+  s+=`<line class="axis" x1="14" y1="${y}" x2="${w-8}" y2="${y}"/>`;
+  s+=`<polygon points="${w-8},${y} ${w-18},${y-5} ${w-18},${y+5}" fill="var(--oven)"/>`;
+  for(let i=0;i<=d;i++){
+    const x=x0+i*paso;
+    s+=`<line class="tick" x1="${x.toFixed(1)}" y1="${y-9}" x2="${x.toFixed(1)}" y2="${y+9}"/>`;
+    if(i===0) s+=`<text class="lbl" x="${x.toFixed(1)}" y="${y+27}">0</text>`;
+    if(i===d) s+=`<text class="lbl" x="${x.toFixed(1)}" y="${y+27}">1</text>`;
+  }
+  const xp=x0+n*paso;
+  if(incognita) s+=`<text class="qm" x="${xp.toFixed(1)}" y="${y-16}">?</text>`;
+  else{ s+=`<circle class="dot" cx="${xp.toFixed(1)}" cy="${y}" r="7"/>`; }
+  s+=`</svg>`;
+  return s;
+}
+
+/* clasificación de una fracción, tal como la enseña el manual */
+function clase(n,d){
+  if(n%d===0) return 'aparente';
+  return n<d?'propia':'impropia';
+}
+const CLASE_INFO={
+  propia:  {lab:'Propia',   em:'🟢', why:'el numerador es <b>menor</b> que el denominador, así que vale <b>menos que 1</b>'},
+  impropia:{lab:'Impropia', em:'🔵', why:'el numerador es <b>mayor</b> que el denominador, así que vale <b>más que 1</b>'},
+  aparente:{lab:'Aparente', em:'🟣', why:'el numerador es <b>múltiplo exacto</b> del denominador, así que da un <b>número entero</b>'},
+};
+
+/* denominadores que usamos (los del manual) */
+const DENS=[2,3,4,5,6,7,8,9,10,12];
+const DENS_CHICOS=[2,3,4,5,6,8];
+
+/* =====================================================
+   GENERADORES
+   ===================================================== */
+
+/* ---------- TEMA 1 · Partes de la fracción ---------- */
+function genPartes(){
+  const modo=pick(['cual_den','cual_num','nombre_rol','tf']);
+  const d=pick(DENS), n=rnd(1,d-1);
+
+  if(modo==='cual_den'){
+    const malas=distNum(d,others(sample(DENS,4),d),()=>pick(DENS)).map(x=>({label:String(x),ok:false,em:EM.num}));
+    return {topic:'Partes',tag:'🍰 Partes de la fracción',
+      prompt:`En la fracción ${frac(n,d,'big')}, ¿cuál es el <b>denominador</b>?`,
+      hint:'El denominador es el número de <b>abajo</b>: dice en cuántas partes iguales se cortó la unidad.',
+      choices:shuffle([{label:String(d),ok:true,em:EM.den},...malas]),
+      explain:`El denominador es <b>${d}</b>. Está abajo y dice que la unidad se cortó en ${d} partes iguales.`};
+  }
+  if(modo==='cual_num'){
+    const malas=distNum(n,others(sample([...DENS,n+1,n+2],5),n),()=>rnd(1,12)).map(x=>({label:String(x),ok:false,em:EM.num}));
+    return {topic:'Partes',tag:'🍰 Partes de la fracción',
+      prompt:`En la fracción ${frac(n,d,'big')}, ¿cuál es el <b>numerador</b>?`,
+      hint:'El numerador es el número de <b>arriba</b>: dice cuántas partes se tomaron.',
+      choices:shuffle([{label:String(n),ok:true,em:EM.num},...malas]),
+      explain:`El numerador es <b>${n}</b>. Está arriba y dice que se tomaron ${n} de las ${d} partes.`};
+  }
+  if(modo==='nombre_rol'){
+    const preguntaDen=Math.random()<.5;
+    const opciones=[
+      {label:'El denominador (el de abajo)',ok:preguntaDen,em:EM.den},
+      {label:'El numerador (el de arriba)',ok:!preguntaDen,em:EM.num},
+      {label:'Los dos al mismo tiempo',ok:false,em:'🤷'},
+      {label:'Ninguno de los dos',ok:false,em:'🚫'},
+    ];
+    return {topic:'Partes',tag:'🍰 Partes de la fracción',
+      prompt:preguntaDen
+        ?'¿Qué número dice <b>en cuántas partes iguales</b> se dividió la unidad?'
+        :'¿Qué número dice <b>cuántas partes se tomaron</b> de la unidad?',
+      hint:'Acordate: primero se corta (abajo) y después se toma (arriba).',
+      choices:shuffle(opciones),
+      explain:preguntaDen
+        ?'El <b>denominador</b> (abajo) dice en cuántas partes iguales se dividió la unidad.'
+        :'El <b>numerador</b> (arriba) dice cuántas partes se tomaron.'};
+  }
+  /* tf: afirmación sobre las partes */
+  const verdadera=Math.random()<.5;
+  const afirma = verdadera
+    ? `En ${frac(n,d,'mid')} se cortó la unidad en <b>${d}</b> partes iguales y se tomaron <b>${n}</b>.`
+    : `En ${frac(n,d,'mid')} se cortó la unidad en <b>${n}</b> partes iguales y se tomaron <b>${d}</b>.`;
+  return {topic:'Partes',tag:'🍰 ¿Verdadero o falso?',type:'tf',
+    prompt:afirma,
+    hint:'El de abajo corta, el de arriba toma.',
+    choices:[{label:'✅ Verdadero',ok:verdadera},{label:'❌ Falso',ok:!verdadera}],
+    explain:`En ${frac(n,d,'mid')} el denominador <b>${d}</b> corta la unidad en ${d} partes y el numerador <b>${n}</b> toma ${n}.`};
+}
+
+/* ---------- TEMA 2 · Leer y escribir fracciones ---------- */
+function genLectura(){
+  const modo=pick(['a_letras','a_numero','cual_frac']);
+  const d=pick(DENS), n=rnd(1,Math.min(d+2,12));
+
+  if(modo==='a_letras'){
+    /* distractores: cambiar el numerador o el denominador */
+    const dOtro=pick(others(DENS,d));
+    const nOtro=n===1?2:n-1;
+    const buena=leerFrac(n,d);
+    /* dedup por el TEXTO leído: distintos pares pueden leerse igual */
+    const vistos=new Set([buena]);
+    const set=[];
+    const meter=t=>{ if(!vistos.has(t)){ vistos.add(t); set.push(t); } };
+    [leerFrac(n,dOtro),leerFrac(nOtro,d),leerFrac(d>n?d:n, d>n?n:d)].forEach(meter);
+    let guarda=0;
+    while(set.length<3 && guarda++<80){ const b=pick(DENS); meter(leerFrac(rnd(1,b+1),b)); }
+    return {topic:'Lectura',tag:'🗣️ Cómo se lee',
+      prompt:`¿Cómo se lee la fracción ${frac(n,d,'big')}?`,
+      hint:'Primero se dice el numerador y después el nombre del denominador (medios, tercios, cuartos…).',
+      choices:shuffle([{label:buena,ok:true,em:EM.lee},...set.map(m=>({label:m,ok:false,em:EM.lee}))]),
+      explain:`${frac(n,d,'mid')} se lee <b>${buena}</b>.`};
+  }
+  if(modo==='a_numero'){
+    const buena=leerFrac(n,d);
+    const dOtro=pick(others(DENS,d));
+    const nOtro=n===1?n+1:n-1;
+    const set=distFrac([n,d],[[n,dOtro],[nOtro,d],[d,n]],()=>{const b=pick(DENS);return [rnd(1,b-1),b];});
+    return {topic:'Lectura',tag:'🗣️ Escribir la fracción',
+      prompt:`Escribí con números la fracción <b>${buena}</b>.`,
+      hint:'La palabra del final (tercios, cuartos, quintos…) te dice el <b>denominador</b>.',
+      shortChoices:true,
+      choices:shuffle([{label:frac(n,d,'mid'),ok:true},...set.map(([a,b])=>({label:frac(a,b,'mid'),ok:false}))]),
+      explain:`<b>${buena}</b> se escribe ${frac(n,d,'mid')}: el ${NUM_PAL[n]||n} es el numerador y ${NOMBRE_DEN[d]?NOMBRE_DEN[d][1]:d} significa denominador ${d}.`};
+  }
+  /* cual_frac: dada una descripción con palabras, elegir la fracción */
+  const c=pick(COMIDAS);
+  const dd=pick([4,5,6,8,10,12]);
+  const nn=rnd(1,dd-1);
+  const malas=distFrac([nn,dd],[[dd,nn],[nn+1,dd],[nn,dd+1]],()=>{const b=pick(DENS);return [rnd(1,b-1),b];});
+  return {topic:'Lectura',tag:'🗣️ De las palabras al número',
+    prompt:`${c.em} Cortamos ${c.g==='f'?'una':'un'} <b>${c.p}</b> en <b>${dd}</b> ${c.porc} iguales y tomamos <b>${nn}</b>. ¿Qué fracción tomamos?`,
+    hint:'Las partes en las que cortás van <b>abajo</b>; las que tomás van <b>arriba</b>.',
+    shortChoices:true,
+    choices:shuffle([{label:frac(nn,dd,'mid'),ok:true},...malas.map(([a,b])=>({label:frac(a,b,'mid'),ok:false}))]),
+    explain:`Cortamos en ${dd} → denominador <b>${dd}</b>. Tomamos ${nn} → numerador <b>${nn}</b>. Queda ${frac(nn,dd,'mid')} (${leerFrac(nn,dd)}).`};
+}
+
+/* ---------- TEMA 3 · Figura → fracción (y al revés) ---------- */
+function genFigura(){
+  const modo=pick(['fig_a_frac','frac_a_fig','cuenta_den']);
+  const forma=pick(['circulo','barra']);
+
+  if(modo==='fig_a_frac'){
+    const d=pick([3,4,5,6,8,10,12]);
+    const impropia=Math.random()<.35;
+    const n=impropia?rnd(d+1,d*2-1):rnd(1,d-1);
+    /* distractores típicos del error de Bruno: confundir el denominador */
+    const set=distFrac([n,d],[
+      [n,d-1],   // contar mal las partes
+      [n,n+d],   // sumar numerador y denominador
+      [d-n,d],   // contar las que quedaron sin pintar
+      [n+1,d],
+    ],()=>{const b=pick([3,4,5,6,8,10,12]);return [rnd(1,b-1),b];});
+    return {topic:'Gráficos',tag:'🎨 ¿Qué fracción está pintada?',
+      prompt:'Mirá el dibujo. ¿Qué fracción representa la parte <b>pintada</b>?',
+      scenario:figuras(n,d,forma),
+      hint:'Contá <b>todas</b> las partes de una unidad para el denominador, y las pintadas para el numerador.',
+      shortChoices:true,
+      choices:shuffle([{label:frac(n,d,'mid'),ok:true},...set.map(([a,b])=>({label:frac(a,b,'mid'),ok:false}))]),
+      explain:`Cada figura está cortada en <b>${d}</b> partes → denominador ${d}. Hay <b>${n}</b> partes pintadas → numerador ${n}. Es ${frac(n,d,'mid')}${n>d?` (¡por eso hacen falta ${Math.ceil(n/d)} figuras!)`:''}.`};
+  }
+
+  if(modo==='frac_a_fig'){
+    const d=pick([3,4,5,6,8]);
+    const n=rnd(1,d-1);
+    /* opciones: la correcta y figuras con otros valores */
+    const set=distFrac([n,d],[[d-n,d],[n,d+1],[n+1,d]].filter(([a,b])=>a<=b),
+      ()=>{const b=pick([3,4,5,6,8]);return [rnd(1,b-1),b];});
+    return {topic:'Gráficos',tag:'🎨 Elegí el dibujo',
+      prompt:`¿Cuál de estos dibujos representa ${frac(n,d,'big')}?`,
+      hint:'Fijate primero en <b>cuántas partes</b> tiene la figura, y después en cuántas están pintadas.',
+      shortChoices:true,
+      choices:shuffle([
+        {label:(forma==='circulo'?figCirculo(d,n,86):figBarra(d,n,130,40)),ok:true},
+        ...set.map(([a,b])=>({label:(forma==='circulo'?figCirculo(b,a,86):figBarra(b,a,130,40)),ok:false}))
+      ]),
+      explain:`${frac(n,d,'mid')} es la figura cortada en <b>${d}</b> partes con <b>${n}</b> pintadas (${leerFrac(n,d)}).`};
+  }
+
+  /* cuenta_den: sólo contar en cuántas partes está dividida */
+  const d=pick([3,4,5,6,7,8,9,10,12]);
+  const n=rnd(1,d-1);
+  const malas=distNum(d,others(sample([d-1,d+1,d-2,d+2,n],4),d).filter(x=>x>1),()=>rnd(2,13));
+  return {topic:'Gráficos',tag:'🎨 Contá las partes',
+    prompt:'¿Cuál va a ser el <b>denominador</b> de esta figura?',
+    scenario:figuras(n,d,forma),
+    hint:'El denominador se cuenta mirando <b>todas</b> las partes, pintadas y sin pintar.',
+    choices:shuffle([{label:String(d),ok:true,em:EM.den},...malas.map(x=>({label:String(x),ok:false,em:EM.num}))]),
+    explain:`La figura está cortada en <b>${d}</b> partes iguales, así que el denominador es ${d}. Se cuentan todas, no sólo las pintadas.`};
+}
+
+/* ---------- TEMA 4 · Clasificar: propia / impropia / aparente ---------- */
+function genClasificar(){
+  const modo=pick(['cual_clase','elegi_ejemplo','tf_apar','entero']);
+
+  if(modo==='cual_clase'){
+    /* elegimos a propósito casos que confunden: 4/8, 2/4 (propias que se simplifican) */
+    const tipo=pick(['propia','impropia','aparente','trampa']);
+    let n,d;
+    if(tipo==='aparente'){ d=pick([2,3,4,5,6]); n=d*rnd(1,3); }
+    else if(tipo==='impropia'){ d=pick([3,4,5,6,8]); n=rnd(d+1,d*2-1); }
+    else if(tipo==='trampa'){ /* propia pero simplificable: 4/8, 2/4, 3/6 ... */
+      d=pick([4,6,8,10,12]); n=d/2; }
+    else { d=pick([3,4,5,6,8,10]); n=rnd(1,d-1); }
+    const cl=clase(n,d);
+    const info=CLASE_INFO[cl];
+    const extra = (tipo==='trampa')
+      ? ` Ojo: ${frac(n,d,'sm')} se puede simplificar a ${frac(1,2,'sm')}, pero eso <b>no</b> la hace aparente: sigue valiendo menos que 1.`
+      : '';
+    return {topic:'Clasificar',tag:'🏷️ ¿Qué tipo de fracción es?',
+      prompt:`¿Cómo se clasifica la fracción ${frac(n,d,'big')}?`,
+      hint:'Compará el numerador con el denominador: ¿es menor, mayor, o justo un múltiplo exacto?',
+      choices:shuffle([
+        {label:'Propia (vale menos que 1)',ok:cl==='propia',em:EM.prop},
+        {label:'Impropia (vale más que 1)',ok:cl==='impropia',em:EM.impr},
+        {label:'Aparente (da un número entero)',ok:cl==='aparente',em:EM.apar},
+      ]),
+      explain:`${frac(n,d,'mid')} es <b>${info.lab.toLowerCase()}</b> porque ${info.why}.${extra}`};
+  }
+
+  if(modo==='elegi_ejemplo'){
+    const buscada=pick(['propia','impropia','aparente']);
+    let buena;
+    if(buscada==='aparente'){ const d=pick([2,3,4,5,6]); buena=[d*rnd(1,3),d]; }
+    else if(buscada==='impropia'){ const d=pick([3,4,5,6,8]); buena=[rnd(d+1,d*2-1),d]; }
+    else { const d=pick([3,4,5,6,8,10]); buena=[rnd(1,d-1),d]; }
+    /* distractores: uno de cada otra clase + una "trampa" simplificable (2/4, 4/8...) */
+    const otras=others(['propia','impropia','aparente'],buscada);
+    const deClase=cl=>{
+      const d=pick([4,5,6,8,10]);
+      if(cl==='aparente') return [d*rnd(1,3),d];
+      if(cl==='impropia') return [rnd(d+1,d*2-1),d];
+      const dd=pick([4,6,8,10,12]);
+      return [dd/2,dd];   /* la trampa: propia pero simplificable */
+    };
+    const limpias=distFrac(buena,otras.map(deClase),()=>deClase(pick(otras)));
+    const info=CLASE_INFO[buscada];
+    return {topic:'Clasificar',tag:'🏷️ Buscá el ejemplo',
+      prompt:`¿Cuál de estas fracciones es <b>${buscada}</b>?`,
+      hint:buscada==='aparente'
+        ?'Aparente = el de arriba es múltiplo justo del de abajo (el resultado da un entero).'
+        :`Recordá: ${info.why}.`,
+      shortChoices:true,
+      choices:shuffle([{label:frac(buena[0],buena[1],'mid'),ok:true},
+        ...limpias.map(([a,b])=>({label:frac(a,b,'mid'),ok:false}))]),
+      explain:`${frac(buena[0],buena[1],'mid')} es <b>${buscada}</b> porque ${info.why}.`};
+  }
+
+  if(modo==='tf_apar'){
+    /* justo el error que aparece en la carpeta: creer que 4/8 es aparente */
+    const trampa=Math.random()<.5;
+    let n,d;
+    if(trampa){ d=pick([4,6,8,10,12]); n=d/2; }          /* propia simplificable */
+    else { d=pick([2,3,4,5,6]); n=d*rnd(1,3); }           /* aparente de verdad */
+    const esApar=(n%d===0);
+    return {topic:'Clasificar',tag:'🏷️ ¿Verdadero o falso?',type:'tf',
+      prompt:`La fracción ${frac(n,d,'big')} es <b>aparente</b>.`,
+      hint:'Aparente sólo si el numerador es múltiplo exacto del denominador (da 1, 2, 3… entero).',
+      choices:[{label:'✅ Verdadero',ok:esApar},{label:'❌ Falso',ok:!esApar}],
+      explain:esApar
+        ?`Sí: ${n} ÷ ${d} = <b>${n/d}</b>, un número entero. Por eso ${frac(n,d,'mid')} es aparente.`
+        :`No: ${n} ÷ ${d} <b>no</b> da un número entero. ${frac(n,d,'mid')} se puede simplificar a ${frac(1,2,'sm')}, pero es <b>propia</b>, porque vale menos que 1.`};
+  }
+
+  /* entero: ¿a qué número entero equivale una aparente? */
+  const d=pick([2,3,4,5,6]);
+  const k=rnd(1,4);
+  const n=d*k;
+  const malas=distNum(k,others([k+1,k-1,k+2,n-d,d],k).filter(x=>x>0),()=>rnd(1,9));
+  return {topic:'Clasificar',tag:'🟣 Fracciones aparentes',
+    prompt:`La fracción ${frac(n,d,'big')} es aparente. ¿A qué <b>número entero</b> equivale?`,
+    hint:'Dividí el numerador por el denominador: si da justo, ese es el entero.',
+    choices:shuffle([{label:String(k),ok:true,em:EM.num},...malas.map(x=>({label:String(x),ok:false,em:EM.num}))]),
+    explain:`${n} ÷ ${d} = <b>${k}</b>. Con ${n} ${NOMBRE_DEN[d][1]} armás ${k} ${k===1?'unidad entera':'unidades enteras'}.`};
+}
+
+/* ---------- TEMA 5 · Recta numérica y cuánto falta ---------- */
+function genRecta(){
+  const modo=pick(['ubica','lee_punto','falta']);
+
+  if(modo==='lee_punto'){
+    const d=pick([4,5,6,7,8,10,12]);
+    const n=rnd(1,d-1);
+    const malas=distFrac([n,d],[[n,d+1],[n+1,d],[d-n,d]],()=>{const b=pick(DENS);return [rnd(1,b-1),b];});
+    return {topic:'Recta',tag:'📏 En la recta numérica',
+      prompt:'¿Qué fracción marca el punto rojo?',
+      scenario:recta(d,n),
+      hint:'Contá en cuántas partes está dividido el tramo de <b>0 a 1</b>: ese es el denominador.',
+      shortChoices:true,
+      choices:shuffle([{label:frac(n,d,'mid'),ok:true},...malas.map(([a,b])=>({label:frac(a,b,'mid'),ok:false}))]),
+      explain:`De 0 a 1 hay <b>${d}</b> partes iguales y el punto está en la parte <b>${n}</b>: es ${frac(n,d,'mid')}.`};
+  }
+
+  if(modo==='ubica'){
+    const d=pick([4,5,6,8,10]);
+    const n=rnd(1,d-1);
+    const malas=distNum(n,others(sample([1,2,3,4,5,6,7,8,9].filter(x=>x<d),4),n),()=>rnd(1,d-1));
+    return {topic:'Recta',tag:'📏 Ubicá en la recta',
+      prompt:`Esta recta va de 0 a 1 y está dividida en <b>${d}</b> partes. ¿En qué <b>marca</b> hay que poner ${frac(n,d,'big')}?`,
+      scenario:recta(d,n,{incognita:true}),
+      hint:'El numerador te dice cuántos saltitos hay que contar desde el 0.',
+      choices:shuffle([{label:`En la marca ${n} (contando desde el 0)`,ok:true,em:EM.rec},
+        ...malas.map(x=>({label:`En la marca ${x} (contando desde el 0)`,ok:false,em:EM.rec}))]),
+      explain:`${frac(n,d,'mid')} se ubica dando <b>${n}</b> saltitos de ${frac(1,d,'sm')} desde el 0.`};
+  }
+
+  /* falta: complemento a la unidad (los problemas de la carpeta) */
+  const t=pick(TAREAS), quien=pick(CHICOS);
+  const d=pick([4,5,6,7,8,10,12]);
+  const n=rnd(1,d-1);
+  const r=d-n;
+  const malas=distFrac([r,d],[[n,d],[r,d+1],[r+1,d]],()=>{const b=pick(DENS);return [rnd(1,b-1),b];});
+  return {topic:'Recta',tag:`${t.em} ¿Cuánto falta?`,
+    prompt:`${quien} ya ${t.v} ${frac(n,d,'big')} de ${t.n}. ¿Qué parte le <b>falta</b> ${t.falta}?`,
+    scenario:recta(d,n),
+    hint:`Toda la unidad es ${frac(d,d,'sm')}. Restá lo que ya hizo.`,
+    shortChoices:true,
+    choices:shuffle([{label:frac(r,d,'mid'),ok:true},...malas.map(([a,b])=>({label:frac(a,b,'mid'),ok:false}))]),
+    explain:`La unidad entera es ${frac(d,d,'mid')}. Si ya ${t.v} ${frac(n,d,'sm')}, le falta ${frac(r,d,'mid')}, porque ${n} + ${r} = ${d}.`};
+}
+
+/* ---------- TEMA 6 · Comparar fracciones ---------- */
+function genComparar(){
+  const modo=pick(['mismo_den','mismo_num','mayor_menor','problema']);
+
+  if(modo==='mismo_den'){
+    const d=pick([5,6,7,8,10,12]);
+    let [a,b]=sample([...Array(d-1)].map((_,i)=>i+1),2);
+    if(a===b) b=a===1?2:a-1;
+    const may=Math.max(a,b), men=Math.min(a,b);
+    return {topic:'Comparar',tag:'⚖️ ¿Cuál es mayor?',
+      prompt:`¿Cuál de las dos fracciones es <b>mayor</b>: ${frac(a,d,'big')} o ${frac(b,d,'big')}?`,
+      scenario:`<div class="figs">${figBarra(d,a,150,34)}${figBarra(d,b,150,34)}</div>`,
+      hint:'Tienen el <b>mismo denominador</b>: las porciones son del mismo tamaño.',
+      shortChoices:true,
+      choices:shuffle([{label:frac(may,d,'mid'),ok:true},{label:frac(men,d,'mid'),ok:false},
+        {label:'Son iguales',ok:false}]),
+      explain:`Con el <b>mismo denominador</b> gana la que tiene <b>mayor numerador</b>: ${frac(may,d,'mid')} &gt; ${frac(men,d,'mid')}.`};
+  }
+
+  if(modo==='mismo_num'){
+    const n=rnd(1,3);
+    let [d1,d2]=sample([4,5,6,8,10,12].filter(x=>x>n),2);
+    const menorDen=Math.min(d1,d2), mayorDen=Math.max(d1,d2);
+    return {topic:'Comparar',tag:'⚖️ ¿Cuál es mayor?',
+      prompt:`¿Cuál de las dos fracciones es <b>mayor</b>: ${frac(n,d1,'big')} o ${frac(n,d2,'big')}?`,
+      scenario:`<div class="figs">${figBarra(d1,n,150,34)}${figBarra(d2,n,150,34)}</div>`,
+      hint:'Tienen el <b>mismo numerador</b>. Cuanto en más partes cortás, <b>más chica</b> queda cada parte.',
+      shortChoices:true,
+      choices:shuffle([{label:frac(n,menorDen,'mid'),ok:true},{label:frac(n,mayorDen,'mid'),ok:false},
+        {label:'Son iguales',ok:false}]),
+      explain:`Con el <b>mismo numerador</b> gana la del <b>menor denominador</b>: ${frac(n,menorDen,'mid')} &gt; ${frac(n,mayorDen,'mid')}, porque cortar en ${menorDen} deja partes más grandes que cortar en ${mayorDen}.`};
+  }
+
+  if(modo==='mayor_menor'){
+    /* comparar con 1: es una forma directa de repasar la clasificación */
+    const d=pick([3,4,5,6,8,10]);
+    const n=pick([rnd(1,d-1),d,rnd(d+1,d*2)]);
+    const rel = n<d?'menor':(n>d?'mayor':'igual');
+    return {topic:'Comparar',tag:'⚖️ Comparar con 1',
+      prompt:`¿La fracción ${frac(n,d,'big')} es mayor, menor o igual a <b>1</b>?`,
+      scenario:figuras(n,d,'barra'),
+      hint:'Una unidad entera es la fracción que tiene el mismo número arriba y abajo.',
+      choices:shuffle([
+        {label:'Menor que 1',ok:rel==='menor',em:'🟢'},
+        {label:'Mayor que 1',ok:rel==='mayor',em:'🔵'},
+        {label:'Igual a 1',ok:rel==='igual',em:'🟣'},
+      ]),
+      explain:rel==='igual'
+        ?`${frac(n,d,'mid')} tiene el mismo numerador y denominador, así que es <b>exactamente 1</b> unidad.`
+        :`${n} es ${rel} que ${d}, así que ${frac(n,d,'mid')} es <b>${rel} que 1</b>.`};
+  }
+
+  /* problema: dos chicos, mismo denominador (como el de Lucía y Marcos) */
+  const [c1,c2]=sample(CHICOS,2);
+  const t=pick(TAREAS);
+  const d=pick([8,10,12]);
+  let [a,b]=sample([...Array(d-1)].map((_,i)=>i+1),2);
+  const gana = a>b?c1:c2, fg=a>b?a:b, fp=a>b?b:a, pierde=a>b?c2:c1;
+  return {topic:'Comparar',tag:`${t.em} Problema`,
+    prompt:`${c1} ${t.v} ${frac(a,d,'mid')} de ${t.n} y ${c2} ${t.v} ${frac(b,d,'mid')}. ¿<b>Quién hizo la parte más grande</b>?`,
+    scenario:`<div class="figs">${figBarra(d,a,150,34)}${figBarra(d,b,150,34)}</div>`,
+    hint:'Las dos fracciones tienen el mismo denominador: mirá los numeradores.',
+    choices:shuffle([
+      {label:gana,ok:true,em:'🏅'},
+      {label:pierde,ok:false,em:'🙂'},
+      {label:'Los dos hicieron lo mismo',ok:false,em:'🤝'},
+    ]),
+    explain:`Mismo denominador ${d}, así que gana el numerador más grande: ${fg} &gt; ${fp}. <b>${gana}</b> hizo la parte más grande.`};
+}
+
+/* pool ponderado — más peso a lo que más le costó en la carpeta */
+const POOL = [
+  genPartes, genPartes,
+  genLectura, genLectura,
+  genFigura, genFigura, genFigura,
+  genClasificar, genClasificar, genClasificar, genClasificar,
+  genRecta, genRecta,
+  genComparar, genComparar,
+];
+let lastPrompt='';
+function nextExercise(){
+  let ex, tries=0;
+  do{ ex=pick(POOL)(); tries++; }while(ex.prompt===lastPrompt && tries<8);
+  lastPrompt=ex.prompt;
+  return ex;
+}
+
+/* =====================================================
+   FLUJO / UI
+   ===================================================== */
+const OKMSG=['¡Porción perfecta!','¡Bien cortado!','¡Sos un capo de la cocina!','¡Exacto!','¡Qué buen ojo!','¡Servido y listo!'];
+const NOMSG=['¡Casi! Volvemos a cortar.','Uy, esa porción no era.','Tranqui, así se aprende a repartir.','¡Nada grave! La próxima sale.'];
+
+function showStart(){
+  app.innerHTML=`
+   <div class="panel hero">
+     <div class="explorer">👨‍🍳</div>
+     <h1>Fábrica de Fracciones</h1>
+     <p class="sub">Cortá, repartí y clasificá ${TOTAL} porciones para ganar tus insignias de cocinero.</p>
+     <div class="biomes">
+       <div class="biome"><span class="e">🍰</span> Las partes</div>
+       <div class="biome"><span class="e">🗣️</span> Cómo se lee</div>
+       <div class="biome"><span class="e">🎨</span> Dibujos</div>
+       <div class="biome"><span class="e">🏷️</span> Clasificar</div>
+       <div class="biome"><span class="e">📏</span> Recta numérica</div>
+       <div class="biome"><span class="e">⚖️</span> Comparar</div>
+     </div>
+     <button class="play" onclick="startGame()">¡Empezar a cocinar!</button>
+     <div><button class="ghost" onclick="showLearn()">📖 Antes, quiero repasar el tema</button></div>
+     <p class="small" style="margin-top:14px">Tenés 3 vidas ❤️ · sumá racha 🔥 para más puntos 🍕</p>
+   </div>`;
+}
+
+/* ---------- SALA DE ESTUDIO ---------- */
+function showLearn(){
+  app.innerHTML=`
+   <div class="panel learn">
+     <div class="tab">📖 Recetario de fracciones</div>
+
+     <h2 style="margin-top:8px">🍕 ¿Qué es una fracción?</h2>
+     <p>Una fracción es <b>la parte de un entero</b> que se obtiene al dividirlo
+        en partes <b>iguales</b>.</p>
+     <p>Si cortás una pizza en 8 porciones iguales y te comés 3, comiste
+        ${frac(3,8,'mid')} de la pizza.</p>
+     ${figuras(3,8,'circulo')}
+     <p class="small center" style="margin-top:0">⚠️ Las partes tienen que ser <b>todas del mismo tamaño</b>, si no, no es una fracción.</p>
+
+     <h2>🍰 Las dos partes de una fracción</h2>
+     <div class="box">
+       <div class="center" style="margin-bottom:8px">${frac(3,8,'big')}</div>
+       <p style="margin:0"><b>Numerador</b> (arriba): cuántas partes <b>tomo</b>.</p>
+       <p style="margin:4px 0 0"><b>Denominador</b> (abajo): en cuántas partes <b>corté</b> la unidad.</p>
+       <p class="small" style="margin-top:8px">🔑 Truco: primero <b>D</b>ivido (Denominador, abajo), después tomo (Numerador, arriba).</p>
+     </div>
+     <div class="box">
+       <div class="bt">👀 El error más común</div>
+       <div class="figs">${figBarra(6,2,150,40)}</div>
+       <p style="margin:0">Acá hay <b>2</b> partes pintadas de <b>6</b> partes en total → ${frac(2,6,'mid')}.</p>
+       <p class="small" style="margin:6px 0 0">Para el denominador se cuentan <b>todas</b> las partes,
+          también las que quedaron <b>sin pintar</b>. No se cuentan sólo las pintadas.</p>
+     </div>
+
+     <h2>🗣️ Cómo se leen</h2>
+     <p>Primero el numerador, después el nombre del denominador:</p>
+     <div class="namerow">
+       <span>/2 → medios</span><span>/3 → tercios</span><span>/4 → cuartos</span>
+       <span>/5 → quintos</span><span>/6 → sextos</span><span>/7 → séptimos</span>
+       <span>/8 → octavos</span><span>/9 → novenos</span><span>/10 → décimos</span>
+       <span>/12 → doceavos</span>
+     </div>
+     <p style="margin-top:10px">Ejemplos: ${frac(1,3,'sm')} = <b>un tercio</b> ·
+        ${frac(5,2,'sm')} = <b>cinco medios</b> · ${frac(8,10,'sm')} = <b>ocho décimos</b>.</p>
+
+     <h2>🏷️ Los tres tipos de fracción</h2>
+     <div class="box green">
+       <div class="bt">🟢 Propia</div>
+       <p style="margin:0">El numerador es <b>menor</b> que el denominador. Vale <b>menos que 1</b>.</p>
+       ${figuras(3,4,'barra')}
+       <p class="small center" style="margin:0">${frac(3,4,'sm')} · no llega a completar la unidad</p>
+     </div>
+     <div class="box blue">
+       <div class="bt">🔵 Impropia</div>
+       <p style="margin:0">El numerador es <b>mayor</b> que el denominador. Vale <b>más que 1</b>,
+          así que hace falta <b>más de una unidad</b> para dibujarla.</p>
+       ${figuras(7,4,'barra')}
+       <p class="small center" style="margin:0">${frac(7,4,'sm')} · una unidad entera y 3 cuartos más</p>
+     </div>
+     <div class="box violet">
+       <div class="bt">🟣 Aparente</div>
+       <p style="margin:0">El numerador es <b>múltiplo exacto</b> del denominador: al dividir
+          <b>da un número entero</b>.</p>
+       ${figuras(8,4,'barra')}
+       <p class="small center" style="margin:0">${frac(8,4,'sm')} = 8 ÷ 4 = <b>2</b> unidades justas</p>
+       <p style="margin:8px 0 0">Otras aparentes: ${frac(4,4,'sm')} = 1 · ${frac(10,5,'sm')} = 2 ·
+          ${frac(18,9,'sm')} = 2 · ${frac(10,2,'sm')} = 5.</p>
+     </div>
+     <div class="box">
+       <div class="bt">🚨 ¡Mucho ojo con esta trampa!</div>
+       <p style="margin:0">${frac(4,8,'mid')} <b>no</b> es aparente.</p>
+       <p style="margin:6px 0 0">Es cierto que se puede simplificar (${frac(4,8,'sm')} = ${frac(1,2,'sm')}),
+          pero <span class="keyword">simplificar no es lo mismo que ser aparente</span>.
+          4 ÷ 8 no da un número entero, y ${frac(4,8,'sm')} vale <b>menos que 1</b>:
+          por eso es <span class="tagP">propia</span>.</p>
+       ${figuras(4,8,'barra')}
+       <p class="small" style="margin:6px 0 0">Lo mismo pasa con ${frac(2,4,'sm')}, ${frac(3,6,'sm')} y ${frac(8,16,'sm')}: todas <b>propias</b>.</p>
+       <p style="margin:8px 0 0">🔎 La prueba definitiva: <b>dividí el de arriba por el de abajo</b>.
+          Si da justo (1, 2, 3…) es aparente. Si no da justo, mirá si es menor
+          (<span class="tagP">propia</span>) o mayor (<span class="tagI">impropia</span>) que 1.</p>
+     </div>
+
+     <h2>📏 Fracciones en la recta numérica</h2>
+     <p>El tramo que va de <b>0 a 1</b> se corta en tantas partes como diga el
+        <b>denominador</b>. Después contás saltitos según el <b>numerador</b>.</p>
+     ${recta(5,3,{w:340})}
+     <p class="small center" style="margin-top:0">De 0 a 1 hay 5 partes, y el punto está en la 3ª: ${frac(3,5,'sm')}</p>
+     <div class="box">
+       <div class="bt">➕ ¿Cuánto falta para llegar a 1?</div>
+       <p style="margin:0">La unidad entera siempre es la fracción con el mismo número arriba y abajo:
+          ${frac(5,5,'sm')}, ${frac(7,7,'sm')}, ${frac(12,12,'sm')}…</p>
+       <p style="margin:6px 0 0">Si ya recorrió ${frac(2,7,'sm')}, le falta ${frac(5,7,'sm')},
+          porque <b>2 + 5 = 7</b>.</p>
+     </div>
+
+     <h2>⚖️ Comparar fracciones</h2>
+     <div class="box green">
+       <div class="bt">1️⃣ Si tienen el mismo denominador</div>
+       <p style="margin:0">Gana la del <b>numerador más grande</b>.</p>
+       <div class="cmp">${frac(11,12,'mid')}<span class="sign">&gt;</span>${frac(7,12,'mid')}</div>
+       <p class="small center" style="margin:0">Las porciones son del mismo tamaño, y 11 son más que 7.</p>
+     </div>
+     <div class="box blue">
+       <div class="bt">2️⃣ Si tienen el mismo numerador</div>
+       <p style="margin:0">Gana la del <b>denominador más chico</b>.</p>
+       <div class="cmp">${frac(4,6,'mid')}<span class="sign">&gt;</span>${frac(4,10,'mid')}</div>
+       <div class="figs">${figBarra(6,4,150,34)}${figBarra(10,4,150,34)}</div>
+       <p class="small center" style="margin:0">Cuantas más partes cortás, <b>más chica</b> queda cada parte.</p>
+     </div>
+
+     <div class="row-btns">
+       <button class="play" onclick="startGame()">🍕 ¡Ahora sí, a jugar!</button>
+       <button class="ghost" onclick="showStart()">⬅ Volver al inicio</button>
+     </div>
+   </div>`;
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function startGame(){
+  state.score=0;state.streak=0;state.best=0;state.lives=3;state.q=0;state.correct=0;state.topics=new Set();
+  syncHud();loadNext();
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+let current=null;
+function loadNext(){
+  if(state.q>=TOTAL || state.lives<=0){ showWin(); return; }
+  current=nextExercise();
+  state.q++;
+  render(current);
+}
+
+function render(ex){
+  const pct=Math.round(((state.q-1)/TOTAL)*100);
+  const scenario = ex.scenario?`<div class="scenario">${ex.scenario}</div>`:'';
+  let choicesHTML;
+  if(ex.type==='tf'){
+    choicesHTML=`<div class="tf" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice" onclick="answer(${i})">${c.label}</button>`).join('')}</div>`;
+  }else{
+    const cls=ex.shortChoices?'short':'choices';
+    choicesHTML=`<div class="${cls}" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice" onclick="answer(${i})">${c.em?`<span class="em">${c.em}</span>`:''}<span>${c.label}</span></button>`).join('')}</div>`;
+  }
+  app.innerHTML=`
+   <div class="trail">
+     <span class="lab">🍕 Porción ${state.q}/${TOTAL}</span>
+     <div class="track"><div class="fill" style="width:${pct}%"></div><span class="walker" style="left:${pct}%">👨‍🍳</span></div>
+     <span class="lab">${state.streak>1?'🔥 x'+state.streak:''}</span>
+   </div>
+   <div class="panel">
+     <div class="tab">${ex.tag}</div>
+     <div class="qtag" style="margin-top:8px">Pedido de la cocina</div>
+     <div class="prompt">${ex.prompt}</div>
+     ${scenario}
+     <p class="hintline">💡 <span>${ex.hint||''}</span></p>
+     ${choicesHTML}
+     <div class="fb" id="fb"></div>
+   </div>`;
+}
+
+function reward(ok){
+  if(ok){
+    state.streak++;state.correct++;
+    if(state.streak>state.best)state.best=state.streak;
+    const bonus=state.streak>=3?10:state.streak>=2?5:0;
+    state.score+=10+bonus;
+    burst(state.streak>=3?40:24);
+    if(state.streak===3) popBadge('🔥 ¡Racha de 3!<br>+10 bonus');
+    else if(state.streak>=5) popBadge('🌟 ¡Imparable! x'+state.streak);
+  }else{
+    state.streak=0;state.lives--;
+  }
+  syncHud();
+}
+
+function answer(i){
+  const ex=current;
+  const ok=ex.choices[i].ok;
+  document.querySelectorAll('#choices .choice').forEach((b,bi)=>{
+    b.disabled=true;
+    if(ex.choices[bi].ok) b.classList.add('correct');
+    else if(bi===i) b.classList.add('wrong');
+    else b.classList.add('dim');
+  });
+  if(ok) state.topics.add(ex.topic);
+  reward(ok);
+  const fb=document.getElementById('fb');
+  fb.className='fb show '+(ok?'ok':'no');
+  const face=ok?pick(['🍕','👨‍🍳','🎉','😄','🤩','🍰']):pick(['🍽️','😅','🤔','📐']);
+  const last=(state.q>=TOTAL||state.lives<=0);
+  fb.innerHTML=`<span class="face">${face}</span>
+    <span class="txt">${ok?pick(OKMSG):pick(NOMSG)}<span class="ex">📘 ${ex.explain}</span></span>
+    <button class="next" onclick="loadNext()">${last?'🏁 Resultado':'Seguir →'}</button>`;
+  fb.scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+const TOPIC_BADGE={
+  'Partes':'🍰 Experto en numerador y denominador',
+  'Lectura':'🗣️ Lector de fracciones',
+  'Gráficos':'🎨 Maestro de los dibujos',
+  'Clasificar':'🏷️ Clasificador experto',
+  'Recta':'📏 Explorador de la recta',
+  'Comparar':'⚖️ Comparador veloz',
+};
+function showWin(){
+  const won=state.lives>0;
+  const acc=Math.round((state.correct/TOTAL)*100);
+  const stars= acc>=90?3 : acc>=60?2 : 1;
+  burst(64);
+  const badges=[...state.topics].map(t=>`<div class="bw"><span class="e">${TOPIC_BADGE[t].split(' ')[0]}</span>${TOPIC_BADGE[t].split(' ').slice(1).join(' ')}</div>`).join('');
+  app.innerHTML=`
+   <div class="panel win">
+     <div class="tab">🏁 Cierra la cocina</div>
+     <div class="medal" style="margin-top:10px">${won?(stars===3?'🏆':'🎖️'):'🍽️'}</div>
+     <h1 style="font-family:'Baloo 2';color:var(--tomato-deep);font-size:2rem;margin:6px 0">
+       ${won?'¡Pedido terminado!':'¡Buen intento, cocinero!'}
+     </h1>
+     <p class="sub" style="color:var(--muted)">${won?'Repartiste todas las porciones 🍕':'Se acabaron las vidas, pero aprendiste un montón.'}</p>
+     <div class="starsrow">${'⭐'.repeat(stars)}${'·'.repeat(3-stars)}</div>
+     <div class="hud" style="justify-content:center;margin:6px 0">
+       <div class="chip"><span>🍕</span><b>${state.score}</b> pts</div>
+       <div class="chip"><span>✅</span><b>${state.correct}/${TOTAL}</b></div>
+       <div class="chip"><span>🔥</span><b>${state.best}</b> racha</div>
+     </div>
+     <p class="small" style="margin-top:6px">Precisión: ${acc}%</p>
+     ${badges?`<p class="small" style="margin-top:14px">🏅 Insignias ganadas:</p><div class="badges-won">${badges}</div>`:''}
+     <div class="row-btns">
+       <button class="play" onclick="startGame()">🔄 Nuevo pedido</button>
+       <button class="ghost" onclick="showLearn()">📖 Repasar el tema</button>
+     </div>
+   </div>`;
+}
+
+showStart();
+</script>
+</body>
+</html>
