@@ -1,0 +1,349 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 12949 invoked from network); 29 Jun 2000 17:10:13 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 29 Jun 2000 17:10:13 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 29 Jun 2000 17:09:13 -0000
+Received: (qmail 32589 invoked by uid 722); 29 Jun 2000 17:08:24 -0000
+Date: 29 Jun 2000 17:08:24 -0000
+Message-ID: <20000629170824.32582.qmail@...>
+To: mendonet-l@egroups.com
+Subject: negroponte
+From: fcanizo@...
+
+El 19/06/00, Sebas le blasfemó temorosamente a Fernando Canizo:
+
+S> Cano, la pregunta sobre Negroponte iba fundamentalmente
+S> dirigida a vos, porque creo que me dijiste que habías leido
+S> el ser digital. Así que por demorarte ahora deberás leer
+S> este fragmento y, conociendo la filosofía de Negroponte,
+S> deberías darme un crítica desde el otro lado. Los demás si
+S> quierne opinar, pueden, los autorizo.
+
+De "Ser digital" me quedó más que nada con conceptos
+prácticos más que con "filosofías". Cuando había comenzado a
+releerlo por segunda vez para hacer un análisis más profundo
+el maxi me visité en san luis y aprovech� para pedírmelo
+porque estaba "haciendo un estudio blablabla". No veo el
+libro desde octubre del año pasado. Y el tipo sabía que yo
+lo estaba releyendo, se lo presté porque considerá bueno
+facilitarle bibliografía para su "proyecto blabl�".
+Si lo ves al maxi aprovechá para pedirle el libro mentado,
+si querés alegá que necesitás el otro punto de vista debido
+al libro que leés ahora. Y ya que estás en esa, haceme el
+favor ya que dudo que yo lo pueda hacer: pedile también el
+yupi-yupi y mi cinta de Les Luthiers, que también se llevó
+en ese viaje.
+
+Ahora pasemos al asunto de este mail, veamos que dice este
+animal...
+Racional... Y veamos si puedo responder algo:
+
+S> "El animal racional-vengo observando- o es desapreciado o es
+S> salvado nominalmente. No menciono la tercera alternativa.
+S> Para los profetas del mundo digital y de la cibernavegación
+S> el hecho de que los usuarios en la red, o de la red, sean
+S> seres racionales no tiene la más mínima importancia. Estos
+S> profetas saben muy poco de racionalidad; y además ofrecen
+S> algo a cambio: una libertad casi infinita. ésta es la nueva
+S> cantinela. Ya que entre televisión, Internet y ciberespacio,
+S> las opciones que se abren ante los cibernautas son, o serán,
+S> centenares, miles, millones: tantas que es imposible
+S> contarlas. Ni siquiera tendremos que buscar los programas o
+S> las informaciones que queramos; lo hará por nosotros el
+S> navigator (el navegador). Así pues, el individuo podrá
+S> fácilmente atender cualquier curiosidad o interés.
+
+Estoy de acuerdo, visto así se ve feo. Se avecina un futuro
+en el cual estaremos sepultados por montañas de información,
+y no se ofrecen respuestas inteligentes al problema.
+
+S> ¿Hay algún modo mejor de ser más libre mentalmente? Si
+S> Negroponte y sus seguidores hubieran leído algo, sabrían que
+S> Leibniz definió la libertad humana como una spontaneitas
+S> intelligentis, una espontaneidad de quien es inteligente, de
+S> quien se caracteriza por intelligere. Si no se concreta así,
+S> lo que es espontáneo en el hombre no se diferencia de lo que
+S> es espontáneo en el animal, y la noción de libertad ya no
+S> tendría sentido.
+
+Y si el imbécil éste saliera de su tapita de seven-up alguna
+vez, aunque más no fuera para mear, sabria que no todos
+manejamos el latín como él. Pero no nos ofusquemos, veamos
+que intenta decir.
+
+Personalmente pienso que el tipo éste, de "Ser digital", no
+leyó más que el título o tal vez se lo comentó un salame.
+Negroponte, según yo recuerdo, hace un examen de cómo viene
+la mano y extrapola a cómo puede llegar a ponerse. En su
+libro critica que no se apunte a encontrar maneras de
+*manejar* esta información.
+
+La proliferación de basura (basura en internet, tv y demás)
+no es algo que se pueda evitar directamente.
+
+Negroponte habla de manejar la información a tu antojo
+(libre albedrío, spontaneitas intelligentis?) usando
+mayordomos digitales. Programas que *busquen* por vos las
+cosas, pero no cualquier cosa, sino lo *vos* le decís que
+busque, usando técnicas "inteligentes" de manera que llegue
+cero basura a tu hogar, o, siendo más realistas, la menor
+cantidad de basura.
+
+Recuerdo un par de anécdotas simpáticas. En una tenía una
+videocasetera allá por el 75, me cacho por no tener el libro
+aquí sino les comentaría mejor el asunto, pero la cosa es
+que mencionaba algunas cosas que tenía el aparato que no
+vienen actualmente, ni vinieron en las videos de serie, ni
+creo que vengan si no cambia la mentalidad de los que
+venden.
+
+Otras cosas que mencionaba era un re-organización de los
+anchos de banda (tv, radios, etc) para que se pudiese, por
+ejemplo, transmitir la programación de *TODO* un mes todo el
+tiempo, es decir todos los días durante todo el mes. De
+manera que vos tuvieses mayor cantidad de cosas para elegir.
+Ah-jh�! Te agarré!. No. Paremos la mano. Esto no sirve de
+nada sin un televisor que tenga la capacidad de
+*seleccionar* un programa cualquiera de acuerdo a los
+*deseos* de quien lo posee.
+
+Diganme si no sería copado levantarte el 1º de junio y
+decirle a tu TV: "Este mes buscame programas cuturales y
+científicos donde hablen de vida. En particular me
+interesaría *mucho* uno donde hable gente capacitada y
+defina "qué es vida". También deseo informarme un poco más
+sobre la situación actual del país ya que en mendonet están
+discutiendo el tema y quisiera estar más informado al
+respecto para poder seguir la conversación con más
+conocimiento del tema. Seguí con la búsqueda de los
+viejos capítulos de la pantera rosa y no te olvides de
+grabar los que aún no tengamos en nuestra colección."
+
+Por ejemplo.
+
+Ciencia Ficción? Fantasía?
+
+Veamos:
+
+- para tener una "charla" de este tipo con el tv hace falta
+que sea algo más que un simple tv ordinario de los que ahora
+nos venden. Supongamos que eliminamos la necesidad de que el
+tv entienda el lenguaje natural y que lo que suger� sea una
+traducción del lenguaje que *si* entendiese el tv. Podría
+ser algo como:
+- buscar en culturales y científicos "vida"
+- búsqueda_especial de "definiciones de vida", catalogar
+exponentes si los hay
+- resúmen_informativo seleccionando sólo los canales de
+noticias
+- buscar pantera rosa, grabar
+
+Ponele.
+
+La idea es que el tipo se pone a laburar y te avisa cuando
+ya tiene resultados, y vos si querés lo mirás en ese momento
+o cuando se te dí la gana.
+
+La idea también es que el tv "te conozca". Por ejemplo sabe
+que alguna vez jugaste en la cuarta de boca, entonces cada
+tanto te consigue información referida al tema.
+
+Además a tu TV hay que entrenarlo, no te serviría usar el
+del vecino.
+
+- hace falta además que la información se ofrezca de manera
+que pueda ser analizada. Debe venir catalogada. Por ejemplo:
+una propaganda debe venir con una marca (no visible en la
+misma propaganda, sino en el canal de descripciones) que la
+identifique como tal.
+
+Entonces si un día te levantas con ganas de comprar una
+cortadora de césped podés pedirle al tv que busque todas las
+propagandas de cortadoras de césped de ese año (o de cinco
+años para atrás si te pinta). Además podés pedirle  un
+resumen de ventas de cada marca que te interese, quienes la
+venden. Información de desempeño emitida por un organismo
+revisor (análogo al que defiende los derechos del
+consumidor, no sé como se llama).
+
+El problema es que hoy en día te meten la información por el
+orto. Te dan lo que ellos quieren, lo que suena rimbombante
+cuando lo publicitás y no te dan nada más.
+
+Te doy un ejemplo: recordás el CD que me dieron en C�spide,
+en Córdoba? En principio uno diría que está buenísimo, pero
+no es tan así, es mejor que nada, pero no está buenísimo. Lo
+único que contiene es un lista de libros con sus precios.
+Para algunos libros contiene una escueta explicación de
+contenidos que no pasa de *un* párrafo de 5 lineas, y en
+otros ni eso.
+
+Qué es lo que quiero? (se entiende que además de lo que ya
+se ofrece)
+- contenido general del libro: lo que sale en el índice
+general
+- contenido detallado: lo que sale en el índice específico
+cuando el libro trae eso
+- reviews: lo que suele salir en la contratapa
+- reviews de lectores: que voluntariamente opinen
+- información del autor: estudios, trabajos anteriores,
+hobbys si le pinta, en fin un currículum desinflado
+- una opinión de la editorial sobre hacia quién (qué
+público) está dirigido tal libro
+- copia del prologo, preliminares, prefacio o lo que sea:
+eso que suelen poner los autores al comienzo del libro y que
+suele comentar el libro en cuestión y además hace una
+descripción minuciosa pero abstractizada de los contenidos
+de *cada* capítulo.
+
+Ciencia Ficción? Fantasía?
+Andá a www.oreilly.com y verás que ninguna de estas ideas es
+mía, y que ya se ha hecho.
+
+Para poder "elegir" (intelligentutis spontaneitatis?)
+debemos conocer "algunas cosas" sobre el contenido. Eso es
+lo que el mundo de hoy no te da. E inclusive, en la mayoría
+de los casos ni siquiera te da contenido,sino mierda. Si
+quiero elegir (un libro, un programa de tv, un sitio web, o
+una cortadora de cúsped) quiero tener los *medios* para
+extraer esa *puntual* información de la montaña de
+información que nos inunda.
+
+Como dije al principio, esto no es algo que se pueda cortar
+de raíz o con un ataque frontal. Pero los métodos de
+selección que propone negroponte (y no puedo imaginar los
+que surgirían si un grupo de gente se pusiera a pensar en el
+tema) serían un buen paliativo: ya no te podrían ofrecer
+mierda tan descaradamente.
+
+Me fui de mambo. Veamos que sigue diciendo este hombre, que
+no le pifia en lo que ve, que es real.
+
+S> Para ir al núcleo de la cuestión debemos preguntarnos ahora:
+S> ¿libertad de qué y para qué? ¿De hacer zapping? Nuestra
+S> ¿libre participación activa� termina, o corre el riesgo de
+S> terminar, del siguiente modo: los locuaces acabarán por
+S> obstruir Internet con su necesidad de expresarse (sus
+S> graffiti), y los demás se dedicarán a los videojuegos, al
+S> video-jugar. Es verdad que el vídeo-niño podría preguntar y
+S> saber cuántos discursos pronuncia el Papa cada día. Pero
+S> esto no le interesa y ni tan siquiera sabe quién es el Papa.
+S> 
+S> La verdad es que los digigeneracionales dicen libertad pero
+S> en realidad quieren decir (y es la única cosa de la que
+S> entienden) cantidad y velocidad: una cantidad creciente,
+S> cada vez más grande de bites y una velocidad de elaboración
+S> y transmisión cada vez mayor. Pero cantidad y velocidad no
+S> tienen nada que ver con libertad y elección. Al contrario,
+S> una elección infinita e ilimitada es una fatiga infinita y
+S> desproporcionada. La desproporción entre el producto que se
+S> ofrece en la red y el usuario que lo debería consumir es
+S> colosal y peligrosa. Corremos el riesgo de asfixiarnos en
+S> una exageración de la que nos defendemos con el rechazo; lo
+S> que nos deja entre la exageración y la nada. El exceso de
+S> bombardeo, nos lleva a la atonía, a la anomia, al rechazo de
+S> la indigestión: y de este modo, todo termina, en concreto,
+S> en una nimiedad.
+
+Tiene razón en esto de que cada vez hay mayor velocidad y
+cantidad, pero precisamente es eso lo que apunta a paliar
+negroponte con las ideas que expone en ser digital. Tal vez
+este tipo se refiere a otro discurso de negroponte o tal vez
+lo que dije más arriba.
+
+Otra idea que se me viene a la cabeza: acabo de llegar de
+afuera y me encuentro con un folletín del supermercado.
+Probablemente traía las ofertas del día, no lo sé porque lo
+hice un bollo enseguida y lo tiré a la basura. Me llegan
+*por día* al menos tres de este tipo, y por semana otros
+tantos de no recuerdo qué otras cosas.
+
+Nunca sé lo que dicen porque o las tiro o, más comunmente,
+sólo encuentro los pedazos que dejan los perros.
+
+Para mi este "servicio" al consumidor no es tal. Para mi es
+una molestia, una invasión de mi libertad de elegir y una
+manera de ensuciar más mi casa. 
+
+Una posible solución: que tal si yo como supermercado pongo
+a disposición del público en internet (por ejemplo, también
+podrían ser lineas telefónicas privadas) una base de datos
+con todos los artículos que vendo, medios de búsqueda,
+descripciones completas, precios y cualquier otra cosa que
+pueda llegar a serle *útil* realmente al consumidor.
+Accesoriamente se me ocurre que para compras con tarjeta y
+mayores a cierto monto y dentro de cierto radio se les puede
+ofrecer el *servicio* de entrega a domicilio, con la
+consiguiente reducción de gastos en personal y trastornos
+para el cliente.
+
+S> Un aspecto ulterior de nuestro nuevo modo de ser y vivir es
+S> la creciente y omnipresente artificialización. El homínido
+S> del Pleistoceno es ya un hombre porque está dotado de manos
+S> prensiles, con las que puede realizar numerosas acciones y
+S> que lo habilitarán para llegar a ser homo habilis y homo
+S> faber. Paradójicamente, al hombre de hoy la prensilidad
+S> prácticamente ya no le sirve. El homo prensilis se atrofia
+S> en el homo digitalis. En la edad digital nuestro quehacer se
+S> reduce a pulsar botones de un teclado. Así vivimos
+S> encerrados sin ningún contacto auténtico con la realidad,
+S> con el mundo real. La �hipermediatizaci�n� nos priva de
+S> experiencias nuestras, experiencias de primera mano y nos
+S> deja a merced de experiencias de segunda mano.
+
+El contacto con la realidad es algo que uno busca. No es
+algo que te deba dar nadie ni que te pueda quitar nadie. No
+le veo nada de malo a usar las manos para apretar botones si
+eso me produce satisfacción o me facilita las tareas que
+pueda realizar. Si quiero usar las manos puedo hacerlo
+cuando y como me plazca.
+
+S> Lo cual tiene graves consecuencias. Pues cada uno de
+S> nosotros sólo comprende de verdad las cosas sobre las que
+S> tiene una experiencia directa, una experiencia personal. No
+S> hay libro, ni discurso, ni representación que pueda hacer
+S> las veces de nuestro propio error. Para aprender a nadar hay
+S> que tirarse al agua."
+
+Muy cierto. Probablemente lo leyó en algún lado.
+
+Hay una frase de einstein muy copada para responderle a este
+hombre, dice más o menos así:
+
+"Por qué esta magnífica tecnología científica, que ahorra
+trabajo y nos hace la vida más fácil, nos aporta tan poco
+felicidad? La respuesta es esta, simplemente: porque aún no
+hemos aprendido a usarla con tino."
+
+Lo que creo es que uno debe jugar el juego, si las cosas
+están dadas para que te quieran meter los productos por el
+orificio más conveniente uno debe tratar de paliarlo, en
+principio, siguiendo las reglas del juego: quejarse, emitir
+sugerencias (haya o no un frasquito donde depositarlas uno
+siempre puede sugerir algo a una empresa, pida hablar con el
+gerente si no  hay frasquito)
+
+He escuchado a mucha gente decir que "Crónica" es una
+mierda, jamás he escuchado a nadie hablar ni un poquito bien
+de tal programa, sin embargo más de uno de los que me han
+hecho el comentario lo han visto más de una vez: "porque
+estaba aburrido", "para reirme un rato", o lo que sea.
+
+En un mundo donde todo se vende o se alquila, que exista un
+programa como crónica sólo puede significar una cosa: QUE
+VENDE. Y te lo que vende, sea bueno o malo, te lo venden a
+VOS.
+
+Se me hizo muy largo el mail. Seguro me dejo algo en el
+tintero. Conseguí el libro con el maxi, se lee en dos
+noches, máximo.
+
+--- 
+A las neuronas que se mueren las remplaza la experienca,
+entonces, no se nota mucho.
+
+	Cristina Navarro
+
+
+
+

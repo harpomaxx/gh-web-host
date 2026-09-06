@@ -1,0 +1,81 @@
+From flo2423@...  Sat Jul 11 23:23:58 2020
+Return-Path: <flo2423@...>
+X-Sender: flo2423@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 83767 invoked from network); 7 Dec 2004 12:14:54 -0000
+Received: from unknown (66.218.66.218)
+  by m16.grp.scd.yahoo.com with QMQP; 7 Dec 2004 12:14:54 -0000
+Received: from unknown (HELO web60501.mail.yahoo.com) (216.109.116.122)
+  by mta3.grp.scd.yahoo.com with SMTP; 7 Dec 2004 12:14:54 -0000
+Received: (qmail 184 invoked by uid 60001); 7 Dec 2004 12:14:47 -0000
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  b=ulwRDK0/tOA/pK/npV65Fd+4EjGSn0VMiy9KLneI7ltaS3S3T2pScgFyTXQUZEVQ3q6g1R+3jQTdpWCIK2bllyT8wFdi40p1+1TqFV6y206h5+vBVNJgcw1plibmLS2sGCSW5R63WaGdw57d7akqjzULytibCC3A0rI0z/yBZJw=  ;
+Message-ID: <20041207121447.182.qmail@...>
+Received: from [217.33.207.104] by web60501.mail.yahoo.com via HTTP; Tue, 07 Dec 2004 13:14:47 CET
+Date: Tue, 7 Dec 2004 13:14:47 +0100 (CET)
+To: mendonet-l@...
+In-Reply-To: <0825.041206@...>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-eGroups-Remote-IP: 216.109.116.122
+From: Flavia Palacios <flo2423@...>
+Subject: =?iso-8859-1?q?Re:=20Señores=20artistas...(=20Contexto=20Necesario)?=
+X-Yahoo-Group-Post: member; u=200799369
+X-Yahoo-Profile: flo2423
+
+ --- Sebas <xebax@...> a �crit�: 
+> 
+> Buenas y santas mi general, aquí, Evaristo
+> Leguizamón, un servidor de la causa criolla.
+> 
+> AT> Como estas? Perplejo verdad.... Yo estoy
+> contento te
+> AT> explico porque. "La fuente"(1917) mal llamado
+> .....
+
+ > direccion"
+> 
+> 
+> Digamos que ahora me parece menos estúpido, pero
+> igualmene malo...
+> digo, una obra de arte incapaz de explicarse a sí
+> misma, que requiere
+> de semejante sarasa para comprenderla... no me cabe.
+
+no es sarasa ....  
+ninguna obra de arte ya sea pintura, escultura, o
+musica se explica por si sola. 
+Te puede gustar o no gustar, pero de ahi a entenderla
+es otra cosa ...
+La pintura de Dali o la musica de Satie de
+post-guerra, tiene sentido justamente en el entorno de
+la epoca, escuchada un siglo despues fuera de contexto
+"Tres piezas en forma de pera" suena ridicula, 
+Hoy en dia el arte gusta o no gusta, lo cual esta
+bien, es valido como opininon ... 
+Como el tema del migitorio, creo que muy poca gente se
+puede jactar de entenderlo. 
+Criticamos sin enetender la mayor parte del tiempo.  
+Lo que Alejandro hizo fue tratar de meterlo en
+contexto. Tratar de entender ..... 
+
+ 
+ 
+ 
+  
+ 
+ 
+
+
+	
+
+	
+		
+Découvrez le nouveau Yahoo! Mail : 250 Mo d'espace de stockage pour vos mails ! 
+Créez votre Yahoo! Mail sur http://fr.mail.yahoo.com/ 
+ 
+Avec Yahoo! faites un don et soutenez le Téléthon en cliquant sur http://www.telethon.fr/030-Don/10-10_Don.asp
+

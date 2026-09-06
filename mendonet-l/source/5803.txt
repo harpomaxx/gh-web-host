@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_1); 22 Aug 2001 06:00:16 -0000
+Received: (qmail 92299 invoked from network); 22 Aug 2001 06:00:15 -0000
+Received: from unknown (10.1.10.142)
+  by l10.egroups.com with QMQP; 22 Aug 2001 06:00:15 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.8)
+  by mta3 with SMTP; 22 Aug 2001 06:00:14 -0000
+Received: (qmail 27417 invoked by uid 1005); 21 Aug 2001 18:43:29 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.156722 secs); 21/08/2001 15:43:27
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 21 Aug 2001 18:43:26 -0000
+Date: Tue, 21 Aug 2001 15:45:09 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <1571130304.20010819141123@...> <615.010821@...>
+In-Reply-To: <615.010821@...>
+Subject: Re: Re[2]: Un cacho de cultura
+MIME-Version: 1.0
+Message-Id: <01082115450901.00445@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 21 Ago 2001 00:22, escribiste:
+
+> O> Morganti, morganti...
+> O> me suena.
+> ¿Tenés algo propio?¿O tu vida se reduce a copiar lo que ves en
+> televisión(Simpsons)? Digo, solés usar frases de los simpsons(ante la
+> ausencia de actividad neuronal dentro de tu craneo)
+
+Ehh para!! Me considero capaz de mantener una conversacion en modo 
+salon repitiendo solo frases de los Simpson ingeniosamente 
+seleccionadas.
+Creo que hay mucho merito en eso.
+
+
+-- 
+Groucho Marx
+

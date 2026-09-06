@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 1474 invoked from network); 30 Aug 2003 13:01:14 -0000
+Received: from unknown (66.218.66.216)
+  by m11.grp.scd.yahoo.com with QMQP; 30 Aug 2003 13:01:14 -0000
+Received: from unknown (HELO mail1relaynoc.bbt.net.ar) (200.81.94.8)
+  by mta1.grp.scd.yahoo.com with SMTP; 30 Aug 2003 13:01:14 -0000
+Received: (qmail 6086 invoked from network); 30 Aug 2003 13:01:07 -0000
+Received: from pop12-cpe-200-080-151-251.bbt.net.ar (HELO torton.micasa.org.ar) (200.80.151.251)
+  by mail1relaynoc-fe.bbt.net.ar with SMTP; 30 Aug 2003 13:01:07 -0000
+Received: from antro.micasa.org.ar ([10.55.68.2] helo=there)
+	by torton.micasa.org.ar with smtp (Exim 3.35 #1 (Debian))
+	id 19swMy-0000d1-00; Sat, 30 Aug 2003 00:25:44 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...,
+ lug-grouchesque@...
+Subject: Una pelicula acerca de nada
+Date: Sat, 30 Aug 2003 00:30:18 -0300
+X-Mailer: KMail [version 1.3.2]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E19swMy-0000d1-00@...>
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Acabo de ver Kamchatka, o como prefiero llamarla "Senfield", una 
+pelicula acerca de nada.
+
+Si no me creen, lean:
+Viene el golpe militar de 1976. Se escapan de Buenos Aires a las 
+afueras de Mar del Plata. Los echan del trabajo. Para perder el tiempo 
+juegan al TEG, pero el padre siempre gana. Refugian a un mechudo de La 
+Plata. van a visitar al abuelo en Tandil. Vuelven. El mechudo se tiene 
+que ir tan misteriosamente como vino. Juegan otro partido de TEG, donde 
+el hijo le gana todos los territorios al padre, excepto Kamchatka, que 
+luego de varias horas, no puede conquistar.
+Tienen que interrumpir el partido porque vienen los militares. Llevan a 
+los hijos de vuelta a Tandil para que los cuide el abuelo. Ls padres se 
+van, y nunca mas los vuelven a ver.
+
+"Esa vez, mi papa me hablo de Kamchatka, y esa vez entendi. Kamchatka 
+es el lugar a donde resistir". Fin.
+
+Un cuadro costumbrista sin argumento.
+
+-- 
+Herr GrouchoX
+
+ID Jabber: groucho@...
+Señal distintiva: LU5MJR - 144,550 MHz FM.
+Clave pública GPG: [pronto la voy a subir a algún lado]
+Fingerprint GPG: 00EC 0B71 49D5 2EEC 357C  9A78 A87B DC4F 1B31 8B55
+

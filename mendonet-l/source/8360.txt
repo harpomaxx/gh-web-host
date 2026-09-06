@@ -1,0 +1,35 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+Received: (qmail 14460 invoked from network); 11 Sep 2000 13:52:36 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 11 Sep 2000 13:52:36 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (204.144.231.7) by mta1 with SMTP; 11 Sep 2000 13:52:35 -0000
+Received: (qmail 6969 invoked by uid 417); 11 Sep 2000 13:52:22 -0000
+Message-ID: <20000911135222.6966.qmail@...>
+To: mendonet-L@egroups.com
+Subject: Se la pusieron a Mp3.com 
+Date: Mon, 11 Sep 2000 13:51:34 GMT
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_0_1130_968680332"; charset="us-ascii"
+X-Sender: rodralez@...
+From: rodralez@...
+
+
+--=_0_1130_968680332
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+
+Otro golpe de una multinacional... 
+
+Lean esto.
+
+el rodro
+
+--=_0_1130_968680332
+Content-Type: application/pdf; name="MP3.pdf"
+Content-Disposition: attachment; filename="MP3.pdf"
+
+[ Attachment content not displayed ]
+--=_0_1130_968680332--
+

@@ -1,0 +1,67 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_2_0); 15 Jul 2001 07:09:14 -0000
+Received: (qmail 87326 invoked from network); 15 Jul 2001 07:09:13 -0000
+Received: from unknown (10.1.10.27) by l9.egroups.com with QMQP; 15 Jul 2001 07:09:13 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.74) by mta2 with SMTP; 15 Jul 2001 07:09:12 -0000
+Received: (qmail 3214 invoked by uid 1005); 14 Jul 2001 19:45:48 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.164057 secs); 14/07/2001 16:45:47
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3) by torton.micasa with SMTP; 14 Jul 2001 19:45:46 -0000
+Date: Sat, 14 Jul 2001 16:46:23 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain; charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <000b01c10be7$34161d60$e81237c8@g8> <2504.010714@...>
+In-Reply-To: <2504.010714@...>
+Subject: Re: Fw:
+MIME-Version: 1.0
+Message-Id: <01071416462308.00967@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Sáb 14 Jul 2001 12:06, escribiste:
+
+> G> EL VOTO IMPUGNADO NO SE SUMA AL PARTIDO GANADOR,
+> G> COMO  SI SE SUMA EL VOTO EN BLANCO.
+
+> Es  mentira, el voto en blanco no se suma al ganador, simlemente no
+> se cuenta  y  por  lo  tanto  no participa de los
+> porcentajes...¡hasta el derecho de votar en blanco nos quitan!
+
+Bueno, por eso. El voto en blanco equivale a "votar por nadie". El voto 
+nulo (impugnado, etc) equivale a "no votar".
+
+Supongamos que la mitad de la gente emite votos en blanco, un 30% de la 
+gente vota al partido A, y el resto (20% vota al partido B).
+En ese caso, el partido A obtuvo el 30% de los votos, y el partido B el 
+20% de los votos, y el voto en blanco fue del 50%.
+Total: 50+30+20= 100%.
+
+Otro caso: a la mitad de la gente le impugnan los votos, 30% vota a A y 
+20% vota a B.
+Entonces el partido A obtuvo 60% de los votos, y el partido B obtuvo 
+40% de los votos.
+Total: 40+60=100%.
+
+Cuando te impugnan el voto, aumenta mas el porcentaje de votos que 
+recibe el partido ganador que el partido perdedor (la anulacion del 50% 
+de los votos en el segundo caso en lugar de su conteo como votos en 
+blanco) estiro la diferencia porcentual entre A y B de 10% a 20%.
+Por haber votado en blanco a los del partido A se les va a llenar la 
+boca con que ganaron por 20% de los votos cuando solo lo hicieron 
+porque 10%.
+
+Entonces de cierta manera falaz, equivoca y retorcida, los votos 
+anulados "cuentan" como votos al partido ganador, y los votos en blanco 
+no, al reves de como dice este tipo (suponiendo que no haya yo cometido 
+la torpeza de definir alreves voto en blanco y voto nulo).
+
+De todas maneras, votar por El che Gevara, Maradona, Eva Peron y Gardel 
+es lo mismo que votar por Alberbi, San Martin o Sarmiento, es decir: 
+votos en blanco.
+
+-- 
+Groucho Marx
+

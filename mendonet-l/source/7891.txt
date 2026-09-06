@@ -1,0 +1,36 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-L@egroups.com
+Received: (EGP: mail-6_1_0); 12 Oct 2000 16:20:39 -0000
+Received: (qmail 10179 invoked from network); 12 Oct 2000 16:20:30 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 12 Oct 2000 16:20:30 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (204.144.231.7) by mta3 with SMTP; 12 Oct 2000 16:20:30 -0000
+Received: (qmail 31066 invoked by uid 417); 12 Oct 2000 16:19:40 -0000
+Message-ID: <20001012161940.31063.qmail@...>
+To: mendonet-L@egroups.com
+Subject: Lineas ADSL
+Date: Thu, 12 Oct 2000 16:18:40 GMT
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_0_1155_971367563"; charset="us-ascii"
+X-Sender: rodralez@...
+From: rodralez@...
+
+
+--=_0_1155_971367563
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+
+Se viene se viene se viene !!.
+
+Lean chabones !!
+
+--=_0_1155_971367563
+Content-Type: text/html; name="ADSL.htm"
+Content-Disposition: attachment; filename="ADSL.htm"
+
+[ Attachment content not displayed ]
+--=_0_1155_971367563--
+

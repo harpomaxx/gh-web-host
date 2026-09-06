@@ -1,0 +1,64 @@
+From cabeza@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cabeza@...>
+X-Sender: cabeza@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 41279 invoked from network); 23 Aug 2003 20:10:29 -0000
+Received: from unknown (66.218.66.217)
+  by m10.grp.scd.yahoo.com with QMQP; 23 Aug 2003 20:10:29 -0000
+Received: from unknown (HELO muddy.fedped.com.ar) (200.80.52.246)
+  by mta2.grp.scd.yahoo.com with SMTP; 23 Aug 2003 20:10:28 -0000
+Received: (qmail 13137 invoked by uid 1005); 23 Aug 2003 20:10:26 -0000
+Received: from cabeza@... by muddy by uid 1002 with qmail-scanner-1.20rc1 
+ (avp: 4.0.0.1.  Clear:RC:1:. 
+ Processed in 0.048311 secs); 23 Aug 2003 20:10:26 -0000
+Received: from unknown (HELO ?192.168.109.8?) (192.168.109.8)
+  by 192.168.109.10 with SMTP; 23 Aug 2003 20:10:26 -0000
+Subject: Re: =?ISO-8859-1?Q?Charrua?= se presenta <-- esto es del an~o
+	del orto
+To: mendonet <mendonet-l@...>
+In-Reply-To: <Law10-F17kMZ3uYLRCc00027f76@...>
+References: <Law10-F17kMZ3uYLRCc00027f76@...>
+Content-Type: text/plain; charset=ISO-8859-1
+Organization: 
+Message-Id: <1061669423.533.7.camel@stimpy>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.4 
+Date: 23 Aug 2003 17:10:23 -0300
+Content-Transfer-Encoding: 8bit
+From: cabeza <cabeza@...>
+X-Yahoo-Group-Post: member; u=76414316
+X-Yahoo-Profile: c_a_b_e_z_a
+
+On Fri, 2003-08-22 at 17:36, A Secas wrote:
+> bueno, sos bienvenida, aca no somos nacionalistas  asi que poco
+> importa que no seas de mendoza, es mas no importa para nada.
+> dentro de poco voy a tener lista una foto panoramica desde la
+> terraza del edificio en donde vivo para que la veas, cuando
+> logre hacerla desde linux porque no pienso usar la mierda de windows
+> solo para unir un par de fotos
+> 
+> 
+> cabeza que paso con esa foto?
+> quiero verla
+
+
+muy simple, todas las herramientas que encontre para hacer fotos
+panoramicas en linux se resumen a una sola aplicacion hecha en java
+y son las "panorama tools"
+
+http://www.path.unimelb.edu.au/~dersch/
+
+(hay buenos ejemplos ahi)
+
+pero no encuentro un front-end que cumpla con mis expectativas
+
+
+
+> 
+>  
+> 
+> Tu uso de Yahoo! Grupos está sujeto a las http://ar.docs.yahoo.com/info/utos.html
+-- Hay solo 10 tipos de personas en el mundo, los que saben binario y
+los que no.
+
+

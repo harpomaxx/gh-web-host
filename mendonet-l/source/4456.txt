@@ -1,0 +1,111 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 30 Sep 2001 17:14:04 -0000
+Received: (qmail 78722 invoked from network); 30 Sep 2001 17:14:04 -0000
+Received: from unknown (10.1.10.142)
+  by l10.egroups.com with QMQP; 30 Sep 2001 17:14:04 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta3 with SMTP; 30 Sep 2001 17:14:04 -0000
+Received: from a200042125117.rev.prima.com.ar ([200.42.125.117])
+  by softhome.net with esmtp; Sun, 30 Sep 2001 11:11:26 -0600
+Date: Sun, 30 Sep 2001 13:07:07 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Sebas <xebax@...>
+X-Priority: 3 (Normal)
+Message-ID: <3546.010930@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: Re[8]: "Naturaleza del hombre" my ass !
+In-reply-To: <11593.010929@...>
+References: <11593.010929@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+
+S>>>> Artificial implica una transformación por acción del hombre. Sigue
+S>>>> siendo natural, y es una cualidad agregada, o sea, tenemos cosas
+S>>>> naturales vírgenes, y cosas naturales artificiales.
+GM>>> "Cosas naturales artificiales"? Lo decis en serio? Supongamos que si.
+S>> Es obvio que nos estamos manejando con los conceptos que hemos
+S>> aceptado en esta charla para natural, y que no se contradice con el
+S>> concepto del diccionario de artificial.
+GM> *Hemos* aceptado? Crei que estabas en contra de mi definicion propuesta
+GM> para natural/artificial. Aclarame este punto.
+¿No estamos de acuerdo en qué quiere decir natural? Yo ya di mi
+definición, da la tuya y comparamos.
+
+GM> Se soluciona facilmente explicando el ejemplo.
+GM> El sistema de numeracion natural es el que te permite contar usando
+GM> solo 2 simbolos en lugar de 10.
+Caramba, pensé que eso era binario.
+
+GM> A ese sistema de numeracion que usa 2 simbolos se le llama en
+GM> matematica, sistema binario.
+Esto se contradice con lo anterior, asíque voy a suponer que en el
+primer caso te confundiste, y en donde dice "natural" debería decir
+"binario"... o por lo menos así lo entiendo desde mis primitivos
+conocimientos en el tema que vienen de alguna clase de informática de
+la secundaria.
+
+GM> En ciencias de la computacion se aplica el sistema binario porque es
+GM> el que menos simbolos distintos utiliza, lo cual simplifica la
+GM> operacion de los circuitos de las computadoras.
+Una preguntita que tal vez sea espantosamente estúpida... una vez,
+hace años,  leí en un libro que se llamaba "computación para todos"
+(un libro viejísimo) que las memorias consistían en un montón de
+"transistores impresos en un banda magnética y que están abiertos o
+cerrados" o algo así es lo que recuerdo...obviamente que mi referencia
+es muy imprecisa, y me imagino que actualmente no será así o lo será
+de otra manera, pero el principio es más o menos así, o no? Digo, el
+abierto significa 0 y el cerrado uno, o al revés.
+
+GM> Entonces todo es natural, puesto que ninguna transformacion hecha por
+GM> el hombre pudo no haber partido inicialmente de algo natural, y todas
+GM> las transformaciones que realiza el hombre son naturales a el.
+
+GM> Yo dije siempre que todo es natural, que lo artificial no existe.
+GM> Ahh... Ahora entiendo por que decis que no hay oposicion entre natural
+GM> y artificial, usando las deficiniones de diccionario de ambos
+GM> terminos, lo artificial es una transformacion/evolucion de lo natural.
+GM> Punto para Sebas en ese sentido.
+Acá se explica todo eso de si estábamos de acuerdo o no.
+
+GM> Yo digo ademas que esas transformaciones/evoluciones llamadas
+GM> artificiales por el diccionario no alteran la esencia de la cosa
+GM> transformada, que por lo tanto sigue siendo natural (seria esa la
+GM> explicacion de natural artificial y natural virgen).
+GM> Supongo que esta aca no hay desacuerdos.
+Correcto.
+
+GM> Ahora agrego que a la luz de expresiones como "aceite natual de primera
+GM> prensada en frio y 7 procesos de filtrado" (aceite que a mi juicio
+GM> sufrio suficientes transformaciones como para poder llamarse aceite
+GM> artificial), o artificio matematico (transformacion heterodoxa de algo
+GM> que no sabria decirte si existe en su estado natural, ya que no hay
+GM> materias primas naturales identificables), o sistema binario natural
+GM> (forma mas simple y regular de contar con 2 dedos) es evidente que
+GM> artificial/natural estan dotados de connotaciones mas alla de las
+GM> mencionadas por tu diccionario.
+Claro, concepciones que da el uso.
+
+GM> Tales connotaciones son las que yo propuse definir en terminos
+GM> antiteticos (artificial es lo esta en contra de la naturaleza de una
+GM> cosa), aclarando algo en lo que descubro que estamos de acuerdo y es
+GM> que las transformaciones y acciones humanas que connota la
+GM> artificialidad no alteran la pertenencia a la Naturaleza de los
+GM> objetos llamados artificiales, puesto que el hombre es un ser natural
+GM> y todas sus acciones son naturales.
+GM> De manera que como es costumbre, muestros desacuerdos son
+GM> principalmente en el uso de la terminologia.
+Exacto... sería bueno leer la opinión de alguien que no piense como
+nosotros.
+
+
+-- 
+Sebas   
+los mimos no son brutos lo que pasa es que fallan en los examenes orales                       
+
+
+

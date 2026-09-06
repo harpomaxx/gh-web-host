@@ -1,0 +1,80 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 30 Oct 2001 03:04:41 -0000
+Received: (qmail 90132 invoked from network); 30 Oct 2001 03:04:41 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.221 with QMQP; 30 Oct 2001 03:04:41 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta2 with SMTP; 30 Oct 2001 03:04:41 -0000
+Received: from gateway.micasa.org.ar (200-41-122-142-tntats2.impsat.net.ar [200.41.122.142])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id AAA22314
+	for <mendonet-l@...>; Tue, 30 Oct 2001 00:05:47 -0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15xaVJ-00027L-00
+	for <mendonet-l@...>; Sat, 27 Oct 2001 17:56:29 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15xaVI-00027A-00
+	for <mendonet-l@...>; Sat, 27 Oct 2001 17:56:28 -0300
+Date: Sat, 27 Oct 2001 17:56:28 -0300
+To: mendonet-l@...
+Subject: Re: El arca de =?iso-8859-1?Q?Noñe?=
+Message-ID: <20011027175628.H7946@...>
+References: <20011025160705.P9688@...> <1939.011027@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <1939.011027@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Sat, Oct 27, 2001 at 12:57:11AM -0300, rodralez wrote:
+
+> > Entre tales ideas equivocadas se encuentran:
+> 
+> > 1) Suponer que unas palabras sacadas de contexto, leidas en un libro mal
+> > traducido, escrito hace un par de milenios por gente ignorante y supersticiosa
+> > son suficiente fundamento para impredir un procedimiento medico muy eficaz,
+> > y levemente asqueroso (pero toda la medicina es asquerosa).
+> > 2) Suponer que un relato fantastico como la biblia es la palabra escrita de un
+> > ser onmiciente, omnipontente, omnivoro y omni-no-se-que
+> 
+> Hace unos meses vi algo en Discovery Channel que me dejo pensando...
+> 
+> Un grupo de científicos trataba de demostrar que el arca de Noé
+> realmente existió. Se basaban en pruebas geológicas y antropológicas.
+> Obviamente descartaban cualquier relato fantástico tipo "Y dios le
+> habl� a Noé..". Querían demostrar que unos miles de años AC, ante una
+> inminente inundación, un tipo empezó a guardar animales en una balsa
+> grande, ya que esta historia se ha visto escrita en escritos de varias
+> culturas, no sólo en la biblia.
+> 
+> Al final de la historia no lo llegaban a probar, pero tiraban un par
+> de pistas que te daban que pensar. Te da que pensar que no hay negar
+> lo que desconocemos. Justamente eso se contradice con el pensamiento
+> científico.
+
+Yo no niego lo que desconozo, salvo si no negarlo esta en contradiccion
+con lo que desconozco menos.
+
+Sospecho que los relatos de la biblia son exageraciones de hechos historicos.
+En el Discovery Channel explicaban con esa perspectiva el libro del
+Exodo.
+Por ejemplo, la apertura del mar rojo.
+El camino mas obvio desde Egipto a Palestina es atravesar el delta del Nilo,
+y cruzar el desierto del Sinai (entonces no habia Canal de Suez).
+Los caminantes podrian cruzar las partes pantanosas del delta, pero los
+carros del ejercito del faraon se atascarian y enterrarian.
+Es menos dramatico que decir que las aguas se abrieron para dejar pasar al
+pueblo de dios para luego cerrarse y ahogar al ejercito del faraon, pero
+mucho mas razonable.
+
+--
+Groucho
+
+
+
+

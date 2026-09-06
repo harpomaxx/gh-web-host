@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 13 Oct 2001 14:04:13 -0000
+Received: (qmail 34558 invoked from network); 13 Oct 2001 14:04:12 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.1.221 with QMQP; 13 Oct 2001 14:04:12 -0000
+Received: from unknown (HELO smtp4.impsat.net.ar) (200.31.1.20)
+  by mta3 with SMTP; 13 Oct 2001 14:04:12 -0000
+Received: from gateway.micasa.org.ar (200-41-31-12-rdunysd1.impsat.net.ar [200.41.31.12])
+	by smtp4.impsat.net.ar (8.9.3/8.9.3) with ESMTP id LAA04235
+	for <mendonet-l@...>; Sat, 13 Oct 2001 11:02:11 -0400 (EDT)
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15sDYN-0004pq-00
+	for <mendonet-l@...>; Fri, 12 Oct 2001 22:25:27 -0300
+Date: Fri, 12 Oct 2001 22:25:27 -0300
+To: mendonet-l@...
+Subject: Re: Esto no es contra tuyo!
+Message-ID: <20011012222527.F18496@...>
+References: <20011010203255.D12927@...><8579.011011@...> <1132695878.20011011205650@...> <000201c15313$2dc2a6e0$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <000201c15313$2dc2a6e0$9a4afea9@hfgg>
+User-Agent: Mutt/1.3.22i
+From: Groucho Marx <groucho@...>
+
+On Thu, Oct 11, 2001 at 08:08:11PM -0300, Lady Marian wrote:
+
+> Supongamos que, hoy por hoy, yo soy una "Artista" que cumple con
+> todos los requisitos que la plebe exige para que yo lo sea. Hoy
+> soy una dibujante y una pintora DE LA HOSTIA .
+> Pero mañana... Mañana me levanto sin ganas de tocar nunca mas un
+> pincel, y nunca mas EN MI VIDA lo vuelvo a hacer.
+> 
+> Dentro de 10 años... ¿Seguirá siendo una artista, para
+> ustedes?... ¿O simplemente LO FUI?
+
+Es una pregunta dificil... En cierto sentido ya no lo serias mas.
+En otro sentido lo seguirias siendo. Todo depende de que sea mas
+importante y cuales sean tus motivaciones.
+Si no te interesa mas pintar, probablemente hayas sido pero no seas
+mas una pintora.
+Si estas impedida de pintar por motivos de fuerza mayor, entonces
+no es tan claro.
+
+Groucho
+

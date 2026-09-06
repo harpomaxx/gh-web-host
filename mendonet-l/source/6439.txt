@@ -1,0 +1,78 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_0_4); 27 Feb 2001 12:40:51 -0000
+Received: (qmail 45704 invoked from network); 27 Feb 2001 12:40:51 -0000
+Received: from unknown (10.1.10.27) by l9.egroups.com with QMQP; 27 Feb 2001 12:40:51 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (204.144.231.7) by mta2 with SMTP; 27 Feb 2001 12:40:50 -0000
+Received: (qmail 27559 invoked by uid 417); 27 Feb 2001 12:40:24 -0000
+Message-ID: <20010227124024.27558.qmail@...>
+To: mendonet-l@yahoogroups.com
+Subject: Linux... the movie !.
+Date: Tue, 27 Feb 2001 12:40:24 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+X-Sender: rodralez@...
+From: rodralez@...
+
+
+
+INTERNET: UN FILM EPICO DE LA ERA DE INTERNET 
+La "revolución Linux", en un film de cult
+
+La revolución del "open source" (el software libre) y su profeta Linus
+Torvalds, el inventor de Linux, se convierten ahora en una película. El
+título es Revolution O.S. y trata sobre la "Installfest", una suerte de
+rito de iniciación durante el cual se cambian los sistemas operativos, se
+lanza al mar a Microsoft y sus "ventanas" y se elige Linux.
+
+La película también aborda las protestas del "Refound Day", un movimiento
+de consumidores que exige el reembolso del dinero pagado por Windows en el
+momento de adquirir una computadora.
+
+Esos serían los dos hechos iniciáticos de la revolución del "open source",
+el software libre. Salvando las distancias, es algo así como lo que
+significó la toma de la Bastilla para la Revolución Francesa.
+
+El protagonista de las primeras escenas es Richard Stallman, que intenta
+crear un sistema operativo libre.
+
+
+Profetas digitales
+
+"Es un filme épico", declara el director, el norteamericano J.T.S. Moore,
+que eligió a Charlton Heston como narrador en off y empalme entre las
+entrevistas a Linus Torvalds, Brian Behlendorf, líder del proyecto Apache
+Web server, Eric Raymond y otros profetas del "open source".
+
+"Heston forma parte del patrimonio de los Estados Unidos", señala el
+director, "y todos los que valoran las libertades individuales lo quieren".
+
+Porque, y esto es el corazón del film, Revolution O.S. es la historia de la
+lucha de centenares de miles de "hackers y programadores de todo el mundo
+contra los centros de mayor poder de la tierra". Se trata de un filme épico
+que narra una historia de libertad.
+
+Moore, que antes de hablar con un amigo no tenía idea de qué eran el "open
+source" o Linux, pronto se entusiasmó con la idea y, como buen neófito,
+pasó de contar una lucha épica a convertirse en un defensor del modelo.
+
+
+Sponsor no hay
+
+Las empresas cinematográficas, sin embargo, no son de la misma opinión.
+Tanto es así que Moore, que, según dice, financió la película con su
+tarjeta de crédito, insta a quienes quieran ver el filme a presionar a las
+compañías distribuidoras.
+
+Por el momento, aparte de una proyección semiclandestina en Manhattan y
+otra en LinuxWorld, el filme no tiene distribución comercial en las salas
+de cine y Moore no tiene cómo saldar sus deudas.
+
+(c) La Repubblica y Clarín 
+ 
+
+rodralez
+

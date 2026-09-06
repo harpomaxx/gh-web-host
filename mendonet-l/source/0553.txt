@@ -1,0 +1,63 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_5); 28 Mar 2003 13:50:29 -0000
+Received: (qmail 52099 invoked from network); 28 Mar 2003 13:50:21 -0000
+Received: from unknown (66.218.66.217)
+  by m14.grp.scd.yahoo.com with QMQP; 28 Mar 2003 13:50:21 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta2.grp.scd.yahoo.com with SMTP; 28 Mar 2003 13:50:18 -0000
+Received: (qmail 6109 invoked by uid 404); 28 Mar 2003 13:50:14 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar by uid 401 with qmail-scanner-1.16 
+ (uvscan: v4.1.60/v4254. spamassassin: 2.44.  Clear:. 
+ Processed in 0.425976 secs); 28 Mar 2003 13:50:14 -0000
+Received: from unknown (HELO localhost) (192.168.100.113)
+  by 0 with SMTP; 28 Mar 2003 13:50:14 -0000
+Date: Fri, 28 Mar 2003 10:50:14 -0300
+To: mendonet-l@...
+Subject: Re: RUIDO
+Message-Id: <20030328105014.43f57fd7.cgimenez@...>
+In-Reply-To: <F79BxxLJiJlMUmwX5Pi00001911@...>
+References: <F79BxxLJiJlMUmwX5Pi00001911@...>
+Organization: XNET Cuyo S.A.
+X-Mailer: Sylpheed version 0.8.10 (GTK+ 1.2.10; i386-debian-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+On Thu, 27 Mar 2003 18:57:33 -0300
+"A Secas" <asecas2003@...> wrote=
+:
+
+> LA CIUDAD ES RUIDO
+> LA PUBLICIDAD ES RUIDO
+> 
+> 
+> APROXIMADAMENTE, A=
+SI....
+> ES VALIDA
+> 
+
+hablando de ruido...
+
+podes dejar de escribir en may=
+uscular y quotear bien los mensajes... estas escribiendo muy ñoñamente.=
+
+
+
+-- 
+
+Cristian Gimenez
+cgimenez@...
+http://kastor.org.ar/
+
+XN=
+et Cuyo S.A.
+Depto. de Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-26=
+1-4252788 
+

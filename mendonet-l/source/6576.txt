@@ -1,0 +1,41 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 6 Dec 2000 22:00:01 -0000
+Received: (qmail 65964 invoked from network); 6 Dec 2000 22:00:00 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 6 Dec 2000 22:00:00 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 6 Dec 2000 21:59:58 -0000
+Received: (qmail 6982 invoked by uid 722); 6 Dec 2000 21:59:49 -0000
+Date: 6 Dec 2000 21:59:49 -0000
+Message-ID: <20001206215949.6980.qmail@...>
+To: mendonet-l@egroups.com
+Subject: ncurses
+From: fcanizo@...
+
+El 03/12/00, Groucho Marx le susurraba a fcanizo@...:
+ 
+ GM>fuea>  No es difícil groucho: mapeás alguna tecla en el vi para que
+ GM>fuea>  cuando lo llame el MUA puedas llamar a un scripcito tuyo que
+ GM>fuea>  con un poco de perl y ncurses te deje elegir un tag de
+ GM>fuea>  alguna lista de por ahí y listo. (a mi no me interesa
+ GM>fuea>  hacerlo, pero no es difícil)
+ GM>
+ GM>Nada mal. Ahora explicame como usas ncurses desde Perl.
+ 
+ Ni idea. RTFM.
+ 
+ Bueno, te envié un mail privado antes que mencionaba la
+ librería cdk, pero en este momento no recuerdo si era para
+ perl. (quiero creer que sí).
+ 
+ Como sea perl es el "glue language" por excelencia, asique no
+ debería ser difícil.
+ 
+ Tenés los libros de perl que se encuentran en el sitio ruso?
+ Ask harpo.
+ 
+ 
+ 
+
+

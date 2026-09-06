@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 6172 invoked from network); 3 Jul 2000 11:44:49 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 3 Jul 2000 11:44:49 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 3 Jul 2000 11:44:47 -0000
+Received: from ANTRO ([200.41.31.106]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id IAA04681 for <mendonet-l@egroups.com>; Mon, 3 Jul 2000 08:47:30 +0300 (GMT)
+Date: Thu, 29 Jun 2000 23:01:15 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1959.000629@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Re[2]: el aborto en siria
+In-reply-To: <395B2E38.AB87A044@...>
+References: <395B2E38.AB87A044@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 29/06/2000, Mariana temeroso mencionó:
+
+M> Hace tanto tiempo de esto que ya no recuerdo en qué iba al caso, pero lo
+M> cierto es que a mi me pareció que lo iba. Creo que mi intención fue
+M> marcar un paralelismo de que aquí ya no se aborta por el qué dirán.
+M> Quien haya leído el artículo se habrá sorprendido y hasta le habrá
+M> parecido ridículo el modo de pensar de los sirios ¿Por qué? porque
+M> nosotros pensamos totalmente diferente.
+
+M> A todo esto... ¿Cómo hiciste para leer el artículo, si lo mandé en Word?
+
+Porque tiene un Word pirata, apago Linux, booteo windows, cargo Word,
+abrio el archivo, y lo leyo.
+
+-- 
+Groucho Marx
+Hay algo fascinante sobre la ciencia. Uno obtiene grandes cantidades de
+conjetura con una pequeñísima inversión de hechos.
+
+
+

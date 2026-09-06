@@ -1,0 +1,51 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 8 Nov 2000 00:20:45 -0000
+Received: (qmail 581 invoked from network); 8 Nov 2000 00:20:44 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 8 Nov 2000 00:20:44 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 8 Nov 2000 01:21:47 -0000
+Received: from antro.micasa ([200.41.31.43]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id VAA09948 for <mendonet-l@egroups.com>; Tue, 7 Nov 2000 21:23:45 +0300 (GMT)
+Date: Mon, 6 Nov 2000 13:04:31 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <19544.001106@...>
+To: Morganti Federico <mendonet-l@egroups.com>
+Subject: Re[2]: cuidate la espalda!
+In-reply-To: <OE542Q24Lo9KUsyB1HQ00002996@...>
+References: <OE542Q24Lo9KUsyB1HQ00002996@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 03/11/2000, Morganti Federico entrecortadamente escribió:
+
+MF> ya lo mencionaste, gil
+MF>  relacionando esto traigo a colacion un comentario que hizo una
+MF> vez el groucho( y no estoy culpando a nadie, aclaro) de que el y
+MF> no se quien se dedicaban a crear personajes y hacer de ellos un
+MF> salvavidas de la lista, o algo asi, mi memoria es pesima
+
+Mas que memoria, lo tuyo es pensamiento lateral.
+
+Crear personajes es algo que varios han hecho. No solo yo; Harpo y
+Conan tambien lo hicieron. Y eso por mencionarte a los peores, pues
+hasta yo me di cuenta de que eran personajes falsos.
+
+En mi caso particular, cree personajes falsos para molestar en BBS
+pagos (tales como Planet y otro que no me acuerdo).
+Tambien intervine brevemente con personajes creados por otros (como
+La Caca, de Harpo) y en general, utilice los personajes falsos para
+burlarme de los demas.
+
+Pero para mantener a flote Mendonet? No lo necesita!!!
+
+-- 
+Groucho Marx
+Why was I with her? She reminds me of you. In fact, she reminds me more of you than you do! -- Groucho Marx
+
+
+

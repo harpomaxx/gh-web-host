@@ -1,0 +1,66 @@
+From babasonica@...  Sat Jul 11 23:23:58 2020
+Return-Path: <babasonica@...>
+Received: (qmail 19975 invoked from network); 4 Aug 2000 15:37:58 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 4 Aug 2000 15:37:58 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 4 Aug 2000 15:37:58 -0000
+Received: (qmail 2692 invoked by uid 417); 4 Aug 2000 15:46:02 -0000
+Received: from mza2ppp-128.uc.infovia.com.ar (HELO softhome.net) (209.13.229.128) by smtpb.softhome.net with SMTP; 4 Aug 2000 15:46:02 -0000
+Message-ID: <398AAB00.13032778@...>
+Date: Fri, 04 Aug 2000 08:37:36 -0300
+X-Mailer: Mozilla 4.61 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: GROUCHO! Para todos los...
+References: <3970B326.A4D5C2F2@...> <1957.000718@...> <3976EF00.A45727B9@...> <014101bff70f$4804afa0$090aa8c0@...> <398178B8.E0FE5BEA@...> <01b101bffd5b$c051c9a0$090aa8c0@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Mariana <babasonica@...>
+
+> > > De ultima, usando DOS en la maquina que tiene DOS, renombra el 
+> > > archivo a mano antes de procesarlo. Por ejemplo el comando:
+> > > REN CPP07~1.034 CPP0720x.034
+
+> > Bien!... Eso fue lo que hice aquel día y (obviamente) resultó... 
+> > mmm... quizás no soy tan naba.
+ 
+> El problema es que desrtuiste la evidencia de lo que estaba mal, sin 
+> dejar ningun indicio en que apoyarse para evitar que el problema 
+> vuelva a ocurrir. Un tipo de nabicie mas sutil, pues ahora ni siquiera 
+> sabes que fue lo que paso.
+
+PLOP!... Primero me sugeris que haga una cosa (que fue lo que hice) y
+ahora me decís que estuvo mal que lo hubiera hecho?... Nintendo
+
+> A proposito... 
+> No se lo que estan haciendo donde vos trabajas, pero que te pareceria 
+> si en lugar de perder tiempo mandando los archivos por e-mail, sea 
+> posible que las distintas maquinas "vean" en el entorno de red las 
+> otras maquinas que estan en los otros lugares que actualmente te 
+> mandan archivos por e-mail.
+
+PLOP (2)!... ¿De dónde sacaste que nos manejamos con e-mail? Lo que se
+hace aquí en la oficina, es exactamente lo que acabás de describir tan
+extraordinariamente. Cuando dije que me conecto, es que me conecto a Bs.
+As., a las computadoras de allá, no a la poronga de Advance.
+ 
+> No seria copado mandar archivos arrastradolos de un directorio a otro, 
+> y hacer todo lo que se te ocurra como si el disco de la maquina que 
+> esta en el otro lado fuese simplemente una letra de unidad adicional 
+> en tu maquina?
+
+Es re-copado!... Herramientas--> Conectar a unidad de red--> G:\DELTA 1
+\CLIENTES... ¡Me vuela la cabeza!!
+ 
+De ahí los copio al diskette, y los proceso en la otra computadora que
+es la que tiene el programa. El problema es que el programa es medio
+porongón y tiene un montón de falencias. Una de ellas es que solo te
+permite copiar archivos de las unidades A y B, y por eso estamos
+limitados al asunto de la copia en diskette de una máquina a otra. Ahora
+iban a ver si lo podían reformar, para que el programa pudiera procesar
+desde cualquier unidad, y eso si que sería realmente copado, porque me
+ahorraría el trámite de los disquitos.
+Pero... hay que esperar.
+
+
+

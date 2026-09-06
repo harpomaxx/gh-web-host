@@ -1,0 +1,72 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 26 Oct 2001 04:00:56 -0000
+Received: (qmail 3796 invoked from network); 26 Oct 2001 04:00:44 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.1.221 with QMQP; 26 Oct 2001 04:00:44 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta3 with SMTP; 26 Oct 2001 04:00:44 -0000
+Received: from gateway.micasa.org.ar (200-41-31-14-rdunysd1.impsat.net.ar [200.41.31.14])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA03931
+	for <mendonet-l@...>; Fri, 26 Oct 2001 01:01:54 -0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15wxGF-0000F8-00
+	for <mendonet-l@...>; Fri, 26 Oct 2001 00:02:19 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15wxGE-0000Ex-00
+	for <mendonet-l@...>; Fri, 26 Oct 2001 00:02:18 -0300
+Date: Fri, 26 Oct 2001 00:02:18 -0300
+To: mendonet-l@...
+Subject: Re: me robaron la bicicleta
+Message-ID: <20011026000218.E710@...>
+References: <04f101c15bca$c59b5f60$060aa8c0@...> <11866.011025@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <11866.011025@...>
+User-Agent: Mutt/1.3.22i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Thu, Oct 25, 2001 at 08:48:18PM -0300, rodralez wrote:
+
+> > En incidente paso desapercibido hasta que a las 20:30 mas o menos, hora a la
+> > que regrese de instalarle KDE
+> > al GNU/Linux de Marc, observo la ausencia de mi bicicleta.
+> 
+> Qué bajón !!!... pero seamos sinceros Groucho.
+> En tu casa la puerta del patio estaba (espero que asi sea) siempre
+> abierta.
+
+Y gracias a eso pudiste entrar y grabarte unos CDs a pesar de que yo no
+estaba!!!!
+En este caso estaba mi hermano. Anteriormente se consideraba que la presencia
+de habitantes en la casa era disuacion suficiente habida cuenta del inevitable
+ruido que 5 perros pueden hacer cuando entra un desconocido.
+
+> Lamentablemente en este mundo hay gente mala que se "tienta"
+> con las pertenencias ajenas.
+
+Durante la mañana alguien cerro mal el porton y quedo entreabierto, exhibiendo
+mi bicicleta. Notar que se robaron la mia a pesar de que la de mi hermando
+estaba mas cerca de la entrada, y que la de el era nueva y sin uso y la
+mia esta deliberadamente sucia. Por lo menos el ladron era un conocedor de
+bicicletas.
+
+ 
+> De todas formas yo en mi casa tengo una bicicleta media carrera al
+> pedo, si te pinta te la presto hasta que consigas otra.
+
+Gracias por la oferta, pero como el chivo expiatorio oficial es mi hermano, el
+ofrecio prestarme su bicicleta hasta que consiga otra.
+
+
+--
+Groucho
+
+
+
+

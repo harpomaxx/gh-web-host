@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_2); 5 Dec 2001 17:21:20 -0000
+Received: (qmail 83123 invoked from network); 5 Dec 2001 17:21:19 -0000
+Received: from unknown (216.115.97.172)
+  by m9.grp.snv.yahoo.com with QMQP; 5 Dec 2001 17:21:19 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta2.grp.snv.yahoo.com with SMTP; 5 Dec 2001 17:21:20 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with SMTP id OAA11783
+	for <mendonet-l@...>; Wed, 5 Dec 2001 14:22:16 +0300 (GMT)
+Message-ID: <014801c17db2$5ee4fb00$060aa8c0@...>
+To: <mendonet-l@...>
+References: <4976.011202@...> <18575.011204@...>
+Subject: Re: Re[4]: Roxette
+Date: Wed, 5 Dec 2001 14:29:13 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+
+
+> L>> Che,  necesito  registrar el audiocatalyst... algún
+> L>> consejo...? Estuve
+> L>> mirando  astalavista...  pero  o  conseguí  mucho  más
+> L>> que pornografía barata...
+
+El consejo es que no lo registres. Comprime rapido, pero suena
+muy para el orto.
+
+> L>> Qué otro mp3 encoder está bueno por ahí?
+
+El Franhouffer, el lame.
+
+--
+Groucho
+
+

@@ -1,0 +1,59 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 18 Oct 2001 15:00:21 -0000
+Received: (qmail 46346 invoked from network); 18 Oct 2001 15:00:20 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.220 with QMQP; 18 Oct 2001 15:00:20 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta1 with SMTP; 18 Oct 2001 15:00:20 -0000
+Received: from modem15-as2.mendoza.sinectis.com.ar ([200.59.95.15])
+  by softhome.net with esmtp; Thu, 18 Oct 2001 08:55:43 -0600
+Date: Wed, 17 Oct 2001 14:25:26 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus <aldocop@...>
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <0600.011017@...>
+To: mendonet-l@...
+Subject: Re[6]: Sean buenos SI SEAN...
+In-reply-To: <20011016171557.T6734@...>
+References: <20011016171557.T6734@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+
+>> ARGENTINO ES    PEOR QUE ESTE (TE ROMPO ME, CHUPASTE TE METI ME AGARRASTE)Y
+>> NO ME GUSTO.         ,CONSULTE A UN HAQUER Y ME DIJO YAHOO TIENE LA SOLUCION
+>> DE TU PROBLEMA Y AQUI ESTOY BUENAS TARDES....
+
+GM> Ok... En todo grupo hay reglas y en este son:
+GM> Casi todo es permitido pero: No fastidies excesivamente a los demas ni te dejes
+GM> fastidiar excesivamente.
+GM> Cosas que fastidian excesivamente a los demas:
+
+GM> 1) Quotear mal
+GM> 2) Escribir en mayusculas
+GM> 3) Mander cadenas y demas materiales voluminosos no solicitados
+GM> 5) Mandar mensajes HTML
+
+GM> Con el tiempo te sigo explicando la nettiquette, si es que tenes
+GM> mendonet matirialness.
+
+Ok... su forma de ingresar me pareció simpática... es de los primeros
+que ingresan así creo... ¿no?
+
+Hace unos días lo incluí en mi kill filter... avísenme si
+eventualmente debiera reingresarlo... a propósito... el tipo se llevó
+el honor de inaugurar ese filtro en particular... jeje...
+
+Lupus
+
+--
+
+"Volveremos a brindar por todo lo que se pierde y se encuentra: la libertad, las cadenas, la alegría y ese cariño oculto que nos arrastra a buscarnos a través de toda la tierra."  -  Miguel Hernandez, cartas enviadas desde la carcel donde murió.           
+
+
+

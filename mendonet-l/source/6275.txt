@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_2); 21 Apr 2001 07:04:10 -0000
+Received: (qmail 82256 invoked from network); 21 Apr 2001 07:04:10 -0000
+Received: from unknown (10.1.10.27) by l9.egroups.com with QMQP; 21 Apr 2001 07:04:10 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.23) by mta2 with SMTP; 21 Apr 2001 07:04:08 -0000
+Received: (qmail 5893 invoked by uid 1005); 21 Apr 2001 06:28:21 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.585887 secs); 21/04/2001 03:28:19
+Received: from antro.micasa (192.168.0.2) by torton.micasa with SMTP; 21 Apr 2001 06:28:17 -0000
+Date: Sat, 21 Apr 2001 03:28:11 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <13144.010421@...>
+To: lug-list@...
+Subject: Geek code
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Amigos: he aqui mi geek code.
+
+Quiero incluirlo en mi perfil del LUG. Harpo? Coronel?
+
+Luca: en tu administrador de perfiles deberia haber lugar para el geek
+code.
+
+Espero que no les parece muy arrogante L++(++++)
+
+
+-----BEGIN GEEK CODE BLOCK-----
+ Version: 3.1
+ GCS/IT/CC/E d-- s+:+>+: a26- C++(+++) UL++ P+++ L++(++++) E- W++
+ N o+ K- w++ O- M- V- PS+ PE Y++ PGP-- t+ 5 X++(+++) R- tv+ b++
+ DI- D++ G++ E++>+++ h! r++ y+>++
+------END GEEK CODE BLOCK------
+
+
+-- 
+Groucho Marx
+¡Vete! ¡Competimos por el título de campeón del Universo! -- El tipo de las historietas
+
+
+

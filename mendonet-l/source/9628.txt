@@ -1,0 +1,193 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 4867 invoked from network); 13 Jul 2000 08:22:47 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 13 Jul 2000 08:22:47 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 13 Jul 2000 08:22:47 -0000
+Received: (qmail 14916 invoked by uid 417); 13 Jul 2000 08:28:10 -0000
+Received: from mza2ppp-213.uc.infovia.com.ar (209.13.229.213) by smtpb.softhome.net with SMTP; 13 Jul 2000 08:28:10 -0000
+Date: Fri, 7 Jul 2000 19:09:09 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <18798.000707@...>
+To: Groucho Marx <mendonet-l@egroups.com>
+Subject: Re[6]: Utopías son todas...
+In-reply-To: <6768.000705@...>
+References: <6768.000705@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Lupus el Lobo <aldocop@...>
+
+El 7/5/2000 Groucho Marx me decia:
+
+GM> El 03/07/2000, Lupus delirantemen=
+te escribio:
+
+LeL>> Criticar  es  muy  facil,  decir que las cosas est=
+an mal es muy facil,
+LeL>> cualquiera  puede  hacerlo.  Proponer  soluc=
+iones es mas dificil... yo
+LeL>> admito  los  problemas  y busco soluci=
+ones, vos putias los problemas y
+LeL>> queres  destruir  el  sistema  q=
+ue  los  provoca  en lugar de intentar
+LeL>> remediarlo, pero sin saber rea=
+lmente como vas a resolver los problemas
+LeL>> que  el  sistema  actual  =
+resuelve.  Ya  se,  los  resuelve  y  genera
+LeL>> injusticia,  ya  lo  h=
+emos  repetido  mil  veces, pero los resuelve al
+LeL>> menos...  =BFQue  =
+te  hace  pensar que si las decisiones las toma un ser
+LeL>> pensante   en =
+  lugar  de  tomarlas  el  mercado  va  a  haber  menos
+LeL>> injusticias??=
+??
+
+LeL>> Ahhh  vos  no  has  dicho  que las decisiones las tome una person=
+a, el
+LeL>> comunismo  no dice eso, ademas vos no sos comunista, pero vos=
+ igual no
+LeL>> decis eso... bien, =BFcomo entonces?
+
+GM> Que tal asi:
+=
+
+GM> Todos las personas llenan un formulario donde dicen que van a
+GM> nece=
+sitar durante ese mes o año y lo mandan mediante alguna aplicacion
+GM> de=
+ Internet a un procesador automatico del gobierno.
+GM> En base a ese censo,=
+ se programa la produccion de las fabricas
+GM> estatales, la distribucion, =
+etc.
+GM> La gente solo tendria que ir al supermercado mas cercano con su co=
+pia
+GM> del formulario a recibir lo que habia pedido.
+
+GM> La decision de c=
+uanto, y que producir queda asi resuelta.
+GM> La pregunta de como producir =
+queda a cargo de expertos ingenieros y
+GM> cientificos dedicados a mejorar =
+continuamente los metodos existentes.
+
+GM> La distribucion sera calculada p=
+or el sistema informatico. Se trata de
+GM> un problema analogo al enrutamie=
+nto de trafico en una red de
+GM> computadoras, y los algoritmos que resuelv=
+en el problema ya son
+GM> perfectamente conocidos.
+
+GM> Como Los Pitufos pe=
+ro en el siglo 21.
+
+GM> Como se produce exactamente lo que se necesita, no =
+hay excedentes.
+GM> Estudios de proyexion estadistica permitiran diseñar =
+los cambios al
+GM> sistema de produccion.
+
+Es  que  justamente  la  idea  e=
+s que las respuestas a ambas preguntas
+estan  relacionadas... digamos que=
+ la funcion de produccion que da las
+cantidades  de  cada  producto  a =
+ producir  es  funcion  tanto de las
+necesidades  de  la  gente  como  de=
+  los  recursos  que  impliquen la
+produccion,  ahi  esta  la  gran  =
+complejidad  del  problema!!  Ambas
+preguntas no pueden resolverse por sepa=
+rado.
+
+Ejemplo:  todos  quieren  un  auto,  pero  si la maquinaria producti=
+va
+intenta  producir  un  auto  para  cada  persona los recursos, que son
+l=
+imitados, no seran suficientes para producir la cantidad de batidoras
+que=
+  se  necesitan,  como  con  los  recursos  de un auto haces muchas
+batid=
+oras habra   un  punto  optimo  en  el  que  se  logre  la  mayor
+satis=
+faccion,  un  auto  menos  y  1000  batidoras  mas lograran mayor
+sat=
+isfaccion   total.  Aca  entran  las  leyes  de  los  rendimientos
+marg=
+inales  decrecientes y de la satisfaccion marginal decreciente que
+son la=
+ base de la explicacion de los optimos economicos.
+
+GM> Hey!! La gent=
+e del sector 7-G esta pidiendo demasiados chupetines.
+GM> Para el 2010 hara=
+ falta una nueva fabrica de chupetines en ese sector!
+
+Seria  copado  si =
+ no hubieran recursos limitados y no fuera imposible
+satisfacer  toda  la  =
+demanda  de chupetines sin dejar insatisfecha la
+demanada  de  otra  cosa. =
+Se comprende la complejidad de este problema
+(que  podria  ser  encarado =
+mas o menos con programacion linial, si no
+fuera  porque  la respuesta =
+seria estatica y en la practica habria que
+agregar  cada  nuevo  m=
+etodo  de  produccion al mecanismo de desicion,
+osea, habria que re=
+formular el sistema constantemente) lo complejo que
+se pone cuando aparecen=
+ millones de productos y de calidades para cada
+producto,  varios metodos=
+ de produccion para cada uno de los productos
+que  emplean  distintas  ca=
+ntidades de capital, mano de obra e insumos
+para la produccion y ademas=
+ nuevas tecnologias constantemente...
+
+GM> Al no haber propiedad privada,=
+ al haber educacion estatal obligatoria
+GM> y gratuita (que adoctrinara ade=
+cuadamente a los desencauzados),
+GM> los ciudadanos no se volveran extravag=
+antes y pediran nada que no sea
+GM> lo que necesitan (como a los comunistas=
+ les gusta).
+
+Empeza a programar... si sos montoto...
+
+
+GM> Ahora la tare=
+a de Lupus es encontrar las fallas del sistema (yo le
+GM> encuentro 3), mie=
+ntras que la de Sebas es aprobar con su beneplacito
+GM> el sistema como alt=
+ernativa a largo plazo del capitalismo, y  corregir
+GM> los errores que el =
+o Lupus le encuentren.
+
+
+GM> Que se diviertan.
+
+GM> Los problemas que le en=
+cuentro son:
+GM> - corrupcion/fraude
+GM> - motivacion
+GM> - los ajustes se =
+basan en informacion historica solamente y no hay
+GM> innovacion
+
+Agregale:=
+  no  incluye  la  interelacion  entre  como,  cuanto  y  que
+produci=
+r,  no  incluye  tampoco el hecho de que no pueden satisfacerse
+todas las n=
+ecesidades.
+
+
+

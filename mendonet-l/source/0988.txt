@@ -1,0 +1,49 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 3 Jun 2002 15:00:56 -0000
+Received: (qmail 11772 invoked from network); 3 Jun 2002 15:00:56 -0000
+Received: from unknown (66.218.66.216)
+  by m7.grp.scd.yahoo.com with QMQP; 3 Jun 2002 15:00:56 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 3 Jun 2002 15:00:56 -0000
+Received: (qmail 11556 invoked by uid 417); 3 Jun 2002 15:00:55 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 3 Jun 2002 15:00:55 -0000
+Received: from modem64-as3.mendoza.sinectis.com.ar ([216.244.255.184])
+  by softhome.net with esmtp; Mon, 03 Jun 2002 09:00:53 -0600
+Date: Mon, 3 Jun 2002 23:58:18 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <4998.020603@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UHV0b3MgcHJvYmxlbWFzIGNvbiBtaSBzdXNjcmlwY2nzbiBhIHlhaG9v?= =?ISO-8859-1?B?IGdyb3Vwcw==?=
+In-reply-To: <18783.020526@...>
+References: <18783.020526@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+Estimados
+
+Estoy  teniendo  algunos  problemas  con  mis cuentas de mail... no he
+recibido  los  últimos  de  mendonet,  aunque  espero  que con esto lo
+solucione...  (si  llega  este mail es que ya todo funciona bien... si
+no... coño!)
+
+Hay  una reunión sobre linux, según lo que alcancé a ver en unos mails
+por  web...  ya  fue?  me  la  perdí?  me  interesa, si todavía no fue
+cuéntenme cuándo es y donde, si ya fue... cuéntenme de qué se hablé...
+aunque  al  final nunca terminé de instalar mi linux, es algo que haré
+tarde o temprano...
+
+Espero que esto esté andando bien de una vez por todas!!
+
+
+

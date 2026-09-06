@@ -1,0 +1,87 @@
+From babasonica@...  Sat Jul 11 23:23:58 2020
+Return-Path: <babasonica@...>
+X-Sender: babasonica@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 17 Nov 2000 10:58:38 -0000
+Received: (qmail 9740 invoked from network); 17 Nov 2000 10:58:38 -0000
+Received: from unknown (10.1.10.27) by m8.onelist.org with QMQP; 17 Nov 2000 10:58:38 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta2 with SMTP; 17 Nov 2000 10:58:38 -0000
+Received: (qmail 32600 invoked by uid 417); 17 Nov 2000 10:58:41 -0000
+Received: from unknown (HELO hfgg) (200.41.31.85) by smtpa.softhome.net with SMTP; 17 Nov 2000 10:58:41 -0000
+Message-ID: <000801c05064$4671f900$9a4afea9@hfgg>
+To: <mendonet-l@egroups.com>
+References: <003801c04b2b$331d2980$a47c2ac8@tepes> <515.001111@...> <010001c04d08$d987b2c0$9a4afea9@hfgg> <20001113150007.C2007@...>
+Subject: (Harpo) A todo esto...
+Date: Thu, 16 Nov 2000 05:55:00 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: "Mariana" <babasonica@...>
+
+> > Creo que la parte técnica es tan valiosa como la estética. Recuerdo una
+vez
+> > que me bajé una página de la Historia del Cómic, que era solo una página
+de
+> > Bloc de Notas... HORRIBLE!!!!!!!!!... Comparada con otras, ésta no se la
+> > recomendaría a nadie, ni volvería a consultarla.
+> > Por ej., en la página de Goofer me pareció copado el color terracota del
+> > fondo, aunque yo le hubiese puesto bordeaux... Por lo conceptual ¿vio?
+>
+> Mi opinión sobre las paginas web ya mas o  menos la adelante en otro mail.
+> Para lo importante es la info igual que el Groucho, sobre todo por que
+muchas
+> veces uno quiere el texto nada mas... y por ahi toda la estética no hace
+mas
+> que enlentecer la carga.
+
+Perfecto. Pero pensá que vos hablás del lado de lo técnico. Yo hablo de
+parte del consumidor (ojo! no dije "artista").
+Internet llega a las personas mas simples. Los usuarios ya no son solo
+expertos en sistemas.
+El objetivo de las páginas (por lo menos las .com) es que sus páginas sean
+visitadas, vender productos, etc. Y no solo que "el texto sea leído".
+¿Cuáles son los ganchos para esto?... Varios. Entre ellos, un buen diseño,
+simple, pero ala vez llamativo,a trapador, coherente con el tema tratado,
+dinámica, no-aburrida, que avive los sentidos del usuario, que no lo duerma.
+
+> Sin embargo todo se reduce a la velocidad. Si las paginas se cargaran en
+menos
+> de 1 segundo, no tendría drama en que se la llene de imágenes y botones
+por
+> todos lados.
+
+Pero el tratar de conseguir esos objetivos que acabo de nombrar no va a
+implicar que la página vaya a quedar pesada. Solo basta saber elegir bien
+los elementos, puesto que no creo que exista diferencia de bytes entre un
+fondo celeste hospital a un fondo rojo.
+Solo basta conocer un poco de estética, acerca de la influencia de los
+colores en la percepción, de los mejores centros de atención que la vista
+tiene hacia la pantalla, etc.
+Porque si el objetivo de la página es conseguir usuarios, sponsors, etc., la
+página debe "atraerlos" y, repinto, las cosas entran por los ojos... Si van
+por la calle, y en una misma vereda se cruzan a Silvina Chediek y a Luisa
+Calcumill, se dan vuelta para mirar a quién?? (iba a poner a Nicole como
+ej., pero también vale el contenido).
+
+> La otra cuestión recae sobre el tan charlado tema del subjetivismo en la
+> estética. El saber si lo simple o lo recargado es mas agradable a la
+vista, no
+> esta dentro de mis posibilidades.
+
+Creo que hoy por hoy el diseño y armado de una página web no le corresponde
+solo al técnico, al programador o a alguien de ese rubro, sino que es un
+trabajo en conjunto entre artista y técnico, a menos que seas Goofer, que es
+los 2 en uno.
+
+De todas formas, respecto a la página del Malbec, los dibujos y la onda de
+los sponsors me parecieron muy copados, pero no creo que sean coherentes con
+la onda de la página.
+No creo que a los enólogos, catadores y etcéteras que visitan la página, eso
+le parezca cool (sobre todo por que ni creo que conozcan la palabra cool).
+
+
+

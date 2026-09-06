@@ -1,0 +1,86 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_2); 19 Apr 2001 05:57:17 -0000
+Received: (qmail 34385 invoked from network); 19 Apr 2001 05:57:16 -0000
+Received: from unknown (10.1.10.142) by l7.egroups.com with QMQP; 19 Apr 2001 05:57:16 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.31) by mta3 with SMTP; 19 Apr 2001 05:57:14 -0000
+Received: (qmail 20149 invoked by uid 1005); 19 Apr 2001 04:19:43 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.560683 secs); 19/04/2001 01:19:41
+Received: from antro.micasa (192.168.0.2) by torton.micasa with SMTP; 19 Apr 2001 04:19:39 -0000
+Date: Thu, 19 Apr 2001 01:19:34 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <1055.010419@...>
+To: lug-list@...
+Subject: television digital?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Vieron que el canal 9 saco licencia para transmitir television digital
+en la banda del canal 13?
+
+Alguno ha logrado captar alguna transmision de prueba (desconectando
+la television por cable y reconectando la antena Yagui del techo).
+Obviamente no va a aparecer imagen pero algun tipo de señal tiene que
+aparecer.
+
+El año pasado fui a unas pocas clases de Sistemas de Television y
+varias de ellas las dieron en un estudio del canal 9 donde nos
+explicaron la idea que ellos tenian sobre implementar television
+digital de aire, las normas y sistemas en vigencia, etc.
+
+
+Ahora quisiera saber cuanto vale un televisor digital o al menos un
+transcodificador para recibir television digital y mandarla a un
+televisor analogico comun (perdiendo toda la gracia en el proceso,
+pero bue).
+
+
+Ahora el canal 13 era la frecuencia del canal cultural de mi
+universidad (UTN) al cual nunca le otorgaron licencia.
+
+Tambien escuche que estan por modificar la ley de radiodifusion y que
+ya hay 5 interesados en sacar licencia para transmitir en Mendoza.
+
+Segun parece, un canal podra sacar licencia: nacional, regional o
+local. En cada caso estan obligados a producir distinta cantidad de
+programas locales y tienen derecho a cubrir mas o menos territorio.
+
+Un licencia de canal nacional se va a parecer a lo que son las cadenas
+de yankilandia. Una emisora central y repetidoras en cadena en todo el
+pais. En cada repetidora se podran insertar unas muy pocas horas de
+produccion local a horarios prefijados.
+Escuche que a lo mejor el canal 9 (que es uno de los accionistas de Telefe)
+se enrosca en esa y se transforma en repetidora de Telefe (algo que ya
+casi es con todas las porquerias de Tineli, Susana y Midachi que pasan).
+
+El canal 7 estaria interesado en sacar licencia de canal regional, ya
+que es dueño del canal 8 de San Juan, y el 6 de San Rafael.
+Es uno de los canales de afuera de la Capital Federal que mas
+produccion local tiene, asi que estaria en condiciones de obtener esa
+licencia.
+
+Asi que podriamos ver por aire:
+Azul
+Telefe
+America
+ATC
+Canal 13 de Buenos Aires
+Uno o 2 canales regionales originados en Cordoba
+uno o 2 canales regionales originados en Mendoza
+posiblemente un canal local producido por Supercanal, o por la UTN
+
+Y en San Martin , Tunuyan, San Rafael, etc podrian tener sus propios
+canales locales.
+
+
+-- 
+Groucho Marx
+�Mefisto os cierna con vuestra falacia subliminal! -- Homero J. Simpson
+
+
+

@@ -1,0 +1,35 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+Received: (qmail 9211 invoked from network); 28 Aug 2000 14:15:47 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 28 Aug 2000 14:15:47 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.119) by mta2 with SMTP; 28 Aug 2000 14:15:45 -0000
+Received: from elserver.micasa (harpo@... [192.168.1.3]) by elserver.micasa (8.8.7/8.8.7) with ESMTP id HAA01115 for <mendonet-l@egroups.com>; Mon, 28 Aug 2000 07:48:57 -0300
+Date: Mon, 28 Aug 2000 07:48:56 -0300 (WART)
+X-Sender: harpo@...
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: Re[2]: prueba
+In-Reply-To: <17958.000827@...>
+Message-ID: <Pine.LNX.4.04.10008280748260.31950-100000@...>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+From: harpo <harpo@...>
+
+On Sun, 27 Aug 2000, Groucho Marx wrote:
+
+GM>mobo (=motherboard) es tu maquina, para colocar el driver correcto.
+GM>
+GM>El problema es que no te puedo dar interactivamente los pasos para
+GM>solucionar el problema por e-mail, porque es probable que mientras
+GM>dure el arreglo, solo te ande el modo a prueba de fallos, y ahi perdes
+GM>acceso al e-mail y no te puedo decir como seguir (pues depende de
+GM>informacion que la misma maquina te  va a dar).
+GM>
+GM>Es mejor arreglarlo personalmente, no por control remoto.
+
+Groucho cobra 30 pesos la visita !!!! 
+
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+
+

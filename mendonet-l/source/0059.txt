@@ -1,0 +1,71 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 12006 invoked from network); 12 Sep 2003 12:45:10 -0000
+Received: from unknown (66.218.66.218)
+  by m9.grp.scd.yahoo.com with QMQP; 12 Sep 2003 12:45:10 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (64.76.47.59)
+  by mta3.grp.scd.yahoo.com with SMTP; 12 Sep 2003 12:45:12 -0000
+Received: (qmail 19541 invoked by uid 404); 12 Sep 2003 12:45:10 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar by uid 401 with qmail-scanner-1.16 
+ (uvscan: v4.1.60/v4292. spamassassin: 2.44.  Clear:. 
+ Processed in 0.516911 secs); 12 Sep 2003 12:45:10 -0000
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 12 Sep 2003 12:45:09 -0000
+Date: Fri, 12 Sep 2003 09:45:07 -0300
+To: mendonet-l@...
+Subject: Re: efemerides0
+Message-Id: <20030912094507.0e5cfa45.cgimenez@...>
+In-Reply-To: <E19xajv-0000U3-00@...>
+References: <E19xajv-0000U3-00@...>
+Organization: XNET Cuyo SA
+X-Mailer: Sylpheed version 0.9.4claws (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pgp-signature";
+ micalg="pgp-sha1"; boundary="=.'_7OWAZ)gDv+_R"
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+
+--=.'_7OWAZ)gDv+_R
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+El Thu, 11 Sep 2003 20:21:28 -0300
+Marc <marc.mz@...> escribio:
+
+> 
+> un dia como hoy alla por 11 de septiembre de 1888 murio un viejo loco
+> un idealista, un patriota, educador, uno de los mejores precidentes 
+> argentinos
+> eso es mas importante que la caida de dos torrecitas de mierda. 
+> -- 
+> Marc
+> 
+
+ese viejo "loco" no regalo medio pais?
+
+-- 
+
+Cristian Gimenez
+http://kastor.org.ar/
+
+XNet Cuyo S.A.
+Investigacion y Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-261-4252788 
+
+--=.'_7OWAZ)gDv+_R
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+
+iD8DBQE/Yb/VSFLIGu/pF3oRAq6sAJ4iuGWT3qxUXGVJ4sajrRuN+sVMbACeMdgB
+HTFOAXLebyL6b0QolIVGoIQ=
+=1Qxv
+-----END PGP SIGNATURE-----
+
+--=.'_7OWAZ)gDv+_R--
+

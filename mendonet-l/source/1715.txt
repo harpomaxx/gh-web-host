@@ -1,0 +1,75 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: unknown); 14 Mar 2002 10:31:37 -0000
+Received: (qmail 35690 invoked from network); 14 Mar 2002 10:31:37 -0000
+Received: from unknown (216.115.97.172)
+  by m6.grp.snv.yahoo.com with QMQP; 14 Mar 2002 10:31:37 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.87)
+  by mta2.grp.snv.yahoo.com with SMTP; 14 Mar 2002 10:31:36 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 16lLVy-0003LZ-00
+	for <mendonet-l@...>; Thu, 14 Mar 2002 00:02:50 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 16lLVx-0003LO-00
+	for <mendonet-l@...>; Thu, 14 Mar 2002 00:02:49 -0300
+Date: Thu, 14 Mar 2002 00:02:49 -0300
+To: mendonet-l@...
+Subject: Re: your mail
+Message-ID: <20020314030249.GA9806@...>
+References: <20020312035101.GD6974@...> <1579.020313@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <1579.020313@...>
+User-Agent: Mutt/1.3.25i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Wed, Mar 13, 2002 at 01:54:26PM -0300, Sebas wrote:
+
+> >> GM> El termino es "boot-up". Traducilo como te guste. O mejor, no lo traduzcas.
+> >> ¿Puedo castellanizarlo diciendo "butear"?
+> GM> No. Eso es lo peor que podes hacer. O traducis bien, o no traducis.
+> Dije castellanizar, no traducir.
+
+Y yo dije que no, que eso es lo peor que podes hacer. Y luego te
+di 2 opciones: traducir bien, o no traducir. Castellanizar ni siquiera
+fue una opcion.
+
+
+> >> Al parecer el conceto tuyo y el de él de un microcontrolador es
+> >> distinto... por lo que vos decís un mc es algo así como un instrumento
+> >> de medición, según mi amigo era algo más groso.
+> GM> Un microcontrolador es un sistema digital secuencial, que integra
+> GM> procesador, memoria RAM, memoria ROM, y un surtido de perifericos en un
+> GM> mismo encapsulado.
+> Pero entonces puede ser mucho más que un simple "medidor" de cosas.
+
+A menos que lo programes es solo un pedazo de plastico con patitas
+de metal. Ni de pisapapeles sirve...
+
+
+> GM> Lo que sea que se le haya ocurrido hacer a tu amigo con un
+> GM> microcontrolador en la corteza cerebral, no es mas que un instrumento
+> GM> de medicion de señales en el craneo, procesamiento de las mismas de
+> GM> alguna forma, y generacion de salidas.
+> Por ahí andaba la cosa... una de las ideas era para brazos robóticos
+> en cuadrapléjicos, o "controladores" de esfínteres vesicales para
+> incontinentes, etc.
+
+Bueno... Ese brazo robot es lo mismo que un electroencefalografo:
+En los 2 casos medis microvolts en la superficie del craneo, procesas
+la señal digitalmente, y usas el resultado para mover un motor.
+Que el motor mueva una aguja trazadora o un brazo robot, es irrelevante
+desde el punto de vista del microcontrolador.
+
+-- 
+Groucho
+
+
+
+

@@ -1,0 +1,29 @@
+From marsilou_ar@...  Sat Jul 11 23:23:58 2020
+Return-Path: <marsilou_ar@...>
+Received: (qmail 3079 invoked from network); 21 Apr 2000 02:13:58 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 21 Apr 2000 02:13:58 -0000
+Received: from unknown (HELO qg.egroups.com) (10.1.2.27) by mta1 with SMTP; 21 Apr 2000 02:13:57 -0000
+Received: (qmail 29352 invoked from network); 21 Apr 2000 02:13:56 -0000
+Received: from postino4.prima.com.ar (200.42.0.162) by qg.egroups.com with SMTP; 21 Apr 2000 02:13:56 -0000
+Received: from oemcomputer (ip200042129187.lanet.com.ar [200.42.129.187]) by postino4.prima.com.ar (8.9.3/8.9.1) with SMTP id XAA50979 for <mendonet-l@egroups.com>; Thu, 20 Apr 2000 23:13:52 -0300 (ART)
+Message-ID: <001b01bfab37$3a696580$bb812ac8@oemcomputer>
+To: <mendonet-l@egroups.com>
+References: <20000414055249.21866.qmail@...>
+Subject: RE: PROBLEMAS!  
+Date: Thu, 20 Apr 2000 22:53:33 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: "Marcela Silvana Gutierrez" <marsilou_ar@...>
+
+> > Gente hay problemas con egroups y las cuentas de
+> > mendonet.
+> > REspondan si les llega este mensaje.
+> > 
+> Llego bien,sil
+
+

@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 3 Jan 2001 03:14:30 -0000
+Received: (qmail 89600 invoked from network); 3 Jan 2001 03:14:28 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 3 Jan 2001 03:14:28 -0000
+Received: from unknown (HELO torton.micasa) (200.41.31.75) by mta3 with SMTP; 3 Jan 2001 04:15:32 -0000
+Received: (qmail 1391 invoked from network); 3 Jan 2001 03:00:11 -0000
+Received: from antro.micasa (192.168.0.2) by torton.micasa with SMTP; 3 Jan 2001 03:00:11 -0000
+Date: Wed, 3 Jan 2001 00:00:09 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <140.010103@...>
+To: mendonet <mendonet-l@egroups.com>
+Subject: Me voy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Me voy de vacaciones.
+
+Salgo mañana a las 6:00 rumbo a Plaza de Mulas y Nido de Condores (en
+el Aconcagua) o quizas el cerro Catedral.
+El 8 estare de vuelta por Mendoza durante la mañana, para partir luego
+hacia Esquel (Chubut). Mas o menos el 16 estoy de vuelta.
+
+Si necesitan comunicarse conmigo, tendra que esperar hasta entonces.
+Sorry!
+
+No se aburran demasiado!
+
+-- 
+Groucho Marx
+La mujer es como la cerveza: huele bien, sabe mejor, ¿y no puedes tomar solo
+una! -- Homero J. Simpson
+
+
+

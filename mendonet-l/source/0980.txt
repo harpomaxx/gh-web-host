@@ -1,0 +1,74 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_3); 11 Sep 2002 11:57:36 -0000
+Received: (qmail 24482 invoked from network); 11 Sep 2002 11:57:36 -0000
+Received: from unknown (66.218.66.217)
+  by m10.grp.scd.yahoo.com with QMQP; 11 Sep 2002 11:57:36 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 11 Sep 2002 11:57:36 -0000
+Received: (qmail 12006 invoked by uid 417); 11 Sep 2002 11:57:35 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 11 Sep 2002 11:57:35 -0000
+Received: from a200042124167.rev.prima.com.ar ([200.42.124.167])
+  by softhome.net with esmtp; Wed, 11 Sep 2002 05:57:27 -0600
+Date: Wed, 11 Sep 2002 01:15:29 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <552.020911@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: Re: caso clinico
+In-reply-To: <E17ovQe-0007FX-00@...>
+References: <E17ovQe-0007FX-00@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+Los datos son insuficientes, si es que me estás plantenado un caso
+real. Veamos:
+
+GM> Se que en esta lista abundan los aspirantes a matasanos, asi que 
+GM> permitanme plantear una adivinanza:
+GM> Sintomas:
+GM> Vomitos o regurgitacion del alimento, en especial el alimento crudo.
+¿Cuánto tiempo después de ingerirlos? ¿Son vómitos alimenticios,
+fecaloides(como caca), verdes y amargos(como hiel) o de alimentos
+parcialmente digeridos?¿Se producen ante cualquier tipo de alimento o
+ante los que tienen un alto contenido de grasas?¿Son violentos, en
+chorro o salen despacito, como cuando eructás y viene algo detrás?¿Se
+acompañan de náuseas?
+
+GM> Diarrea o caca semiliquida.
+¿Se identifican vegetales en ella o se ve como caca común?¿Ha
+presentado algún cambio de color?¿Tiene algún olor particular?¿Es
+espumosa?
+
+GM> Analisis de sangre dentro de parametros normales, excepto: baja 
+GM> concentracion de glucosa, y alta presencia de enzimas hepaticas.
+¿Cuán altas? Por favor, indique valores de GOT, GPT y FAL y los
+valores de referencia del laboratorio.(GOT y GPT pueden aparecer con
+otros nombres)
+
+GM> Ecografia de abdomen muestra paredes engrosadas del intestino,
+¿Eso dice el informe?¿A qué nivel está ese engrosamiento?
+
+GM> y aumento anormal del tamaño del higado.
+¿Algún dato sobre su consistencia ecográfica? PUede decir algo así
+como homogénea o inhomogénea.
+
+GM> Que enfermedad es?
+Deberías aportar más datos, como por ejemplo: edad del paciente,
+tiempo de evolución de la patología y modo de comienzo,
+características de la orina, dieta habitual, ¿hubo algún cambio en la
+coloración de piel o esclerótica(la parte blanca del ojo)?¿Hubo dolor?
+
+-- 
+Sebas   
+No piense mal de mí, señorita. Mi interés por usted es puramente sexual. GM                       
+
+
+

@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 31 Aug 2001 05:04:22 -0000
+Received: (qmail 11318 invoked from network); 31 Aug 2001 05:04:19 -0000
+Received: from unknown (10.1.10.27)
+  by l7.egroups.com with QMQP; 31 Aug 2001 05:04:19 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.6)
+  by mta2 with SMTP; 31 Aug 2001 05:04:17 -0000
+Received: (qmail 9521 invoked by uid 1005); 29 Aug 2001 18:39:14 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.176169 secs); 29/08/2001 15:39:13
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 29 Aug 2001 18:39:12 -0000
+Date: Wed, 29 Aug 2001 15:39:13 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <16353.010828@...>
+In-Reply-To: <16353.010828@...>
+Subject: Re: Sobre la propiedad
+MIME-Version: 1.0
+Message-Id: <01082915391304.00455@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 28 Ago 2001 08:28, escribiste:
+
+> A  decir  de  un amigo íntimo, Pierre Joseph Proudhon:
+
+[...]
+
+> Todo el libro que les recomendó antes, habla sobre esto, o mejor
+> dicho, explicando estos puntos. Esto es un avance para ver si logro
+> interesar a alguien en lo que yo considero una de las obras cumbres
+> de la filosofía.
+
+Estoy abierto a este tipo de cosas en este momento. PRestame el libro.
+
+
+-- 
+Groucho Marx
+

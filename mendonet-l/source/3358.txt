@@ -1,0 +1,63 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 31 Oct 2001 02:05:38 -0000
+Received: (qmail 65741 invoked from network); 31 Oct 2001 02:05:38 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.1.222 with QMQP; 31 Oct 2001 02:05:38 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.17)
+  by mta3 with SMTP; 31 Oct 2001 02:05:38 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Tue, 30 Oct 2001 18:05:38 -0800
+X-Originating-IP: [200.45.193.17]
+To: <mendonet-l@...>
+References: <D18920FC9EC7D411ACC00008C75635FA35D22D@PCUYO_MZA00> <20011016171557.T6734@...> <OE450OUIHNkjgJKVApw00005af8@...> <20011023162028.R2161@...>
+Subject: RE: Re[4]: Sean buenos SI SEAN...
+Date: Tue, 30 Oct 2001 22:43:00 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE45SbJh5RYOBYpCw940000a0f6@...>
+X-OriginalArrivalTime: 31 Oct 2001 02:05:38.0030 (UTC) FILETIME=[88CC18E0:01C161B0]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Mensaje original -----
+De: "Groucho Marx" <groucho@...>
+Para: <mendonet-l@...>
+Enviado: Martes, 23 de Octubre de 2001 04:20 p.m.
+Asunto: Re: Re[4]: Sean buenos SI SEAN...
+
+
+> On Mon, Oct 22, 2001 at 01:50:17PM -0300, Morganti Federico wrote:
+>
+> > > Ok... En todo grupo hay reglas y en este son:
+> > > Casi todo es permitido pero: No fastidies excesivamente a los demas ni
+te
+> > dejes
+> > > fastidiar excesivamente.
+> > > Cosas que fastidian excesivamente a los demas:
+> > >
+> > > 1) Quotear mal
+> > > 2) Escribir en mayusculas
+> > > 3) Mander cadenas y demas materiales voluminosos no solicitados
+> > > 5) Mandar mensajes HTML
+> >
+> > algunos mendonet matirials no cumplen con la regla tres, yo se quienes
+son y
+> > los tengo anotaditos en una servilleta de papel
+>
+> A los hippies de toda calaña que abundan en la lista se les permiten
+ciertas
+> licencias poeticas como mandar cadenas siempre que lo hagan con moderacion
+y
+> se hayan ganado la estima de sus pares.
+
+yo me referia a los materiales voluminosos no solicitados
+

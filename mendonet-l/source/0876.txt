@@ -1,0 +1,61 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 5 Aug 2002 15:57:27 -0000
+Received: (qmail 21672 invoked from network); 5 Aug 2002 15:57:27 -0000
+Received: from unknown (66.218.66.216)
+  by m10.grp.scd.yahoo.com with QMQP; 5 Aug 2002 15:57:27 -0000
+Received: from unknown (HELO io) (200.47.194.62)
+  by mta1.grp.scd.yahoo.com with SMTP; 5 Aug 2002 15:57:26 -0000
+Received: from root by io with local (Exim 3.35 #1 (Debian))
+	id 17bZbG-0001q5-00
+	for <mendonet-l@...>; Mon, 05 Aug 2002 01:36:10 -0300
+Date: Mon, 5 Aug 2002 01:36:10 -0300
+To: mendonet-l@...
+Subject: Re: Re[6]: Diez razones para no votar a Memen...
+Message-Id: <20020805013610.7498e1b2.root@...>
+In-Reply-To: <7883.020803@...>
+References: <20020726144535.482616d3.root@...>
+	<7883.020803@...>
+Organization: -fobos team-
+X-Mailer: Sylpheed version 0.7.4 (GTK+ 1.2.10; i386-debian-linux-gnu)
+X-Operating-System: Debian GNU/Linux
+X-KASTOR: Muerte al CAPITAL!!!
+User-Agent: #Muerte Al CAPITAL#
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: k a s t o r <root@...>
+X-Yahoo-Group-Post: member; u=76410190
+
+El Sat, 3 Aug 2002 21:12:46 -0300
+> Che, zurditos del orrrrtto...
+> 
+> Yo  tengo  otra... son una propaganda excelente que trata de comprarse
+> al  pueblo,  lo  que  produce  que sus filas sean minadas de falsantes
+> autodenominados idealisas de izquierda que en el fondo nos son más que
+> demagogos   más   peligrosos  aún  que los más extremos derechistas...
+> ¿Me  dejan  sitar a Duhalde como ehemplo? Digo... no es exáctamente un
+> idealista  de izquierda... concordarán conmigo... y sin embargo cuando
+> pudo   se aferró al discurso... tengo la teoría de que la gorda carrió
+> no es del todo agena a esta demagogia... pero admito que todavía no me
+> da razones de confirmación de mis especulaciones...
+> 
+> Abrazos, zurditos del ojete.
+> 
+> Lupus
+> 
+
+ lupus... sos capitalista?
+
+-- 
+
+[ kastor ] 
+
+JID: kastor@... / Powered By Debian GNU/Linux
+Key fingerprint = B83D C963 C1F8 7C02 FA82  1DFE 4852 C81A EFE9 177A
+GnuPG-public-key: http://www.linuxmendoza.org.ar/~kastor/public-key.txt
+
+
+

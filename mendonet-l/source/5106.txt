@@ -1,0 +1,50 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_1); 12 Sep 2001 03:15:44 -0000
+Received: (qmail 41604 invoked from network); 12 Sep 2001 03:14:43 -0000
+Received: from unknown (10.1.10.27)
+  by l10.egroups.com with QMQP; 12 Sep 2001 03:14:43 -0000
+Received: from unknown (HELO elserver.micasa) (200.47.194.54)
+  by mta2 with SMTP; 12 Sep 2001 03:14:38 -0000
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id WAA01654
+	for mendonet-l@...; Tue, 11 Sep 2001 22:26:44 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Tue, 11 Sep 2001 22:26:44 -0300
+To: mendonet-l@...
+Subject: Re: Cad del orrrto.....
+Message-ID: <20010911222644.A1603@...>
+Reply-To: harpo@...
+References: <1000021871.1173.64675.l10@...> <000301c13b30$2982ee00$c6e60dd1@LocalHost>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <000301c13b30$2982ee00$c6e60dd1@LocalHost>; from morocho@... on Tue, Sep 11, 2001 at 11:07:52PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.19 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+El Tue, Sep 11, 2001 at 11:07:52PM -0300, morocho dijo:
+> Me cago en todos los forros de mierda que usan cuanto programa nuevo sale,
+> la puta madre que los remilpario son todos unos bufarras de mierda. Yo
+> estaba tan contento con mi Autocad14 era feliz mi maquina se la bancaba
+> tranquilo pero por culpa de todos los mal paridos que se vanaglorian
+> diciendo tengo el Autocad2000 y trabajan en el mismo me he visto en la
+> necesidad de instalar esa poronga y veo que el rendimiento ya no es el
+> mismo!!! Solo estaba envenenado y puteando solo aca ....y que???? MIERDA
+> MIERDA MIERDA SE ARMOOOOO LA PODRIDA LE CAYERON AL  TIO SAM!!!! ALGO VA A
+> PASAR!!!! LA PUTA MADRE SE ARRMAAAAA ����CON PAPA YANQUI
+> NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!Sorry pero acabo de ver como
+> le estan cayendo avioncitos sobre EEUU!!! Disculpen la emocion!!!
+> A todo esto me sigo cagando con los putos que usan Autocad2000.
+
+Eso pasa por ser fanaticos del consumo, hay que tratar de ser pragmaticos y
+tratar de evitar esto hasta que no sea totalmente necesario.
+
+-- 
+Harpo+
+

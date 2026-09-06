@@ -1,0 +1,55 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 5 May 2002 18:53:01 -0000
+Received: (qmail 47886 invoked from network); 5 May 2002 18:53:00 -0000
+Received: from unknown (66.218.66.218)
+  by m8.grp.scd.yahoo.com with QMQP; 5 May 2002 18:53:00 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.125)
+  by mta3.grp.scd.yahoo.com with SMTP; 5 May 2002 18:52:59 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 174M4W-0003YB-00
+	for <mendonet-l@...>; Sun, 05 May 2002 10:29:04 -0300
+Received: from cubil.micasa.org.ar
+	([192.168.0.3] helo=there ident=groucho)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 174M4W-0003Y0-00
+	for <mendonet-l@...>; Sun, 05 May 2002 10:29:04 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[6]: Industria argentina... las pelotas !!.
+Date: Sun, 5 May 2002 13:27:32 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <E17419W-0002wU-00@...> <0974.020504@...>
+In-Reply-To: <0974.020504@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E174M4W-0003Y0-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Sáb 04 May 2002 23:23, escribió:
+> >> L> La tierra ya no es lo único que produce...
+> >> L> Me   parece   que  deben  haber  otros  motivos  para  que  no
+> >> hayan L> excedentes...
+> >> Es tan obvio que me refiero a los productos derivados de la
+> >> explotación de la tierra(alimentos de origen vegetal y animal) que tu
+> >> aclaración te deja mal parado, te hace ver como subnormal.
+>
+> GM> Yo creo que no... Yo creo que tu afirmacines te hacen quedar a vos como
+> GM> un anticuado. Te quedaste en 1910...
+> Y tu declaración evidencia tu amor platónico por lupus.
+
+No necesariamente. Mi afirmacion de que la exportacion de lo que la 
+explotacion de la tierra produzca era una "pelotudez sin valor agregado" 
+antecede en varios dias la afirmacion similar de Lupus.
+
+-- 
+Herr Grouchox
+
+
+
+

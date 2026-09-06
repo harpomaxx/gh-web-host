@@ -1,0 +1,41 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 21365 invoked from network); 1 Jul 2003 17:59:45 -0000
+Received: from unknown (66.218.66.218)
+  by m6.grp.scd.yahoo.com with QMQP; 1 Jul 2003 17:59:45 -0000
+Received: from unknown (HELO vita.com.ar) (200.80.39.12)
+  by mta3.grp.scd.yahoo.com with SMTP; 1 Jul 2003 17:59:44 -0000
+Received: (qmail 2482 invoked by uid 64014); 1 Jul 2003 17:59:39 -0000
+Received: from rodralez@... by wega by uid 1004 with qmail-scanner-1.16 
+ (avp: 4.0.0.1. spamassassin: 2.20.  Clear:SA:0(0.0/5.0 tests= version=2.20):. 
+ Processed in 1.201379 secs); 01 Jul 2003 17:59:39 -0000
+Received: from unknown (HELO servidor) (rodralez@...@200.41.21.212)
+  by ns1.vita.com.ar with SMTP; 1 Jul 2003 17:59:38 -0000
+Date: Tue, 1 Jul 2003 14:08:02 -0300
+X-Mailer: The Bat! (v1.62r)
+X-Priority: 3 (Normal)
+Message-ID: <402956998.20030701140802@...>
+To: mendonet-l@...
+Subject: Nuevo email.
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Spam-Status: No, hits=0.0 required=5.0 tests= version=2.20
+X-Spam-Level: 
+From: rodralez <rodralez@...>
+Reply-To: rodralez <rodralez@...>
+X-Yahoo-Group-Post: member; u=152320388
+X-Yahoo-Profile: rodralez
+
+
+Les paso mi nuevo email:
+
+rodralez@...
+
+Saludos...
+
+rodralez
+
+

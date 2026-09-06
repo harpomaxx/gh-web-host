@@ -1,0 +1,59 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_1); 13 Sep 2001 05:34:54 -0000
+Received: (qmail 47672 invoked from network); 13 Sep 2001 05:33:22 -0000
+Received: from unknown (10.1.10.26)
+  by l9.egroups.com with QMQP; 13 Sep 2001 05:33:22 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.27)
+  by mta1 with SMTP; 13 Sep 2001 05:33:21 -0000
+Received: (qmail 3665 invoked by uid 1005); 12 Sep 2001 18:04:46 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.18535 secs); 12/09/2001 15:04:45
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 12 Sep 2001 18:04:44 -0000
+Date: Wed, 12 Sep 2001 15:04:43 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <126369827.20010912204327@...> <11925.010911@...>
+In-Reply-To: <11925.010911@...>
+Subject: Re: Re[4]: =?iso-8859-1?q?Tecnica=20vs=20sentimiento?=
+MIME-Version: 1.0
+Message-Id: <01091215044300.00455@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+
+> S>> calambre. El me dijo justo lo contrario a lo que vos me decís, él
+> S>> me decía que tocar limpio era fácil, y tocar sucio y que suene
+> bien era más difícil.... obvio que no fueron esas las palabras,
+> S>> pero ese era el significado.
+> O> Ok, si es asi, hagamos una prueba, te presto mi guitarra, te
+> O> enseño unos acordes y escalas e intentas tocarlas limpias.
+> Lo que voy a hacer, es preguntarle a todos los guitarristas que
+> conozco, y pedirles una demostración, así que dentro de un tiempo
+> tendrán mi veredicto, no obstante lo cual, divididos sigue siendo la
+> mejor banda argentina, y mollo una masa absoluta.
+
+BORING!
+
+prolijo/desprolijo/sucio/limpio/facil/dificil.
+
+Si estamos de acuerdo en que:
+1) Tocar para el orto es mas facil que tocar bien.
+2) Si tocas bien es mas facil lograr que suene bien
+3) Tocar mal y que suene bien es mas dificil que tocar bien y que suene 
+mal
+
+Entonces:
+Tu talentoso yanki tiene razon segun hipotesis 3
+Oxiuro tiene razon, segun hipotesis 1
+La hipotesis 2 es por si queda algun punto por tocar de manera que el 
+tema quede cerrado a priori y dejen de aburrime.
+
+
+-- 
+Groucho Marx
+

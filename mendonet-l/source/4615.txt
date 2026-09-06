@@ -1,0 +1,85 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 22 Sep 2001 07:05:00 -0000
+Received: (qmail 10351 invoked from network); 22 Sep 2001 07:05:00 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.221 with QMQP; 22 Sep 2001 07:05:00 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.55)
+  by mta2 with SMTP; 22 Sep 2001 07:05:25 -0000
+Received: (qmail 24960 invoked by uid 1005); 21 Sep 2001 18:40:35 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.203742 secs); 21/09/2001 15:40:34
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 21 Sep 2001 18:40:33 -0000
+Date: Fri, 21 Sep 2001 15:40:32 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <1131281644.20010920084924@...> <12609.010920@...> <105823994.20010921092013@...>
+In-Reply-To: <105823994.20010921092013@...>
+Subject: Re: Re[6]: Se acabo sebitas... UFA!
+MIME-Version: 1.0
+Message-Id: <01092115403201.00445@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 21 Sep 2001 09:20, escribiste:
+
+
+> M> Como no es de utilidad la transformada z, se puede aplicar a
+> M> cálculos de estructuras sometidas a  movimientos sísmicos y
+> M> resonancias en estructuras diversas y materiales,utilizadas en el
+> M> diseño y la construcción de estructuras delicias
+>
+> Como dije desconozco ese metodo, lo que se utiliza para ver la
+> respuesta de estructuras sometidas a movimientos sismicos y
+> resonancias es el metodo de newmark o alguno similar. Quizas la
+> transformada Z es mucho mas exacta en cuanto a calculo pero en
+> ingenieria estructural no importa tanto esa exactitud ya que cometes
+> groseros errores en predecir cargas, masas, terremoto a ocurrir, etc.
+> En palabras simples: no importa si pones la seccion de acero
+> calculada a 0.0001 mm si la pones mal, conviene hacer una
+> aproximacion grosera y colocarla bien.
+> Ota cosa, Groucho dijo que es para ecuaciones de orden superior y en
+> un movimiento sismico solo interesa conocer, desplazamiento,
+> velocidad y aceleracion en el tiempo, o sea, una ecuacion diferencial
+> de segundo orden.
+
+Ademas la transformada Z encuentra aplicaciones en la resolucion de 
+ecuaciones de DIFERENCIA, que no tienen nada que ver con las ecuaciones 
+DIFERENCIALES.
+
+Y para las ecuaciones diferenciales, no conviene usar la transformada 
+de Laplace, resolver el sistema de ecuaciones algebraico resultante, y 
+luego antitransformar las soluciones?
+
+
+> Pero de todos modos, me interesaria conocer el metodo para poder
+> expandirme intelectualmente, quien te dice que quizas algun dia
+> proponga un nuevo metodo de analisis temporal de estructuras?
+
+No te va a servir... Estamos hablando de sucesiones reales o 
+complejas,o  sea funciones f:N->R, o f:N->C por lo que el tiempo 
+tendria que ser discreto.
+
+
+> M> eso pasa por no estudiar en una buena universidad
+> M> jajjaaja, la eterna lucha UTN vs UNC
+
+> lo raro es que son los mismos profesores y las mismas catedras.
+
+Pero no son los mismos alumnos!!!!
+Es muy distinta la gente que va a la UTN que la que va a la UNC.
+Lupus que ha ido a tantas universidades distintas quizas pueda 
+confirmarlo.
+
+El alumno tipico de la UNC se "arregla" para ir a la facultad, por lo 
+general no trabaja y suele ser mas joven que el estudiante de la UTN.
+Politicamente, el alumnado de la UNC es mas de tendencias de centro, y 
+el de la UTN de dendencias izquierdosas.
+
+-- 
+Groucho Marx
+

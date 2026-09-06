@@ -1,0 +1,66 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 17665 invoked from network); 26 Jul 2000 21:01:36 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 26 Jul 2000 21:01:36 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 26 Jul 2000 21:01:33 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.16 [200.41.21.16] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id SAA07450 for <mendonet-l@egroups.com>; Wed, 26 Jul 2000 18:04:07 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id NAA01796 for <mendonet-l@egroups.com>; Wed, 26 Jul 2000 13:06:38 -0300
+Sender: federico@...
+Message-ID: <397F0C8C.193AEBB8@...>
+Date: Wed, 26 Jul 2000 13:06:36 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.4.0-test4 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: Para todos los...
+References: <Pine.LNX.4.04.10007232334550.25020-100000@...>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Cabeza <fedped@...>
+
+harpo wrote:
+ 
+> C>> C>Es verdad, pero sobre linux preguntame lo que quieras.
+> C>>
+> C>> Cual es el tamanio en bytes del miembro de la estructura que representa
+> C>> el PID???? :)))
+> C>
+> C>ja ja.. rebuscada la pregunta he? pero tendran que ser 16 bits.
+> C>ya que el maximo de procesos es 65536
+> 
+> JUA JUA!
+> Te aclaro que no tengo del todo clara la respuesta por que no soy ni mucho
+> menos un GURU!...
+> 
+> Pero creo que el numero maximo de procesos es 32768, ya que el tipo de dato
+> dentro de la estructura task_struct{} para PID es un tipo de dato entero,
+> Pero con signo!
+> De hecho en mi experiencia nunca encontre un PID mayor de 32768!!
+> en fin... creo que es asi...
+> 
+> El Harpo!
+> 
+
+a ver esto me dejo pensando, entonces empece a abrir xterm a lo
+estupido.
+pero cuando abri unas 85 ventanas...
+
+Xlib: Maximum number of clients reached
+
+y no quiso abrir mas ventanas, pero los bash correspondientes seguian
+apareciendo que raro?? 
+igual nunca llegarian a semejante numero, pero creo haber leido por ahi
+que el maximo es 65536, ademas cual es la necesidad de que le PID tenga
+signo?
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+"Contrary to popular opinion, Linux is user friendly, It just happens to
+be very selective about who makes friends with."
+

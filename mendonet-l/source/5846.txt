@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_1); 12 Aug 2001 07:12:05 -0000
+Received: (qmail 80140 invoked from network); 12 Aug 2001 07:12:05 -0000
+Received: from unknown (10.1.10.142)
+  by l7.egroups.com with QMQP; 12 Aug 2001 07:12:05 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.121)
+  by mta3 with SMTP; 12 Aug 2001 07:12:03 -0000
+Received: (qmail 19081 invoked by uid 1005); 11 Aug 2001 17:08:20 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.248666 secs); 11/08/2001 14:08:19
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 11 Aug 2001 17:08:17 -0000
+Date: Sat, 11 Aug 2001 14:08:19 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <16743705.20010806213945@...> <01080717503501.00360@cubil> <20010810012443.B8453@...>
+In-Reply-To: <20010810012443.B8453@...>
+Subject: Re: linux, hombres y pornografia
+MIME-Version: 1.0
+Message-Id: <01081114081901.00321@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 10 Ago 2001 01:24, escribiste:
+
+> > Seguramente ese formateado de particion estuvo totalmente de mas.
+>
+> Te comento el pedo.
+> Muy comico..
+> mke2fs corrio sobre una particion con el Id Win95 Vfat. Y fue
+> formateada de entrada. Ese fue el error, ese fue el pedo. ESA FUE LA
+> PARTICION QUE ESTABA DE MAS! Jua jua...
+
+Ahhh, te equivocaste al elegir la particion que querias formatear!
+Muy comico, excepto para Oxiuro.
+
+Por cierto, ayer Sebas comento ciertos habitos reproductorios de los 
+oxiuros, y el nombre le viene al pelo al Oxiuro!
+
+
+-- 
+Groucho Marx
+

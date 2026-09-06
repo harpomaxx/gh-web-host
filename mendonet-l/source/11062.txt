@@ -1,0 +1,32 @@
+From joalonso@...  Sat Jul 11 23:23:58 2020
+Return-Path: <joalonso@...>
+Received: (qmail 31155 invoked from network); 10 May 2000 18:01:05 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 10 May 2000 18:01:05 -0000
+Received: from unknown (HELO lanet.com.ar) (200.42.8.134) by mta3 with SMTP; 10 May 2000 18:01:03 -0000
+Received: from joalonso (ip200042129212.lanet.com.ar [200.42.129.212]) by lanet.com.ar (8.8.7/8.8.7) with SMTP id PAA15726 for <mendonet-l@egroups.com>; Wed, 10 May 2000 15:04:08 -0300
+Message-ID: <000a01bfbaa9$ea0b1f20$d4812ac8@joalonso>
+To: <mendonet-l@egroups.com>
+References: <8589.000509@...>
+Subject: RE: (unknown)
+Date: Wed, 10 May 2000 14:59:01 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: =?iso-8859-1?Q?Jose_Octavio_Alonso?= <joalonso@...>
+
+>
+> PD.: Ya me está llenando softhome... alguien conoce otro server gratis
+> que soporte pop3 y que ande mejor??
+> Han  notado  que no se puede enviar un mensaje a más de 11 personas...
+> un embole...
+>
+En yahoo, podés usar pop3 y web, ahora, me parece que es pop3 entrante, nada
+más, que para mandar, no se si te deja, pero con probar no se pierde nada.
+Saludos
+OCtavio
+
+

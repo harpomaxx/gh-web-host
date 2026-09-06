@@ -1,0 +1,31 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 6487 invoked from network); 20 May 2000 14:25:35 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 20 May 2000 14:25:35 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta3 with SMTP; 20 May 2000 14:25:34 -0000
+Received: (qmail 30408 invoked by uid 722); 20 May 2000 14:25:17 -0000
+Date: 20 May 2000 14:25:17 -0000
+Message-ID: <20000520142517.30394.qmail@...>
+To: mendonet-l@egroups.com
+Subject: el cero la pone
+From: fcanizo@...
+
+El 15/05/00, Groucho Marx le susurraba a harpo:
+
+GM>El 7 no es nada si no fuera por el 6.
+GM>En realidad ningun numero es nada sin el 1. El 1 es un concepto
+GM>primitivo, al igual que la funcion siguiente(). Todos los otros
+GM>numeros se derivan de esos 2 conceptos primitivos.
+GM>
+GM>Ejemplo:
+GM>7=sig(sig(sig(sig(sig(sig(1))))))
+GM>Segun Rey Pastor, claro.
+
+Ese rey pastor no sabe nada, que se vaya a cuidar sus ovejas
+mejor. Lo más grosso es el cero (0).
+
+
+---
+Celoso como gatito mimado
+
+

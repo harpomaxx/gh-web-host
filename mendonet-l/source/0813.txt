@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_3); 20 Sep 2002 19:14:23 -0000
+Received: (qmail 34367 invoked from network); 20 Sep 2002 19:14:23 -0000
+Received: from unknown (66.218.66.218)
+  by m5.grp.scd.yahoo.com with QMQP; 20 Sep 2002 19:14:23 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 20 Sep 2002 19:14:22 -0000
+Received: from kavkeeper by pandora.negyser.com.ar with local (Exim 3.32 #1 (Debian))
+	id 17sQcR-0000Fo-00
+	for <mendonet-l@...>; Fri, 20 Sep 2002 13:27:03 -0300
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lagruta)
+	by pandora.negyser.com.ar with smtp (Exim 3.32 #1 (Debian))
+	id 17sQcQ-0000Fd-00
+	for <mendonet-l@...>; Fri, 20 Sep 2002 13:27:02 -0300
+Message-ID: <012e01c260d9$fe8e3ee0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <E17sCHZ-0005UE-00@...> <819.020920@...>
+Subject: Re: Samsung GL-85G
+Date: Fri, 20 Sep 2002 16:14:49 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-Envelope-To: mendonet-l@...
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> ¿No habrás mandado esto al lugar incorrecto?
+
+Absolutamente.
+
+--
+Herr Grouchox
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+From joanini@...  Sat Jul 11 23:23:58 2020
+Return-Path: <joanini@...>
+X-Sender: joanini@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_0_3); 15 Feb 2001 14:19:46 -0000
+Received: (qmail 22595 invoked from network); 15 Feb 2001 14:19:45 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 15 Feb 2001 14:19:45 -0000
+Received: from unknown (HELO web1804.mail.yahoo.com) (128.11.23.47) by mta3 with SMTP; 15 Feb 2001 15:20:50 -0000
+Received: (qmail 12143 invoked by uid 60001); 15 Feb 2001 14:19:45 -0000
+Message-ID: <20010215141945.12142.qmail@...>
+Received: from [216.219.32.230] by web1804.mail.yahoo.com; Thu, 15 Feb 2001 15:19:45 CET
+Date: Thu, 15 Feb 2001 15:19:45 +0100 (CET)
+Subject: Hay alguien?
+To: mendonet-l@yahoogroups.com
+In-Reply-To: <000801c092cf$1a452ac0$0100007f@Sebastian>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: =?iso-8859-1?q?Johi?= <joanini@...>
+
+
+-Yo no recibo mails o esta pasando algo?
+Es esto la muerte de mendonet?
+
+=====
+Johi...
+
+_______________________________________________________________
+Do You Yahoo!?
+Envía mensajes instantáneos y recibe alertas de correo con 
+Yahoo! Messenger - http://messenger.yahoo.es
+

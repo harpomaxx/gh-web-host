@@ -1,0 +1,85 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 1 Sep 2001 18:00:40 -0000
+Received: (qmail 81017 invoked from network); 1 Sep 2001 18:00:28 -0000
+Received: from unknown (10.1.10.142)
+  by l7.egroups.com with QMQP; 1 Sep 2001 18:00:28 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.82)
+  by mta3 with SMTP; 1 Sep 2001 18:00:15 -0000
+Received: (qmail 4670 invoked by uid 1005); 1 Sep 2001 17:47:18 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.481032 secs); 01/09/2001 14:47:16
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 1 Sep 2001 17:47:15 -0000
+Date: Sat, 1 Sep 2001 14:48:06 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <006701c1319a$79c0fd20$6301a8c0@g8> <12534.010831@...> <006101c1323d$5cfc0a60$6301a8c0@g8>
+In-Reply-To: <006101c1323d$5cfc0a60$6301a8c0@g8>
+Subject: Re: Re[2]: =?iso-8859-1?q?=BFDerecho=20a=20la=20propiedad=3F?=
+MIME-Version: 1.0
+Message-Id: <01090114480600.00404@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 31 Ago 2001 13:52, escribiste:
+
+> Veo que has captado el punto...
+> Para qué complicarme la vida metiendome en quilombos de contar con
+> programas u sistemas operativos que prácticamente no tienen un
+> soporte confiable en Mendoza, por teléfono y de toque solamente
+> porque son gratis??? Ni siquiera pago por Internet...
+
+Veo que NO han captado el punto. No se trata de precio, se trata de 
+libertad.
+
+1) Quizas a vos te chupe un huevo, pero copiar los warez que usas esta 
+formalmente prohibido. El sistema legal no es por supuesto una 
+autoridad moral, asi que no voy a decir que esta mal copiar programas 
+cuya licencia prohibe copiarlos. Pero si tengo la posibilidad de hacer 
+lo mismo que creo que esta bien (copiar programas) y ademas hacerlo de 
+forma legal, pues doblemente bien
+2) Quizas a vos te chupe un huevo, pero que no haya soporte es un mito. 
+La gente como vos que jamas en la vida pago un programa, de hecho 
+obtiene mas soporte de un sistema como  GNU/Linux que de Windows. Anda 
+y llama al 0800 de Microsoft para que te ayuden a descubrir por que se 
+te cuelga la maquina, a ver que te pelota te dan. Luego manda la misma 
+pregunta a novatos@... y contame la diferencia. Si 
+queres pagar por soporte, hay tanta o mas gente dispuesta y capacitada 
+a darte pelota trabajando sobre Linux que sobre Windows, ya que para el 
+profesional de las ciencias de la computacion es mucho mas atractivo y 
+comprensible Linux que Windows
+3) Quizas a vos te chupe un huevo, pero hay gente a la que le interesa 
+entender como funcionan las computadoras y los programas. En realidad a 
+todos deberia importarles aunque sea un poco, puesto que toda la 
+informacion financiera y personal se esta manejando por computadoras, y 
+si han visto la pelicula The Net saben el riesgo que eso representa.
+Trata de descubrir como funciona cualquier programa propietario, y 
+cualquier programa libre y contame la diferencia
+4) Quizas a vos te chupe un huevo, pero a muchas personas les gustaria 
+poder modificar un programa existente y modificarlo trivialmente para 
+mejor satisfacer sus necesidades. Eso va desde sacar pantallas de 
+propagadas estupidas hasta cambiar algunos comportamientos 
+predeterminados poco afortunadamente elegidos. Con software 
+propietario, es muy dificil o imposible, con software libre es 
+facilisimo.
+5) Quizas a vos te chupe un huevo, pero si tu trabajo consiste en hacer 
+cosas nuevas con una computadora, vas a encontrar que investigar la 
+existencia de algun trabajo previo similar y desarrollar a partir de 
+eso es mucho mas productivo y eficiente que reinventar la rueda una y 
+otra vez. Y para aquellos que dicen que este metodo no funciona y que 
+habria cada vez menos gente dispuesta a innovar (lupus presente!), les 
+comento que podes hacer una licencia de uso que prohiba que el trabajo 
+derivado basado en software libre pueda ser distribuido o usado con una 
+licencia mas restrictiva, efectivamente usando las leyes de propiedad 
+intelectual para el proposito opuesto al que se supone que sirven. En 
+vez de (C) Copyright, todos los derechos reservados, seria (C) 
+Copyleft, todos los derechos revertidos.
+
+
+-- 
+Groucho Marx
+

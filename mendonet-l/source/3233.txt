@@ -1,0 +1,47 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-8_0_0_1); 3 Nov 2001 21:14:09 -0000
+Received: (qmail 46768 invoked from network); 3 Nov 2001 21:14:09 -0000
+Received: from unknown (216.115.97.172)
+  by m4.grp.snv.yahoo.com with QMQP; 3 Nov 2001 21:14:09 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.16)
+  by mta2.grp.snv.yahoo.com with SMTP; 3 Nov 2001 21:14:09 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sat, 3 Nov 2001 13:14:09 -0800
+X-Originating-IP: [200.45.193.229]
+To: <mendonet-l@...>,
+	<mendonet-l@...>,
+	<mendonet-l@egroups.com>
+Subject: je-je
+Date: Sat, 3 Nov 2001 18:17:09 -0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_005B_01C16493.C035B580"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE44spDKicUbvBDxroC0000bfc9@...>
+X-OriginalArrivalTime: 03 Nov 2001 21:14:09.0130 (UTC) FILETIME=[7A40BCA0:01C164AC]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+------=_NextPart_000_005B_01C16493.C035B580
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+
+¿sabe quien es el unico que no estaba en las torres gemelas el dia del
+atentado?
+
+------=_NextPart_000_005B_01C16493.C035B580
+Content-Type: application/vnd.ms-powerpoint;
+	name="CAPOOO.pps"
+Content-Disposition: attachment;
+	filename="CAPOOO.pps"
+
+[ Attachment content not displayed ]
+------=_NextPart_000_005B_01C16493.C035B580--
+

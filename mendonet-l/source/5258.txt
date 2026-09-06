@@ -1,0 +1,59 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2_1); 10 Sep 2001 06:07:40 -0000
+Received: (qmail 21365 invoked from network); 10 Sep 2001 06:07:40 -0000
+Received: from unknown (10.1.10.142)
+  by l9.egroups.com with QMQP; 10 Sep 2001 06:07:40 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.55)
+  by mta3 with SMTP; 10 Sep 2001 06:07:38 -0000
+Received: (qmail 22252 invoked by uid 1005); 9 Sep 2001 16:32:28 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.186995 secs); 09/09/2001 13:32:27
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 9 Sep 2001 16:32:26 -0000
+Date: Sun, 9 Sep 2001 13:32:25 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="US-ASCII"
+To: mendonet-l@...
+References: <01090521330403.00372@cubil> <01090716120704.00363@cubil> <20010907202611.D19694@...>
+In-Reply-To: <20010907202611.D19694@...>
+Subject: Re: Re[4]: Me cago en vuestra actitud
+MIME-Version: 1.0
+Message-Id: <01090913322502.00458@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 07 Sep 2001 20:26, escribiste:
+
+> > Acertaste. Es el mismo codigo de materia. Es el mismo contenido. La
+> > rinden todos juntos los de electronica, sistemas y demas carreras.
+> > Hacen falta 8 meses para algo que deberia ser automatico?
+>
+> Tratando de hechar un poco mas de oscuridad sobre el tema de la
+> computacion y la necesidad de que la gente conozco sobre ella. Debo
+> decir que disiento un poco de la opinion de Groucho.
+>
+> Obvio que un conocimiento minimo hay que tener, pero tampoco da
+> sinceramente como para pensar en ser expertos.
+
+Yo tampoco creo que de para que todos sean expertos. En otras 
+oportunidades y en otras listas dije que un conocimineto basico del 
+sistema financiero, de comunicaciones/informacion y legal era 
+imprescindible para moverse por el mundo.
+Asi como lo digo, trato de aplicarlo. Vos me consideras un experto en 
+finanzas o leyes? Absolutamente no way! Un poco mas que eso es el nivel 
+de ignorancia/conocimiento superficial es considero necesario en los 3 
+campos que mencione.
+
+Lo que me molesto del caso que relate es que el idiota perdio la 
+perspectiva de que el sistema ese esta ahi para ayudarle a trabajar, no 
+para decirle cual es su trabajo.
+Perdio la perspectiva sobre de donde proviene la autoridad, o bien no 
+tenia ganas de trabajar, y el sistema de informacion creo una excusa 
+conveniente...
+
+-- 
+Groucho Marx
+

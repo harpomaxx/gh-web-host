@@ -1,0 +1,26 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+Received: (qmail 11715 invoked from network); 21 Apr 2000 13:09:50 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 21 Apr 2000 13:09:50 -0000
+Received: from unknown (HELO q8.egroups.com) (10.1.2.31) by mta1 with SMTP; 21 Apr 2000 13:09:50 -0000
+Received: (qmail 21302 invoked from network); 21 Apr 2000 13:09:48 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.21.205) by mx3.egroups.com with SMTP; 21 Apr 2000 13:09:48 -0000
+Received: from elserver.micasa (harpo@... [192.168.1.3]) by elserver.micasa (8.8.7/8.8.7) with ESMTP id KAA02156 for <mendonet-l@egroups.com>; Fri, 21 Apr 2000 10:08:08 -0300
+Date: Fri, 21 Apr 2000 10:08:07 -0300 (WART)
+X-Sender: harpo@...
+To: Mendonet Mailing List <mendonet-l@egroups.com>
+Subject: BUYING BIKES!
+Message-ID: <Pine.LNX.4.04.10004211006460.1993-100000@...>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+From: harpo <harpo@...>
+
+Che ando con ganas de comprar una Bici.. alguien la tiene clara aca como
+para darme un poco de asesoramiento... por que ando un poco perdido..
+desde la ultima vez que me meti en el mundo de las bicis han aparecido un
+monton de marcas nuevas... de origen desconocido (VAIRO ZENITH).
+En fin.. si alguien sabe algo por favor que me ayude!
+
+Harpo Rulez!
+
+

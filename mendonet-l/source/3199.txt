@@ -1,0 +1,45 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 5 Nov 2001 16:01:23 -0000
+Received: (qmail 98311 invoked from network); 5 Nov 2001 16:01:23 -0000
+Received: from unknown (216.115.97.171)
+  by m6.grp.snv.yahoo.com with QMQP; 5 Nov 2001 16:01:23 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.40)
+  by mta3.grp.snv.yahoo.com with SMTP; 5 Nov 2001 16:01:23 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 5 Nov 2001 08:01:23 -0800
+X-Originating-IP: [200.45.193.207]
+To: <mendonet-l@...>
+References: <5.1.0.14.2.20011016010947.00a6b7b0@...> <3563.011104@...>
+Subject: RE: Un email sobre nada...
+Date: Mon, 5 Nov 2001 12:52:20 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE51tpgWtfb8tWuTtyh00009385@...>
+X-OriginalArrivalTime: 05 Nov 2001 16:01:23.0672 (UTC) FILETIME=[1DFE9580:01C16613]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Mensaje original -----
+De: "rodralez" <rodralez@...>
+Para: <mendonet-l@...>
+Enviado: Domingo, 04 de Noviembre de 2001 01:31 p.m.
+Asunto: Un email sobre nada...
+
+
+> Goofer decia:
+>
+> > Si las camperas de cuero se arruinan con la lluvia... ¿que hacen las
+vacas
+> > cuando llueve?
+
+se ponen impermeables
+

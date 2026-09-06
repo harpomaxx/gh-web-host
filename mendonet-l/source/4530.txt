@@ -1,0 +1,184 @@
+From HADARO@...  Sat Jul 11 23:23:58 2020
+Return-Path: <HADARO@...>
+X-Sender: HADARO@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 25 Sep 2001 01:18:44 -0000
+Received: (qmail 38868 invoked from network); 25 Sep 2001 01:18:43 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.223 with QMQP; 25 Sep 2001 01:18:43 -0000
+Received: from unknown (HELO relay02.pecom.com.ar) (200.3.110.25)
+  by mta2 with SMTP; 25 Sep 2001 01:19:15 -0000
+Received: from maipu57.pecom.com.ar (200.3.110.23 [200.3.110.23]) by relay02.pecom.com.ar with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id Q0NM468D; Mon, 24 Sep 2001 22:10:02 -0300
+Received: by MAIPU57 with Internet Mail Service (5.5.2653.19)
+	id <TRQBN3SY>; Mon, 24 Sep 2001 22:19:50 -0300
+Message-ID: <D18920FC9EC7D411ACC00008C75635FA33A77E@PCUYO_MZA00>
+To: mendonet-l@...
+Subject: RE: Mais larga do mundo
+Date: Mon, 24 Sep 2001 22:19:21 -0300
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C14560.1AB9DD90"
+From: Adaro Humberto <HADARO@...>
+
+
+------_=_NextPart_001_01C14560.1AB9DD90
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+> ----------
+> De: 	rodralez[SMTP:rodralez@...]
+> Responder a: 	=
+mendonet-l@...
+> Enviado el: 	Domingo 23 de Septiembre de 20=
+01 6:26 PM
+> Para: 	groucho
+> Asunto: 	Mais larga do mundo
+> 
+> Groucho Mar=
+x decia:
+> 
+> > Ese es tu mejor material? Un metodo numerico para ED de seg=
+undo orden
+> > de coeficientes constantes?
+> 
+> > Cuando sepas como resolve=
+r una ecuacion de diferencias de orden 
+> > elevado, mediante transformada =
+Z, para calcular un filtro de respuesta 
+> > impulsiva finita que se ajuste=
+ a un modelo de Cauer, hablemos de nuevo.
+> 
+> Disculpalo Groucho, es que a=
+lgunos todavia no saben que en ingenieria en
+> electronica se estudia=
+ mas matematica y fisica que en algunas otras
+> ingenierias.
+> 
+	>>=
+>>>que humilde!!!!
+
+
+> Sera esa una de las razones por la que se tarda un=
+a decada
+> en salir de ella ?!
+> 
+> rodralez
+> 
+> 
+> 
+>  
+> 
+> Tu uso de =
+Yahoo! Grupos esta sujeto a las
+> http://ar.docs.yahoo.com/info/utos.html=
+ 
+> 
+> 
+
+------_=_NextPart_001_01C14560.1AB9DD90
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-=
+EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Diso-8859-1">
+<META N=
+AME=3D"Generator" CONTENT=3D"MS Exchange Server version 5.5.2653.12">
+<TITL=
+E>RE: Mais larga do mundo</TITLE>
+</HEAD>
+<BODY>
+<BR>
+<BR>
+<UL>
+<P><FONT SI=
+ZE=3D1 FACE=3D"MS Sans Serif">----------</FONT>
+<BR><B><FONT SIZE=3D1 FACE=
+=3D"MS Sans Serif">De:</FONT></B> &nbsp;&nbsp;&nbsp; <FONT SIZE=3D1 FACE=3D=
+"MS Sans Serif">rodralez[SMTP:rodralez@...]</FONT>
+<BR><B><FONT SI=
+ZE=3D1 FACE=3D"MS Sans Serif">Responder a:</FONT></B> &nbsp;&nbsp; <FONT SI=
+ZE=3D1 FACE=3D"MS Sans Serif">mendonet-l@...</FONT>
+<BR><B><=
+FONT SIZE=3D1 FACE=3D"MS Sans Serif">Enviado el:</FONT></B> &nbsp;&nbsp;&nb=
+sp; <FONT SIZE=3D1 FACE=3D"MS Sans Serif">Domingo 23 de Septiembre de 2001 =
+6:26 PM</FONT>
+<BR><B><FONT SIZE=3D1 FACE=3D"MS Sans Serif">Para:</FONT></B=
+> &nbsp; <FONT SIZE=3D1 FACE=3D"MS Sans Serif">groucho</FONT>
+<BR><B><FONT =
+SIZE=3D1 FACE=3D"MS Sans Serif">Asunto:</FONT></B> &nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; <FONT SIZE=3D1 FACE=3D"MS Sans Serif">Mais larga do mund=
+o</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Groucho Marx decia:</FONT>
+=
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">> Ese es tu mejor material? Un me=
+todo numerico para ED de segundo orden</FONT>
+<BR><FONT SIZE=3D2 FACE=3D"Ar=
+ial">> de coeficientes constantes?</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=
+=3D"Arial">> Cuando sepas como resolver una ecuacion de diferencias de o=
+rden </FONT>
+<BR><FONT SIZE=3D2 FACE=3D"Arial">> elevado, mediante trans=
+formada Z, para calcular un filtro de respuesta </FONT>
+<BR><FONT SIZE=3D2 =
+FACE=3D"Arial">> impulsiva finita que se ajuste a un modelo de Cauer, ha=
+blemos de nuevo.</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Disculpalo G=
+roucho, es que algunos todavia no saben que en ingenieria en</FONT>
+<BR=
+><FONT SIZE=3D2 FACE=3D"Arial">electronica se estudia mas matematica =
+y fisica que en algunas otras</FONT>
+<BR><FONT SIZE=3D2 FACE=3D"Arial">in=
+genierias.</FONT>
+</P>
+
+<P><FONT COLOR=3D"#0000FF" SIZE=3D2 FACE=3D"Arial=
+">>></FONT><B><FONT COLOR=3D"#FFFF00" SIZE=3D5 FACE=3D"Arial Black">&=
+gt;>>que humilde!!!!</FONT></B>
+</P>
+<BR>
+
+<P><FONT SIZE=3D2 FACE=3D"=
+Arial">Sera esa una de las razones por la que se tarda una decada</FONT=
+>
+<BR><FONT SIZE=3D2 FACE=3D"Arial">en salir de ella ?!</FONT>
+</P>
+
+<P><FO=
+NT SIZE=3D2 FACE=3D"Arial">rodralez</FONT>
+</P>
+<BR>
+<BR>
+
+<P><FONT SIZE=3D=
+2 FACE=3D"Arial">&nbsp;</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Tu us=
+o de Yahoo! Grupos esta sujeto a las</FONT><U> <FONT COLOR=3D"#0000FF" SI=
+ZE=3D2 FACE=3D"Arial"><A HREF=3D"http://ar.docs.yahoo.com/info/utos.html" T=
+ARGET=3D"_blank">http://ar.docs.yahoo.com/info/utos.html</A></FONT></U><FON=
+T SIZE=3D2 FACE=3D"Arial"> </FONT>
+</P>
+<BR>
+</UL>
+</BODY>
+</HTML>
+------_=_NextPart_001_01C14560.1AB9DD90--
+

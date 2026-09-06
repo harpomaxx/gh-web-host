@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 22 Nov 2001 21:55:56 -0000
+Received: (qmail 4132 invoked from network); 22 Nov 2001 21:55:55 -0000
+Received: from unknown (216.115.97.172)
+  by m3.grp.snv.yahoo.com with QMQP; 22 Nov 2001 21:55:55 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.50)
+  by mta2.grp.snv.yahoo.com with SMTP; 22 Nov 2001 21:55:54 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 1671wS-00049w-00
+	for <mendonet-l@...>; Thu, 22 Nov 2001 19:03:32 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 1671wS-00049l-00
+	for <mendonet-l@...>; Thu, 22 Nov 2001 19:03:32 -0300
+Date: Thu, 22 Nov 2001 19:03:31 -0300
+To: mendonet-l@...
+Subject: Re: Rebax y su =?iso-8859-1?B?ZW1vY2nzbi4u?=
+	=?iso-8859-1?Q?=2E?=
+Message-ID: <20011122190331.H14383@...>
+References: <1006270950.592.56346.m12@...> <001701c17375$df3a6ac0$53e60dd1@LocalHost> <71169201.20011122010948@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <71169201.20011122010948@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Thu, Nov 22, 2001 at 01:09:48AM -0300, Oxiuro wrote:
+
+> m>   Alguna vez escuche por que el futbol era el deporte mas practicado en todo
+> m> el mundo, principalmente en los paises en desarrollo, como nuestro bendito
+> m> pais, y el comentario era: por que es el deporte para el cual no necesitas
+> m> ninguna infraestura especial para practicarlo, (una pelota y cuatro piedras
+> m> que hacen a la vez de arcos nada mas!!) como lo que necesitarias para el
+> m> basquet, natacion, jockey, tenis, voleibol, beisbol, etc, etc...
+> Para practicar judo tampoco necesitas infraestructura, es mas, ni una
+> pelota necesitas.
+
+Necesitas cinturon y zapatos al tono.
+
+-- 
+Groucho
+
+
+
+

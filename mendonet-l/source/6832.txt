@@ -1,0 +1,203 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 18 Nov 2000 03:43:49 -0000
+Received: (qmail 45280 invoked from network); 18 Nov 2000 03:43:49 -0000
+Received: from unknown (10.1.10.26) by l8.egroups.com with QMQP; 18 Nov 2000 03:43:49 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 18 Nov 2000 03:43:48 -0000
+Received: from antro.micasa ([200.41.31.4]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id VAA15232 for <mendonet-l@egroups.com>; Fri, 17 Nov 2000 21:39:03 -0300 (GMT)
+Date: Fri, 17 Nov 2000 00:48:25 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1733.001117@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[3]: Un par de preguntas sobre the bat
+In-reply-To: <6567.001115@...>
+References: <6567.001115@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 15/11/2000, Sebas temeroso mencionó:
+
+
+S>>>   Ando explorando la cuestión, y tengo un par de dudas:
+S>>>   1- ¿Qué es PGP? En medicina quiere decir parálisis general progresiva,
+S>>>   pero no sé que tendrá que ver con esto.
+GM>> Significa Pretty Good Privacy.
+GM>> Es un sistema criptografico de claves publicas.
+GM>> Clave publica significa que los demas saben tu password, y se conoce
+GM>> el mecanismo de encriptacion y desencripatacion.
+S> ¿A qué te referís con "los demás"?
+
+GM>> Primero, vos tenes que generar tu clave publica y tu clave privada.
+GM>> Estas son secuencias de bits demasiado largas para memorizar (nada que
+GM>> ver con los 4 digitos del cajero automatico por ejemplo), que guardas
+GM>> en archivos de texto.
+GM>> Estas claves se generan en base a tu identidad, el reloj de la
+GM>> computadora, y un texto que vos pones al azar.
+GM>> La clave privada no se la tenes que decir a nadie (de hecho, en
+GM>> algunas versiones se guarda encriptada en tu maquina y necesitas una
+GM>> clave para acceder a la clave publica).
+S> Por lo que entiendo, yo no conozco la clave privada...¿o es el
+S> password?
+
+clave y password son lo mismo (en distinto idioma, pero la misma
+cosa).
+La clave privada es conocida por vos y por nadie mas que vos (por eso
+se llama privada).
+Aunque seria mas exacto decir que la clave privada es conocida por tu
+PGP mas que por vos, ya que una clave privada puede ser un archivo de
+3 o 4 kb y dificilmente la puedas memorizar al estilo de las claves
+que estas acostumbrado a usar.
+Obviamente no vas a estar escribiendo 3 o 4 mil letras cada vez que te
+pregunta tu clave privada. A eso me referia cuando dije que no tenia
+mucho que ver con los 4 digitos de la clave del cajero automatico.
+
+
+En criptografia, la "clave" es el dato que combinado matematicamente
+con el "mensaje" permite obtener el "mensaje cifrado".
+
+Por ejemplo:
+Mensaje: "Sebas es un gay"
+Algoritmo de cifrado: "sumar a cada letra del mensaje el valor de la
+clave"
+
+Si la clave es "1" el mensaje cifrado sera: "Tfcbt ft ví hbz"
+Si la clave es "2" el mensaje cifrado sera: "Ugdcu gu wo ica"
+
+Si te interesa, en PGP la clave publica y privada son en realidad
+numeros gigantestos sin divisores comunes entre si (mutuamente
+primos). Y el algoritmo de encriptacion es un sistema de sustitucion
+donde el valor por el cual hay que sustitir una letra depende de la
+clave, y de las letras anteriormente sustituidas.
+Como es muy lento encontrar numeros primos de digamos algunos cientos
+de digitos, es muy dificil deducir la clave privada a partir de la
+publica.
+
+
+GM>> Existe uan relacion matematica entre la clave publica y privada de
+GM>> manera que cuando encriptas un archivo cualquiera (llamado mensaje)
+GM>> usando tu clave publica, solo puede ser desencriptado usando tu clave
+GM>> privada.  Esto le permite a los demas enviarte mensajes que solo vos
+GM>> podras leer.
+S> Ah... creo que ahora entiendo.
+
+GM>> Otro uso es para "firmar" digitalmente un mensaje.
+GM>> Le das tu clave publica a quienes quieras que puedan verificar tu
+GM>> firma (o sea, la autenticidad de los mensajes que envias).
+S> Ouch! Yo pensaba que la clave pública era algo que creaba la máquina y
+S> de lo que yo nunca me enteraba. Creo que no estoy entendiendo tanto
+S> como creía.
+
+Te enteras si te tomas la molestia de leer el archivo que la
+computadora genera.
+Te mando un ejemplo de clave publica:
+
+
+-----BEGIN PGP MESSAGE-----
+Version: 2.6.2i
+
+iQCVAwUAOc9iVOh8c/eece0pAQHyugQAtVxIrkRmmseDa3iGECsEm84LCcaOf9GC
+7+9+TdEANKV8W6rRR/6OAmmj/T6fyd9Xrmta1DzXLVKkAegoFVMWhov27GKYv2FJ
+R8YXvjBjWN/fAZv5BIi0FUmlwA+gqcp6ESPNRui+qR8C71omwsAMYEid3kRwqMpP
+lQljZFmwO9M=
+=mt8U
+-----END PGP MESSAGE-----
+
+Imaginate si tuvieras que escribir toda esa mierda cada vez!!
+Vale la pena "enterarse"? --> NO
+Afortunadamente basta con que le digas al programa el nombre del
+archivo que contiene esa mierda y el programa lo lee.
+
+De hecho, cuando generas la famosa clave, te
+pregunta tu nombre, te hace apretar teclas del teclado y mide el
+tiempo que transcurre entre pulsaciones (los que supone que son
+valores aleatorios) y tiene en cuenta la fecha y hora.
+Con todos esos datos, genera un par de archivos que son la clave
+publica y la clave privada con el aspecto que te mostre mas arriba.
+
+La clave publica se la podes mandar por mail (o susurrar al oido si
+tenes la paciencia suficiente) a todos los que quieras.
+Con la clave publica no pueden desencriptar nada, solo encriptar.
+
+GM>> Cuando queres firmar un mensaje, generas un nuevo mensaje compuesto
+GM>> del mensaje original y tu clave publica concatenadas, y al resultado
+GM>> lo encriptas con tu clave privada. Quien tenga tu clave publica podra
+GM>> desencriptar el mensaje y obtener el mensaje original y una copia de
+GM>> tu clave publica, la cual podra comparar con la que uso para
+GM>> desencriptar y saber si realmente el mensaje lo enviaste vos y no fue
+GM>> modificado desde que se lo firmo.
+S> A esto también creo que lo entiendo.
+
+GM>> De hecho hay todo un curro en Internet con las firmas digitales.
+GM>> Hay empresas que se dedican a firmar tus claves publicas, lo que se
+GM>> llama certificar una firma. Tienen fecha de caducidad y otras
+GM>> sutilezas y cobran caro por hacerlo.
+S> Me imagino que si yo entendiera bien el tema en esta parte debería
+S> enojarme... ¡Hijos de puta!(por si las dudas)
+
+Es lo unico que los inventores de Internet han hecho al reves de como
+se supone.
+PGP no es el metodo oficial de seguridad de Internet, sino un metodo
+criptograficamente equivalente pero donde TODAS las firmas estan
+certificadas por 3 o 4 autoridades de certificacion, las que te cobran
+por simplemente firmar tu firma.
+Te habra pasado por ahi entras a una pagina y te dice se pide su
+autorizacion para "instalar el programa "Tetas 2.0". Este programa ha
+sido distribuido por The Tetas Company Inc, cuya identidad ha sido
+verificada por Verisign Inc."
+Tu Explorer viene con la firma de todas las autoridades de
+certificacion de firmas instaladas en archivos llamados "certificados"
+y que son dibujados por Windows como si fueran un papelito sellado.
+Cuando te bajas un programa firmado, el tipo que lo hizo le pago a
+Verisign para que erisign firmara (como te explique antes) la clave
+publica del autor del programa.
+Cuando vos te bajas un programa firmado, el Explorer se da cuenta, se
+fija que Verisign firmo la firma del autor del programa, usando la
+clave publica de Verisgn (preinstalada sin que vos lo sepas con
+Windows) desencripta la firma del autor del programa y obtiene la
+clave publica del autor del programa la que a su vez usa para leer la
+firma del autor del programa y comprobar que el programa es identico
+al que el autor genero.
+
+La caracteristica de este esquema es que toda firma que pase por tus
+manos ha sido firmada por otra persona o empresa en la que se supone
+que confias. Asi podes estar mas o menos seguro de que ninguna firma
+es falsa. Con PGP yo podria generar una clave publica y mandarsela a
+Conan haciendome pasar por vos y el no tiene manera de estar seguro
+que que vos sos vos y no yo (usando solo las claves, se supone que no
+te va a llamar por telefono desde San Luis).
+Esto tambien es una desventaja, porque implica que tiene que haber una
+autoridad central de certificacion en la que todos confian, lo cual es
+un monopolio de confianza y por eso es que es tan caro conseguir un
+certificado de firma).
+Ademas, los programas que mas usan esta tecnica son los browsers
+creados por empresas monopolicas de software que cuando ven un archivo
+sin la correspondiente firma ponen un cartel terrible hablando de las
+calamidades que pueden pasar por no estar firmado.
+
+Entonces cuando yo genere un instalador web para un programa que hice
+en el trabajo, el Explorer dice que la firma de Groucho Marx no ha
+sido certificada y que no deberia ser instalado, y los ingenuos de los
+usuarios se la creen y no instalan mi programa.
+Es eso o pago algunos cientos de pesos cada año para manter
+certificada mi firma.
+
+GM>> Los algoritmos de encriptacion de PGP estan patentados por un tipo en
+GM>> Estados Unidos, y como los yankis estan algo psicopatas al respecto,
+S> ¿Quisiste decir psicópatas o paranóicos?
+
+Quise decir cagados de la cabeza.
+Deberia haber puesto cagados de la cabeza directamente, no?
+Me da igual si estan cagados por paranoicos o por psicopatas.
+
+-- 
+Groucho Marx
+Es mucho más fácil sugerir soluciones cuando no se sabe nada del problema.
+
+
+

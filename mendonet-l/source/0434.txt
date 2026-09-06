@@ -1,0 +1,56 @@
+From cabeza@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cabeza@...>
+X-Sender: cabeza@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 13 Mar 2003 14:53:11 -0000
+Received: (qmail 93603 invoked from network); 13 Mar 2003 14:51:55 -0000
+Received: from unknown (66.218.66.218)
+  by m10.grp.scd.yahoo.com with QMQP; 13 Mar 2003 14:51:55 -0000
+Received: from unknown (HELO muddy.fedped.com.ar) (200.80.38.162)
+  by mta3.grp.scd.yahoo.com with SMTP; 13 Mar 2003 14:51:55 -0000
+Received: (qmail 17163 invoked from network); 13 Mar 2003 14:52:14 -0000
+Received: from unknown (HELO ?192.168.109.11?) (192.168.109.11)
+  by 192.168.109.10 with SMTP; 13 Mar 2003 14:52:14 -0000
+Subject: Re: que pasa?
+To: mendonet <mendonet-l@...>
+In-Reply-To: <3E707786.1000900@...>
+References: <3E660C77.9080602@...> <0879.030310@...>
+	 <3E6DDF47.10005@...> <courier.3E6FB00E.00004B56@...>
+	  <3E707786.1000900@...>
+Content-Type: text/plain; charset=ISO-8859-1
+Organization: 
+Message-Id: <1047567125.18587.11.camel@stimpy>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.2 
+Date: 13 Mar 2003 11:52:05 -0300
+Content-Transfer-Encoding: 8bit
+From: cabeza <cabeza@...>
+X-Yahoo-Group-Post: member; u=76414316
+X-Yahoo-Profile: c_a_b_e_z_a
+
+On Thu, 2003-03-13 at 09:20, Herr Groucho wrote:
+> gaucho98@... wrote:
+> > Hola es a mi a todos les pasa que solo les llega uno o dos mensajes por dia?
+> > mis mensajes ya no llegan a la lista, y no me llegan la cantidad de emnsajes 
+> > que me llegaba antes.
+> > que pasa???
+> 
+> Ya nada.
+> Mira http://www.lugmen.org.ar/noticiafull.php?codigo=77 para mas detalles.
+
+
+Eso quiere decir que desde ahora en más a gaucho98
+además de uno o dos mensajes por día provenientes de
+mendonet, le van a llegar un montón de mensajes del Lug?
+
+claro, tal vez los mensajes del lug le hagan olvidar el poco
+tráfico de mendonet, bien pensado! 
+
+
+--
+Per escriure aquest mail no s'han maltractat animals ni s'han usat
+productes MicroSoft.
+
+
+
+

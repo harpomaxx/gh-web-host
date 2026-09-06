@@ -1,0 +1,38 @@
+From marsilou_ar@...  Sat Jul 11 23:23:58 2020
+Return-Path: <marsilou_ar@...>
+Received: (qmail 21486 invoked from network); 6 May 2000 17:35:50 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 6 May 2000 17:35:50 -0000
+Received: from unknown (HELO postino3.prima.com.ar) (200.42.0.148) by mta3 with SMTP; 6 May 2000 17:35:48 -0000
+Received: from oemcomputer (ip200042129228.lanet.com.ar [200.42.129.228]) by postino3.prima.com.ar (8.9.1a/8.9.1) with SMTP id OAA75557 for <mendonet-l@egroups.com>; Sat, 6 May 2000 14:35:44 -0300 (ART)
+Message-ID: <006d01bfb781$ae60b1e0$e4812ac8@oemcomputer>
+To: <mendonet-l@egroups.com>
+References: <008801bfb5f3$a5fa7c00$59812ac8@oemcomputer> <10214.000506@...>
+Subject: RE: Re[4]: [Fwd: respuestas varias] Colibri
+Date: Sat, 6 May 2000 14:35:42 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: "Marcela" <marsilou_ar@...>
+
+
+>> O es que tu detector de metaforas tampoco esta bien calibrado?
+
+MSG> Si,por suerte esta bien calibrado,pero a veces hace falta no captarlas
+para
+MSG> aprender algunas cositas...
+MSG> Sil.
+
+Hmmm interesante concepto...
+
+Si queres despues te enseño otros truquitos...
+Marce
+
+
+
+
+
+

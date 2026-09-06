@@ -1,0 +1,94 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_2); 20 Feb 2002 16:31:17 -0000
+Received: (qmail 83227 invoked from network); 20 Feb 2002 16:31:16 -0000
+Received: from unknown (216.115.97.172)
+  by m12.grp.snv.yahoo.com with QMQP; 20 Feb 2002 16:31:16 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta2.grp.snv.yahoo.com with SMTP; 20 Feb 2002 16:31:16 -0000
+Received: from lagruta (rdumen1-200.41.21.70 [200.41.21.70] (may be forged))
+	by smtp5 (8.9.3/8.9.3) with SMTP id NAA04137
+	for <mendonet-l@...>; Wed, 20 Feb 2002 13:21:02 +0300 (GMT)
+Message-ID: <006401c1ba2c$4c807960$060aa8c0@...>
+To: <mendonet-l@...>
+References: <13880.020219@...>
+Subject: =?iso-8859-1?Q?Re:_Curiosidad_informatica?=
+Date: Wed, 20 Feb 2002 13:33:05 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> ¿qué puede haber de cierto en lo siguiente? Si es falso, ¿qué te dice
+> que lo es?
+
+El tono lamer del mensaje, la falta de referencia a fuentes verificables,
+la ignorancia mostrada sobre el funcionamiento de los virus, etc.
+
+
+> "...informado a nuestra Empresa
+
+Cual es nuestra empresa?
+
+> por el representante de Microsoft y Norton en la Argentina. No proviene de
+> una Cadena.
+
+No existe "el representante de norton", en todo caso, sera el representane
+de Symantec.
+El representante de Microsoft no va a perder tiempo en avisar de un problema
+con virus. Lo normal es que ignoren los problemas que los virus
+causan en sus programas. Ademas Microsoft no tiene representante en
+Argentina. Hay una empresa Microsoft Argentina SA que se representa a si
+misma.
+
+
+>   Usted puede recibir un mail en una presentación de Powerpoint
+>   aparentemente inofensiva, titulado "La vida es bella.pps"
+>   Si usted lo recibe NO ABRA EL ARCHIVO BAJO NINGUNA CIRCUNSTANCIA
+> bórrelo
+>   inmediatamente. Si usted abre ese archivo aparecerá en su monitor un
+>   mensaje:
+>             "Ahora es tarde, su vida no es más bella",
+
+Hasta ahi es creible. Yo hice algo parecido, que cuando lo habrias
+decia: "si esto fuera un virus de verdad, estarias en problemas".
+
+
+
+>   enseguida PERDERÁ TODO LO QUE TENGA EN SU PC
+
+Demasiado vago y tremendista como para ser cierto.
+
+> y la persona que lo envié
+>   tendrá acceso a su nombre, e-mail y password.
+
+Y como es eso posible, si uno perdio "todo" lo que hay en la PC?
+Ademas la persona ya tenia acceso al nombre y el e-mail, despues
+de todo, fue capaz de enviar un mensaje en primer lugar.
+Con respecto al password, ponele que tenga acceso al mismo...
+Como lo obtiene si uno perdio "todo" lo mas probable es que la
+maquina no funcione... como accede el espia al password?
+
+
+> Se trata de un nuevo virus
+>   que comenzó a circular el sábado por la tarde."
+
+Y si es un nuevo virus, de hace 3 dias, por que yo recibi este mismo
+aviso hace 10 dias?
+
+
+Un alerta de virus es publicada por expertos en sitios web especializados
+con un analisis tecnico del virus. No esta paparuchada.
+
+--
+Groucho
+
+

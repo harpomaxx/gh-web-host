@@ -1,0 +1,60 @@
+From oxiuro@...  Sat Jul 11 23:23:58 2020
+Return-Path: <oxiuro@...>
+X-Sender: oxiuro@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_2_0); 3 Jul 2001 03:00:43 -0000
+Received: (qmail 26102 invoked from network); 3 Jul 2001 03:00:39 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 3 Jul 2001 03:00:39 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 3 Jul 2001 03:00:37 -0000
+Received: (qmail 4393 invoked by uid 417); 3 Jul 2001 03:04:56 -0000
+Received: from mza2ppp-294.uc.infovia.com.ar (209.13.230.39) by i-softhome-tango with SMTP; 3 Jul 2001 03:04:56 -0000
+Date: Tue, 3 Jul 2001 00:02:10 -0300
+X-Mailer: The Bat! (v1.49) Personal
+Reply-To: Oxiuro <oxiuro@...>
+X-Priority: 3 (Normal)
+Message-ID: <1852312018.20010703000210@...>
+To: mendonet-l@yahoogroups.com
+Subject: De Borges y otras yerbas
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Oxiuro <oxiuro@...>
+
+>>> "El gol del Diego con la mano a los ingleses"
+>>> "La invención del tiqui-tica y la gallinita con licor"
+O>> Tiqui-taca rodro
+> 
+O>> Realmente fue el 26/1/1985 el terremoto, En Godoy Cruz, Mendoza, a las
+O>> 03:07:00 hs con hipocentro a 12 Km y de magnitud 8, el cual no se sabe
+O>> realmente cual fue el origen ya que muchos hablan de un misil, otros
+O>> de un ovni, etc. En lo que todos concuerdan es que vieron una gran luz
+O>> en el cielo antes de ocurrir el movimiento, el cual tuvo un pico de
+O>> 0.52 g si mal no recuerdo. Tampoco debemos olvidar el de Caucete, San Juan
+> del dia 23/11/1977, a las 09:26:23 hs,
+O>> con hipocentro a 17 km y de magnitud 9 (segun otras personas magnitud
+O>> 7.4).
+>  manejás una terminología que me es ajena o estás tratando de decir
+> epicentro cuando decís hipocentro.
+
+nop, son cosas distintas
+el hipocentro es donde se produce mayor liberacion de energia, el
+epicentro es la manifestacion en superficie de la recta que une el
+hipocentro (o foco) con el centro de la tierra.
+
+>  Y no es que la magnitud cambie
+> según la persona, sino según la escala, de Mercalli o de Richter....
+
+nop, la magnitud puede cambiar de mercali (escala de intensidad,
+subjetiva  de 12 puntos, se basa en observaciones de objetos) y la
+de richter (escala de magnitud en funcion de energia liberada, de 10
+puntos)
+A lo que yo me referia es la "cantidad de energia liberada" si queres
+que te lo de como en la tele seria
+mendoza 85----5.9 puntos richter
+san juan 77---7.4 puntos richter (replica de 5.9)
+
+-- 
+ Oxiuro              
+
+
+

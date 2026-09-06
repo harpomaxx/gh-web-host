@@ -1,0 +1,56 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:54:34 -0000
+Received: (qmail 96900 invoked from network); 5 Oct 2001 02:54:34 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.1.223 with QMQP; 5 Oct 2001 02:54:34 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta3 with SMTP; 5 Oct 2001 02:56:20 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA14611
+	for <mendonet-l@...>; Thu, 4 Oct 2001 23:57:36 -0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pFlK-0000Ac-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 18:10:34 -0300
+Date: Thu, 4 Oct 2001 18:11:20 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1757.011004@...>
+To: Lady Marian <mendonet-l@...>
+Subject: Re[3]: Naturaleza del hombre my ass !
+In-reply-To: <01e201c1491a$b4021fe0$9a4afea9@hfgg>
+References: <01e201c1491a$b4021fe0$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Lady,
+
+Saturday, September 29, 2001, 3:40:04 PM, you wrote:
+
+
+
+LM> Entiendo. Pero creo que es absolutamente IMPOSIBLE ponerse IGUAL
+LM> de mal, por el hecho de que al ver, por ej., Titanic, tu
+LM> inconsciente sabe que estás viendo una ficción, el mismo que te
+LM> dice que si hacés un poquito de zapping, vas a encontrarlo al
+LM> chabón, vivito y coleando en otra película. El mismo inconsciente
+LM> que te dice que las imágenes de las torres gemelas fueron
+LM> ciertas, mas allá de que no tengas mas pruebas palpables que esas
+LM> imágenes.
+
+Y si lo de las torres gemelas es una terrible conspiracion, como la
+guerra del golfo, el viaje a la luna, o la existencia de Linux?
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

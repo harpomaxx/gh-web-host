@@ -1,0 +1,42 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 13 Mar 2003 12:20:31 -0000
+Received: (qmail 22305 invoked from network); 13 Mar 2003 12:20:31 -0000
+Received: from unknown (66.218.66.217)
+  by m1.grp.scd.yahoo.com with QMQP; 13 Mar 2003 12:20:31 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta2.grp.scd.yahoo.com with SMTP; 13 Mar 2003 12:20:30 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18tRwQ-0007z9-00
+	for <mendonet-l@...>; Thu, 13 Mar 2003 09:36:10 -0300
+Message-ID: <3E707786.1000900@...>
+Date: Thu, 13 Mar 2003 09:20:22 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: que pasa?
+References: <3E660C77.9080602@...>            <0879.030310@...>            <3E6DDF47.10005@...> <courier.3E6FB00E.00004B56@...>
+In-Reply-To: <courier.3E6FB00E.00004B56@...>
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+gaucho98@... wrote:
+> Hola es a mi a todos les pasa que solo les llega uno o dos mensajes por dia?
+> mis mensajes ya no llegan a la lista, y no me llegan la cantidad de emnsajes 
+> que me llegaba antes.
+> que pasa???
+
+Ya nada.
+Mira http://www.lugmen.org.ar/noticiafull.php?codigo=77 para mas detalles.
+
+-- 
+Groucho
+
+

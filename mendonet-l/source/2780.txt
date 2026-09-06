@@ -1,0 +1,151 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 29 Nov 2001 22:14:55 -0000
+Received: (qmail 90128 invoked from network); 29 Nov 2001 22:14:55 -0000
+Received: from unknown (216.115.97.167)
+  by m12.grp.snv.yahoo.com with QMQP; 29 Nov 2001 22:14:55 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta1.grp.snv.yahoo.com with SMTP; 29 Nov 2001 22:14:53 -0000
+Received: from modem22-as1.mendoza.sinectis.com.ar ([216.244.255.22])
+  by softhome.net with esmtp; Thu, 29 Nov 2001 15:04:39 -0700
+Date: Thu, 29 Nov 2001 18:57:35 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus <aldocop@...>
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <9789.011129@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbNF06IFNpZ3VlbiBsYXMgcHJlZ3VudGFzIGluZm9ybeF0aWNhcy4u?= =?ISO-8859-1?B?Lg==?=
+In-reply-To: <01c101c17830$d44c0640$060aa8c0@...>
+References: <01c101c17830$d44c0640$060aa8c0@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+
+>> 2)  si  vos  tenés  acceso a la fuente, me podés pasar a mí, que ni en
+>> pedo me pondría a leer ese código, un programa modificado por vos para
+>> hacer  con mi máquina lo que quieras...
+
+GM> Y que? Si te doy el programa compilado, no solo vos no podrias ver si le
+GM> hice una modificacion maligna sino que casi nadie mas.
+GM> El codigo fuente impide la malicia, en lugar de fomentarla.
+
+Si,  pero al australiano ese muy dificilmente le interese romperme los
+huevos  a  mí que vivo tranqui acá en argentina... si hubiera enlatado
+su  programejo vos, que me conocés y podrías jugarme algún chistecito,
+no  podrías  tocar  lo  que  correr� en mi máquina... pero así, vos, o
+harpo  o  alguno  de  mis  conocidos cercanos podrían acceder a mí con
+mayor facilidad...
+
+GM> 2 cosas:
+GM> 1) reputacion: yo no seria tan idiota de distribuir un programa que
+GM> cualquiera
+GM> puede leer y entender (si no vos personalmente, pagandole a un programador)
+GM> con lo que mi chiste quedaria a la vista de todos y me haria una mala
+GM> reputacion
+GM> como programador. Y cuando dejas que tus programas se puedan copiar
+GM> libremente vivis de tu reputacion, no de la venta de licencias y si no tenes
+GM> reputacion
+GM> quien va a pagarte para que le escribas un programa?
+
+Bueno...  ese  es  un buen punto... pero entonces los programadores de
+open sources deben ser conocidos, o no funciona lo de la reputación...
+vos sabés cómo se llama el australiano ese...?
+
+GM> 2) firmas digitales: si vos crees o sospechas que te di una version
+GM> toqueteada
+GM> del codigo fuente, obtene la version original del autor (posiblemente
+GM> firmada
+GM> digitalemente) para verificar cuales fueron mis cambios si es que hubieron.
+GM> Con
+GM> lo que sabes de C serias capaz de entender si el cambio es perjudicial o no,
+GM> o
+GM> podrias pagarle a alguien para que se fije.
+
+Firma   digital...  eso  me  interesa...  cómo  funciona?  hay  algún
+mecanismo de seguridad, además de  la filosofía open source?
+
+>> con lo que sería tan peligroso
+>> como  uno  cerrado...  si  vos  fueras  malvado,  de  hecho, seria más
+>> peligroso aún que uno cerrado...
+
+GM> Seguridad por oscuridad se llama eso, y lamento decirte que no sirve.
+GM> Ciertamente hacer modificaciones (maliganas o no) es mas facil, lo cual
+GM> se compensa por el hecho de que es tanto o mas facil descubrirlas.
+GM> Por lo tanto, no seria mas peligroso excepto en el caso particular de que
+GM> vos
+GM> seas muy incompetente como programador, no tengas plata para contratar los
+GM> servicios de un programador medianamente competente, y recibas confiadamente
+GM> programas de fuentes alternativas de las cuales no tenes ningun motivo para
+GM> confiar
+GM> en que no te van a cagar la vida.
+
+Interesante... dejame pensarlo un poco...
+
+>> y no me digas que lo baje de internet
+
+GM> Nunca diria eso... Lo bajaste "a traves de" internet, o "por" internet.
+GM> Si lo bajaste "de" algun lado sera del sitio ftp del autor, o algo asi, pero
+GM> nunca
+GM> "de" internet.
+
+Tecnisismos que no vienen al caso...
+
+>> en  lugar de pedirtelo a vos, porque de todos modos no leeré el código
+>> y   quienquiera   que  sea  que  me  lo  está  dando  podría  haberlo
+>> targiversado...  eso  suponiendo  si  no  es  que  el original no está
+>> desde  un  ppio construido con el fin de dejar mi máquina a merced del
+>> clan  autoproclamado  geek  clan,  y  cuyo  fin es sencillamente el de
+>> dominar al mundo...  ahhhhhggggggg!!!!!!!!!
+
+GM> Dejate de joder. Si el clan autoproclamado de geeks quisiera dominar el
+GM> mundo
+GM> mediante puertas traseras en los programas, seria mucho mas facil
+GM> descubrirlo
+GM> teniendo el codigo fuente que no teniendolo. No tenes argumentos.
+
+Lo  de  dominar  al  mundo  era absolutamente un chiste... nunca viste
+pinky y cerebro...??
+
+GM> Y por que vas a sospechar del clan autoproclamado de geeks que es
+GM> amigable, desinteresado, y anarquista, y vas a confiar en Microsoft que es
+GM> corporativo, monopolico y capitalista?
+
+No  confío  en  ms, pero el desinterés, el anarquismo y la filantropía
+son  valores  tan  escasos  últimamente  que uno tiende a replantearse
+hasta lo más mínimo...
+
+GM> Insisto en que que vos seas un salame que no puede leer un programa no
+GM> dice nada acerca de las ventajas y desventajas de disponer del codigo
+GM> fuente.
+
+La   mayoria   de  las  personas  somos  salames  incapaces  de  leer
+programas...  de  hecho en este sentido yo no lo soy tanto como podría
+serlo...
+
+>> Y  todavía  nadie  me  explica  cómo fui ubicado por white pages si ni
+>> configuración  está  totalmente  limpia.
+
+GM> A nadie le calienta tu configuracion! Tus datos estan en el servidor de ICQ,
+GM> no
+GM> en tu casa, gil!
+GM> http://web.icq.com/whitepages/search
+
+Lib�mela...
+
+GM> Pone tu numero de ICQ o tu nick por algun lado y dejate de joder.
+
+Trancos es el nick, y   22113938 mi id
+
+
+Lupus
+
+-- 
+
+"Triunfás porque sos apenas el embrión de carne cansada y porque tu carcajada de dulce modulación. Cuando implacable' los a�o� t�enchequen sus amarguras, ya verás que tus locuras fueron pompas de jabón." de Pompas           
+
+
+

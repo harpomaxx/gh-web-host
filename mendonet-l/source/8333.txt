@@ -1,0 +1,145 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 14766 invoked from network); 5 Sep 2000 18:50:10 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 5 Sep 2000 18:50:10 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta2 with SMTP; 5 Sep 2000 18:50:08 -0000
+Received: from a3d25.impsat.net.ar (a3d25.impsat.net.ar [200.41.21.145]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id PAA17463 for <mendonet-l@egroups.com>; Tue, 5 Sep 2000 15:52:47 +0300 (GMT)
+Date: Mon, 4 Sep 2000 19:11:03 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <6799.000904@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: HIJOS DE PUTA
+In-reply-To: <002301c015a4$d7e36e00$e47c2ac8@tepes>
+References: <002301c015a4$d7e36e00$e47c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 03/09/2000, Sebas triste escupió:
+
+S>>Una pregunta, que es el argumento de los defensores del copyright:
+S>>Si el copyright no existiera�habr�a una producción de música o libros tan
+S>>diversa como la que tenemos? o más a�n�alguien se molestaría por dar a
+S>>conocer su arte?
+>>Creeme que si... el tema del copyleft te lo prueba, copyleft es una
+S> licencia sobre la cual esta distribuido cierto software... Linux
+S> por ejemplo. 
+>>Esta licencia establece que una vez adquirido el producto, se puede
+>>hacer conel lo que desee... modificarlo, distribuirlo, etc... La
+>>unica condicion que tiene es que si vos tomas algo de las fuentes de
+>>ese producto (programa) entonces el resultado tiene necesariamente
+>>que estar con la misma licencia. 
+
+S> No termino de entender porqué garantiza la difusión del arte de
+S> uno.
+
+No se si lo garantiza, pero pensalo de esta forma:
+Si tu obra es de calidad, y todo el mundo tiene permitido hacer
+copias, por que tu obra no se va a propagar por si misma?
+Quienquiera que tenga tu obra, se la va a copiar a sus amigos o la va
+a distribuir comercialmente o como sea, simplemente porque es buena.
+
+
+Casi nadie va a tener ganas de modificar la obra antes de copiarla,
+pero eventualmente las mejoras introducidas pueden ser valiosas.
+Si no son valiosas, esa version particular de tu obra no va a ser tan
+"buena" y menos gente va a querer copiarla.
+
+Algo interesante es que como cualquiera puede hacer copias, el costo
+de obtener la obra va a ser bajisimo, cubriendo solo los costos de
+copiar, pues siempre sera posible conseguir un amigo que te haga la
+copia gratis.
+Esto satisface el principal objetivo que debe tener una ley de
+copyright: permitir que la mayor cantidad de obras esten disponibles
+para el publico.
+
+Con respecto a las modificaciones, si se trata de musica grabada, las
+modificaciones de melodia son dificiles o imposibles.
+Las modificaciones razonables seran ecualizacion, remezclado y esas
+cosas.
+Tambien podria ser que tomen muestras de tu musica para crear nueva
+musica, facilitando a otros crear mas musica y cumpliendo con el
+principal objetivo del copyright.
+Otra posibilidad es que reconstruyan la melodia y la ejecuten por si
+mismos. Eso ya no estaria cubierto por el copyright sino por la
+propiedad intelectual.
+
+Si se trata trata de de pinturas o esculturas y otras obras de caracter
+material y personal (como defini en un mensaje anterior) la
+modificacion seguida de copia simplemente degrada la obra y no va a
+prosperar demasiado.
+
+En cuanto a textos funcionales, toda modificacion y mejora debe ser
+bienvenida.
+Uno no escribe un manual para hacerse ver, o un trabajo cientifico
+para que nadie pueda aprender de el, mejorarlo y corregirlo.
+
+Nadie escribe un programa para que no sea util (salvo tal vez
+Microsoft) o para que le complique la vida al usuario o haga andar mal
+a otros programas (salvo Microsoft), por lo tanto, en estos casos, las
+modificaciones son bienvenidas. Si tu programa no me gusta en cierto
+detalle, y tengo la capacidad para modificarlo a mi conveniencia, por
+que tu vanidad va a ser mas importante que mi conveniencia practica?
+
+Hay que analizar cada caso en particular, de manera que se cumpla lo
+que parece justo y razonable:
+
+1) Si una obra es valiosa para la gente, no tiene que restringirse su
+difusion. Si una obra no es valiosa para la gente, tampoco debe
+hacerse nada al respecto, pues por si misma se extinguira. (anarquia)
+1) Nadie debe tomar credito por lo que no ha hecho. Si yo solo corregi un
+acento en tu novela "Vida y Obra del Subcomandante 11", no voy a
+escribir mi nombre en el titulo de las copias que distribuya.
+3) La gente debe ser libre de hacer lo que necesite y le convenga con
+la informacion que recibe. Esto incluye modificar y compartir esta
+informacion hasta el punto de no afectar demasiado otros derechos de
+la gente.
+4) Los autores deben recibir una recompensa por crear algo nuevo. en
+el negocio actual, los autores ganan solo migajas comparadas con las
+editoriales, y eso es injusto.
+
+De las actividades creativas principales se puede vivir sin copyright:
+
+Los musicos, dando shows en vivo, su verdaro trabajo.
+Los pintores y escultores: haciendo obras nuevas unicas.
+Los programadores: escribiendo programas a medida, mejorando programas
+enlatados, o dando soporte tecnico de programas libres.
+Los escritores: dando conferencias, cursos, presentando sus obras,
+escribiendo en fasciculos y ganando dinero en la distribucion.
+Igual esta mal que tipos como Sidney Sheldon (que escribe bien)
+ganen tanto dinero por tan poco esfuerzo.
+
+Una noticia para los salames de alla afuera: no es necesario mas y mas
+dinero cada vez.
+
+
+S>  ¿Cuando decís "lo adquirís" decís "lo comprés"? Igual, a mí no
+S> me interesa reformar los libros o la música que compro (si
+S> comprara).
+
+Lo copias. Si pagaste o no para recibir esa copia no esta en
+discusion.
+Si todos pueden copiar, los malos de la pelicula (editoriales) se van
+a morir si siguen actuando como ahora, lo cual es bueno.
+Y no estes tan seguro de no querer modificar los libros que lees.
+Hay cantidad de libros que tengo con errores estupidos de traduccion.
+Es comun que las malas traducciones digan "voltaje" en vez de
+"tension", o que digan "numero integral" en lugar de "numero entero",
+o "series de resistencia" en lugar de "resistencia serie".
+(lo siento pero estoy por rendir Aplicada 3).
+
+Si yo estudio con uno de esos libros, me tomo la molestia de tachar lo
+que esta mal y escribirlo bien.
+Asi cuando le doy una fotocopia a un amigo, o lo leo despues, lo que
+leo esta corregido y es mejor.
+
+
+-- 
+Groucho Marx
+Colorado como bragueta de ladrillero
+
+
+

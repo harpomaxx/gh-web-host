@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_0_3); 29 Sep 2000 00:34:52 -0000
+Received: (qmail 18836 invoked from network); 29 Sep 2000 00:34:52 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 29 Sep 2000 00:34:52 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 29 Sep 2000 00:34:50 -0000
+Received: from a3d25.impsat.net.ar (a3d25.impsat.net.ar [200.41.21.145]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id VAA09381 for <mendonet-l@egroups.com>; Thu, 28 Sep 2000 21:37:53 +0300 (GMT)
+Date: Thu, 28 Sep 2000 21:26:58 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <12893.000928@...>
+To: Alejandro Gomez Talquenca <mendonet-l@egroups.com>
+Subject: Re: para oxiuro
+In-reply-To: <009101c027da$0aa652c0$LocalHost@...>
+References: <009101c027da$0aa652c0$LocalHost@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 26/09/2000, Alejandro Gomez Talquenca apurado explicó:
+
+AGT> Hay un recital de Luis Salinas, es hoy (martes 26) a las 23:00 por canal 7
+AGT> Bs. As.
+
+Esos pelotudos!!!
+Por que le cambiaron el nombre a ATC?
+
+Como si todo el mundo lo viera en el canal 7.
+Esta es una confusion entre medio (canal 7 de telerradidifusion) y
+contenido (programacion que se puede ver en ese canal).
+
+Igual que con los telefonos celulares esos que supuestamente "se
+conectan a Internet".
+Que veas en el telefono una fraccion de la informacion que podes ver
+en la web no significa que estes conectado a Internet.
+Si el telefono esta conectado a Internet, cual es la direccion IP del
+telefono?
+Asi como ver una pelicula en la television no significa que estes
+viendo cine.
+
+Me da por las bolas.
+
+-- 
+Groucho Marx
+Una corbata limpia atrae el plato del día.
+
+
+

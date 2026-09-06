@@ -1,0 +1,56 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 3 Sep 2001 16:27:15 -0000
+Received: (qmail 80007 invoked from network); 3 Sep 2001 16:26:49 -0000
+Received: from unknown (10.1.10.26)
+  by m8.onelist.org with QMQP; 3 Sep 2001 16:26:49 -0000
+Received: from unknown (HELO kastor.andromeda) (200.45.192.116)
+  by mta1 with SMTP; 3 Sep 2001 16:26:46 -0000
+Received: from localhost (localhost [[UNIX: localhost]])
+	by kastor.andromeda (8.11.3/8.11.3) id f83GFR401317
+	for mendonet-l@yahoogroups.com; Mon, 3 Sep 2001 13:15:27 -0300
+Message-Id: <200109031615.f83GFR401317@...>
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Organization: @ndromeda group
+To: mendonet-l@yahoogroups.com
+Subject: Re: Re[4]: =?iso-8859-1?q?=BFBuenas=3F=20y=20etc=2E=2E=2Ede=20uno?= nuevo
+Date: Mon, 3 Sep 2001 13:15:27 -0300
+X-Mailer: KMail [version 1.3]
+References: <01082403041700.00700@...> <4565.010824@...> <OE38lhgnFZS4HIv6Eyb000002a6@...>
+In-Reply-To: <OE38lhgnFZS4HIv6Eyb000002a6@...>
+X-KASTOR: -LIVE FREE OR DIE-
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+From: kastor troy <root@...>
+
+El Jue 30 Ago 2001 10:17, escribiste:
+
+> manejar un auto corriente, en cambio linux se nos presenta a los
+> neófitos como un auto para seres sin manos y con ojos en el culo, y
+> que encima, si se rompe no tiene mecánico, tiene que arreglarlo uno
+> mismo. Desde el facilismo dueño del mundo, la opción es lógica, más
+> allá de que linux sea mejor... no se si se entiende mi punto.
+
+no no se entiende. antes de hablar porque no instalas linux y lo probas por 
+vos mismo antes de ser tan prejuicioso.
+
+>
+> grashias, guindou, por esisti, te lo agradeshemo, noshotro, lo estudiante
+> de medicina
+
+que a los estudiantes de medicina les produce "menos" errores?????
+
+-- 
+  kastor troy
+ ____________________________
+  root@...
+  kastor@...
+  http://www.kastor.com.ar
+  Linux User #179479
+  ICQ #29242971
+  powered by mdk gnu/linux
+ ____________________________
+

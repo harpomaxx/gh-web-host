@@ -1,0 +1,117 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 28 Nov 2001 16:44:22 -0000
+Received: (qmail 52076 invoked from network); 28 Nov 2001 16:44:21 -0000
+Received: from unknown (216.115.97.167)
+  by m10.grp.snv.yahoo.com with QMQP; 28 Nov 2001 16:44:21 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta1.grp.snv.yahoo.com with SMTP; 28 Nov 2001 16:44:21 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id NAA29964
+	for <mendonet-l@...>; Wed, 28 Nov 2001 13:50:04 +0300 (GMT)
+Message-ID: <01be01c1782d$07203fe0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20011124173210.H6543@...> <1457.011126@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B2=5D:_Pregunta__para_algun_guru_informatico?=
+	=?iso-8859-1?Q?...?=
+Date: Wed, 28 Nov 2001 13:45:26 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+
+> >> se llama slot1 porque tiene el procesador en 1 slot?
+>
+> GM> Se llaman slot 1 porque asi lo patento Intel. Pero el nombre no deja
+> GM> de ser razonable tratandose del primer conector con aspecto de ranura
+(slot)
+> GM> usado por Intel.
+>
+> Momento...  esos  conectores  se  han usado durante años para conectar
+> otras placas... será el primero usado para el procesador...
+
+No. Este es un conector patentado. La idea es mas vieja que la Atari 500,
+pero
+los detalles nimios de dimensiones, significado de cada pin etc,etc son
+unicos y nuevos.
+
+> >> hay procesadores que entran en más de un slot?
+> GM> Quien haria algo tan engorroso?
+> No me subestimes...
+
+Ahhh!! Ya entendi. Vos no decis que un procesador necesite entrar en
+varios conectores a la vez para andar, sino que pueda entrar a tu eleccion
+en uno o en otro?
+
+La respuesta es no. No hay ningun conector de procesador que sea
+compatible a nivel mecanico con otro. Lo que si hay son conectores
+compatibles a nivel de señales, por ejemplo slot1 y socket 370. Con
+un adaptador, es posible enchufar un procesador socket 370 en una
+ranura slot1.
+
+
+> >> una  placa  madre  para  un slot1 puede alvergar tanto a un pentiun II
+> >> como a otro procesador slot1?
+>
+> GM> Ese es el truco de tener un conector, no te parece?
+>
+> No  necesariamente...  el beneficio de poder cambiar el procesador por
+> otro  igual  si  éste  se  quema  ya es suficiente para justificar esa
+> configuración por sobre una configuración con todo integrado...
+
+Pero esa no fue tu pregunta. Tu pregunta fue si 2 procesadores que usan el
+mismo
+conector son intercambiables, y justamente ese es el proposito de un
+conector
+estandarizado, que todos los elementos que usen la interfaz estandar sean
+intercambiables. El problema es que Intel quiere limitar tus opciones de
+intercambiar procesadores solo a los distintos modelos de Intel.
+
+
+> Además, siendo que ignoro completamente el salto tecnológico existente
+> entre   un   pII   y   un   PIII  (aunque  lo  presumo  no  demasiado
+> significativo...)
+
+Correcto.
+
+>  ignoro  también  si esa modificación tecnológica no
+> dejó obsoleta la placa madre... con lo que sería imposible conectar un
+> PIII a una vieja placa slot 1 para PII...
+
+En teoria no, pero los motherboards para los primeros pentiums 2 (como el
+PCChips 747) andan muy mal con Pentium 3 y perfecto con Pentium 2.
+Pero durante un tiempo convivieron los P2 y P3 y los mobos de esa epoca
+andaban con ambos (como el muy popular PCChips 748).
+
+
+> >> qué otro procesador slot1 existe?
+> GM> Pentiums 3 viejos y Celerones viejos.
+> Qué molestos... y qué conector está "de moda" ahora?
+
+Esta de moda que sea un conector distinto para cada procesador.
+Socket 370 para Celeron, socket no se cuanto para P4, PPGA no se
+cuanto para todos los K7 (Duron/Athon)...
+
+> >> cuál es el diseño de conecci�n del procesador más mecha y por qué?
+>
+> GM> Es mas mecha el mas practico.
+>
+> El  slot  1  es  bastante  práctico...  no  he visto los otros... pero
+> imagino que serán iguales o mejores en cuanto a eso... o no...?
+
+El slot 1 en su momento fue muy poco practico: es muy grande y estorboso,
+y hay que hacer muchas fuerza para insertar el cartucho.
+Todos los otros conectores son del tipo ZIF (zero insertion force).
+Con el tamaño actual de los disipadores, ningun conector es practico...
+
+--
+Groucho
+
+

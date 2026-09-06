@@ -1,0 +1,43 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 30 Oct 2000 04:14:40 -0000
+Received: (qmail 4910 invoked from network); 30 Oct 2000 04:14:40 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 30 Oct 2000 04:14:40 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 30 Oct 2000 04:14:38 -0000
+Received: from antro.micasa ([200.41.31.86]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA20562 for <mendonet-l@egroups.com>; Mon, 30 Oct 2000 01:15:16 +0300 (GMT)
+Date: Mon, 30 Oct 2000 00:19:27 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1213.001030@...>
+To: Marc <mendonet-l@egroups.com>
+Subject: Re[5]: Boring
+In-reply-To: <0626.001029@...>
+References: <0626.001029@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 29/10/2000, Marc furioso escupió:
+
+MF>>   una regla mas a la lista: todo mail debe hacer participar de
+MF>> alguna forma u otra al groucho, quien se atreva a romper esta
+MF>> ley, sera castigado
+
+M>          FM tus comentarios me han caido bien pero no estas
+M>          escribiendo de una forma fácil de leer usa otro programa de
+M>          mail o quotea mejor, tene en cuenta que hay mucho para leer y
+M>          hay que hacerlo rapido.
+
+Si. Desactiva el HTML del Outlook Express 5 !!!!!!
+
+-- 
+Groucho Marx
+Si Dios hubiera querido que anduvi�semos desnudos, nos habría dado
+manos más grandes.
+
+
+

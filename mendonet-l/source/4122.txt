@@ -1,0 +1,71 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 16:19:23 -0000
+Received: (qmail 36244 invoked from network); 5 Oct 2001 16:19:22 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.223 with QMQP; 5 Oct 2001 16:19:21 -0000
+Received: from unknown (HELO kastor.andromeda.gnu) (200.47.194.92)
+  by mta1 with SMTP; 5 Oct 2001 16:21:11 -0000
+Received: from localhost (localhost [[UNIX: localhost]])
+	by kastor.andromeda.gnu (8.11.6/8.11.6) id f951bv728230
+	for mendonet-l@...; Thu, 4 Oct 2001 22:37:57 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Organization: @ndromeda group
+Message-Id: <200110042237.21510@X-KASTOR >
+To: mendonet-l@...
+Subject: Re: Re[4]: Nuevas Ideas =?iso-8859-1?q?Antiquisimas?=
+Date: Thu, 4 Oct 2001 22:37:57 -0300
+X-Mailer: KMail [version 1.3.1]
+References: <200110020033.f920XGC02705@...> <1577.011002@...>
+In-Reply-To: <1577.011002@...>
+X-KASTOR-2: NO AL PAGO DE LA DEUDA EXTERNA!!!
+X-KASTOR: don't look my headers ass hole!!!
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+From: kastor troy <root@...>
+
+El Mar 02 Oct 2001 13:51, Sebas escribio:
+> >> LM> ... eeeehhhh...
+> >> L=
+M> =A1Me prendo!!
+> >> No se cual sera mas artista, pero el autodid=
+acta es mas groso.
+>
+> kt> en eso coincido.. el artista tuvo la suerte de=
+ nacer con eso, en cambio
+> el kt> autodidacto se rompio el orto para apren=
+derlo.. es muhco mas
+> meritorio. Te fuiste al guano... yo no dije eso. Yo =
+dije que para mi, es
+> mas
+> groso el autodidacta que el que es enseñ=
+ado en una tecnica... lo que
+> no quiere decir que ser enseñado en una =
+tecnica este mal.
+
+yo no dije que este mal...
+
+>
+> La medicina es cienc=
+ia y arte, y es mucho mejor que a la tecnica del
+> arte te la enseñen.
+=
+
+porque pensas que la medicina es una arte?
+
+-- 
+  kastor troy
+ ___________=
+_____________________
+  root@...
+  kastor@...
+  =
+Linux User #179479
+  ICQ #29242971
+  powered by mdk vitamin gnu/linux
+ ____=
+_____________________________
+

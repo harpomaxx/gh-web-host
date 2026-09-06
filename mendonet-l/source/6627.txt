@@ -1,0 +1,44 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_2); 3 Dec 2000 23:55:52 -0000
+Received: (qmail 61451 invoked from network); 3 Dec 2000 23:55:39 -0000
+Received: from unknown (10.1.10.142) by l9.egroups.com with QMQP; 3 Dec 2000 23:55:39 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.31.34) by mta3 with SMTP; 4 Dec 2000 00:56:42 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id OAA04109 for mendonet-l@egroups.com; Sun, 3 Dec 2000 14:42:47 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Sun, 3 Dec 2000 14:42:47 -0300
+To: mendonet-l@egroups.com
+Subject: Re: Sacando conclusiones sobre la firma de Harpo Maxx
+Message-ID: <20001203144247.C4041@...>
+References: <20001201213935.14360.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <20001201213935.14360.qmail@...>; from fcanizo@... on Fri, Dec 01, 2000 at 09:39:35PM -0000
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Fri, Dec 01, 2000 at 09:39:35PM -0000, Conan el Barbaro dijo:
+> El 22/11/00, Groucho Marx le susurraba a harpo@...:
+>  
+>  GM>Ok. Vos has hecho o conoces algun mail user agent que permita
+>  GM>seleccionar las taglines a mano?
+>  
+>  No es difícil groucho: mapeás alguna tecla en el vi para que
+>  cuando lo llame el MUA puedas llamar a un scripcito tuyo que
+>  con un poco de perl y ncurses te deje elegir un tag de
+>  alguna lista de por ahí y listo. (a mi no me interesa
+>  hacerlo, pero no es difícil)
+
+Perl puede acceder a ncurses???? como es eso??? mejor usar Dialog o
+whiptail!!! no te parece?
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

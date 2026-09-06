@@ -1,0 +1,202 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_2); 5 Dec 2001 17:19:54 -0000
+Received: (qmail 13874 invoked from network); 5 Dec 2001 17:19:30 -0000
+Received: from unknown (216.115.97.171)
+  by m6.grp.snv.yahoo.com with QMQP; 5 Dec 2001 17:19:30 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta3.grp.snv.yahoo.com with SMTP; 5 Dec 2001 17:19:29 -0000
+Received: from lagruta (rdumen1-200.41.21.70 [200.41.21.70] (may be forged))
+	by relay2.impsat1.com (8.9.3/8.9.3) with SMTP id OAA24965
+	for <mendonet-l@...>; Wed, 5 Dec 2001 14:20:30 -0300 (GMT)
+Message-ID: <014301c17db2$346e9e80$060aa8c0@...>
+To: <mendonet-l@...>
+References: <04e101c17c24$5ca57a20$060aa8c0@...> <9589.011204@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B4=5D:_Siguen_las_preguntas_informaticas...?=
+Date: Wed, 5 Dec 2001 14:27:58 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> GM> en la pantalla un cartel indicando que se gano la loteria china, y que
+llame
+> GM> al 0800 555-5555 para cobrar su premio.
+> GM> Un calculo pesimista hecho hace unos años indicaba que una clave de
+2048
+> GM> bits podria explorarse en un mes con el sistema de la loteria china..
+>
+> Alusinante!
+^^^^^^^^^^
+No tanto como tu ortografia, cabron!
+
+> Y  quién  se  pone  a sacar esas cuentas... a quién se le ocurren esas
+> ideas... me gustaría saber...
+
+Yo lo lei en el libro de redes de Tanembaum, una verdadera biblia para todo
+geek.
+
+
+> >> Supongo  que  copiar  pegar  no  funciona...  quier decir, yo no puedo
+> >> escribir  un  programa  y  firmarlo  con  la  firma  digital  de  otro
+> >> programador...  mierda...  esto  debe  tener implicaciones filosóficas
+> >> interesantísimas...
+>
+> GM> Nunca podrias usar la firma digital del otro porque por definicion, la
+clave
+> GM> privada es PRIVADA (secreta) asi que tu unica opcion es adivinarla.
+>
+> En realidad ya lo comprendí bastante bien...
+>
+> Pero la única forma de tener una firma electrónica medianamente segura
+> es  poniéndose  a  estudiar  algo  de  cryptografía...  parece  que es
+> necesario que uno idee su encriptado privado...
+>
+> >> GM> Entonces yo genero 2 claves: una me la guardo en forma secreta
+(clave
+> >> GM> publica) y la otra la publico en algun lugar donde cualquiera pueda
+> >> GM> conseguirla (clave privada).
+> >> No será al revés...?
+>
+> GM> Si, eso. No jodas con detalles.
+>
+> je je...
+>
+> >> Pero:  qué tan probable es que alguien descifre tu calve privada? debe
+> >> haber algoritmos descifraclaves supongo...
+>
+> GM> Los algoritmos de cifrado y descifrado son publicos y conocidos por
+todos.
+> GM> (otra vez la filosofia open source). La seguridad esta en que las
+claves
+> GM> privadas son realmente secretas, y en la diicultad matematica de
+calcular
+> GM> numeros primos grandes.
+>
+> Ahh... ¡plop?
+
+Porque la clave privada y la publica estan relacionadas matematicamente. Si
+vos
+sabes la clave publica, y tenes algunas muestras de texto cifrado con la
+clave privada,
+en teoria podrias deducir la clave privada.
+El calculo necesario para tal deduccion es similar a factorear numeros
+enteros
+muy-muy-muy grandes.
+
+> GM> La ventaja de un algoritmo abierto y publico de cifrado es que
+cualquier
+> GM> cientifico va a romperse el culo tratano de encontrarle una falla o
+puerta
+> GM> trasera con tan que de que su nombre salga publicado en algura revista
+> GM> cientifica (consultoria gratis para el creador del algoritmo),
+>
+> Ja ja!! Eso si es simpático!
+>
+> GM>  y para el
+> GM> publico
+> GM> en general, tener mayor certeza de que el algoritmo no tiene puertas
+> GM> traseras o debilidades deliberadamente introducidas por el diseñador.
+> GM> (mismo argumento que indica que el codigo fuente abierto es mas
+seguro).
+>
+> Pero  cómo  puta  puede  ser  posible  que, conociendo el algoritmo de
+> decodificación,  el  de  codificación  se  mantenga  oculto  con tanta
+> fidelidad...!!?? Eso me asombra...
+
+No hay nada oculto, en algoritmo de cifrado y de descifrado son
+perfectamente conocidos.
+A ver... Si te molestas en averiguarlo, vos podes saber como funciona una
+cerradura, (el algoritmo) pero si no conoces la forma de la llave, de nada
+te sirve saber como funciona la cerradura, igual no podes abrir la
+cerradura.
+
+Un ejemplo mas matematico. Supongamos que usamos el metodo de cifrado del
+Cesar, llamado asi porque fue realmente usado por los romanos en sus
+campañas.
+Este metodo es un metodo de sustitucion, donde cada letra es sustituida
+siempre por otra letra, la que corresponde n lugares mas adelante en el
+abecedario
+Si n=13 (el valor que usaban los romanos), la sustitucion queda asi:
+ABCDEFGHIJKLMNOPRSTUVWXYZ
+NOPRSTUVWXYZABCDEFGHIJKLM
+
+Si un general romano le decia a otro "DHGHF" el otro se podia enojar
+y planear una conspiracion para asesinarlo, pero para mantener secreta
+la conspiracion podria usar n=12 en sus mensajes cifrados.
+Aunque el otro general supiera el algoritmo de cifrado ("reemplazar
+cada letra por la letra ubicada n lugares mas adelante"), si no sabe
+la clave (n=12) no puede descifrar el texto.
+Si la clave (12) se mantiene secreta, por mas que sepas el algoritmo
+no podes descifrar el texto.
+Un jaquer romano podria probar todas las claves desde n=0 hasta n=26,
+pero parece que nunca se les ocurrio...
+
+
+> Será que el codificado es específico y el decodificado es más general,
+No. El cifrado y el descifrado son funciones matematicas inversas, y
+por lo general la misma funcion... Ninguna es mas general que la otra.
+Por ejemplo, la funcion y(x)=1/x cumple con la condicion de que
+y(x) e y-1(x) son la misma funcion.
+
+
+> con  lo que corriendo el decodificador al revés puede llegarse a miles
+> de soluciones distintas, una sola de las cuales es la correcta...?
+
+Podes correr el decodificador para el lado que te guste, si no sabes
+la clave, no va a dar el resultado correcto.
+
+Matematicamente:
+
+Sea:
+tc=c(t,kc) donde:
+tc s el texto cifrado
+t es el texto a cifrar (llamado cleartext o texto legible)
+c es la funcion de cifrado (el algoritmo)
+kc es la clave de cifrado (un parametro de la funcion)
+
+y t=d(tc,kd) donde:
+d es la funcion de descifrado
+kd es la clave de descifreado
+
+
+Si cambias kc, la funcion c va a dar un tc distinto, aun cuando
+t sea el mismo, y lo mismo pasa con la funcion d.
+
+
+> >> Supongo que en el ambiente informático los mejores programadores serán
+> >> aquellos  que  hayan  programado  los mejores open sources y con esto
+> >> podrán  aprobechar  su reputación para obtener la retribución adecuada
+> >> por  sus  conocimientos,  sin  necesidad de vender programas enlatados
+> >> porongos...
+>
+> GM> O son demasiado hippies como para pretender que les paguen por
+> GM> trabajar.
+> GM> Ejemplo: Richars Stallman.
+>
+> y qué come?? (Qué ha programado?)
+
+Ha programado:
+gcc (GNU C Compiler), make (GNU Make Utilities), emacs (el procesador de
+texto que ha creado una nueva religion), ademas de fundar, organizar y
+liderar el movimiento de Software Libre y la Free Software Foundation.
+El tipo renuncio a su trabajo en el MIT para programar software libre.
+El admite que se gana menos dinero asi, pero aun asi gana lo necesario,
+y no enviadia nada a sus colegas que viven pendientes del dinero.
+
+Que come? Da conferencias, y esas cosas. Cuando lo conocimos en
+Rosario lo vimos comer helado.
+
+
+--
+Groucho
+
+

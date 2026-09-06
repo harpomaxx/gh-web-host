@@ -1,0 +1,179 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_3); 19 Jun 2001 20:21:31 -0000
+Received: (qmail 68662 invoked from network); 19 Jun 2001 20:21:06 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 19 Jun 2001 20:21:06 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.99) by mta3 with SMTP; 19 Jun 2001 20:21:03 -0000
+Received: (qmail 10261 invoked by uid 1005); 19 Jun 2001 19:44:36 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.251949 secs); 19/06/2001 16:44:35
+Received: from cubil.micasa (192.168.0.3) by torton.micasa with SMTP; 19 Jun 2001 19:44:34 -0000
+Date: Tue, 19 Jun 2001 16:44:32 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <9697.010619@...>
+To: Sebas <mendonet-l@yahoogroups.com>
+Subject: Re: Mi computadora está senil - Anecdota de un amigo de la niña
+In-reply-To: <9671.010618@...>
+References: <9671.010618@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 18/06/2001, Sebas dijo:
+
+S> Por empezar, les pido que respeten mi ignorancia. En segundo lugar,
+S> les pido que valoren el esfuerzo que hice por hacerles llegar datos
+S> útiles. Y por último, les pido que se imaginen que algún día ustedes
+S> van al médico(que resulto ser yo), les digo que necesitan un
+S> transplante de ri�on y cuando entramos al quirófano en vez de ponerles
+S> un riñón(que no tenía) les puse un testículo de toro... feo, no?
+
+S> El tema es el siguiente: tengo una computadora(en esta que estoy
+S> escribiendo) con un pentium de 166 y 16 megas de ram. Lentasa para lo
+S> que necesito. Mis problemas se verían medianamente resueltos si
+S> tuviera 32 en vez de 16. Desconozco el tipo de memoria que tiene mi
+S> computadora, asíque recién la abrí, las miré y acá va la
+S> descripción...
+
+No hace falta. Hay 2 posibilidades: tenes 2 SIMMs de 72 pines de 8 MB
+cada uno, sin paridad, o bien, tenes 4 SIMs de 72 pines de 4 MB cada
+uno, sin paridad.
+
+Tu maquina tiene 4 ranuras de color blanco para enchufarle SIMMs de 72
+pines, y 2 ranuras mas de color negro para enchufarle DIMMs de 168
+pines. Si no tenes eso, te metieron el perro cuando la compraste.
+
+
+
+S> ponganl� un poco de huevo, que si no no lo van a
+S> entender:
+
+S> La plaquita esta tiene cuatro "bloquecitos". 1 es igual que cuatro, y
+S> 2 es igual que 3(los números se los puse yo, obvio que no están en la
+S> placa.
+S>  ______________________________________________________
+S> [ _____________  _________  _________  ______________  ]
+S> [ [     1      ][    2    ][    3    ][     4        ] ]
+S> [ [____________][ ________][_________][______________] ]
+S> [______________________________________________________]
+
+El ansi-art te salio casi profesional. Con un poco mas de soltura en
+el uso de | y - (simbolos que omitiste usar) te salia con calidad
+fotografica.
+
+
+S> Los bloques uno y cuatro tienen 21 rayitas plateadas cada uno(¿pines?)
+S> Los bloques 2 y 3 constan de 2 segmentos de 5 rayitas iguales a las
+S> anteriores cada uno. O sea:
+S> Bloque 1      bloque 2       bloque 3       bloque 4
+S>   21      +    5+5       +     5+5      +      21     = 62 rayitas
+
+S>   son dos placas iguales, y tengo espacio para dos más.
+
+S>   La pregunta es : ¿que tipo de memoria tengo?¿simm, dimm, de cuántos
+S>   pines?
+
+Si queres saber la cantidad de pines, no era mas facil contarlos?
+Vamos a ampliar una parte de tu dibujo asi ves cuales son los pines
+que tenes que contar. Por otro lado la cuenta no necesita ser muy
+exacta, con que diferencies 30, 72 y 168 alcanza.
+
+
+Sea la esquina inferior derecha de tu dibujo:
+
+ ____________________________________________________________
+|
+|        ____________________  _________________   __________
+|        |                  |  |                |  |
+|        |.                 |  |                |  |
+| ()     L__________________|  L________________|  L_________
+|
+`|   |||||||||||||||||||||||||||||||||||||| _  |||||||||||||||
+ L_________________________________________/ \________________
+     1234567....
+
+Cada rayita a la que le puse un numero es un pin.
+
+Deberian haber 72 pines (de cada lado).
+
+
+S>   Punto dos: ¿a cuánto y dónde las compro? Mis recursos económicos
+S> son limitadísimos.
+
+Los SIMMs como los que buscas son absurdamente caros. En CEDEECO te
+los van a querer vender a 90 pesos los 16 MB, cuando el precio que yo
+pagaria nunca excederia los 20 pesos los 16 MB.
+Ademas en tu caso deberias instalar los SIMMs de a pares: 2 de 8 o
+2 de 16 MB, nunca 1.
+
+Tu chance es ver si tu maquina admite DIMMs de 168 pines, pues sus
+precios son mucho mas razonables: 256 MB se pueden conseguir por 87
+pesos. 32 MB se obtienen por 22 pesos mas o menos, si es que todavia
+se consiguen.
+Estos se pueden instalar de a 1 por vez, en las maquinas de tu tipo.
+El problema es que se trata de memorias sincronicas y estan diseñadas
+para operar a cierta velocidad, que por supuesto es mucho mas alta que
+la que tu maquina puede ofrecer.
+
+
+Necesitarias DIMMs de 32 MB, 168 pines y 66 MHz, pero no los vas a
+conseguir jamas.
+Con un poco de suerte y dependiendo del modelo exacto de motherboard
+que tengas, es posible que los DIMMs de 100 o 133 MHz te funcionen.
+En el peor caso, te los va a detectar como de 1/4 de su capacidad
+real: le enchufas 64 MB y dice que hay 16 por ejemplo, lo cual no
+dejaria de resolver tu problema, no?
+Otro detalle a considerar si tenes originalmente 4 SIMMs de 4 MB es
+que casi siempre uno de los zocalos de DIMMs y un par de zocalos de
+SIMMs no se pueden usar a la vez.
+Por lo general es el segundo DIMM junto con los 2 ultimos SIMMs, pero
+puede variar.
+
+
+S>   Punto 3:¿alguno de ustedes me puede vender(por no decir regalar) lo
+S>   que necesito?
+
+Lo unico que tengo para desprendermelo son 2 SIMMs de 4 MB. Si te
+interesa te los presto hasta que me olvide que te los preste, a menos
+que Marc los quiera para ella en cuyo caso, ella tiene prioridad.
+
+Si queres probar si una memoria nueva de 133 MHz va a funcionar en
+tu motherboard, te venis a mi casa con el gabinete (y su rellenito) y
+lo probamos. Si te funciona, vemos si te lo puedo comprar a precio
+mayorista y te cobro una minucia por la instalacion.
+
+Eso a menos que Goofer tenga una oferta peor (si el te cobra feo yo
+tambien), en cuyo caso igualo mi oferta a la de el, y ante ofertas
+iguales, te conviene tomar la del mimo, porque yo no tengo verdadera
+vocacion de atencion al cliente y cuando me rompas las bolas 2 o 3
+veces seguidas por temas de la computadora te voy a putear. Preguntale
+al amigo de la Niña al que le arme una maquina y luego me jodio porque
+no le andaba el scanner (obvio, ya que no me habia dado los drivers).
+Le instalo el scanner y me jode porque el quiso instalar un programa de
+OCR y lo instalo mal y dejo de andar el scanner. Luego queria que le
+instalara un programa version 0.000001 que ocupaba medio millon de
+diskttes cuando yo tenia el mismo programa 4 versiones mas nuevo y en
+CD, o me llamaba al celular para avisarme que habia dejado la maquina
+en mi casa porque se habia comprado una grabadora nueva. Se la
+instalo. Al dia siguiente llama porque se habia comprado un lector de
+CDs y un disco rigido nuevo y la grabadora ya no andaba, si le podia
+instalar la lectora, la grabara y el disco rigido. Pero yo habia hecho
+un backup completo del disco viejo de el en una de mis maquinas antes
+y me habia complicado la vida en restarurarle todos los datos y
+programas a la vez que se los grouchizaba (a la mierda con los
+salvatantallas 3D y demas cosas de homosexuales) gran parte de lo cual
+se hubiera evitado si me decia desde el principio que iba a poner
+disco nuevo con mucho hardware nuevo, entonces le hacia una
+instalacion fresca desde 0.
+
+
+
+-- 
+Groucho Marx
+
+
+

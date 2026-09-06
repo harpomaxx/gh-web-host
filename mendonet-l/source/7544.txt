@@ -1,0 +1,16 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 2 Nov 2000 15:18:10 -0000
+Received: (qmail 5614 invoked from network); 2 Nov 2000 15:18:10 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 2 Nov 2000 15:18:10 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 2 Nov 2000 15:18:09 -0000
+Received: (qmail 29359 invoked by uid 722); 2 Nov 2000 15:17:59 -0000
+Date: 2 Nov 2000 15:17:59 -0000
+Message-ID: <20001102151759.29351.qmail@...>
+To: mendonet-l@egroups.com
+Subject: gofa potenciado con politroneras cromadas
+From: fcanizo@...
+
+

@@ -1,0 +1,53 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 3 Oct 2001 17:42:02 -0000
+Received: (qmail 65638 invoked from network); 3 Oct 2001 17:24:48 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.224 with QMQP; 3 Oct 2001 17:24:48 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2 with SMTP; 3 Oct 2001 17:26:46 -0000
+Received: from modem42-as1.mendoza.sinectis.com.ar ([216.244.255.42])
+  by softhome.net with esmtp; Wed, 03 Oct 2001 11:24:09 -0600
+Date: Tue, 2 Oct 2001 04:42:17 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus <aldocop@...>
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <6196.011002@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbMl06IElkZWFzIEFudGlxde1zaW1hcyAx?=
+In-reply-To: <01e601c1491a$b7d743c0$9a4afea9@hfgg>
+References: <01e601c1491a$b7d743c0$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+
+                                  Tuesday, October 02, 2001
+
+El 29/09/2001, mendonet-l decía:
+
+>> LM> Los artistas que se empeñan en "si vas a hacer algo, hacelo
+LM> bien,
+>> LM> sino no lo hagas", son aquellos que nunca se suben a un
+>> LM> escenario.
+>>
+>> Se ve que nunca escuchaste a Malmsteen.
+
+LM> ... Toda regla tiene su excepción...
+
+La excepción no confirma la validez de la regla, apenas confirma su
+existencia...
+
+Dónde meter� esta regla...
+
+Lupus
+
+--
+
+"No preguntéis su nombre a quién pide asilo.Precisamente quién más necesidad tiene de asilo es el que más dificultad tiene de decir su nombre." Victor Hugo             
+
+
+

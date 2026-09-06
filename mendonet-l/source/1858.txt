@@ -1,0 +1,7 @@
+From foo@bar  Sat Jul 11 23:23:58 2020
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+
+(cabeceras privadas de la lista de correo)
+
+

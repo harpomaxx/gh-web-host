@@ -1,0 +1,65 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 7 Nov 2001 18:32:53 -0000
+Received: (qmail 61641 invoked from network); 7 Nov 2001 18:32:52 -0000
+Received: from unknown (216.115.97.167)
+  by m8.grp.snv.yahoo.com with QMQP; 7 Nov 2001 18:32:52 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta1.grp.snv.yahoo.com with SMTP; 7 Nov 2001 18:32:53 -0000
+Received: from gateway.micasa.org.ar (200-41-31-58-rdunysd1.impsat.net.ar [200.41.31.58])
+	by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id PAA10928
+	for <mendonet-l@...>; Wed, 7 Nov 2001 15:23:17 +0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 161JRe-0001Qd-00
+	for <mendonet-l@...>; Wed, 07 Nov 2001 00:32:06 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 161JRd-0001QS-00
+	for <mendonet-l@...>; Wed, 07 Nov 2001 00:32:05 -0300
+Date: Wed, 7 Nov 2001 00:32:05 -0300
+To: mendonet-l@...
+Subject: Re: Trabalenguoso, pero...
+Message-ID: <20011107003205.P4105@...>
+References: <11916.011101@...> <17520.011103@...> <20011105160735.I24374@...> <OE28UmOVRerUeI9Ma0u0000ce80@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <OE28UmOVRerUeI9Ma0u0000ce80@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Mon, Nov 05, 2001 at 08:03:47PM -0300, Morganti Federico wrote:
+
+> > Me acabo de dar cuenta que cassette probablemente signifique cajita en
+> > frances. Es asi?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Sigo esperando respuesta a esto!!!
+
+> > Debo confesar que en un momento tambien yo era fanatico de Roxette...
+> cual era el nombre de tu fan' clu', el mio era " aguante roxette"
+
+No. Era admirador de ellos, no un imbecil. Bueno, era un imbecil por admirarlos,
+pero no tanto como para fundar un fan club.
+Un fan club de un sistema operativo vaya y pase (Lugmen), pero un fan club de
+unos cantantes, la boca se te haga a un lado.
+
+
+> > Recuerdo que quise grabar el "recital en vivo". Para estar seguro de que
+> > saldria perfecto, instale el monitor de fosforo verde de mi computadora de
+> > entonces para poder supervisar lo que la video grababa por la salida AV
+> > sin interferir con la salida de RF conectada al televisor.
+> 
+> que, se puede?
+
+Que cosa?
+Vos dedicate a extirpar apendices, que programar la video es mi especialidad.
+
+
+--
+Groucho
+
+
+
+

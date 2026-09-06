@@ -1,0 +1,82 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 32893 invoked from network); 3 Sep 2003 19:34:32 -0000
+Received: from unknown (66.218.66.217)
+  by m19.grp.scd.yahoo.com with QMQP; 3 Sep 2003 19:34:32 -0000
+Received: from unknown (HELO mail1relaynoc.bbt.net.ar) (200.81.94.8)
+  by mta2.grp.scd.yahoo.com with SMTP; 3 Sep 2003 19:34:31 -0000
+Received: (qmail 23758 invoked from network); 3 Sep 2003 19:34:25 -0000
+Received: from 200-80-161-76.bbt.net.ar (HELO torton.micasa.org.ar) (200.80.161.76)
+  by mail1relaynoc-fe.bbt.net.ar with SMTP; 3 Sep 2003 19:34:25 -0000
+Received: from antro.micasa.org.ar ([10.55.68.2] helo=there)
+	by torton.micasa.org.ar with smtp (Exim 3.35 #1 (Debian))
+	id 19udOS-0000OE-00
+	for <mendonet-l@...>; Wed, 03 Sep 2003 16:34:16 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[2]: Una pelicula acerca de nada
+Date: Wed, 3 Sep 2003 16:45:46 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <E19tzsz-0000gB-00@...> <15871.030902@...>
+In-Reply-To: <15871.030902@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E19udOS-0000OE-00@...>
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Mar 02 Sep 2003 20:54, Sebas escribió:
+> >> Para mi la pelicula muestra como un niño se adapta a la situación
+> >> de mierda que le tocó pasar a partir de la represión del gobierno.
+>
+> HG> El problema de la pelicula es que la narrativa carece de
+> estructura. No HG> tiene planteo, desarrollo, nudo y desenlace.
+>
+> Ah... o sea que no te gustó... ¿no te parece demasiado estructurado
+> esperar de toda película que tenga planteo, desarrollo, nudo y
+> desenlace?
+
+Estoy diciendo que el problema de la pelicula es que su narrativa 
+carece de estructura, y vos me preguntas si no me parece demasiado 
+estructurado pretender estructura en la narrativa de la pelicula?
+Obviamente no!!! No me parece demasiado estructurado.
+
+> Una película también puede ser un reflejo de un momento,
+> una situación,
+> o un sentir particular sobre algo, no necesariamente
+> es un "historia"...
+
+Esta claro que una obra cinematografica puede ser de varios generos, al 
+igual que una obra literaria.
+De ellos, me gusta que me cuenten una historia ("novela"), o que me 
+instruyan sobre hechos ("documental").
+Los otros generos cinematograficos me aburren.
+
+
+> las historias estructuradas como vos lo planteas
+
+Se llaman novelas o cuentos, segun su duracion y profundidad.
+
+
+> son infaltables en el cine holliwoodense, pero en general, y en la
+> medida que veas cine de otros orígenes, verás que hay muchas
+> variantes y que muchas son muy interesantes.
+
+Entonces que llamen las cosas por su nombre y aclaren a que genero 
+pertenece una obra cinamatografica, asi no pierdo el tiempo en verla si 
+se que no me va a interesar.
+(Alguien podria observar lo estructurado de mi postura: negarme a ver 
+una pelicula segun como este etiquetada.)
+
+-- 
+Herr GrouchoX
+
+ID Jabber: groucho@...
+Señal distintiva: LU5MJR - 144,550 MHz FM.
+Clave pública GPG: [pronto la voy a subir a algún lado]
+Fingerprint GPG: 00EC 0B71 49D5 2EEC 357C  9A78 A87B DC4F 1B31 8B55
+

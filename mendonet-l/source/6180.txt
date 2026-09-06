@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_3); 4 Jun 2001 17:28:38 -0000
+Received: (qmail 69196 invoked from network); 4 Jun 2001 17:28:38 -0000
+Received: from unknown (10.1.10.26) by l8.egroups.com with QMQP; 4 Jun 2001 17:28:38 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18) by mta1 with SMTP; 4 Jun 2001 17:28:36 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70]) by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id OAA21368 for <mendonet-l@yahoogroups.com>; Mon, 4 Jun 2001 14:32:02 +0300 (GMT)
+Message-ID: <01f901c0ed1c$bea7a960$060aa8c0@...>
+To: <mendonet-l@yahoogroups.com>
+References: <018801c0eaa3$343dad40$060aa8c0@...> <19466.010601@...>
+Subject: =?iso-8859-1?Q?Re:_De_mercedes=2C_marchas_y_la_idolatria_por_mi?=
+Date: Mon, 4 Jun 2001 14:35:26 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+
+> GM> Eso es todo. No me gustan los colectivos y camiones, por lo tanto no
+me
+> GM> gustan los mercedes benz.
+
+> Si sos camionero...¿cómo te acordás en qué marcha vas en esosw
+> camiones con 15 cambios?... ¿será igual que en la bicicleta?...bah, no
+> creo que miren ningún piñón o ningún plato... pero ahora que lo
+> pienso, yo tampoco lo hago, sólo cmabio de acuerdo a mi necesidad
+> física... ¿los camioneros sentirán el sufrimiento de sus camiones en
+> carne propia?
+
+Seguro que si. Si el motor no se la aguanta, cambio=cambio-1
+Si quiero ir mas rapido y el motor hace mucho ruido, cambio=cambio+1
+
+Groucho
+
+
+

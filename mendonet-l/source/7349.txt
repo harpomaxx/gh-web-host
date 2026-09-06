@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 4 Nov 2000 17:42:16 -0000
+Received: (qmail 25014 invoked from network); 4 Nov 2000 17:42:16 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 4 Nov 2000 17:42:16 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 4 Nov 2000 17:42:14 -0000
+Received: from antro.micasa ([200.41.31.10]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id OAA22353 for <mendonet-l@egroups.com>; Sat, 4 Nov 2000 14:45:26 +0300 (GMT)
+Date: Sat, 4 Nov 2000 14:18:54 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <19596.001104@...>
+To: Marc <mendonet-l@egroups.com>
+Subject: Re[9]: Teletrabajo
+In-reply-To: <2680.001103@...>
+References: <2680.001103@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 03/11/2000, Marc dudando detalló:
+
+>>>      Cual es tu estereotipo de ingeniero??
+AGT>> Alguien que resuelve problemas, algo no muy distinto de un
+AGT>> destornillador o una pinza
+
+M>       para ser un "artista" te falta imaginación
+M>       un destornillador o una pinza no resuelven problemas son solo la
+M>       extencion de la mano (una herramienta) como un pincel lo es para
+M>       un pintor o un lapiz a un escritor, son utensilios no piensan no
+M>       usan la imaginación (no tienen)
+
+Esa es JUSTAMENTE la critica que Don Talquenca hace a los ingenieros:
+ser faltos de imaginacion.
+
+-- 
+Groucho Marx
+Bueno ya está. Yo me largo de aquí -- Cerebro de Homero J. Simpson
+
+
+

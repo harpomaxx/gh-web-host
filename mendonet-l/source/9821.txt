@@ -1,0 +1,60 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 12299 invoked from network); 2 Jul 2000 23:17:47 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 2 Jul 2000 23:17:47 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 2 Jul 2000 23:17:47 -0000
+Received: (qmail 8799 invoked by uid 417); 2 Jul 2000 23:22:00 -0000
+Received: from mza2ppp-33.uc.infovia.com.ar (209.13.229.33) by smtpb.softhome.net with SMTP; 2 Jul 2000 23:22:00 -0000
+Date: Fri, 30 Jun 2000 12:50:19 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <15534.000630@...>
+To: Groucho Marx <mendonet-l@egroups.com>
+Subject: Re[6]: Lo Bello (Cumbia pop vs Tschaicowsky...)
+In-reply-To: <2943.000629@...>
+References: <2943.000629@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Lupus el Lobo <aldocop@...>
+
+El 6/29/2000 Groucho Marx me decia:
+
+GM> El 26/06/2000, Lupus histerica=
+mente escupio:
+
+GM>>> Con respecto a la actitud de Conan, esta muy bien. =
+El pelotudo sos vos
+GM>>> por usar una poronga que no todo el mundo puede l=
+eer.
+
+LeL>> El formato doc solo puede ser leido por utilitarios microsoft=
+?????
+
+GM> Si es la ultima version si. Fijate que ahora que esta Office 2k,=
+ salen
+GM> por todos lados conversores de Word 8.0 (que es el Word que vien=
+e con
+GM> Office 97).
+
+Que porongos culiados que son!!!
+
+LeL>> Que  culia=
+dos!!!  No  creo que sea asi, para mi que Conan es un pajero
+LeL>> que =
+ no  se  ha  tomado el trabajo de pedirle a Harpo algun programita
+LeL>> =
+para ver docs...
+
+GM> No existe que yo sepa, mas alla de que algun loco lin=
+do de haya
+GM> propuesto descifrar el formato y lo haya logrado a medias.
+
+=
+Muy,  muy  culiado  este  bill...  algun  dia  me  dedicare a instala=
+r
+linux...
+
+
+

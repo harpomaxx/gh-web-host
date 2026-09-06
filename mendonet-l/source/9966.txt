@@ -1,0 +1,54 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 32588 invoked from network); 26 Jun 2000 19:58:56 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 26 Jun 2000 19:58:56 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 26 Jun 2000 19:58:54 -0000
+Received: (qmail 32463 invoked by uid 417); 26 Jun 2000 20:02:11 -0000
+Received: from mza2ppp-282.uc.infovia.com.ar (209.13.230.27) by smtpb.softhome.net with SMTP; 26 Jun 2000 20:02:11 -0000
+Date: Sat, 24 Jun 2000 22:53:03 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <4953.000624@...>
+To: Groucho Marx <mendonet-l@egroups.com>
+Subject: Re[2]: mailes de lupus
+In-reply-To: <16398.000624@...>
+References: <16398.000624@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Lupus el Lobo <aldocop@...>
+
+El 6/24/2000 Groucho Marx me decia:
+
+GM> El 20/06/2000, fcanizo delirante=
+mente menciono:
+
+fuea>> Che lupo, por que no te pones media pila y le=
+ dedicas por
+fuea>> ejemplo todo un dia a estudiar el asunto de tu mail=
+. (tal
+fuea>> vez enviando y reenviando varios paquetes). Tal vez puedas
+fu=
+ea>> averiguar de una ver por todas que te ocurre. Es decir, sos
+fuea>> el =
+unico, asique no tiene por que ser softhome. Tenes que
+fuea>> haber m=
+etido mal algun dedo por ahi, fijate.
+
+GM> Un buen plan seria componer lo=
+s mensajes de prueba sin usar el The
+GM> Bat!, sino telnet.
+GM> El telnet d=
+e Windows es una poronga, no permite redireccionamiento,
+GM> pipes ni nada,=
+ asi que habra que probar a con otro telnet que tengo
+GM> por ahi, o con Li=
+nux.
+
+=BFTelnet??
+
+Despacio geniecillo...!
+
+
+

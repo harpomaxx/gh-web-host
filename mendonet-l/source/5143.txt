@@ -1,0 +1,48 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_1); 11 Sep 2001 13:17:07 -0000
+Received: (qmail 16344 invoked from network); 11 Sep 2001 13:14:55 -0000
+Received: from unknown (10.1.10.26)
+  by l10.egroups.com with QMQP; 11 Sep 2001 13:14:55 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.230.20)
+  by mta1 with SMTP; 11 Sep 2001 13:10:48 -0000
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id JAA01887
+	for mendonet-l@...; Tue, 11 Sep 2001 09:56:11 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Tue, 11 Sep 2001 09:56:11 -0300
+To: mendonet-l@...
+Subject: Re: Re[2]: Se acabo sebitas... UFA!
+Message-ID: <20010911095611.D1529@...>
+Reply-To: harpo@...
+References: <01090913561304.00458@cubil> <0342.010910@...> <3B9D6B6C.11125.9F25F2@localhost>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <3B9D6B6C.11125.9F25F2@localhost>; from mliceaga@... on Tue, Sep 11, 2001 at 01:39:56AM -0300
+X-Operating-System: Linux elserver.micasa 2.2.19 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+El Tue, Sep 11, 2001 at 01:39:56AM -0300, mliceaga@... dijo:
+> 
+> No creo que ese sea el motivo principal.
+> Recorda que la mayor parte de los integrantes de esta lista 
+> conocen personalmentea a Oxiuro.
+> 
+> Es curioso como en una lista de correo se reproduce a escala el 
+> comportamiento "amigueril" que caracteriza a nuestro país. El tipo 
+> puede ser un pelmazo, pero si es mi amigo no lo toques...
+
+Y algo de eso hay, pero mas que nada es como una sensacion de ayuda al
+desvalido, seamos sinceros el pobre oxiuro no supo defenderse en los primeros
+mails contra Xebax... y luego empezo la masacre... fue horrible.. que le vamos
+a hacer algunos (aunque no lo crean) tenemos corazon...
+
+-- 
+Harpo+
+

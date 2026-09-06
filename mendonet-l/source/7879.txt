@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-6_1_0); 18 Oct 2000 19:26:34 -0000
+Received: (qmail 13107 invoked from network); 18 Oct 2000 19:26:34 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 18 Oct 2000 19:26:34 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 18 Oct 2000 19:26:21 -0000
+Received: from 200.41.31.111 ([200.41.31.111]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id QAA11934 for <mendonet-l@...>; Wed, 18 Oct 2000 16:27:09 +0300 (GMT)
+Date: Wed, 18 Oct 2000 16:20:42 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <6681.001018@...>
+To: Sebas <mendonet-l@...>
+Subject: Re: Compro memoria
+In-reply-To: <002c01c03920$a8eb3f20$347d2ac8@tepes>
+References: <002c01c03920$a8eb3f20$347d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 18/10/2000, Sebas agresivamente inventó:
+
+>> Tengo un 586 133 MHz para vender.
+>> Incluye: disco rigido de 1 GB, lectora de CD de 32x, teclado en
+S> castellano,
+>> placa de sonido ESS816, placa de video ATI Match 64 de 1 MB ampliable a 2
+>> MB, gabinete baby y 16 MB de RAM (4 SIMM de 4 MB de 72 pines).
+>> Monitor VGA blanco y negro.
+>> El precio: $280
+S> ¿No has pensado en venderla por partes? Yo, por ejemplo, te compraría las
+S> memorias.
+
+Si queres memoria suelta te la vendo aparte. Tengo mucha.
+SIMMs de 4 MB 72 pines: $12 cada uno.
+SIMMS de 16 MB 72 pines EDO: $40 cada uno. (pero no me los compres
+porque podria llegar a usarlos para mi todavia).
+
+-- 
+Groucho Marx
+FOX se convirtió tan lentamente en canal porno que no nos dimos cuenta. --
+Marge Simpson
+
+
+

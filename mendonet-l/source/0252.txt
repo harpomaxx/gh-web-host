@@ -1,0 +1,93 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 44921 invoked from network); 17 Aug 2003 20:53:54 -0000
+Received: from unknown (66.218.66.217)
+  by m19.grp.scd.yahoo.com with QMQP; 17 Aug 2003 20:53:54 -0000
+Received: from unknown (HELO mail1relaynoc.bbt.net.ar) (200.81.94.8)
+  by mta2.grp.scd.yahoo.com with SMTP; 17 Aug 2003 20:53:54 -0000
+Received: (qmail 31763 invoked from network); 17 Aug 2003 20:53:52 -0000
+Received: from 200-80-60-144.bbt.net.ar (HELO torton.micasa.org.ar) (200.80.60.144)
+  by mail1relaynoc-fe.bbt.net.ar with SMTP; 17 Aug 2003 20:53:52 -0000
+Received: from antro.micasa.org.ar ([10.55.68.2] helo=there)
+	by torton.micasa.org.ar with smtp (Exim 3.35 #1 (Debian))
+	id 19nq03-0000HK-00
+	for <mendonet-l@...>; Fri, 15 Aug 2003 22:36:59 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: =?iso-8859-1?q?Charrua=20se?= presenta
+Date: Fri, 15 Aug 2003 22:41:51 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <20030813213757.25512.qmail@...> <6880.030814@...>
+In-Reply-To: <6880.030814@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E19nq03-0000HK-00@...>
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Jue 14 Ago 2003 21:07, Sebas escribió:
+> Buenas y santas mi general, aquí, Evaristo Leguizamón, un servidor de
+> la causa criolla.
+>
+> ED> No no no..... no soy de Mendoza no...
+>
+> Buen comienzo... pero no puedo admitirlo, no en un comienzo.
+>
+> ED>  en que taba pensando cuando me afilie?
+> ED> Me gustó el tono, la afiliación sin pudor a la pedantería y a la
+> soberbia... ED> la libertad de temas... en fin, me sentí en
+> frecuencia y me tiré de cabeza. ED> Por lo menos espero que me
+> cuenten algo de como es Mendoza, ya que estamos.
+>
+> Blursfhgd! Así es como empieza a extinguirse(por tradición de
+> bienvenida) la inicial simpatía que feromónicamente despertaste... si
+> querés saber sobre cómo es mendoza, entró a un site de turismo, ¿o
+> nos viste cara de guía "lonely planet"? Aprecio su sangre nueva a
+> esta lista... aprecio su sangre.
+>
+> ED> Este es mi mail de presentación. Uruguaya en Montevideo, 25 años
+> bien ED> llevados  (si esta carta es corta es porque estoy apurada
+> para ir al ED> gimnasio),
+>
+> ¿Porqué estarías interesada en interesarnos físicamente? Yo podría
+> tenerla de un metro y no por eso voy a contarlo...
+>
+> ED>  trabajo 14 horassss en un cyber de lunes a domingos (no se
+> ED> asusten: los domingos solo 8 o 9 horas) que abri hace un mes asi
+> que tengo ED> mucho tiempo adelante de la compu pa delirar con
+> vosotros.
+>
+> Eso espero... hay que revitalizar esta cuestión... ya he vapuleado
+> demasiado a ciertos excrementos, perdón, elementos, y ya he debatido
+> magistralmente sobre todas las cuestiones diversas con algunos
+> ilustres integrantes de este olimpo... veamos que nos trae la bnada.
+>
+> ED> Soy de Nacional,
+>
+> Bolsilluda, mmmhhh... cómo te queda la camiseta?... digo, sólo la
+> camiseta.
+>
+> ED>  no me gustan las cadenas aunque sean de la madre Teresa,
+>
+> A mí me gustan las cadenas si sirven para apalear a algún indeseable,
+> especialmente si tienen un candado en la punta...pero por lo demás
+> puedo prescindir de ellas.
+>
+> ED> avisos de que hotmail cierra,
+>
+> ¿Por qué una uruguayita tiene una dirección .com.ar?
+
+Porque nunca debieron dejar de ser una provincia argentina...
+
+-- 
+Herr GrouchoX
+
+ID Jabber: groucho@...
+Señal distintiva: LU5MJR - 144,550 MHz FM.
+Clave pública GPG: [pronto la voy a subir a algún lado]
+Fingerprint GPG: 00EC 0B71 49D5 2EEC 357C  9A78 A87B DC4F 1B31 8B55
+

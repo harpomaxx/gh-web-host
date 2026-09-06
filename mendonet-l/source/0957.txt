@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 25 Jun 2002 13:32:13 -0000
+Received: (qmail 25249 invoked from network); 25 Jun 2002 13:32:12 -0000
+Received: from unknown (66.218.66.217)
+  by m9.grp.scd.yahoo.com with QMQP; 25 Jun 2002 13:32:12 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta2.grp.scd.yahoo.com with SMTP; 25 Jun 2002 13:32:13 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with SMTP id KAA11267
+	for <mendonet-l@...>; Tue, 25 Jun 2002 10:33:22 +0300 (GMT)
+Message-ID: <018a01c21c4d$c0775220$060aa8c0@...>
+To: <mendonet-l@...>
+References: <17397.020625@...>
+Subject: =?iso-8859-1?Q?Re:_Pregunta_tecnica_II?=
+Date: Tue, 25 Jun 2002 10:39:31 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> ¿Podría uno de ustedes decirme con qué programa puedo pasar de mp3 al
+> formato que habitualmente viene en los cds de audio? Preferiblemente
+> un programa no muy pesado para poder bajarlo de internet
+
+Seria el formato "raw", algo asi como un WAV de 44kHz, estereo,
+little-endian sin cabecera...
+Como no tiene sentido almacenar ese formato en el disco rigido sin la
+cabecera, la mayoria de los programas de grabacion de CDs permiten grabar
+pistas de audio a partir de archivos WAV sin problemas (y con la ventja de
+que se encargan de swappear el orden de los bytes si el WAV fuera
+big-endian).
+
+En cuando a un programa para convertir de MP3 a WAV, cualquier decodificador
+(o sea reproductor) de MP3 sirve. Cuando usaba Windows, lo hacia con el
+Winamp y el plug-in para salida a disco...
+
+--
+Herr Grouchox
+
+
+

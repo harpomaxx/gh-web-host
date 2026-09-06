@@ -1,0 +1,51 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 8910 invoked from network); 8 Aug 2000 23:22:23 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 8 Aug 2000 23:22:23 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 8 Aug 2000 23:22:22 -0000
+Received: from 200.41.31.73 ([200.41.31.73]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA12680 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 20:24:59 +0300 (GMT)
+Date: Tue, 8 Aug 2000 18:08:16 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <10755.000808@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Re: BUENAS NOTICIAS! (para mi)
+In-reply-To: <398AAB16.58316B45@...>
+References: <398AAB16.58316B45@...>
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------D319A1E5192C1951"
+From: Groucho Marx <groucho@...>
+
+
+------------D319A1E5192C1951
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+El 04/08/2000, Mariana tartamudeando inventó:
+
+M> ¡¡Ya tengo instalado el WinZip!!!
+M> Y el 8!!
+
+Que bueno!!!
+Entonces vas a poder ver esta foto que le sacamos a la habitacion
+donde Harpo, Conan, El Coronel y Alfredosky dormian todos juntos.
+
+La foto esta comprimida con... ZIP!!!
+No una sino 2 veces. (por eso la extension .zip.zip)
+
+Descomprimila y cagate de risa.
+
+
+-- 
+Groucho Marx
+¿Que quién soy? Digamos que un ciudadano con mucho tiempo libre... -- Bart
+J. Simpson
+
+------------D319A1E5192C1951
+Content-Type: application/x-zip-compressed; name="foto.zip.zip"
+Content-Disposition: attachment; filename="foto.zip.zip"
+
+[ Attachment content not displayed ]
+------------D319A1E5192C1951--
+

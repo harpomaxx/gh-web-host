@@ -1,0 +1,44 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_2); 22 Nov 2000 15:23:39 -0000
+Received: (qmail 65233 invoked from network); 22 Nov 2000 15:23:38 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 22 Nov 2000 15:23:38 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.83) by mta2 with SMTP; 22 Nov 2000 15:19:08 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id MAA10709 for mendonet-l@egroups.com; Wed, 22 Nov 2000 12:09:03 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Wed, 22 Nov 2000 12:09:03 -0300
+To: mendonet-l@egroups.com
+Subject: Groucho ponete media pila
+Message-ID: <20001122120903.C10684@...>
+References: <7536.001121@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <7536.001121@...>; from xebax@... on Tue, Nov 21, 2000 at 12:52:15PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Tue, Nov 21, 2000 at 12:52:15PM -0300, Sebas dijo:
+> S> Ya estoy haciendo funcionar The bat, aunque persiste el problemita
+> S> de la cuenta de mi hermana, que ya comenté y aún no recibe
+> S> solución. 
+> S> Agradeceré aportes al respecto
+> GM >En que consiste el problema? En no poder usar hotmail?
+> GM >No tiene solucion.
+> Es con softhome el problema. Lo que te comenté del USER: noelia, que
+> se cortaba cuando lo del password... no me hagás copiar el error de
+> nuevo.
+
+Propongo que GROUCHO nos de a todos cuentas de e-mail en su servidor...
+asi no tenemos que depender mas de SOFTHOME!!!!
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

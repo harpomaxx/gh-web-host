@@ -1,0 +1,67 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 26 Sep 2001 17:35:28 -0000
+Received: (qmail 44661 invoked from network); 26 Sep 2001 17:35:27 -0000
+Received: from unknown (10.1.10.26)
+  by m8.onelist.org with QMQP; 26 Sep 2001 17:35:27 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta1 with SMTP; 26 Sep 2001 17:35:27 -0000
+Received: from modem34-as1.mendoza.sinectis.com.ar ([216.244.255.34])
+  by softhome.net with esmtp; Wed, 26 Sep 2001 11:33:46 -0600
+Date: Tue, 25 Sep 2001 12:37:08 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus <aldocop@...>
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <6525.010925@...>
+To: mendonet-l@...
+Subject: Re[4]: Sobre el zopenco de oxi
+In-reply-To: <1901873650.20010924204259@...>
+References: <1901873650.20010924204259@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+
+                                  Tuesday, September 25, 2001
+
+El 24/09/2001, mendonet-l decía:
+
+O> Sebas <xebax@...> escribio:
+
+S>>>> las cosas que decís? Por más que digas idioteces, al menos decílas en
+S>>>> orden.  Releé la pavada que acabás de decir... primero afirmás que
+S>>>> reproduzco lo que oigo, después te lo cuestionás en una oración en
+S>>>> condicional... entendió, memo?
+
+O>>> /ban #mendonet-l Sebas
+
+S>> sentate {� en una estaca ��?!� oxi
+
+O> raro, raro, un baneado no puede mandar mensajes.
+
+O> bue, va de nuevo
+O> /mode Sebas -v
+O> /kick #mendonet-l Sebas
+O> /ban #mendonet-l Sebas
+O> /SET #mendonet-l MLOCK +im
+
+O> listo, no tenes voz para hablar.
+
+1) me recuerda al cantito de la primaria: no te escucho, soy de palo,
+tengo orejas de pescado... je je
+
+2) es algo así como el virus gallego que pide por favor al usuario
+dañe su propio sistema... !?
+
+
+Lupus
+
+--
+
+"Lean lo que les apasione, será lo único que les ayudará a soportar la existencia" E. Sábato            
+
+
+

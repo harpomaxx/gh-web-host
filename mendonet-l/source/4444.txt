@@ -1,0 +1,73 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 27 Sep 2001 22:32:40 -0000
+Received: (qmail 74066 invoked from network); 27 Sep 2001 22:32:39 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.4.54 with QMQP; 27 Sep 2001 22:32:39 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2 with SMTP; 27 Sep 2001 22:32:36 -0000
+Received: from gateway.micasa.org.ar (200-41-31-102-rdunysd1.impsat.net.ar [200.41.31.102])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id TAA22158
+	for <mendonet-l@...>; Thu, 27 Sep 2001 19:37:58 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15mge7-0000LQ-00
+	for <mendonet-l@...>; Thu, 27 Sep 2001 16:16:31 -0300
+Date: Thu, 27 Sep 2001 16:16:52 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <0678.010927@...>
+To: Goofer <mendonet-l@...>
+Subject: Re[7]: Se acabo sebitas... UFA!
+In-reply-To: <5.1.0.14.0.20010926211200.00a70910@...>
+References: <5.1.0.14.0.20010926211200.00a70910@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Goofer,
+
+Wednesday, September 26, 2001, 9:13:05 PM, you wrote:
+
+
+>>G> En esta cadena numérica, cual es el nro que corresponde al final???
+>>
+>>G> 1
+>>G> 11
+>>G> 21
+>>G> 1211
+>>G> 111221
+>>
+>>    212111
+
+G> Equivocado!!!!!!!
+G> Otro que intente!!!!!
+
+G> Goofer aconseja sentido comnún, el menos común de los sentidos!"!!!
+
+
+Basta ya. Cada numero describe al anterior.
+1
+11
+21
+1211
+111221
+312211
+13112221
+1113213211
+311312131221
+13211311121113112211
+111312211321123113212221
+31131122211312211213211312113211
+etc
+
+
+-- 
+ Groucho
+
+
+

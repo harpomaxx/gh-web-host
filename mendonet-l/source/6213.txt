@@ -1,0 +1,36 @@
+From goofer@...  Sat Jul 11 23:23:58 2020
+Return-Path: <goofer@...>
+X-Sender: goofer@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_2); 10 May 2001 01:13:03 -0000
+Received: (qmail 75231 invoked from network); 10 May 2001 01:13:02 -0000
+Received: from unknown (10.1.10.142) by l10.egroups.com with QMQP; 10 May 2001 01:13:02 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 10 May 2001 01:13:02 -0000
+Received: (qmail 17317 invoked by uid 417); 10 May 2001 01:14:12 -0000
+Received: from unknown (HELO g8) (64.76.19.176) by i-softhome-tango with SMTP; 10 May 2001 01:14:13 -0000
+Message-ID: <000001bec449$92a9a280$6301a8c0@g8>
+To: <mendonet-l@yahoogroups.com>
+References: <11.010425@...> <13640.010425@...>
+Subject: Re: Re[2]: Muriandre de verdad !.
+Date: Mon, 30 Apr 2001 03:20:13 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4522.1200
+From: "goofer" <goofer@...>
+
+PlM+IGNvbiBlbCBvdHJvLiBUYW1iaeluIGxlcyBtZW5jaW9u6SBhbGd1bmEgdmV6IGFsIEFu7WJh
+bCBkZSBCcmlnYWRhIEEsDQo+Uz4gcGVybyBudW5jYSBsb2dy6SBhdGVudWFyIGxvcyBtYXJ0aXJp
+b3MuDQo+DQo+ICAgbyB0YWwgdmVzIEFuaWJhbCBlbCBwZXJybyBkZSBHcm91Y2hvIGVzIHVuIGdy
+YW4gYW5pbWFsDQoNCmVlZWVlLi4uLi4uLg0KDQo+ICAgbyB0YWwgdmVzIEFuaWJhbCBlbCBwZXJy
+by4uLi4uLg0KPiAgIEdyb3VjaG8gZXMgdW4gZ3JhbiBhbmltYWwNCj4gICBHcm91Y2hvIGVzIHVu
+IGFuaW1hbA0KPiAgIEdyb3VjaG8gZ3JhbiBhbmltYWwNCj4gICBHcm91Y2hvIGVzIHVuIGdyYW4u
+Li4uLi4uLi4NCg0KZWVlZWVlZS4uLi4uLi4uDQoNCkVzdGEgY2hpY2Egb2ZyZWNlIG11Y2hvcyBm
+bGFuY29zIHBvc2libGVzIGVuIHN1IGFtb3IsIGdyb3VjaG8uLi4NClZlcyBj821vIHRlIGV4cG9u
+ZSBhbCBjaGlzdGUgZuFjaWwuLi4NCmF5YXlheSBtYXJjLCBxdWVyZWxvIHVuIHBlbGluIG1hcyB5
+IGN1aWRhbG8gZGUgbGFzIG1hbGFzIGxlbmd1YXMNCmp1YWp1YQ0KDQpHb29mZXIgYWNhYmEgZGUg
+YWJhbmRvbmFyIGVsIHBhaXMgeSBubyBkZWpvIG51ZXZhIGRpcmVjY2lvbg0KDQoNCg0K
+

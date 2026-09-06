@@ -1,0 +1,136 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 4 Sep 2001 07:03:34 -0000
+Received: (qmail 87220 invoked from network); 4 Sep 2001 07:03:34 -0000
+Received: from unknown (10.1.10.26)
+  by l9.egroups.com with QMQP; 4 Sep 2001 07:03:34 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.116)
+  by mta1 with SMTP; 4 Sep 2001 07:03:31 -0000
+Received: (qmail 15505 invoked by uid 1005); 3 Sep 2001 19:28:48 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.471898 secs); 03/09/2001 16:28:46
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 3 Sep 2001 19:28:45 -0000
+Date: Mon, 3 Sep 2001 16:28:47 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <01090114480600.00404@cubil> <11920.010902@...>
+In-Reply-To: <11920.010902@...>
+Subject: Re: Me cago en vuestra actitud
+MIME-Version: 1.0
+Message-Id: <01090316284704.00361@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Dom 02 Sep 2001 22:05, escribiste:
+
+> GM> 3) Quizas a vos te chupe un huevo, pero hay gente a la que le
+> GM> interesa entender como funcionan las computadoras y los
+> GM> programas. En realidad a todos deberia importarles aunque sea un
+> GM> poco, puesto que toda la informacion financiera y personal se
+> GM> esta manejando por computadoras, y si han visto la pelicula The
+
+> linuxeros que realmente me emputece. ¿porqué carajo todos tenemos que
+> ser "entendidos" en computación?
+
+Para que los entendidos en computacion no te la pongan...
+Para que cuando te tengan haciendo cola durante horas porque "se cayo 
+el sistema" vos pidas y entiendas una mejor descripcion de las causas 
+por las cuales te estan haciendo perder el tiempo.
+Para que cuando vayas a la facultad a inscribirte a una materia que 
+deberias poder cursar porque las correlativas las tenes aprobadas por 
+equivalencia, solo que los muy idiotas se toman 8 meses para ver tu 
+caso y tu equivalencia aun no esta cargada en el sistema, puedas ir a 
+hablar con una autoridad (digamos el Secretario Academico) y decirle:
+"inscribanme igual", y cuando el tipo te dice que no puede hacer nada 
+porque no salis en el sistema (caramba, justamente ese es el problema 
+que quiero que me resuelva!!!) puedas calentarte y putearlo por ser tan 
+incompetente y no saber que el "sistema" es una herramienta, pero que 
+la autoridad emana de el, no del sistema y si el dice que me puedo 
+inscribir, entonces me puedo inscribir y no hay Dios de Computacion que 
+lo pueda negar.
+
+> ¿porqué les molesta que alguien maneje sólo lo que necesita?
+
+Por que te subis a la moto y no terminas de entender lo que escribo?
+"QUIZAS a VOS te chupe un huevo, PERO HAY gente a la que le
+interesa entender como funcionan las computadoras y..."
+
+Palabras destacadas:
+QUIZAS: puede ser que te chupe un huevo o no, estoy abierto a ambas 
+posibilidades
+VOS: en todo caso me referia a Goofer, no a todos. Pero podes cambiar 
+"vos" por "alguien" y no cambia el mensaje que quiero que llegue
+PERO: en oposicion a la posibilidad de que a vos te chupe un huevo, hay 
+gente a la que positivamente si le interesa saber como funcionan las 
+computadoras
+HAY: o sea, existe. Cuantificador existencial, algunos. Fijate el 
+contraste entre "hay putos en esta lista" y "todos los de esta lista 
+son putos".
+
+Vos estarias dentro del grupo de los que les calienta un huevo. Yo, 
+dentro del que les importa. Eso te agrede? Get a life!
+Quedate tranquilo que hay lugar para gente como vos a la que no le 
+interesa compilar un kernel en mi mundo.
+
+
+> Es como si yo le digo a un paciente que
+> tiene salmonellosis y cuando me pide la receta me caliento porque no
+> sabe que tiene que tomar...�?.
+
+Ya he explicado que ignorar el funcionamiento de un sistema que cada 
+vez tiene mayores posibilidades de controlar nuestras vidas, puede ser 
+una necedad.
+Si viviera en un pais comunista, pues me interesaria saber como 
+funciona el comunismo. Si viviera en Japon, me interesaria saber como 
+funcionan los terremotos y las estructuras antisismicas.
+Puedo dejar los detalles del funcionamiento del comunismo a los 
+komisarios del partido, y puedo dejar los detalles de los terremotos a 
+los geologos e ingenieros civiles, pero seria un idiota si confio 
+ciegamente en los lideres del comunismo o en los ingenieros y no me 
+preocupan ni siquiera un poquito las generalidades.
+
+Ejemplo: averigua lo que es la estrategia .NET de Microsoft, y tene 
+miedo, tene mucho miedo del futuro negro que eso permite.
+"Pero yo no se nada de computadoras, soy medico y no me interesa 
+saber", te oigo balbucear.
+Perfecto, cuando dentro de 10 a~nos te llegue la factura de Microsoft 
+con el resumen mensual de tu consumo del servicio MS-Television, 
+MS-Inodoro y MS-ConsultorioMedico jodete solo.
+
+
+> Mi tiempo de vida es finito y he
+> decidido dedicarle tiempo a muchas cosas, lo que me impide dedicarle
+> a la computación el tiempo suficiente como para volverme un experto.
+
+Nadie te pide eso, lo sabes muy bien. Yo no quiero ser un experto el 
+autos por ejemplo, pero no quiero que el mecanico me estafe. Para 
+lograrlo, debo saber someramente como funcionan los autos. Lo lees una 
+vez y se te queda.
+
+> Que el chupaverga de oxiuro me salga con su versito aprendido de
+> "pshe culiaito, ni te digo que compilés el quernel porque sheguro que
+> no shab� que �" vaya y pase, me lo espero de semejante mamón, pero
+> que vos tengás el mismo discurso me hace una mala imagen del
+> linuxerismo todo.
+
+Porque sos un salame que se subio a a la moto y no entendio cabalmente 
+el sentido de lo que escribi.
+
+
+> GM> Trata de descubrir como funciona cualquier programa propietario,
+> GM> y cualquier programa libre y contame la diferencia
+> Puede ser muy interesante, de hecho si me sobrara tiempo tal vez lo
+> intentaría, pero tengo muchas cosas importante que hacer.
+
+El punto es que no vas a poder -por mas talento que tengas- entender el 
+programa propietario (salvo que sea muy peque~no o te interese entender 
+una parte muy peque~na) ya que no tenes el codigo fuente.
+
+
+-- 
+Groucho Marx
+

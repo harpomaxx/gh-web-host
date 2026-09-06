@@ -1,0 +1,57 @@
+From gaucho98@...  Sat Jul 11 23:23:58 2020
+Return-Path: <gaucho98@...>
+X-Sender: gaucho98@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: unknown); 27 Mar 2002 18:47:49 -0000
+Received: (qmail 61186 invoked from network); 27 Mar 2002 18:47:46 -0000
+Received: from unknown (66.218.66.218)
+  by m4.grp.scd.yahoo.com with QMQP; 27 Mar 2002 18:47:46 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (66.54.152.30)
+  by mta3.grp.scd.yahoo.com with SMTP; 27 Mar 2002 18:47:46 -0000
+Received: (qmail 31353 invoked by uid 417); 27 Mar 2002 18:47:46 -0000
+Message-ID: <20020327184746.31352.qmail@...>
+References: <001701c1d526$1edc1d60$9c1529c8@darinka>
+            <E16q3Hg-0000aM-00@...>
+In-Reply-To: <E16q3Hg-0000aM-00@...>
+To: mendonet-l@...
+Subject: Re: Programacion neuronal
+Date: Wed, 27 Mar 2002 18:47:46 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+X-Sender: gaucho98@...
+From: gaucho98@...
+X-Yahoo-Group-Post: member; u=81303232
+
+
+Groucho Marx writes:
+
+> El Mar 26 Mar 2002 21:26, escribió:
+> > Si alguien tiene alguna informacion o conoce de alguna pagina buena
+> > sobre programacion de redes neuronales, perceptrones,
+> > retropropagacion, ect... porfavor me avisa.
+> >
+> > PD: muecho mejor si la programacion es en ANSI C
+> 
+> Y por que no en PROLOG?
+> 
+> -- 
+> Herr GrouchoX
+> 
+> 
+Por dos simples motivos....el primero es que no conozco PROLOG de seguro es
+especificamente para este tipo de programacion, pero ni modo.
+El segundo, este año en todas las materias tengo algo que programar, y he
+deicido que voyn a hacer todo en ANSI C , asi aprendo de una vez por todas
+a programar bien en C, y de paso lo programo todo en LINUX, asi puedo ir
+aprendiendo tambien otro poco.
+
+Se que hay muchos lenguajes y programas especificos para redes neuronales,
+pero quiero programar todo en C, incluso no quiero utilizar librerias que
+ya existan, suficiente conque voy a utilizar algoritmos ya inventados por
+otras personas.
+
+
+
+GAUCHO98
+

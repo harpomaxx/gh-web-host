@@ -1,0 +1,80 @@
+From gabrielsublime@...  Sat Jul 11 23:23:58 2020
+Return-Path: <gabrielsublime@...>
+X-Sender: gabrielsublime@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 35768 invoked from network); 10 Dec 2004 19:48:03 -0000
+Received: from unknown (66.218.66.216)
+  by m22.grp.scd.yahoo.com with QMQP; 10 Dec 2004 19:48:03 -0000
+Received: from unknown (HELO tomero.itcsa.net) (200.41.42.166)
+  by mta1.grp.scd.yahoo.com with SMTP; 10 Dec 2004 19:48:03 -0000
+Received: (qmail-ldap/ctrl 2962 invoked by uid 513); 10 Dec 2004 19:28:54 -0000
+Received: from gabrielsublime@... by tomero.itcsa.net by uid 500 with qmail-scanner-1.20rc3 
+ (clamscan: 0.60. spamassassin: 2.60.  Clear:RC:1:. 
+ Processed in 0.028182 secs); 10 Dec 2004 19:28:54 -0000
+Received: from host.200.80.52.246.itcsa.net (HELO mail.fedped.com.ar) ([200.80.52.246])
+          (envelope-sender <gabrielsublime@...>)
+          by tomero.itcsa.net (qmail-ldap-1.03) with SMTP
+          for <mendonet-l@...>; 10 Dec 2004 19:28:54 -0000
+Received: (qmail 16643 invoked by uid 1030); 10 Dec 2004 17:42:10 -0000
+Received: from 192.168.109.4 by muddy (envelope-from <gabrielsublime@...>, uid 1002) with qmail-scanner-1.24 
+ (avp: 4.0.0.1. spamassassin: 2.64.  
+ Clear:RC:1(192.168.109.4):SA:0(0.0/5.0):. 
+ Processed in 5.262966 secs); 10 Dec 2004 17:42:10 -0000
+X-Spam-Status: No, hits=0.0 required=5.0
+Received: from unknown (HELO HASTA-EL-OJO) (192.168.109.4)
+  by 192.168.109.10 with SMTP; 10 Dec 2004 17:42:05 -0000
+Date: Fri, 10 Dec 2004 14:42:03 -0300
+X-Mailer: The Bat! (v3.00.8) Professional
+Organization: Hasta el ojo
+X-Priority: 3 (Normal)
+Message-ID: <1366681681.20041210144203@...>
+To: "Alejandro T." <mendonet-l@...>
+In-Reply-To: <BAY14-F36A6F1EF833C895ABC960CC8B70@...>
+References: <BAY14-F36A6F1EF833C895ABC960CC8B70@...>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-eGroups-Remote-IP: 200.41.42.166
+From: Mr Ska <gabrielsublime@...>
+Reply-To: Mr Ska <gabrielsublime@...>
+Subject: Re[4]: SArasa( Contexto Necesario)
+X-Yahoo-Group-Post: member; u=131141227
+X-Yahoo-Profile: gabrielsublime
+
+
+
+
+AT> Creo que Mr Ska me ha interpretado con�total��lucidez
+
+AT> Luego les explicare porque esto tampoco es una pipa
+
+AT> Claro por supuesto�si tienen interes
+
+AT> Cordiales Saludos
+
+
+AT> Alejandro 
+
+Y daleeeeee, decilooooo.... pero antes dejame tirarme un lance,
+respondo en forma de pregunta en homenaja a Hector Larrea.
+
+Puede ser que eso no sea una pipa porque solo es la representación
+icónica de una pipa?? así como esta "pipa" que acabo de escribir,
+tampoco es una pipa
+
+Saludos
+-- 
+Si no hay café para todos, no habrá para nadie.
+(Ernesto Guevara)
+
+
+
+
+PD: Esto es para todos los sistemas de control de correos que almacenaran este mail.
+todos deberían poner una firma parecida a esta para hacer mas difícil el espionaje de correos que quiere acabar con la
+LIBERTAD DE PENSAMIENTOS
+
+atentado muerte Bush Bin Laden Putin terrorismo matar presidente de la nación bomba genocidio asesinato al� dios god corán
+anthrax antrax gobierno anarkia comunismo 
+
+

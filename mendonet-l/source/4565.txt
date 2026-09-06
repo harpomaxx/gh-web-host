@@ -1,0 +1,37 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 26 Sep 2001 03:05:45 -0000
+Received: (qmail 48879 invoked from network); 26 Sep 2001 03:05:45 -0000
+Received: from unknown (10.1.10.142)
+  by l8.egroups.com with QMQP; 26 Sep 2001 03:05:45 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.21.114)
+  by mta3 with SMTP; 26 Sep 2001 03:05:44 -0000
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id UAA16931
+	for mendonet-l@...; Tue, 25 Sep 2001 20:57:52 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Tue, 25 Sep 2001 20:57:52 -0300
+To: mendonet-l@...
+Subject: Re: "Naturaleza del hombre" my ass !
+Message-ID: <20010925205752.E16770@...>
+Reply-To: harpo@...
+References: <D18920FC9EC7D411ACC00008C75635FA33A780@PCUYO_MZA00>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <D18920FC9EC7D411ACC00008C75635FA33A780@PCUYO_MZA00>; from HADARO@... on Mon, Sep 24, 2001 at 10:26:08PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.19 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+El Mon, Sep 24, 2001 at 10:26:08PM -0300, Adaro Humberto dijo:
+
+
+Che media pila y saca tus mensajes de ese HTML pedorro, no me dan ganas ni de
+leerlos... please!
+-- 
+Harpo+
+

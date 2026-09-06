@@ -1,0 +1,65 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 24 Oct 2001 05:32:49 -0000
+Received: (qmail 25244 invoked from network); 24 Oct 2001 05:32:49 -0000
+Received: from unknown (10.1.10.26)
+  by l8.egroups.com with QMQP; 24 Oct 2001 05:32:49 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta1 with SMTP; 24 Oct 2001 05:32:48 -0000
+Received: from gateway.micasa.org.ar (200-41-31-78-rdunysd1.impsat.net.ar [200.41.31.78])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id CAA19608
+	for <mendonet-l@...>; Wed, 24 Oct 2001 02:33:58 -0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15w6dY-0000dA-00
+	for <mendonet-l@...>; Tue, 23 Oct 2001 15:50:52 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15w6dX-0000cz-00
+	for <mendonet-l@...>; Tue, 23 Oct 2001 15:50:51 -0300
+Date: Tue, 23 Oct 2001 15:50:50 -0300
+To: mendonet-l@...
+Subject: Re: Trabalenguoso, pero...
+Message-ID: <20011023155050.J2161@...>
+References: <48150836.20011011225632@...> <11539.011012@...> <11703330.20011012220034@...> <000e01c154fb$c73ef140$9a4afea9@hfgg> <20011016162703.J6734@...> <OE69ZYMGeON6SObiLcA0000398b@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <OE69ZYMGeON6SObiLcA0000398b@...>
+User-Agent: Mutt/1.3.22i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Mon, Oct 22, 2001 at 02:03:11PM -0300, Morganti Federico wrote:
+
+> > Durante mi adolescencia, solia escuchar "musica para hacerse bosta".
+> > Me predisponia a sentirme triste y ponia musica que potenciara ese efecto.
+> 
+> que paso en esas epocas, tu genialidad y superioridad no eran suficientes
+> para sentirte feliz? ademas a que estar al pedo para "predisponerse a
+> sentirse triste"
+
+No, mi superioridad y genialidad solo sirven para hacer sentir mal a los
+demas, no para sentirme bien yo.
+
+Esa fue la respuesta que te mereces.
+
+Lo que sigue es totalmente gratuito y solo porque yo hice un comentario que
+podria haber herido tus susceptibilidades.
+
+La adolescencia basicamente consiste en sentir carencias.
+
+Que hay para hacer? Ir a juntarme con mis amigos a la zona de galleteo?
+Leer?
+Ver television?
+Programar con la computadora?
+Escuchar Queen con las luces apagadas tirado de espaldas en la cama?
+
+Pinto!!
+
+--
+Groucho
+
+
+
+

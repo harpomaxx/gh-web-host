@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_5); 28 Mar 2003 13:19:37 -0000
+Received: (qmail 10371 invoked from network); 28 Mar 2003 13:19:37 -0000
+Received: from unknown (66.218.66.217)
+  by m2.grp.scd.yahoo.com with QMQP; 28 Mar 2003 13:19:37 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta2.grp.scd.yahoo.com with SMTP; 28 Mar 2003 13:19:37 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18yu23-0005vQ-00
+	for <mendonet-l@...>; Fri, 28 Mar 2003 10:36:31 -0300
+Message-ID: <3E844BD5.9010809@...>
+Date: Fri, 28 Mar 2003 10:19:17 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: RUIDO
+References: <F79BxxLJiJlMUmwX5Pi00001911@...>
+In-Reply-To: <F79BxxLJiJlMUmwX5Pi00001911@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+A Secas wrote:
+> Alejandro Talquenca
+> Licenciado en Marketing del Ocio
+>>A Secas wrote:
+>>
+>>>A ver Groucho, si esta en linea; tanto asi como yo de atrevido.
+>>>enuncie sin repetir y sin masticar:
+>>>RUIDO; concepto, causas y efectos
+>>
+>>ruido: lo que no es señal. En otras palabras: todo lo que no me
+>>interesa, lo que me distrae, y que esta mezclado con lo que me interesa,
+>>  es ruido.
+> 
+> LA CIUDAD ES RUIDO
+
+No... La ciudad me interesa. Los barrios privados son ruido urbano 
+porque distraen el entramado de calles.
+
+
+> LA PUBLICIDAD ES RUIDO
+
+Sin duda. Hace varias decadas que la publicidad es 100% libre de contenido.
+
+
+-- 
+Groucho
+
+

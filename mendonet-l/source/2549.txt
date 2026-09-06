@@ -1,0 +1,166 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 28 Nov 2001 17:11:32 -0000
+Received: (qmail 7254 invoked from network); 28 Nov 2001 17:11:31 -0000
+Received: from unknown (216.115.97.167)
+  by m10.grp.snv.yahoo.com with QMQP; 28 Nov 2001 17:11:31 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta1.grp.snv.yahoo.com with SMTP; 28 Nov 2001 17:11:33 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id OAA04105
+	for <mendonet-l@...>; Wed, 28 Nov 2001 14:17:20 +0300 (GMT)
+Message-ID: <01c101c17830$d44c0640$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20011124174905.I6543@...> <4452.011126@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B2=5D:_Siguen_las_preguntas_informaticas...?=
+Date: Wed, 28 Nov 2001 14:19:24 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+
+> GM> Sus ventajas tecnicas son avidentes. Quizas no sean tan evidentes sus
+ventajas
+> GM> sociales: en esencia, son las mismas ventajas sociales de usar Linux
+en lugar
+> GM> de Windows.
+>
+> GM> ICQ y todos los otros sistemas de mensajeria instantanea excepto
+Jabber, son un mero
+> GM> vehiculo de marketing para las empresas que los explotan, preocupadas
+por obtener
+> GM> la mayor cantidad de indicios sobre los habitos de consumo y
+caracteristicas
+> GM> demograficas de sus futuros clientes. A Jabber no le interesa eso, a
+Jabber le
+> GM> interesa que la gente se pueda comunicar.
+>
+> Jabber  es  muy  altruista...  gracias  jabber...  pero...  quién  lo
+> programó? por qué lo hizo?
+
+Lo programo un joben australiano intentando hacer un sistema para
+intercambiar mensajes entre
+unos data loggers que tenia instalados en el campo y su buscapersonas. Luego
+se dio cuenta
+que lo que habia hecho servia para comunicar entidades de cualquier clase,
+por ejemplo,
+personas y se transformo en un sistema de mensajeria instantanea.
+
+> Sobre lo demás, muy interesante, pero:
+
+> 1) corre bajo windon o bajo linus... o bajo ambos?
+
+Tenes el codigo fuente. Si tenes un compilador de C y una "real computer"
+(ver
+New Hackers� Dictionary para la definicion de una real computer) entonces
+funciona
+en tu maquina.
+De todas maneras lo que a vos te interesa que ande en tu maquina no es
+Jabber, sino
+un cliente de Jabber. Winjab funciona en Windows pero  hay infinidad de
+otros clientes.
+
+
+> 2)  si  vos  tenés  acceso a la fuente, me podés pasar a mí, que ni en
+> pedo me pondría a leer ese código, un programa modificado por vos para
+> hacer  con mi máquina lo que quieras...
+
+Y que? Si te doy el programa compilado, no solo vos no podrias ver si le
+hice una modificacion maligna sino que casi nadie mas.
+El codigo fuente impide la malicia, en lugar de fomentarla.
+
+2 cosas:
+1) reputacion: yo no seria tan idiota de distribuir un programa que
+cualquiera
+puede leer y entender (si no vos personalmente, pagandole a un programador)
+con lo que mi chiste quedaria a la vista de todos y me haria una mala
+reputacion
+como programador. Y cuando dejas que tus programas se puedan copiar
+libremente vivis de tu reputacion, no de la venta de licencias y si no tenes
+reputacion
+quien va a pagarte para que le escribas un programa?
+2) firmas digitales: si vos crees o sospechas que te di una version
+toqueteada
+del codigo fuente, obtene la version original del autor (posiblemente
+firmada
+digitalemente) para verificar cuales fueron mis cambios si es que hubieron.
+Con
+lo que sabes de C serias capaz de entender si el cambio es perjudicial o no,
+o
+podrias pagarle a alguien para que se fije.
+Si el autor original soy yo, entonces tenes el codigo fuente te da mayores
+probabilidades de encontrar cosas maliciosas que si tenes solo la version
+compilada.
+
+
+> con lo que sería tan peligroso
+> como  uno  cerrado...  si  vos  fueras  malvado,  de  hecho, seria más
+> peligroso aún que uno cerrado...
+
+Seguridad por oscuridad se llama eso, y lamento decirte que no sirve.
+Ciertamente hacer modificaciones (maliganas o no) es mas facil, lo cual
+se compensa por el hecho de que es tanto o mas facil descubrirlas.
+Por lo tanto, no seria mas peligroso excepto en el caso particular de que
+vos
+seas muy incompetente como programador, no tengas plata para contratar los
+servicios de un programador medianamente competente, y recibas confiadamente
+programas de fuentes alternativas de las cuales no tenes ningun motivo para
+confiar
+en que no te van a cagar la vida.
+
+
+> y no me digas que lo baje de internet
+
+Nunca diria eso... Lo bajaste "a traves de" internet, o "por" internet.
+Si lo bajaste "de" algun lado sera del sitio ftp del autor, o algo asi, pero
+nunca
+"de" internet.
+
+> en  lugar de pedirtelo a vos, porque de todos modos no leeré el código
+> y   quienquiera   que  sea  que  me  lo  está  dando  podría  haberlo
+> targiversado...  eso  suponiendo  si  no  es  que  el original no está
+> desde  un  ppio construido con el fin de dejar mi máquina a merced del
+> clan  autoproclamado  geek  clan,  y  cuyo  fin es sencillamente el de
+> dominar al mundo...  ahhhhhggggggg!!!!!!!!!
+
+Dejate de joder. Si el clan autoproclamado de geeks quisiera dominar el
+mundo
+mediante puertas traseras en los programas, seria mucho mas facil
+descubrirlo
+teniendo el codigo fuente que no teniendolo. No tenes argumentos.
+Y por que vas a sospechar del clan autoproclamado de geeks que es
+amigable, desinteresado, y anarquista, y vas a confiar en Microsoft que es
+corporativo, monopolico y capitalista?
+
+Insisto en que que vos seas un salame que no puede leer un programa no
+dice nada acerca de las ventajas y desventajas de disponer del codigo
+fuente.
+
+
+> Y  todavía  nadie  me  explica  cómo fui ubicado por white pages si ni
+> configuración  está  totalmente  limpia.
+
+A nadie le calienta tu configuracion! Tus datos estan en el servidor de ICQ,
+no
+en tu casa, gil!
+http://web.icq.com/whitepages/search
+
+Pone tu numero de ICQ o tu nick por algun lado y dejate de joder.
+
+
+> No  hay un solo dato ahí que
+> pueda demostrar que soy mendocino... de dónde leen mi info???!!!
+
+Lo veremos...
+
+--
+Groucho
+
+

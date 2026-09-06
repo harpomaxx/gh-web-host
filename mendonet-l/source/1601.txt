@@ -1,0 +1,60 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 18 Apr 2002 09:37:52 -0000
+Received: (qmail 27861 invoked from network); 18 Apr 2002 09:37:51 -0000
+Received: from unknown (66.218.66.216)
+  by m11.grp.scd.yahoo.com with QMQP; 18 Apr 2002 09:37:51 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.115)
+  by mta1.grp.scd.yahoo.com with SMTP; 18 Apr 2002 09:37:50 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 16y4Pv-0006VL-00
+	for <mendonet-l@...>; Thu, 18 Apr 2002 02:25:11 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 16y4Pu-0006VA-00
+	for <mendonet-l@...>; Thu, 18 Apr 2002 02:25:10 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[2]:
+Date: Thu, 18 Apr 2002 02:04:05 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <E16vuBM-00062H-00@...> <0528.020415@...>
+In-Reply-To: <0528.020415@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E16y4Pu-0006VA-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Lun 15 Abr 2002 12:41, escribiste:
+
+> >> S> Esta frase decía en un principio lupus, hasta que la leí en
+> >> Página 12 S> de boca de una canadiense, por lo que deduje que no
+> >> es tuya, y que te S> la atribués por una de esas malas pasadas que
+> >> nos juega la mente, S> cuando crees que inventase algo pero en
+> >> realidad es un recuerdo.
+> >>
+> >> Coño!!! Pero si yo ni siquiera leo pagina...!!!
+> >>
+> >> Y hasta recuerdo el momento en el que la acuñé... discutiendo con
+> >> este muchacho... gaucho? no no el otro... Kastor eso Kastor!!
+>
+> GM> Y por que no se fijan la fecha de ese mensaje y lo comparan con
+> la GM> fecha del diario donde aparecio ese comentario de la
+> canadiense?
+>
+> hhmmm interesante... aunque laborioso...
+
+Bueno, en ausencia de datos, me inclino por suponer que la idea se le 
+ocurrio independientemente a Lupus. Que la canadiense se vaya a cagar.
+
+-- 
+Herr Ing. GrouchoX
+
+
+
+

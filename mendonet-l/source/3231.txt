@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 4 Nov 2001 14:49:51 -0000
+Received: (qmail 32846 invoked from network); 4 Nov 2001 14:49:51 -0000
+Received: from unknown (216.115.97.172)
+  by m12.grp.snv.yahoo.com with QMQP; 4 Nov 2001 14:49:51 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta2.grp.snv.yahoo.com with SMTP; 4 Nov 2001 14:49:49 -0000
+Received: from gateway.micasa.org.ar ([200.41.31.114])
+	by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id LAA20890
+	for <mendonet-l@...>; Sun, 4 Nov 2001 11:42:44 +0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 1607Kc-0004A4-00
+	for <mendonet-l@...>; Sat, 03 Nov 2001 17:23:54 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 1607Kb-00049t-00
+	for <mendonet-l@...>; Sat, 03 Nov 2001 17:23:53 -0300
+Date: Sat, 3 Nov 2001 17:23:53 -0300
+To: mendonet-l@...
+Subject: Re: "rodralez disco rayado" my ass.
+Message-ID: <20011103172353.J15715@...>
+References: <1260.011012@...> <1071970173.20011005224250@...> <1260.011012@...> <5.1.0.14.2.20011016025404.00a72060@...> <71173698.20011102091924@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <71173698.20011102091924@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Fri, Nov 02, 2001 at 09:19:24AM -0300, Oxiuro wrote:
+
+> -----
+> Oxiuro
+
+'Ta mal esa firma. Son 2 rallitas no precedidas por espacio, si no no funciona.
+Arreglala, ok?
+
+
+--
+Groucho
+
+
+
+

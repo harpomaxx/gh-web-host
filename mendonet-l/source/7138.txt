@@ -1,0 +1,59 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 8 Nov 2000 00:05:55 -0000
+Received: (qmail 14451 invoked from network); 8 Nov 2000 00:04:15 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 8 Nov 2000 00:04:15 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 8 Nov 2000 00:04:14 -0000
+Received: (qmail 24655 invoked by uid 417); 8 Nov 2000 00:07:54 -0000
+Received: from unknown (HELO 200.41.31.4) (200.41.31.4) by smtpb.softhome.net with SMTP; 8 Nov 2000 00:07:54 -0000
+Date: Tue, 7 Nov 2000 17:29:40 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <14728.001107@...>
+To: mendonet-l@egroups.com
+Subject: =?ISO-8859-1?B?UmVbMl06IFNhbHVkYXIgbyBubyBzYWx1ZGFyLCBlc2EgZXMgbGEgY3Vl?= =?ISO-8859-1?B?c3Rp824=?=
+In-reply-To: <012501c04852$c28220c0$LocalHost@...>
+References: <012501c04852$c28220c0$LocalHost@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Tuesday, November 07, 2000, 9:36:25 PM, you wrote:
+
+
+AGT> ----- Original Message -----
+AGT> From: Sebas <xebax@...>
+AGT> To: <mendonet-l@egroups.com>
+AGT> Sent: Thursday, November 02, 2000 12:08 AM
+AGT> Subject: RE: Saludar o no saludar, esa es la cuestión
+
+
+AGT> Se me ocurre que con tanto cambio de e-mail,
+AGT> seria conveniente, que cada quien dispusiese de un icono identificatorio y
+AGT> lo
+AGT> ponga en su mail.
+AGT> .Visualmente resultaria mas comodo
+AGT> encontrar el que queres responder y también eludir los junk-mail
+>>
+      Par eso sirve que le pongas automaticamente la iniciales del que
+      escribe el mensaje original, seguro eso tiene una palabra tecnica infotonta
+      que lo identifique, preguntale a Grouco o a Harpo ellos
+      deben saber como se hace en el outlook express yo tengo the bat y
+      se hace desde la editor de la cuenta en propiedades.
+
+
+
+
+-- 
+  nadie, apoltronado en la tibieza de una vida timorata,
+  puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                            
+
+
+

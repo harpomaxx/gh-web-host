@@ -1,0 +1,61 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 23 Apr 2002 17:49:41 -0000
+Received: (qmail 41592 invoked from network); 23 Apr 2002 17:49:41 -0000
+Received: from unknown (66.218.66.216)
+  by m2.grp.scd.yahoo.com with QMQP; 23 Apr 2002 17:49:41 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta1.grp.scd.yahoo.com with SMTP; 23 Apr 2002 17:49:40 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp5 (8.9.3/8.9.3) with SMTP id OAA21416
+	for <mendonet-l@...>; Tue, 23 Apr 2002 14:39:14 +0300 (GMT)
+Message-ID: <010d01c1eaf0$02d5c820$060aa8c0@...>
+To: <mendonet-l@...>
+References: <01a201c1e7c1$750d6100$060aa8c0@...> <2905.020422@...>
+Subject: Re: Re[8]: Industria argentina... las pelotas !!.
+Date: Tue, 23 Apr 2002 14:55:02 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> >> producto A, ante igual situación, no lo sube.... ¿habrán decidido
+> >> fundirse en un esfuerzo patriótico?¿O su precio previo estaba tan
+> >> inflado que no precisa variarlo para seguir ganando?
+> GM> Es que vos supones que la fijacion de precios tiene que ver con los
+> GM> costos... En realidad tiene que ver con el valor atribuido al bien.
+> GM> El que no subio de precio, podria ser que no exporta o exporta muy
+> GM> poco,
+> GM> y si subiera el precio interno para igualar el rendimiento que obtiene
+> GM> exportando, resultaria que nadie le compraria el producto, por lo
+> GM> tanto, el
+> GM> tipo saca sus cuentas y vende al precio que le permite maximizar el
+> GM> beneficio.
+> Es lo que yo decía.... no entiendo a qué vino tu acotación.
+
+No. Vos insinuabas que algunos exportadores no suben de precio porque
+patrioticamente deciden inmolarse (fundirse)...
+Yo digo que no suben el precio porque sacan sus cuentas y concluyen que les
+conviene mantener el precio bajop para maximizar sus beneficios.
+Si estan maximizando los beneficios con esa politica, entonces la politica
+de igualar el precio interno al externo es menos ventajosa para ellos...
+Puesto que fundierse es lo peor que puede pasarle a una empresa, y puesto
+que mantener el precio interno no es lo que peor resultado posible
+arrojaria, se deduce que manteniendo el precio interno, evitan fundirse,
+contradiciendo tu conclusion.
+
+Por lo tanto, lo que vos decias no es lo que yo digo, sino lo contrario.
+
+--
+Herr Grouchox
+
+
+

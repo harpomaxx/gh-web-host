@@ -1,0 +1,27 @@
+From oxiuro@...  Sat Jul 11 23:23:58 2020
+Return-Path: <oxiuro@...>
+Received: (qmail 9803 invoked from network); 1 Sep 2000 04:24:39 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 1 Sep 2000 04:24:39 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 1 Sep 2000 04:24:39 -0000
+Received: (qmail 30342 invoked by uid 417); 1 Sep 2000 04:26:50 -0000
+Received: from mza2ppp-159.uc.infovia.com.ar (HELO softhome.net) (209.13.229.159) by smtpa.softhome.net with SMTP; 1 Sep 2000 04:26:50 -0000
+Message-ID: <39AF30EE.3E173ACC@...>
+Date: Fri, 01 Sep 2000 01:30:38 -0300
+X-Mailer: Mozilla 4.03 [es] (Win95; I)
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: ERROR!!!!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Oxiuro <oxiuro@...>
+
+Che si reciben un mail que en el asunto dice Re: Resumen numero 193 es
+porque me equivoque, el asunto es: "IN PURIBUS"
+sorry, pero estaba apurado y no lo note.
+
+--
+OXIURO
+
+
+
+

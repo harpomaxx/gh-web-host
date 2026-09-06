@@ -1,0 +1,62 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:54:51 -0000
+Received: (qmail 97292 invoked from network); 5 Oct 2001 02:54:51 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.223 with QMQP; 5 Oct 2001 02:54:51 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta1 with SMTP; 5 Oct 2001 02:56:34 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA14626
+	for <mendonet-l@...>; Thu, 4 Oct 2001 23:57:49 -0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pHQw-0000Ds-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 19:57:38 -0300
+Date: Thu, 4 Oct 2001 19:58:25 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <15832.011004@...>
+To: Morganti Federico <mendonet-l@...>
+Subject: Re[2]: A ver  si se acaba...
+In-reply-To: <OE17jfcL79kLnmo3HZ400006486@...>
+References: <OE17jfcL79kLnmo3HZ400006486@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Morganti,
+
+Monday, October 01, 2001, 4:13:00 PM, you wrote:
+
+>> S> ¿Cuántas veces nos hablé Rodralez del manejo de la terminal de
+>> S> teléfonos
+
+Mmmm.... Nunca?
+
+
+>>  de la cual seguramente sabe más que cualquiera?
+>> Y a quien carajo le calienta como manejar una central de telefonos?
+
+Estan regrosas las centrales telefonicas. Realizan una tarea chotisima
+(conversiones A/D y D/A a 8 KHz, deteccion de soniditos DTMF y 2 o 3
+señalizaciones basicas mas).
+La otra vez le ayude a un amigo con circuitito que detectaba el tono
+de llamada de una linea telefonica, atendia, intercambiaba unos
+datitos codificados en DTMF y cortaba (mucho mas rapido que usar un
+modem, que estaria 40 segundos negociando la conexion y 1 segundo
+mandando datos).
+Lo groso de una central telefonica es que puede hacer esa tarea chota
+con 50000 lineas a la vez, lo que vuelve a la tarea no-trivial.
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

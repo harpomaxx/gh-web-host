@@ -1,0 +1,105 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 2 Jun 2002 17:59:17 -0000
+Received: (qmail 89187 invoked from network); 2 Jun 2002 17:59:17 -0000
+Received: from unknown (66.218.66.217)
+  by m14.grp.scd.yahoo.com with QMQP; 2 Jun 2002 17:59:17 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.123.192)
+  by mta2.grp.scd.yahoo.com with SMTP; 2 Jun 2002 17:59:16 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 17EWT8-0003bl-00
+	for <mendonet-l@...>; Sun, 02 Jun 2002 11:36:30 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 17EWT7-0003ba-00
+	for <mendonet-l@...>; Sun, 02 Jun 2002 11:36:29 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[4]: Expo GNU/Linux Mendoza 2002
+Date: Sun, 2 Jun 2002 14:23:27 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <00b501c208ad$cab7c200$060aa8c0@...> <16573.020601@...>
+In-Reply-To: <16573.020601@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E17EWT7-0003ba-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Sáb 01 Jun 2002 13:45, escribiste:
+
+> GM> No de los linuxeros, sin de los LUGs (Linux Users Group).
+> GM> Hay un manual de reclutamiento y todo...
+> Linuxeros, bah...
+>
+> >> 2-Según tengo entendido por lo que leí en algunos sites, dos
+> >> importantes ventajas de linux son, que no requiere de equipos muy
+> >> modernos, y la gratuidad. Dado la situación que está viviendo
+> >> argentina ¿no sería este un muy buen escenario para lanzarse a la
+> >> conquista de los ignotos, ahora también pobres?
+>
+> GM> Es un error.
+> GM> Linux no esta a la venta.
+> ¿Quién dijo que lo está?
+
+Vos sugeris que es gratuito (a cambio de nada) y eso es un error. 
+Entonces explico el concepto por completo, por las dudas, y la 
+explicacion comienza aclarando que no esta a la venta.
+
+
+> GM> De todas formas, los argumentos economicos como esos son
+> GM> persuasivos, pero GM> insuficientes.
+> No creo que sea así por mucho tiempo más. Creo que se van a volver
+> argumentos convincentes en muy poco tiempo.
+
+No lo son. El costo de adquisicion del software y equipos representa el 
+8% de los costos totales de explotacion de un sistema, en el caso de 
+Windows por ejemplo. Decirle a la gente que se va a ahorrar el 8% de 
+algo no es demasiado persuasivo, sobre todo cuando en nuestro medio la 
+mayoria tiene copias no licenciadas (anteriormente llamadas pirata).
+
+
+> GM> La ventaja decisiva del software libre es la libertad.
+> GM> Indudablemente algun dia Microsoft haga una version de Windows
+> GM> que ande bien. Es evidente que ha mejorado bastante en los
+> GM> ultimos 10 años. Y cuando Windows ande bien y en hardware
+> GM> modesto, Linux no tendra razon de ser?
+> GM> Absolutamente no!!!!
+> De todos los argumentos tantas veces enumerados, ese es el menos
+> convincente... al menos para los neófitos.
+
+No enuncie ningun argumento. El argumento lo dejo flotanto para que 
+vayas a las conferencias y lo escuches de pibes que han estudiado mejor 
+que yo el tema.
+
+Sabes cual es el plan de Microsoft? Que para usar Word no tengas que 
+comprar word, sino que ingreses tu user y password de Hotmail, te 
+conectes a la pagina web de word y uses word on-line.
+Y luego te viene en tu resumen de tarjeta de credito el costo por 
+minuto.
+Queres que te cobren por minuto de uso?
+Queres que tus datos esten almacenados on-line en equipos de Microsoft?
+Queres que si se les da la gana, de un dia para otro discontinuen word 
+on line y te obliguen a usar super-word on line, que es igual pero mas 
+lento y lleno de cosas que no necesitas, y cuesta 30% mas por minuto?
+
+Pensalo mejor si seguis opinando que el argumento de la libertad no es 
+convincente.
+
+
+> GM> Anda a la conferencia Filosofia GNU/Linux y a la conferencia
+> GM> DotGNU versus .NET y enterate por que.
+> Lo haré.
+
+Bien. Y todos los demas tambien vayan.
+
+-- 
+Herr GrouchoX
+
+
+
+

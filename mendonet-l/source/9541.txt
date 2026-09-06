@@ -1,0 +1,53 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 20963 invoked from network); 15 Jul 2000 01:31:51 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 15 Jul 2000 01:31:51 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 15 Jul 2000 01:31:49 -0000
+Received: from ANTRO ([200.41.31.83]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA27001 for <mendonet-l@egroups.com>; Fri, 14 Jul 2000 22:34:37 +0300 (GMT)
+Date: Fri, 14 Jul 2000 22:35:27 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <2941.000714@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: Re[2]: Buenas soy el oxiuro!!!
+In-reply-To: <19249.000712@...>
+References: <19249.000712@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 12/07/2000, Lupus fuertemente farfulló:
+
+LeL> El 7/12/2000 gonzalo torrisi me decía:
+
+
+
+gt>> Lupus, se me cayo un idolo. ¿Que pasó hermano?, te fuiste por las ramas con
+gt>> ese ¿desarrollo?
+gt>> Era muy simple, tenias que plantear el volumen como una ecuación con una
+gt>> sola incognita que
+gt>> era el alto de las paredes y luego derivarla e igualarla a cero, un simple
+gt>> problema de maximos y
+gt>> minimos de nuestro profesor Mario Negri.
+
+LeL> Momento!  entonces  la  respuesta  a  la  que llegué con mi planteo de
+LeL> ocupar  la  totalidad  de  la  superficie  es correcta. Además, con el
+LeL> planteo  que proponés vas a encontrar una caja inconstruible salvo con
+LeL> los recortes...
+
+Es justamente al reves, me temo. La caja incostruible es la que vos
+diseñaste.
+
+
+LeL> además, quiero ver tu planteo del volumen en función del alto!
+Mejor lee MI planteo del volumen en funcion del alto...
+
+
+-- 
+Groucho Marx
+Más desubicado que perro en cancha de bochas.
+
+
+

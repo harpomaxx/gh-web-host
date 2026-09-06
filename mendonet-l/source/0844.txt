@@ -1,0 +1,71 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 4 Oct 2002 23:43:29 -0000
+Received: (qmail 30958 invoked from network); 4 Oct 2002 23:43:28 -0000
+Received: from unknown (66.218.66.217)
+  by m9.grp.scd.yahoo.com with QMQP; 4 Oct 2002 23:43:28 -0000
+Received: from unknown (HELO io) (200.47.194.56)
+  by mta2.grp.scd.yahoo.com with SMTP; 4 Oct 2002 23:43:28 -0000
+Received: from root by io with local (Exim 3.35 #1 (Debian))
+	id 17xHwu-0001Ab-00
+	for <mendonet-l@...>; Thu, 03 Oct 2002 23:12:16 -0300
+Date: Thu, 3 Oct 2002 23:11:56 -0300
+To: mendonet-l@...
+Subject: Re: otro desafio de fisica
+Message-Id: <20021003231156.7ff1839d.root@...>
+In-Reply-To: <00e501c26af1$29db5da0$060aa8c0@...>
+References: <11661.020930@...>
+	<00e501c26af1$29db5da0$060aa8c0@...>
+Organization: Linux User Group Mendoza [LugMen]
+X-Mailer: Sylpheed version 0.8.3 (GTK+ 1.2.10; i686-pc-linux-gnu)
+X-Operating-System: Debian GNU/Linux
+X-KASTOR: Muerte al CAPITAL!!!
+X-KASTOR-1: QUE SE VAYAN TODOS!!!!
+User-Agent: Sylpheed version 0.8.3 (GTK+ 1.2.10; i686-debian-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+From: k a s t o r <root@...>
+X-Yahoo-Group-Post: member; u=76410190
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+El Thu, 3 Oct 2002 12:25:53 -0300
+"Groucho Marx" <groucho@...> escribio:
+
+> >   Por que la tierra y demas cuerpos celestes giran sobre su propio
+> >   eje?
+> >   por que giran siempre para el mismo lado?
+> 
+> Porque todo el sistema solar se formo a partir de la misma nube de gas,
+> que giraba para un cierto lado.
+> 
+> 
+> -- 
+> Herr Grouchox
+> 
+
+estas preguntas se las hacen tambien en la comodidad de su hogar ? :P 
+
+- -- 
+
+[ kastor ]             [ _QUE SE VAYAN TODOS_ ]
+
+CNC = L U 2 M C G
+JID = kastor@...   
+KFP = B83D C963 C1F8 7C02 FA82  1DFE 4852 C81A EFE9 177A               
+GPG = http://www.lugmen.org.ar/~kastor/public-key.txt                  
+p o w e r e d    b y   d e b i a n    g n u /  l i n u x
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (GNU/Linux)
+
+iD8DBQE9nPjsSFLIGu/pF3oRAslpAKC+otgM8Hil7PP5rwyO976T4Wy+TACfe5mt
+OXUDh5IiWPQVkYca3g7iJ30=
+=Uo+E
+-----END PGP SIGNATURE-----
+

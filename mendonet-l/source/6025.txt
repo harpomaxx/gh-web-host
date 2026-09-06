@@ -1,0 +1,68 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_3); 24 Jun 2001 07:05:20 -0000
+Received: (qmail 91733 invoked from network); 24 Jun 2001 07:05:20 -0000
+Received: from unknown (10.1.10.27) by l9.egroups.com with QMQP; 24 Jun 2001 07:05:20 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.82) by mta2 with SMTP; 24 Jun 2001 07:05:15 -0000
+Received: (qmail 19972 invoked by uid 1005); 23 Jun 2001 18:23:39 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.323874 secs); 23/06/2001 15:23:38
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3) by torton.micasa with SMTP; 23 Jun 2001 18:23:37 -0000
+Date: Sat, 23 Jun 2001 15:23:38 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain; charset="iso-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <993023227.385.61164.l10@yahoogroups.com> <711578405.20010622234341@...>
+In-Reply-To: <711578405.20010622234341@...>
+Subject: Re: Mi computadora =?iso-8859-1?q?esta=20senil=20-=20Anecdota=20de=20un=20amigo=20de?= la =?iso-8859-1?q?niña?=
+MIME-Version: 1.0
+Message-Id: <01062315233801.01161@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 22 Jun 2001 23:43, escribiste:
+
+> Juas, cuando lei el subject del mensaje crei que hablarias de mi pero
+> veo que no fue asi.
+
+La niña tiene mas amigos de los que pensas, que puedo decir.....
+
+
+> Y ya que estamos en tema, Groucho, guru, maestro, resulta que lei por
+> ahi que podia hacer mas rapida mi navegacion creando una unidad
+> ficticia para algo que tenia que ver con el "cache", la cosa es que
+> debia poner en el config.sys una linea que decia:
+> device C:\windows\Ramdrive.sys 2048 /e
+> bue, lo hice y me creo una nueva unidad de disco.
+
+Si. Un disco virtual de RAM de 2 MB.
+
+>  Probe y no me ayudo mucho en la navegacion
+
+Bueno, para. Con crear el disco no pasa nada. Ese disco es en realidad 
+un bloque de memoria RAM usado para simular un disco rigido, solo que 
+mucho mas rapido.
+
+Lo que falta es usarlo para algo util. Una posibildad seria utilizarlo 
+para guardar los archivos temporales de Internet, que usualmente se 
+guardan en "c:\windows\archivos temporales de internet". Para ello hay 
+que cambiar un par de cosas en el Registro.
+
+Pero no esperes nada del otro mundo. Lo que verdaderamente enlentece tu 
+"internet experience" es la velocidad del modem.
+
+>  config.sys nuevamente borrando la linea agregada y reinicie y ooo
+>  sorpresa!!  la unidad no desaparecio y quedo con un icono como si
+>  fuera una unidad de CDROM pero que no lee el CDROM sino que la sigue
+>  leyendo la otra que tenia antes y la cual cambio el nombre
+>  (antes la del CD era la unidad G y ahora es la unidad H quedando la
+> G como una unidad inservible)
+
+Jodete!
+Pero si vas a Panel de Control -> Sistema y buscas el CDROM dentro del 
+administrador de dispositivos podes elegirle la letra que te guste.
+
+-- 
+Groucho Marx
+

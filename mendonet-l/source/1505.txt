@@ -1,0 +1,54 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 21 Apr 2002 21:05:22 -0000
+Received: (qmail 56477 invoked from network); 21 Apr 2002 21:05:22 -0000
+Received: from unknown (66.218.66.216)
+  by m8.grp.scd.yahoo.com with QMQP; 21 Apr 2002 21:05:22 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.46)
+  by mta1.grp.scd.yahoo.com with SMTP; 21 Apr 2002 21:05:22 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 21 Apr 2002 14:05:22 -0700
+To: <mendonet-l@...>
+References: <018a01c1e7bf$f0d75c20$060aa8c0@...> <3585.020419@...>
+Subject: Re: Re[2]: para los que saben de virus, ¿que opinan sobre esto?
+Date: Sun, 21 Apr 2002 17:23:14 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE53Ft4cwqqPxJSw9dO000047dc@...>
+X-OriginalArrivalTime: 21 Apr 2002 21:05:22.0218 (UTC) FILETIME=[400018A0:01C1E978]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.192.79]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+----- Original Message -----
+From: "Sebas" <xebax@...>
+To: "Groucho Marx" <mendonet-l@...>
+Sent: Friday, April 19, 2002 2:03 PM
+Subject: Re[2]: para los que saben de virus, ¿que opinan sobre esto?
+
+
+> Buenas y santas mi general, aquí, Evaristo Leguizamón, un servidor de la
+causa criolla.
+> >>  reenvio a todos los de mi libreta la informacion porque teniendo el
+> >> norton actualizado al dia no lo detecto y realizando los pasos lo
+> >> detecte.un beso
+> >> > > tendrá el nombre de jdbgmgr.exe NO ABRIR POR NINGUN MOTIVO
+>
+> GM> Imbecil. jdbgmgr.exe no es un virus.
+> GM> Deberias confirmar la informacion que envias...
+> Sé mucho menos de computadoras, pero lo mío fue más preciso, y
+> definitivamente más pedagógico.
+
+ya sabia que no era un virus, solo que me lo enviaron con el rotulo de virus
+y yo te pregunto era para saber porque no es un virus, pero no importa le
+preguntare a alguien menos pedagogico
+

@@ -1,0 +1,38 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 9189 invoked from network); 22 May 2000 19:41:20 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 22 May 2000 19:41:20 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta3 with SMTP; 22 May 2000 19:41:13 -0000
+Received: from 200.41.31.80 ([200.41.31.80]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id QAA19573 for <mendonet-l@egroups.com>; Mon, 22 May 2000 16:36:51 +0300 (GMT)
+Date: Fri, 19 May 2000 16:50:15 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <10701.000519@...>
+To: "fcanizo@..." <mendonet-l@egroups.com>
+Subject: Re: libros terminados
+In-reply-To: <20000519101823.10425.qmail@...>
+References: <20000519101823.10425.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 19/05/2000, fcanizo velozmente blasfemó:
+
+fuea> El 14/05/00, Groucho Marx le susurraba a Marcela:
+
+GM>>En toda mi vida ha habido solo 1 libro que no termine.
+GM>>Un libro debe terminarse. Es obligario e indispensable.
+
+fuea> Y cual fue?
+
+Uno de los personajes se llamaba Popeye...
+Santuario, de William Faulkner. Premio Nobel de literatura 1949.
+
+-- 
+Groucho Marx
+Sí. ¡Lo haré! ¡Asaltaré el MiniSuper! -- Homero J. Simpson
+
+
+

@@ -1,0 +1,29 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_2); 1 Dec 2000 21:39:48 -0000
+Received: (qmail 72564 invoked from network); 1 Dec 2000 21:39:46 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 1 Dec 2000 21:39:46 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 1 Dec 2000 21:39:46 -0000
+Received: (qmail 14362 invoked by uid 722); 1 Dec 2000 21:39:35 -0000
+Date: 1 Dec 2000 21:39:35 -0000
+Message-ID: <20001201213935.14360.qmail@...>
+To: mendonet-l@egroups.com
+Subject: Re[2]: Sacando conclusiones sobre la firma de Harpo Maxx
+From: fcanizo@...
+
+El 22/11/00, Groucho Marx le susurraba a harpo@...:
+ 
+ GM>Ok. Vos has hecho o conoces algun mail user agent que permita
+ GM>seleccionar las taglines a mano?
+ 
+ No es difícil groucho: mapeás alguna tecla en el vi para que
+ cuando lo llame el MUA puedas llamar a un scripcito tuyo que
+ con un poco de perl y ncurses te deje elegir un tag de
+ alguna lista de por ahí y listo. (a mi no me interesa
+ hacerlo, pero no es difícil)
+ 
+ 
+
+

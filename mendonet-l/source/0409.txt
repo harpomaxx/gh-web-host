@@ -1,0 +1,39 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 2133 invoked from network); 29 May 2003 00:00:59 -0000
+Received: from unknown (66.218.66.217)
+  by m8.grp.scd.yahoo.com with QMQP; 29 May 2003 00:00:59 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 29 May 2003 00:00:59 -0000
+Received: (qmail 28829 invoked by uid 417); 29 May 2003 00:00:58 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 29 May 2003 00:00:58 -0000
+Received: from dup-200-42-125-98.prima.net.ar ([200.42.125.98])
+  (AUTH: PLAIN xebax@...)
+  by softhome.net with esmtp; Wed, 28 May 2003 18:00:54 -0600
+Date: Wed, 28 May 2003 20:57:22 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <17873.030528@...>
+To: mendonet-l@...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+Che... ¿Santiago Imazio era integrante de esta lista? ¿O era otro
+Imazio?
+Pregunto porque en el programa del cine de la universidad del mes que
+viene, aparece una película de producción local en que el productor se
+llama Santiago Imazio... será nuestro ex cofrade?
+
+-- 
+ Sebas  
+Cuando cierran los números, las cuentas, las fábricas y los estómagos. Malos días.                      
+
+
+

@@ -1,0 +1,58 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 5 Feb 2003 18:57:28 -0000
+Received: (qmail 66037 invoked from network); 5 Feb 2003 18:57:27 -0000
+Received: from unknown (66.218.66.218)
+  by m8.grp.scd.yahoo.com with QMQP; 5 Feb 2003 18:57:27 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 5 Feb 2003 18:57:25 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18gUul-0004IK-00
+	for <mendonet-l@...>; Wed, 05 Feb 2003 16:08:55 -0300
+Message-ID: <3E415E7C.50205@...>
+Date: Wed, 05 Feb 2003 15:57:00 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.0.1) Gecko/20020826
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: (unknown)
+References: <3E3FE512.6050906@...> <4760.030204@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas escribió::
+>>>HG> De igual modo, los estudiantes universitarios tienen que aportan mas que
+>>>HG> el resto de la sociedad al financiamiento del sistema educativo.
+>>>En teoria un estudiante deberia estudiar para mejorar la sociedad en
+>>>donde vive
+> 
+> HG> Pero no tenemos por que confiar en que van a hacer exactamente eso.
+> HG> Conozco muchos que en lugar de eso se van a otros paises.
+> HG> En lugar de confiar como boludos, lo que tenemos que hacer como sociedad 
+> HG> es asegurarnos de que contribuyan al mejoramiento de la misma. Una forma 
+> HG> es obteniendo dinero de ellos que pueda usarse para beneficio de la 
+> HG> sociedad.
+> 
+> Dado que no contestaste lo que yo dije al respecto, imagino que fui lo
+> suficientemente concluyente
+
+O que ya habiamos hablado de eso y no tengo ganas de repetirme a mi mismo.
+
+
+> HG> Pues a mi no. Un egresado universitario se beneficia mas a si mismo que
+> HG> lo que el beneficia la sociedad.
+> Eso es porque no todos son egresados universitarios, porque el acceso
+> no es realmente libre.
+
+No entiendo que tiene que ver una cosa con otra.
+
+-- 
+Groucho
+
+

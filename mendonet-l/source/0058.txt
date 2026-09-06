@@ -1,0 +1,53 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 55088 invoked from network); 17 Sep 2003 23:46:08 -0000
+Received: from unknown (66.218.66.218)
+  by m12.grp.scd.yahoo.com with QMQP; 17 Sep 2003 23:46:08 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 17 Sep 2003 23:46:08 -0000
+Received: (qmail 5974 invoked by uid 417); 17 Sep 2003 23:46:07 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 17 Sep 2003 23:46:07 -0000
+Received: from dup-200-42-125-143.prima.net.ar ([200.42.125.143])
+  (AUTH: PLAIN xebax@...)
+  by softhome.net with esmtp; Wed, 17 Sep 2003 17:46:01 -0600
+Date: Wed, 17 Sep 2003 20:39:59 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <13861.030917@...>
+To: Marc <mendonet-l@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+Ingenuo como soy, caí redondito.
+Me llegó un mail a mi cuenta de punkass diciendo que la cuenta
+expiraría, y que por favor leyera el archivo adjunto. Este archivo
+esta zipeado, lo abrí y tenía un archivo .html, que también abrí. Se
+abrió explorer y divisé de reojo un cartelito en el ángulo inferior
+izquierdo que decía "loading foo.exe" lo que me sonó a virus, motivo
+por el cual rápidamente reinició la máquina(probablemente haya sido un
+error, pero en mi ignorancia fue el único reflejo que se me despertó
+para interrumpir la ejecución del virus en cuestión). Tras reiniciar
+busqué en internet, y resultó ser un virus, bajé un antídoto de
+symantec y lo ejecuté, dando como resultado la "limpieza" de 4
+archivos.
+Mis preguntas son:- si me vuelve a ocurrir que advierto un virus
+ejecutándose... ¿qué hago?
+- ¿qué daño podría haber provocado? Por lo que leí parecía un virus
+inocente, pero tras ejecutar el antídoto, seguí trabajando en la
+computadora y esta se reinició, creo yo que espontáneamente, o sea, si
+apret� algo no lo noté, pero es una posibilidad.
+
+
+-- 
+ Sebas  
+ Yo diría que nos pusiéramos todos contentos sin preguntar por qué. Miguelito                      
+
+
+

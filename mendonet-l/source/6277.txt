@@ -1,0 +1,130 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_2); 30 Apr 2001 15:03:46 -0000
+Received: (qmail 34690 invoked from network); 30 Apr 2001 15:03:46 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 30 Apr 2001 15:03:46 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.36) by mta1 with SMTP; 30 Apr 2001 15:03:44 -0000
+Received: (qmail 5180 invoked by uid 1005); 30 Apr 2001 12:11:01 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 3.34879 secs); 30/04/2001 09:10:58
+Received: from antro.micasa (192.168.0.2) by torton.micasa with SMTP; 30 Apr 2001 12:10:53 -0000
+Date: Mon, 30 Apr 2001 09:10:51 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <10382.010430@...>
+To: Sebas <mendonet-l@yahoogroups.com>
+Subject: Re[10]: television digital?
+In-reply-To: <18570.010429@...>
+References: <18570.010429@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 29/04/2001, Sebas furiosamente susurró:
+
+GM>> Yo puedo pensar en los perros sin saber la palabra perro.
+GM>> Puedo operar con conceptos en mi mente sin tener un lenguaje que
+GM>> los represente. Que no pueda EXPRESAR esos pensamientos sin un
+GM>> lenguaje, es otro asunto.
+
+S> Ese es el error... vos no podés conducir tu pensamiento de manera
+S> lógica(ser inteligente según el concepto psiquiátrico) y llegar a buen
+S> puerto si no podés manejar tus ideas, el contenido de las ideas son
+S> conceptos que se hacen maleables a través del lenguaje.
+S> Por ejemplo, de las discapacidades de los sentidos(sordera, ceguera,
+S> "mudez", anosmia, etc.) todas permiten un desarrollo intelectual
+S> normal, excepto la sordera. La sordera no permite la normal
+S> asimilación del lenguaje, por lo tanto hace mucho más difícil el
+S> desarrollo de la inteligencia, eso es científico y estadístico, es
+S> casi indiscutible.
+
+No discuto que no sea asi en el caso de los sordos, ni que sea
+justamente su dificultad para aprender el lenguaje la razon de ello.
+Con un lenguajes mas facil expresar y aprender conomientos abstractos,
+pero es logicamente imposible que sin un lenguaje sea "imposible"
+adquirir tales conociminetos.
+
+La demostracion de lo anterior es muy simple. El lenguaje es un
+invento. En una epoca no habia lenguajes, ni humanos, y por lo tanto
+nadie que se pusiera a pensar en conceptos abstractos.
+Ahora hay humanos, lenguajes y conceptos abstractos en sus mentes.
+Como surgieron?
+
+Segun vos, se necesita primero un lenguaje antes empezar a crear
+conceptos abstractos. (dijiste "imprescindible").
+Pero el lenguaje es en si mismo una abstracion: establece una relacion
+de equivalencia entre signos (sonidos por ejemplo) y conceptos.
+Como puede surgir entonces un lenguaje coherente en un momento en el
+que no hay ningun lenguaje, y por lo tanto segun vos, ninguna
+posibilidad de pensamiento abstracto? Segun vos, no puede surgir
+(digiste "imprescindible") pero lo cierto es que si surgieron.
+Conclusion: vos y tu autor favorito estan equivocados.
+
+Cambia imposible por "muy dificil" y vamos a estar de acuerdo.
+
+
+GM>> Como hacen los bebes para aprender un idioma (que esta formado por
+GM>> signos abstractos) si no tienen de antes un lenguaje con el cual
+GM>> operar esos signos abstractos que son las palabras que van
+GM>> aprendiendo?
+S> Asocian una imagen(la de la mamá) con la palbra que le repiten
+S> insistentemente..."mmmmmammmmmm�"... es más, en ello hay una trampa,
+S> los niños dicen mamá como primer palabra, porque al emitir un sonido a
+S> través de las cuerdas vocales y mover los labios de la forma más
+S> simple(abrir y cerrar la boca) la palabra que surge naturalmente es
+S> mamá.
+
+Muy bien.
+Eso lo puede hacer un loro tambien.
+Como aprenden que el sonido mama designa a todo una clase de objetos:
+el de los objetos de la realidad con caracteristicas maternales
+(cualesquiera que sean)?
+
+
+GM>> Que yo sepa, los bebes aprenden el lenguaje natural sin necesidad de
+GM>> aprender primero gramatica.
+S> Eso viene de una razonamiento falaz de tu parte que ya borré... habías
+S> hecho un razonamiento inductivo, lo que para el caso, carece de base
+S> científica.
+
+Para que sepas, el metodo cientifico que en tan alta estima tenes, es
+un razonamiento inductivo. Inductivo e incompleto.
+
+
+GM>> Por lo tanto, la idea convencional de que el pensamiento abstracto
+GM>> solo es posible con un lenguaje, es una falacia de argumentum
+GM>> principii.
+S> Ya lo expliqué arriba, pero igual voy a ver después si encuentro al de
+S> Sartori que te va a ayudar a entenderlo... ah, y lo que dijiste es una
+S> boludecii profundum
+
+Yo tambien lo explique arriba.
+Y tambien te puedo buscar la fuente de esta idea. Es un experimento
+con focas que probaba que podian manejar conceptos abstractos, aunque
+no se conoce ningun lenguaje focuno.
+O concluis que tal lenguaje existe, o concluis que no es verdad que es
+imprescindible un lenguaje para desarrollar pensamiento abstracto.
+
+
+GM>> Igualmente, aunque discrepo con la palabra "imprescindible" en tu
+GM>> afirmacion:
+
+S>>> [...] el pensamiento se forma con ideas que se modelan con
+S>>> conceptos, para estos conceptos es imprescindible el 
+S>>> lenguaje.
+
+S> No confundás concepto e imagen, son cosas muy distintas.
+
+En realidad te estaba citando, por lo que el consejo de no confundir
+te lo vas a tener que dar a vos mismo.
+
+
+-- 
+Groucho Marx
+¿Deberían prohibirse los espectáculos deportivos? La triste opinión de este
+periodista es: sí. -- Ken Broughman
+
+
+

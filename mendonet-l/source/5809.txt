@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_1); 22 Aug 2001 05:56:45 -0000
+Received: (qmail 85995 invoked from network); 22 Aug 2001 05:56:44 -0000
+Received: from unknown (10.1.10.27)
+  by l10.egroups.com with QMQP; 22 Aug 2001 05:56:44 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.8)
+  by mta2 with SMTP; 22 Aug 2001 05:56:43 -0000
+Received: (qmail 27403 invoked by uid 1005); 21 Aug 2001 18:39:57 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.164731 secs); 21/08/2001 15:39:55
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 21 Aug 2001 18:39:54 -0000
+Date: Tue, 21 Aug 2001 15:41:36 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <200108200059.f7K0xAA01419@...> <19440.010820@...> <200108201557.f7KFviq01460@...>
+In-Reply-To: <200108201557.f7KFviq01460@...>
+Subject: Re: buenas...
+MIME-Version: 1.0
+Message-Id: <01082115413600.00445@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 20 Ago 2001 12:57, escribiste:
+
+> > Live free or die... y todo eso instalando linux ?!.
+> >
+> > Y pensar que el General San Martin tuvo que cruzar los Andes para
+> > poder vivir como un hombre libre. Como cambian los tiempos.
+> >
+> > El día que a alguien se le ocurra armar una cajita feliz con
+> > hamburguesa, prozac y unos instaladores de linux, Mc Donald
+> > conquistará el mundo.
+
+> vos crees en nuestros falsos proceres?
+
+Caramba! En 6 años de vida de Mendonet, no recuerdo haber tocado nunca 
+este tema...
+
+Kastor, hace los honores y explica tu punto.
+
+
+-- 
+Groucho Marx
+

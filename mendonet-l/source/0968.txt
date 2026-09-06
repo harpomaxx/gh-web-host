@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 25 Jun 2002 17:34:29 -0000
+Received: (qmail 76587 invoked from network); 25 Jun 2002 17:34:29 -0000
+Received: from unknown (66.218.66.218)
+  by m15.grp.scd.yahoo.com with QMQP; 25 Jun 2002 17:34:29 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta3.grp.scd.yahoo.com with SMTP; 25 Jun 2002 17:34:29 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp5 (8.9.3/8.9.3) with SMTP id OAA24348
+	for <mendonet-l@...>; Tue, 25 Jun 2002 14:22:28 +0300 (GMT)
+Message-ID: <031d01c21c6f$95e5ad00$060aa8c0@...>
+To: <mendonet-l@...>
+References: <018a01c21c4d$c0775220$060aa8c0@...> <3586.020625@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B2=5D:_Pregunta_tecnica_II?=
+Date: Tue, 25 Jun 2002 14:41:37 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> Me perdí un poquito, así que... si quiero pasar mis mp3 de Led
+> Zeppelin, Sumo y Janis Joplin a sendos cds para luego poder
+> escucharlos en mi equipito portátil en mi habitación, o sea, sin
+> computadora de por medio... ¿cómo hago?
+
+Los convertis a WAV con el winamp usando el plug-in de salida a disco
+(buscalo en los menues) configurado para escribir archivos WAV en un
+directorio de tu eleccion.
+Luego usas el programa que tengas para grabar CDs y le decis que queres un
+CD de audio con las siguientes pistas: y marcas los archivos WAV que
+generaste en el paso previo.
+
+
+--
+Herr Grouchox
+
+
+

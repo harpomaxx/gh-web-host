@@ -1,0 +1,273 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 2 Jan 2002 04:20:34 -0000
+Received: (qmail 76121 invoked from network); 2 Jan 2002 04:20:34 -0000
+Received: from unknown (216.115.97.172)
+  by m5.grp.snv.yahoo.com with QMQP; 2 Jan 2002 04:20:34 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.110)
+  by mta2.grp.snv.yahoo.com with SMTP; 2 Jan 2002 04:20:28 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16LCtq-0000N3-00
+	for <mendonet-l@...>; Mon, 31 Dec 2001 21:35:26 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16LCtp-0000Ms-00
+	for <mendonet-l@...>; Mon, 31 Dec 2001 21:35:25 -0300
+Date: Mon, 31 Dec 2001 21:35:25 -0300
+To: mendonet-l@...
+Subject: Re: Todo tiene que ver con las matematicas...
+Message-ID: <20011231213525.C447@...>
+References: <20011230030242.O9732@...> <12561.011230@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <12561.011230@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Sun, Dec 30, 2001 at 01:28:46PM -0300, Lupus wrote:
+
+> >> Che,  Hablando  de  esto...  star office... cómo es la cuestión de las
+> >> compatibilidades  con  los .doc's de nuestro poco amado billano de los
+> >> puentes...  es  necesario instalar todo un nuevo star office para leer
+> >> las  nuevas  versiones  de .doc o basta con hacer alguna actualización
+> >> chiquita...
+> 
+> GM> No he usado lo suficiente StarOffice ni OpenOffice pero hasta donde se,
+> GM> aun no ha sido lo suficientemente trabajado en cuanto a modularidad, de
+> GM> manera que seguiria siendo necesario actualizar todo el paquete para
+> GM> agregar compatibilidad con nuevas versiones de la Lupa Microsoft.
+> GM> Por supuesto, podes hacer lo que yo, y negarte a leer los archivos
+> GM> generados en versiones de la Lupa cambiadas por el solo hecho de cambiar,
+> GM> o podes reinstalar OpenOffice.
+> 
+> Perdón otra vez... pero... qué es exactamente una "Lupa"...
+
+Entre otras cosas, una herramienta que permite leer con claridad
+aquellos textos que por su tamaño o representacion son dificiles
+de leer a simple vista.
+
+Hint for the sarcasm-impaired: MS Word permite leer con claridad
+textos que a simple vista se ven asi:
+
+C�A��   �        2  �       " �gz� ��c�iD �� �        �(    y `!
+��" �gz� �    ( 2 ��	�    �x� T]h[U �� tm�j�lsCaI#~!� -� {
+gG� ��� �&�v�" ��}���� l � PÁ!nhm�Gb � �� P 3X W	 �  [ (
+ *D  + CÁ?  �����  r �>�3�� #�g+�0 � _PID_GUID        
+_PID_HLINKS     �   A   N   { 5 6 2 4 7 3 0 0 - 9 2 C C -
+[           @  @��  @     N o r m a l         CJ  _H  aJ  mH  nH
+ sH ,tH
+u                     F A@��� F     F u e n t e   d e   p á r r a f o
+p r e d e t e r               6 W@� � 6     T e x t o   e n   
+n e g r i t a     5  ���� 	      �      F   
+Documento Microsoft Word    MSWordDoc     Word.Document.8 �9�q 
+
+> 
+> En  cuanto  a negarme a ver los archivos .doc de ms... muy lindo... si
+> todos  hicieran  lo mismo y enviaran .doc compatibles...
+> Yo,  por  ejemplo,  tengo  unos  amigos que suelen escribirme desde la
+> empresa  donde  laburan  y  me  mandan un .doc, podría pedirles que me
+> manden  un  txt... pero suelen mandarlos con clave y eso no es posible
+> en  un  txt...
+
+Porque ni vos ni ellos conocen el programa GPG, o no tienen la suficiente
+creatividad como para combinar las herramientas que tienen de forma
+de resolver sus problemas.
+(Pero no te preocupes: Windows te lleva naturalmente a eso. Lamentablemente
+uno de los razgos de la inteligencia es la capacidad de resolver problemas
+usando herramientas, o construyendo nuevas herramientas dandole un nuevo
+uso a los objetos que te rodean).
+
+Entonces, si no queres usar GPG (una solucion completa de criptografia),
+podes escribir el texto en el formato que te guste, y comprimirlo
+con WinZip o con WinRAR y ponerle clave a eso.
+Combinar herramientas, entendes??
+
+Es un error grave de diseño que un programa haga de todo un poquito,
+porque termina haciendolo todo mal.
+Un procesador de texto no tiene nada que ver con criptografia, las
+claves de de los archivos de Word no tienen nada que hacer ahi.
+
+
+>  y  hay  ciertos motivos para que quieran enviarlos con
+> clave...
+
+Si los motivos son reales (no una payadasa) entonces les conviene
+usar un sistema de criptografia diseñado especificamente para
+intercambiar mensajes seguros a traves de una red publica hostil
+(como es el caso de enviar e-mail a traves de Internet).
+Tal sistema de criptografia podria ser GPG (GNU Privacy Guard)
+o tambien PGP (Pretty Good Privacy).
+
+
+>  con  los  que puedo coincidir o no... pero para ellos parece
+> ser  mejor  así,  y  para  mí  no es mucho trabajo tampoco...
+
+Si es porque estan jugando a los secretitos empresariales (un
+jueguito muy en boga entre los gerentes y administradores de
+empresas) entonces hay un jueguito mucho mas divertido que se
+llama PGP para que prueben.
+
+
+> A lo que voy... todo muy lindo... pero a veces no es práctico.
+
+Que no conozcas soluciones practicas (GPG) o no se te ocurra
+tu propia solucion practica (usar WinZip) no quiere decir que
+no esten al alcance de tu mano...
+Y si vos encontras mas practica la solucion de usar la
+clave de Word (cosa discutible dado el tamaño excesivo
+de los archivos de Word comparados con el tamaño resultante
+al usar Winzip) yo estoy dispuesto a vender una pequeña
+cantidad de conveninecia a cambio de otros valores,
+como libertad, flexibilidad, seguridad y legalidad.
+
+
+
+> >> Por  qué  carajo necesita ser tan grande un programa que hace algo tan
+> >> sencillo...  digo...  bajo  win  supongo  que  será  por cuestiones de
+> >> mercado...
+> 
+> GM> MS Office es un paquete muy complejo, pero sacando las galerias de
+> GM> imagenes, los monigotes parlanchines y demas pavadas, el procesador
+> GM> de texto no es tan gigante.
+> GM> Por supuesto, es mucho mas grande de lo que necesita ser, por cuestiones
+> GM> de sinergia entre el que hace el programa grande y pesado y el que fabrica
+> GM> la computadora grande y rapida para poder usarlo.
+> 
+> Ahh...  yo  pensaba  que  era  SOLO  por  esto último... especialmente
+> considerando que no he percibido mejoras significativas en las últimas
+> versiones de word... y si he visto cambios de tamaño...
+> 
+> GM> Como comparacion, OpenOffice ocupa sin ninguna duda menos de 40 MB completo,
+> GM> con imagenes y un reemplazo directo para casi cada funcion de MS Office.
+> 
+> ¡Contando  procesador de texto, base de datos y planilla de cálculo en
+> el mismo paquete!!! Mierda...creo que eso es bien poco!!
+
+Como vos bien decis, Office casi no ha ganado en funcionalidad (al
+menos funcionalidad util)... Si mal no recuerdo, MS Office en su version
+4.2 (la que traia Word 6.0) ocupaba 28 diskettes de 1,44 MB, o sea 40,32 MB
+Que te parece? No es totalmente logico?
+Ademas hay algo interesante: cuando instalas un programa nuevo en Windows, 
+el mismo te instala de prepo y sin consultar versiones nuevas de cada
+componente compartido (por ejemplo bibliotecas de enlace dinamico).
+En el caso de los programas de Linux, el programa simplemente declara:
+necesito la biblioteca FOO version 4.2 como minimo, salvo la version 
+4.31 que es una mierda.
+Y si vos tenes la version 4.6, la acepta sn molestar, en lugar de meterte
+de preepo la version 8.0 que es la que justo salio el mes pasado.
+Entonces, por no ir acompañados de copias de los elementos compartidos,
+los paquetes de software para linux suelen ser mucho mas chicos.
+
+
+ 
+> GM> Otro paquete de oficina completo (KOffice) ocupa 4,6 MB comprimido (no
+> GM> incluye imagenes), y tiene la ventaja de estar muy altamente modularizado.
+> 
+> Coño, a qué tereferís con "Modularizado"??!!
+
+A que cada componente es suficientemente independiendiente de los otros
+como para ser instalable y usable por separado.
+Queres solo un procesador de texto?
+Entonces deberias ser capaz de instalar solo un procesador de texto.
+En MS Office esa saparacion esta mas o menos lograda, pero no de manera
+optima. Asi instales solo Word, te mete de prepo una cantidad grande
+de funciones comunes.
+StarOffice esta un poco mas atras en esa moularizacion. No tengo
+datos sobre OpenOffice, y KOffice esta mucho pero mucho mejor que los
+otros en ese sentido (logico, porque la infraestructura comun de todas
+las aplicaciones la provee el sistema de ventanas KDE, no el propio KOffice)
+
+
+> GM> Si solo te interesa un procesador de texto, lyx ocupa menos de 1 MB.
+> GM> Lyx es destacable porque en lugar de adscribir al modelo WYSIWYG (what you
+> GM> see is what you get) caracteristico de los procesadores de texto
+> GM> contemporaneos para publico en general, Lyx adscribe al modelo WYSIWYM
+> GM> (what you see is what you mean).
+> GM> La idea de los WYSIWYG es que el usuario vaya armando en la pantalla el
+> GM> documento y vaya viendo como va quedando. Muy facil, muy preciso, pero
+> GM> demasiado manual, ad-hoc y desestructurado. Perdes tiempo en como se ven
+> GM> las cosas en lugar de en pensar tus ideas.
+> GM> Lyx es mas estructurado. Vos decis: esto es un titulo, esto es un parrafo,
+> GM> esto es un capitulo y escribis. No interesa como se vea, interesa lo que
+> GM> queres decir.
+> GM> En cualquier momento podes definir: los titulos ponelos con tal letra
+> GM> y tal tamaño y tal margen, etc.
+> GM> Es decir: separa el trabajo del autor del del editor, pudiendote concentrar
+> GM> mejor en cada rol en vez de mezclarlos continuamente.
+> 
+> Eso   suena  realmente  interesante!  Y  en  qué  formato  salen  los
+> documentos?
+
+Bueno, si por salir te referis a la salida impresa, sale en el formato
+estandar en Unix para salida impresa: PS (postscript), que es el lenguaje
+que las impresoras profesionales utilizan. Si tu impresora no es postscript,
+tu sistema de impresion se encargara de convertir la salida de los programas
+a lo que la impresora entiende.
+Si por "salir" te referis al resultado impreso en papel, sale en el formato
+que vos definiste como autor, con completa flexibilidad igual que con
+cualquier otro procesador de texto.
+Si por "salida" te referis como graba en el disco, podes elegir entre el
+formato propio de Lyx, y una serie de formatos estandar portables.
+
+
+> Eso corre bajo windon??
+
+Supongo que no. Pero no deberia ser dificil portarlo a Windows.
+Igualmente si te lo menciono, es porque corre bajo Linux y lo que yo
+quisiera es que veas el Lado Brillante de la Fuerza y te animes a
+instalar Linux.
+
+
+ 
+> GM> El ejercicio de abstraccion (en lugar de ver como va a quedar, definir una
+> GM> regla que diga como va a quedar pero no verlo asi mientatras escribis
+> GM> puede ser demasiado arduo para un neofito (como mi vieja) pero muy
+> GM> eficiente para un usuario experimientado.
+> GM> Afortunadamente para los usuarios de Word, existe un modo de visualizacion
+> GM> llamado "esquema" que no es WYSIWYG sino WYSIWYM) que es sumamente util en
+> GM> combinacion con plantillas y estilos y que uso exclusivamente cuando uso
+> GM> Word.
+> 
+> Este... veo que edita docs...
+
+Estoy hablando de MS Word, ese que es producido por una empresa monopolica
+con sede en Redmond. Te lo menciono simplemente para que veas un ejemplo
+del modo en que funciona Lyx.
+
+
+> >> Supongo que ocurre lo mismo para los .xls...
+> GM> Las planillas esas son suficientemente bien representadas con archivos
+> GM> Pero no estoy diciendo que si haces una planilla con KSpread la puedas
+> GM> cargar mas o menos igual en Excel, estoy diciendo que si haces una
+> GM> planilla con formulas  en un programa de hoja de calculo, y despues cargas
+> GM> y modificas la planilla en un procesador de texto, el procesador de texto
+> GM> siguen entendiendo las formulas y no solo el resultado de las mismas
+> GM> (que es lo que pasa si cortas de Exel a Word).
+> 
+> Ok.  Pero supongo que los programejos estos deben tener la posibilidad
+> de  convertir  tus  planillas  de  cálculo  a  un  .xls legible por ms
+> office...  digo...  suponete  que hacés una planilla con un modelo que
+> vas  a  presentar a tu jefe... después lo sacás en xml o csv... y a tu
+> jefe, que no usa más que excel, se le llena el culo de preguntas... no
+> es muy simpático que digamos...
+
+Si se lo das en CSV el Excel lo puede ver/modificar/etc.
+Si se lo das impreso, lo va a poder ver.
+Si se lo das en PS deberia ser capaz de verlo en la pantalla o imprimirlo.
+Pero no es mi culpa, sino culpa de Miscorsoft que no puedas hacer todo
+lo que quisieras con la libertad que mereces, porque ellos lastiman tu
+libertad y te convierten en cliente cautivo al no molestare en producir
+conversores de sus formatos a cualquier cosa estandar.
+
+
+-- 
+Groucho
+
+
+
+

@@ -1,0 +1,38 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+Received: (qmail 4841 invoked from network); 21 Jul 2000 07:49:52 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 21 Jul 2000 07:49:52 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.230.103) by mta1 with SMTP; 21 Jul 2000 07:49:50 -0000
+Received: from elserver.micasa (harpo@... [192.168.1.3]) by elserver.micasa (8.8.7/8.8.7) with ESMTP id EAA11926 for <mendonet-l@egroups.com>; Fri, 21 Jul 2000 04:45:07 -0300
+Date: Fri, 21 Jul 2000 04:45:07 -0300 (WART)
+X-Sender: harpo@...
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: Para todos los...
+In-Reply-To: <0817.000714@...>
+Message-ID: <Pine.LNX.4.04.10007210425270.10087-100000@...>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+From: harpo <harpo@...>
+
+On Fri, 14 Jul 2000, Lupus el Lobo wrote:
+
+LeL>El 7/14/2000 Sebas me deci=
+a:
+
+LeL>A  mi  me  suele  pasar  esto con varios programas, no tienen afi=
+nidad
+LeL>conmigo  y  se  reusan  a  funcionar  correctamente...  te aconse=
+jo lo
+LeL>siguiente:  escribiles  palabras  de  amor  en sus lineas de co=
+mandos,
+LeL>preferentemente  en ingles, comprales un estabilizador de ten=
+sion para
+
+Como tu programa de mail! que anda como el orto cabezoN!!!!
+
+E=
+l Harpo!
+
+
+

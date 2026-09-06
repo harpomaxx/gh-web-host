@@ -1,0 +1,62 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_5); 1 Apr 2003 15:57:13 -0000
+Received: (qmail 50620 invoked from network); 1 Apr 2003 15:56:08 -0000
+Received: from unknown (66.218.66.218)
+  by m8.grp.scd.yahoo.com with QMQP; 1 Apr 2003 15:56:08 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 1 Apr 2003 15:56:05 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 190OOH-0001Sc-00
+	for <mendonet-l@...>; Tue, 01 Apr 2003 13:13:37 -0300
+Message-ID: <3E89B674.7070505@...>
+Date: Tue, 01 Apr 2003 12:55:32 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: =?ISO-8859-1?Q?Tiñelas=5Fde=5Frojo=2C_BABY=2E=2E=2E=2E?=
+ =?ISO-8859-1?Q?NUESTROSFASCISTAS_ESTAN_DE_FIESTA?=
+References: <18537432835.20030330003853@...>	 <17514.030330@...> <1049091640.6697.6.camel@stimpy> <3E899594.4010104@...>
+In-Reply-To: <3E899594.4010104@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Herr Groucho wrote:
+> cabeza wrote:
+> 
+>>On Sun, 2003-03-30 at 12:20, Sebas wrote:
+>>
+>>
+>>>MS> Si me aseguras de que esto es una protesta y no es marketing estoy
+>>>MS> disponible para pintar el rio mendoza.
+>>>Hablando de río Mendoza, señores ingenieros de la lista.... pensaba
+>>>que pintar el río mendoza es ridículo dado que ya viene de color, y
+>>>con eso se me ocurrió que todos esos limos que trae se van a depositar
+>>>en el dique este que han construido y el dique se llenaría tarde o
+>>>temprano... imagino que los ingenieros que construyeron dicha presa
+>>>sabía nde eso,,, ¿qué solución le han dado?
+
+No va a ser problema durante 20 años.
+Lo correcto seria hacer diques accesorios, y baratos aguas arriba que 
+contengan la mayor parte de la mugre. Teniendo 2 o 3 de esos diques, se 
+los puede vaciar periodicamente y limpiarlos.
+
+Como no lo han hecho, ni piensan hacerlo, dentro de unos 20-30 años 
+cuando el nivel de mugre alcance el nivel de las tomas de abduccion, lo 
+tienen que vaciar y excavar de nuevo (a un costo del 30% de lo que sale 
+hacer un dique nuevo).
+
+Otra posibilidad es levantar unos metritos el paredon, y hacer un 
+vertedero nuevo mas arriba, pero las maquinas electricas no servirian mas.
+
+-- 
+Groucho
+
+

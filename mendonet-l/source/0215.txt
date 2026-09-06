@@ -1,0 +1,77 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 58207 invoked from network); 15 Aug 2003 18:55:20 -0000
+Received: from unknown (66.218.66.216)
+  by m12.grp.scd.yahoo.com with QMQP; 15 Aug 2003 18:55:20 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta1.grp.scd.yahoo.com with SMTP; 15 Aug 2003 18:55:19 -0000
+Received: (qmail 11580 invoked by uid 404); 15 Aug 2003 18:55:16 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar by uid 401 with qmail-scanner-1.16 
+ (uvscan: v4.1.60/v4285. spamassassin: 2.44.  Clear:. 
+ Processed in 0.489826 secs); 15 Aug 2003 18:55:16 -0000
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 15 Aug 2003 18:55:16 -0000
+Date: Fri, 15 Aug 2003 15:55:14 -0300
+To: mendonet-l@...
+Subject: Re: que paso?
+Message-Id: <20030815155514.627ddd46.cgimenez@...>
+In-Reply-To: <courier.3F3D28D1.00003CE9@...>
+References: <courier.3F3D28D1.00003CE9@...>
+Organization: XNET Cuyo SA
+X-Mailer: Sylpheed version 0.9.4claws (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pgp-signature";
+ micalg="pgp-sha1"; boundary="108=.57C8Y)qP,+8"
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+
+--108=.57C8Y)qP,+8
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+El Fri, 15 Aug 2003 12:39:12 -0600
+marc.mz@... escribio:
+
+> 
+> ehehe no estaban todos aburrido de mendonet ?
+> al pareser el personaje nuevo en realidad es harpo
+> a dejado conformes a todos los que hasta ahora han hecho algun
+> comentario. falta que diga algo del machismo o depolitica. 
+> 
+> bueno de todas formas bienvenido/a (me queda la duda jajaja) 
+> 
+> Marc
+> escribiendo desde un cibercafe que si sirven cafe en la ciudad de San
+> Rafael Mendoza (sufriendo con un windows 2000 que no rutea ) 
+> 
+
+ no es que quiera saber mucho no..? peroooo q andas haciendo por alla? 
+
+
+-- 
+
+Cristian Gimenez
+cgimenez@...
+http://kastor.org.ar/
+
+XNet Cuyo S.A.
+Investigacion y Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-261-4252788 
+
+--108=.57C8Y)qP,+8
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.2 (GNU/Linux)
+
+iD8DBQE/PSyUSFLIGu/pF3oRAsDkAJoC0rPa/4CGxWKt46CdJHoJA+U2sgCgzUdB
+MM0fpl+gABSzQx6Bg7f6Bz4=
+=Vgdo
+-----END PGP SIGNATURE-----
+
+--108=.57C8Y)qP,+8--
+

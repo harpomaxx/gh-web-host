@@ -1,0 +1,43 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 30 Oct 2000 04:14:46 -0000
+Received: (qmail 22668 invoked from network); 30 Oct 2000 04:14:46 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 30 Oct 2000 04:14:46 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 30 Oct 2000 04:14:41 -0000
+Received: from antro.micasa ([200.41.31.86]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA20559 for <mendonet-l@egroups.com>; Mon, 30 Oct 2000 01:15:15 +0300 (GMT)
+Date: Mon, 30 Oct 2000 00:14:20 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <69.001030@...>
+To: Marc <mendonet-l@egroups.com>
+Subject: Re[2]: Saludo oficial de Mendonet
+In-reply-To: <6667.001028@...>
+References: <6667.001028@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 28/10/2000, Marc histéricamente blasfemó:
+
+GM>> Pues siendo nueva, es mi obligacion darte a conocer el saludo
+GM>> oficial de Mendonet:
+
+GM>> Bienvenida, che putita!!!
+M> Copion ese no es el saludo oficial de mendonet es el saludo
+M> oficial de Conan
+
+Pues esta en la FAQ como saludo de Mendonet. Sorry.
+Y que es Mendonet sino la suma de las colaboraciones de sus
+integrantes?
+
+-- 
+Groucho Marx
+Si Dios hubiera querido que anduvi�semos desnudos, nos habría dado
+manos más grandes.
+
+
+

@@ -1,0 +1,56 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 10519 invoked from network); 12 Jun 2000 11:44:41 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 12 Jun 2000 11:44:41 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 12 Jun 2000 11:44:40 -0000
+Received: from ANTRO ([200.41.31.112]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id IAA19115 for <mendonet-l@egroups.com>; Mon, 12 Jun 2000 08:45:21 +0300 (GMT)
+Date: Sat, 10 Jun 2000 22:28:03 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <15936.000610@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmVbMl06IE1lZGljafNuIGRlIGNvZWZpY2llbnRl?=
+In-reply-To: <3940AD50.B2B4343A@...>
+References: <3940AD50.B2B4343A@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 09/06/2000, Mariana temeroso escupió:
+
+>> M> A ver quien resuelve primero el problema:
+>> M> Una vaca pastaba en un campo perfectamente circular, de 100 metros 
+>> M> de diámetro. Fue comiendo el pasto del perímetro hasta dejar 
+>> M> reducido el campo a un circulo que tenía la mitad de superficie del 
+>> M> original. ¿cuántos metros de diámetro tendrá el circulo de pasto > M> que quedó?
+ 
+>> Se me ocurre un planteo mas interesante... Que tal si atamos la vaca a
+>> un poste que se encuentre sobre el borde del campo circular.
+>> Cual debe ser la longitud de la soga para que la vaca no pueda comer
+>> mas que la mitad de la superficie del pasto?
+
+M> Depende de donde le atés la soga.
+M> ¿En la cola?... ¿Cuánto mide la vaca?
+M> ¿En el cuello?... ¿Cuánto mide la cabeza de la vaca?
+
+Vamos a suponer que la vaca es esferica, que la soga esta atada al
+centro de la misma y que el radio de la vaca es despreciable frente a
+las otras dimensiones del problema.
+La soga es idealmente inextensible, de seccion despreciable. No hay
+resbalamiento en el suelo.
+
+Algo mas?
+
+
+
+-- 
+Groucho Marx
+They fight. And bite.
+Bite. Bite. Bite.
+Fight. Fight. Fight.
+The Itchy and Scratchy show.
+
+
+

@@ -1,0 +1,83 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 24 Nov 2001 16:02:59 -0000
+Received: (qmail 99309 invoked from network); 24 Nov 2001 16:02:59 -0000
+Received: from unknown (216.115.97.171)
+  by m11.grp.snv.yahoo.com with QMQP; 24 Nov 2001 16:02:59 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta3.grp.snv.yahoo.com with SMTP; 24 Nov 2001 16:02:58 -0000
+Received: from modem53-as2.mendoza.sinectis.com.ar ([200.59.95.53])
+  by softhome.net with esmtp; Sat, 24 Nov 2001 08:53:26 -0700
+Date: Sat, 24 Nov 2001 11:44:11 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus <aldocop@...>
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <3489.011124@...>
+To: mendonet-l@...
+Subject: Re[2]: preguntoso
+In-reply-To: <20011120213446.E4425@...>
+References: <20011120213446.E4425@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+
+             El 20/11/2001, mendonet-l decía:
+
+
+GM> On Tue, Nov 20, 2001 at 04:15:15PM -0300, Lupus wrote:
+>> Cheses... estoy muy preguntoso últimamente...
+>> 
+>> Cuál es la mecha con java??
+
+GM> Que es un lenguaje de programacion moderno (orientado a objetos, y todas esas
+GM> pelotudeces) totalmente portable, porque los programa en Java son compilados
+GM> a un lenguaje de maquina virtual (o sea que no existe) que a su vez es
+GM> interpretado por otro programa llamado Maquina Virtual de Java.
+
+GM> Si lo comparas con el C++ (en cuya sintaxis se parece mucho), le han sacado las
+GM> caracteristicas mas concretas y cercanas a a la real arquitectura de una
+GM> computadora electronica (por ejemplo los punteros) y ha quedado una especie de
+GM> C++ light para señoritas, o C++--.
+
+GM> Otros lenguajes prometen portabilidad (poder usar el mismo programa en cualquier
+GM> maquina) pero para escribir un programa en uno de los lenguajes tradicionales
+GM> mas portables (el C), por lo general tenes que llenar el programa de condiciones
+GM> (si esta maquina es Windows usar esto, si es Linux usar esto otro, si es una
+GM> Commodore 64 usar esta otra cosa).
+GM> En el Java hay una sola maquina (la maquina virtual de Java) y si la implementacion
+GM> concreta de la misma cumple con los estandares entonces funciona siempre igual.
+
+GM> Es como tener un emulador de Commodore 64: ya no existen las C64, pero tenes emuladores
+GM> de la misma para Windows, Linux, DOS, Mac.... La maquina virtual de Java es un
+GM> emulador de Maquina virtual de Java, una maquina teorica que nunca existio en la
+GM> realidad (aunque la empresa Tranmeta donde trabaja Linus Torvalds estaba inventando
+GM> una).
+
+Momento... pero entonces tiene su mecha el java ese... será medio para
+señoritas programadoras visto a tus ojos... pero hay que admitir que a
+la hora de crear programas enlatados... es bastante mecha...
+
+Y  por qué sacaron los punteros? eso complica la compatibilidad? no se
+puede crear una máquina virtual que emule también eso?
+
+Bueno...  de  todos modos... nunca comprendí cuál era la mecha con los
+punteros  de  todos  modos...  si  mal  no  recuerdo eran una forma de
+utilizar  directamente  las  direcciones de memoria del ordenador para
+guardar  información...  pero eran engorrosos y difíciles de usar para
+los  novatos  como  el  que  yo era cuando estudié c... y nunca vi que
+permitieran   realmente  hacer  algo  que  fuese  imposible  con  las
+instrucciones tradicionales...
+
+
+Lupus
+
+-- 
+
+"La envidia es una confesión de inferioridad."  Victor Hugo             
+
+
+

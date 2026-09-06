@@ -1,0 +1,38 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:32 -0000
+Received: (qmail 39174 invoked from network); 19 Sep 2001 07:05:31 -0000
+Received: from unknown (10.1.10.26)
+  by l9.egroups.com with QMQP; 19 Sep 2001 07:05:31 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta1 with SMTP; 19 Sep 2001 07:05:29 -0000
+Received: (qmail 8922 invoked by uid 1005); 18 Sep 2001 18:59:58 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.168441 secs); 18/09/2001 15:59:56
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 18:59:55 -0000
+Date: Tue, 18 Sep 2001 15:59:55 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <973002236.20010915012017@...> <7662.010915@...>
+In-Reply-To: <7662.010915@...>
+Subject: Re: Re[3]: =?iso-8859-1?q?Tecnica=20vs=20sentimiento?=
+MIME-Version: 1.0
+Message-Id: <0109181559550A.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Sáb 15 Sep 2001 15:54, escribiste:
+
+> pregunto esto: cada vez que toca varía ligeramente las notas que hace
+> sonar o toca siempre exactamente las mismas notas, pero éstas varían
+> ligeramente de las notas óptimas que dicta la teoría...??
+
+Cuando le pifia es aproposito para hacerse el creativo, o de puro torpe?
+
+-- 
+Groucho Marx
+

@@ -1,0 +1,55 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 8856 invoked from network); 13 Jul 2000 23:48:02 -0000
+Received: from unknown (10.1.10.27) by m5.onelist.org with QMQP; 13 Jul 2000 23:48:02 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 13 Jul 2000 23:48:01 -0000
+Received: from ANTRO ([200.41.31.85]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA02369 for <mendonet-l@egroups.com>; Thu, 13 Jul 2000 20:50:49 +0300 (GMT)
+Date: Thu, 13 Jul 2000 20:50:16 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <12868.000713@...>
+To: gonzalo torrisi <mendonet-l@egroups.com>
+Subject: Re: Se nota que no sabes nada
+In-reply-To: <20000710232446.SM00154@...>
+References: <20000710232446.SM00154@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 11/07/2000, gonzalo velozmente inventó:
+
+
+gt> Primero que todo Marc, gracias por recordarme a los profesores de mis profesores, (Rey Pastor fue proferosr de Mario Negri).
+
+gt> Bien por vos en haber leido ese libro, pero me parece que no lo entendiste ¿Era muy dificil? bue, tu razonamiento está pésimo, sólo hay una respuesta
+gt> al problema, ta claro?
+
+Bueno, no te las agarres con ella!
+Su punto era que el volumen encerrado por una caja sin tapa es nulo
+independientemente de las dimensiones de la caja.
+Superficie gaussiana te dice algo?
+
+
+gt> Y vos Groucho, a) El problema es tan fácil, y tanto te costó darte cuenta que
+gt>                   la caja era sin tapa?
+Es un problema que tengo!! No leo bien los enunciados y me dedico a
+resolver problemas mas generales que los planteados.
+Bien por mi!
+
+
+gt>                b) Fuiste a la Facultad y todavía no respondiste. Tanto tiempo pasás all� o estas esperando a que devuelvan el Libro Gordo de Petete para responderme?
+gt> GROUCHILLO mira el canal LOCOMOTION que trae muchos
+gt> recuerdos como por ejemplo -Por el poder de Greyskull!!
+
+Zzz zzz zzz Ya respondi tu problema caquero hace varios dias!
+
+
+-- 
+Groucho Marx
+Si fuera por mí, lo dejaría ir, pero los niños tienen mal carácter
+y han estado bebiendo. -- El jardinero Willie
+
+
+

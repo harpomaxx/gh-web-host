@@ -1,0 +1,51 @@
+From babasonica@...  Sat Jul 11 23:23:58 2020
+Return-Path: <babasonica@...>
+X-Sender: babasonica@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 17 Nov 2000 10:57:55 -0000
+Received: (qmail 8552 invoked from network); 17 Nov 2000 10:57:55 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 17 Nov 2000 10:57:55 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 17 Nov 2000 10:57:54 -0000
+Received: (qmail 32101 invoked by uid 417); 17 Nov 2000 10:57:58 -0000
+Received: from unknown (HELO hfgg) (200.41.31.85) by smtpa.softhome.net with SMTP; 17 Nov 2000 10:57:58 -0000
+Message-ID: <000201c05064$2d44a900$9a4afea9@hfgg>
+To: <mendonet-l@egroups.com>
+References: <20001104041926.17453.qmail@...> <017901c04758$2221aba0$9a4afea9@hfgg> <OE27EpTX5V3GykBbKP7000006c9@...>
+Subject: (Fede M.) Bienvenida/malcomenzada
+Date: Thu, 16 Nov 2000 05:53:29 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: "Mariana" <babasonica@...>
+
+>>> ¿por que tus mails llegan encuadrados???
+
+>> Si la persona que manda un mail es cuadrada... tenés por resultado un
+mail
+>> encuadrado... Eso sin contar que el choto no le ha sacado la opción de
+texto
+>> enriquecido a su programa de mail...
+
+> si lo hice y no funciona, tengo que hacerlo mail por mail al responder y
+es
+> un poco incomodo
+>
+> Y eso que lo pedí amablemente... Que se yo, quizás este pibe solo entienda
+> si le hablás con agresiones.
+
+Fede, atendé... En la barra superior del Outlook andá a "Herramientas". Ahí
+marcá "Opciones...". Te va a salir un cuadro de diálogo con varias solapas.
+Andá a la solapa que dice "Enviar".
+Donde dice "Configuración de Formato de Envío de Correo" marcá "Texto sin
+Formato" (el puntito, no el botón).
+Después presioná el botón "Aplicar", que está abajo, luego "Aceptar" y
+listo!... Habrás sumado una característica mas para convertirte en un
+verdadero Mendonet Material.
+
+
+
+

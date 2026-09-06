@@ -1,0 +1,53 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 9 May 2002 14:52:44 -0000
+Received: (qmail 9375 invoked from network); 9 May 2002 14:52:44 -0000
+Received: from unknown (66.218.66.217)
+  by m7.grp.scd.yahoo.com with QMQP; 9 May 2002 14:52:44 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta2.grp.scd.yahoo.com with SMTP; 9 May 2002 14:52:44 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp5 (8.9.3/8.9.3) with SMTP id LAA17705
+	for <mendonet-l@...>; Thu, 9 May 2002 11:41:54 +0300 (GMT)
+Message-ID: <00fd01c1f769$fde5b100$060aa8c0@...>
+To: <mendonet-l@...>
+References: <E174tVz-0005UC-00@...> <12911.020508@...>
+Subject: Re: 
+Date: Thu, 9 May 2002 11:58:26 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> GM> La analogia es poderosa: los virus informaticos y los biologicos
+> GM> realemtne comparten muchisismos principios de funcionamiento. Eso
+> GM> mismo
+> GM> es la prueba de que no estan vivos: los virus biologicos no estan
+> GM> vivos, los virus de computadora tampoco.
+> GM> (Hint: les falta la homeostasis)
+
+> Ok... ¿Y las clamidias y ricketsias?
+
+2 cosas:
+1) las cosas esas que decis permitiran definir un "virus biologico" no un
+"virus" en general, asi que no viene al caso.
+2) Insistis ciegamente en definir los terminos de manera demasiado ajustada
+a detalles de las instancias particulares que conoces de los objetos a los
+que el termino se refiere, en lugar de basar la definicion en conceptos algo
+mas abstractos comunes a toda la clase de objetos designados por el termino.
+Se te pide la definicion de "vehiculo" y das la definicion de tu bicicleta.
+
+
+--
+Herr Grouchox
+
+
+

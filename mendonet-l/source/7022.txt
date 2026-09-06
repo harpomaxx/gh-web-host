@@ -1,0 +1,60 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 11 Nov 2000 03:40:09 -0000
+Received: (qmail 70545 invoked from network); 11 Nov 2000 03:40:09 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 11 Nov 2000 03:40:09 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.241) by mta2 with SMTP; 11 Nov 2000 03:40:07 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id KAA31071 for mendonet-l@egroups.com; Fri, 10 Nov 2000 10:24:16 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Fri, 10 Nov 2000 10:24:16 -0300
+To: mendonet-l@egroups.com
+Subject: Re: Saludo oficial de Mendonet
+Message-ID: <20001110102416.C30723@...>
+References: <20001107024809.23392.qmail@...> <008e01c048d5$02930f80$657d2ac8@tepes> <20001108142739.E11006@...> <3A0AEE7E.44EF8AFF@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <3A0AEE7E.44EF8AFF@...>; from Recabarren@... on Thu, Nov 09, 2000 at 03:35:42PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Thu, Nov 09, 2000 at 03:35:42PM -0300, Santiago Imazio dijo:
+> harpo@... wrote:
+> No se, yo no recuerdo que me hayan agredido cuando entre por primera vez
+> a Mendonet.
+> Creo que no lo hicieron. Mas que nada porque si lo hubieran hecho me
+> hubiera ido a la mierda en ese instante.
+> Me parece que eso de bardear a los nuevos es una costumbre que se
+> adquirio recientemente.
+
+A vos no!, pero te acordas de ANV, y la otra minita esta que cayo...esa de la
+UM... SIL!!! asi se llamaba.
+
+Personalmente no me vuelven locos los saludos a lo Conan, los "hola putita" y
+esas cosas, pero Mendonet se penso como un lugar totalmente sin moderar, y si
+la gente putea a los recien llegados. Nada se puede hacer, salvo aclarar que
+no todos se comportan iguales.
+
+Voy a serte sincero, por ejemplo hace unos meses me parecio patetico las
+agresiones contra ANV, si bien el tipo habla cagadas, creo que fue un poco
+bajo las burlas que se hicieron y sobre todo cuando personajes como Mlicieaga
+y goofer (que poco habian aparecido este año) aparecieron exclusivamente
+para putear y luego se fueron. ESO PARA MI FUE PATETICO.
+
+Pero nunca pense en hacer algo al respecto, No se si mendonet seguira
+existiendo otro año, tal vez los pocos que quedamos nos cansemos y nos vayamos
+a la mierda, pero de algo estoy seguro, y es que esto debe autoregularse y no
+moderarse, si esto se transforma en una lista de puteadas, de chistes o de
+mensajes tipo RODRO, sera el destino que la mayoria haya elegido para
+Mendonet.
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

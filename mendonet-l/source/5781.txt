@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 24 Aug 2001 03:00:35 -0000
+Received: (qmail 55545 invoked from network); 24 Aug 2001 02:41:23 -0000
+Received: from unknown (10.1.10.142)
+  by m8.onelist.org with QMQP; 24 Aug 2001 02:41:23 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.58)
+  by mta3 with SMTP; 24 Aug 2001 02:41:19 -0000
+Received: (qmail 31304 invoked by uid 1005); 23 Aug 2001 03:57:19 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.161432 secs); 23/08/2001 00:57:18
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 23 Aug 2001 03:57:17 -0000
+Date: Thu, 23 Aug 2001 00:59:11 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <007701c12a72$1f1e43c0$6301a8c0@g8> <1613.010822@...>
+In-Reply-To: <1613.010822@...>
+Subject: Re: Otro suscripto
+MIME-Version: 1.0
+Message-Id: <01082300591103.00404@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mié 22 Ago 2001 00:20, escribiste:
+> Goofer decia:
+> > A quien corresponda, deseo se suscriba a la presente lista de
+> > correo literaria a la siguiente dirección email:
+> > felicidad_sisters@...
+> >
+> > En caso qur dicha suscripción no sea realizada, mearé personalmente
+> > las puertas de las casas de los responsables
+>
+> Más detalladamente, de que se trata la lista  ?!
+
+Bien veamos... 
+Definicion larga:
+Se trata de dar vueltas y vueltas sobre lo mismo, tratando de ser mas 
+ingenioso, mas acido y mas sutil y mas gracioso que todos los demas, 
+logrando en el proceso quedarse con la ultima palabra, sea o no lo que 
+uno piensa.
+
+Definicion corta:
+Se trata de una lista acerca de nada.
+
+
+-- 
+Groucho Marx
+

@@ -1,0 +1,82 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 6 May 2002 14:07:21 -0000
+Received: (qmail 15669 invoked from network); 6 May 2002 14:07:20 -0000
+Received: from unknown (66.218.66.216)
+  by m4.grp.scd.yahoo.com with QMQP; 6 May 2002 14:07:20 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta1.grp.scd.yahoo.com with SMTP; 6 May 2002 14:07:20 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp5 (8.9.3/8.9.3) with SMTP id KAA22116
+	for <mendonet-l@...>; Mon, 6 May 2002 10:56:40 +0300 (GMT)
+Message-ID: <01b401c1f508$1cfd7280$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20020427150144.GA6730@...> <16430.020506@...>
+Subject: Re: Re[12]: (unknown)
+Date: Mon, 6 May 2002 11:12:47 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> >> > Estas confundiendo aplicabilidad con verificabilidad. Una teoria
+> >> > cientifica debe ser verificable empiricamente. Que sirva para algo o
+> >> > no, es irrelevante. Casi todas las teorias de ciencia basica al
+> >> > principio no tienen aplicacion. Encontrarles aplicacion no es
+> >> > problema de los cientificos sino de los ingenieros, ok?
+> >>
+> >> y si no se le encuentra aplicacion, ¿es o no obsoleta?
+> GM> Podria ser obsoleta... O podria ser demasiado avanzada para su tiempo.
+> GM> El algebra de Boole es una teoria matematica desarrollada en la
+> GM> primera mitad del siglo 19....
+> GM> Alguien que en 1930 leyera dicha teoria diria: esta es una mierda
+> GM> obsoleta!
+>
+> No  creo...  en  todo  caso  diría  que  es  una mierda sin aplicación
+> práctica...
+
+Puta madre!!! Estamos suponiendo que Federico tiene razon. Entonces en el
+universo hipotetico donde Federico tiene razon, la gente habria dicho en
+1930 que el algebra de Boole es una mierda obsoleta, ya que como
+correctamente señalas, en esa epoca podia considerarse una mierda sin
+aplicacion. Y como en el unverso hipotetico donde Federico tiene razon todo
+lo que no tiene aplicacion se vuelve obsoleto, se sigue logicamente lo que
+yo afirmaba...
+
+
+
+> GM> En 100 años nunca nadie le ha encontrado aplicacion.
+> GM> Pero en 1945 con la invencion de la computadora electronica, el
+> GM> algebra de Boole encontro finalmente aplicacion.
+>
+> GM> Dame un ejemplo de un teoria que se haya vuelto obsoleta porque no se
+> GM> le encotro nunca una aplicacion.
+>
+> Es  que  para  mí  la  cosa  no  pasa  por la aplicación práctica.
+
+Para mi tampoco!!! Pero estamos validando precisamente esa concepcion.
+Si Federico ofrece un ejemplo en donde vos y yo estemos equivocados respecto
+de la relacion entre aplicabilidad y obsolescencia, tendriamos que refinar
+nuestra teoria...
+
+> Las consecuencias  teóricas  y/o  filosóficas  de  un  descubrimiento son
+> suficientes  para  que  su  existencia  sea  deseable,  aún  cuando no
+> produzca  ningún  cambio  en  la  realidad  material  sino  solo  una
+> diferencia en la concepción mental de cierto abstracto.
+
+Por supuesto... Veo que no entendiste que se trataba de un experimento...
+
+
+--
+Herr Grouchox
+
+
+

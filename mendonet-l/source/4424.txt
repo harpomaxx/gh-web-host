@@ -1,0 +1,181 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 29 Sep 2001 17:18:09 -0000
+Received: (qmail 14648 invoked from network); 29 Sep 2001 17:18:09 -0000
+Received: from unknown (10.1.10.27)
+  by m8.onelist.org with QMQP; 29 Sep 2001 17:18:09 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta2 with SMTP; 29 Sep 2001 17:17:48 -0000
+Received: from gateway.micasa.org.ar (200-41-31-56-rdunysd1.impsat.net.ar [200.41.31.56])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id OAA17372
+	for <mendonet-l@...>; Sat, 29 Sep 2001 14:19:02 -0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15nNgx-0000k4-00
+	for <mendonet-l@...>; Sat, 29 Sep 2001 14:14:19 -0300
+Date: Sat, 29 Sep 2001 14:14:45 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <11593.010929@...>
+To: Sebas <mendonet-l@...>
+Subject: Re[7]: "Naturaleza del hombre" my ass !
+In-reply-To: <1503.010929@...>
+References: <1503.010929@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Sebas,
+
+Saturday, September 29, 2001, 12:04:42 PM, you wrote:
+
+S>>> Artificial implica una transformación por acción del hombre. Sigue
+S>>> siendo natural, y es una cualidad agregada, o sea, tenemos cosas
+S>>> naturales vírgenes, y cosas naturales artificiales.
+GM>> "Cosas naturales artificiales"? Lo decis en serio? Supongamos que si.
+S> Es obvio que nos estamos manejando con los conceptos que hemos
+S> aceptado en esta charla para natural, y que no se contradice con el
+S> concepto del diccionario de artificial.
+
+*Hemos* aceptado? Crei que estabas en contra de mi definicion propuesta
+para natural/artificial. Aclarame este punto.
+
+GM>> Que significa para vos "sistema de numeracion binario natural"?
+GM>> Seria una cosa "artificial natural"?
+GM>> Y un artificio matematico? Acaso hay algo natural en la matematica?
+S> No te puedo responder porque si lo estudié, fue hace mucho y dado que
+S> no lo he aplicado al menos concientemente, no sé de qué me estás
+S> hablando. Sé lo que es "binario", sé lo que es "numeración", sé lo que
+S> es "sistema" y no sé a qué se refiere el término natural... no sé si
+S> lo que me estás diciendo existe o se te ocurrió ahora... no podemos
+S> discutir este tema de manera regular, dado que desconozco tu ejemplo.
+
+Se soluciona facilmente explicando el ejemplo.
+El sistema de numeracion natural es el que te permite contar usando
+solo 2 simbolos en lugar de 10.
+Decimal -> Binario
+0 -> 0
+1 -> 1
+2 -> 10
+3 -> 11
+4 -> 100
+5 -> 101
+6 -> 110
+7 -> 111
+8 -> 1000
+9 -> 1001
+10 -> 1010
+11 -> 1011
+12 -> 1100
+....
+
+En el sistema decimal el valor de un simbolo (digito) depende de la
+posicion que ocupa en el numero.
+4 vale 4 a la izquierda, 40 en la columna anterior, 400 en la
+anterior, y 4*10^n en la columna n.
+10 es la "base" y para poder expresar cualquier numero necesitas 10
+simbolos distintos.
+Si la base la cambias a 2, bastaran 2 simbolos:
+1 vale 1 a la izquierda, 2 en la columna anterior, 4 en la anterior,
+1*2^n en la columna n.
+
+A ese sistema de numeracion que usa 2 simbolos se le llama en
+matematica, sistema binario.
+En ciencias de la computacion se aplica el sistema binario porque es
+el que menos simbolos distintos utiliza, lo cual simplifica la
+operacion de los circuitos de las computadoras.
+En ciencias de la computacion, a ese sistema se lo llama "binario
+natural", porque hay otros:
+Yo podria representar cada digito decimal con 4 digitos decimales.
+
+El 12 (decimal) se representa en binario natural (Ver mas arriba) como
+1100. Pero en binario BCD se representa como 0001 0010. Fijate que
+0010 es "1" y que "0010" es 2. Esto tiene utilidad porque la
+conversion de decimal a bimario BCD es trivial, mientras que en el
+caso de binario natural la conversion implica divisiones y
+multiplicaciones que no son operaciones triviales de realizar con
+circuitos electronicos.
+Segun la maquina vaya a hacer pocas conversiones de base (uso
+cientifico) o muchas (uso comercial) puede convenir un sistema u otro.
+
+El sistema de numeracion binario natural es artificial, segun la
+definicion tradicional de artificial, puesto que es obra del hombre. Y
+se lo califica de natural porque es la forma menos artificiosa de
+convertir de una base numerica a otra.
+
+
+
+
+GM>> Para vos la palabra artificial implica una transformacion,
+GM>> un desplazamiento del estado de una cosa desde su estado natural
+GM>> (virgen). Me das la razon cuando digo que artificial es lo que se
+GM>> aparta de lo natural, sin que natural se restringa solo a la
+GM>> Naturaleza.
+S> Es que no se parta de lo natural, sigue siendo natural por tener su
+S> fuente en un proceso natural(pensamiento y capacidad de transformar
+S> cosas) y materias primas naturales... pensé que en eso estábamos de
+S> acuerdo.
+
+Repasemos:
+
+Entonces todo es natural, puesto que ninguna transformacion hecha por
+el hombre pudo no haber partido inicialmente de algo natural, y todas
+las transformaciones que realiza el hombre son naturales a el.
+
+Yo dije siempre que todo es natural, que lo artificial no existe.
+Ahh... Ahora entiendo por que decis que no hay oposicion entre natural
+y artificial, usando las deficiniones de diccionario de ambos
+terminos, lo artificial es una transformacion/evolucion de lo natural.
+Punto para Sebas en ese sentido.
+
+Yo digo ademas que esas transformaciones/evoluciones llamadas
+artificiales por el diccionario no alteran la esencia de la cosa
+transformada, que por lo tanto sigue siendo natural (seria esa la
+explicacion de natural artificial y natural virgen).
+
+Supongo que esta aca no hay desacuerdos.
+
+Ahora agrego que a la luz de expresiones como "aceite natual de primera
+prensada en frio y 7 procesos de filtrado" (aceite que a mi juicio
+sufrio suficientes transformaciones como para poder llamarse aceite
+artificial), o artificio matematico (transformacion heterodoxa de algo
+que no sabria decirte si existe en su estado natural, ya que no hay
+materias primas naturales identificables), o sistema binario natural
+(forma mas simple y regular de contar con 2 dedos) es evidente que
+artificial/natural estan dotados de connotaciones mas alla de las
+mencionadas por tu diccionario.
+Tales connotaciones son las que yo propuse definir en terminos
+antiteticos (artificial es lo esta en contra de la naturaleza de una
+cosa), aclarando algo en lo que descubro que estamos de acuerdo y es
+que las transformaciones y acciones humanas que connota la
+artificialidad no alteran la pertenencia a la Naturaleza de los
+objetos llamados artificiales, puesto que el hombre es un ser natural
+y todas sus acciones son naturales.
+
+
+De manera que como es costumbre, muestros desacuerdos son
+principalmente en el uso de la terminologia.
+
+
+
+S>>> Sobre el resto no tenía nada que decir, lo que no implica que esté de
+S>>> acuerdo o no.
+GM>> Me temo que si: tu silencio si implica que estes de acuerdo o no,
+GM>> puesto que no tenes mas alternativa que estar de acuerdo o no estar de
+GM>> acuerdo.
+S> SÍ, pero mi silencio no implica una respuesta, mi silencio no queire
+S> decir "sí, estoy de acuerdo" o "no, no estoy de acuerdo"
+
+Lo se, pero las ambigüedades del lenguaje natural me permitian romper
+las bolas con un poco de logica simbolica.
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

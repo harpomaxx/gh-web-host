@@ -1,0 +1,81 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 13 Nov 2001 23:42:52 -0000
+Received: (qmail 316 invoked from network); 13 Nov 2001 23:42:52 -0000
+Received: from unknown (216.115.97.167)
+  by m3.grp.snv.yahoo.com with QMQP; 13 Nov 2001 23:42:52 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta1.grp.snv.yahoo.com with SMTP; 13 Nov 2001 23:42:52 -0000
+Received: from gateway.micasa.org.ar (200-41-31-126-rdunysd1.impsat.net.ar [200.41.31.126])
+	by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA00309
+	for <mendonet-l@...>; Tue, 13 Nov 2001 20:31:38 +0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 163iQU-0004Rt-00
+	for <mendonet-l@...>; Tue, 13 Nov 2001 15:36:50 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 163iQT-0004Ri-00
+	for <mendonet-l@...>; Tue, 13 Nov 2001 15:36:49 -0300
+Date: Tue, 13 Nov 2001 15:36:49 -0300
+To: mendonet-l@...
+Subject: Re: Bucay sanata.
+Message-ID: <20011113153649.I16116@...>
+References: <20011112011905.E10342@...> <5884.011112@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <5884.011112@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Mon, Nov 12, 2001 at 09:14:18PM -0300, Sebas wrote:
+
+> GM> Que tenes en contra de los ensayos?
+> GM> Me arte de la ficcion.
+> ¿Qué habrás querido decir?
+
+Creo que es obvio: "me arte de la ficcion"...
+
+
+> ¿Te faltó una palabra?
+Nop.
+
+
+> ¿Escribís ficción y la considerás un arte?
+Si escribi ficcion, y como especie dentro de la literaratura (que es un arte)
+logicamente tambien la considero un arte.
+
+
+> ¿quisiste conjugar el verbo mear?
+No... Algun otro paronimo que venga a tu mente?
+
+
+> No entendí.
+arte, del verbo artar. "arté" si estas leyendo este mensaje en la tabla de
+caracteres ISO-8859-1, cosa bastante probable por cierto.
+
+
+
+> GM> Quiero leer lo que los otros piensan, ok?
+> En este preciso instante, pensaba en que no tengo albahaca para los
+> fideos al pesto, pero no creo que te interese.
+
+Nononono. Tiene que ser una opinion. Tenes que tratar de convencerme de lo
+c00l de tu punto de vista.
+Por ejemplo: es mejor el perejil o la albahaca en la preparacion del pesto?
+Escribilo en forma de ensayo y lo leo.
+
+Veo venir tu respuesta: "es imposible preparar pesto con perejil, porque el
+pesto se prepara con albahaca, bla-bla-bla, no soy comunista, bla-bla-bla".
+O me equivoco?
+
+
+-- 
+Groucho
+
+
+
+

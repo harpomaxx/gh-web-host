@@ -1,0 +1,98 @@
+From elbeneficio_deladuda@...  Sat Jul 11 23:23:58 2020
+Return-Path: <elbeneficio_deladuda@...>
+X-Sender: elbeneficio_deladuda@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 62681 invoked from network); 18 Sep 2003 00:39:14 -0000
+Received: from unknown (66.218.66.216)
+  by m17.grp.scd.yahoo.com with QMQP; 18 Sep 2003 00:39:14 -0000
+Received: from unknown (HELO n8.grp.scd.yahoo.com) (66.218.66.92)
+  by mta1.grp.scd.yahoo.com with SMTP; 18 Sep 2003 00:39:14 -0000
+Received: from [66.218.66.146] by n8.grp.scd.yahoo.com with NNFMP; 18 Sep 2003 00:39:10 -0000
+Date: Thu, 18 Sep 2003 00:39:07 -0000
+To: mendonet-l@...
+Subject: =?iso-8859-1?q?Virusiento,_que_guacala?=
+Message-ID: <bkaurb+jb4m@...>
+In-Reply-To: <13861.030917@...>
+User-Agent: eGroups-EW/0.82
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 2101
+X-Mailer: Yahoo Groups Message Poster
+From: "Bene" <elbeneficio_deladuda@...>
+X-Originating-IP: 200.40.84.10
+X-Yahoo-Group-Post: member; u=156748049
+X-Yahoo-Profile: elbeneficio_deladuda
+
+--- En mendonet-l@..., Sebas <xebax@s...> escribio:
+> Inge=
+nuo como soy, cai redondito.
+> Me llego un mail a mi cuenta de punkass =
+diciendo que la cuenta
+> expiraria, y que por favor leyera el archivo adj=
+unto. Este archivo
+> esta zipeado, lo abri y tenia un archivo .html, qu=
+e tambien abri. Se
+> abrio explorer y divise de reojo un cartelito =
+en el angulo inferior
+> izquierdo que decia "loading foo.exe" lo que me=
+ sono a virus, motivo
+> por el cual rapidamente reinicie la maquina=
+(probablemente haya sido 
+un
+> error, pero en mi ignorancia fue el unico =
+reflejo que se me desperto
+> para interrumpir la ejecucion del virus en=
+ cuestion). Tras reiniciar
+> busque en internet, y resulto ser un vir=
+us, baje un antidoto de
+> symantec y lo ejecute, dando como resultado=
+ la "limpieza" de 4
+> archivos.
+> Mis preguntas son:- si me vuelve a ocurri=
+r que advierto un virus
+> ejecutandose... =BFque hago?
+> - =BFque da=
+ño podria haber provocado? Por lo que lei parecia un virus
+> inocen=
+te, pero tras ejecutar el antidoto, segui trabajando en la
+> computador=
+a y esta se reinicio, creo yo que espontaneamente, o sea, 
+si
+> apret=
+e algo no lo note, pero es una posibilidad.
+> 
+> 
+> -- 
+>  Sebas  
+>  Y=
+o diria que nos pusieramos todos contentos sin preguntar por que. 
+Mi=
+guelito
+
+Me tienen harrrrrta los viruses. Las pcs del cyber se infectan cad=
+a 
+dos por tres, pero hace un par de dias me infecte yo e infecte a 
+=
+todos mis contactos, ademas estaba muy bien hecho, porque parecia 
+cre=
+ible, quiero decir, todo el mundo entro como un caballo, en fin... 
+som=
+os todos unos macaquitos de torta de boda...hay que pensar en 
+positivo, lo=
+s virus les dan de comer a las empresas antivirus... ni 
+no se quedarian =
+un monton de familias en la calle. Es una cuestion 
+social de los solid=
+arios pendejos enfermos que se ponen a hacer virus 
+en ves de salir a andar=
+ en bicicleta. 
+
+Que pena contigo, Sebas. No abras mas adjuntos sin pasar=
+le un 
+antivirus, y si lo vas a hacer, anda a un cyber, que para eso estamo=
+s.
+
+
+
+

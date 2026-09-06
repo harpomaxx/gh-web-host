@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_2); 5 Dec 2001 16:16:25 -0000
+Received: (qmail 48403 invoked from network); 5 Dec 2001 16:16:25 -0000
+Received: from unknown (216.115.97.172)
+  by m9.grp.snv.yahoo.com with QMQP; 5 Dec 2001 16:16:25 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2.grp.snv.yahoo.com with SMTP; 5 Dec 2001 16:16:26 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id NAA02792
+	for <mendonet-l@...>; Wed, 5 Dec 2001 13:22:08 +0300 (GMT)
+Message-ID: <011f01c17da9$64f04ee0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20011203190642.D11472@...>            <5966.011203@...>            <00bd01c17ce0$6990cb60$060aa8c0@...> <20011205130341.13989.qmail@...>
+Subject: Re: Re[2]: Roxette
+Date: Wed, 5 Dec 2001 13:24:34 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> Groucho Marx writes:
+> > > Ok... quiero una lista de acciones que me hagan excomulgar pero no me
+> > > metan preso.
+>
+> > Apostatia.
+
+> Me podrías explicar que es apostatia ?!, ya que ni en el diccionario de la
+> Real Academia Española (www.rae.es) aparece el término.
+
+Ser un falso apostol.
+
+--
+Groucho
+
+

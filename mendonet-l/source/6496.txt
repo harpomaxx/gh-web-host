@@ -1,0 +1,27 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 19 Dec 2000 15:14:09 -0000
+Received: (qmail 64756 invoked from network); 19 Dec 2000 15:13:08 -0000
+Received: from unknown (10.1.10.142) by l8.egroups.com with QMQP; 19 Dec 2000 15:13:08 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta3 with SMTP; 19 Dec 2000 16:14:13 -0000
+Received: (qmail 22017 invoked by uid 722); 19 Dec 2000 15:12:56 -0000
+Date: 19 Dec 2000 15:12:56 -0000
+Message-ID: <20001219151256.22012.qmail@...>
+To: mendonet-l@egroups.com
+Subject: lo libro
+From: fcanizo@...
+
+El 07/12/00, Groucho Marx le susurraba a fcanizo@...:
+ 
+ GM>fuea>  Tenés los libros de perl que se encuentran en el sitio ruso?
+ GM>
+ GM>Si, los tengo. Y quiero mas.
+ 
+ Muy pronto en sus hogares: "Compilaito del libro, by conan".
+ 200 megas de información explosiva!
+ 
+ 
+
+

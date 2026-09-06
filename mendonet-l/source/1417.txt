@@ -1,0 +1,71 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 29 Apr 2002 16:57:01 -0000
+Received: (qmail 75783 invoked from network); 29 Apr 2002 16:57:00 -0000
+Received: from unknown (66.218.66.218)
+  by m5.grp.scd.yahoo.com with QMQP; 29 Apr 2002 16:57:00 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta3.grp.scd.yahoo.com with SMTP; 29 Apr 2002 16:57:00 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp5 (8.9.3/8.9.3) with SMTP id NAA22587
+	for <mendonet-l@...>; Mon, 29 Apr 2002 13:46:27 +0300 (GMT)
+Message-ID: <004e01c1ef9f$943dc840$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20020427150144.GA6730@...> <18492.020429@...>
+Subject: Re: Un fernet para Fermat, por lo grosso.
+Date: Mon, 29 Apr 2002 14:01:59 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> >> si en el futuro se le encuentra alguna aplicacion util y beneficiosa,
+> >> bienvenida sea, a mi me gustan mas los teoremas, que son demostrables,
+> >> y por lo tanto mas cercanos a ser aplicables.
+> GM> Bullshit. Decime que hace mas aplicable el ultimo teorema de Fermat
+> GM> (demostrado hace pocos años)
+
+> Che... la demostración de dicho teorema... ¿es muy compleja para
+> alguien con conocimientos básicos de matemáticas como yo?
+
+La demostracion es compleja incluso para alguien con conocimientos medios de
+matematica como yo...
+
+
+> Porque, si
+> mal no recuerdo, el teorema de fermat decía algo así como que
+> pitágoras sólo se cumplía con números enteros para exponenete 2 pero
+> no podía cumplirse para otros exponentes...¿era así?
+
+Si. Solo que "pitagoras" es para exponente 2. Si cambias el exponente de 2 a
+cualquier otra cosa, ya no es mas "pitagoras".
+
+
+> O sea, que a al
+> cuadrado más b al cuadrado puede ser igual a c al cuadrado, pero que a
+> a la x(siendo x mayor que dos) más b a la x no podía ser igua a c a la
+> x, siendo a, b y c n�meo enteros.... ¿era eso?
+
+Tal cual.
+
+> Y si era eso(porque
+> capaz que estoy meando fuera del tarro)... ¿podrá entender la
+> demostración o requiere de conociminetos matemáticos de los que
+> carezco?
+
+Depende... Tenes conocimientos de morfismos, y espacios no euclidianos?
+
+
+--
+Herr Grouchox
+
+
+

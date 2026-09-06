@@ -1,0 +1,88 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 28 Jul 2002 04:48:45 -0000
+Received: (qmail 85146 invoked from network); 28 Jul 2002 04:48:45 -0000
+Received: from unknown (66.218.66.217)
+  by m10.grp.scd.yahoo.com with QMQP; 28 Jul 2002 04:48:45 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 28 Jul 2002 04:48:44 -0000
+Received: (qmail 20318 invoked by uid 417); 28 Jul 2002 04:48:44 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 28 Jul 2002 04:48:44 -0000
+Received: from SERVIDOR ([200.61.141.184])
+  by softhome.net with esmtp; Sat, 27 Jul 2002 22:48:42 -0600
+Date: Sat, 27 Jul 2002 17:36:55 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <9733.020727@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?TGEgcHJlZ3VudGEgY2FiZTogv3BhcmEgY3XhbmRvIGVsIGNhY2Vyb2xh?= =?ISO-8859-1?B?em8gZW4gV2FsbCBTdHJlZXQ/?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: rodralez <rodralez@...>
+Reply-To: rodralez <rodralez@...>
+X-Yahoo-Group-Post: member; u=3415981
+X-Yahoo-Profile: rodralez
+
+
+Si los ahorristas, inversores y contribuyentes a fondos de pensión de Estados Unidos fueran la
+mitad de combativos que sus contrapartes argentinos, la �city� neoyorquina ya debería haber
+sido tomada por asalto hace varias semanas.
+
+Es que, comparado con lo sucedido con los balances de algunas de las principales corporaciones
+estadounidenses, el �corralito� y el �corral�n� son medidas casi benéficas para los ahorros de
+la gente común. Hoy los depositantes argentinos podrían recuperar hasta 35% de sus ahorros;
+un estadounidense que hubiera comprado acciones �premium� como WorldCom, apenas 0,014%.
+Y ni hablar de las pérdidas que sufrirán los futuros jubilados de ese país, cuyos depósitos
+en fondos de pensión sufrirán enormes quitas por este colapso. 
+
+Veamos:
+
+. en la Argentina el �corralito� fue un acto de gobierno, que no pudo ser previsto ni por los
+  ahorristas ni por los depositarios de los fondos (los bancos), sino hasta el último momento,
+  cuando ya era tarde para todo;
+. en Estados Unidos, la gente concurrió a sus corredores de Bolsa o aportó a sus fondos de
+  pensión convencida de que empresas como Enron, WorldCom, Merck, Xerox o AOL Time Warner
+  tenían una sólida posición, y de que sus ganancias eran efectivamente las que reflejaban
+  sus balances -auditados por una consultora �seria� como Arthur Andersen-. Además, al gobierno
+  del que O'Neill forma parte ya se lo acusa de haber hecho poco para defender a esos
+  carpinteros y plomeros por cuyos ahorros dicho funcionario se mostraba preocupado.
+
+En resumen: lo de la Argentina fue una medida tomada por dos gobiernos (De la Rúa y Duhalde);
+lo de Estados Unidos, una defraudación en cadena cometida por empresas a las que la gente
+común le confió sus ahorros sobre la base de datos falsos. Que, además, arrastró al resto
+de las empresas, aun las que tienen sus libros en orden.
+
+. Paradigma
+
+El caso del (ex) gigante de las telecomunicaciones WorldCom es paradigmático. Sus acciones
+valían u$s 64 hace un par de años; un carpintero de Duluth, Minnessotta, que hubiera invertido
+u$s 64.000 de sus ahorros en esos papeles comprando 1.000 acciones, hoy tendría exactamente
+u$s 90, porque el viernes WorldCom cerró en Wall St. a u$s 0,09. 
+
+En contraste, si un ahorrista argentino hubiera tenido u$s 64.000 depositados en un banco
+local, hoy estaría muchísimo mejor que su contraparte estadounidense. De haber optado por el
+BODEN (el bonocanje), podría venderlo a su cotización actual y recibiría u$s 22.400; en caso
+de esperar su vencimiento, recuperaría el total de su ahorro (más intereses) dentro de 10
+años. Si hubiera elegido quedarse con su depósito reprogramado (CEDRO), contaría con
+�te�ricos� u$s 31.175 (sus dólares a $ 1,40 más el CER hasta la fecha). Pero, aun si hubiese
+optado antes por vender su plazo fijo, habría obtenido en esa transacción unos u$s 19.600
+(pesificados a 1,40). 
+
+¿EL PROXIMO CACEROLAZO?
+
+- Los plomeros y carpinteros de Estados Unidos tienen más razones que los ahorristas
+  argentinos para hacer sonar sus cacerolas en Wall Street: balances �trechos� les han
+  hecho perder mucho más que a los depositantes atrapados en el �corralito�.
+
+- El valor total de las empresas estadounidenses que cotizan en Bolsa era en marzo de 2002
+  de u$s 15.000 billones (millones de millones); antes del desplome de Wall St. del
+  viernes, ese valor había descendido a u$s 8.000 billones.
+
+                                                                       Por Sergio Dattilo
+
+
+

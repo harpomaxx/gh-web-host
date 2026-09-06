@@ -1,0 +1,40 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2_1); 6 Sep 2001 07:03:55 -0000
+Received: (qmail 12685 invoked from network); 6 Sep 2001 07:03:55 -0000
+Received: from unknown (10.1.10.142)
+  by l9.egroups.com with QMQP; 6 Sep 2001 07:03:55 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.102)
+  by mta3 with SMTP; 6 Sep 2001 07:03:52 -0000
+Received: (qmail 1295 invoked by uid 1005); 6 Sep 2001 00:38:18 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.337069 secs); 05/09/2001 21:38:16
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 6 Sep 2001 00:38:15 -0000
+Date: Wed, 5 Sep 2001 21:38:15 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <3B954A79.28566.3CE724@localhost>
+In-Reply-To: <3B954A79.28566.3CE724@localhost>
+Subject: Re: me olvidaba...
+MIME-Version: 1.0
+Message-Id: <01090521381504.00372@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 04 Sep 2001 21:41, escribiste:
+
+
+> Antes que nada me presento para los que no me conocen. Soy
+> Mariano Liceaga, tengo 22 años, estoy en 5to año de ingeniería en
+> informática en la universidad de mendoza, me gusta escuchar y
+> hacer música, etc pero no quiero aburrirlos.
+
+Liciboy, ya estas en 5to?
+
+-- 
+Groucho Marx
+

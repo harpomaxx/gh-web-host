@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_2_0); 3 Jul 2001 06:32:19 -0000
+Received: (qmail 67954 invoked from network); 3 Jul 2001 06:32:18 -0000
+Received: from unknown (10.1.10.26) by l10.egroups.com with QMQP; 3 Jul 2001 06:32:18 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.83) by mta1 with SMTP; 3 Jul 2001 06:32:17 -0000
+Received: (qmail 3362 invoked by uid 1005); 3 Jul 2001 01:01:05 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.264882 secs); 02/07/2001 22:01:04
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3) by torton.micasa with SMTP; 3 Jul 2001 01:01:02 -0000
+Date: Mon, 2 Jul 2001 22:01:28 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain; charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <1602787305.20010701151545@...> <5397.010702@...>
+In-Reply-To: <5397.010702@...>
+Subject: Re: hipocentro e epicentro
+MIME-Version: 1.0
+Message-Id: <01070222012802.00291@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 02 Jul 2001 09:32, escribiste:
+
+> O manejás una terminología que me es ajena o estás tratando de decir
+> epicentro cuando decís hipocentro. Y no es que la magnitud cambie
+> según la persona, sino según la escala, de Mercalli o de Richter....
+> bah, al fin y al cabo, esos eran personas.
+
+
+hipocentro: lugar dentro de la tierra donde se originan las ondas 
+sismicas
+epicentro: lugar en la superficie de la tierra justo en la vertical del 
+hipocentro.
+
+Si el hipocentro esta a 12 km, significa que esta enterrado 12 km abajo 
+del epicentro.
+
+Regla mnemonica: hipo=debajo epi=por encima
+
+-- 
+Groucho Marx
+

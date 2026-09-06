@@ -1,0 +1,85 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 15 Dec 2000 14:48:37 -0000
+Received: (qmail 10613 invoked from network); 15 Dec 2000 14:48:34 -0000
+Received: from unknown (10.1.10.27) by l8.egroups.com with QMQP; 15 Dec 2000 14:48:34 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (204.144.231.7) by mta2 with SMTP; 15 Dec 2000 14:48:34 -0000
+Received: (qmail 31306 invoked by uid 417); 15 Dec 2000 14:39:25 -0000
+Message-ID: <20001215143925.31305.qmail@...>
+To: mendonet-l@egroups.com
+Subject: Internet es una torta.
+Date: Fri, 15 Dec 2000 14:39:24 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+X-Sender: rodralez@...
+From: rodralez@...
+
+
+¿Qué tienen en común la radio, el teléfono y la TV? Son medios
+tradicionales y, desde cualquier punto de vista, todos son menos atractivos
+y flexibles que Internet (que, de hecho, empieza a englobarlos). Pero, a
+diferencia de la red, hace tiempo que los tres funcionan como y cuando se
+supone que deben funcionar: bien y casi siempre. 
+
+¿Qué pasaría si una o dos veces por día levantáramos el teléfono y no
+tuviera tono? ¿Y si encendiéramos la radio, sintonizáramos nuestra
+frecuencia favorita y tuviéramos que esperar 5, 10, o tal vez 30 segundos
+hasta que se escuchara algún sonido? ¿No sería inaceptable tener que
+"resetear" el televisor cada dos por tres? Los consumidores simplemente no
+soportarían nada de esto. ¿O sí? Es un hecho que la calificación que muchos
+millones de personas le darían hoy al funcionamiento de Internet es muy
+inferior a la que asignarían otras tecnologías más antiguas. Está
+comprobado que, cuanto más viejas son las tecnologías, más confiables
+resultan. Una razón obvia, por supuesto, es que tienen más tiempo de vida
+y, durante ese tiempo, han ido resolviendo sus problemas. Pero eso no quita
+que, en la ruta de la credibilidad, Internet todavía tenga pendiente
+recorrer un largo camino para recién luego aspirar a convertirse en un
+medio masivo. Y de más está decir que no será un camino fácil, porque la
+web depende de una combinación de sistemas técnicos mucho más compleja que
+cualquier otro medio de comunicación. 
+
+En primer lugar aparece el que, tal vez, sea el mayor problema de Internet:
+su origen. La red fue diseñada, básicamente, para poder sobrevivir a un
+ataque nuclear y, por eso, la información digital circula en paquetes que,
+muchas veces, suelen tomar senderos diferentes -y a veces inexplicables-
+para llegar a destino. Esa es una de las razones por las cuales, a veces,
+Yahoo, por ejemplo, aparece en un abrir y cerrar de ojos y, otras, llega a
+nuestras pantallas gateando. Pero, según los expertos, no es mucho lo que
+se puede hacer, al menos por el momento, en este terreno; razón por la cual
+habría que concentrarse y trabajar sobre las areas en las que sí se puede
+avanzar. 
+
+Por un lado, está el tema del software de las PC. El sistema operativo
+Windows, que habita en el corazón de la mayoría de las computadoras
+personales, es el respondable de una buena parte del "Problema:
+confiabilidad". Aún si Microsoft mejorara su producto, los sistemas
+operativos para PC son, por naturaleza, más frágiles que los sistemas
+operativos de, por ejemplo, la red telefónica, porque tienen que manejar
+una variedad de tareas mucho mayor e interactuar con otros tipos de
+programación. Esa complejidad inherente al software de PC parecía ser una
+de las razones por las que Microsoft compró WebTV: utiliza un software
+menos proclive a los problermas. En términos ideales, el próximo paso sería
+sumar al Eeb TV la confiabilidad de los dispositivos de videojuegos a las
+PC. 
+
+Pero antes habrá que resolver otros temas más urgentes como el obstáculo
+que representa el funcionamiento de las redes de acceso. La mayoría de los
+usuarios hogareños siguen conectándose a Internet a través de un agujerito
+mínimo (el módem análogo) y los datos se escurren por esa mirilla con una
+lentitud tal que colocan a Internet muy pero muy lejos de los estándares de
+confiabilidad y velocidad deseados. La disponibilidad de mecanismos más
+veloces y de banda ancha -como el cable módem y las líneas telefónicas DSL-
+es cada vez mayor y eso podría ayudar a resolver el problema del agujerito
+o mirilla. O, al menos, seguiría pateándolo para adelante. Porque, hoy, a
+los ojos de cientos de millones de peronas, Internet el medio más
+atractivo, pero su funcionamiento todavía no es para nada confiable. Por
+simple que parezca, lograr verdaderos saltos de calidad en el software y el
+acceso es el verdadero desafío que debería concentrar los esfuerzos de
+ingenieros y capitalistas. 
+
+� The New York Times y Clarín 2.000 
+ 
+

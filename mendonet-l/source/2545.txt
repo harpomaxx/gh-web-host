@@ -1,0 +1,63 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 28 Nov 2001 17:15:24 -0000
+Received: (qmail 14502 invoked from network); 28 Nov 2001 17:15:21 -0000
+Received: from unknown (216.115.97.172)
+  by m10.grp.snv.yahoo.com with QMQP; 28 Nov 2001 17:15:21 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2.grp.snv.yahoo.com with SMTP; 28 Nov 2001 17:15:23 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id OAA04759
+	for <mendonet-l@...>; Wed, 28 Nov 2001 14:21:10 +0300 (GMT)
+Message-ID: <01cb01c17831$5db295c0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20011124175346.J6543@...> <0471.011126@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B2=5D:_Siguen_las_preguntas_informaticas...?=
+Date: Wed, 28 Nov 2001 14:23:15 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+
+> >> Acaso  ese  jabber  tiene un código abierto que vos ya has chequeado y
+> >> que es más seguro a la hora de cuidar mi información?
+> >> dime dime...
+>
+> GM> No lo he chequeado, y realmente no hace falta: el solo hecho de que el
+codigo este
+> GM> ahi y que cualquiera pueda revisarlo si se lo propone, es motivo
+suficiente
+> GM> para que el autor no haga cochinadas. Se juega su reputacion en ello,
+> GM> y cuando haces programas de software libre, la reputacion es lo mas
+> GM> importante.
+>
+> este...  y  quién  es  el  autor de ese programejo...? porque si es un
+> anónimo, le chuparé un reberendo huevo su reputación...
+>
+> Además,  como  decía  antes:  cualquiera  podría  modofocar  el código
+> malevolamente  a  su voluntad... y si vos no lo has chequeado... quién
+> sabe  lo  que  podría  estarte  haciedo  la  versión de jabber que vos
+> tengas... je je...
+
+Yo no seria tan idiota de bajarme el codigo fuente que cualquier infeliz
+ofrece por
+ahi. Solo bajaria el codigo fuente del autor.
+Si el codigo fuente anda mal o hace cosas malignas, al dia siguiente escribo
+en la
+lista de correo del LUGMen,  a ver si a los otros les paso lo mismo.
+Si no soy el unico, escribimos en la lista de correo dedicada a Jabber.
+Al dia siguiente al autor de Jabber se le terminaron todas las oportunidades
+de
+ganarse la vida escribiendo software.
+
+--
+Groucho
+
+

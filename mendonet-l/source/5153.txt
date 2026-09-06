@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_1); 12 Sep 2001 21:04:25 -0000
+Received: (qmail 45401 invoked from network); 12 Sep 2001 21:04:12 -0000
+Received: from unknown (10.1.10.27)
+  by l7.egroups.com with QMQP; 12 Sep 2001 21:04:12 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.29)
+  by mta2 with SMTP; 12 Sep 2001 21:04:11 -0000
+Received: (qmail 3678 invoked by uid 1005); 12 Sep 2001 18:07:49 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.216146 secs); 12/09/2001 15:07:48
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 12 Sep 2001 18:07:47 -0000
+Date: Wed, 12 Sep 2001 15:07:46 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <1000021871.1173.64675.l10@...> <000301c13b30$2982ee00$c6e60dd1@LocalHost> <20010911222644.A1603@...>
+In-Reply-To: <20010911222644.A1603@...>
+Subject: Re: Cad del orrrto..... petroleo del orto
+MIME-Version: 1.0
+Message-Id: <01091215074601.00455@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 11 Sep 2001 22:26, escribiste:
+
+> > Me cago en todos los forros de mierda que usan cuanto programa
+> > nuevo sale, la puta madre que los remilpario son todos unos
+> > bufarras de mierda. Yo estaba tan contento con mi Autocad14 era
+> > feliz mi maquina se la bancaba tranquilo pero por culpa de todos
+> > los mal paridos que se vanaglorian diciendo tengo el Autocad2000 y
+> > trabajan en el mismo me he visto en la necesidad de instalar esa
+> > poronga y veo que el rendimiento ya no es el mismo!!! Solo estaba
+> > envenenado y puteando solo aca ....y que???? MIERDA MIERDA MIERDA
+> > SE ARMOOOOO LA PODRIDA LE CAYERON AL  TIO SAM!!!! ALGO VA A
+> > PASAR!!!! LA PUTA MADRE SE ARRMAAAAA ����CON PAPA YANQUI
+> > NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!Sorry pero acabo de
+> > ver como le estan cayendo avioncitos sobre EEUU!!! Disculpen la
+> > emocion!!! A todo esto me sigo cagando con los putos que usan
+> > Autocad2000.
+>
+> Eso pasa por ser fanaticos del consumo, hay que tratar de ser
+> pragmaticos y tratar de evitar esto hasta que no sea totalmente
+> necesario.
+
+Es verdad. Yo hubiera esperado a que saliera por lo menos el Boeing 797 
+antes de intentar un atentado como este, y hubiera usado una version 
+mas vieja de avion. Hay que resistirse al consumismo!
+
+Pregunto: que mierda tiene que ver el precio del petroleo con todo esto?
+
+-- 
+Groucho Marx
+

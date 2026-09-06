@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:22 -0000
+Received: (qmail 32167 invoked from network); 19 Sep 2001 07:05:22 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.220 with QMQP; 19 Sep 2001 07:05:22 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta1 with SMTP; 19 Sep 2001 07:05:29 -0000
+Received: (qmail 8907 invoked by uid 1005); 18 Sep 2001 18:56:13 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.164008 secs); 18/09/2001 15:56:12
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 18:56:11 -0000
+Date: Tue, 18 Sep 2001 15:56:10 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <1151.010914@...> <17637.010915@...>
+In-Reply-To: <17637.010915@...>
+Subject: Re: Commodity
+MIME-Version: 1.0
+Message-Id: <01091815561009.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Sáb 15 Sep 2001 15:18, escribiste:
+
+> Son productos que se comercializan mundial y masivamente, son
+>  productos no diferenciados, eso es, no tienen marca ni
+> vienen en distintos modelos ni con publicidad particular, se venden a
+> granel, gralmente por kilo o, menos común, por volúmen, y sus precios
+> son fijados directamente en las bolsas internacionales (el "mercado"
+> que le dicen...)
+>
+> Ejemplo: trigo (granos en general), carne, minerales como bauxtita o
+> ferrita (para hacer aluminio y hierro), etc...
+>
+> Son todos, o casi todos materias primas de bajo costo, muy poco o
+> nulo valor agregado y el inicio de la cadena productiva.
+
+Algunas tecnologias tambien son commodities.
+Por ejemplo: la pila de protocolos TCP/IP: a casi nadie le interesa si 
+es el TCP/IP de Microsoft, o el de Novell o la de la Universidad de 
+Washington. Se comercializa a nivel mundial y masivamente: ahora le 
+ponene TCP/IP hasta los relojes pulsera (ver tapa de Linux Journal de 
+febrero de 2001). No vienen distintos modelos (porque serian 
+incompatibles) no tienen publicidad (salvo en ciertos circulos de 
+geeks), etc, etc
+
+Linux por su parte pretende convertir el mercado de sistemas operativos 
+en un mercado de comodities, para horror de M$.
+
+-- 
+Groucho Marx
+

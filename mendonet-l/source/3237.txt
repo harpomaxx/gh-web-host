@@ -1,0 +1,88 @@
+From HADARO@...  Sat Jul 11 23:23:58 2020
+Return-Path: <HADARO@...>
+X-Sender: HADARO@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 4 Nov 2001 00:13:18 -0000
+Received: (qmail 76140 invoked from network); 4 Nov 2001 00:13:17 -0000
+Received: from unknown (216.115.97.172)
+  by m8.grp.snv.yahoo.com with QMQP; 4 Nov 2001 00:13:17 -0000
+Received: from unknown (HELO relay02.pecom.com.ar) (200.3.110.25)
+  by mta2.grp.snv.yahoo.com with SMTP; 4 Nov 2001 00:13:12 -0000
+Received: from maipu57.pecom.com.ar (200.3.110.23 [200.3.110.23]) by relay02.pecom.com.ar with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id VHH5594D; Sat, 3 Nov 2001 21:01:38 -0300
+Received: by MAIPU57 with Internet Mail Service (5.5.2653.19)
+	id <WGWDA7W2>; Sat, 3 Nov 2001 21:11:17 -0300
+Message-ID: <D18920FC9EC7D411ACC00008C75635FA3A3D7E@PCUYO_MZA00>
+To: mendonet-l@...
+Subject: LITLE MATIRIALS PLEASE
+Date: Sat, 3 Nov 2001 13:54:23 -0300 
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C16488.30B14BA0"
+From: Adaro Humberto <HADARO@...>
+
+
+------_=_NextPart_000_01C16488.30B14BA0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C16488.30B14BA0"
+
+
+------_=_NextPart_001_01C16488.30B14BA0
+Content-Type: text/plain
+
+
+
+>  <<FELICIDADES(rfv).pps.ppt>> 
+> 
+> BUENA SUERTE!!!!!!!!!!!!!!!!!!!!1
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+
+------_=_NextPart_001_01C16488.30B14BA0
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=US-ASCII">
+<META NAME="Generator" CONTENT="MS Exchange Server version 5.5.2653.12">
+<TITLE>LITLE MATIRIALS PLEASE</TITLE>
+</HEAD>
+<BODY>
+<BR>
+<BR>
+
+<P><FONT FACE="Arial" SIZE=2 COLOR="#000000"> <<FELICIDADES(rfv).pps.ppt>> </FONT>
+</P>
+
+<P><FONT SIZE=2 FACE="Arial">BUENA SUERTE!!!!!!!!!!!!!!!!!!!!1</FONT>
+</P>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+</BODY>
+</HTML>
+------_=_NextPart_001_01C16488.30B14BA0--
+
+
+------_=_NextPart_000_01C16488.30B14BA0
+Content-Type: application/vnd.ms-powerpoint;
+	name="FELICIDADES(rfv).pps.ppt"
+Content-Disposition: attachment;
+	filename="FELICIDADES(rfv).pps.ppt"
+
+[ Attachment content not displayed ]
+------_=_NextPart_000_01C16488.30B14BA0--
+

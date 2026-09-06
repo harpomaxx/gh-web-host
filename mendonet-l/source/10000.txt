@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 7959 invoked from network); 24 Jun 2000 12:31:45 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 24 Jun 2000 12:31:45 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 24 Jun 2000 12:31:44 -0000
+Received: from 200.41.31.102 ([200.41.31.102]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id JAA04455 for <mendonet-l@egroups.com>; Sat, 24 Jun 2000 09:32:26 +0300 (GMT)
+Date: Sat, 24 Jun 2000 09:34:08 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <16398.000624@...>
+To: "fcanizo@..." <mendonet-l@egroups.com>
+Subject: Re: mailes de lupus
+In-reply-To: <20000620171249.16997.qmail@...>
+References: <20000620171249.16997.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 20/06/2000, fcanizo delirantemente mencionó:
+
+fuea> Che lupo, por qué no te ponés media pila y le dedicás por
+fuea> ejemplo todo un día a estudiar el asunto de tu mail. (tal
+fuea> vez enviando y reenviando varios paquetes). Tal vez puedas
+fuea> averiguar de una ver por todas que te ocurre. Es decir, sos
+fuea> el único, asique no tiene por qué ser softhome. Tenés que
+fuea> haber metido mal algun dedo por ahí, fijate.
+
+Un buen plan seria componer los mensajes de prueba sin usar el The
+Bat!, sino telnet.
+El telnet de Windows es una poronga, no permite redireccionamiento,
+pipes ni nada, asi que habra que probar a con otro telnet que tengo
+por ahi, o con Linux.
+
+-- 
+Groucho Marx
+Rápido como escupida de músico
+
+
+

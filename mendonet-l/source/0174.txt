@@ -1,0 +1,31 @@
+From asecas2003@...  Sat Jul 11 23:23:58 2020
+Return-Path: <asecas2003@...>
+X-Sender: asecas2003@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 23029 invoked from network); 2 Dec 2003 00:35:26 -0000
+Received: from unknown (66.218.66.216)
+  by m6.grp.scd.yahoo.com with QMQP; 2 Dec 2003 00:35:26 -0000
+Received: from unknown (HELO hotmail.com) (64.4.37.93)
+  by mta1.grp.scd.yahoo.com with SMTP; 2 Dec 2003 00:35:26 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 1 Dec 2003 16:35:26 -0800
+Received: from 200.80.53.44 by by10fd.bay10.hotmail.msn.com with HTTP;
+	Tue, 02 Dec 2003 00:35:25 GMT
+X-Originating-Email: [asecas2003@...]
+X-Sender: asecas2003@...
+To: mendonet-l@...
+Bcc: 
+Subject:  NOTICIA ENVIADA POR samurai siguiendo la huella de vigo
+Date: Mon, 01 Dec 2003 21:35:25 -0300
+Mime-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Message-ID: <BAY10-F93vKRNZSPGNk00000a3c@...>
+X-OriginalArrivalTime: 02 Dec 2003 00:35:26.0506 (UTC) FILETIME=[2E0C90A0:01C3B86C]
+X-eGroups-Remote-IP: 64.4.37.93
+From: "Samurai ASecas" <asecas2003@...>
+X-Originating-IP: [200.80.53.44]
+X-Yahoo-Group-Post: member; u=141741680
+X-Yahoo-Profile: asecas2004
+
+<html><div style='background-color:'><DIV></DIV></div><br clear=all><hr>Nuevo MSN Messenger <a href="http://g.msn.com/8HMAESAR/2740??PS=">Una forma rápida y divertida de enviar mensajes</a> </html>
+

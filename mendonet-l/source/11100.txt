@@ -1,0 +1,32 @@
+From joanini@...  Sat Jul 11 23:23:58 2020
+Return-Path: <joanini@...>
+Received: (qmail 14980 invoked from network); 3 May 2000 19:08:09 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 3 May 2000 19:08:09 -0000
+Received: from unknown (HELO qg.egroups.com) (10.1.2.27) by mta1 with SMTP; 3 May 2000 19:08:09 -0000
+Received: (qmail 29406 invoked from network); 3 May 2000 19:08:09 -0000
+Received: from web1802.mail.yahoo.com (128.11.23.45) by qg.egroups.com with SMTP; 3 May 2000 19:08:09 -0000
+Received: (qmail 8316 invoked by uid 60001); 3 May 2000 19:08:09 -0000
+Message-ID: <20000503190809.8315.qmail@...>
+Received: from [206.49.198.129] by web1802.mail.yahoo.com; Wed, 03 May 2000 21:08:09 CEST
+Date: Wed, 3 May 2000 21:08:09 +0200 (CEST)
+Subject: Re: Re[2]: VOY A SER MAMA! (otra vez)
+To: mendonet-l@egroups.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="0-846930886-957380889=:7756"
+Content-Transfer-Encoding: 8bit
+From: =?iso-8859-1?q?Johanna=20Kassardjian?= <joanini@...>
+
+
+--0-846930886-957380889=:7756
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+
+[ Attachment content not displayed ]
+--0-846930886-957380889=:7756
+Content-Type: image/pjpeg; name="mibebe2.JPG"
+Content-Description: mibebe2.JPG
+Content-Disposition: inline; filename="mibebe2.JPG"
+
+[ Attachment content not displayed ]
+--0-846930886-957380889=:7756--
+

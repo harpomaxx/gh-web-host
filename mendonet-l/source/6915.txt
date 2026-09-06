@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 04:35:05 -0000
+Received: (qmail 9477 invoked from network); 15 Nov 2000 04:35:05 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 15 Nov 2000 04:35:05 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 15 Nov 2000 05:36:09 -0000
+Received: from antro.micasa ([200.41.31.114]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA05789 for <mendonet-l@egroups.com>; Wed, 15 Nov 2000 01:38:18 +0300 (GMT)
+Date: Wed, 15 Nov 2000 00:46:54 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1332.001115@...>
+To: "fcanizo@..." <mendonet-l@egroups.com>
+Subject: Re[2]: lcb?
+In-reply-To: <20001114111120.2914.qmail@...>
+References: <20001114111120.2914.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 14/11/2000, fcanizo@... delirantemente puteó:
+
+fuea>  Ups... Si no e mucho pedir, me la enviarías como jpg o gif?
+fuea>  No sé con qué diablos ver eso que me mandaste. Plis.
+ 
+fuea>  M>...(después no se quejen de los attachments)
+ 
+fuea>  Bueno, si se quisieran quejar, estarían en todo su derecho.
+fuea>  Lo que tendrías que haber hecho es habérmela mandado sólo a
+fuea>  mi, para no "joder" a los demás.
+ 
+fuea>  - Conan, contribuyendo a tu educación.
+
+A mi no me molesto... Fue un archivo pequeño y formaba parte de la
+conversacion colectiva. Es como si yo hubiera mandado solo a Sebas la
+explicacion de PGP.
+
+Tal vez a vos no te interesaba porque ya sabias que era PGP, pero
+igual no te quejaste.
+
+-- 
+Groucho Marx
+I was not told to do this -- Bart Simpson
+
+
+

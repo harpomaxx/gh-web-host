@@ -1,0 +1,55 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 13 Dec 2002 12:32:16 -0000
+Received: (qmail 27156 invoked from network); 13 Dec 2002 12:32:16 -0000
+Received: from unknown (66.218.66.216)
+  by m15.grp.scd.yahoo.com with QMQP; 13 Dec 2002 12:32:16 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta1.grp.scd.yahoo.com with SMTP; 13 Dec 2002 12:32:15 -0000
+Received: (qmail 1940 invoked by uid 404); 13 Dec 2002 12:31:14 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar with qmail-scanner-1.01 (uvscan: v4.1.60/v4237. . Clean. Processed in 0.400277 secs); 13 Dec 2002 12:31:14 -0000
+X-Qmail-Scanner-Mail-From: cgimenez@... via multivac.xnetcuyo.com.ar
+X-Qmail-Scanner: 1.01 (Clean. Processed in 0.400277 secs)
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 13 Dec 2002 12:31:13 -0000
+Date: Fri, 13 Dec 2002 09:31:13 -0300
+To: mendonet-l@...
+Subject: Re: piensa??
+Message-Id: <20021213093113.0fd34b50.cgimenez@...>
+In-Reply-To: <courier.3DF9D0C3.00002721@...>
+References: <3DF35C72.7070103@...>
+	<6516267611.20021212012356@...>
+	<courier.3DF87900.00000142@...>
+	<295683071.20021212145820@...>
+	<courier.3DF9D0C3.00002721@...>
+Organization: XNetCuyo S.A.
+X-Mailer: Sylpheed version 0.8.6 (GTK+ 1.2.10; i386-debian-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+On Fri, 13 Dec 2002 05:21:23 -0700
+marc.mz@... wrote:
+
+> si sos realmente el hermano de Cabeza, ya no tiene caso discutir las 
+> deducciones del test, en realidad puse palabras claves para hacer que Sebas 
+> y Kastor saltaran con su perorata clasica. 
+> 
+
+marce.. en el fondo se q te gusta el color rojo.
+
+
+-- 
+
+Cristian Gimenez
+
+cgimenez@...
+XNet Cuyo S.A.
+Departamento de Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-261-4252788
+

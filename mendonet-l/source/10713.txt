@@ -1,0 +1,47 @@
+From sebas11@...  Sat Jul 11 23:23:58 2020
+Return-Path: <sebas11@...>
+Received: (qmail 8635 invoked from network); 20 May 2000 00:07:28 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 20 May 2000 00:07:28 -0000
+Received: from unknown (HELO postino4.prima.com.ar) (200.42.0.162) by mta3 with SMTP; 20 May 2000 00:07:27 -0000
+Received: from tepes (ip200042129204.lanet.com.ar [200.42.129.204]) by postino4.prima.com.ar (8.9.3/8.9.1) with SMTP id VAA36473 for <mendonet-l@egroups.com>; Fri, 19 May 2000 21:07:22 -0300 (ART)
+Message-ID: <005601bfc1ef$286adde0$cc812ac8@tepes>
+To: <mendonet-l@egroups.com>
+References: <1642.000514@...> <14994.000517@...>
+Subject: RE: Re[3]: La obligacion de crecer!(SHIT)
+Date: Fri, 19 May 2000 20:53:55 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: "Sebas" <sebas11@...>
+
+
+> Dado que la frecuencia de los pasos y de las baldosas es diferente,
+> casi nunca coincide el lugar de la baldosa donde uno pone un pie.
+> De hecho, el lugar va desplazandose lentamente a la frecuencia que
+> resulta de la diferencia entre la frecuencia de baldosas y de pasos.
+> El juego consiste en predecir el lugar de la baldosa donde caera el
+> pie, y tratar de ajustar el tamaño de los pasos a uno que sea
+> una fraccion sencilla de la frecuencia de baldosas.
+Ah! yo tengo uno parecido cuando voy al club, en la vereda del lago.
+
+> Otro juego, consiste en considerar las baldosas como un mapa de bits.
+> Al caminar por encima de una baldosa, ese bit se enciende. Se forma
+> asi un dibujo con el caracteristico dentado de las imagenes de baja
+> resolucion.
+> Es interesante aplicar el algoritmo de Bresenham para el trazado de
+> lineas o arcos de circunferencia sobre ese mapa de bits.
+> El problema es que la trayectoria que un termina describiendo queda
+> medio dentada tambien.
+Creo que sería saludable para vos alejarte un poco de las computadoras, al
+menos por un tiempito.
+
+
+
+ Sebas - Musicalmente, el clarinete es un instrumento muchísimo más rico que
+el diccionario.
+
+

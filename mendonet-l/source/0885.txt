@@ -1,0 +1,64 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 29 Jul 2002 00:30:13 -0000
+Received: (qmail 92660 invoked from network); 29 Jul 2002 00:30:13 -0000
+Received: from unknown (66.218.66.216)
+  by m6.grp.scd.yahoo.com with QMQP; 29 Jul 2002 00:30:13 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 29 Jul 2002 00:30:13 -0000
+Received: (qmail 24822 invoked by uid 417); 29 Jul 2002 00:30:12 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 29 Jul 2002 00:30:12 -0000
+Received: from SERVIDOR ([200.61.141.136])
+  by softhome.net with esmtp; Sun, 28 Jul 2002 18:30:10 -0600
+Date: Sun, 28 Jul 2002 12:41:10 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <7528.020728@...>
+To: mendonet-l@...
+Subject: Frente a la crisis, se debate en EE.UU. el futuro del capitalismo
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: rodralez <rodralez@...>
+Reply-To: rodralez <rodralez@...>
+X-Yahoo-Group-Post: member; u=3415981
+X-Yahoo-Profile: rodralez
+
+
+Sabíamos que estábamos en un casino de juegos, pero creíamos que no hacíamos trampas", dijo recientemente Bargon Biggs, del Banco Morgan Stanley. El nivel de corrupción, fraude, falta de ética e irresponsabilidad que puso al descubierto los escándalos financieros en empresas como Enron, Xerox o WorldCom ha dejado perplejo tanto al norteamericano de la calle como al propio establishment de Washington.
+
+La preocupación es tan grande que hay quienes se preguntan incluso si esto no es el principio del fin del actual modelo de acumulación capitalista. "La corrupción y el fraude destruyen el capitalismo y la libertad de mercados y, en general, las bases de nuestra sociedad", advirtió recientemente durante una audiencia en el Senado el respetado presidente de la Reserva Federal de EE.UU., Alan Greenspan.
+
+Lo que ocurre es que los escándalos financieros han golpeado uno de los pilares más importantes de la economía de mercados: la confianza en el sistema. Y la pregunta sobre cómo hacer para recuperar esa confianza genera en EE.UU. un enorme debate.
+
+Por un lado, están quienes que creen en el laissez faire, la idea de que el capitalismo se autocorrige sus errores y excesos a través del mercado. Los republicanos tienden a adherir a esta posición. En la vereda de enfrente los demócratas, en su gran mayoría, piensan que el Estado tiene que intervenir con regulaciones.
+
+El debate no es nuevo. Pero se está dando en un contexto sin precedentes. La explosión de los escándalos coincidió con el estallido del globo especulativo originado por la euforia de Internet a finales del siglo XX.
+
+Los pequeños inversionistas norteamericanos perdieron cifras sustantivas con el cierre de miles de empresas de Internet después de haber logrado valores increíbles de sus acciones en Wall Street para derrumbarse de un día al otro. Todavía no se habían recuperado de esas pérdidas, cuando explotaron los escándalos. Muchos analistas consideran que el ambiente creado por la euforia de Internet, la idea de que compañías que daban pérdidas pudiese hacer tanto dinero en la Bolsa, contribuyó a la corrupción y fraude que se observa ahora en compañías como Enron, WorldCom, Andersen Adelphi, Tyco.
+
+El capitalismo especulativo desplazó totalmente al productivo de modo tal que cuando ahora el secretario del Tesoro, Paul O''Neill, sale a decir que no hay nada que temer porque los fundamentos de la economía productiva están sólidos. Nadie le cree.
+
+Sumergido en su guerra contra el terrorismo internacional, los escándalos tomaron al presidente George Bush por sorpresa. Recién hace un par de días Bush lanzó una propuesta para recuperar una "ética de responsabilidad en el mundo de los negocios". Su plan de 10 puntos fue ampliamente superado por la ley que votó esta semana el Congreso.
+
+La ley representa uno de los cambios más significativos en la regulación del mundo de los negocios en EE.UU. Entre otras cosas prevé penas de cárcel para todo aquel ejecutivo que cometa fraude o conspire para cometer fraude; establece un nuevo organismo que se encargará de controlar a los auditores y termina con la posibilidad de que los ejecutivos puedan obtener créditos de sus propias empresas.
+
+La ley se basa en un proyecto presentado inicialmente por el senador demócrata Paul Sabarnes, que al principio no tenía siquiera los votos necesarios para ser aprobada en el Comité de Bancos del Senado. Los republicanos argumentaban que era una iniciativa muy perniciosa para las corporaciones y que caería mal en Wall Street. Pero en realidad ocurrió todo lo contrario.
+
+En un clima muy politizado debido a la proximidad de las elecciones legislativas de noviembre, esta ley fue finalmente aprobada por republicanos y demócratas. Fue necesaria una coyuntura tan especial como la que está teniendo lugar actualmente, para que los republicanos abandonaran su religión antirregulación y comenzaran a convertirse a una religión pro regulación. Así y todo nadie sabe si la ley será suficiente. En un editorial The Washington Post dijo recientemente que la ley representa uno de los cambios más significativos en el capitalismo norteamericano desde que fue creada la Securities Exchange Comision, es decir la comisión de valores norteamericana. "Pero la ley no pone fin a la batalla por las reformas post Enron", dijo el Post. Algunas de las previsiones serán eficaces si la SEC las instrumenta bien, de lo contrario no servirán para nada.
+
+El diario señaló dos temas que la ley no trata: las opciones y pensiones.
+
+Según el Post, los antirreformas se niegan a que las opciones —derechos que la empresa otorga a sus ejecutivos como premio para obtener acciones— sean registradas de la misma forma en que se anota en un balance el costo de los salarios. El objetivo, siempre de acuerdo al diario, es esconder el valor de la opciones, es decir el costo de ese beneficio.
+
+El otro problema es el de las pensiones. Muchos empleados de Enron perdieron no sólo sus trabajos sino también sus pensiones porque la compañía los persuadió para invertir sus jubilaciones en acciones de Enron y restringió la posibilidad que tenían de venderlas. Los antirreformas piensan que el mercado corregirá esto porque los empleados no volverán a invertir de esa manera sus pensiones. Pero los pro reforma exigen que el gobierno regule para proteger al empleado de las manipulaciones de la empresa que virtualmente los obliga a comprar acciones. 
+
+
+Diario Clarín
+Ana Barón. WASHINGTON. CORRESPONSAL
+
+
+

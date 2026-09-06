@@ -1,0 +1,73 @@
+From sebas11@...  Sat Jul 11 23:23:58 2020
+Return-Path: <sebas11@...>
+Received: (qmail 18726 invoked from network); 18 Jul 2000 17:15:58 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 18 Jul 2000 17:15:58 -0000
+Received: from unknown (HELO postino4.prima.com.ar) (200.42.0.162) by mta1 with SMTP; 18 Jul 2000 17:15:56 -0000
+Received: from tepes ([200.42.125.123]) by postino4.prima.com.ar (8.9.3/8.9.1) with SMTP id OAA23765 for <mendonet-l@egroups.com>; Tue, 18 Jul 2000 14:15:51 -0300 (ART)
+Message-ID: <002601bff0db$77ca1660$7b7d2ac8@tepes>
+To: <mendonet-l@egroups.com>
+References: <004301bfedbb$06cb0960$957c2ac8@tepes> <10483.000716@...>
+Subject: RE: Aguante la mala praxis
+Date: Tue, 18 Jul 2000 13:46:53 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: "Sebas" <sebas11@...>
+
+>Uno  de  los  médicos a los que ha ido Mariela, no recuerdo bien cual,
+>creo  que  un neurólogo muy conocido, tiene un programa de computadora
+>(muy  bien  valuado  por cierto), que ademas de los médilos de base de
+>datos de pacientes tiene un módulo que aepta los síntomas, los compara
+>además con la información de la ficha del paciente y tira una lista de
+>posibles  enfermedades,  ordenadas  por  orden  de probabilidad, y una
+>lista  de  posibles estudios para mejorar la certeza. Esto es sin duda
+>una  herramienta  de  recagarse!!
+Todos esos programas tienen el problema que ya mencioné: en medicina 1+1 no
+es dos. Muchas veces los mismos síntomas no son la misma enfermedad, esas
+distintas enfermedades tienen distintos tratamientos y la diferencia está en
+la historia clínica, en lo que te cuenta el paciente. Y una historia clínica
+no puede ser interpretada por un programa, al menos no hasta ahora. Por otro
+lado, del correcto interrogatorio(para lo que no sirve una computadora) y de
+la correcta historia clínica, salen la mayoría de los diagnósticos. El
+interrogatorio no está compuesto por preguntas ya determinadas, y no podría
+hacerse de esa manera. El interrogatorio es guiado por le médico y tiene que
+ser tan minucioso como investigar todas las características de un síntoma.
+Por ejemplo lo que muchos pacientes llaman vértigo, otros lo llaman mareo y
+otros lo llaman náuseas. Una computadora no puede arreglarse con el término
+aislado. Tal vez, dentro de unos años(y me animo a decir que no menos de
+cien) el médico sea un técnico que recoja información y la suministre a una
+máquina que ya ha hecho imagenología. Pero falta muchísimo, se los aseguro.
+
+> Además, imagintate que te agarra una
+>enfermedad  muy  poco común, que el médico estudió como una curiosidad
+>hace  20 años y cuya existencia olvidé completamente hace 10, que para
+>colmo   comparte  síntomas,  como  supongo  que  la  mayoria  de  las
+>enfermedades,  con otro grupo de enfermedades más comunes,
+En ese caso cada vez que se me presenta una de las enfermedades comunes, la
+computadora me va a tirar la posibilidad de la enfermedad exótica, entonces,
+en 20 años le voy a haber pedido a todos mis pacientes exámenes
+complementarios de más, cuando podría haberse dado cuenta de que la
+enfermedad exótica no era la común por la no respuesta al tratamiento. Los
+médicos de hoy siempre tienen en mente la enfermedad por más exótica que
+sea, si se parece a una común pero puede matar o invalidad al paciente, ¿se
+entiende?. Por ejemplo, sarampión y enfermedad de Kawasaki, que tienen
+signos similares. Un médico de familia, tal vez vea dos Kawasaki en toda su
+vida, y muchos sarampi�nes, pero ante cada sarampión que vea, va a pensar en
+el Kawasaki, porque puede llegar a ser mortal o incapacitante y es
+f�cilemente curable.
+
+Igual, para los que no confíen en los médicos, sepan que sí, algún día serán
+reemplazados por técnicos que meterán datos en una computadora.... pero como
+seré un técnico y no un médico, no sabré el valor de tal o cual
+característica de un signo o un síntoma, tal vez le reste importancia, la
+computadora diagnostique mal y te mate con un mal tratamiento. El error
+humano siempre va a estar presente
+
+ Sebas - Llega un momento en que aspiramos a escribir algo peor.
+
+
+

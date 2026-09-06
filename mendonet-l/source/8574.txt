@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 26842 invoked from network); 26 Aug 2000 16:35:52 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 26 Aug 2000 16:35:52 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta3 with SMTP; 26 Aug 2000 16:35:50 -0000
+Received: from 200.41.31.84 ([200.41.31.84]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA25031 for <mendonet-l@egroups.com>; Sat, 26 Aug 2000 13:37:30 +0300 (GMT)
+Date: Fri, 25 Aug 2000 08:57:23 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <5373.000825@...>
+To: Santiago Imazio <mendonet-l@egroups.com>
+Subject: Re[2]: LINEA ADSL... TOMA NOTA CHABON !
+In-reply-To: <39A5F372.9084ED8B@...>
+References: <39A5F372.9084ED8B@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 25/08/2000, Santiago angustiado inventó:
+
+>> > Todavia no tengo claro que tipo de direcciones IP te asignan y cuanta
+>> > conectividad tengo.
+>> > No me gustaria estar detras de un proxy o de un router que haga NAT
+>> > conmigo, cagandome toda posibilidad de acceder creativamente a mi
+>> > maquina desde afuera.
+>> 
+>> Creativamente...
+>> O sea que ese mentalista ojeroso todavía te está cagando la cabeza????
+>> Groucho, Despierta!!!
+>> La Telekinesis no es un protocolo compatible!!!!
+>> 
+>> Goofer mirando fijo su cuchara
+
+SI> Je!
+SI> Estuviste bien...
+
+zzz zzz zzz
+Lo que dije si tenia sentido!!! Aunque haya sonado a sanata.
+
+
+-- 
+Groucho Marx
+I am so very tired -- Bart Simpson
+
+
+

@@ -1,0 +1,136 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 24 Aug 2001 02:59:59 -0000
+Received: (qmail 55529 invoked from network); 24 Aug 2001 02:41:23 -0000
+Received: from unknown (10.1.10.26)
+  by m8.onelist.org with QMQP; 24 Aug 2001 02:41:23 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.58)
+  by mta1 with SMTP; 24 Aug 2001 02:41:20 -0000
+Received: (qmail 31280 invoked by uid 1005); 23 Aug 2001 03:52:17 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.219136 secs); 23/08/2001 00:52:16
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 23 Aug 2001 03:52:14 -0000
+Date: Thu, 23 Aug 2001 00:54:08 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <200108211734.f7LHYu601599@...> <0934.010821@...>
+In-Reply-To: <0934.010821@...>
+Subject: Re: Re[2]: =?iso-8859-1?q?=BFBuenas=3F?=
+MIME-Version: 1.0
+Message-Id: <01082300540801.00404@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 21 Ago 2001 22:25, escribiste:
+
+> >> Igual, tanta bienvenida me hace creer que si uno usa linux tiene
+> >> coronita en esta lista...
+>
+> kt> no somos nada en especial, solo estamos de acuerdo con una
+> kt> filosofia que hay detras de este gran sistema operativo. Es una
+> kt> cuestion de afinidades que uno comparte con otros usuarios que
+> tambien "creen" en esa filosofia. Yo comparto esa filosofía, pero
+> estoy imposiblitado de tener linux, y por otro lado, creo que los
+> beneficios comparativos que me traería no serían tan importantes.
+> Si alguien puede convencerme de lo contrario, adelante.
+
+Estas horas-charla para convencerte de algo nunca dan resultado, de 
+hecho ya habiamos intentado convencerte de por que el software no debe 
+tener propietario si es que queremos maximizar los beneficios para la 
+sociedad que se deriven del uso del software.
+
+Usar GNU/Linux o cualquier otra pieza de software libre te daria 
+impotantes libertades, que nada tienen que ver con la funcionalidad en 
+si del programa:
+
+Libertad 0: libertad para usar y realizar las tareas para las cuales se 
+supone que necesitabas software en primer lugar.
+Libertad 1: Libertad para copiar, ayudando a tus amigos que necesiten 
+el software.
+Libertad 2: libertad para estudiar y aprender sobre como esta hecho y 
+funciona el software, pudiendo realizar un trabajo derivado del mismo.
+Libertad 3: libertad para modificar el software y adaptarlo a tus 
+necesidades (por vos mismo o pagandole a alguien que sepa programar 
+para que lo haga).
+
+El software no libre por lo general solo te da la libertad 0, casi 
+siempre restringida a una sola computadora y una sola persona.
+
+Ademas tenes varios efectos secundarios bastante beneficiosos:
+Menor precio: dado que nadie restringe la libertad de copiar el 
+software libre, tiende a difundirse muy rapidamente y a ser mas 
+abundante que el software no libre, lo que hace que su precio sea 
+bastante mas bajo (muchas veces 0).
+
+Mejoras y arreglos mas rapidos: pudiendo cualquiera modificar 
+elsoftware libre, cualquiera con la competencia tecnica suficiente 
+puede crear mejoras y arreglar errores mucho mas rapido y generalmente 
+movido por su propia necesidad. Estas contribuciones pueden (y en el 
+caso de GNU/Linux) DEBEN hacerse disponibles con iguales o mayores 
+libertades que la version original, con lo que todos se benefician.
+
+Superioridad tecnica: siendo posible estudiar el funcionamiento de los 
+programas libres, las torpezas e incompetencias son advertidas por 
+todos. Los autores tienden a tener mayor refinamiento y esmero tecnico 
+cuando su trabajo va a ser potencialmente analizado por sus pares.
+
+Funcionalidad natural: las caracteristicas que el software libre 
+termina teniendo son las que los mismos usuarios agregan, o solicitan. 
+Distorsiones funcionales artificiales con fines de lucro desaparecen 
+rapidamente, a diferencia del software no libre donde permanecen segun 
+los intereses del autor. El software es lo que vos queres que sea.
+
+
+Pero podria ser que nada de esto te interese, y que quisieras un relato 
+de las diferencias funcionales que obtendrias entre usar Windows 98 o 
+GNU/Linux.
+
+Resumidamente serian estas:
+
+Los programas en GNU/Linux comparados con los programas en Windows 
+tienden a ser:
+- mas completos (cubren mayor cantidad de casos y usos)
+- mas complejos (tienen mas partes visibles)
+- mas flexibles (se puede modificar su comportamiento y combinar 
+programas con otros programas de maneras quizas no previstas por el 
+autor)
+- mas especializados (cada programa realiza una o unas pocas tareas)
+- mas estables (es mucho menos probable que fallen en forma severa)
+- mas cambiantes (salen muchas versiones diferentes a cada rato)
+- menos acabados (mucho del software disponible esta aun el pleno 
+desarrollo)
+- mas eficientes (debido a la especializacion y a la ausencia general 
+de caracteristicas superfluas y vistosas)
+- mejor documentado (las ayudas y manuales son tecnicamente 
+significativos, explicando generalmente como funcionan las cosas y por 
+que tienen que funcionar asi)
+- mas caoticos (pudiendo cualquiera meter mano, se pierde un poco de 
+homogeneidad)
+- mas divertidos (no hay generalmente un departamento de marketing, un 
+grupo de enfoque y un sociologo detras de cada frase que dice un 
+programa)
+- mas abundantes (al rito de crecimiento actual, para 2005 se espera 
+que la velocidad de produccion de software para GNU/Linux supere la 
+velocidad de produccion de software para todos los otros sistemas 
+operativos juntos que compiten con GNU/Linux).
+- mas innovador (en la medida que la innovacion no este patentada o sea 
+un secreto comercial o sea una superfluosidad, siempre llega a Linux 
+primero que a Windows)
+- mas seguros (el diseño del sistema hace que ni los usuarios 
+maliciosos ni los incompetentes puedan afectar demasiado a otros 
+usuarios o al sistema en si. Casi no se conocen virus para GNU/Linux, 
+aunque si varios gusanos, y aun en ese caso rapidamente surge la 
+solucion al problema o error que el gusano explota para copiarse)
+
+
+
+Y si aun no estas convencido, tenes que instalar Linux porque si no voy 
+a desregalarte la memoria que te regale.
+
+-- 
+Groucho Marx
+

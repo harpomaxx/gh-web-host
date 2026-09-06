@@ -1,0 +1,69 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_0_3); 28 Sep 2000 17:07:05 -0000
+Received: (qmail 8385 invoked from network); 28 Sep 2000 17:07:04 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 28 Sep 2000 17:07:04 -0000
+Received: from unknown (HELO postino4.prima.com.ar) (200.42.0.162) by mta1 with SMTP; 28 Sep 2000 17:07:03 -0000
+Received: from tepes (a200042125130.rev.prima.com.ar [200.42.125.130]) by postino4.prima.com.ar (8.9.3/8.9.1) with SMTP id OAA81330 for <mendonet-l@egroups.com>; Thu, 28 Sep 2000 14:06:58 -0300 (ART)
+Message-ID: <00eb01c0296e$01bbcc40$937d2ac8@tepes>
+To: <mendonet-l@egroups.com>
+Subject: otra aiuda
+Date: Thu, 28 Sep 2000 14:02:10 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_00E8_01C02954.B23B5B40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: "Sebas" <xebax@...>
+
+
+------=_NextPart_000_00E8_01C02954.B23B5B40
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Che, =BFde donde se baja el The bat, debat, thebat o como mierda se llame=
+?=BFEs muy grande? 
+Resulta ser que softhome a "declarado" spammers a todos=
+ los usuarios de ciudad digital y de topmail, donde esta mis cuentas. Por=
+ lo tanto no puedo comounicarme con gente de softhome. Ahora abri una en =
+softhome, pero no puedo enviar con outlook y no se que quilombo tiene c=
+on eudora.
+Gracias
+
+------=_NextPart_000_00E8_01C02954.B23B5B40
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>=
+
+<META content=3D"text/html; charset=3Diso-8859-1" http-equiv=3DContent-Typ=
+e>
+<META content=3D"MSHTML 5.00.2014.210" name=3DGENERATOR>
+<STYLE></STYLE>=
+
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>Che, =BF=
+de donde se baja el The bat, debat, thebat o 
+como mierda se llame?=BFEs =
+muy grande? </FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>Resulta ser que =
+softhome a "declarado" spammers a 
+todos los usuarios de ciudad digital y&n=
+bsp;de topmail, donde esta mis cuentas. 
+Por lo tanto no puedo comounicar=
+me con gente de softhome. Ahora abri una en 
+softhome, pero no puedo envi=
+ar con outlook y no se que quilombo tiene con 
+eudora.</FONT></DIV>
+<DI=
+V><FONT face=3DArial size=3D2>Gracias</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_00E8_01C02954.B23B5B40--
+

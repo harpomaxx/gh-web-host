@@ -1,0 +1,42 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 11 Feb 2003 11:07:08 -0000
+Received: (qmail 28012 invoked from network); 11 Feb 2003 11:07:07 -0000
+Received: from unknown (66.218.66.218)
+  by m11.grp.scd.yahoo.com with QMQP; 11 Feb 2003 11:07:07 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 11 Feb 2003 11:07:07 -0000
+Received: (qmail 9730 invoked by uid 417); 11 Feb 2003 11:07:06 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 11 Feb 2003 11:07:06 -0000
+Received: from dup-200-42-124-72.prima.net.ar ([200.42.124.72])
+  by softhome.net with esmtp; Tue, 11 Feb 2003 04:07:04 -0700
+Date: Tue, 11 Feb 2003 08:04:28 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <4336.030211@...>
+To: Mr Ska <mendonet-l@...>
+Subject: Cada vez entiendo menos...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+Béliz... sí, Gustavo Beliz, el que estuvo con Menem, Bordón y Cavallo
+sucesivamente, ése que está más a la derecha que el pupi Zanetti, dijo
+que ha votado a Carrió... está bien que la gorda es otra de esos
+liberales que se montan en un discurso que incluye las palabras "lucha"
+y "pueblo" para hacerse la populista, pero que Beliz la señale como
+una opción es demasiado... el espectro político argentino cada vez me
+confunde más.
+
+-- 
+ Sebas  
+Si votar cambiara algo estaría prohibido. Eduardo Galeano                      
+
+
+

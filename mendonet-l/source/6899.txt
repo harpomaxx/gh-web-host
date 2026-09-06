@@ -1,0 +1,39 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 23:41:22 -0000
+Received: (qmail 10818 invoked from network); 15 Nov 2000 23:41:22 -0000
+Received: from unknown (10.1.10.26) by l9.egroups.com with QMQP; 15 Nov 2000 23:41:22 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.230.178) by mta1 with SMTP; 15 Nov 2000 23:41:20 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id PAA07685 for mendonet-l@egroups.com; Wed, 15 Nov 2000 15:47:41 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Wed, 15 Nov 2000 15:47:41 -0300
+To: mendonet-l@egroups.com
+Subject: Re: Perdonen mi ignorancia
+Message-ID: <20001115154740.C6619@...>
+References: <18529.001114@...> <1936.001115@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <1936.001115@...>; from groucho@... on Wed, Nov 15, 2000 at 12:52:45AM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Wed, Nov 15, 2000 at 12:52:45AM -0300, Groucho Marx dijo:
+> PGP, Tonton!!!
+> 
+> Sistema de criptografia PGP -> poesia criptica -> Joseph P.
+> GoodPrivacy -> gracioso.
+> 
+> Ok?
+
+No era tan gracioso, era un chiste bien compuntonton!!!
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

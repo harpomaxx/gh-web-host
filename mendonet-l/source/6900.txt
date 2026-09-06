@@ -1,0 +1,81 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 18:48:05 -0000
+Received: (qmail 71349 invoked from network); 15 Nov 2000 18:48:03 -0000
+Received: from unknown (10.1.10.27) by m8.onelist.org with QMQP; 15 Nov 2000 18:48:03 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.199) by mta2 with SMTP; 15 Nov 2000 18:48:03 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC; Tue, 14 Nov 2000 14:35:30 -0800
+X-Originating-IP: [200.45.29.219]
+To: <mendonet-l@egroups.com>
+References: <OE5175HvAoEvyncU1to000028fd@...> <8636.001104@...> <009101c04756$51efbf40$LocalHost@...> <012401c04814$86a85b20$9a4afea9@hfgg> <006701c0485d$8b7c2020$LocalHost@...>
+Subject: Re: Boicot al formato HTML!!
+Date: Sun, 12 Nov 2000 17:08:49 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE64XCFbN4TZyabYTHr00000c6d@...>
+X-OriginalArrivalTime: 14 Nov 2000 22:35:30.0346 (UTC) FILETIME=[3173B0A0:01C04E8B]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Original Message -----
+From: Alejandro Gomez Talquenca
+To: mendonet-l@egroups.com
+Sent: Monday, November 06, 2000 10:53 PM
+Subject: RE: Boicot al formato HTML!!
+
+
+
+----- Original Message -----
+From: Mariana <babasonica@...>
+To: <mendonet-l@egroups.com>
+Sent: Monday, November 06, 2000 2:04 PM
+Subject: Boicot al formato HTML!!
+
+
+>
+> ----- Original Message -----
+> From: Alejandro Gómez Talquenca <aletalquenca@...>
+> To: <mendonet-l@egroups.com>
+> Sent: Sunday, November 05, 2000 3:29 PM
+> Subject: RE: Re[2]: Bienvenida/malcomenzada
+>
+>
+> > ----- Original Message -----
+> > From: Groucho Marx <groucho@...
+>
+> > > Morganti, haceme un favor: anda al menú Herramientas de tu
+> > > Microsoft Outlook Express 5.50.4133.2400. Elegí el submenu
+> > > Opciones y busca en la solapa Redacción una opción que diga
+> > > "Texto sin formato" y activala.
+
+ya esta, pero no funciona
+
+
+>
+> > > Groucho EL PIADOSO
+>
+> Hey Talquencus, que esto que dice el Groucho sirva para vos también, que
+por
+> ahí se te suelen escapar mails en formato HTML.
+
+Sorry , eso me pasa por responder los mails de fm
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
+
+eGroups Sponsor
+

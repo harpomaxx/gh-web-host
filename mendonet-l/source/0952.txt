@@ -1,0 +1,75 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 4 Oct 2002 23:24:20 -0000
+Received: (qmail 27422 invoked from network); 4 Oct 2002 23:21:56 -0000
+Received: from unknown (66.218.66.216)
+  by m4.grp.scd.yahoo.com with QMQP; 4 Oct 2002 23:21:56 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 4 Oct 2002 23:21:52 -0000
+Received: (qmail 8141 invoked by uid 417); 4 Oct 2002 23:21:44 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 4 Oct 2002 23:21:44 -0000
+Received: from modem70-as1.mendoza.sinectis.com.ar ([216.244.255.70])
+  by softhome.net with esmtp; Fri, 04 Oct 2002 17:21:42 -0600
+Date: Sat, 28 Sep 2002 20:43:08 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <3863.020928@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbMl06IERlc2Fmae10byBkZSBm7XNpY2Eu?=
+In-reply-To: <JPEJJKCOMFIHONLPHPCIAEFGCBAA.gaucho98@...>
+References: <JPEJJKCOMFIHONLPHPCIAEFGCBAA.gaucho98@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+G> No es que quiera dar la contra no.... pero bueno si te voy a dar la contra
+G> porque casi siempre lo hago, segun los que me conocen.
+G> Yo no elijo ninguna de tus respuestas, pues tengo entendido que la luna no
+G> cae sobre la tierra simplemente porque la fuerza de gravedad de la tierra no
+G> es lo suificientemente fuerte para atraerla a si si, y tienen un equilibrio
+G> con el resto de los planetas que poseen su propia gravedad.
+
+Claro,  pero una forma de verlo bastante gráficamente es pensar que la
+luna cae sobre la tierra pero tarda lo mismo en caer 100 metros que en
+avanzarlos  hacia  adelante, con lo que describe un círculo (bueno, no
+es  un círculo y no son 100 y 100 pero creo que el ejemplo es bastante
+gráfico).
+
+Es  perfectamente  válido  como  explicación  y puede ser más fácil de
+"ver"  para  alguien que no tiene un manejo tan fluido de las leyes de
+newton.
+
+G> Ahora, eso de que los planetas flotan, te puedo decir que si, lo que no
+G> puedo decirte es respecto a que.
+G> Dado que el conocimiento del Universo se expande continuamente junto con el,
+G> no se si hay un punto de referencia al cual apuntar para afirmar que flotan.
+G> En una de esas, nuestro Universo gira alrededor de otro Universo, por lo que
+G> al final, estamos en la misma que la Tierra y la Luna.
+
+Si con "universo" te referís a "galaxia", puedo asegurarte que nuestra
+galaxia  gira  en  torno  a  otras, y hay galaxias satélites que giran
+alrededor de la nuestra, de hecho nuestro sol, para no ser menos, gira
+alrededor del cento de la vía láctea (nuestra galaxia).
+
+Pero y todo esto a qué viene...?
+
+
+
+
+
+Lupus
+
+-- 
+
+A todos se nos escapa la eternidad, más tarde o más temprano.           
+
+
+

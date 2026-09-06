@@ -1,0 +1,102 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 13480 invoked from network); 8 Aug 2000 23:22:20 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 8 Aug 2000 23:22:20 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 8 Aug 2000 23:22:18 -0000
+Received: from 200.41.31.73 ([200.41.31.73]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA12669 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 20:24:56 +0300 (GMT)
+Date: Tue, 8 Aug 2000 16:55:53 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <13705.000808@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Re[2]: GROUCHO! Para todos los...
+In-reply-To: <398AAB00.13032778@...>
+References: <398AAB00.13032778@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 04/08/2000, Mariana delirantemente recitó:
+
+>> > > De ultima, usando DOS en la maquina que tiene DOS, renombra el 
+>> > > archivo a mano antes de procesarlo. Por ejemplo el comando:
+>> > > REN CPP07~1.034 CPP0720x.034
+
+>> > Bien!... Eso fue lo que hice aquel día y (obviamente) resultó... 
+>> > mmm... quizás no soy tan naba.
+ 
+>> El problema es que desrtuiste la evidencia de lo que estaba mal, sin 
+>> dejar ningun indicio en que apoyarse para evitar que el problema 
+>> vuelva a ocurrir. Un tipo de nabicie mas sutil, pues ahora ni siquiera 
+>> sabes que fue lo que paso.
+
+M> PLOP!... Primero me sugeris que haga una cosa (que fue lo que hice) y
+M> ahora me decís que estuvo mal que lo hubiera hecho?... Nintendo
+
+Perdon. Sere mas claro.
+Lo que hiciste esta "bien" porque resuelve el problema.
+Pero hubiera estado "mejor" averiguar antes la causa del problema para
+despues resolverlo con el metodo en definitiva usado.
+
+
+>> A proposito... 
+>> No se lo que estan haciendo donde vos trabajas, pero que te pareceria 
+>> si en lugar de perder tiempo mandando los archivos por e-mail, sea 
+>> posible que las distintas maquinas "vean" en el entorno de red las 
+>> otras maquinas que estan en los otros lugares que actualmente te 
+>> mandan archivos por e-mail.
+
+M> PLOP (2)!... ¿De dónde sacaste que nos manejamos con e-mail?
+
+Use un sistema de diagnostico de enfermedades que me presto Sebas11!!!
+M>  Lo que se
+M> hace aquí en la oficina, es exactamente lo que acabás de describir tan
+M> extraordinariamente. Cuando dije que me conecto, es que me conecto a Bs.
+M> As., a las computadoras de all�, no a la poronga de Advance.
+
+Como te conectas?
+Usando RAS?
+Y pagando una llamada de larga distancia?
+Apuesto a que los gays de BA no pagan larga distancia pero los de
+Mendoza si.
+Y que tal si te digo que esto que estoy haciendo es las 24 horas
+conectado?
+
+>> No seria copado mandar archivos arrastradolos de un directorio a otro,
+>> y hacer todo lo que se te ocurra como si el disco de la maquina que 
+>> esta en el otro lado fuese simplemente una letra de unidad adicional 
+>> en tu maquina?
+
+M> Es re-copado!... Herramientas--> Conectar a unidad de red--> G:\DELTA 1
+M> \CLIENTES... ¡Me vuela la cabeza!!
+
+Maldicion. Deduzco que no voy a poder cobrar mucho por esa idea
+entonces....
+
+
+M> De ahí los copio al diskette, y los proceso en la otra computadora que
+M> es la que tiene el programa. El problema es que el programa es medio
+M> porongón y tiene un montón de falencias. Una de ellas es que solo te
+M> permite copiar archivos de las unidades A y B, y por eso estamos
+M> limitados al asunto de la copia en diskette de una máquina a otra.
+
+Si fuera software libre, cualquiera podria modificar esa restriccion.
+(estoy adivinando que NO es software libre)
+
+M> Ahora iban a ver si lo podían reformar, para que el programa pudiera
+M> procesar desde cualquier unidad, y eso si que sería realmente copado,
+M> porque me ahorraría el trámite de los disquitos.
+
+Y por que esta en una maquina separada? Eso no lo entiendo.
+Siempre podrian usar una diskettera de la propia maquina donde se
+conectan a la VPN.
+
+-- 
+Groucho Marx
+FOX se convirtió tan lentamente en canal porno que no nos dimos cuenta. --
+Marge Simpson
+
+
+

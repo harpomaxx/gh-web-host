@@ -1,0 +1,37 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_0_2); 22 Sep 2000 17:21:31 -0000
+Received: (qmail 28586 invoked from network); 22 Sep 2000 17:21:31 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 22 Sep 2000 17:21:31 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.159) by mta1 with SMTP; 22 Sep 2000 17:21:29 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id NAA08015 for mendonet-l@egroups.com; Fri, 22 Sep 2000 13:33:33 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Fri, 22 Sep 2000 13:33:33 -0300
+To: mendonet-l@egroups.com
+Subject: Re: IN PURIBUS
+Message-ID: <20000922133332.E2172@...>
+References: <969075172.2795@egroups.com> <39C3D4E7.35A5CA89@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <39C3D4E7.35A5CA89@...>; from oxiuro@... on Sat, Sep 16, 2000 at 05:15:35PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17
+From: harpo@...
+
+El Sat, Sep 16, 2000 at 05:15:35PM -0300, Oxiuro dijo:
+
+
+> No lo decia por eso. Pablo granados mas alla de ser un estupido es muy ingenioso al componer los temas que ahi salen.El pibe es un crativo.
+> O vos creias que todo lo inventaba la produccion?
+
+Indiscutiblemente Granados y en una menor medida Pachu, son los unicos que
+puedo rescatar de Tinelli. 
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

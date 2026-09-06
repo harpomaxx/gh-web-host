@@ -1,0 +1,73 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 25634 invoked from network); 19 May 2000 19:03:30 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 19 May 2000 19:03:30 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 19 May 2000 19:03:27 -0000
+Received: from ANTRO ([200.41.31.123]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id QAA25009 for <mendonet-l@egroups.com>; Fri, 19 May 2000 16:04:11 +0300 (GMT)
+Date: Wed, 17 May 2000 23:52:45 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <14994.000517@...>
+To: Marc <mendonet-l@egroups.com>
+Subject: Re[3]: La obligacion de crecer!(SHIT)
+In-reply-To: <1642.000514@...>
+References: <1642.000514@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 14/05/2000, Marc delirantemente recitó:
+
+M> Hello Mariana,
+
+M> Thursday, May 11, 2000, 7:01:48 AM, you wrote:
+
+>>> > Mientras camino por las calles lo que me gusta hacer a mi es ir
+>>> > golpeteando las paredes o las rejas.
+
+>>> ��Qu�!? ¿Nadie juega con los dibujos de las baldosas? Está buenísimo
+M>   Una buena técnica es tratar de no pisar líneas de unión de las
+M>   baldosas.
+
+Yo tengo otros juegos.
+
+Dado que la frecuencia de los pasos y de las baldosas es diferente,
+casi nunca coincide el lugar de la baldosa donde uno pone un pie.
+De hecho, el lugar va desplazandose lentamente a la frecuencia que
+resulta de la diferencia entre la frecuencia de baldosas y de pasos.
+El juego consiste en predecir el lugar de la baldosa donde caera el
+pie, y tratar de ajustar el tamaño de los pasos a uno que sea
+una fraccion sencilla de la frecuencia de baldosas.
+
+Otro juego, consiste en considerar las baldosas como un mapa de bits.
+Al caminar por encima de una baldosa, ese bit se enciende. Se forma
+asi un dibujo con el caracteristico dentado de las imagenes de baja
+resolucion.
+Es interesante aplicar el algoritmo de Bresenham para el trazado de
+lineas o arcos de circunferencia sobre ese mapa de bits.
+El problema es que la trayectoria que un termina describiendo queda
+medio dentada tambien.
+
+Otro juego, cuando hay muchos semaforos:
+Respetar los semaforos y cruzar solo por las sendas peatonales, pero
+planificar la trayectoria para minimizar el numero de estados de
+espera en un semaforo en rojo.
+Al llegar a una esquina se presentan 3 posibilidades aparte de
+quedarse quieto: doblar sin cruzar la calle, cruzar la calle hacia el
+frente, o cruzar la calle hacia el costado.
+Cada una de esas acciones nos lleva a otra esquina donde se presentan
+esas mismas 3 posibilidades o menos, dependiendo del lugar de destino,
+ya que no es cuestion de caminar al pedo.
+El juego se pierde cuando el numero de grados de libertad en una
+esquina llega a 1.
+
+
+-- 
+Groucho Marx
+El propósito de los días que me resten será ver que sus sueños no se
+realicen. -- C. M. Burns
+
+
+

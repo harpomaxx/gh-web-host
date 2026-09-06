@@ -1,0 +1,38 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_1_0); 22 Oct 2000 14:14:54 -0000
+Received: (qmail 92073 invoked from network); 22 Oct 2000 14:14:54 -0000
+Received: from unknown (10.1.10.27) by m8.onelist.org with QMQP; 22 Oct 2000 14:14:54 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta2 with SMTP; 22 Oct 2000 14:14:53 -0000
+Received: (qmail 1055 invoked by uid 417); 22 Oct 2000 14:16:21 -0000
+Received: from a3d43.impsat.net.ar (200.41.21.163) by smtpa.softhome.net with SMTP; 22 Oct 2000 14:16:21 -0000
+Date: Sat, 21 Oct 2000 15:12:39 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: rodralez <rodralez@...>
+X-Priority: 3 (Normal)
+Message-ID: <2633.001021@...>
+To: mendonet <mendonet-l@egroups.com>
+Subject: Humanidad abrumada.
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------1231971233096CECB"
+From: rodralez <rodralez@...>
+
+
+------------1231971233096CECB
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Quien controle la informacion controlará el mundo... lean esto.
+
+el rodro
+
+------------1231971233096CECB
+Content-Type: application/pdf; name="humanidad abrumada por datos.pdf"
+Content-Disposition: attachment; filename="humanidad abrumada por datos.pdf"
+
+[ Attachment content not displayed ]
+------------1231971233096CECB--
+

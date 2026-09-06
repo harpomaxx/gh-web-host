@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 18 Nov 2000 08:04:38 -0000
+Received: (qmail 51601 invoked from network); 18 Nov 2000 08:04:38 -0000
+Received: from unknown (10.1.10.142) by l7.egroups.com with QMQP; 18 Nov 2000 08:04:38 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 18 Nov 2000 09:05:43 -0000
+Received: from antro.micasa ([200.41.31.110]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA20231 for <mendonet-l@egroups.com>; Sat, 18 Nov 2000 01:59:56 -0300 (GMT)
+Date: Sat, 18 Nov 2000 00:46:10 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1932.001118@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Re: (Fede M.) Bienvenida/malcomenzada
+In-reply-To: <000201c05064$2d44a900$9a4afea9@hfgg>
+References: <000201c05064$2d44a900$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 16/11/2000, Mariana dudando farfulló:
+
+>> Y eso que lo pedí amablemente... Que se yo, quizás este pibe solo entienda
+>> si le hablás con agresiones.
+
+M> Fede, atendé... En la barra superior del Outlook andá a "Herramientas". Ahí
+M> marcá "Opciones...". Te va a salir un cuadro de diálogo con varias solapas.
+M> Andá a la solapa que dice "Enviar".
+M> Donde dice "Configuración de Formato de Envío de Correo" marcá "Texto sin
+M> Formato" (el puntito, no el botón).
+M> Después presioná el botón "Aplicar", que está abajo, luego "Aceptar" y
+M> listo!... Habrás sumado una característica mas para convertirte en un
+M> verdadero Mendonet Material.
+
+Te falto agregar: culiao.
+
+No era que solo entiende agresiones?
+
+-- 
+Groucho Marx
+I will not say "Springfield" just to get applause -- Bart Simpson
+
+
+

@@ -1,0 +1,73 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 2 Dec 2001 06:08:48 -0000
+Received: (qmail 5535 invoked from network); 2 Dec 2001 06:08:48 -0000
+Received: from unknown (216.115.97.172)
+  by m12.grp.snv.yahoo.com with QMQP; 2 Dec 2001 06:08:48 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.6)
+  by mta2.grp.snv.yahoo.com with SMTP; 2 Dec 2001 06:08:42 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16A3UE-0008VH-00
+	for <mendonet-l@...>; Sat, 01 Dec 2001 03:18:54 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16A3UD-0008V6-00
+	for <mendonet-l@...>; Sat, 01 Dec 2001 03:18:53 -0300
+Date: Sat, 1 Dec 2001 03:18:53 -0300
+To: mendonet-l@...
+Subject: Re: Re[4]loser
+Message-ID: <20011201031853.D32591@...>
+References: <20011129094006.A27901@...> <13579.011130@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <13579.011130@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Fri, Nov 30, 2001 at 01:54:04PM -0300, Sebas wrote:
+
+> >> GM> gratis en un concurso en el que la competencia en la que
+> >> GM> nosotros hubieramos participado era futbol, y como en mi
+> >> GM> curso casi nadie jugaba al futbol, mis compañeras se
+> >> GM> anotaron con unos ñoños del Pablo Nogues con tan mala
+> >> GM> suerte que ganaron y se fueron de viaje con ellos
+> >> Me da la impresión que los del Nogués no eran tan ñoños como
+> >> suponés...
+> GM> Por que no?
+> Porque los cagaron a ustedes...
+
+Es que nosotros decidimos no participar en el concurso... De manera
+que quienes nos cagaron fueron nuestras compañeras no los del Pablo
+Nogues.
+
+> en un principio no tenían viaje ni compañeras, y obtuvieron ambos
+> elementos en leal justa deportiva. No me parece la historia de
+> unos ñoños... digamos que la de ustedes, un grupito que no sabía
+> jugar al fútbol, que pagó por su viaje que podría haber sido
+> gratis, y a quienes les arrebataron las compañeras en sus
+> propias narices, está mucho más cerca de ser la historia de unos
+> ñoños.
+
+Eran ñoños que sabian jugar al futbol... Como disminuye eso su
+ñoñez?
+
+
+Vos no sabes acerca de la pateticidad del concurso ese!!!!!
+Te daban puntos hasta por quien gritaba mas fuerte el nombre de la
+empresa organizadora.
+Realmente las posibilidades de ganar eran muy bajas, requeria un
+esfuerzo muy grande (12 horas seguidas todos los sabados durante 2
+meses). Nuestra decision de no participar fue muy sensata. Un simple
+calculo de la esperanza matematica de ganar seria suficiente para
+desistir.
+
+-- 
+Groucho
+
+
+
+

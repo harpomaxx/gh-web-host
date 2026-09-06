@@ -1,0 +1,43 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_1_0); 21 Oct 2000 06:42:13 -0000
+Received: (qmail 5514 invoked from network); 21 Oct 2000 06:42:13 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 21 Oct 2000 06:42:13 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 21 Oct 2000 06:42:11 -0000
+Received: from 200.41.31.83 ([200.41.31.83]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id DAA23382 for <mendonet-l@egroups.com>; Sat, 21 Oct 2000 03:45:22 +0300 (GMT)
+Date: Sat, 21 Oct 2000 01:22:00 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1856.001021@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: La data
+In-reply-To: <003901c03abd$116a8f40$627d2ac8@tepes>
+References: <003901c03abd$116a8f40$627d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 20/10/2000, Sebas angustiado farfulló:
+
+>> > fue el desencadenante del último proyecto de Conan, a quien
+>> > visité este fin de semana. Está vivo. Y hasta estudia.
+>> Contamos cual es su ultimo proyecto???
+S> Me imagino que no quisiste ponerle signos de pregunta, y lo voy a
+S> tomar como un ���contanos cual es su último proyecto!!!
+S> Su último proyecto consiste, básicamente, en arreglar el mundo.
+
+Muy loable por cierto.
+Metodo? Tiempo estimado de realizacion?
+Ventajas y desventajas comparativas?
+
+
+-- 
+Groucho Marx
+Bueno ya está. Yo me largo de aquí -- Cerebro de Homero J. Simpson
+
+
+

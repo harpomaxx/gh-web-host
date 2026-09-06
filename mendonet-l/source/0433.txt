@@ -1,0 +1,40 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 13 Mar 2003 12:18:02 -0000
+Received: (qmail 50044 invoked from network); 13 Mar 2003 12:18:02 -0000
+Received: from unknown (66.218.66.216)
+  by m2.grp.scd.yahoo.com with QMQP; 13 Mar 2003 12:18:02 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta1.grp.scd.yahoo.com with SMTP; 13 Mar 2003 12:18:01 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18tRtY-0007xx-00
+	for <mendonet-l@...>; Thu, 13 Mar 2003 09:33:12 -0300
+Message-ID: <3E7076D3.3000206@...>
+Date: Thu, 13 Mar 2003 09:17:23 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: Mozilla, =?ISO-8859-1?Q?Protagoras_y_yo=2E?=
+References: <371210951.20030312012733@...> <8599.030312@...>
+In-Reply-To: <8599.030312@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+> The bat! está ne inglés, y mi madre tiene dos grandes problemas en su
+> nueva carrera estudiantil.... la informática y el inglés.
+
+The Bat esta en el idioma que instales. Baja el paquete de 
+castellanizacion de The Bat y listo.
+
+-- 
+Groucho
+
+

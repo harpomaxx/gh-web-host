@@ -1,0 +1,40 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 17 Nov 2000 04:35:29 -0000
+Received: (qmail 41365 invoked from network); 17 Nov 2000 04:35:28 -0000
+Received: from unknown (10.1.10.27) by m8.onelist.org with QMQP; 17 Nov 2000 04:35:28 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta2 with SMTP; 17 Nov 2000 04:35:28 -0000
+Received: (qmail 31544 invoked by uid 417); 17 Nov 2000 04:35:31 -0000
+Received: from a3d34.impsat.net.ar (200.41.21.154) by smtpb.softhome.net with SMTP; 17 Nov 2000 04:35:31 -0000
+Date: Wed, 15 Nov 2000 16:08:44 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: rodralez <rodralez@...>
+X-Priority: 3 (Normal)
+Message-ID: <12672.001115@...>
+To: Sebas <mendonet-l@egroups.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: rodralez <rodralez@...>
+
+
+Groucho le decia a sebas:
+
+>>    La gran solución es usar otro programa de mail por ejemplo THE
+>>    BAT
+S> sip, pero the bat se niega a funcionar conmigo.
+
+>Te consegui un programa mas sencillito que TheBat, llamado FoxMail.
+>Te pinta?
+
+Che Sebas, te conseguí uno más sencillo que el Foxmail, se llama
+Notepad. Te pinta ?!
+
+rodralez
+
+http://manfloraelsol.cjb.net
+
+
+

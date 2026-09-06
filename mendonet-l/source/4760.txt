@@ -1,0 +1,69 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 20 Sep 2001 17:35:02 -0000
+Received: (qmail 4470 invoked from network); 20 Sep 2001 17:35:01 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.224 with QMQP; 20 Sep 2001 17:35:01 -0000
+Received: from unknown (HELO softhome.net) (204.144.231.93)
+  by mta2 with SMTP; 20 Sep 2001 17:35:19 -0000
+Received: from 200-41-31-74-rdunysd1.impsat.net.ar ([200.41.31.74])
+  by softhome.net with esmtp; Thu, 20 Sep 2001 11:34:24 -0600
+Date: Thu, 20 Sep 2001 14:37:37 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <12609.010920@...>
+To: mendonet-l@...
+Subject: Re[5]: Se acabo sebitas... UFA!
+In-reply-To: <1131281644.20010920084924@...>
+References: <1131281644.20010920084924@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Thursday, September 20, 2001, 8:49:24 AM, you wrote:
+
+
+GM>> Ese es tu mejor material? Un metodo numerico para ED de segundo orden 
+GM>> de coeficientes constantes?
+O> Nop, no es mi mejor material.
+
+GM>> Cuando sepas como resolver una ecuacion de diferencias de orden 
+GM>> elevado, mediante transformada Z, para calcular un filtro de respuesta 
+GM>> impulsiva finita que se ajuste a un modelo de Cauer, hablemos de nuevo.
+O> Pinta interesante, o sea, lo de newmark si bien es de utilidad en
+O> ingenieria civil no lo dan en la facultad, lo investigue yo y bue, lo
+O> de la transformada Z no es de utilidad para mi,
+
+Como no es de utilidad la transformada z, se puede aplicar a cálculos
+de estructuras sometidas a  movimientos sísmicos y resonancias en
+estructuras diversas y materiales,utilizadas en el diseño y la construcción
+ de estructuras delicias
+
+O>  pero pinta bastante
+O> interesante, algun libro que me recomendes??????
+O> Nunca esta de sobra un poco de mas de conocimiento aunque nunca lo
+O> aplique.
+
+eso pasa por no estudiar en una buena universidad
+
+
+
+
+
+
+-- 
+ Es más fácil reprimir las protestas de los desempleados que enfrentarse
+ a generaciones de ilustrados reclamando lo que la naturaleza ha dado a 
+ cada hombre por ser habitante de este mundo: su libertad y su derecho 
+ de crecer y progresar..
+                       
+ Marc                            
+
+
+

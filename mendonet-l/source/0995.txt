@@ -1,0 +1,52 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 4 Jun 2002 21:23:51 -0000
+Received: (qmail 73191 invoked from network); 4 Jun 2002 21:23:50 -0000
+Received: from unknown (66.218.66.217)
+  by m9.grp.scd.yahoo.com with QMQP; 4 Jun 2002 21:23:50 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 4 Jun 2002 21:23:50 -0000
+Received: (qmail 9997 invoked by uid 417); 4 Jun 2002 21:23:49 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 4 Jun 2002 21:23:49 -0000
+Received: from modem89-as1.mendoza.sinectis.com.ar ([216.244.255.89])
+  by softhome.net with esmtp; Tue, 04 Jun 2002 15:23:47 -0600
+Date: Tue, 4 Jun 2002 00:06:06 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <124.020604@...>
+To: mendonet-l@...
+Subject: Pal Groucho, u otro que sepa...
+In-reply-To: <18783.020526@...>
+References: <18783.020526@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+Che Grouchín:
+
+Cómo  puedo  hacer para bajar los mails de los pultimos 4 días (que no
+recibí  por problemas en la cuenta de softhome)? digo... ¿puedo? o los
+tengo  que  mirar  por  web,  cosa  que no haré por ser extremadamente
+molesta...
+
+Otra  cosa:  qué  lenguaje de scripts hay para windon (digo, hay algún
+análogo a los .bat de dos?) No putees que no es para usar en casa sino
+en la empresa... y ahí si que no le puedo escapar a win net...
+
+
+Lupus
+
+-- 
+
+"La gente copada no viene con fecha de vencimiento" Rodro               
+
+
+

@@ -1,0 +1,59 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 19 Dec 2000 04:34:34 -0000
+Received: (qmail 49297 invoked from network); 19 Dec 2000 04:34:34 -0000
+Received: from unknown (10.1.10.27) by l8.egroups.com with QMQP; 19 Dec 2000 04:34:34 -0000
+Received: from unknown (HELO smtp1.impsat.net.ar) (200.31.1.8) by mta2 with SMTP; 19 Dec 2000 04:34:32 -0000
+Received: from antro.micasa ([200.41.31.94]) by smtp1.impsat.net.ar (8.9.3/8.9.3) with ESMTP id BAA16377 for <mendonet-l@egroups.com>; Tue, 19 Dec 2000 01:36:58 +0300 (GMT)
+Date: Tue, 19 Dec 2000 01:24:23 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1658.001219@...>
+To: mendonet <mendonet-l@egroups.com>
+Subject: Mal orto
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Que mal orto!!!!
+
+Profesor: Saque bolilla
+Groucho: Salio la 5
+(1 o dos giros mas)
+Groucho: y la 2
+
+Veamos el programa: bolilla 5: unidades 2 y 4
+Puta que bolilla tan fea. La unidad 2 es sobrecorrientes,
+sobretensiones y cortocircuitos que se supone que no lo toman. Y la
+unidad 4 es rectificadores controlados y no controlados. El tema mas
+feo del programa.
+Veamos que dice la bolilla 2: unidades 4 y 2. Hey!! Me han currado!
+Son las mismas unidades!
+
+Groucho: me salieron las 2 bolillas iguales!
+Profesor: Y, puede ocurir, si
+
+Profesor: bueno.. A ver.... Hagame cortocircuitos. Explique i cuadrado
+t, protecciones, todo completito.
+
+Pero, pero..... Eso no iba!!!!
+
+Groucho: lamentablemente ese tema no lo he visto en profundidad
+
+Profesor: ahhh! El programa hay que verlo todo... Nos vemos en
+febrero!
+
+
+Shit!!
+
+
+-- 
+Groucho Marx
+Antónimo: Opuesto de la palabra que Ud. está tratando de pensar.
+
+
+

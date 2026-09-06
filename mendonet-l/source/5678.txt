@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 1 Sep 2001 17:41:09 -0000
+Received: (qmail 5628 invoked from network); 1 Sep 2001 17:41:08 -0000
+Received: from unknown (10.1.10.26)
+  by l10.egroups.com with QMQP; 1 Sep 2001 17:41:08 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.82)
+  by mta1 with SMTP; 1 Sep 2001 17:41:07 -0000
+Received: (qmail 4412 invoked by uid 1005); 1 Sep 2001 14:41:59 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.310605 secs); 01/09/2001 11:41:57
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 1 Sep 2001 14:41:56 -0000
+Date: Sat, 1 Sep 2001 11:42:45 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <1674355926.20010824083946@...> <6530.010831@...>
+In-Reply-To: <6530.010831@...>
+Subject: Re: My funny OS !.
+MIME-Version: 1.0
+Message-Id: <01090111424500.00465@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 31 Ago 2001 12:43, escribiste:
+
+> Algunas dudas sobre linux, para que me conteste cualquier entendido:
+> ¿qué hay de cierto en eso de que es un quilombo conseguir los drivers
+> para lo que sea?
+
+Es cierto a medias... Para el hardware normal (o sea, que su operacion 
+esta descripta en una norma) existen drivers que no hace falta 
+conseguir porque forman parte del kernel.
+El problema es aquel hardware donde el fabricante no sigue normas, y no 
+documenta la forma de funcionamiento del hardware. Entonces es muy 
+dificil escribir un driver para ese hardware. Si el fabricante escribe 
+un driver, por lo general funcionan bien, caso contrario a menos que 
+algun loco lindo descubra como manejar el hardware, no hay forma.
+De todas maneras, el hardware para el que no hay ni las mas remota 
+posibilidad de conseguir un driversuele ser hardware de baja calidad 
+que un conocedor nunca perderia el tiempo en comprar.
+
+-- 
+Groucho Marx
+

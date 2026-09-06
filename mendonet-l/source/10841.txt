@@ -1,0 +1,39 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 19935 invoked from network); 16 May 2000 03:41:32 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 16 May 2000 03:41:32 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 16 May 2000 03:41:32 -0000
+Received: (qmail 6514 invoked by uid 417); 16 May 2000 03:42:14 -0000
+Received: from mza2ppp-429.uc.infovia.com.ar (209.13.230.174) by smtpb.softhome.net with SMTP; 16 May 2000 03:42:14 -0000
+Date: Tue, 16 May 2000 00:40:00 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <927.000516@...>
+To: mendonet <mendonet-l@egroups.com>
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------E511C19414622FBA"
+From: Lupus el Lobo <aldocop@...>
+
+
+------------E511C19414622FBA
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+La concha de la lorA!!!
+esTO ME EST=C1 ASANDO!!! por que carajo se cortan=
+ mis mails!!!!! alguien
+me lo puede decir????
+
+Ahora  lo mando todo atached=
+. Disculñpen las molestias... realmente no
+se que carajo pasa !!!
+
+
+------------E511C19414622FBA
+Content-Type: text/plain; name="mail cortado.txt"
+Content-Disposition: attachment; filename="mail cortado.txt"
+
+[ Attachment content not displayed ]
+------------E511C19414622FBA--
+

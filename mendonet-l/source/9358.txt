@@ -1,0 +1,32 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 17996 invoked from network); 29 Jul 2000 14:31:45 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 29 Jul 2000 14:31:45 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 29 Jul 2000 14:31:44 -0000
+Received: (qmail 6405 invoked by uid 722); 29 Jul 2000 14:07:05 -0000
+Date: 29 Jul 2000 14:07:04 -0000
+Message-ID: <20000729140704.6391.qmail@...>
+To: mendonet-l@egroups.com
+Subject: la consola Dora
+From: fcanizo@...
+
+El 07/07/00, Cabeza le vociferó agresivamente a mendonet-l@egroups.com:
+
+C>>     Que poco practico si usa Linux porque no usa STAR OFFICE PARA
+C>>     lINUX es superior a el msoffice 2k; y ya salio la nueva versión
+C>>     la SO 5.2
+C>>
+C>tambien puede usar el WordPerfect 8 para linux.
+C>que no es tan pesado como el Soffice.
+
+Prefiero manejarme en la consola, gracias. Si no hay
+demasiados dibujos, no hace falta más. Para leer mail y ver
+ocasionalmente un jpg no debería hacer falta más.
+
+---
+A menudo es difícil conservar la fe en el destino del hombre, pero desesperar
+de los acontecimientos es propio de cobardes.
+
+	Rene Dubos
+
+

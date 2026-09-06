@@ -1,0 +1,102 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 8441 invoked from network); 26 Jul 2000 14:35:53 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 26 Jul 2000 14:35:53 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 26 Jul 2000 14:35:47 -0000
+Received: from LAGRUTA (rdumen1-200.41.21.69 [200.41.21.69] (may be forged)) by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id LAA23364 for <mendonet-l@egroups.com>; Wed, 26 Jul 2000 11:38:32 +0300 (GMT)
+Message-ID: <014101bff70f$4804afa0$090aa8c0@...>
+To: <mendonet-l@egroups.com>
+References: <3970B326.A4D5C2F2@...> <1957.000718@...> <3976EF00.A45727B9@...>
+Subject: RE: Para todos los...
+Date: Wed, 26 Jul 2000 11:39:13 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: =?iso-8859-1?Q?Fernando_Rodriguez?= <groucho@...>
+
+> Ya que estamos con esto --> ~ Explíquenme algo curioso que me pasó
+> recién.
+> Aquí en el laburo todas las mañanas me tengo que conectar a Bs As de una
+> computadora, bajarme cierta cantidad de archivos y procesarlos en otra
+> computadora, en un programa especial que se llama Sistema de Clearing.
+>
+> De la compu nó1 me conecto por Windows, y a través del Explorador grabo
+> en un diskette los archivos, si alguno llega a quedar mal grabado la
+> máquina nó2 marca el error y no procesa nada.
+>
+> Bueno, hoy día grabo un archivo que se llama CPP0720x.034
+> Como lo hago a través del Explorador, yo veo que el archivo se graba con
+> ese nombre. Me voy a la nó2, me pongo a procesar, pero me marca error.
+> Entonces salgo de ahí, me voy al DOS de la misma nó2, investigo el
+> diskette y me sale que el archivo que está grabado es el
+> CPP07~1.034                                   ��??
+> Vuelvo a la nó1, leo nuevamente el disk por el Explorador y sale que se
+> llama CPP0720x.034
+> No entendía nada... ¿Cómo el mismo diskette se leía en una máquina
+> correctamente y en la otra mal??... Ah!... quizás sea que tengo sueño y
+> lo leí mal en el DOS de la n�2... Vuelvo... A:dir --> CPP07~1.034
+>                       ¿What? No entiendo nada!!!
+
+Es que es asi!!!!!
+El DOS tenia una restriccion en los nombres de archivo que podia generar: el
+nombre podia consistir en no mas de 8 letras o numeros, seguidos de un
+punto,
+seguidos de no mas de 3 letras o numeros.
+Aparte de letras y numeros, se podian usar algunos signos de puntuacion y
+tambien
+el espacio en blanco (aunque casi nadie sabia como hacer esto)
+
+Conclusion: cuando hicieron Windows 95, decidieron que los nombres de
+archivos
+iban a poder consistir en hasta 255 caracteres, letras numeros, signos de
+puntuacion y
+espacios.
+Obviamente, la estructura interna de los discos se modifico para acomodar
+estos nombres
+tan largos. Si vos metias un disquette modificado internamente para acomodar
+nombres
+largos (lo que se llama sistema de archivos VFAT) cuando lo metias en una
+maquina que
+tenia DOS, leeria basura, entonces el Windows graba el nombre largo de una
+forma invisible
+para el DOS y ademas graba un nombre corto abreviando el nombre largo
+correspondiente.
+El nombre corto es compatible con DOS, o sea del tipo xxxxxxxx.xxx
+Toda esta duplicidad de nombres el Windows la realiza cuando en nombre largo
+original no
+es del todo compatible con DOS.
+En el caso del archivo CPP0720x.034 aparentemente el nombre es compatible
+con DOS.
+Posiblemente, el archivo contenga un espacio en el nombre al principio o al
+final, o tal vez en
+el medio. Deberias ver cuidadosamente eso (se que es dificil por cuanto los
+espacios en
+blanco son invisibles).
+De ultima, usando DOS en la maquina que tiene DOS, renombra el archivo a
+mano antes de
+procesarlo. Por ejemplo el comando:
+
+    REN CPP07~1.034 CPP0720x.034
+
+haria el truco.
+
+> Y no era que el archivo estaba mal grabado, porque le cambié el nombre
+> en la n�2 y me lo procesé lo mas bien, o sea que no era que leía mal el
+> contenido, sino que le cambiaba el nombre.
+
+Bueno, los infelices que te mandan esos archivos te lo mandaron con un
+nombre con un espacio
+embebido.
+
+> ¿Alguien entendió algo, que me pueda explicar?
+
+No dije que siempre tenia respuestas para todo?
+
+Groucho
+
+
+

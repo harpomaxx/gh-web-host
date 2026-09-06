@@ -1,0 +1,45 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 4 Nov 2000 19:32:27 -0000
+Received: (qmail 10423 invoked from network); 4 Nov 2000 19:32:26 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 4 Nov 2000 19:32:26 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 4 Nov 2000 19:32:25 -0000
+Received: from antro.micasa ([200.41.31.29]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA04839 for <mendonet-l@egroups.com>; Sat, 4 Nov 2000 13:27:43 -0300 (GMT)
+Date: Sat, 4 Nov 2000 15:53:38 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <3662.001104@...>
+To: Romina Bertorelli <mendonet-l@egroups.com>
+Subject: Re[2]: pregunta
+In-reply-To: <20001104040216.27720.qmail@...>
+References: <20001104040216.27720.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 04/11/2000, Romina Bertorelli tristemente detalló:
+
+>> >  RB>y los ultimos tres entre mendoza y san luis.
+>> >  Qué hacés en San Luis?
+>> a veces estudia
+
+RB> Hola ..eh.. sabes?.. tus mails me llegan raros..
+RB> ¿por que?
+
+Si te referis a la forma, porque los escribe en HTML.
+Si te referis al contenido...
+Bueno... Lo que ves es lo que obtienes...
+
+Tal vez el te confundio con Conan, que tambien se la
+pasa entre San Luis y Mendoza y a veces estudia.
+
+-- 
+Groucho Marx
+Si requiere una interpolación lineal, obtenga sólo dos valores.
+
+
+

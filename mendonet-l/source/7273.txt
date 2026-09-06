@@ -1,0 +1,32 @@
+From babasonica@...  Sat Jul 11 23:23:58 2020
+Return-Path: <babasonica@...>
+X-Sender: babasonica@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 5 Nov 2000 22:39:01 -0000
+Received: (qmail 24032 invoked from network); 5 Nov 2000 22:39:01 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 5 Nov 2000 22:39:01 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 5 Nov 2000 22:39:01 -0000
+Received: (qmail 10941 invoked by uid 417); 5 Nov 2000 22:42:27 -0000
+Received: from unknown (HELO hfgg) (200.41.31.107) by smtpa.softhome.net with SMTP; 5 Nov 2000 22:42:27 -0000
+Message-ID: <017a01c04758$25e48000$9a4afea9@hfgg>
+To: <mendonet-l@egroups.com>
+References: <20001104040216.27720.qmail@...>
+Subject: RE: pregunta
+Date: Sun, 5 Nov 2000 15:24:36 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: "Mariana" <babasonica@...>
+
+> Hola ..eh.. sabes?.. tus mails me llegan raros..
+> ¿por que?
+
+No le preguntés, porque no va a saber responderte... Directamente ordenale
+que saque la opción de HTML del programa.
+A veces la palabra entra con sangre...
+
+

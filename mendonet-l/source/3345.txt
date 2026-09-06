@@ -1,0 +1,46 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 5 Nov 2001 03:18:47 -0000
+Received: (qmail 98042 invoked from network); 5 Nov 2001 03:18:47 -0000
+Received: from unknown (216.115.97.167)
+  by m2.grp.snv.yahoo.com with QMQP; 5 Nov 2001 03:18:47 -0000
+Received: from unknown (HELO elserver.forknet.org.ar) (200.41.31.50)
+  by mta1.grp.snv.yahoo.com with SMTP; 5 Nov 2001 03:18:46 -0000
+Received: (qmail 16291 invoked by uid 1000); 5 Nov 2001 03:08:19 -0000
+Date: Mon, 5 Nov 2001 00:08:19 -0300
+To: mendonet-l@...
+Subject: Re: una ayudita (linux)
+Message-ID: <20011105000819.C12145@...>
+Reply-To: harpo@...
+References: <002601c163d3$45779a40$b21529c8@darinka>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <002601c163d3$45779a40$b21529c8@darinka>
+User-Agent: Mutt/1.3.22i
+X-Operating-System: Linux elserver 2.4.9 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+X-Yahoo-Profile: harpomaxx
+
+El Fri, Nov 02, 2001 at 04:18:33PM -0300, GAUCHO98 dijo:
+> 
+>    a ver quien me ayuda conn unca cosita de linux, tengo entendido que es
+>    posible cambiarle la letra a la consola de linux, quiero saber como lo
+>    hago  y  si  es  posible ponerle la letra electroharmonix, avisenme si
+>    tengo  que  bajarme  algo  de  intermnet  y  como instalo esa letra en
+>    consola,  pero  no desde las Xwin en una Xterm, en CONSOLA, sin que se
+>    me modifique el resto del prompt.
+
+Si tenes que recompilar el kernel con soporta para TTF y luego usar un
+programa en espacio de usuario para modificar las fonts. Seguramente vas a
+tener que pasar los Bitmaps de la fonts de MSsoft a TTF (GNU/Linux version).
+O sea como ves.. se puede hacer pero no es facil. ;-)
+
+PD:
+http://www.linuxmendoza.org.ar
+-- 
+Harpo+
+

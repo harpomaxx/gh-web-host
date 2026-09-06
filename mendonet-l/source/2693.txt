@@ -1,0 +1,88 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 21 Nov 2001 21:30:32 -0000
+Received: (qmail 32795 invoked from network); 21 Nov 2001 21:30:30 -0000
+Received: from unknown (216.115.97.172)
+  by m3.grp.snv.yahoo.com with QMQP; 21 Nov 2001 21:30:30 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2.grp.snv.yahoo.com with SMTP; 21 Nov 2001 21:30:30 -0000
+Received: from modem54-as1.mendoza.sinectis.com.ar ([216.244.255.54])
+  by softhome.net with esmtp; Wed, 21 Nov 2001 13:29:06 -0700
+Date: Wed, 21 Nov 2001 10:57:00 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus <aldocop@...>
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <3456.011121@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbMl06IFByZWd1bnRhICBwYXJhIGFsZ/puIGd1cvogaW5mb3Jt4XRp?= =?ISO-8859-1?B?Y28uLi4=?=
+In-reply-To: <20011120194912.H3550@...>
+References: <20011120194912.H3550@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+
+             El 20/11/2001, mendonet-l decía:
+
+
+GM> On Mon, Nov 19, 2001 at 11:13:56PM -0300, Lupus wrote:
+
+>> Che, acabo de cambiar el cooler de mi procesador, y :
+>> 1) hay una luz como de 0.5 milímetros entre el disipador de calor y el
+>> procesador,  a ambos costados de la zona de contacto... eso está bien?
+
+GM> Esta mal. Esa capa de aire es la diferencia entre ponerse 2 poleras finitas
+GM> con cuello (de esas que te gustan) o una polera grusa. Con cual te cagas mas
+GM> de calor?
+GM> Un disipador esta bien puesto cuando al moverlo sentis que el metal RASPA
+GM> contra la ceramica, de esa forma sabes que no quedaron burbujas de aire dentro
+GM> de la capa de grasa termica que le pusiste,
+
+Pero es que el formato del disipador hace que la luz sea inevitable...
+Yo  estaba  pensando  justamente en lo mal que le hace a la conducción
+del  calor  esa  luz... pero imaginé que tal vez tenía alguna razón de
+ser, ya que está construido así ex profeso.
+El disipador tiene esta forma :
+
+_____________________                  ______________________
+                     !________________!
+
+La  parte  del  medio hace contacto con el procesador, pero las "alas"
+quedan   inevitablemente  separadas  de  él  un  poco  más  de  medio
+milímetro... y la geometría esta hecha asi claramente a propósito...
+Claro  que  siempre  puedo  rellenar esa pequeña capa con alguna pasta
+conductora  del  calor...  pero  estaría  llendo  contra  el diseño...
+supongo...
+                     
+>> 2)  qué  tan  importante  es  la  grasa  siliconada esa que se suponde
+>> debería  haber  puesto  en  la  zona de contacto? 
+
+GM> Es muy importante: puede reducir la resistencia termica de la interfaz
+GM> carcaza-disipador a una tercera parte, mas o menos.
+GM> Tengo tablas para calcular disipadores si te interesa, y te puedo explicar
+GM> el modelo.
+
+GM> Vos no tenias un Pentium 2 de 350 mas o menos?
+
+Sip... supongo que eso se calienta mucho...
+
+>> alguien tiene que me preste...? 
+
+GM> Yo tengo. O Marc.
+
+Ya andará por alguna de sus casas, previa comunicacion telefónica...
+
+cuánto puede valer un potecito de esa cuestión... de todos modos?
+
+
+Lupus
+
+-- 
+
+Me cago en la sociedad, pero ella me lo retribuye ampliamente...                
+
+
+

@@ -1,0 +1,42 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+Received: (qmail 5906 invoked from network); 21 Jul 2000 07:49:48 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 21 Jul 2000 07:49:48 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.230.103) by mta1 with SMTP; 21 Jul 2000 07:49:46 -0000
+Received: from elserver.micasa (harpo@... [192.168.1.3]) by elserver.micasa (8.8.7/8.8.7) with ESMTP id EAA11906 for <mendonet-l@egroups.com>; Fri, 21 Jul 2000 04:44:59 -0300
+Date: Fri, 21 Jul 2000 04:44:59 -0300 (WART)
+X-Sender: harpo@...
+To: mendonet-l@egroups.com
+Subject: Re: Para todos los...
+In-Reply-To: <3973E5D9.909EB30E@...>
+Message-ID: <Pine.LNX.4.04.10007210402090.10087-100000@...>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+From: harpo <harpo@...>
+
+On Tue, 18 Jul 2000, Cabeza wrote:
+
+C>Sebas wrote:
+C>> 
+C>> > recuerdo que =
+habia una opcion por ahi, pero, no se.
+C>> > Se me olvido porque hace mas d=
+e 2 años que no uso el winamp
+C>> > y hace mas de dos años que deje de =
+usar windows en mis PC.
+C>> Para dar esas ayudas hermano... retiro todas la=
+s gracias quete habia dado
+C> 
+C>
+C>Es verdad, pero sobre linux preguntam=
+e lo que quieras.
+
+Cual es el tamanio en bytes del miembro de la estructura=
+ que representa
+el PID???? :)))
+
+El Harpo!
+
+
+

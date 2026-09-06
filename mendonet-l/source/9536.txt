@@ -1,0 +1,49 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 32131 invoked from network); 15 Jul 2000 21:27:56 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 15 Jul 2000 21:27:56 -0000
+Received: from unknown (HELO debian.linux.debian) (200.43.121.38) by mta1 with SMTP; 15 Jul 2000 21:27:54 -0000
+Received: from k6.linux.redhat (VME2ppp-53.uc.infovia.com.ar [209.13.252.117]) by debian.linux.debian (8.8.5/8.8.5) with ESMTP id PAA25937 for <mendonet-l@egroups.com>; Sat, 15 Jul 2000 15:20:35 -0300
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id QAA03283 for <mendonet-l@egroups.com>; Sat, 15 Jul 2000 16:14:05 -0300
+Sender: federico@...
+Message-ID: <3970B7FD.B5E38C27@...>
+Date: Sat, 15 Jul 2000 16:14:05 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.12 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: Dios se la come, religiosos abstenerse.
+References: <001e01bfea91$5e8cb360$017c2ac8@tepes> <18583.000712@...> <005e01bfede8$6ed4d220$637c2ac8@tepes>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+Sebas wrote:
+> 
+> >Me  gustaría  creer  que  el  comunismo es un sistema que dar� mejores
+> >resultados  para el mundo que el capitalismo, me gustaría creer en eso
+> >tanto  o más de lo que me gustaría creer en Dios!! Pero no puedo creer
+> >en  Dios  porque  me parecen cuentos para niños, me parece que los que
+> >creen  en  Dios son impulsados por el terror que les da la posibilidad
+> >de  que  Dios  no  exista.
+> Dios se la come. A ver, ¡che Dios!,eh, botón! cá toy! Chupame la pija Dios
+> botón! Si existe Dios que me castigue por putearlo y que me parta un rayo.
+
+que yo sepa, nunca jamas dios ha castigado a alguien. los unicos
+inservibles estupidos idiotas que se castigan son las personas entre si.
+hasta hay pelotudos que se castigan a si mismos. 
+y lo hacen por Dios, su seran pelotudos no?
+
+
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+                   Linux(*) Is Not UniX 
+(*)Linux® is a registered trademark of Linus Torvalds
+

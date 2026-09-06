@@ -1,0 +1,84 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 5 Mar 2003 00:38:11 -0000
+Received: (qmail 59606 invoked from network); 5 Mar 2003 00:38:11 -0000
+Received: from unknown (66.218.66.216)
+  by m10.grp.scd.yahoo.com with QMQP; 5 Mar 2003 00:38:11 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 5 Mar 2003 00:38:11 -0000
+Received: (qmail 29319 invoked by uid 417); 5 Mar 2003 00:38:10 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 5 Mar 2003 00:38:10 -0000
+Received: from dup-200-42-124-240.prima.net.ar ([200.42.124.240])
+  by softhome.net with esmtp; Tue, 04 Mar 2003 17:38:00 -0700
+Date: Tue, 4 Mar 2003 21:36:04 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <10900.030304@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: Re[2]: (unknown)
+In-reply-To: <20030303200613.GG1809@...>
+References: <20030303200613.GG1809@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> Che, mi vieja usa outlook express, y cada vez que le llega una de esas
+>> propagandas de "ciudad", se conetca automáticamente... si interrumpís
+>> la conexión lo intenta de nuevo y así ad eternum... ¿cómo lo impido?
+
+GM> Tenes que mirar el codigo fuente del mensaje para ver como es que se
+GM> esta conectando automaticamente.
+GM> Veo 2 posibilidades:
+GM> 1. El mail esta en formato HTML e incluye imagenes que no estan adjuntas
+GM> al mail y por lo tanto las tiene que bajar de un servidor web para poder
+GM> mostrar el mensaje
+
+Esa es la opción correcta.
+
+GM> La solucion consta de varios pasos:
+GM> 1. Desactivar el discado automatico en la configuracion de Internet Explorer.
+GM> La conexion automatica es para imbeciles. Y tu vieja seguramente no lo es.
+
+MIrá, mi vieja es bastante grosa. Si pensamos que nació en una villa
+miseria sanjuanina, trabajó desde los trece años, fue abanderada de la
+primaria y la secundaria, luego se recibió de profesora de geografía,
+se "perfeccionó" para poder ser directora y lo fue de una escuela
+rural, con tal éxito, que los vecinos querían ponerle su nombre a una
+calle. Luego debió jubilarse, continuó ejerciendo la docencia en la
+medida en que se lo permitía la ley, fue asesora del ministerio de
+educación y ahora, a sus 60 años, está estudiando hotelería. Con
+semejante currículum, uno diría que no debería tener problemas en
+aprender informática... pero no es así, le cuesta horrores.
+Ultimamente ha hecho enormes progresos, pero así y todo tengo que
+hacerle las cosas tan simples como sea posible, y la verdad, que OE es
+el más intuitivo de los clientes de correo que conozco.
+
+GM> 2. Configurar Outlook Express para que "comparta" la configuracion de
+GM> conexion con Internet Explorer.
+¿Eso qué quiere decir? Si es lo que yo pienso, ya es así, pero igual
+aclarámelo.
+
+GM> 3. Desinstala OE y reemplazalo con Mozilla
+GM> (http://www.mozilla.org) que es mas seguro, mas funcional y cumple con los
+GM> estandares establecidos.
+Ahora lo estoy bajando para conocerlo yo, pero imposible que mi vieja
+lo use.
+
+>> Estuve revisando y no encontré nada que pareciera evitarlo... ¿podrían
+>> ayudarme?
+GM> No uses OE y no vas a tener estos problemas tan estupidos.
+Yo uso the bat! y ando al pelo, el problema es de mi vieja.
+
+
+-- 
+Sebas   
+Quien sacrifica la libertad en nombre de la seguridad no merece la libertad ni la seguridad.                        
+
+
+

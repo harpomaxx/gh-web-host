@@ -1,0 +1,46 @@
+From morocho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <morocho@...>
+X-Sender: morocho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 25 Sep 2001 12:37:42 -0000
+Received: (qmail 84466 invoked from network); 25 Sep 2001 12:37:31 -0000
+Received: from unknown (10.1.10.26)
+  by l7.egroups.com with QMQP; 25 Sep 2001 12:37:31 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (66.54.152.30)
+  by mta1 with SMTP; 25 Sep 2001 12:37:31 -0000
+Received: (qmail 5413 invoked by uid 417); 25 Sep 2001 11:58:49 -0000
+Message-ID: <20010925115849.5412.qmail@...>
+References: <1001327003.941.46583.l10@...>
+In-Reply-To: <1001327003.941.46583.l10@...>
+To: mendonet-l@...
+Subject: Re[3]: Sobre el zopenco de oxi
+Date: Tue, 25 Sep 2001 11:58:49 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+X-Sender: morocho@...
+From: morocho@...
+
+
+>Fecha: Mon, 24 Sep 2001 20:42:59 -0300 
+>De: Oxiuro <oxiuro@...> 
+>Asunto: 
+>S>>> condicional... entendió, memo?
+>O>> /ban #mendonet-l Sebas
+>> S> sentate {� en una estaca ��?!� oxi
+>> raro, raro, un baneado no puede mandar mensajes.
+>> bue, va de nuevo
+> /mode Sebas -v
+> /kick #mendonet-l Sebas
+> /ban #mendonet-l Sebas
+> /SET #mendonet-l MLOCK +im
+> 
+> listo, no tenes voz para hablar.
+
+ Creo que esta peleita chota esta tocando fondo!!!
+ Ponganse las pilas, bufarras cagatornillos!!!! 
+
+ morocho�...
+
+ 
+

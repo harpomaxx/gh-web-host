@@ -1,0 +1,74 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:43 -0000
+Received: (qmail 24808 invoked from network); 19 Sep 2001 07:05:43 -0000
+Received: from unknown (10.1.10.26)
+  by l10.egroups.com with QMQP; 19 Sep 2001 07:05:43 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta1 with SMTP; 19 Sep 2001 07:05:30 -0000
+Received: (qmail 8835 invoked by uid 1005); 18 Sep 2001 18:25:00 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.170143 secs); 18/09/2001 15:24:58
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 18:24:57 -0000
+Date: Tue, 18 Sep 2001 15:24:56 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <1186050183.20010915000539@...>
+In-Reply-To: <1186050183.20010915000539@...>
+Subject: Re: =?iso-8859-1?q?=BFEl=20islam=20hizo=20justicia=3F?=
+MIME-Version: 1.0
+Message-Id: <01091815245605.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Sáb 15 Sep 2001 00:05, escribiste:
+
+> GM>> Una pregunta: por que tardaron tanto en caese? Que mierda le
+> GM>> Y por que si se cae lo de arriba despues se siguio cayendo
+> GM>> lo de abajo? 
+>
+> > Carga dinámica. No tengo la ecuación por acá, (oxi... la traerías
+> > porfi...?)
+> > El tema es que llega a ser mmuuuuy superior a la carta est�ti
+>
+> 1- Si hablas de carga dinamica en si, analizada como estatica, facil,
+> solo multiplicas la estatica por un coeficiente que depende entre
+> otras cosas de la distancia entre la carga en reposo y el punto de
+> aplicacion.
+>
+> 2- Si hablas de carga dinamica a partir de la ecuacion de equilibrio
+> dinamico:
+> eso es para un sismo y debido a que son varios grados de libertad son
+> todas matrices o sea un sistema de ecuaciones.
+>
+> De todos modos la pregunta de Groucho venia por otro lado, es asi o
+> no groucho?
+>
+> Esta claro?
+> Si queres te puedo ser mas especifico.
+
+
+No, solo necesitaba una pequeña pista para que mi comprension intuitiva 
+de estabilidad de materiales me permitiera ententenderlo.
+
+Veamos: si bien puedo levantar por el aire sin dificultad (*) un 
+policia de 80 kg, cuando ese mismo policia se me abalanza encima en 
+seco, me tira al piso.
+En el primer caso estoy resistiendo la carga estatica de sus 80 Kg de 
+pedanteria, mientras que en el segundo caso, la muy superior carga 
+dinamica provocada por su primitivo disfrute del poder cohercitivo, 
+logra doblegarme.
+
+(*) dados suficientes motivos de furia
+
+Resistencia a la autoridad? Y que si esa autoridad quiere privarme de 
+mi libertad?
+
+
+-- 
+Groucho Marx
+

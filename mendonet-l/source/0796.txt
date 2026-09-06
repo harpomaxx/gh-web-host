@@ -1,0 +1,72 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 4 Oct 2002 23:24:41 -0000
+Received: (qmail 27329 invoked from network); 4 Oct 2002 23:21:54 -0000
+Received: from unknown (66.218.66.218)
+  by m4.grp.scd.yahoo.com with QMQP; 4 Oct 2002 23:21:54 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 4 Oct 2002 23:21:54 -0000
+Received: (qmail 8442 invoked by uid 417); 4 Oct 2002 23:21:49 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 4 Oct 2002 23:21:49 -0000
+Received: from modem70-as1.mendoza.sinectis.com.ar ([216.244.255.70])
+  by softhome.net with esmtp; Fri, 04 Oct 2002 17:21:47 -0600
+Date: Sat, 28 Sep 2002 20:46:19 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <0865.020928@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbM106IERlc2Fmae10byBkZSBm7XNpY2Eu?=
+In-reply-To: <19396.020927@...>
+References: <19396.020927@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+G>> ¿Porqué la luna no cae sobre la Tierra ni la Tierra sobre el Sol?
+G>> Porque la fuerza centrífuga de su rotación iguala a la gravitacional del
+G>> astro o planeta sobre el que giran.
+S> Otra vez con esto... la aceleración centrífuga no existe, si existiera
+S> los cuerpos saldrían despedidos en dirección perpendicular a su
+S> velocidad tangencial, y lo hacen en la misma dirección. Dije otra vez
+S> porque Groucho creo que también hablé de aceleración centrífuga.
+
+A ver a ver... creo que estamos mezclando fuerza y aceleración...
+
+La  aceleración  que  tiene  a alejar o acercar la luna y la tierra no
+existe.  De  hecho  no  existe  porque  el  sistema de fuerzas está en
+equilibrio.  Eso  no  significa  que no exista una fuerza centrífuga y
+otra  centrípeta  que  están  en equilibrio, aunque no estoy seguro de
+cuál  era  cual, creo que la centrífuga es la que tiene a alejar a los
+objetos y la centrípeta la que los acerca,pero si me equivoco y es al revés
+corrigan  este  error  en  el otro mail y no rompan los guevos, se los
+anteicipo...
+
+La luna no saldría despedida en dirección perpendicular a la tierra de
+"cortarse"  la atracción gravitatoria, como bien dice xebax, pero esto
+es  consecuencia  de  que  en  el  mismo  instante  que  se "corta" la
+atraccion  gravitatoria  la  luna deja de girar en círculos y con esto
+desaparecen  las  fuerza  centrífuga  y centrípeta silultáneamente, no
+produciendo aceleracion en ese sentido. Soy claro?
+
+Por  eso  las  piedras  en  las  ondas  de  david  salen  en dirección
+tangencial.  Pero fijate que si estuvieras girando una piedra enuna de
+esas  ondas  y  le dieras más cuerda la piedra se alejaría del centro,
+lo  que  prueba  que mientras el movimiento circular exista existe una
+fuerza perpendicular a la velocidad tangencial.
+
+Lupus
+
+-- 
+
+"Los medios se transforman en fines.(...)  Antes, cuando se sentía hambre, se hechaba una mirada al reloj para ver qué hora era; ahora se lo consulta para ver si tenemos hambre." Ernesto Sábato.              
+
+
+

@@ -1,0 +1,68 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 7574 invoked from network); 17 Jul 2000 18:34:05 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 17 Jul 2000 18:34:05 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 17 Jul 2000 18:34:05 -0000
+Received: (qmail 21591 invoked by uid 417); 17 Jul 2000 18:39:49 -0000
+Received: from mza2ppp-210.uc.infovia.com.ar (209.13.229.210) by smtpb.softhome.net with SMTP; 17 Jul 2000 18:39:49 -0000
+Date: Sun, 16 Jul 2000 11:36:48 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <10483.000716@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: Aguante la mala praxis
+In-reply-To: <004301bfedbb$06cb0960$957c2ac8@tepes>
+References: <004301bfedbb$06cb0960$957c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Lupus el Lobo <aldocop@...>
+
+El 7/14/2000 Sebas me decia:
+
+
+>>    Ya no son como los de antes(no quier=
+o decir que todo pasado fue
+>>    mejor para nada) que observaban al pacien=
+te y ya tenian
+>>    un diagnostico ahora el diagnostico lo hace una maqu=
+ina en cuestion
+>>    de segundos
+S> =BFY esa que maquina es?=A1La quie=
+ro!
+
+Uno  de  los  medicos a los que ha ido Mariela, no recuerdo bien cua=
+l,
+creo  que  un neurologo muy conocido, tiene un programa de computadora=
+
+(muy  bien  valuado  por cierto), que ademas de los modilos de base de
+d=
+atos de pacientes tiene un modulo que aepta los sintomas, los compara
+a=
+demas con la informacion de la ficha del paciente y tira una lista de
+p=
+osibles  enfermedades,  ordenadas  por  orden  de probabilidad, y una
+lista=
+  de  posibles estudios para mejorar la certeza. Esto es sin duda
+una  herr=
+amienta  de  recagarse!! Ademas, imagintate que te agarra una
+enfermedad =
+ muy  poco comun, que el medico estudio como una curiosidad
+hace  20 =
+años y cuya existencia olvido completamente hace 10, que para
+colmo   c=
+omparte  sintomas,  como  supongo  que  la  mayoria  de  las
+enfermedades=
+,  con otro grupo de enfermedades mas comunes, para que se
+descubra  la  =
+identedad  de  esta  enfermedad pueden pasar años, hasta
+puede  nunca  de=
+scubrirse...  un  programita asi, que te diga: es poco
+probable  pero tam=
+bien puede ser xxx, haria que el medico diga: xxx me
+suena... ahhh si=
+iiii... claro... (Muy copado...)
+
+
+

@@ -1,0 +1,125 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 20 May 2002 19:12:31 -0000
+Received: (qmail 45829 invoked from network); 20 May 2002 19:12:30 -0000
+Received: from unknown (66.218.66.217)
+  by m3.grp.scd.yahoo.com with QMQP; 20 May 2002 19:12:30 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.22)
+  by mta2.grp.scd.yahoo.com with SMTP; 20 May 2002 19:12:29 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 179nqN-0003rH-00
+	for <mendonet-l@...>; Mon, 20 May 2002 11:08:59 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 179nqM-0003r6-00
+	for <mendonet-l@...>; Mon, 20 May 2002 11:08:58 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re:
+Date: Mon, 20 May 2002 13:58:56 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <E179RAr-0003Qk-00@...> <15617.020519@...>
+In-Reply-To: <15617.020519@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E179nqM-0003r6-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Dom 19 May 2002 14:48, escribiste:
+
+> >> Mi impresora es una HP deskjet 670. ¿Puede ser que no imprima
+> >> color ni blanco y negro porque el cartucho color está agotado?
+>
+> GM> Si el cartucho esta agotado, imprime en falso. O sea: hace toda
+> la GM> mimica de impresion pero la tinta no sale, obviametne porque
+> no existe. GM> Hace esta prueba: levanta la tapa de la impresora, con
+> lo cual los GM> cabezales se mueven al centro y na luz empieza a
+> parpadear. GM> Luego baja la tapa. si la luz no deja de parpadear y
+> los cabezales no GM> se guardan en su sitio, entonces el cartucho no
+> es que no tiene tinta, GM> sino que no es correctamente detectado por
+> la impresora. GM> Sacalo, limpialo, volvelo a poner, etc.
+
+> No entendiste. El cartucho para imprimir negro está lleno.
+
+Vos tampoco entendiste. Yo no dije ni una palabra de tu cartucho negro.
+La presencia de tinta no puede ser detectada por la impresora, sino que 
+es contabilizada por el driver.
+
+> El que puede estar vacío es el color
+
+Velo a trasluz y sacate la duda. Usa papel higienico para ver si 
+absorbe tinta apoyandolo los inyectores encima, etc.
+
+
+> pero yo no quiero que imprimacolor, quiero que imprima negro.
+
+Eso es lo que vos no entendiste. A la impresora le chupa un huevo lo 
+que vos queras. Si el cartucho color no es detectado por la impresora, 
+entonces no imprime. Fijate que la impresora toma la decision de no 
+imprimir aun antes de que vos mandes los datos a imprimir, por lo tanto 
+no interesa si vos mandas datos en blanco y negro o en color.
+La prueba de abrir y cerrar la tapa permite ver si alguno de los 
+cartuchos no es detectado. La prueba de chupar tinta con papel 
+higienico permite ver si los inyectores escupen tinta o no. Ver el 
+cartucho a trasluz permite ver si hay tinta o no.
+La prueba de impresion dejando apretado el boton 3 segundos permite 
+probar la funcuionalidad completa de la impresora excepto la 
+comunicacion con la impresora.
+
+Combina las pruebas a discrecion hasta que arribes a una conclusion 
+logica respecto del problema que estas experimentando.
+A inferir no te voy a explicar...
+
+
+> GM> Hace la prueba de impresion de la impresora, dejando apretado
+> durante 3 GM> segundos el boton que no es el boton de apagar, sino el
+> otro. GM> Fijate ahi como imprime.
+> He hecho eso y mucho más, tan estúpido no soy. No importa lo que
+> haga, no imprime negro, que es lo único que le pido.... tampoco en
+> color, pero porque no tiene tinta.
+
+Se mueve o no se mueve? Hace la mimica o se queda quieto el cabezal?
+
+
+> La pregunta es....¿puede ser que no imprima en negro porque el
+> cartucho color esté hecho cagar?
+
+   SSSSS    IIIIII
+  SSS  SS     II
+  SS          II
+   SSSSS      II
+       SS     II
+  SS  SSS     II
+   SSSSS    IIIIII
+
+Es lo que te explique mas arriba. Pero si fuera asi, la impresora no 
+haria la mimica de imprimir. Simplemente se emperra y no se le da la 
+gna de imprimir.
+Distinto seria que haga como que imprime pero no sale la tinta.
+Te di metodos de diagnostico suficientes como para distinguir ambos 
+casos.
+
+
+> En una de esas para imprimir lo que
+> sea exije que los dos cartuchos estén llenos...
+
+Exige que haya 2 cartuchos correctamente puestos. La cantidad de tinta 
+no la puede detectar.
+
+> sería una boludez, pero un pegada comercial contra ahorrativos como
+> yo que no quieren imprimir en color.
+
+Facilmente violable. Le pones un cartucho color VACIO pero NO ROTO y 
+listo.
+
+-- 
+Herr GrouchoX
+
+
+
+

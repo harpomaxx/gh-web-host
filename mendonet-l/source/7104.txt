@@ -1,0 +1,16 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 9 Nov 2000 15:13:12 -0000
+Received: (qmail 3315 invoked from network); 9 Nov 2000 15:13:12 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 9 Nov 2000 15:13:12 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta3 with SMTP; 9 Nov 2000 16:14:16 -0000
+Received: (qmail 31703 invoked by uid 722); 9 Nov 2000 15:13:01 -0000
+Date: 9 Nov 2000 15:13:01 -0000
+Message-ID: <20001109151301.31701.qmail@...>
+To: mendonet-l@egroups.com
+Subject: Re: para el gallego y todos los que rayen: saludar
+From: fcanizo@...
+
+

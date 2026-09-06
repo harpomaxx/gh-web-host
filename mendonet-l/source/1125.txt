@@ -1,0 +1,151 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 16 May 2002 15:16:20 -0000
+Received: (qmail 91705 invoked from network); 16 May 2002 15:16:19 -0000
+Received: from unknown (66.218.66.216)
+  by m10.grp.scd.yahoo.com with QMQP; 16 May 2002 15:16:19 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta1.grp.scd.yahoo.com with SMTP; 16 May 2002 15:16:19 -0000
+Received: from lagruta (rdumen1-200.41.21.70 [200.41.21.70] (may be forged))
+	by smtp5 (8.9.3/8.9.3) with SMTP id MAA07743
+	for <mendonet-l@...>; Thu, 16 May 2002 12:05:26 +0300 (GMT)
+Message-ID: <00ce01c1fced$7abc6420$060aa8c0@...>
+To: <mendonet-l@...>
+References: <E177lMk-00012M-00@...> <7385.020516@...>
+Subject: Re: 
+Date: Thu, 16 May 2002 12:21:16 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> >> GM> Como se yo que vos estas conciente? Como se que todos ustedes no
+> >> GM> son automatas como amebas, pero con comportamientos ctan omplejos
+> >> GM> que hacen que sus conductas se asemejen a las mias, que soy el
+> >> GM> unico del que puedo estar seguro que esta conciente?
+> >>
+> >> GM> Explicame eso y vemos el asunto de los programas concientes.
+> >>
+> >> Los  mecanismos  que  hacen que yo actúe "como si estuviera
+> >> conciente" son exáctamente iguales a los que hacen que vos actúes del
+> >> mismo modo, de  lo que se deduce que si vos estás seguro de tu
+> >> conciencia y de que tu  conciencia  es  concecuencia  de tu
+> >> funcionar, deberias aceptar mi conciencia, concecuencia de un
+> >> funcionar análogo.
+> GM> No sirve. Tenes que darme una justificacion conductista
+>
+> MOMENTO!!
+> Tu pregunta fue:
+>
+> GM> Como se yo que vos estas conciente?
+>
+> Y   mi  respuesta  es perfectamente válida.
+> No te sirve para llegar al punto que vos pretendías llegar (y en cierta
+> forma fue a drede...).
+
+Yo queria que me dijeras que signos externos me hacen pensar que estes
+conciente. Como saben los medicos si estas conciente o en coma?
+
+
+> Si no  comprendí  mal  vos  pensabas  decir  que si una computadora podía
+> resp�nder  a  ciertas  preguntas  del  mismo  modo  que  un ser humano
+> conciente  entonces  esa computadora sería conciente desde un punto de
+> vista  conductista...
+
+Ese es el conocido test de Turing, pero sirve para probar la inteligencia,
+no la conciencia.
+Yo queria aplicar el test de Lupus, cualquiera que sea.
+El test de Lupus es "para todo X: si X funciona internamente como Groucho,
+entonces X es conciente" por lo que basta con probar si X funciona
+internamente como Groucho.
+Con ese test, solo Groucho y algunas otras personas son concientes... que es
+un test ad-hoc y no sirve.
+Es como la prueba de la locura del Hospital Mental Bosque Calmo de
+Springfield:
+
+   Homero: _Como distinguen a los locos de los cuerdos?
+Dr Monroe: _Con ESTO! (le pone a Homero un sello que dice INSANE)
+
+La escencia de la conciencia no es funcionar internamente como Groucho,
+digo, se me ocurre, de pronto, me parece...
+Dame una prueba de conciencia que apele a la escencia de la misma.
+
+Para mi la conciencia es un mecanismo para planificar la conducta. El
+sistema conciente construye un modelo de su entorno y evalua posibles
+conductas. Realiza una simulacion del mundo, y luego actua.
+
+
+>  pero  para  mí la conciencia hace mucho más que
+> soloresponder preguntas de un modo análogo al que lo hago yo...
+
+Que mas hace? Un modelo interno del entorno?
+
+
+
+> GM> (o sea que solo
+> GM> se fije en los comportamientos y su relacion con los estimulos;
+digamos
+> GM> la funcion de transferencia del sistema "conciencia"), ya que el
+> GM> proposito es aplicar la prueba que ofrezcas de que estas conciente
+para
+> GM> ver si los programas esos de computadora tambien estan concientes. En
+> GM> ese caso, la hipotesis del "funcionar analogo" que resulta crucial en
+> GM> tu deduccion es falsa.
+>
+> Momento geniecillo!!
+>
+> Mi  hip�tisis  no  es  falsa!  Que  no  te  sea  útil  para tu interés
+> particular no implica falacia alguna!!
+
+No dije falacia. Dije falso. Hasta donde se sabe, un programa de computadora
+no funciona igual que el cerebro. Si recordas la expresion formal de tu
+prueba de conciencia:
+
+"para todo X: si X funciona como Groucho, entonces X es conciente"
+
+El antecedente de la la funcion logica f(x)="si X funciona internamente como
+Groucho, entonces X es conciente" resulta falso para x="programa de
+computadora", haciendo falsa la implicacion y por lo tanto f(programa de
+computadora)uLSO.
+Si entendiste otra cosa, no es mi problema.
+
+
+> Es más, me niego a aceptar una prueba puramente conductivista sobre la
+> conciencia...  la  única  forma  que  yo tendría de estar seguro de la
+> conciencia  real  de  esa  cuestión  sería experimentando yo mismo ese
+> estado de conciencia, algo evidentemente inpracticable...
+
+Entonces renuncias a la posibilidad de verificar que otro sistema ademas de
+vos este conciente... Toda esta discusion es baladi. (<--- LAME!)
+Hubieras empezado por ahi y no te dedicaba mi tiempo en tratar de concluir
+si es posible o no la existencia de un programa conciente.
+
+
+> GM> Y yo creo que el conductismo es la clave. Tu explicacion no fue
+> GM> conductista, AFAIKT...
+> Ok.   Si   lográs   proponer  un  examen  conductista  para discernir
+> entre  una  reacción  conciente  y  una  inconciente, y esta prueba me
+> convence; seguimos hablando.
+
+Estaria respondiendo mi propia pregunta... cochino elusivo!
+A ver esto:
+
+Como la conciencia es un mecanismo de planificacion de la conducta
+consistente en modelar internamente el entorno, y simular en en modelo las
+posibles conductas antes de realizarlas, hay que encontrar una relacion
+estimulo-respuesta que permita ver si hubo o no modelo interno y sumulacion.
+
+
+--
+Herr Grouchox
+
+
+

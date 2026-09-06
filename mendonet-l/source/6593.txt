@@ -1,0 +1,23 @@
+From zeppo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <zeppo@...>
+X-Sender: zeppo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-7_0_1_2); 19 Jan 2001 01:30:41 -0000
+Received: (qmail 90206 invoked from network); 19 Jan 2001 01:17:09 -0000
+Received: from unknown (10.1.10.142) by l8.egroups.com with QMQP; 19 Jan 2001 01:17:09 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 19 Jan 2001 02:18:14 -0000
+Received: (qmail 17187 invoked by uid 417); 19 Jan 2001 01:24:36 -0000
+Received: from a3d3.impsat.net.ar (HELO softhome.net) (200.41.21.123) by smtpa.softhome.net with SMTP; 19 Jan 2001 01:24:36 -0000
+Message-ID: <3A65F69B.E452CABF@...>
+Date: Wed, 17 Jan 2001 16:46:35 -0300
+X-Mailer: Mozilla 4.51 [es] (Win95; I)
+X-Accept-Language: es
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Luis Nieto <zeppo@...>
+
+unsubscribe zeppo@...
+
+

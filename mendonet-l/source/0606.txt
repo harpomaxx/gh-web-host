@@ -1,0 +1,42 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 23 Dec 2002 00:35:53 -0000
+Received: (qmail 43672 invoked from network); 23 Dec 2002 00:35:52 -0000
+Received: from unknown (66.218.66.216)
+  by m8.grp.scd.yahoo.com with QMQP; 23 Dec 2002 00:35:52 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 23 Dec 2002 00:35:52 -0000
+Received: (qmail 17545 invoked by uid 417); 23 Dec 2002 00:35:52 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 23 Dec 2002 00:35:52 -0000
+Received: from a200042124236.rev.prima.com.ar ([200.42.124.236])
+  by softhome.net with esmtp; Sun, 22 Dec 2002 17:35:50 -0700
+Date: Sun, 22 Dec 2002 21:24:10 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <0891.021222@...>
+To: Harpo Maxx <mendonet-l@...>
+Subject: Re: Obra de teatro
+In-reply-To: <20021221031316.GB20221@...>
+References: <20021221031316.GB20221@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+HM> Gente: los invito a la obra de teatro "el herrero y la muerte" el domingo 22
+HM> de diciembre a partir de las 9:30 en la sala el taller (de ernesto Suarez).
+HM> Mi brotha participa en esa obra, y la entrada es de 3 pesos. SAlutes!
+Algunos ya no sólo no escriben, sino que además usan mendonet con
+fines comerciales.
+
+-- 
+Sebas   
+El trabajo libera. (Pórtico del campo de concentración de Auschwitz.)                       
+
+
+

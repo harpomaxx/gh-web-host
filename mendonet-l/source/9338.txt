@@ -1,0 +1,51 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 11544 invoked from network); 26 Jul 2000 15:41:32 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 26 Jul 2000 15:41:32 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 26 Jul 2000 15:41:31 -0000
+Received: from LAGRUTA (rdumen1-200.41.21.69 [200.41.21.69] (may be forged)) by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id MAA10012 for <mendonet-l@egroups.com>; Wed, 26 Jul 2000 12:44:18 +0300 (GMT)
+Message-ID: <015e01bff718$77908920$090aa8c0@...>
+To: <mendonet-l@egroups.com>
+References: <002601bff0db$77ca1660$7b7d2ac8@tepes> <1234.000719@...> <397672E3.EEAD8E03@...>
+Subject: RE: Aguante la mala praxis
+Date: Wed, 26 Jul 2000 12:45:02 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: =?iso-8859-1?Q?Fernando_Rodriguez?= <groucho@...>
+
+> > Bueno.. Si dice: gripe=99,99999% meningitis espinal=0,000001% y a
+> > pesar de eso le haces estudios para ver si tiene meningitus a TODOS
+> > los pacientes con esas probabilidades, durante 20 años, serias muy
+> > torpe e inutil, no te parece??
+>
+> Yo no se que pensaria de eso el paciente 0,000001% que TIENE meningitis.
+> Creo que a él le gustaria que le hicieran tooodos los estudios...
+
+Si no tiene meningitis:
+No tiene por que pensar nada si no se le dice.
+O vos crees que cuando vas al medico, el te dice tooodo lo que se le pasa
+por la cabeza?
+Criterio es la palabra clave!!!!
+
+Si tiene meningitis:
+La probabilidad de que la tenga es tan baja que no podes culpar al medico
+por no tenerla
+en cuenta en su primer diagnostico. Si despues de aplicarle el tratamiento
+para la gripe, no
+se mejora, entonces:
+Al ingresar esa informacion a la computadora, la misma recalcula su
+diagnostico y te puede
+decir: gripe=5% meningitis=25% vaca-loca=xx% etc etc etc.
+O bien, si no te gusta el sistema experto, el medico dice: puta con la
+maquina pelotuda esta.
+Este tipo debe tener meningitis!
+
+Groucho
+
+
+

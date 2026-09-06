@@ -1,0 +1,74 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 7 Oct 2002 00:47:32 -0000
+Received: (qmail 59696 invoked from network); 7 Oct 2002 00:47:32 -0000
+Received: from unknown (66.218.66.216)
+  by m1.grp.scd.yahoo.com with QMQP; 7 Oct 2002 00:47:32 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.98)
+  by mta1.grp.scd.yahoo.com with SMTP; 7 Oct 2002 00:47:30 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.35 #1 (Debian))
+	id 17xthh-0000lq-00
+	for <mendonet-l@...>; Sat, 05 Oct 2002 15:31:05 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.35 #1 (Debian))
+	id 17xthg-0000lj-00
+	for <mendonet-l@...>; Sat, 05 Oct 2002 15:31:04 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: =?iso-8859-1?q?Desafiito=20de?= =?iso-8859-1?q?=20fisica=2E?=
+Date: Sat, 5 Oct 2002 15:24:53 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <2594.020925@...> <13863.020928@...>
+In-Reply-To: <13863.020928@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E17xthg-0000lj-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Sáb 28 Sep 2002 20:43, escribiste:
+> Si,  son lo mismo, pero yo no redactaría la número 1 de ese modo...
+> yo diría  que la fuerza de gravitacón que atrae a la luna hacia la
+> tierra es  idéntica  a  la  fuerza  centrífuga  que  la  empuja en el
+> sentido opuesto,  como  ambas  fuerzas  tienen  igual módulo y
+> dirección, pero sentidos opuestos se anulan y no producen aceleración
+> alguna.
+>
+> A  propósito...  a  modo de desafío... tengo algunas ideas que
+> podrías agregar:
+>
+> 1  dales  la masa de la tierra y la distancia de la tierra a la luna
+> y preguntá  la  masa  de  la luna... (la velocidad angular de giro de
+> la luna  es  un  dato  conocido). O dales las dos masas y preguntá
+> por la distancia...
+>
+> A   propósito,  la  luna  tiene  una  cara  que  jamás  vemos  porque
+> curiosamente  da un giro alrededor de sí misma en exáctamente el
+> mismo tiempo  que  tarda en dar un giro alrededor de la tierra. En
+> una época se  pensaba que ésto hasta era prueba de la existencia del
+> altísimo... una  coincidencia  tan grande no podía ser otra cosa que
+> la obra de un ente  conciente  y  poderoso...  después  se  halló 
+> una  explicación considerablemente  mejor  a éste fenómeno... digo...
+> a modo de desaf�a yo  no  lo  sacaría  ni  en  pedo...  la  respuesta
+>  la leí después de deshilacharme los sesos...
+
+Si el centro de gravedad de la luna no esta sobre el eje de rotacion, y 
+esperando el tiempo suficiente, entonces se obtiene la sincronizacion 
+pedorra esa.
+Sabias que Venus tambien siempre nos presenta la misma cara?
+
+
+-- 
+Herr GrouchoX
+
+ID Jabber: groucho@...
+Clave pública GPG: [pronto la voy a subir a algún lado]
+Fingerprint GPG: 00EC 0B71 49D5 2EEC 357C  9A78 A87B DC4F 1B31 8B55
+
+
+
+

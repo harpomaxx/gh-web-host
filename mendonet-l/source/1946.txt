@@ -1,0 +1,115 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 1 Feb 2002 13:10:00 -0000
+Received: (qmail 40850 invoked from network); 1 Feb 2002 13:10:00 -0000
+Received: from unknown (216.115.97.172)
+  by m8.grp.snv.yahoo.com with QMQP; 1 Feb 2002 13:10:00 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2.grp.snv.yahoo.com with SMTP; 1 Feb 2002 13:10:00 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id KAA27602
+	for <mendonet-l@...>; Fri, 1 Feb 2002 10:16:11 +0300 (GMT)
+Message-ID: <005101c1ab22$17834080$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20020125031435.GD6572@...> <12526.020129@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B2=5D:_Solo_con_el_Pueblo_de_pie_se_levanta_la_N?=
+	=?iso-8859-1?Q?acion..._coma_en_Mc_Donals_!.?=
+Date: Fri, 1 Feb 2002 10:12:24 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> GM> Imaginate si yo digo: si tuviera 1 millon de dolares, los pondria a
+> GM> plazo fijo al 1% mensual (para hacer mas facil la cuenta) y ganaria
+> GM> 10000 pesos al mes. Como no tengo 1 millon de dolares, estoy perdiendo
+> GM> 10000 pesos al mes. Es mentira!! No estoy perdiendo nada!!!
+> GM> Veni y mira mi billetera y fijate como NO desaparen 10000 dolares por
+> GM> mes de ella.
+>
+> Es  lo  mismo  que decía antes con el ejemplo de la lotería... no sale
+> guita  de  tu  bolsillo  si no ganás la lotería... ahora, si  pudieras
+> influir  de  algún  modo  sobre  el  número  sorteado, y tu influencia
+> fracasara, podría interpretarse que el costo del fracaso de tu intento
+> por  influir  en  el resultado de la lotería fue el no ganar la guita.
+> Ese costo de fallar en la negociación sería un costo de oportunidad.
+>
+> Además, NINGUN costo de oportunidad te saca guita del bolsillo.
+>
+> Si  en  lugar  de  haber invertido a 1% lo hicieras a 0.5% dejarías de
+> ganar  5000  por mes... sería un costo de oportunidad...
+
+solo si yo puedo decir ganar o no la loteria. A lo sumo, puedo decir
+apostar o no a la loteria.
+La loteria tiene 6 digitos, y cada numero se fracciona en 10.
+Si compro "un decimo" gano 1/10 del premio, lo cual ocurrira con una
+probabilidad de 10^-6.
+De manera que si el premio es de (supongamos) 1000000 de pesos, la esperanza
+matematica de ganar es de solo 0,1 pesos. Como el billete de loteria sale
+algo asi como 10 pesos, cada vez que apuesto a la loteria, PIERDO en
+promedio 9,5 pesos.
+El costo de oportunidad por decidir no apostar a la loteria seria en
+realidad
+una ganancia (o un costo negativo, que se yo).
+
+> y sin embargo
+> no  verías  que  de  tu  billetera salen 5000 por mes... y supongo que
+> estarás  de  acuerdo conmigo en que estarías perdiendo (de ganar) 5000
+> por  mes  al  tomar  esa decision...
+
+Estaria perdiendome de ganar, pero no estaria perdiendo, que es un concepto
+totalmente diferente.
+
+Solo si aplicas el principio de superposicion, y supones que la ganancia que
+podrias obterner de tomar cierta decicion realmente ocurre, pero ademas
+simultanemante tambien realmente ocurre el costo de no haber tomado esa
+decision en realidad (y ambos se cancelan, dando el resultado real correcto)
+es que podes rasgarte las vestiduras por la "perdida" que representa el
+costo de oportunidad.
+
+Pero me parece solo una herramienta de analisis, (no algo real) tener la
+posibilidad de comprar algo que no ocurre, que solo crees que podria ocurrir
+(ya que no dispones nunca de informacion perfecta) con algo que si ocurre.
+
+
+> ese costo de oportunidad sería el costo de tu decisión mal tomada.
+
+Lupus, no me expliques lo que es el costo de oportunidad. Por si no lo
+sabias, yo tambien he ido a la universidad.
+
+Yo lo que digo es que Telefonica no puede tener la caradurez de decir que va
+a perder plata en este caso.
+
+
+> >> Además,  en  este  ejemplo SI podría haber una pérdida REAL (y no solo
+> >> virtual  como  el  costo de oportunidad) ya que a la central le cuesta
+> >> dinero  mantener  todo  su personal trabajando, si no generan llamadas
+> >> que puedan cobrar por permanecer bloqueadas las líneas, y sus ingresos
+> >> decrecen   por   debajo   de su punto de equilibrio, estaría perdiendo
+> >> (pérdida  contable, osea, el concepto que supongo que vos tenés de una
+> >> pérdida)
+>
+> GM> El concepto verdadero de una perdida: disminucion del patrimonio.
+> GM> Yo lo que digo es que esa perdida real (o contable o como la llames)
+no
+> GM> ocurrira porque es practicamente imposible poner de acuerdo a tanta
+> GM> gente
+> GM> como para mantener bloqueada a la central, y  por eso digo que es una
+> GM> perdida de tiempo, porque no producirias ninguna perdida de verdad a
+la
+> GM> empresa.
+>
+> En eso estoy de acuerdo desde siempre.
+
+--
+Groucho
+
+

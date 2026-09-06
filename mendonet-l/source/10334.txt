@@ -1,0 +1,260 @@
+From mliceaga@...  Sat Jul 11 23:23:58 2020
+Return-Path: <mliceaga@...>
+Received: (qmail 6962 invoked from network); 7 Jun 2000 12:26:38 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 7 Jun 2000 12:26:38 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 7 Jun 2000 12:26:38 -0000
+Received: (qmail 24897 invoked by uid 417); 7 Jun 2000 12:27:47 -0000
+Received: from unknown (HELO mariano.softhome.net) (200.42.125.64) by smtpb.softhome.net with SMTP; 7 Jun 2000 12:27:47 -0000
+Message-Id: <4.3.1.0.20000607000649.00afe410@...>
+X-Sender: mliceaga@...
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.1
+Date: Wed, 07 Jun 2000 00:18:39 -0300
+To: mendonet-l@egroups.com
+Subject: Re[2]: (Sr. Liceaga) Decadencia de la concheteria?
+In-Reply-To: <17679.000528@...>
+References: <4.3.1.0.20000525221222.00a61ee0@...> <4.3.1.0.20000525221222.00a61ee0@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"; format=flowed
+Content-Transfer-Encoding: quoted-printable
+From: Mariano Liceaga <mliceaga@...>
+
+At 04:17 p.m. 28/05/00 -0300, you wrote:
+
+>ML> Que es el "pertenecer" a alg=
+un grupo sino inseguridad?? Si estuvieran 
+>seguros
+>ML> no necesitarian te=
+ner que andar haciendo estupideces para "pertenecer".
+>
+>Mentira!!!
+>La con=
+dicion humana es gregaria!
+
+No estoy discutiendo si el ser humano es o no g=
+regario. Por supuesto que lo 
+es. Pero
+justamente esa condicion intrinsec=
+a hara que participe en grupos humanos a 
+los que
+llegara de forma no forza=
+da, o si lo preferis, natural.
+Muy distintos son los actos totalmente irr=
+acionales, a veces ridiculos, que 
+cometen algunos para
+afirmar su maltre=
+cho ego ante un grupo al que creen que es cool pertenecer.
+
+
+ Received: from [206.253.222.84] by hotmail.com (3.2) with ESMTP id MHotMailBB084AD900C2D82197A5CEFDDE54F09E0; Wed Jun 07 19:07:21 2000
+Received: (qmail 11917 invoked by uid 258126); 8 Jun 2000 02:07:21 -0000
+Date: 8 Jun 2000 02:07:21 -0000
+Message-ID: <20000608020721.11916.qmail@...>
+To: federicomorganti@...
+From: news@...
+Subject: AIN Newslink #33
+Content-type: text/html;
+
+
+		<HTML><BODY> <!-- If you are reading this your email program does not support HTML. Please visit http://www.abortioninfo.net/news/subscribe.html and subscribe to the text version -->
+	<TABLE BORDER=1 ALIGN=CENTER><TR><TD ALIGN=CENTER>
+
+<script language="JavaScript">
+<!-- /* � 1997 BURST! Media, LLC. All Rights Reserved.*/
+var TheAdcode = 'ad2067a';
+var bN = navigator.appName;
+var bV = parseInt(navigator.appVersion);
+var base='http://www.burstnet.com/';
+var Tv='';
+var agt=navigator.userAgent.toLowerCase();
+if (bV>=4)
+  {ts=window.location.pathname+window.location.search;
+   i=0; Tv=0; while (i< ts.length)
+      { Tv=Tv+ts.charCodeAt(i); i=i+1; } Tv="/"+Tv;}
+  else   {Tv=escape(window.location.pathname);
+   if( Tv.charAt(0)!='/' ) Tv="/"+Tv;
+          else if (Tv.charAt(1)=="/") Tv="";
+  if( Tv.charAt(Tv.length-1) == "/")
+    Tv = Tv + "_";}
+
+if (bN=='Netscape'){
+     if ((bV>=4)&&(agt.indexOf("mac")==-1)) {  document.write('<s'+'cript src="'+
+      base+'cgi-bin/ads/'+TheAdcode+'.cgi/RETURN-CODE/JS'
+      +Tv+'">');
+     document.write('</'+'script>');     }
+     else if (bV>=3) {document.write('<'+'a href="'+base+'ads/'+
+        TheAdcode+'-map.cgi'+Tv+'" target=_top>');
+        document.write('<img src="' + base + 'cgi-bin/ads/' +
+        TheAdcode + '.cgi' + Tv + '" ismap width=468 height=60' +
+        ' border=0 alt="Click Here"></a>');}
+ }
+if (bN=='Microsoft Internet Explorer')
+ document.write('<ifr'+'ame id=BURST src="'+base+'cgi-bin/ads/' +
+  TheAdcode + '.cgi' + Tv + '/RETURN-CODE" width=468 height=60 ' +
+  'marginwidth=0 marginheight=0 hspace=0 vspace=0 ' +
+  'frameborder=0 scrolling=no></ifr'+'ame>');
+// -->
+</script>
+<noscript><a href="http://www.burstnet.com/ads/ad2067a-map.cgi" target=_top>
+<img src="http://www.burstnet.com/cgi-bin/ads/ad2067a.cgi"
+ismap width=468 height=60 border=0 alt="Click Here"></a>
+</noscript>
+
+<BR><FONT SIZE=1>Revenue from this advertisement benefits Washington D.C. Crisis Pregnancy Centers</FONT>
+</TD></TR></TABLE>
+	<H2 ALIGN=CENTER>Abortion InfoNet Newslink #33</H2>
+	<P ALIGN=CENTER><STRONG>In This Issue: <BR><BR>
+<A HREF="#200">154 pregnant women given wrong Down's test results</A>
+<BR>
+<A HREF="#201">Rape and Incest Victims Reject and Regret Abortions</A>
+<BR>
+<HR>
+</STRONG></P>
+<H3 align=center><A NAME="200">154 pregnant women given wrong Down's test results</A></H3>
+
+<BR>
+<P ALIGN=CENTER>Source: Electronic Telegraph (UK)<BR>
+By Paul Stokes  </P><P>
+
+
+MORE than 150 pregnant women were wrongly informed that they were at
+low risk of giving birth to children with Down's syndrome because of a
+computer error which went undetected for four months.
+</P><P>
+The women, who were having pre-natal checks at nine hospitals in South
+Yorkshire, Lincolnshire and Nottinghamshire, had their details analysed at
+the Northern General Hospital, Sheffield. Health officials have contacted 154
+mothers-to-be since the mistake was discovered, to offer them clinical
+support and advice.
+</P><P>
+The women, now 18 to 35 weeks pregnant, were given computer checks
+using a system called Pathlan which calculates the risk of a baby being
+born with Down's syndrome. Personal details, including age, weight and the
+length of pregnancy, along with results from blood samples are fed into the
+computer for analysis.
+</P><P>
+The women had originally been given reassuring results after the routine
+screening tests, which are offered to all expectant mothers when they are
+between 14 and 18 weeks pregnant. They have now been told that there is a
+higher risk factor and had the correct information been known at the time
+they would have offered further tests into the possibility of them having a
+Down's syndrome baby.
+</P><P>
+Under the Abortion Law, severely handicapped babies can be aborted at
+any time during the pregnancy, but in normal circumstances 24 weeks is
+the maximum.
+</P><P>
+One of the women Debra Royston, 32, of Firth Park, Sheffield, who is 23
+weeks pregnant, said: "This is like a nightmare, no mother should have to
+go through this. The doctors I have spoken to say there is a one in 150
+chance, but that is no comfort at all." The initial result she received showed
+that she had a one in 570 chance of the baby being affected, but the figure
+was amended when the software error came to light. She now has to decide
+whether to go ahead with an amniocentesis test, a process which can
+endanger unborn children if carried out late in pregnancy.
+</P><P>
+Ms Royston, who has a two year old son Connor, said: "I want to have the
+tests done because I want to know if there is something wrong with the
+baby, but then I daren't have them done because they could kill my child. I
+cannot believe believe that something like this can happen.
+</P><P>
+I was told the errors went back to January so some women involved will
+have no choice, they will be about to give birth if they haven't already. My
+fear is that if my baby is healthy and I have these further tests it could
+cause a miscarriage because I have a weak placenta."
+</P><P>
+The women involved were patients at Barnsley District General, Chesterfield
+Royal, Doncaster Royal Infirmary, Grimsby Maternity Hospital, Sheffield's
+Jessop Hospital for Women , Rotherham District General, Scunthorpe
+General, Bassetlaw Hospital Worksop and the Northern General.
+</P><P>
+The Pathlan system, not in use in any other hospital in Britain for the same
+purpose, was found to have been providing inaccurate readings at the
+Northern General's Department of Immunology from Jan 4 to May 24 this
+year. It is understood that the fault was caused by the software wrongly
+interpreting patients' ages as part of the calculations.
+</P><P>
+All the women involved are being informed of the revised test results and
+given the opportunity to discuss them with their midwife. They are also
+being offered clinical support, advice and further diagnostic tests where
+appropriate. The Northern General said no patients who had previously
+undergone amniocentesis tests were affected.
+</P><P>
+A full inquiry into how the errors occurred has been launched and will be led
+by Dr Lindsey Davies, regional director of public health. Dr Colin Hardisty,
+the medical director at the Northern General, said: "This is a most
+unfortunate incident. It only affects a small number of those people who
+were tested. On behalf of the trust I would like to sincerely apologise to all
+the women and their families for whom this will have caused anxiety and
+concern.
+</P><P>
+"Our prime concern is to ensure these women are now seen speedily.
+Although the women directly affected are being contacted personally,
+anyone with any concerns or who would like further information should call
+NHS Direct on 0845 4647."  </P>
+<HR>
+<H3 align=center><A NAME="201">Rape and Incest Victims Reject and Regret Abortions</A></H3>
+
+<BR>
+<P ALIGN=CENTER>Source: Elliot Institute
+</P><P>
+Springfield, IL -- A woman becomes pregnant during a rape. Elsewhere, a
+12-year-old incest victim is six months pregnant.  Is abortion in such cases
+necessary or even helpful?
+</P><P>
+Not according to a new survey of 192 women who became pregnant through
+sexual assault and either had abortions or carried term.  Instead, the
+consensus opinion of these women who have actually been in this situation
+is that abortion in their circumstances was injurious. Indeed, the results of
+this new study suggest that most women who become pregnant through
+sexual assault do not even want abortions.
+</P><P>
+The results of this study are included in Victims and Victors: Speaking Out
+About Their Pregnancies, Abortions, and Children Resulting from Sexual
+Assault, edited by Dr. David C. Reardon, Julie Makimaa and Amy Sobie.  In
+addition to reporting on this survey of sexual assault victims, the new book
+also includes the powerful personal testimonies of twenty women and
+helpful background information on this complex issue. "Many of the women
+in our sample aborted only because they were pressured to do so, and
+most reported that the abortion only increased their experience of grief and
+trauma," said Reardon.  "In contrast, none of the women who carried to
+term said they wished they had not given birth or that they had chosen
+abortion instead.  Many of these women said that their children had bought
+peace and healing to their lives." Most women who aborted stated that
+abortion increased the sense of guilt and shame they felt after sexual
+assault.  They often reported problems such as depression, substance
+abuse, broken and abusive relationships, and suicide attempts after their
+abortions. "Abortion increases the woman's sense of isolation and shame
+by allowing others to pretend the problem doesn't exist," Reardon said. "By
+getting rid of the pregnancy, which is a reminder of the sexual assault, it
+allows other people to ignore the woman's need for understanding and
+honest exploration and resolution of what she has been through." A major
+point raised in the book is an appeal to allow women who have become
+pregnant through sexual assault to testify at congressional hearings. "We
+feel that legislative hearings would provide a forum for women who have
+experienced sexual assault pregnancies to share their insights and dispel
+misconceptions," Reardon said.  "These women deserve the right to speak
+for themselves." Victims and Victors challenges readers to develop a more
+caring and compassionate attitude for women who are experiencing rape or
+incest pregnancies.  It asks: how can we best meet the needs of these
+women and their children?  What should their loved ones, doctors, pastors
+and counselors be doing to lend their support in this time of crisis?  How
+should lawmakers react when faced with legislation regarding abortion in
+cases of sexual assault? "For too long, pro-lifers have been backed into a
+corner on this issue," Reardon explained.  "Population controllers have
+exploited people's compassion for rape and incest victims to weaken
+abortion laws and gain acceptance for abortion on demand.  It's time to give
+these women a chance to speak out for themselves and let the truth be
+known."
+</P><P>
+Victims and Victors: Speaking Out About their Pregnancies, Abortions and
+Children Conceived in Sexual Assault, Edited by David C. Reardon, Julie
+Makimaa, and Amy Sobie / Available from Acorn Books,  June 2000.</P>
+<HR>
+
+Abortion InfoNet Newslink is a service of Abortion InfoNet. All articles are the property of the cited author(s) or of Abortion InfoNet if no author is stated. Articles are freely distributable in their full form and with credit given to the original author(s).
+
+To change format for this service (html/text) please visit http://www.abortioninfo.net/news/subscribe.html . To unsubscribe, please visit http://www.abortioninfo.net/news/nocontact.html . For more information, discussion, and news, please visit our main site at http://www.abortioninfo.net .
+
+
+------=_NextPart_000_4e3fe853_72037423$54e28ede--
+

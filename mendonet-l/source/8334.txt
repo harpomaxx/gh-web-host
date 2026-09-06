@@ -1,0 +1,62 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 23400 invoked from network); 5 Sep 2000 18:50:07 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 5 Sep 2000 18:50:07 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 5 Sep 2000 18:50:06 -0000
+Received: from a3d25.impsat.net.ar (a3d25.impsat.net.ar [200.41.21.145]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id PAA17446 for <mendonet-l@egroups.com>; Tue, 5 Sep 2000 15:52:46 +0300 (GMT)
+Date: Mon, 4 Sep 2000 19:06:58 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <18796.000904@...>
+To: Marc <mendonet-l@egroups.com>
+Subject: Re[3]: Napster...
+In-reply-To: <5661.000903@...>
+References: <5661.000903@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 03/09/2000, Marc delirantemente dijo:
+
+GM>> Como dijo nuestro Guru Hippie Richard Stallman:
+
+M>     Nuestro, no sera tuyo nomas,
+
+Excluirte o no de "nostros" es tu decision.
+
+M>  Stallman es un resentido alguna de las
+M>     cosas que predica son interasantes y aplicables pero no son de su
+M>     autoria y el tipo se las adjudica como suyas a donde esta la
+M>     libertad de usar las ideas de otros y admitirlo honestamente.
+
+Por ejemplo?
+El concepto de copyleft si lo invento el.
+
+M>     El que explico lo del copyright fue un hijo de estadounidense y
+M>     argentino que es abogado y computonto(esto no es en forma
+M>     pellorativa)que la tiene clara porque ademas es músico y seguidor
+M>     de Stallman
+
+Veo que no leiste cuando dije "fin de la cita".
+Yo mencione a este pibe (cuyo nombre no recuerdo) pero no me interesa
+quien dijo esto o lo otro.
+Despues de la frase "fin de la cita" yo estaba hablando de mis ideas
+propias.
+No quiere decir que las haya inventado yo, no. Cuando digo mis ideas
+propias, hablo de las ideas que yo sostengo, que pueden ser
+extraordinariamente parecidas a las que vos escuchaste decir a
+Stallman y al otro pibe, pero desde el momento en el que yo tambien
+sostengo y defiendo esas ideas, ahora tambien son las ideas de
+Groucho.
+
+No hay nada de malo en usar las ideas de otros. Se llama aprendizaje.
+
+
+-- 
+Groucho Marx
+Más viejo que la seven-up naranja. (R)
+
+
+

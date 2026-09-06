@@ -1,0 +1,67 @@
+From aletalquenca@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aletalquenca@...>
+X-Sender: aletalquenca@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 31 Oct 2000 00:16:22 -0000
+Received: (qmail 23799 invoked from network); 31 Oct 2000 00:16:22 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 31 Oct 2000 00:16:22 -0000
+Received: from unknown (HELO central.inta.gov.ar) (157.92.58.8) by mta2 with SMTP; 31 Oct 2000 00:16:22 -0000
+Received: from bocha_sn@... (a2d58.impsat.net.ar [200.41.21.118]) by central.inta.gov.ar with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21) id VTHPS43N; Mon, 30 Oct 2000 21:18:47 -0300
+Message-ID: <00d901c042a0$f36d48c0$LocalHost@...>
+To: <mendonet-l@egroups.com>
+References: <009c01c04200$9bafd940$LocalHost@...> <441.001030@...>
+Subject: RE: Re[4]: Teletrabajo
+Date: Mon, 30 Oct 2000 15:41:01 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+From: "Alejandro Gomez Talquenca" <aletalquenca@...>
+
+
+----- Original Message -----
+From: Groucho Marx <groucho@...>
+To: Alejandro Gomez Talquenca <mendonet-l@egroups.com>
+Sent: Monday, October 30, 2000 12:59 AM
+Subject: Re[4]: Teletrabajo
+
+
+> El 29/10/2000, Alejandro Gomez Talquenca triste inventó:
+>
+> >> >> >
+> >> >> >Debo aceptar?
+> >> >> >Ventajas y desventajas?
+> >>
+> AGT> Y groucho que paso aceptaste el laburo
+>
+> Hice un programa que atiende las llamadas en la oficina y las
+> transfiere al centro de atencion de Buenos Aires que atiende las 24
+> horas. (aunque son mas antipaticos y saben menos que nosotros).
+> Resulta mas barato derivar esas llamadas a Buenos Aires por alguna de
+> las lineas existentes que instalar 2 lineas nuevas en mi casa y una
+> linea mas en el access server.
+>
+> Fue un dilema moral intersante de resolver: aplicar mi criterio de
+> ingeniero para hallar la solucion tecnicamente mas eficiente,
+> economicamente mas conveniente y artisticamente mas elegante o aplicar
+> la solucion que me hubiera permitido estar conectado a Internet las 24
+> horas en mi casa gratis.
+>
+> Que te parece?
+>
+Amazing!!!!!!!
+pura creatividad en movimiento......
+se me cae a pedazos el estereotipo del ingeniero
+
+tus soluciones responder a un metodo(libro) propio o ajeno; patentado o por
+patentar
+me interesan estos temas>
+>
+>
+>
+>
+>
+

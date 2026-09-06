@@ -1,0 +1,56 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 1871 invoked from network); 28 Jul 2000 18:03:38 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 28 Jul 2000 18:03:38 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 28 Jul 2000 18:03:36 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.1 [200.41.21.1] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id PAA18378 for <mendonet-l@egroups.com>; Fri, 28 Jul 2000 15:06:14 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id NAA02474 for <mendonet-l@egroups.com>; Fri, 28 Jul 2000 13:24:35 -0300
+Sender: federico@...
+Message-ID: <3981B3C3.7B916B5B@...>
+Date: Fri, 28 Jul 2000 13:24:35 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.16 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: RIAA WINS!
+References: <Pine.LNX.4.04.10007270319420.25702-100000@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+harpo wrote:
+> 
+> che putetes!!!
+> Parece que van a dar de baja a Napster este viernes a la medianoche!!!
+> las companias discograficas iniciaron una demanda por derechos de autor y
+> parece que el jue$$$$$$ la acepto y ordeno el cierre de napster!!!!
+ 
+Bah, por que?? si el napster esta hecho para que los musicos sin
+muchos recursos puedan compartir sus creaciones en internet.
+
+que puede tener eso de malo? 
+
+hablando en serio... hay un solo servidor de napster? no habra otro 
+rodando por ahi...
+
+
+> Por si alguno lo no sabe Napster es un programa que sirve para compartir
+> musica en formato MP3.
+
+> El puto del juez deberia haber pedido la opinion de los Mendonet-l antes de
+> lanzarse con una cosa ASI!
+> 
+> El Harpo!
+> 
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+                   Linux(*) Is Not UniX 
+(*)Linux® is a registered trademark of Linus Torvalds
+

@@ -1,0 +1,60 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_3); 13 Sep 2002 19:23:56 -0000
+Received: (qmail 96430 invoked from network); 13 Sep 2002 19:23:56 -0000
+Received: from unknown (66.218.66.217)
+  by m11.grp.scd.yahoo.com with QMQP; 13 Sep 2002 19:23:56 -0000
+Received: from unknown (HELO io) (200.45.193.43)
+  by mta2.grp.scd.yahoo.com with SMTP; 13 Sep 2002 19:23:55 -0000
+Received: from root by io with local (Exim 3.35 #1 (Debian))
+	id 17pt6n-0005Yk-00
+	for <mendonet-l@...>; Fri, 13 Sep 2002 13:15:53 -0300
+Date: Fri, 13 Sep 2002 13:15:53 -0300
+To: mendonet-l@...
+Subject: Re: Re[2]: caso clinico
+Message-Id: <20020913131553.68d071e7.root@...>
+In-Reply-To: <E17pZAT-00008j-00@...>
+References: <JPEJJKCOMFIHONLPHPCIIEBCCBAA.gaucho98@...>
+	<8596.020911@...>
+	<E17pZAT-00008j-00@...>
+Organization: Linux User Group Mendoza [LugMen]
+X-Mailer: Sylpheed version 0.7.4 (GTK+ 1.2.10; i386-debian-linux-gnu)
+X-Operating-System: Debian GNU/Linux
+X-KASTOR: Muerte al CAPITAL!!!
+X-KASTOR-1: QUE SE VAYAN TODOS!!!!
+User-Agent: Sylpheed version 0.8.2 (GTK+ 1.2.10; i686-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: k a s t o r <root@...>
+X-Yahoo-Group-Post: member; u=76410190
+
+El Thu, 12 Sep 2002 15:53:56 -0300
+"Groucho Marx" <groucho@...> escribio:
+
+> El Mié 11 Sep 2002 14:19, escribiste:
+> > G> Ni la mas remota idea pero bueno no esta mal tirar dos o tres
+> > opcion por ahi G> le pego a alguna
+> > G> por lo del higado quizas Hepatitis, o cirrosis.
+> > G> por lo demas no se, y despues de leer tantas cochinasdas gracias a
+> > Dios que G> estudio Informatica!!
+> > G> imagina tener que ver y oler todas esas cosas...
+> > puajjj...
+> 
+> Ver y oler es lo de menos... TOCAR es lo que me causaria mas terror.
+> 
+
+lo mio es al reves podria tocarlo.. pero "jamas" olerlo porque vomitaria la
+misma cantidad o mas al hacerlo!!
+
+
+-- 
+
+[ kastor ]                 [-- QUE SE VAYAN TODOS!!! --]
+
+JID = kastor@...   
+KFP = B83D C963 C1F8 7C02 FA82  1DFE 4852 C81A EFE9 177A               
+GPG = http://www.lugmen.org.ar/~kastor/public-key.txt                  
+

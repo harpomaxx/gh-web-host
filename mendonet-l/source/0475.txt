@@ -1,0 +1,104 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 5 Mar 2003 14:12:43 -0000
+Received: (qmail 65746 invoked from network); 5 Mar 2003 14:12:42 -0000
+Received: from unknown (66.218.66.217)
+  by m9.grp.scd.yahoo.com with QMQP; 5 Mar 2003 14:12:42 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta2.grp.scd.yahoo.com with SMTP; 5 Mar 2003 14:12:42 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18qZrF-0004hY-00
+	for <mendonet-l@...>; Wed, 05 Mar 2003 11:26:58 -0300
+Message-ID: <3E6605AE.4050206@...>
+Date: Wed, 05 Mar 2003 11:11:58 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: =?ISO-8859-1?Q?=BFMozilla=3F?=
+References: <14335.030305@...>
+In-Reply-To: <14335.030305@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+> Como consecuencia de tus comentarios sobre mozilla, lo bajé e
+> instalé, luego quise abrirlo.... tardó SIGLOS, sí SIGLOS en abrirse...
+
+Necesitas al menos 96 MB para que ande bien. COn 64MB es casi inusable.
+
+
+> me hizo acordar a cuando era chico y me iba a la casa de algún amigo
+> con una de esas computadoras donde cargabas los juegos con un cas�t en
+> una grabadora, que encima de que se demoraba mucho no podías tocar
+> nada porque se "cargaba mal" o tenías que empezar de nuevo... y
+> además, cuando se terminó de abrir, no había nada nuevo.
+
+Si con "nuevo" te referis a mejoras respecto de IE5, puedo mencionar:
+
+Para el navegador:
+1) Tabs (solapas)
+2) Administrador de contraseñas
+3) Administrador de descargas
+4) Composer
+5) Visualizacion con sintaxis coloreada del codigo fuente de las paginas
+6) Soporta la marca <BLINK> correctamente
+7) Manejo decente de frames (podes abrir un frame en una ventana o solapa)
+8) Seguridad y privacidad: no permite que las paginas disparen la 
+instalacion de cosas automaticamente sin preguntarte
+9) Temas/skins, y paquetes de idiomas
+
+En el programa de mail:
+10) Soporta IMAP correctamente (p. ej. no se reconecta con cada 
+operacion sino que mantiene una conexion abierta todo el tiempo)
+11) No permite que el cuerpo HTML de los mensajes de mail ejecuten 
+programas, por lo tanto es imposible que te entre un virus por mail sin que
+12) No agrupa en el concepto de "cuenta" el servidor SMTP
+13) Soporta las convenciones tradicionales en la redaccion del mail:
+_subrayado_, *negrita* -- tearline, emoticons.
+14) Las lineas citadas aparecen de otro color
+15) Al redactar una respuesta, el cursor aparece por defecto abajo, y no 
+arriba del texto citado
+16) Maneja sin colgarse carpetas con miles de mensajes
+17) No corrompe periodicamente las copias locales de los mensajes IMAP
+18) Cuando se borra un mensaje de una carpeta IMAP, lo envia a la 
+carpeta Trash de IMAP y no a la carpeta local
+19) Notifica del arribo de mensajes nuevos sin bajarlos
+20) Las reglas de filtrado de mensajes permiten mover mensajes de una 
+carpeta de una cuenta a otra carpeta de *otra* cuenta.
+21) Las reglas de mensaje pueden expresar condiciones o sus negaciones
+22) El codigo HTML que genera en el cuerpo de los mails no abusa de 
+caracteristicas de las que el receptor del mensaje pueda carecer.
+23) Permite configurar a que direcciones mandar HTML, texto simple o ambos.
+
+Ademas:
+24) incluye programas accesorios para chat, para redactar paginas web, y 
+para informar bugs.
+25) El codigo fuente esta disponible, por lo tanto a diferencia de IE no 
+hay ninguna sospecha de que robe informacion. Sabias que Windows XP 
+tiene 17 maneras descubiertas hasta ahora de comunicarse con equipos de 
+Microsoft, sin preguntarte antes y sin explicarte para que?
+
+Solo las razones 3, y 11 son suficientes para tolerar el tiempo de carga 
+del programa. Por cierto, si usas "Quick Launch" el tiempo de carga es 
+igual al de Internet Explorer. De hecho IE carga rapido solo porque es 
+precargado cada vez que bootea Windows. Quick launch hace lo mismo copn 
+Mozilla.
+
+
+> ¿Podrías comentarme porqué debería soportar semejante eterna espera
+> cada vez que quiero chequear mail o hacer algo en internet?
+
+Por las 25 razones expuestas antes, y porque tenes que darte cuenta que 
+no es culpa de Mozilla que seas un raton que no tiene al menos 96MB.
+
+-- 
+Groucho
+
+

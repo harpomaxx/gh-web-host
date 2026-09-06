@@ -1,0 +1,47 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 27816 invoked from network); 27 Jun 2000 16:38:04 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 27 Jun 2000 16:38:04 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta2 with SMTP; 27 Jun 2000 16:37:42 -0000
+Received: from pentium.localdomain (rdumend2-200.41.21.56 [200.41.21.56] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA01338 for <mendonet-l@egroups.com>; Tue, 27 Jun 2000 01:58:29 +0300 (GMT)
+Received: from supernet.com.ar (pentium [192.168.1.200] (may be forged)) by pentium.localdomain (8.9.3/8.9.3) with ESMTP id BAA02085 for <mendonet-l@egroups.com>; Tue, 27 Jun 2000 01:29:46 -0300
+Sender: federico@...
+Message-ID: <39582DBA.BF2BF62@...>
+Date: Tue, 27 Jun 2000 01:29:46 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.12 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: BUYING BYKES!!! for ever
+References: <00cb01bfdb08$a3281e80$457c2ac8@tepes> <8403.000624@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+Groucho Marx wrote:
+
+> El 20/06/2000, Sebas histéricamente sanateó:
+>
+> >> A los elefantes les debe chupar un huevo todas las muertes de personas
+> >> que ocurren a diario!!!!
+> S> Porque carecen de pensamiento abstracto.
+>
+
+Pero son los elefantes los que cuando encuentran huesos de su propia
+especie. los juntan formando una especie de cementerio de elefantes.
+supongo que hay cierto pensamiento abstracto en eso no?
+
+--
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+         100% Linux
+The choice of a GNU generation.
+
+
+
+

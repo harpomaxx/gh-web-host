@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 6631 invoked from network); 1 Sep 2000 11:49:05 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 1 Sep 2000 11:49:05 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 1 Sep 2000 11:49:04 -0000
+Received: from ANTRO ([200.41.31.27]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id IAA06408 for <mendonet-l@egroups.com>; Fri, 1 Sep 2000 08:51:43 +0300 (GMT)
+Date: Mon, 28 Aug 2000 22:34:06 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <11940.000828@...>
+To: harpo <mendonet-l@egroups.com>
+Subject: Harpo: prueba
+In-reply-To: <Pine.LNX.4.04.10008280730160.31950-100000@...>
+References: <Pine.LNX.4.04.10008280730160.31950-100000@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 28/08/2000, harpo tristemente vomitó:
+
+S>>> S> Buenas y santas mi general, aquí Evaristo Leguizamón, un servidor de la
+S>>compatibilidad, reduce el rendimiento global del sistema", y además que
+S>>"SJCDAPI en confyg.sys fuerza el modo compatibilidad con MS-DOS"
+
+S>>Estos problemejos no se arreglan reinstalando windows, sólo se arreglan
+S>>formateando el disco rígido y luego aparecen de nuevo. También debo decir
+S>>que tengo desde hace mucho tiempo un virus, algo así como Echo o Eco o algo
+S>>así, pero que a no ser que sea el causante de mis problemas, no hace nada.
+S>>Escucho ofertas.
+
+h> No entiendo la parte del virus... como puede ser que tengas un virus.
+h> Tal vez esto lo diga sin conocer a fondo tu problema, pero acaso no has
+h> tratado de sacarlo con un antivirus tipo F-prot??
+
+Suponiendo que si tenga un virus, el virus si podria hacer que se
+active el modo de compatibilidad.
+Normalmente Windows carga sus propios drivers para los controladores
+de disco. Pero si ocurre que hay ya cargado un programa que ha
+"tocado" los vectores de interrupcion de disco rigido (cosa que un
+virus hace para tener oportunidad de copiarse) y si resulta que
+Windows no reconoce que puta es ese programa, entonces, Windows se
+abstiene de cargar su propio driver de disco y deja cargado y activo
+lo que haya.
+
+Al no cargar el driver windowso para el controlador de disco, menos va
+a cargar el driver windowso para el ISO9660 filesystem.
+Conclusion: la unica manera de hacer andar un lector de CDs es con
+MSCDEX.
+
+-- 
+Groucho Marx
+It does not suck to be you -- Bart Simpson
+
+
+

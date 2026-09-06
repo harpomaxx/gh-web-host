@@ -1,0 +1,32 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_0_3); 16 Feb 2001 15:49:38 -0000
+Received: (qmail 68305 invoked from network); 16 Feb 2001 15:49:37 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 16 Feb 2001 15:49:37 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.21.172) by mta2 with SMTP; 16 Feb 2001 15:49:34 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id MAA06340 for mendonet-l@yahoogroups.com; Fri, 16 Feb 2001 12:20:38 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Fri, 16 Feb 2001 12:20:37 -0300
+To: mendonet-l@yahoogroups.com
+Subject: Re: Hay alguien?
+Message-ID: <20010216122037.H6183@...>
+References: <000801c092cf$1a452ac0$0100007f@Sebastian> <20010215141945.12142.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <20010215141945.12142.qmail@...>; from joanini@... on Thu, Feb 15, 2001 at 03:19:45PM +0100
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Thu, Feb 15, 2001 at 03:19:45PM +0100, Johi dijo:
+> 
+> -Yo no recibo mails o esta pasando algo?
+> Es esto la muerte de mendonet?
+
+hay algunos, pero no son muchos... asi que si se podria hablar de la muerte de
+mendonet.
+

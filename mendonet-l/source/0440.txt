@@ -1,0 +1,60 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 11 Mar 2003 00:15:17 -0000
+Received: (qmail 8661 invoked from network); 11 Mar 2003 00:15:17 -0000
+Received: from unknown (66.218.66.216)
+  by m10.grp.scd.yahoo.com with QMQP; 11 Mar 2003 00:15:17 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 11 Mar 2003 00:15:16 -0000
+Received: (qmail 11386 invoked by uid 417); 11 Mar 2003 00:14:35 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 11 Mar 2003 00:14:35 -0000
+Received: from dup-200-42-125-35.prima.net.ar ([200.42.125.35])
+  by softhome.net with esmtp; Mon, 10 Mar 2003 17:14:13 -0700
+Date: Mon, 10 Mar 2003 21:05:45 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <0879.030310@...>
+To: Herr Groucho <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbMl06IEluZm9ybeF0aWNhIHBhcmEgdG9kb3M=?=
+In-reply-To: <3E660C77.9080602@...>
+References: <3E660C77.9080602@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> Sucede que yo usaba ocasionalmente el teleport pro, una versión
+>> shareware cuyo "craqueador"(estará bien dicho?) no funcionó,
+>> probablemente por un problema del disquito en que me lo grabaron. El
+>> tiempo de prueba venció, y ya no puedo usarlo más.
+
+HG> Si te gusta el programa, compra la licencia y listo.
+
+¡Facilista!
+
+>> Imagino también que en una de esas es sólo cuestión de borrar ese
+>> archivito para poder usar el teleport por otro "período de prueba".
+HG> Si, me encantaria que borraras el registro, asi tenes que reinstalar
+HG> Windows de nuevo...
+Me refería al archivito del teleport pro dentro del registro... pero
+al parecer, por lo que vos decís, no se puede.
+
+HG> Mejor borra la rama del registro donde el Teleport ese guarda sus datos.
+A eso me refería. ¿Es muy difícil?
+
+HG> Lo que tenes que hacer es comprar el Teleport o abstenerte de usarlo. Te
+HG> recomiendo que te abstengas de usarlo y uses en cambio wget.
+Lo intentaré.
+
+
+-- 
+Sebas   
+"...Maradona, en una corrida memorable, en una jugada de todos los tiempos.¡Barrilete cósmico! ¿De qué planeta viniste para dejar en el camino a tanto inglés? Para que el país sea un puño apretado grutando por Argentina...Arrrrgentina 2, Inglaterra 0 ... Diegol, Diegol, Diego Armando Maradona! Gracias Dios por el fútbol, por Maradona, por estas lágrimas... por este Argentina 2, Inglaterra 0". Victor Hugo Morales.                       
+
+
+

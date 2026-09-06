@@ -1,0 +1,69 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 8 Nov 2001 00:10:59 -0000
+Received: (qmail 42468 invoked from network); 8 Nov 2001 00:10:59 -0000
+Received: from unknown (216.115.97.172)
+  by m2.grp.snv.yahoo.com with QMQP; 8 Nov 2001 00:10:59 -0000
+Received: from unknown (HELO kastor.andromeda.gnu) (209.13.229.138)
+  by mta2.grp.snv.yahoo.com with SMTP; 8 Nov 2001 00:10:57 -0000
+Received: from localhost (localhost [[UNIX: localhost]])
+	by kastor.andromeda.gnu (8.11.6/8.11.6) id fA7HaWQ03688
+	for mendonet-l@...; Wed, 7 Nov 2001 14:36:32 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Organization: @ndromeda group
+Message-Id: <200111071435.55660@X-KASTOR >
+To: mendonet-l@...
+Subject: Re: Re2: una ayudita (linux)
+Date: Wed, 7 Nov 2001 14:36:32 -0300
+X-Mailer: KMail [version 1.3.1]
+References: <002601c163d3$45779a40$b21529c8@darinka> <20011105000819.C12145@...> <000b01c16791$05559c20$d71529c8@darinka>
+In-Reply-To: <000b01c16791$05559c20$d71529c8@darinka>
+X-KASTOR-2: NO AL PAGO DE LA DEUDA EXTERNA!!!
+X-KASTOR-1: don't look my headers ass hole!!!
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+From: kastor troy <root@...>
+
+El Miercoles 07 Noviembre 2001 10:35, GAUCHO98 escribio:
+> Bueno ya bus=
+que y bueno encontre las fuentes son todas psf, y bueno estan
+> comprimidas=
+ .
+> por otro lado la que yo quiero es ttf, y esta en otro directorio, me
+>=
+ pregunto si hay algun programa que convierta de ttf, a psf para que yo la
+=
+> copie al directorio de las fonts creo que era /usr/shares/consolefonts/
+>=
+ y por otro lado lo del kernel lo busque pero no dice nada especificamente
+=
+> de las ttf, pero hay una parte que la tengo desabilitada y habal de las
+>=
+ fuentes VGA para consola, era a esto que te referis HARPO??
+>
+> BUENO CHAU=
+.
+>
+
+ hace click aca abajo y suscribite a lug-list
+
+ http://www.linuxmendoz=
+a.org.ar/mailman/listinfo/
+
+
+-- 
+  kastor troy
+ ___________________________=
+_____
+  root@...
+  kastor@...
+  Linux User #1794=
+79
+  ICQ #29242971
+  powered by mdk vitamin gnu/linux
+ ____________________=
+_____________
+

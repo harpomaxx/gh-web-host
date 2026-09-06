@@ -1,0 +1,51 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 2255 invoked from network); 9 Jun 2003 01:09:22 -0000
+Received: from unknown (66.218.66.217)
+  by m9.grp.scd.yahoo.com with QMQP; 9 Jun 2003 01:09:22 -0000
+Received: from unknown (HELO torton.micasa.org.ar) (200.70.105.242)
+  by mta2.grp.scd.yahoo.com with SMTP; 9 Jun 2003 01:09:22 -0000
+Received: from antro.micasa.org.ar ([10.55.68.2] helo=there)
+	by torton.micasa.org.ar with smtp (Exim 3.35 #1 (Debian))
+	id 19PBCs-0000g5-00
+	for <mendonet-l@...>; Sun, 08 Jun 2003 22:12:18 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[2]: buenas y santas...
+Date: Sun, 8 Jun 2003 22:17:25 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <courier.3EE28711.00006E1E@...> <0618.030608@...>
+In-Reply-To: <0618.030608@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E19PBCs-0000g5-00@...>
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Dom 08 Jun 2003 14:50, Sebas escribió:
+> asn> Che, misticos astrales... les cuento que hoy leo mi correo...
+> ¿y? ¿noles asn> calienta? en realidad yo también tengo menos ideas
+> que un lavarropas...
+>
+> No coincido con vos... una cosa son los lavarropas de tambor
+> horizontal, pero los de tambor vertical, esos viejos que iban para
+> un lado y para otro, tenían dos ideas, pero no se decidían sobre cual
+> de las dos elegir, por eso iba y venían, iban y venían.
+
+Hay lavarropas de tambor vertical que en lugar de una paleta 
+basculante, tienen una turbinita que rota siempre en la misma direccion.
+
+Queria decir que la vida de Lupus es patetica, si solamente cuando esta 
+de vacaiones puede leer sus mails.
+
+-- 
+Herr GrouchoX
+
+ID Jabber: groucho@...
+Clave pública GPG: [pronto la voy a subir a algún lado]
+Fingerprint GPG: 00EC 0B71 49D5 2EEC 357C  9A78 A87B DC4F 1B31 8B55
+

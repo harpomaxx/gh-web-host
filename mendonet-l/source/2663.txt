@@ -1,0 +1,64 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 24 Nov 2001 19:32:24 -0000
+Received: (qmail 29786 invoked from network); 24 Nov 2001 19:32:24 -0000
+Received: from unknown (216.115.97.167)
+  by m10.grp.snv.yahoo.com with QMQP; 24 Nov 2001 19:32:24 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.91)
+  by mta1.grp.snv.yahoo.com with SMTP; 24 Nov 2001 19:32:26 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sat, 24 Nov 2001 11:32:26 -0800
+X-Originating-IP: [200.45.192.171]
+To: <mendonet-l@...>
+References: <3825.011117@...> <4985.011119@...> <20011120195142.I3550@...>
+Subject: RE: Siguen las preguntas informáticas...
+Date: Sat, 24 Nov 2001 15:43:54 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE34o2J1Y4VkHC8DWtq000076d7@...>
+X-OriginalArrivalTime: 24 Nov 2001 19:32:26.0006 (UTC) FILETIME=[BF2EAB60:01C1751E]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Mensaje original -----
+De: "Groucho Marx" <groucho@...>
+Para: <mendonet-l@...>
+Enviado: Martes, 20 de Noviembre de 2001 07:51 p.m.
+Asunto: Re: Siguen las preguntas informáticas...
+
+
+> On Mon, Nov 19, 2001 at 11:38:37PM -0300, Lupus wrote:
+>
+> > porque estaba en internet anoche y apareció unmolesto personaje que no
+> > conocía,  y  me  dijo  que  se  había comunicado conmigo por las withe
+> > pages...  como  el  icq  lo  configuró mi hermano... no se cómo carajo
+> > funca eso...
+> >
+> De que color son las hojas de la guia telefonica?
+>
+> Paginas amarillas: listado de empresas con su direcicon y telefono
+> Paginas azules: listado de profesionales con su direccion y telefono
+> Paginas blancas: listado de personas con su direccion y telefono
+>
+> Las paginas blancas de ICQ son un listado de todos los pobres infelices
+que
+> cuando sacaron su direccion de ICQ no desactivaron la casilla para
+publicar
+> sus datos en las paginas blancas.
+>
+> > Hay alguna forma de desactivar esas w p?
+>
+> No uses mas ICQ y empeza a usar Jabber. Si les interesa un lavado de
+cerebro
+> open-source, les explico a todos por que.
+
+bueno
+

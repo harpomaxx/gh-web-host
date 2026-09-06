@@ -1,0 +1,86 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 25 Jan 2002 04:29:16 -0000
+Received: (qmail 8403 invoked from network); 25 Jan 2002 04:29:16 -0000
+Received: from unknown (216.115.97.167)
+  by m8.grp.snv.yahoo.com with QMQP; 25 Jan 2002 04:29:16 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.7)
+  by mta1.grp.snv.yahoo.com with SMTP; 25 Jan 2002 04:29:11 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16TxbO-0001mN-00
+	for <mendonet-l@...>; Fri, 25 Jan 2002 01:04:34 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16TxbN-0001mC-00
+	for <mendonet-l@...>; Fri, 25 Jan 2002 01:04:33 -0300
+Date: Fri, 25 Jan 2002 01:04:33 -0300
+To: mendonet-l@...
+Subject: Re: Delirios =?iso-8859-1?Q?ininfundados?=
+	=?iso-8859-1?B?Li4uIL8uLi4/?= lo que hace el tiempo de ocio...
+Message-ID: <20020125040433.GH6572@...>
+References: <20020121061031.GL1129@...> <1477.020121@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <1477.020121@...>
+User-Agent: Mutt/1.3.24i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Mon, Jan 21, 2002 at 11:28:05AM -0300, Lupus wrote:
+> 
+> GM> Bueno, crei que se trataba de una utopia.... O de una salida una vez
+> GM> que desaparezca el Estado, sea por guerra atomica, choque de meteorito,
+> GM> invasion extraterreste, o cataclismo ecologico....
+> 
+> Creo  que  el cataclismo ecológico va a hacer desaparecer algo más que
+> el estado...
+
+Pensaba en cataclismos benignos como los de Mad Max...
+
+
+> GM> Los de los barrios privados son resentidos y si bien como explicas
+> GM> estan economicamente integrados, no lo estan socialmente.
+> No  se  che...  yo creo que si... por qué decís que no? trabajan en el
+> exterior,  tienen  amigos  en  el  exterior,  compran  en el exterior,
+> reciben gente del exterior...
+
+Igual que los judios de Varsovia en 1940. Trabajaban en el exterior del
+getto, quizas tenian amigos afuera, compraban afuera, recibian gente
+del exterior.... igual que tus residentes del barrio privado.
+
+Cualquiera que considere bueno impedirle a todo el mundo caminar por la
+vereda de su casa, o por la vereda de las casas de todas las manzanas
+cercanas, y esta dispuesto a pagarle a un grupo de oligofrenicos armados
+para evitar que entren indeseables, y es feliz con una cerca/reja/valla
+rodeandolo, es un resentido social.
+Los barrios privados son gettos: solo que en lugar de mantener a los
+indeseables adentro, los mantiene afuera.
+O peor aun: plicando un poco de topologia elemental: traza una curva
+cerrada simple (o sea gaussiana) sobre la superficie de una esfera.
+La misma queda particionada en 2 regiones. Cual esta "adentro" y cual
+esta "afuera"?
+Si lo pensas un poco, cualquiera de las 2 puede estar adentro o afuera 
+y necesitas una definicion no intuitiva de lo que significa adentro
+y afuera.
+
+La curva cerrada simple el es vallado del barrio privado, la esfera es
+la Tierra. Estas adentro o afuera del barrio privado?
+Esos hijos de puta convierten a toda la ciudad en un getto, y eso me
+parece extremadamente antisocial y resentido.
+
+
+Tengo muchos otros argumentos para oponerme a los barrios privados:
+sociologicos, urbanisticos y psicologicos.
+
+Pero quisiera primero ver tu reaccion al material que te estoy enviando.
+
+-- 
+Groucho
+
+
+
+

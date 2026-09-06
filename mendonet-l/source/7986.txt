@@ -1,0 +1,37 @@
+From babasonica@...  Sat Jul 11 23:23:58 2020
+Return-Path: <babasonica@...>
+X-Sender: babasonica@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_0_3); 1 Oct 2000 22:04:34 -0000
+Received: (qmail 5398 invoked from network); 1 Oct 2000 22:04:34 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 1 Oct 2000 22:04:34 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 1 Oct 2000 22:04:34 -0000
+Received: (qmail 3632 invoked by uid 417); 1 Oct 2000 22:05:36 -0000
+Received: from unknown (HELO mendoza) (200.41.31.75) by smtpb.softhome.net with SMTP; 1 Oct 2000 22:05:36 -0000
+Message-ID: <00e601c02bd2$9e84be40$4b1f29c8@mendoza>
+To: <mendonet-l@egroups.com>
+Subject: RE: Ayiuda!
+Date: Sun, 1 Oct 2000 15:00:24 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 4.72.3110.5
+X-MimeOLE: Produced By Microsoft MimeOLE V4.72.3110.3
+From: "Mariana" <babasonica@...>
+
+>> Puede ser que algun payaso haya usado tu direccion para hacer spamming
+>> (uno de los planes que tenia para joder al Morga�o�o)
+
+Desde hace ya un par de meses que un spam me está rompiendo las bolas...
+¿Fuiste vos, Groucho?
+
+Otra cosa... ¿Cómo puedo hacer para sacarmelo de encima?... ¿Existe alguna
+manera sin que haya necesidad de instalarme algún programita?
+
+---
+La Chica Babasónica
+
+
+

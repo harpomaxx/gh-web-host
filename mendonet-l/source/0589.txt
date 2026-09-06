@@ -1,0 +1,61 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 7 Feb 2003 16:32:51 -0000
+Received: (qmail 18498 invoked from network); 7 Feb 2003 16:29:31 -0000
+Received: from unknown (66.218.66.218)
+  by m11.grp.scd.yahoo.com with QMQP; 7 Feb 2003 16:29:31 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 7 Feb 2003 16:29:30 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18hBZ2-0003A7-00
+	for <mendonet-l@...>; Fri, 07 Feb 2003 13:41:20 -0300
+Message-ID: <3E43DED9.5040206@...>
+Date: Fri, 07 Feb 2003 13:29:13 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.0.1) Gecko/20020826
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: (unknown)
+References: <3E426146.1030501@...> <16962.030206@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas escribió::
+> HG> Pero los padres estan mas interesados en el bienestar de sus hijos que
+> HG> un burocrata arbitrario.
+> Justamente, cosas como el burócrata arbitrario son las que hay que
+> cambiar.
+> 
+> HG> Si todo eso que decis estuviera a cargo del estado, darian un 
+> HG> tratamiento uniforme a todo el mundo, pues no es esperable que conozcan 
+> HG> en detalle las necesidades de 15 millones de personas.
+> Todo depende de la manera de organizarse... pensar en un
+> psicopedagogo, psicologo, trabajador social o cosas por el estilo para
+> cada colegio marginal no es tan descabellado, y permitiría manejar
+> mejor las problemáticas particulares.
+
+Un ejercito de psicopedagogos no pueden reemplazar la supervision ni el 
+conocimiento de los detalles que los padres de cada niño tienen.
+
+No comprendo que acciones concretas tiene que hacer el Estado para 
+lograr la igualdad de oportunidades en la educacion que estamos discutiendo.
+
+Tomo tu ejemplo de los 2 padres que ganan lo mismo para familias con 
+distinto numero de hermanos. En tu opinion, la familia con menos hijos 
+los educa mejor. Que propones?
+Que el estado le regale a cada familia el dinero necesario para la 
+educacion de cada uno de sus hijos?
+Que impediria a los padres con mas dinero agregar un poco mas de 
+recursos para lograr una mejor educacion de sus hijos?
+
+-- 
+Groucho
+
+
+

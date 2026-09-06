@@ -1,0 +1,522 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 2 Sep 2001 21:24:51 -0000
+Received: (qmail 72348 invoked from network); 2 Sep 2001 21:24:50 -0000
+Received: from unknown (10.1.10.27)
+  by l7.egroups.com with QMQP; 2 Sep 2001 21:24:50 -0000
+Received: from unknown (HELO softhome.net) (204.144.231.93)
+  by mta2 with SMTP; 2 Sep 2001 21:24:49 -0000
+Received: from 200-41-31-89-rdunysd1.impsat.net.ar ([200.41.31.89])
+  by softhome.net with esmtp; Sun, 02 Sep 2001 15:23:56 -0600
+Date: Sun, 2 Sep 2001 16:57:59 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <6706.010902@...>
+To: mendonet-l@yahoogroups.com
+Subject: El esquirol
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+Domingo, 02 de Septiembre de 2001
+
+
+Esquirol
+Isaac Asimov
+
+--------------------------------------------------------------------------------
+
+  
+
+Elvis Blei se restregó sus regordetas manos y dijo: 
+
+¡Autonomía es la palabra. 
+
+Sonrió intranquilo mientras le daba fuego al terrícola Steven Lamorak. Había turbación en todo ese rostro liso y de ojos pequeños y separados. 
+
+Lamorak soltó una bocanada de humo y cruzó sus largas y delgadas piernas. Tenía el cabello entrecano y la mandíbula grande y enérgica. 
+
+—¿De cosecha propia? —preguntó, mirando críticamente el cigarrillo. 
+
+Trat� de ocultar su propia inquietud ante la tensión del otro. 
+
+�En efecto —asintió Blei. 
+
+�Me asombra que en este mundo tan pequeño haya espacio para tales lujos. 
+
+(Lamorak recordá su primera vista de Elsevere desde la pantalla de su nave. Se trataba de un asteroide sin aire, de terreno escabroso y con unos cuantos cientos de kilómetros de diámetro; tan sólo una roca de un color gris sucio, tosca y que devolvía débil y opaca la luz de su sol, distante a más de trescientos millones de kilómetros. Era el único objeto de más de un kilómetro de diámetro que giraba en torno a ese sol, y algunos hombres se habían instalado en ese mundo en miniatura y habían formado una sociedad. Y él, como sociólogo, iba a estudiar ese mundo para ver cómo se adaptaba la naturaleza humana a un lugar tan extrañamente diferenciado.) 
+
+La amable sonrisa estética de Blei se ensanchó apenas. 
+
+�No es un mundo pequeño, doctor Lamorak; usted nos juzga por pautas bidimensionales. La superficie de Elsevere equivale a sólo las tres cuartas partes de la superficie del Estado de Nueva York, pero eso es irrelevante. Recuerde que si quisiéramos podríamos ocupar todo el interior de Elsevere. Una esfera de ochenta kilómetros de diámetro tiene un volumen de más de un millón de kilómetros cúbicos. Si todo Elsevere estuviera ocupado en niveles con, pongamos, quince metros de separación entre uno y otro, la superficie total en el interior del asteroide sumaría casi noventa millones de kilómetros cuadrados, y eso equivale a la superficie terrestre total exterior de la Tierra. Y ninguno de esos kilómetros cuadrados, doctor, sería improductivo. 
+
+��Santo Dios! —exclamó Lamorak y, por un momento, se quedó desconectado�. Sí, desde luego, tiene usted razón. Es raro que nunca lo haya pensado de ese modo. Pero Elsevere es el único asteroide completamente aprovechado en toda la galaxia. Los demás no podemos dejar de pensar en superficies bidimensionales, como usted ha señalado. Bien, me alegra sobremanera que su Consejo haya tenido la amabilidad de darme vía libre para llevar a cabo mi investigación. 
+
+Blei asintió con enérgicos movimientos de cabeza. 
+
+Lamorak frunció el ceño. Algo anda mal, pues actúa como si lamentara que yo hubiese venido, pens�. 
+
+¿Como es lógico, verá usted que actualmente somos mucho más pequeños de lo que podríamos ser —dijo Blei—. Sólo hemos agujereado y ocupado pequeñas partes de Elsevere. Y tampoco es que estemos demasiado ansiosos por expandirnos, excepto con mucha lentitud. En cierta medida nos vemos limitados por la capacidad de nuestros motores de seudogravedad y por los conversores de energía solar. 
+
+—Entiendo. Pero dígame, consejero Blei; por razones de curiosidad personal, y no porque sea de primordial importancia para mi proyecto, ¿podría ver primero alguno de los niveles de agricultura y pastoreo? Me fascina la idea de ver trigales y ganado en el interior de un asteroide. 
+
+�El ganado le parecerá pequeño para lo que est� usted acostumbrado, doctor, y no tenemos mucho trigo. Cultivamos mucha levadura. Pero también habrá algo de trigo para mostrarle. Y algodón y tabaco. Incluso árboles frutales. 
+
+¡Maravilloso. Como usted dice, autonomía. Ustedes reciclan todo, me imagino. 
+
+Lamorak notó que esta observación incomodaba a Blei. El elseveriano entrecerró los ojos para ocultar su expresión. 
+
+¿Debemos reciclar, sí. Aire, agua, alimentos, minerales; todo lo que se consume debe devolverse a su estado original; los productos de desecho los reconvertimos en materia prima. Sólo se necesita energía, y tenemos de sobra. No alcanzamos un ciento por ciento de eficiencia, desde luego, y se produce un cierto desperdicio. Importamos anualmente una pequeña cantidad de agua y, si crecen nuestras necesidades, quizá tengamos que importar carbón y oxígeno. 
+
+��Cu�ndo iniciaremos nuestra excursión, consejero Blei? 
+
+La sonrisa de Blei perdió parte de su escasa calidez. 
+
+¿En cuanto podamos, doctor. Primero debemos arreglar ciertos asuntos de rutina. 
+
+Lamorak asintió con la cabeza, terminó el cigarrillo y lo apagó. 
+
+¿Asuntos de rutina? No hubo tanta indecisión durante la correspondencia preliminar. Elsevere más bien parecía orgulloso que su singular existencia hubiese llamado la atención de la galaxia. 
+
+¿Comprendo que yo sería una influencia perturbadora en esta sociedad estrechamente entrelazada �coment� y vio con desagrado que Blei no dejaba escapar esa explicación y la hacía suya. 
+
+�S�, nos sentimos diferentes al resto de la galaxia. Tenemos nuestras propias costumbres. Cada individuo elseveriano encaja en un lugar adecuado. La presencia de un forastero sin casta fija resulta inquietante. 
+
+�El sistema de castas supone una falta de flexibilidad. 
+
+�En efecto —concedió Blei—, pero también otorga cierta seguridad. Contamos con firmes reglas matrimoniales y una estricta herencia de empleo. Cada hombre, mujer y niño conoce su lugar, lo acepta y es aceptado en él; prácticamente no tenemos neurosis ni enfermedades mentales. 
+
+��Y no hay inadaptados? 
+
+Blei movió los labios como para decir que no, pero los cerró, guardó silencio y arrugó la frente. Por fin dijo: 
+
+�Organizar� la visita, doctor. Entre tanto, supongo que deseará refrescarse y dormir. 
+
+Se levantaron juntos y abandonaron la habitación. Blei le cedió cortésmente el paso al terrícola. 
+
+Lamorak se sintió oprimido por la vaga sensación de crisis que había impregnado su conversación con Blei. 
+
+El periódico reforzó esa sensación. Lo leyó atentamente antes de acostarse, en un principio por simple interés analítico. Era un tabloide con ocho páginas de papel sintético. Una cuarta parte del contenido consistía en asuntos �personales�: nacimientos, bodas, defunciones, récords de producción, volumen (¿no dos dimensiones, sino tres!) habitable en expansión. El resto incluía ensayos eruditos, material educativo y ficción. No había prácticamente ninguna noticia en el sentido en que Lamorak entendía la palabra. 
+
+Sólo una nota se podía considerar noticia, y era estremecedora en su brevedad. 
+
+Bajo el titular, escrito en caracteres pequeños, de ¡Las exigencias no han cambiado� se leía: “No hubo cambios en su actitud de ayer. El consejero jefe, tras una segunda entrevista, anunció que sus exigencias siguen siendo totalmente irracionales y no se pueden satisfacer bajo ningún concepto.� 
+
+Luego, entre par�ntesis y con otra tipograf�a, seguía la frase: ¿Los editores de este peri�dico están de acuerdo en que Elsevere no puede ni debe bailar a su son; pase lo que pase.� 
+
+Lamorak lo releyó tres veces. «Su» actitud. «Sus» exigencias. «Su» son. ¿De quién? 
+
+Esa noche durmió intranquilo. 
+  
+
+No hubo tiempo para leer periódicos en los días siguientes, pero el asunto no dejó de obsesionarlo. 
+
+Blei, que continuaba siendo su guía y compañero durante la mayor parte del recorrido, parecía cada vez más reservado. 
+
+El tercer día (que seguía artificialmente el esquema de veinticuatro horas de la Tierra), Blei se detuvo en un sitio y dijo: 
+
+�Este nivel está consagrado totalmente a las industrias químicas. Esa sección no es importante... 
+
+Pero se desvió con demasiada prisa y Lamorak lo agarró del brazo. 
+
+��Cu�les son los productos de esa sección? 
+
+�Fertilizantes. Sustancias orgánicas —contestó secamente Blei. 
+
+Lamorak lo retuvo, buscando aquello que Blei parecía eludir. Recorrió con la vista los más cercanos horizontes, las líneas de rocas y los edificios apiñados entre los niveles. 
+
+—¿No es aquello una residencia privada? —Blei no mir� hacia donde le señalaba». Creo que es la mayor que he visto. ¿Por qué está aquí, en un nivel de fábricas? ¡Eso bastaba para destacarla. Ya había observado que los niveles de Elsevere estaban divididos estrictamente en residenciales, agrícolas e industriales�. ¡Consejero Blei! 
+
+El consejero se alejaba y Lamorak corrió tras él. 
+
+—¿Hay algún problema? 
+
+—Sé que soy descortés —masculló Blei—. Lo lamento. Tengo ciertas preocupaciones... 
+
+Apuré el paso. 
+
+—¿Referentes a sus exigencias? 
+
+Blei se pará en seco. 
+
+—¿Qué sabe usted de eso? 
+
+¿No más de lo que he dicho. Es lo que leí en el periódico. 
+
+Blei farfulló algo. 
+
+—¿Ragusnik? —repitió Lamorak—. ¿Qué es eso? 
+
+Blei suspiró profundamente. 
+
+�Supongo que debería contárselo. Es humillante, profundamente embarazoso. El Consejo pens� que el asunto se arreglaría pronto y no interferiría en la visita de usted, de modo que no era preciso que usted supiese nada. Pero ya ha pasado casi una semana. No sé qué sucederá y, a pesar de las apariencias, sería mejor que usted se marchara. No hay razones para que un forastero se arriesgue a morir. 
+
+El terrácola sonrió, incrédulo. 
+
+��Morir? ¿En este pequeño mundo, tan apacible y laborioso? No puedo creerlo. 
+
+¿Se lo explicará. Creo que será mejor que lo haga. �Mir� hacia otra parte”. Como ya le dije, en Elsevere todo se debe reciclar. Supongo que lo entiende. 
+
+�S�. 
+
+¡Eso incluye los... excrementos humanos. 
+
+¡Ya lo suponía. 
+
+¿Se les extrae el agua mediante destilación y absorción. Lo que queda lo convertimos en fertilizantes para levadura; una parte se usa como fuente de sustancias orgánicas y otros subproductos. Estas fábricas que usted ve se dedican a ese propósito. 
+
+��Y bien? 
+
+Lamorak había tenido cierta dificultad para beber el agua de Elsevere al principio, porque era tan realista como para deducir su origen; pero logró superar esa sensación. Incluso en la Tierra, el agua se saneaba por procesos naturales a partir de toda clase de sustancias desagradables al paladar. 
+
+Blei continuó, con creciente dificultad: 
+
+—Igor Ragusnik es el encargado de los procesos industriales relacionados con los desechos. Ese puesto le ha pertenecido a su familia desde la colonización de Elsevere. Uno de los colonos originales fue Mikhail Ragusnik y él..., él... 
+
+�Se encargaba del saneamiento de los desechos. 
+
+—Sí. Ese edificio que usted señaló es la residencia de Ragusnik. Es la mejor y más modernizada de todo el asteroide. Ragusnik consigue muchos privilegios que los demás no tenemos; pero, a fin de cuentas... �la voz del consejero cobró una repentina intensidad�: No podemos hablar con él. 
+
+��Qu�? 
+
+¡Exige plena igualdad social. Pretende que sus hijos se mezclen con los nuestros y que nuestras esposas visiten... ¡Oh! 
+
+Fue todo un gemido de absoluta repulsión. 
+
+Lamorak pens� en la nota del periódico, que ni siquiera mencionaba el nombre de Ragusnik ni decía nada específico sobre sus exigencias. 
+
+—Supongo que es un paria a causa de su trabajo. 
+
+—Naturalmente. Desechos humanos y... —Blei no hallaba las palabras. Tras una pausa dijo en un tono de voz más bajo�: Me imagino que usted, como terrácola, no lo entiende. 
+
+¿Como sociólogo creo que sí. —Pensé en los intocables de la antigua India, aquellos que manipulaban los cadáveres. Pensé en la situación de los porquerizos en la nueva Judea—. Supongo que Elsevere no cederá ante esas exigencias. 
+
+¿Nunca —dijo Blei enérgicamente—. Jamás. 
+
+—¿Entonces? 
+
+—Ragusnik ha amenazado con interrumpir su actividad. 
+
+¿En otras palabras, hacer huelga. 
+
+—Sí. 
+
+—¿Eso sería grave? 
+
+¡Tenemos comida y agua suficientes para un tiempo; el saneamiento no es esencial en ese sentido. Pero se acumularían los desechos, contaminarían todo el asteroide. Después de varias generaciones de cuidadoso control de las enfermedades, tenemos poca resistencia natural a los gérmenes. Si estalla una epidemia, lo cual será inevitable, caeremos a centenares. 
+
+��Ragusnik lo sabe? 
+
+�S�, por supuesto. 
+
+��Cree usted que, de todos modos, cumplirá su amenaza? 
+
+¿Está loco. Ya ha dejado de trabajar; no ha habido saneamiento de desechos desde el día anterior a la llegada de usted. 
+
+La prominente nariz de Blei tembló como si captara tufo de excrementos en el aire. En un acto reflejo, Lamorak olfateó a su vez, pero no olió nada. 
+
+¿Como ve usted, será mejor que se vaya, por mucho que nos humille tener que sugerírselo. 
+
+¡Espere, todavía no. ¡Santo Dios, esto me interesa mucho profesionalmente! ¿Puedo hablar con Ragusnik? 
+
+¡De ningún modo —rechazó Blei, alarmado. 
+
+¡Pero me gustaría comprender la situación. Aquí las condiciones sociológicas son únicas y no se dan en ninguna otra parte. En nombre de la ciencia... 
+
+��C�mo quiere hablar? ¿Bastaría con recepción de imagen? 
+
+—Sí. 
+
+¿Lo consultará con el Consejo —murmuró Blei. 
+  
+  
+  
+
+Rodeaban a Lamorak con inquietud, y la ansiedad les enturbiaba la expresión austera y majestuosa. Blei, sentado entre ellos, eludía deliberadamente la mirada del terrícola. 
+
+El jefe del Consejo, canoso, de rostro arrugado y cuello flaco, murmuró: 
+
+¡Si usted, por propia convicción, logra persuadirlo, se lo agradeceremos. Pero de ningún modo debe insinuar que nosotros cederemos. 
+
+Una cortina como de seda cayó entre el Consejo y Lamorak. Todavía podía distinguir a los consejeros individualmente, pero se volvió de pronto hacia el receptor, que se encendió como un parpadeo. 
+
+Apareció una cabeza, en colores naturales y con gran realismo; una cabeza fuerte y de tono oscuro, barbilla sólida, barba crecida y labios carnosos y rojos formando una fina línea horizontal. 
+
+��Qui�n es usted? ¿preguntó la imagen, con suspicacia. 
+
+�Me llamo Steven Lamorak y soy terrícola. 
+
+¡¿Un forastero? 
+
+¿Así es. Estoy de visita en Elsevere. Usted es Ragusnik. 
+
+�Igor Ragusnik, a su servicio —asintió socarronamente la imagen—; sólo que no hay servicio ni lo habrá hasta que a mi familia y a mí nos traten como a seres humanos. 
+
+—¿Se da cuenta del peligro en que se encuentra Elsevere y la posibilidad de contraer enfermedades contagiosas? 
+
+¿En veinticuatro horas se puede volver a la normalidad con sólo reconocer que soy humano. Está en manos de ellos corregir la situación. 
+
+—Usted parece ser un hombre culto, Ragusnik. 
+
+—¿Y? 
+
+�Me han dicho que no le niegan ninguna comodidad material; que dispone usted de la mejor vivienda, indumentaria y alimentos que nadie en Elsevere, y que sus hijos reciben la mejor educación. 
+
+—Concedido. Pero todo por servomecanismos. Y nos envían niñas huérfanas con el propósito que nos ocupemos de ellas hasta que tengan edad para ser nuestras esposas. Y mueren jóvenes, de soledad. ¿Por qué? ¿Su tono de voz adquirió de pronto más pasi�n�: ¿Por qué debemos vivir en el aislamiento como si fuéramos monstruos a los que no se pueden aproximar los seres humanos? ¿No somos seres humanos como los demás, con las mismas necesidades, los mismos deseos y los mismos sentimientos? ¿No realizamos una función honorable y útil...? 
+  
+  
+  
+
+Sonaron suspiros a espaldas de Lamorak. Ragusnik los oyó y elevó la voz: 
+
+¿Veo a los del Consejo ahí detrás. Respondedme. ¿No es una función honorable y útil? Transformamos vuestros desechos en alimentos para vosotros. ¿Quien purifica la corrupción es peor que quien la produce? Escuchad, consejeros, no cederé. Mi familia estará mejor muerta que viviendo como ahora. 
+
+¿Usted lleva viviendo de esa manera desde que nació, ¿verdad? �interrumpi� Lamorak. 
+
+��Y qué si es así? 
+
+�Pues que sin duda está acostumbrado. 
+
+—Jamás. Resignado, tal vez. Mi padre estaba resignado y yo me he resignado durante un tiempo. Pero he visto a mi hijo, a mi único hijo, sin otro niño con quien jugar. Mi hermano y yo nos teníamos el uno al otro, pero mi hijo nunca tendrá a nadie, así que ya no me resigno. He terminado con Elsevere y he terminado de hablar. 
+
+El receptor se apagó. 
+
+El jefe del Consejo se había puesto amarillo. Sólo él y Blei quedaban con Lamorak. 
+
+¿Ese hombre está desquiciado �coment� el jefe del Consejo�. No sé cómo obligarlo. 
+
+Tenía una copa de vino; se la llevó a los labios y derramó unas gotas que le mancharon de rojo los pantalones blancos. 
+
+—¿Tan poco razonables son sus exigencias? —preguntó Lamorak—. ¿Por qué no se lo puede aceptar en la sociedad? 
+
+Los ojos de Blei destellaron de furia un instante. 
+
+��Alguien que tiene que reciclar los excrementos! ¿Se encogió de hombros�. Usted, claro, es de la Tierra. 
+
+Incongruentemente, Lamorak recordá a otro inaceptable, una de las muchas creaciones clásicas del caricaturista medieval Al Capp: el �hombre del trabajo sucio�. 
+
+��Ragusnik maneja realmente los excrementos? Quiero decir si hay contacto físico. Sin duda todo se efectúa con maquinaria automática. 
+
+�Por supuesto �confirm� el jefe del Consejo. 
+
+¿Entonces, ¿cuál es la función de Ragusnik? 
+
+�Regula manualmente los controles que garantizan el funcionamiento adecuado de la maquinaria. Cambia las unidades cuando hay que repararlas, varía los índices de funcionamiento según la hora del día y acomoda el producto final a la demanda. Si dispusiéramos de espacio para máquinas diez veces más complejas, todo se podría realizar automáticamente, pero sería un derroche innecesario. 
+
+“Aun así �insisti� Lamorak—, Ragusnik sólo realiza sus tareas pulsando botones, cortando contactos o con acciones similares. 
+
+—Sí. 
+
+¿Entonces, su trabajo no es diferente del de cualquier elseveriano. 
+
+Blei replicó en tono cortante: 
+
+�Ya veo que usted no lo entiende. 
+
+��Y van a poner en peligro la vida de sus hijos por una cosa así? 
+
+�No tenemos opción —aseguró Blei. 
+
+La angustia de su voz evidenciaba que la situación era un suplicio para él, pero que realmente no tenía otra opción. 
+
+Lamorak se encogió de hombros, irritado. 
+
+¿Entonces, rompan la huelga. ¡Oblíguenlo! 
+
+��C�mo? �se desesperó el jefe del Consejo�. ¿Quién se atrevería a tocarlo o a acercarse a él? Y aunque lo matáramos con una descarga a distancia, ¿nos serviría de algo? 
+  
+  
+  
+
+—¿No saben manejar sus máquinas? —preguntó Lamorak, pensativo. 
+
+El jefe del Consejo se puso de pie y gritó: 
+
+—¿Yo? 
+
+¿No me refería exactamente a usted. Hablaba en general. ¿Podría alguien aprender a manejar las máquinas de Ragusnik? 
+
+El jefe del Consejo se calmó. 
+
+¿Sin duda con los manuales..., aunque le aseguro que nunca he tenido interés en leerlos. 
+
+¿O sea que alguien podría aprender todo el procedimiento y sustituir así a Ragusnik hasta que él se rinda. 
+
+��Qui�n podría aceptar semejante tarea? —replicó Blei—. Yo no, desde luego, de ninguna manera. 
+
+Lamorak recordá fugazmente alguno de los tabúes terrícolas que eran igual de fuertes. Pensé en el canibalismo, en el incesto, en la blasfemia de un hombre piadoso. 
+
+¡Pero ustedes deben de haber previsto la posibilidad que el puesto quede vacante. ¿Y si Ragusnik muriese? 
+
+�Pues su hijo le sucedería automáticamente, o su pariente más cercano —respondió Blei. 
+
+��Y si no tuviera parientes adultos? ¿Y si toda su familia muriese de repente? 
+
+¡Eso nunca ha ocurrido y nunca ocurrirá. 
+
+�Si existiera ese peligro —añadió el jefe del Consejo—, podríamos, supongo, entregar un niño a los Ragusnik para que le enseñaran la profesión. 
+
+—Muy bien. ¿Y cómo se escogería ese niño? 
+
+—Entre los hijos de las madres que murieron al dar a luz, como escogemos a la futura prometida de un Ragusnik. 
+
+¿Entonces, escojan un sustituto ahora, por sorteo. 
+
+¡¿No! —exclamó el jefe del Consejo�. ¡Imposible! ¿Cómo se atreve a sugerirlo? Si escogemos a un niño, el niño se adapta a esa vida sin conocer otra cosa. Para este asunto habría que elegir a un adulto y transformarlo en Ragusnik. No, doctor Lamorak, no somos monstruos ni bestias salvajes. 
+
+Lamorak pens� que era inútil; era inútil a no ser que... 
+
+Todavía no era capaz de enfrentarse a ese �a no ser que�. 
+  
+  
+  
+
+Esa noche apenas durmió. Ragusnik sólo pedía un elemental trato humanitario. Pero se le oponían treinta mil elseverianos que se enfrentaban a la muerte. El bienestar de treinta mil personas por un lado; las justas exigencias de una familia por el otro. ¿Se podía afirmar que treinta mil personas que respaldaban tamaña injusticia merecían la muerte? Injusticia, ¿a ojos de quién? ¿De la Tierra? ¿De Elsevere? ¿Y quién era Lamorak para juzgar a nadie? 
+
+¿Y Ragusnik? Estaba dispuesto a permitir la muerte de treinta mil personas, incluidos hombres y mujeres que simplemente aceptaban una situación que les habían enseñado a aceptar y que no podían cambiar aunque quisieran. Y niños que no tenían nada que ver con ello. 
+
+Treinta mil por un lado; una familia por el otro. 
+
+Tomá su decisión en un estado rayano en la desesperación y por la mañana llamó al jefe del Consejo. 
+
+¿Señor “dijo Lamorak�, si usted puede conseguir un sustituto, Ragusnik comprenderá que ha perdido toda posibilidad de forzar una decisión en su favor y regresará al trabajo. 
+
+�No puede haber un sustituto —murmuró el jefe del Consejo�. Ya se lo he explicado. 
+
+�No entre los elseverianos, pero yo no lo soy. A mí no me importa. Seré yo el sustituto. 
+  
+  
+  
+
+Estaban alterados, mucho más que él mismo. Le preguntaron varias veces que si hablaba en serio. 
+
+Lamorak iba sin afeitar y se sentía cansado. 
+
+¡Claro que hablo en serio. Y cada vez que Ragusnik actúe así siempre pueden importar un sustituto. Este tabú no existe en ningún otro mundo, así que habrá abundancia de sustitutos provisionales si ustedes pagan lo suficiente. 
+
+(Traicionaba a un hombre explotado brutalmente y lo sabía. Pero se repetía desesperadamente: salvo por el ostracismo recibe buen trato, muy buen trato.) 
+
+Le dieron los manuales y se pasó seis horas leyendo y releyendo. Era inútil hacer preguntas, pues ningún elseveriano conocía aquel trabajo, excepto lo que figuraba en el manual, y todos se incomodaban si les mencionaban detalles. 
+
+��Mantener lectura cero del galvanómetro A-2 durante la señal roja del aullador Lunge» —leyó Lamorak—. ¿Qué es un aullador Lunge? 
+
+¿Debe ser una señal —murmuró Blei, y los elseverianos se miraron con embarazo y agacharon la cabeza para estudiarse la yema de los dedos. 
+  
+  
+  
+
+Lo dejaron a solas mucho antes de llegar a los aposentos donde generaciones de Ragusnik habían trabajado al servicio de su mundo. Tenía instrucciones específicas para llegar al nivel indicado, pero ellos lo abandonaron y Lamorak continuó solo. 
+
+Recorrió las habitaciones atentamente, identificando instrumentos y controles y siguiendo los diagramas del manual. 
+
+Ahí está el aullador Lunge, pens� con sombría satisfacción. Eso decía el letrero. La cara frontal era semicircular y con orificios obviamente diseñados para brillar en diversos colores. ¿Por qué �aullador� entonces? 
+
+No lo sabía. 
+
+En alguna parte, pens� Lamorak, en alguna parte se acumulan los desechos, agolpándose contra los engranajes y las salidas, contra las tuberías y los alambiques, a la espera de ser manipulados de cien modos. Ahora, simplemente están acumulados. 
+
+Temblando un poco, activó el interruptor, tal como indicaba el manual en las instrucciones de �iniciaci�n�. Un suave murmullo de vida hizo vibrar los suelos y las paredes. Lamorak movió un dial y se encendieron las luces. 
+
+A cada paso consultaba el manual, aunque se lo sabía de memoria, y a cada paso las habitaciones se iluminaban y los cuadrantes se ponían en movimiento y zumbaban con creciente estruendo. 
+
+En algún lugar del interior de las fábricas, los desechos acumulados se desplazaban hacia los cauces correspondientes. 
+
+Sonó una señal aguda y Lamorak se sobresaltó y perdió la concentración. Se trataba del indicativo de comunicaciones, así que activó el receptor. 
+
+Apareció el alarmado rostro de Ragusnik que, poco a poco, cobró un aire de colérica incredulidad. 
+
+¡Conque así están las cosas. 
+
+�No soy elseveriano, Ragusnik. No me molesta hacer esto. 
+
+��Pero qué tiene que ver usted en esto? ¿Por qué se entromete? 
+
+“Estoy de parte de usted, Ragusnik, pero debo hacerlo. 
+
+��Por qué, si está de mi lado? ¿En su mundo tratan a la gente como me tratan a mí? 
+
+¿Ya no. Pero aunque usted tenga razón he de tener en cuenta a los otros treinta mil habitantes de Elsevere. 
+
+¿Habrían cedido. Ha echado abajo mi única posibilidad. 
+
+¿No habrían cedido. Y en cierto modo ha triunfado usted, pues ahora saben que está insatisfecho. Hasta ahora, ni siquiera imaginaban que un Ragusnik pudiera ser infeliz, que pudiera causar problemas. 
+
+��Sirve de algo que lo sepan? Sólo tienen que encontrar a un forastero en cada ocasión. 
+
+Lamorak sacudió la cabeza. Había pensado en todo eso en las últimas y amargas horas. 
+
+¿El hecho que ahora lo sepan significa que los elseverianos comenzarán a pensar en usted, y algunos se preguntarán si es correcto tratar así a un ser humano. Y si contratan forasteros ellos difundirán lo que ocurre en Elsevere y toda la opinión pública galáctica se volcará en favor de usted. 
+
+��Y? 
+
+¡Las cosas mejorarán. En tiempos de su hijo, las cosas estarán mucho mejor. 
+
+¿En tiempos de mi hijo �rezong� Ragusnik, y ahuecó las mejillas�. Preferiría que fuese ahora. Bien, he perdido. Regresaré al trabajo. 
+
+Lamorak sintió un inmenso alivio. 
+
+�Si viene aquí ahora, señor, podrá reanudar su trabajo y me honrará estrecharle la mano. 
+
+Ragusnik irguió la cabeza, henchido de un orgullo huraño. 
+
+—Usted me llama señor y se ofrece a estrecharme la mano. Lárguese, terrícola, y déjeme hacer mi trabajo, pues yo no estrecharé la suya. 
+  
+  
+  
+
+Lamorak regresó por donde había llegado, aliviado porque había concluido la crisis, pero profundamente abatido. 
+
+Se detuvo sorprendido al toparse con un tramo de corredor acordonado que le cerraba el paso. Buscó otro camino y se sorprendió al oír una voz amplificada. 
+
+—Doctor Lamorak, ¿me oye? Habla el consejero Blei. 
+
+Levantó la vista. La voz provenía de un sistema de altavoces, pero no veía ninguna salida. 
+
+—¿Pasa algo malo? —preguntó. ¿Me oye usted? 
+
+¡Le oigo. 
+
+—¿Pasa algo malo? —repitió a gritos�. Aquí hay un obstáculo. ¿Hay complicaciones con Ragusnik? 
+
+¿Ragusnik ha ido a trabajar. La crisis ha terminado y usted debe disponerse a partir. 
+
+��Disponerme a partir? 
+
+�S�, a irse de Elsevere. Le estamos preparando una nave. 
+
+¡Pero aguarde un momento. �Lamorak estaba confundido por aquel súbito vuelco de los acontecimientos». Aún no he terminado de recoger datos. 
+
+�Eso ya no es posible. Se le indicará directamente el camino a la nave y sus pertenencias le serán enviadas por servomecanismos. Confiamos..., confiamos... 
+
+Lamorak comenzaba a comprender. 
+
+—¿Confían en qué? 
+
+«Confiamos en que no intentará ver ni hablar en persona a ningún elseveriano. Y, desde luego, esperamos que nos evite la embarazosa situación de intentar regresar a Elsevere en el futuro. Con gusto recibiremos a cualquiera de sus colegas si necesita más datos sobre nosotros. 
+
+«Entiendo —aceptó, en un tono de voz apagado. Evidentemente se había convertido en un Ragusnik. Había manejado los controles que manipulaban los desechos y se lo sometía al ostracismo. Era un manipulador de cadáveres, un porquerizo, el hombre del trabajo sucio”. Adiós. 
+
+—Antes de despedirme, doctor Lamorak... En nombre del Consejo de Elsevere, le doy las gracias por su ayuda en esta crisis. 
+
+�De nada “dijo amargamente Lamorak. 
+  
+  
+  
+
+F I N
+ 
+
+
+  
+
+--
+ nadie, apoltronado en la tibieza de una vida timorata,
+ puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                         
+
+
+

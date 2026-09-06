@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:54:28 -0000
+Received: (qmail 60769 invoked from network); 5 Oct 2001 02:54:28 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.221 with QMQP; 5 Oct 2001 02:54:28 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2 with SMTP; 5 Oct 2001 02:56:41 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id AAA24919
+	for <mendonet-l@...>; Fri, 5 Oct 2001 00:02:07 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pHVn-0000E4-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 20:02:39 -0300
+Date: Thu, 4 Oct 2001 20:03:26 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <5835.011004@...>
+To: Morganti Federico <mendonet-l@...>
+Subject: Re[7]: "Naturaleza del hombre" my ass !
+In-reply-To: <OE50dlupLIVh5yh82kQ00006504@...>
+References: <OE50dlupLIVh5yh82kQ00006504@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Morganti,
+
+Monday, October 01, 2001, 3:23:45 PM, you wrote:
+
+>> Para vos la palabra artificial implica una transformacion,
+>> un desplazamiento del estado de una cosa desde su estado natural
+>> (virgen).
+
+MF> che, sebas� tu hermana esta todavia en estado natural?
+
+El estado natural del himen es desflorado. De lo contrario el sistema
+reproductor seria naturalmente disfuncional.
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

@@ -1,0 +1,35 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 1607 invoked from network); 20 Jun 2000 17:13:03 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 20 Jun 2000 17:13:03 -0000
+Received: from unknown (HELO moltar.unsl.edu.ar) (200.51.40.67) by mta1 with SMTP; 20 Jun 2000 17:13:02 -0000
+Received: (qmail 17002 invoked by uid 722); 20 Jun 2000 17:12:49 -0000
+Date: 20 Jun 2000 17:12:49 -0000
+Message-ID: <20000620171249.17000.qmail@...>
+To: mendonet-l@egroups.com
+Subject: lupus: otra vez mail
+From: fcanizo@...
+
+Velo de esta manera: vos bajás tu mail y luego invertís
+tiempo en componer respuestas. Ese tiempo, poco o mucho, es
+tiempo tirado, porque por acá no llegan los mails. Estoy
+mirando ahora y me parece que es más del 50% los que llegan
+cortados.
+
+Fijate en qué lugar se cortan, hacé comparaciones con los
+que no se cortan.
+
+Otra cosa, muy importante: a vos te llegan cortados tus
+propios mails?
+
+Si necesitás ayuda puedo automatizar para que cada vez que
+yo reciba un mail tuyo te lo forwardee, de manera que veas
+como me llega a mi.
+
+---
+Los que son fieles conocen el lado trivial del amor únicamente; el infiel es el
+que conoce las tragedias del amor.
+
+	"El retrato de Dorian Grey" - Oscar Wilde
+
+

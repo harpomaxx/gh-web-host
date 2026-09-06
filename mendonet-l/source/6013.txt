@@ -1,0 +1,38 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_2_0); 2 Jul 2001 07:07:05 -0000
+Received: (qmail 59470 invoked from network); 2 Jul 2001 07:07:05 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 2 Jul 2001 07:07:05 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.62) by mta2 with SMTP; 2 Jul 2001 07:06:58 -0000
+Received: (qmail 7091 invoked by uid 1005); 1 Jul 2001 15:30:29 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.244225 secs); 01/07/2001 12:30:27
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3) by torton.micasa with SMTP; 1 Jul 2001 15:30:26 -0000
+Date: Sun, 1 Jul 2001 12:30:27 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain; charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <1855.010701@...>
+In-Reply-To: <1855.010701@...>
+Subject: Re: De Borges y otras yerbas...
+MIME-Version: 1.0
+Message-Id: <01070112302702.00344@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Dom 01 Jul 2001 01:20, escribiste:
+
+
+> Lo que más me gusta del poema es que sea tan borgeano !.
+> Quién carajo es Chuang-Tzu ?!. Quién es ese tipo ?!. Por qué siempre
+> habla de gente que no conozco ?!.
+
+Era un chino que no estaba seguro si habia soñado que era una mariposa, 
+o si era una mariposa que habia soñado que era hombre.
+
+O sea: cuando estaba dormido y cuando despierto? 
+
+-- 
+Groucho Marx
+

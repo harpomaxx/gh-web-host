@@ -1,0 +1,30 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 20579 invoked from network); 4 Jul 2000 20:55:05 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 4 Jul 2000 20:55:05 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 4 Jul 2000 20:55:03 -0000
+Received: (qmail 11219 invoked by uid 722); 4 Jul 2000 20:54:50 -0000
+Date: 4 Jul 2000 20:54:50 -0000
+Message-ID: <20000704205450.11216.qmail@...>
+To: mendonet-l@egroups.com
+Subject: Re: propuesta concientizadora
+From: fcanizo@...
+
+El 29/06/00, Groucho Marx le escribió temorosamente a fcanizo@...:
+
+GM>No me interesa clasificar la informacion que recibo de Mendonet. No
+GM>tengo ningun mayordomo que haga el trabajo por ni, ni lo haria yo
+GM>mismo.
+GM>Yo leo Mendonet en orden secuencial, sin omitir ningun mensaje. Me
+GM>interesa TODO.
+GM>Entonces, lo que diga el subject no es mas que una etiqueta a ignorar.
+
+Yo en general hago lo mismo. Pero tengo en cuenta a los que
+si necesitan omitir ciertos mensajes para no vivir en
+mendonet.
+Pienso en los demás.
+
+---
+Insignificante como estornudo de gato
+
+

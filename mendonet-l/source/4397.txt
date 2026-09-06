@@ -1,0 +1,70 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 30 Sep 2001 15:27:07 -0000
+Received: (qmail 14489 invoked from network); 30 Sep 2001 15:27:04 -0000
+Received: from unknown (10.1.10.27)
+  by l10.egroups.com with QMQP; 30 Sep 2001 15:27:04 -0000
+Received: from unknown (HELO kastor.andromeda.gnu) (200.47.194.85)
+  by mta2 with SMTP; 30 Sep 2001 15:27:02 -0000
+Received: from localhost (localhost [[UNIX: localhost]])
+	by kastor.andromeda.gnu (8.11.3/8.11.3) id f8TNa4P04423
+	for mendonet-l@...; Sat, 29 Sep 2001 20:36:04 -0300
+Message-Id: <200109292336.f8TNa4P04423@...>
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Organization: @ndromeda group
+To: mendonet-l@...
+Subject: Re: Algo malo pasa
+Date: Sat, 29 Sep 2001 20:36:04 -0300
+X-Mailer: KMail [version 1.3]
+References: <20010927182449.G23420@...> <8877.010928@...>
+In-Reply-To: <8877.010928@...>
+X-KASTOR: don't look my headers ass hole!!!
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+From: kastor troy <root@...>
+
+El Vie 28 Sep 2001 21:03, rodralez escribio:
+> Harpo Maxx decia:
+> > El T=
+hu, Sep 27, 2001 at 06:04:20PM +0000, Recabarren@... dijo:
+> >> Ha=
+rpo?
+> >>
+> >> Estas ahi?
+> >
+> > jua jua.. hace tiempo que me fui, pero no=
+ he notado ningun inconveniente
+> > entre softhome y yahoo.. de hecho.. mis=
+ mail llegan sin drama
+>
+> Nota mental: nunca dejes que tu casilla de softh=
+ome llegue a tener 500
+> mensajes. No recibiras emails.
+>
+> rodralez
+>
+
+y=
+o he tenido mas de 500 mails cuando me quede sin fono durante un mes.. lo 
+=
+que se complica es bajarlos.. la mecha es entrar en el webmail seleccionarl=
+os 
+y borrarlos desde ahi.. sino podes morir en el intento!
+
+-- 
+  kastor t=
+roy
+ ____________________________
+  root@...
+  kastor@linuxmendo=
+za.org.ar
+  http://www.kastor.com.ar
+  Linux User #179479
+  ICQ #29242971
+ =
+ powered by mdk gnu/linux
+ ____________________________
+

@@ -1,0 +1,45 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 8 Nov 2000 00:21:07 -0000
+Received: (qmail 2315 invoked from network); 8 Nov 2000 00:21:07 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 8 Nov 2000 00:21:07 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 8 Nov 2000 00:21:05 -0000
+Received: from antro.micasa ([200.41.31.43]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id VAA09994 for <mendonet-l@egroups.com>; Tue, 7 Nov 2000 21:24:13 +0300 (GMT)
+Date: Mon, 6 Nov 2000 13:41:20 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <14570.001106@...>
+To: Goofer <mendonet-l@egroups.com>
+Subject: Re[12]: Teletrabajo
+In-reply-To: <008701c04805$1d6a0e60$0201a8c0@terminal1>
+References: <008701c04805$1d6a0e60$0201a8c0@terminal1>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 06/11/2000, Goofer angustiado puteó:
+
+>>Y no tengo el tiempo para dedicarme a la construccion de tarjetas.
+
+G> dale, dale, dale, haceme una, dale, si??, dale, che, haceme una,
+G> si??, dale, che, eh, dale, unita, dale, si??
+
+No es una excusa, pero en este momento las tarjetas han dejado de
+andar. Creo entender que gradualmente estan sacando de circulacion las
+tarjetas viejas para implementar algun tipo de tarjeta
+criptograficamente mas segura.
+
+Si es asi o no, pronto lo sabre, cuando lea que mierda hay dentro de
+una tarjeta comprada hoy.
+
+
+-- 
+Groucho Marx
+Those are my principles. If you don't like them I have others.  -- Groucho Marx
+
+
+

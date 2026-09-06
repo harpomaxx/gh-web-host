@@ -1,0 +1,60 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 4 Oct 2002 23:36:50 -0000
+Received: (qmail 91680 invoked from network); 4 Oct 2002 23:36:40 -0000
+Received: from unknown (66.218.66.217)
+  by m11.grp.scd.yahoo.com with QMQP; 4 Oct 2002 23:36:40 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 4 Oct 2002 23:36:40 -0000
+Received: (qmail 18692 invoked by uid 417); 4 Oct 2002 23:36:40 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 4 Oct 2002 23:36:40 -0000
+Received: from modem70-as1.mendoza.sinectis.com.ar ([216.244.255.70])
+  by softhome.net with esmtp; Fri, 04 Oct 2002 17:36:38 -0600
+Date: Fri, 4 Oct 2002 20:15:13 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <5843.021004@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbN106IERlc2Fmae10byBkZSBm7XNpY2Eu?=
+In-reply-To: <328.020929@...>
+References: <328.020929@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+>>> El agua y
+>>> la ropa son aceleradas tangencialmente, a la circunferencia y su
+>>> dirección cambia a cada momento, eso no es centrífugo, centrífugo
+>>> sería si fueran aceleradas paralelamente al radio.
+
+GM>> No funciona...
+GM>> Si la resultante de las fuerzas actuando sobre la ropa y el agua no
+GM>> tuviera direccion radial, y sentido hacia afuera, por el agua sale
+GM>> despedida radialmente hacia afuera y no tangencialmente?
+S> Puede ser un efecto visual... debería grabarlo y verlo cuadro por
+S> cuadro, pero no tengo filmadora ni videoreproductora.
+
+Caramba... qué terco...!!
+
+Nunca  has visto a los tipos esos que preparan los algodones de azucar
+en  el  parque?  ponen  azucar  en  un  rotor  caliente y los hilos de
+caramelo  que conformarán el algodón salen despedidos radialmente!
+
+
+
+Lupus
+
+-- 
+
+"La diferencia entre Modigliani y una máquina fotográfica es que el arte no es una copia de la mera realidad externa sino un acto ontocreador, más cercano al sueño que al espejo." E.Sábato...                 
+
+
+

@@ -1,0 +1,80 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 23 Jul 2002 02:21:10 -0000
+Received: (qmail 80716 invoked from network); 23 Jul 2002 02:21:09 -0000
+Received: from unknown (66.218.66.218)
+  by m14.grp.scd.yahoo.com with QMQP; 23 Jul 2002 02:21:09 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 23 Jul 2002 02:21:09 -0000
+Received: (qmail 25081 invoked by uid 417); 23 Jul 2002 02:20:52 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 23 Jul 2002 02:20:52 -0000
+Received: from modem60-as1.mendoza.sinectis.com.ar ([216.244.255.60])
+  by softhome.net with esmtp; Mon, 22 Jul 2002 20:20:50 -0600
+Date: Wed, 17 Jul 2002 22:04:46 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <13919.020717@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmU6IE9uZGFzIGFj+nN0aWNhcyBkZSBjaG9xdWU=?=
+In-reply-To: <0557.020713@...>
+References: <0557.020713@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+S> Sres ingenieros:
+S> ¿Serían tan amables de proporcionarme un breve y didáctica explicación
+S> sobre qué son las ondas acústicas de choque?¿Por qué pueden fragmentar
+S> cuerpos sólidos? Y ya más entrado en mi materia...¿por qué las ondas
+S> acústicas de choque fragmentan ciertos cálculos renales y no lesionan
+S> las estructuras anatómicas que atraviesan hasta llegar a ellos?
+S> Muchas gracias
+
+Una onda acústica es básicamente una onda de presión que se trasmite a
+través  de un especio no vacío (puede ser un cuerpo sólido, un líquido
+o  un  gas).  Exactamente igual que una onda sonora común y corriente,
+solo  que de distinta frecuencia. (Supongo que sabés algo de acústica,
+debés  saber  más o menos cómo se trasmiten las ondas de presión en el
+aire y el efecto que causan sobre los tímpanos y que la enegría de la
+onda está relacionada con su frecuencia y con su intensidad).
+
+Sobre  el  por qué pueden romper ciertos cuerpos y atravesar otros sin
+lesionarlos,   es  sencillo, la onda debe estar entrando en resonancia
+con   la   geometría  y  estructura  mecánica del cuerpo. Nunca te has
+preguntado  por  qué  los  timpanos  reaccionan  a las ondas acústicas
+(dentro  de cierto rango de frecuencias y solo ahí) mientras que otros
+materiales  o  cuerpos  son  traspasados por ellas sin inmutarse... es
+básicamente lo mismo, resonancia.
+Supongo  que  sabés  lo que es la resonancia... es lo mismo que ocurre
+cuando  calentás  un  vaso  con agua en el microondas y resulta que el
+vaso no se calienta, pero el agua si... ahí lo que entra en resonancia
+es  directamente  la  union  O  H del agua (si mal no recuerdo), y las
+ondas  no  son  acústicas  sino electromagnéticas, pero el fenómeno es
+básicamente el mismo.
+
+No  estoy  muy  seguro  de  qué  pueda ser lo que causa la resonancia,
+pero  debe  tener  que  tiene  que  ver con la estructura granular del
+cálculo  que se rompe, no se bien como estará formado el calculo, pero
+debe   tener   que  ver con su geometria y conformación mecánica, y no
+me   refiero   necesariamente  a  la  geometría  externa  sino  a  la
+distribución  de  gránulos  rígidos,  probablemente  polímeros, unidos
+entre  sí  por  uniones  mas débiles, como enlaces de van der valls (o
+como  puta  sea  que se escriba). Lo cierto es que no debe tener mucho
+que ver con su composición química, porque la onda es mecánica.
+
+Lupus
+
+-- 
+
+  * No a la donación de órganos. (Yamaha)               
+
+
+

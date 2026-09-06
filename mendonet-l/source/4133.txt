@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:56:36 -0000
+Received: (qmail 22544 invoked from network); 5 Oct 2001 02:56:36 -0000
+Received: from unknown (10.1.10.142)
+  by l9.egroups.com with QMQP; 5 Oct 2001 02:56:36 -0000
+Received: from unknown (HELO smtp4.impsat.net.ar) (200.31.1.20)
+  by mta3 with SMTP; 5 Oct 2001 02:56:35 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by smtp4.impsat.net.ar (8.9.3/8.9.3) with ESMTP id XAA10902
+	for <mendonet-l@...>; Thu, 4 Oct 2001 23:54:27 -0400 (EDT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pKGq-0000VX-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 22:59:24 -0300
+Date: Thu, 4 Oct 2001 23:00:12 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <16958.011004@...>
+To: Lupus <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbOF06IElkZWFzIEFudGlxde1zaW1hcyAz?=
+In-reply-To: <14696.011002@...>
+References: <14696.011002@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Lupus,
+
+L> Eso va en contra de la libre circulación de información que siempre ha
+L> abogado mendonet...!! Dale... largá oxi...!! no me hagás instalar la
+L> inciclopedia de gates que mi máquina anda bastante mal ya...
+
+Enciclopedia de gates? Simpatica forma de referirte a la Microsoft
+Encarta Encyclopaedia (tm).
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

@@ -1,0 +1,56 @@
+From cabeza@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cabeza@...>
+Received: (qmail 20612 invoked from network); 4 Jun 2000 01:41:03 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 4 Jun 2000 01:41:03 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta2 with SMTP; 4 Jun 2000 01:41:02 -0000
+Received: from pentium.localdomain (rdumend2-200.41.21.8 [200.41.21.8] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA08933 for <mendonet-l@egroups.com>; Sat, 3 Jun 2000 22:39:56 +0300 (GMT)
+Received: from cabezal.cjb.net (pentium [192.168.1.200] (may be forged)) by pentium.localdomain (8.9.3/8.9.3) with ESMTP id UAA02819 for <mendonet-l@egroups.com>; Sat, 3 Jun 2000 20:57:39 -0300
+Sender: federico@...
+Message-ID: <39399B72.51D8B357@...>
+Date: Sat, 03 Jun 2000 20:57:38 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.12 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: BUYING BIKES!
+References: <11549.000608@...> <13907.000602@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Federico <cabeza@...>
+
+Groucho Marx wrote:
+> 
+> Otro tema trillado en Mendonet...
+> Pero hay gente nueva, asi que.. ahi vamos!
+> 
+> 1) Se practican millones de abortos al año el la Argentina. Incluso mi
+> vieja se hizo alguno por motivos eutanasicos (esto prueba lo
+> intrascendente que me parece el escandalo que armaron por mi comentario
+> sobre el aborto de no se quien). Ninguna ley puede ser contraria a las
+> costumbres! Por lo tanto, el aborto debe ser legal.
+> 2) Es filosoficamente poco relevante. La vida de un embrion de pocas
+> semanas no cuenta! La madre tiene derecho a hacer lo que quiera con
+> su cuerpo! Su realizacion, su productividad y su felicidad son valores
+> concretos. La vida del embrion no. No hay lugar para el dilema.
+
+bueno, la semana pasada que viaje en colectivo desde San Luis en San
+Juan Mar
+del Plata pasaron "el veredicto" es una pelicula que trata sobre el
+aborto.
+pense que iba a ser cualquiera pero, al final me parecio bastante
+atinada
+(aunque estaba entredormido) alguien la vio?
+
+
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+         100% Linux
+The choice of a GNU generation.
+

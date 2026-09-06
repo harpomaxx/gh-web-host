@@ -1,0 +1,40 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 30 Oct 2000 20:07:47 -0000
+Received: (qmail 16157 invoked from network); 30 Oct 2000 20:06:39 -0000
+Received: from unknown (10.1.10.27) by m8.onelist.org with QMQP; 30 Oct 2000 20:06:39 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta2 with SMTP; 30 Oct 2000 20:06:38 -0000
+Received: from antro.micasa ([200.41.31.105]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id RAA13846 for <mendonet-l@egroups.com>; Mon, 30 Oct 2000 17:09:20 +0300 (GMT)
+Date: Mon, 30 Oct 2000 17:01:07 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <11709.001030@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[4]: Bienvenida
+In-reply-To: <00be01c04296$ca5883a0$fa7c2ac8@tepes>
+References: <00be01c04296$ca5883a0$fa7c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 30/10/2000, Sebas curiosamente blasfemó:
+
+>> Me inclino a creerle a Harpo.
+>> Si fuese el haciendose pasar por Romina, se tomo el trabajo de no
+>> mandar el mensaje a traves de "elserver.micasa" (su servidor GNU/Linux
+>> pedoso) y los mando por otro ISP. Ademas se saco una cuenta en
+>> yahoo.es cosa que dificilmente Harpo haga.
+S> ¿Y si todo eso fuera parte de la estrategia de desconcierto?
+
+Pues lo ha hecho mejor que de costumbre!!!
+
+-- 
+Groucho Marx
+I will not get very far with this attitude -- Bart Simpson
+
+
+

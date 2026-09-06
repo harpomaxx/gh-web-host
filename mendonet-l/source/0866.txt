@@ -1,0 +1,66 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_3); 12 Sep 2002 11:23:10 -0000
+Received: (qmail 81546 invoked from network); 12 Sep 2002 11:23:10 -0000
+Received: from unknown (66.218.66.217)
+  by m1.grp.scd.yahoo.com with QMQP; 12 Sep 2002 11:23:10 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 12 Sep 2002 11:23:10 -0000
+Received: (qmail 7909 invoked by uid 417); 12 Sep 2002 11:23:08 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 12 Sep 2002 11:23:08 -0000
+Received: from a200042125106.rev.prima.com.ar ([200.42.125.106])
+  by softhome.net with esmtp; Thu, 12 Sep 2002 05:23:00 -0600
+Date: Thu, 12 Sep 2002 08:21:11 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <0348.020912@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: Re[2]: caso clinico
+In-reply-To: <010101c25997$534d3de0$060aa8c0@...>
+References: <010101c25997$534d3de0$060aa8c0@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> ¿Cuánto tiempo después de ingerirlos?
+GM> Depende el tipo de alimento.
+GM> Leche, pure de papas -> no hay vomitos.
+Carne de vaca ->> vomito despues de 3 horas.
+Carne de pollo ->> solo produce vomitos si se ingiere en gran cantidad
+La leche y el puré de papas no los vomitas por su consistencia...
+losdigiere más fácilmente.
+
+>> verdes y amargos(como hiel)
+GM> Amarillos. Y el sabor no lo se? Los medicos saborean el vomito de sus
+GM> pacientes?
+No, pero podemos preguntarle al paciente, a quien el vómito le pasó
+por la boca.
+
+Entonces: paciente añoso, de edad desconocida, no colabora con el
+interrogatorio(¿será un perro?)que desde hace aproximadamente un mes y
+medio presenta vómitos alimenticios, parcialmente digeridos,
+deposiciones de color aclarado, olor maloliente y ligeramente
+espumosas(se refiere como candy de dulce de leche). No refiere cambios
+en la orina, ni en el color de la piel. Impresiona dolor abdominal en
+remisión. GOT y GPT levemente elevadas. A la ecografía, hepatomegalia.
+Si fuera una persona, la impresión diagnóstica incluiría hepatitis y
+enfermedad ulcerígena gastroduodenal, en primera instancia y por
+prevalencia de ambas patologías. Para confirmar o descartar ambas
+hipótesis debería solicitarse detección de anticuerpos contra diversos
+virus responsables de hepatitis, y una radiografía seriada
+gastroduodenal.
+También hubiera estado bueno ver los resultados de los exámenes que ya
+tiene realizados.
+
+-- 
+Sebas   
+La televisión ha hecho maravillas por mi cultura. Cada vez que alguien la enciende, voy a la biblioteca y leo un buen libro. G M                       
+
+
+

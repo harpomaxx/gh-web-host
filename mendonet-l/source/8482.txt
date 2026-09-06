@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 6674 invoked from network); 1 Sep 2000 11:49:07 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 1 Sep 2000 11:49:07 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 1 Sep 2000 11:49:05 -0000
+Received: from ANTRO ([200.41.31.27]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id IAA06414 for <mendonet-l@egroups.com>; Fri, 1 Sep 2000 08:51:45 +0300 (GMT)
+Date: Mon, 28 Aug 2000 22:55:17 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <19955.000828@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: prueba
+In-reply-To: <010d01c01154$e6f4c5a0$3e7d2ac8@tepes>
+References: <010d01c01154$e6f4c5a0$3e7d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 28/08/2000, Sebas apurado murmuró:
+
+>>No entiendo la parte del virus... como puede ser que tengas un virus.
+>>Tal vez esto lo diga sin conocer a fondo tu problema, pero acaso no has
+>>tratado de sacarlo con un antivirus tipo F-prot??
+S> Resulta que cuando lo quise sacar me dijo que lo tenía que hace con un disco
+S> de inicio(obvio) y resulta que mis pajerísimos amigos me prometen y prometen
+S> hacerlo y d�rmelo, pero nunca concretan.
+
+No necesariamente. Arrancar con un disco de inicio es para evitar que
+el virus este cargado en memoria.
+Todo antivirus decente revisa la memoria antes de revisar los
+archivos, por lo que igual detectarias el virus.
+En algunos casos un virus no se puede limpiar de los archivos si esta
+al mismo tiempo en memoria, pero no todos los virus son tan grosos.
+Tambien puede ser que el virus en memoria engañe al antivirus para que
+no pueda ver los archivos infectados. Esto (shadowing) acompañado de
+polimorfismo y ocultacion en memoria (stealth) es el santo grial de
+los virus.
+
+Proba sin el disco de inicio y punto.
+
+-- 
+Groucho Marx
+Chiquitito como ojal de camiseta
+
+
+

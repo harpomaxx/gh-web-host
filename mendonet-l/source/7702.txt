@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 30 Oct 2000 02:45:09 -0000
+Received: (qmail 25570 invoked from network); 30 Oct 2000 02:45:09 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 30 Oct 2000 02:45:09 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta2 with SMTP; 30 Oct 2000 02:45:07 -0000
+Received: from antro.micasa ([200.41.31.15]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA17359 for <mendonet-l@egroups.com>; Sun, 29 Oct 2000 23:45:37 +0300 (GMT)
+Date: Sun, 29 Oct 2000 23:28:20 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <6978.001029@...>
+To: "harpo@..." <mendonet-l@egroups.com>
+Subject: Re[2]: Bienvenida
+In-reply-To: <20001028090023.C10727@...>
+References: <20001028090023.C10727@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 28/10/2000, harpo@... velozmente deliró:
+
+>> >Soy nuevita, entre, aca estoy. me presento.
+>> >Romina Bertorelli, espero aportar algo. y sino se
+>> >puede. . intentare.
+>> >besos
+>> 
+>> Ah�, y de movida manda puntos suspensivos sugestivos...
+>> Me huele a problemas ...
+
+hsn> SI estas pensando lo que creo que estas pensando.. te aviso que
+hsn> NO!!!!
+
+Me inclino a creerle a Harpo.
+Si fuese el haciendose pasar por Romina, se tomo el trabajo de no
+mandar el mensaje a traves de "elserver.micasa" (su servidor GNU/Linux
+pedoso) y los mando por otro ISP. Ademas se saco una cuenta en
+yahoo.es cosa que dificilmente Harpo haga.
+
+-- 
+Groucho Marx
+Más jodido que retroceder con chancletas.
+
+
+

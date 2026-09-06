@@ -1,0 +1,185 @@
+From sebas11@...  Sat Jul 11 23:23:58 2020
+Return-Path: <sebas11@...>
+Received: (qmail 23631 invoked from network); 21 Jun 2000 23:49:58 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 21 Jun 2000 23:49:58 -0000
+Received: from unknown (HELO postino4.prima.com.ar) (200.42.0.162) by mta3 with SMTP; 21 Jun 2000 23:49:57 -0000
+Received: from tepes ([200.42.124.167]) by postino4.prima.com.ar (8.9.3/8.9.1) with SMTP id UAA18251 for <mendonet-l@egroups.com>; Wed, 21 Jun 2000 20:49:51 -0300 (ART)
+Message-ID: <002a01bfdbdb$0f17c500$a77c2ac8@tepes>
+To: <mendonet-l@egroups.com>
+References: <000301bfd70b$25d9b520$2a7d2ac8@tepes> <154.000616@...>
+Subject: RE: La respuesta de Groucho a Sebas11
+Date: Wed, 21 Jun 2000 20:46:16 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: "Sebas" <sebas11@...>
+
+> Esto te va a gustar!!!!!
+>
+> Suponiendo que la formula que da la tasa de este impuesto progresivo
+> sea:
+>
+> i=a exp[-(B-200)/k)  (graficala y vas a ver que es como vos queres)
+>
+> donde:
+> k: constante arbitraria que define el ritmo de crecimiento de i
+> i: tasa de impuesto
+> B: beneficios o ganancias brutas
+
+¡Momento que soy lento!(y estudiante de medicina)
+1- ¿qué es "a"?
+2- lo que está entre corchetes...¿es el exponente de "a"? o el segundo
+miembro de la ecuación es "a" a la "exp" por (-(B-200)/k)
+
+Entiéndase, por un lado, que soy estudiante de medicina y estoy un poco
+alejado de estas ecuaciones, y por otro que no me gusta opinar sin
+comprender bien el tema sobre el que opino.
+
+Igual tengo algunas respuestas  a lo que seguía que te las enviaré cuando
+comprenda bien la ecuación.
+
+> En otras palabras: si se aplicara tu impuesto progresivo, existiria un
+> nivel de beneficios maximo, mas alla del cual el impuesto es tan
+> grande que te queda menos. No podia ser de otra forma, dada tu
+> condicion de que para ganancias infinitas, el impuesto es 100%.
+Sí, es así. Lo que de por sí, genera más empleo, contribuye a luchar contra
+los monopolios, baja los precios, aumenta la competencia con su consiguiente
+efecto en el servicio a clientes.(recuerden que yo hablo de un mercado que
+no compite con el exterior, a parte del mundo)
+
+> Lo interesante es que cuando k es muy grande (tendiendo a infinito),
+> el beneficio neto tiende al beneficio bruto, tal y como si no
+> aplicaras ningun impuesto.
+Para opinar sobre esto debería comprender bien la ecuación, así que te
+contesto después.
+
+> En otras palabras: un impuesto progresivo continuo no sirve, porque o
+> bien limita el crecimiento del pais o bien equivale a casi no poner
+> ningun impuesto.
+Esto es lo que no me cuadra, esperemos a que yo entienda y después seguimos.
+
+> Soy fucking cool o que!!!!?!
+Who knows! Veremos dijo Lemos.
+
+> S>  anulación del IVA, que grava el
+> S> consumo y es pagado por todos sin importar clase social,
+> Cierto, el IVA es regresivo. Pero no puede desaparecer.
+¿Porqué?
+
+> Igual nada impide que el tipo haga la gran fortuna en el exterior caso
+> en el cual el impuesto a percibir es 0.
+Y si hace la fortuna en el exterior, con plata del exterior(porque para
+sacarla de argentina paga impuest�zos)... ¿qué me calienta?
+
+> S> para evitar el vaciamiento, reforma agraria
+> S> consistente en la atomización de los latifundios,
+>
+> Que es el vaciamiento?
+Este vaciamiento se refiere a la fuga de capitales, el vaciamiento de los
+bancos.
+
+> Y que tiene que ver el tamaño de los latifundios con el beneficio para
+> el pueblo?
+> Una estancia o granja o finca grande es mas eficiente que una chica, y
+> por lo tanto deseable, no te parece?
+Y genera labradores pobres y estancieros ricos, estancieros capaces de
+boicotearte el país, pero por sobre todo la no propiedad de la tierra del
+que la trabaja, contradicción capitalista.
+Remitirse a El Capital, de Marx y Engels o "De las contradicciones en el
+seno del pueblo" de Mao Zedong, que explican mucho mejor que yo todo lo
+nocivo de esta situación. Yo me puedo llegar a enredar mucho si lo hago,
+pero cuando uno lo lee se convence de que es así.
+
+> S>  creación de laboratorios
+> S> estatales para la fabricación de medicamentos y así bajar en un 30% el
+costo
+> S> de la salud pública(acá el costo de los medicamentos es entre un 30 y
+un
+> S> 400% más caro que en el resto del mundo)
+> Excepto que habria que inventar o desarrollar esos medicamentos, pues
+> tal como explico Lupus, no sabemos como hacerlos.
+Cuba lo hace.
+
+> S> 2- Otras medidas económicas: reorganización y reorientación de la
+industria
+> S> tendiente al autoabastecimiento,
+> Mejor que eso: tendiente a la exportacion de calidad. Por que
+> conformarse con autosostenerse?
+Porque en la participación del los mercados internacionales está la
+perdición de ese nuevo sistema. La libre concurrencia no existe.
+
+> S>  expropiación de las licencias de
+> S> exploración y explotación minera en manos de empresas extranjeras y
+> S> concesión a cooperativas,
+> Y afrontacion de juicios millonarios contra el Estado.
+Soy el estado y decido que no me pueden hacer juicio los que han participado
+del vaciamiento de nuestro suelo.(acá vaciamiento quiere decir perjudicar al
+país llevándose las materias primas sin procesarlas, porque se viola el
+espíritu básico de la ley,  de atraer capitales concediendo explotaciones
+mineras, que era que se produjeran inversiones y se radicaran industrias de
+procesamiento de esos minerales extraídos)
+
+> S>  expropiación y transformación en cooperativas de
+> S> las empresas evasoras y ejecución patrimonial y bancaria a los
+responsables
+> S> de la evasión
+> Bueno, primero que paguen, no? LA expropiacion no puede ser. Eso es de
+> las dictaduras, o de las revoluciones totalitarias.
+O del que tiene pelotas para hacer justicia.
+
+> S> , no pago de la deuda externa(actualmente se pagan 10200
+> S> millones anuales), lo que proporciona los medios para la reorganización
+de
+> S> la industria y la reactivación de Pymes mineras, expropiación de
+> S> Repsol-YPF(principal exportador argentino) por evasión y vaciamiento de
+la
+> S> empresa
+> Pues las empresas extrangeras invierten mucho mas que 10200 millones
+> por año, cosa que probablemente dejarian de hacer si dejamos de pagar
+> la deuda. No conviene.
+Invierten una cantidad y se llevan del país una mucha mayor con las
+ganancias, además de negrear a los argentinos que laburan para ellos y de
+cagar a los demás(Telefónica, por ejemplo gana en Argentina 6 veces más de
+lo que gana en cualquier otro país)
+
+> S> 3- Corrupción: Juicios sumarios a los sospechosos, ejecución contra la
+> S> propiedad y las cuentas bancarias de los culpables por el valor de la
+> S> defraudación más una multa, cadena perpetua para cualquier delito
+> S> relacionado a corrupción con "trabajos forzados" destinados a la
+autogestión
+> S> del sistema carcelario.
+> La autogestion del sistema carcelario con trabajo de los presos suena
+> bien. Aunque la idea detras de las carceles es la reeducacion, no?
+> Habria que ver...
+Reeducación del ladrón de gallinas que no está educado, no del político
+corrupto que es universitario y cuyo delito es una especie de traición a la
+patria.
+
+> S> Hay muchas más que podría enumerar y que seguramente se me están
+escapando.
+> S> Como muchas de las medidas que menciono arriba van contra los intereses
+de
+> S> empresas extranjeras seguramente esperarás ansioso la respuesta a como
+evito
+> S> el bloqueo comercial. No me interesa evitarlo, no soy Cuba que no tiene
+> S> petróleo ni minería, soy Argentina y eso acá sobra.
+> Y la tecnologia?
+> Nos sobran recusros naturales, pero no tenemos nada de tecnolgia
+> propia. Apuesto a que no habias pensado en eso!
+La robamos, la negociamos... si Rusia robó los "planos" de la bomba atómica,
+porque no podríamos robar nosotros un planito poronga de una máquina... ¿o
+la máquina misma!, agarramos la fábrica con cadenas de siete u ocho
+helicópteros y salimos cagando antes de que nos vean.
+
+
+
+
+ Sebas - Lo prodigioso no es que Van Gogh se haya cortado una oreja, sino
+que conservara la otra.
+
+
+

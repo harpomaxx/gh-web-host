@@ -1,0 +1,72 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 27692 invoked from network); 8 Aug 2000 23:22:33 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 8 Aug 2000 23:22:33 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 8 Aug 2000 23:22:31 -0000
+Received: from 200.41.31.73 ([200.41.31.73]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA12736 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 20:25:09 +0300 (GMT)
+Date: Tue, 8 Aug 2000 19:40:18 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <9819.000808@...>
+To: Carlos Cardozo <mendonet-l@egroups.com>
+Subject: Re[2]: MARIANA! Para todos los...
+In-reply-To: <3989EA3F.ACE06FF4@...>
+References: <3989EA3F.ACE06FF4@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 03/08/2000, Carlos dudando gritó:
+
+>> A proposito, una de las cosas en las que estoy trabajando, es en la
+>> creacion
+>> de redes privadas virtuales encima de Internet, usando el protocolo
+>> PPTP
+>> (point to point TUNNELING protocol).
+>> No se lo que estan haciendo donde vos trabajas, pero que te pareceria
+>> si
+>> en lugar de perder tiempo mandando los archivos por e-mail, sea
+>> posible
+>> que las distintas maquinas "vean" en el entorno de red las otras
+>> maquinas
+>> que estan en los otros lugares que actualmente te mandan archivos por
+>> e-mail.
+
+CC> [zzz zzz zzz]
+ 
+>> el otro lado fuese simplemente una letra de unidad adicional en tu
+>> maquina,
+>> y que todo ocurra en tiempo real y con encriptacion?
+>> 
+>> Decime si seria copado, porque me embola desarrollar algo que despues
+>> nadie use.
+
+CC> Mejor desarrollá algo que no hayan desarrollado antes otros...
+CC> Hace dos años que se usa el Tunnelling en los grupos de warez para
+CC> traslado rápido entre los servidores T1 y T3 de los distros...
+CC> Por eso es que pueden armar sitios de dump temporales de gigas de tamaño
+CC> en apenas un par de horas....
+CC> De hecho se puede setear el ancho de banda aplicado a cada thread y el
+CC> nivel de compresión por software independientemente...
+CC> Todo bajo linux, como te gusta...
+
+Ahh si? Con balance de carga dinamico entre los distintos componentes
+del cluster? Y con verificacion de integridad de extremo a extremo
+del downstream y monitoreo en tiempo real desde el head-end?
+
+No lo creo, amiguito!!!
+
+
+CC> Goofer dedica esta sanata al Sebaz
+Y al Comilon no?
+
+
+-- 
+Groucho Marx
+Si no cambiamos de dirección, es muy probable que llegemos a donde estamos
+yendo...
+
+
+

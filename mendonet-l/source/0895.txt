@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 27 Jul 2002 17:21:46 -0000
+Received: (qmail 63402 invoked from network); 27 Jul 2002 17:21:46 -0000
+Received: from unknown (66.218.66.218)
+  by m14.grp.scd.yahoo.com with QMQP; 27 Jul 2002 17:21:46 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta3.grp.scd.yahoo.com with SMTP; 27 Jul 2002 17:21:45 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp5 (8.9.3/8.9.3) with SMTP id OAA11054
+	for <mendonet-l@...>; Sat, 27 Jul 2002 14:09:12 +0300 (GMT)
+Message-ID: <00e801c23593$5f5d2640$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20020725151949.GP2267@...> <18920.020726@...>
+Subject: Re: Re[2]: Darling
+Date: Sat, 27 Jul 2002 14:30:58 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> Lo que sigue�te sirve?
+> Supongo que eso de out008.verizon.net tiene algo que ver con lo que
+> vos decías.
+
+Es eso justamente de lo que hablaba.
+
+Esta es la cabecera que interesa:
+> Received: from Asakxci ([209.13.229.25]) by out008.verizon.net
+> (InterMail vM.5.01.05.09 201-253-122-126-109-20020611) with
+> SMTP id <20020726035609.WMSD8715.out008.verizon.net@Asakxci>
+> for <xebax@...>; Thu, 25 Jul 2002 22:56:09 -0500
+
+Dice que el mensaje salio de una maquina cuya direccion IP es 209.13.229.25
+que es una direccion perteneciente a Infovia...
+Tendrias que averiguar quien se conecta por infovia y manda los mails
+a traves de verizon.net entre tus conocidos, y enviarle un LART para
+que aprenda.
+
+--
+Herr Grouchox
+
+
+

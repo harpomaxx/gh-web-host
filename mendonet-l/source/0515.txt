@@ -1,0 +1,48 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 3 Feb 2003 17:44:29 -0000
+Received: (qmail 1767 invoked from network); 3 Feb 2003 17:44:28 -0000
+Received: from unknown (66.218.66.216)
+  by m6.grp.scd.yahoo.com with QMQP; 3 Feb 2003 17:44:28 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 3 Feb 2003 17:44:23 -0000
+Received: (qmail 20498 invoked by uid 417); 3 Feb 2003 17:44:09 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 3 Feb 2003 17:44:09 -0000
+Received: from dup-200-42-124-25.prima.net.ar ([200.42.124.25])
+  by softhome.net with esmtp; Mon, 03 Feb 2003 10:44:06 -0700
+Date: Mon, 3 Feb 2003 14:26:03 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <14601.030203@...>
+To: Mr Ska <mendonet-l@...>
+Subject: Re[15]: (unknown)
+In-reply-To: <18047722351.20030202023236@...>
+References: <18047722351.20030202023236@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+S>> No contestaste mi argumento de la prevención, que es determinante a la
+S>> hora del impuesto a los cigarrillos.
+
+MS> Es verdad, pero creo que eso lo deberia financiar las compañias
+MS> tabacaleras y no los fumadores. Es mucho mas sencillo que el estado
+MS> les cobre un impuesto a las tabacaleras a que vaya preguntando quien
+MS> fuma y quien no.
+
+Creo que siempre fue muy obvio que me refería a eso... un impuesto a
+las tabacaleras que obviamente se trasladará al precio.
+
+
+-- 
+Sebas   
+Estos son mis principios. Si no le gustan, tengo otros. GM                       
+
+
+

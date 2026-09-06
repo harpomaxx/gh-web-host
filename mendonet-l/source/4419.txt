@@ -1,0 +1,88 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 29 Sep 2001 16:39:07 -0000
+Received: (qmail 21220 invoked from network); 29 Sep 2001 16:39:06 -0000
+Received: from unknown (10.1.10.26)
+  by l8.egroups.com with QMQP; 29 Sep 2001 16:39:06 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta1 with SMTP; 29 Sep 2001 16:39:06 -0000
+Received: from gateway.micasa.org.ar (200-41-31-56-rdunysd1.impsat.net.ar [200.41.31.56])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA14425
+	for <mendonet-l@...>; Sat, 29 Sep 2001 13:40:24 -0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15nN5Z-0000jq-00
+	for <mendonet-l@...>; Sat, 29 Sep 2001 13:35:41 -0300
+Date: Sat, 29 Sep 2001 13:36:06 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <3566.010929@...>
+To: Sebas <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbOV06IE3hcyByZWFsIHF1ZSBsYSB2aWRhIG1pc21hLi4uIChMdXB1?= =?ISO-8859-1?B?cyBpbmRpZ25hZG8geSB2ZXJ2b3Jy4WdpY28uLi4p?=
+In-reply-To: <9495.010929@...>
+References: <9495.010929@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Sebas,
+
+Saturday, September 29, 2001, 11:54:00 AM, you wrote:
+
+MF>>>> es como imaginarte un espectacular cuadro en tu cerebro y al
+MF>>>> momento de traspasrlo a un lienzo no sale como querias.
+S>>> Eso es inhabilidad manual, no falta de lenguaje.
+GM>> Y que es la tecnica entonces para vos?
+S> Un procedimiento o algo así, que no está necesariamente ligado a la
+S> habilidad... por ejemplo, yo puedo ser inhabil y entrenar la técnica
+S> establecida en básquet para ejecutar un lanzamiento con precisión, o
+S> puedo simplemente hacer uso de mi habilidad natural y ver cuán bien me
+S> sale lanzar sin estudiar la técnica.
+
+MF>>>> estoy a favor de la libre eleccion
+S>>> ¿Quién te dijo que elegís libremente? Yo quiero ver un programa que se
+S>>> trate de la evolución social de los aborígenes americanos desde que
+S>>> cruzaron el estrecho de Bering hast que llegaron a Tierra del Fuego, y
+S>>> quiero verlo ahora...
+GM>> Que infantil. Eso no es libertad de eleccion, eso es poder ilimitado.
+S> Definí libertad de elección.
+S> Ah... justo lo hacías abajo.
+
+GM>> La libertad de eleccion es poder seleccionar entre las alternativas
+GM>> ofrecidas, no las alternativas a ofrecer.
+S> Nop, eso es libertad de elección entre las alternativas ofrecidas, no
+S> "libertad de elección". Si estás obligado a comer y sólo te ofrezco
+S> polenta, tenés libertad de elegir entre las alternativas ofrecidas, o
+S> dicho de otra manera, no tenés libertad de elección, porque no hay
+S> elecciones posibles.
+
+Podes elegir comer polenta o no comer nada, pero ponele que no haya
+ninguna comida. Ahi no tendrias libertad de eleccion, puesto que no
+hay opciones entre las cuales elegir.
+
+No acepto que una decision no sea libre solo porque haya alternativas
+fuera de tu alcance. No puedo elegir respirar cloro. No soy libre?
+No puedo ir a la luna, no soy libre?
+No puedo hacer que me pagen el doble en el trabajo, no soy libre?
+
+Hay opciones imposibles, fuera de alcance. Mientras el motivo por el
+cual esas opciones hayan sido sacadas de tu alcance sea justo, tu
+libertad no ha sido limitada.
+
+
+GM>> Siempre podes elegir matar a los que te molesten.
+S> Que infantil. Eso no es libertad de eleccion, eso es poder ilimitado.
+
+Por si no lo notaste, estaba siendo ironico.
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

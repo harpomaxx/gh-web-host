@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 30 Oct 2000 02:45:17 -0000
+Received: (qmail 4029 invoked from network); 30 Oct 2000 02:45:16 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 30 Oct 2000 02:45:16 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 30 Oct 2000 02:45:11 -0000
+Received: from antro.micasa ([200.41.31.15]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA17365 for <mendonet-l@egroups.com>; Sun, 29 Oct 2000 23:45:40 +0300 (GMT)
+Date: Sun, 29 Oct 2000 23:33:58 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <16981.001029@...>
+To: "harpo@..." <mendonet-l@egroups.com>
+Subject: Re[2]: Boring
+In-reply-To: <20001028085447.A10727@...>
+References: <20001028085447.A10727@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 28/10/2000, harpo@... angustiosamente dijo:
+
+>> hsn> Por mi parte prefiero quedarme con el recuerdo del apogeo de
+>> hsn> mendonet-mailing-list....
+>> 
+>> En mi caso le he dedicado demasiada energia a otras listas de
+>> perfil mas tecnico (lug-list y lug-org) o mas �o�as (cbaymza) y he
+>> descuidado a Mendonet. Pero ya estoy de vuelta!!!
+
+hsn> Fantastico... mendonet se salvo.... GRACIAS GROUCHO...
+hsn> Ahora si que vamos para adelante....!!! Youpie Youpie!!
+
+Jo-jo-jo. Gordo dormilon y amanerado... Al menos coloco mi granito de
+arena!
+
+-- 
+Groucho Marx
+I will not dissect things unless instructed -- Bart Simpson
+
+
+

@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 20 Sep 2001 01:11:49 -0000
+Received: (qmail 5550 invoked from network); 20 Sep 2001 01:11:49 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.1.220 with QMQP; 20 Sep 2001 01:11:49 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.113)
+  by mta3 with SMTP; 20 Sep 2001 01:12:03 -0000
+Received: (qmail 13841 invoked by uid 1005); 19 Sep 2001 18:02:41 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.250102 secs); 19/09/2001 15:02:40
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 19 Sep 2001 18:02:39 -0000
+Date: Wed, 19 Sep 2001 15:02:40 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <01091215270804.00455@cubil> <01091622115400.00456@cubil> <200109181743.f8IHhOh01762@...>
+In-Reply-To: <200109181743.f8IHhOh01762@...>
+Subject: Re: Re[5]: =?iso-8859-1?q?Tecnica=20vs=20sentimiento?=
+MIME-Version: 1.0
+Message-Id: <01091915024001.00457@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 18 Sep 2001 14:43, escribiste:
+
+> > Lo mio es estrictamente cierto!!
+> > Yo dije "si debes hacer xxxx entonces xxxx es lo que tenes que
+> > hacer".
+> >
+> > xxxx=cortar por el cuello.
+> >
+> > Formalmente: x implica x que es una tautologia, asi que el set lo
+> > gane con limpieza.
+>
+> uhmmm tautologia... demasiada matematica discreta..
+
+No, el termino lo descubri en 1992 cuando me dieron Logica en la 
+secundaria.
+
+-- 
+Groucho Marx
+

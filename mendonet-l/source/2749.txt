@@ -1,0 +1,61 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 21 Nov 2001 19:56:50 -0000
+Received: (qmail 76898 invoked from network); 21 Nov 2001 19:56:50 -0000
+Received: from unknown (216.115.97.167)
+  by m9.grp.snv.yahoo.com with QMQP; 21 Nov 2001 19:56:50 -0000
+Received: from unknown (HELO kastor) (200.63.147.29)
+  by mta1.grp.snv.yahoo.com with SMTP; 21 Nov 2001 19:56:50 -0000
+Received: from there (localhost.localdomain [127.0.0.1])
+	by kastor (Postfix) with SMTP id E6DF339F22
+	for <mendonet-l@...>; Wed, 21 Nov 2001 16:54:09 -0300 (ART)
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Organization: @ndromeda group
+Message-Id: <200111211653.46315@X-KASTOR >
+To: mendonet-l@...
+Subject: Re: preguntoso
+Date: Wed, 21 Nov 2001 16:54:09 -0300
+X-Mailer: KMail [version 1.3.1]
+References: <20011110103647.J27884@...> <7677.011120@...>
+In-Reply-To: <7677.011120@...>
+X-KASTOR-2: NO AL PAGO DE LA DEUDA EXTERNA!!!
+X-KASTOR-1: don't look my headers ass hole!!!
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+From: kastor troy <root@...>
+
+El Martes 20 Noviembre 2001 16:15, Lupus escribio:
+> Cheses... estoy muy =
+preguntoso ultimamente...
+>
+> Cual es la mecha con java??
+>
+>
+>
+>
+>
+> T=
+u uso de Yahoo! Grupos esta sujeto a las
+> http://ar.docs.yahoo.com/info/=
+utos.html
+
+es un lenguaje de programacion orientado a objetos..
+
+-- 
+  kast=
+or troy
+ ___________________________________________
+  root@...
+=
+  kastor@...
+  Linux User #179479
+  ICQ #29242971 - Jabber =
+ID kastor@...
+  powered by mdk vitamin gnu/linux
+  powered by fobos s=
+erver
+ _____________________________________________
+

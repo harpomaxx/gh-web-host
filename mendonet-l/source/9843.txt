@@ -1,0 +1,63 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 23603 invoked from network); 30 Jun 2000 01:24:58 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 30 Jun 2000 01:24:58 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 30 Jun 2000 01:24:56 -0000
+Received: from 200.41.31.118 ([200.41.31.118]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA20692 for <mendonet-l@egroups.com>; Thu, 29 Jun 2000 22:27:44 +0300 (GMT)
+Date: Wed, 28 Jun 2000 00:09:26 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <76.000628@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: Re[3]: Negropontistas
+In-reply-To: <2960.000624@...>
+References: <2960.000624@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 25/06/2000, Lupus angustiado dijo:
+
+S>>> Che, estoy leyendo un libro en el cual le dan con un caño a Nicholas
+S>>> Negroponte. Me imagino que en este ámbito debe haber más de un lector
+S>>> del "ser digital". ¿Podrían hacerme un pequeño resumen
+S>>> sobre qué trata? Especialmente la "lógica circular".
+
+GM>> Que podria decirse de malo de Negroponte?
+GM>> Ser digital es un libro que te podria prestar Conan si queres leerlo.
+GM>> Basicamente, el tipo plantea que toda nuestra sociedad se basa en el
+GM>> transporte de atomos, pero que eso va a cabiar radicalemente para
+GM>> pasar a ser una sociedad basada en el transporte de bits.
+
+GM>> A ver:
+GM>> El correo de papel es un transporte de atomos (atomos de tinta? ja!)
+GM>> pero el correo electronico es un transporte de bits.
+GM>> El asunto es que nosotros estamos hechos de atomos por lo tanto, gran
+GM>> parte de nuestras necesidades deben ser satisfechas con atomos (comida
+GM>> por ejemplo).
+
+LeL> No  he  leído  el  libro,  pero  por  lo  que  decís...  parece  que a
+LeL> negroporelorti se le fue la mano con la extrapolación... el transporte
+LeL> de  información  no  satisface  las  necesidades  más  básicas del ser
+LeL> humano,
+
+Las mas basicas no, pero si las necesidades sociales.
+Piramide de Maslow...
+
+LeL> veo  muy  bien  cómo el transporte de información por un medio digital
+LeL> podría  pasar de ser un medio para lograr otra cosa a ser un fin en sí
+LeL> mismo y convertirse en el principal móvil de la humanidad...
+
+Pues mas o menos eso es lo que el predice que va a ocurrir... solo que
+el lo presenta como algo positivo.
+Tendria que releer algunas partes del libro... Por ejemplo, lo de la
+logica circular no me acuerdo que era.
+
+-- 
+Groucho Marx
+Maneje defensivamente, compre un tanque.
+
+
+

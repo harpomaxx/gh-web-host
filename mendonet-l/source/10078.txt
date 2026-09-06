@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 28704 invoked from network); 5 Jul 2000 20:16:19 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 5 Jul 2000 20:16:19 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 5 Jul 2000 20:16:17 -0000
+Received: from ANTRO ([200.41.31.80]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id RAA24631 for <mendonet-l@egroups.com>; Wed, 5 Jul 2000 17:18:51 +0300 (GMT)
+Date: Mon, 3 Jul 2000 15:14:18 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <6634.000703@...>
+To: harpo <mendonet-l@egroups.com>
+Subject: Re[2]: texto en los mails y, si se puede, contenido...
+In-reply-To: <Pine.LNX.4.04.10006301125070.6528-100000@...>
+References: <Pine.LNX.4.04.10006301125070.6528-100000@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 01/07/2000, harpo velozmente murmuró:
+
+>>Casualmente SI puedo leer docs, pero sólo los hechos con
+>>cierta versión de word. Simpático: word tiene formato
+>>incompatible entre distintas versiones.
+
+>>LeL>¿podés leer txt o también tenés que reiniciar tu máquina...?
+>>Es sólo una convención. Y para más datos una convención a
+
+h> Ni te gastes en explicarle a lupus, recorda que es un industrial!!!
+h> No gastes polvora en chimango.. ok?
+
+Podria comentar que el proyecto Guttenberg (convertir todos los libros
+publicados con copyright expirado a formato electronico) utiliza texto
+ASCII.
+Al principio de cada archivo menciona:
+Bienvenido al mundo de los textos ASCII: texto legible por computadoras
+y humanos desde 1971.
+
+
+-- 
+Groucho Marx
+Te veré en el infierno, plato. -- Homero J. Simpson
+
+
+

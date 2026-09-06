@@ -1,0 +1,193 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 7858 invoked from network); 25 Jun 2000 22:26:20 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 25 Jun 2000 22:26:20 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 25 Jun 2000 22:26:19 -0000
+Received: from ANTRO ([200.41.31.124]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id TAA05586 for <mendonet-l@egroups.com>; Sun, 25 Jun 2000 19:26:57 +0300 (GMT)
+Date: Sun, 25 Jun 2000 02:40:49 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <12111.000625@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: La respuesta de Groucho a Sebas11
+In-reply-To: <002a01bfdbdb$0f17c500$a77c2ac8@tepes>
+References: <002a01bfdbdb$0f17c500$a77c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------C11AD1F118A6FA5D"
+From: Groucho Marx <groucho@...>
+
+
+------------C11AD1F118A6FA5D
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+El 21/06/2000, Sebas furiosamente puteó:
+
+>> Esto te va a gustar!!!!!
+>> Suponiendo que la formula que da la tasa de este impuesto progresivo
+>> sea:
+>>
+>> i=a exp[-(B-200)/k)  (graficala y vas a ver que es como vos queres)
+>>
+>> donde:
+>> k: constante arbitraria que define el ritmo de crecimiento de i
+>> i: tasa de impuesto
+>> B: beneficios o ganancias brutas
+
+S> ¡Momento que soy lento!(y estudiante de medicina)
+S> 1- ¿qué es "a"?
+
+a es una contante cualquiera.
+La funcion exp(x) o antilogaritmo se define como habitualmente se
+hace como "e elevado a la" usada aca debido a la dificultad de
+representar un superindice en formato legible por todo el mundo.
+i es el producto de (a por e elevado a la (menos (B menos 200) sobre k))
+donde los parentesis te van a ayudar a resolver las ambigüedades del
+lenguaje natural.
+
+S> 2- lo que está entre corchetes...¿es el exponente de "a"? o el segundo
+S> miembro de la ecuación es "a" a la "exp" por (-(B-200)/k)
+
+Te mando un dibujito de la formula en el archivo adjunto.
+
+
+S> Entiéndase, por un lado, que soy estudiante de medicina y estoy un poco
+S> alejado de estas ecuaciones, y por otro que no me gusta opinar sin
+S> comprender bien el tema sobre el que opino.
+
+Me parece perfecto.
+
+S> Igual tengo algunas respuestas  a lo que seguía que te las enviaré cuando
+S> comprenda bien la ecuación.
+
+Mejor aun, pero te adelando que formalmente mi calculo esta perfecto.
+Eso no es cuestion de opinion, obviamente.
+Podras discutir si la funcion que elegi es o no la que vos proponias
+aplicar, pero no hay muchas opciones en funciones continuas dadas
+las condciones a cumplir.
+
+Investiga que pasa si el impuesto es escalonado en vez de continuo...
+
+>> En otras palabras: si se aplicara tu impuesto progresivo, existiria un
+>> nivel de beneficios maximo, mas alla del cual el impuesto es tan
+>> grande que te queda menos. No podia ser de otra forma, dada tu
+>> condicion de que para ganancias infinitas, el impuesto es 100%.
+
+S> Sí, es así. Lo que de por sí, genera más empleo,
+
+Si k es muy grande, inalcanzable para algunos sectores
+de la economia, los inversionistas podrian decidir no invertir en esos
+sectores que no logran B=k, con la consiguiente desinversion de esos
+sectores, recesion, etc.
+
+
+S>  contribuye a luchar contra los monopolios
+
+Tal vez si, si damos por cierto que los monopolios tenderan a abusar
+de su poder monopolico y tenderan a tener ganancias que superen el
+valor de beneficios maximo rendimiento B=k.
+El monopolio podria ver como objetivo perder mercado para lograr B=k.
+
+S> , baja los precios,
+
+O los sube... Las empresas ajustaran sus precios y produccion para
+lograr B=k. Los articulos baratos y de precio muy competitivo
+subirian, los otros bajarian.
+
+S>  aumenta la competencia con su consiguiente
+S> efecto en el servicio a clientes.
+S> (recuerden que yo hablo de un mercado que
+S> no compite con el exterior, a parte del mundo)
+
+Es lo mismo. Ese impuesto tan raro espantaria a cualquiera que venga
+de afuera. El mercado se cerraria sin ningun tipo de barrera
+arancelaria.
+
+
+>> Lo interesante es que cuando k es muy grande (tendiendo a infinito),
+>> el beneficio neto tiende al beneficio bruto, tal y como si no
+>> aplicaras ningun impuesto.
+S> Para opinar sobre esto debería comprender bien la ecuación, así que te
+S> contesto después.
+
+Ok... Algo de matematica les enseñan en la universidad no?
+Igual para entender eso, con la matematica barata del secundario
+alcanza.
+
+>> En otras palabras: un impuesto progresivo continuo no sirve, porque o
+>> bien limita el crecimiento del pais o bien equivale a casi no poner
+>> ningun impuesto.
+S> Esto es lo que no me cuadra, esperemos a que yo entienda y después seguimos.
+
+Muy bien. Que los que entendieron repitan mi calculo para que vean que
+esta bien.
+
+
+>> Soy fucking cool o que!!!!?!
+S> Who knows! Veremos dijo Lemos.
+Puta!! Te digo que soy fucking cool! Que no ves?
+
+
+>> S>  anulación del IVA, que grava el
+>> S> consumo y es pagado por todos sin importar clase social,
+>> Cierto, el IVA es regresivo. Pero no puede desaparecer.
+S> ¿Porqué?
+
+Porque representa el principal impuesto del estado. Como lo
+reemplazarias?
+
+
+>> Igual nada impide que el tipo haga la gran fortuna en el exterior caso
+>> en el cual el impuesto a percibir es 0.
+S> Y si hace la fortuna en el exterior, con plata del exterior(porque para
+S> sacarla de argentina paga impuest�zos)... ¿qué me calienta?
+
+Ahh.. Impuesto a la fuga de capitales. Puede ser...
+Tuviste en cuenta que ese mismo impuesto que impide o dificuta la
+salida de capitales tambien funciona dificultando la entrada?
+Que tipo invertiria en la Argentina si sabe que si le va mal o mas o
+menos, encima tiene que pagar guita por irse?
+
+>> S> para evitar el vaciamiento, reforma agraria
+>> S> consistente en la atomización de los latifundios,
+>>
+>> Que es el vaciamiento?
+S> Este vaciamiento se refiere a la fuga de capitales, el vaciamiento de los
+S> bancos.
+
+Sigo sin entender por que una reforma agraria tiene algo que ver con
+los bancos. No he pensado en el tema, asi que si podes explicarlo con
+mayores detalles...
+
+>> Y que tiene que ver el tamaño de los latifundios con el beneficio para
+>> el pueblo?
+>> Una estancia o granja o finca grande es mas eficiente que una chica, y
+>> por lo tanto deseable, no te parece?
+S> Y genera labradores pobres y estancieros ricos, estancieros capaces de
+S> boicotearte el país, pero por sobre todo la no propiedad de la tierra del
+S> que la trabaja, contradicción capitalista.
+
+Pero hace que los alimentos sean mas baratos, lo cual es bueno.
+Que tal si los propietarios de pequeños establecimientos se asocian en
+coperativas para lograr los beneficios de la economia de escalas?
+Seria mejor, no?
+
+La contradiccion capitalista que decis es de lo mas comun. Los obreros
+de una fabrica no suelen ser los dueños del capital de la fabrica, a
+menos que tengan acciones de la empresa.
+Ahi esta!! Que los obreros rurales tengan acciones de las fincas o
+algo asi!
+
+-- 
+Groucho Marx
+Si fuera por mí, lo dejaría ir, pero los niños tienen mal carácter
+y han estado bebiendo. -- El jardinero Willie
+
+------------C11AD1F118A6FA5D
+Content-Type: image/pjpeg; name="formula.jpg"
+Content-Disposition: attachment; filename="formula.jpg"
+
+[ Attachment content not displayed ]
+------------C11AD1F118A6FA5D--
+

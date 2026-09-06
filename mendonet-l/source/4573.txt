@@ -1,0 +1,75 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 29 Sep 2001 03:42:08 -0000
+Received: (qmail 43013 invoked from network); 29 Sep 2001 03:42:08 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.222 with QMQP; 29 Sep 2001 03:42:08 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta1 with SMTP; 29 Sep 2001 03:42:07 -0000
+Received: from gateway.micasa.org.ar (200-41-31-81-rdunysd1.impsat.net.ar [200.41.31.81])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with ESMTP id AAA11487
+	for <mendonet-l@...>; Sat, 29 Sep 2001 00:42:21 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15n2X3-0000Fs-00
+	for <mendonet-l@...>; Fri, 28 Sep 2001 15:38:41 -0300
+Date: Fri, 28 Sep 2001 15:39:03 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <2652.010928@...>
+To: Morganti Federico <mendonet-l@...>
+Subject: Re[2]: Nadie ha ganado
+In-reply-To: <OE53S42NXHwGrRDyjLQ00001366@...>
+References: <OE53S42NXHwGrRDyjLQ00001366@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Morganti,
+
+Thursday, September 27, 2001, 3:25:19 PM, you wrote:
+
+
+MF> ----- Mensaje original -----
+MF> De: "Harpo Maxx" <harpo@...>
+MF> Para: <mendonet-l@...>
+MF> Enviado: Lunes, 17 de Septiembre de 2001 03:24 p.m.
+MF> Asunto: Re: Nadie ha ganado
+
+
+>> El Sat, Sep 15, 2001 at 03:16:57PM -0300, Morganti Federico dijo:
+>> > > solés nombrar, acaba de asesinar a mas de 10000 personas
+>> > > inocentes...
+>> > >
+>> >
+>> > inocentes........... inocentes son todos los niños que se mueren en este
+>> > pais
+>>
+>> Pero me chupa un huevo que se mueran todos los ninios del orto...
+>> A quien puta queres enganiar con esa falsa preocupacion por lo ninios
+>> culeado..
+>> Si seguroq ue cuando te recibas te vas a ir buscar laburo a la clinica
+MF> privada
+>> de turno..
+>> Dejemonos de pelotudeces ok?? no la jugemos de santos.. que como dije
+MF> antes
+>> aca somos todos unos culeados del orto.. comodones y burgueses de
+MF> mierda...
+>> El dia que lo aceptemos, seguro seremos mejores personas...
+
+
+MF> burgues, lo acepto, pero para ser mejor persona ¿hay que ser
+MF> culiado del orto?
+
+Por que? En vez de culiado *del* orto preferis culiado *por* el orto.
+
+
+-- 
+ Groucho
+
+
+

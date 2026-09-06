@@ -1,0 +1,64 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 11 Oct 2001 22:06:21 -0000
+Received: (qmail 62357 invoked from network); 11 Oct 2001 22:06:20 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.223 with QMQP; 11 Oct 2001 22:06:20 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta2 with SMTP; 11 Oct 2001 22:08:43 -0000
+Received: from gateway.micasa.org.ar (200-41-31-52-rdunysd1.impsat.net.ar [200.41.31.52])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id TAA01211
+	for <mendonet-l@...>; Thu, 11 Oct 2001 19:09:57 -0300 (GMT)
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15rkZz-00049U-00
+	for <mendonet-l@...>; Thu, 11 Oct 2001 15:29:11 -0300
+Date: Thu, 11 Oct 2001 15:29:11 -0300
+To: mendonet-l@...
+Subject: Re: ni groucho coincide con vos oxi
+Message-ID: <20011011152911.E15894@...>
+References: <20011010203255.D12927@...> <8579.011011@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <8579.011011@...>
+User-Agent: Mutt/1.3.22i
+From: Groucho Marx <groucho@...>
+
+On Thu, Oct 11, 2001 at 01:53:58PM -0300, Sebas wrote:
+
+> GM> Y como llamamos a los que hacen musica, como Rodralez, Oxiuro o Los No-Talent?
+> GM> Musicos mediocre? No, porque su musica puede ser de muy buena calidad, y aunque
+> GM> sean mediocres en otras actividades de los musicos la musica puede ser buena.
+> GM> Musicos de medio tiempo, aficionados, hobbistas o amateur? Creo que si.
+> En vez de decir "él es músico" decís "él toca la guitarra".
+> 
+> GM> Musico a secas: por que no?
+> Porque se atribuye una actividad que no realiza, de manera artificiosa
+> con el único fin de sentirse diferente y encontrar una concha donde
+> baile su elementito. Básicamente, porque falsea la realidad(no es
+> m�scio profesional, lo que vos has reconocido que quiere decir m�scio
+> a secas).
+
+Claro pero suprimiste mi comentario donde decia que podiamos llamarlos
+musicos en sentido impropio si no quedaban dudas al respecto.
+
+Resulta que "musico" tiene varios significados segun mi diccionario:
+1. relativo a la musica
+2. que profesa o sabe el arte de la musica
+3. que toca algun instrumento
+
+Asi que toda esta aventura sobre si el Oxiuro es o no es musico en la que
+nos metiste llega a su fin.
+Oxiuro es un musico segun significado 3.
+Cuando yo digo musico, me refiero a musico profesional, significado 2.
+Cuando el contexto asi lo indique, musico a secas muta al significado 3.
+
+
+Segun el significado 3, uno es lo que hace. Hago musica, soy musico.
+En la medicina o en la ingenieria no suele ser asi. Shit happens.
+
+Groucho
+

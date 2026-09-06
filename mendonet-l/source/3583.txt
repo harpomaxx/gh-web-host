@@ -1,0 +1,187 @@
+From HADARO@...  Sat Jul 11 23:23:58 2020
+Return-Path: <HADARO@...>
+X-Sender: HADARO@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 20 Oct 2001 02:27:48 -0000
+Received: (qmail 453 invoked from network); 20 Oct 2001 02:27:48 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.224 with QMQP; 20 Oct 2001 02:27:48 -0000
+Received: from unknown (HELO relay02.pecom.com.ar) (200.3.110.25)
+  by mta1 with SMTP; 20 Oct 2001 02:27:47 -0000
+Received: from maipu57.pecom.com.ar (200.3.110.23 [200.3.110.23]) by relay02.pecom.com.ar with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id VHH5R8LZ; Fri, 19 Oct 2001 23:17:50 -0300
+Received: by MAIPU57 with Internet Mail Service (5.5.2653.19)
+	id <496MWXYZ>; Fri, 19 Oct 2001 23:27:43 -0300
+Message-ID: <D18920FC9EC7D411ACC00008C75635FA383EBA@PCUYO_MZA00>
+To: mendonet-l@...
+Cc: goofer@...
+Subject: =?iso-8859-1?Q?RV=3A_Alerta_de_Seguridad_sobre_nuevo_virus_inf?=
+	=?iso-8859-1?Q?ormatico?=
+Date: Fri, 19 Oct 2001 23:28:18 -0300
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C1590E.E135D3E0"
+From: Adaro Humberto <HADARO@...>
+
+
+------_=_NextPart_000_01C1590E.E135D3E0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C1590E.E135D3E0"
+
+
+------_=_NextPart_001_01C1590E.E135D3E0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+> Asunto: 	 Alerta de Seguridad sobre nuevo virus informatico
+> 
+> Señ=
+ores Usuarios 
+> 
+> 		Por favor lea el archivo adjunto, el mismo trae infor=
+macion
+> sobre un nuevo virus informatico.
+> 
+> 		Si usted recibe un ma=
+il donde el asunto sea  "Antrax info" o
+> "informacion sobre el virus A=
+ntrax" por favor borrelo inmediatamente.
+> 
+> 		Desde ya muchas gracias
+>=
+ Asunto:	[AlertaLab] Alerta de Seguridad 2001-20  01
+> 
+> Suscriptores de A=
+lertaLab,
+> 
+> Un nuevo gusano de tecnologia antigua cobra relevancia deb=
+ido a su nombre
+> y
+> mensaje. Puede generar mayores problemas en America=
+ Latina y España,
+> debido
+> a que su texto se encuentra en castellano.
+>=
+ 
+> Alerta: AMARILLO. La mejores antivirus reconocen al mismo de manera
+> g=
+enerica, pero debido al tema que dice clarificar puede engañar a la gen=
+te
+> induciendola a activarlo. 
+> 
+> Adjuntamos a la presente el Alerta de =
+Seguridad 2001-20: 
+> "VIRUS ANTHRAX (VBS/VBSWG-2B)" con informacion deta=
+llada sobre este nuevo
+> riesgo.
+> Atentamente
+>  <<AlertaLab 2001-20.doc>>=
+ 
+> 
+> 
+
+------_=_NextPart_001_01C1590E.E135D3E0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-=
+EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Diso-8859-1">
+<META N=
+AME=3D"Generator" CONTENT=3D"MS Exchange Server version 5.5.2653.12">
+<TITL=
+E>RV: Alerta de Seguridad sobre nuevo virus informatico</TITLE>
+</HEAD>
+<=
+BODY>
+<BR>
+
+<P><B><FONT SIZE=3D1 FACE=3D"MS Sans Serif">Asunto:</FONT></B> =
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT SIZE=3D1 FACE=3D"MS S=
+ans Serif"> Alerta de Seguridad sobre nuevo virus informatico</FONT>
+</P>=
+
+
+<P><FONT COLOR=3D"#800000" SIZE=3D2 FACE=3D"Tahoma">Señores Usuarios </=
+FONT>
+</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; <FONT COLOR=3D"#800000" SIZE=3D2 FACE=3D"Tahoma">=
+Por favor lea el archivo adjunto, el mismo trae informacion sobre un nuev=
+o virus informatico.</FONT>
+</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT COLOR=3D"#800000" S=
+IZE=3D2 FACE=3D"Tahoma">Si usted recibe un mail donde el asunto sea&nbsp; &=
+quot;Antrax info" o "informacion sobre el virus Antrax" =
+por favor borrelo inmediatamente.</FONT></P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <FONT COLOR=
+=3D"#800000" SIZE=3D2 FACE=3D"Tahoma">Desde ya muchas gracias</FONT>
+<BR><B=
+><FONT SIZE=3D1 FACE=3D"Arial">Asunto:</FONT></B> <FONT SIZE=3D1 FACE=3D"Ar=
+ial">[AlertaLab] Alerta de Seguridad 2001-20&nbsp; 01</FONT>
+</P>
+
+<P><FONT=
+ SIZE=3D2 FACE=3D"Arial">Suscriptores de AlertaLab,</FONT>
+</P>
+
+<P><FONT S=
+IZE=3D2 FACE=3D"Arial">Un nuevo gusano de tecnologia antigua cobra releva=
+ncia debido a su nombre y</FONT>
+<BR><FONT SIZE=3D2 FACE=3D"Arial">mensaje.=
+ Puede generar mayores problemas en America Latina y España, debido</FO=
+NT>
+<BR><FONT SIZE=3D2 FACE=3D"Arial">a que su texto se encuentra en castel=
+lano.</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Alerta: AMARILLO. La me=
+jores antivirus reconocen al mismo de manera</FONT>
+<BR><FONT SIZE=3D2 FACE=
+=3D"Arial">generica, pero debido al tema que dice clarificar puede enga=
+ñar a la gente</FONT>
+<BR><FONT SIZE=3D2 FACE=3D"Arial">induciendola a ac=
+tivarlo. </FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Adjuntamos a la pre=
+sente el Alerta de Seguridad 2001-20: </FONT>
+<BR><FONT SIZE=3D2 FACE=3D"Ar=
+ial">"VIRUS ANTHRAX (VBS/VBSWG-2B)" con informacion detallada s=
+obre este nuevo</FONT>
+<BR><FONT SIZE=3D2 FACE=3D"Arial">riesgo.</FONT>
+<BR=
+><FONT SIZE=3D2 FACE=3D"Arial">Atentamente</FONT>
+<BR><FONT FACE=3D"Arial" =
+SIZE=3D2 COLOR=3D"#000000"> <<AlertaLab 2001-20.doc>> </FONT>
+<=
+/P>
+<BR>
+
+</BODY>
+</HTML>
+------_=_NextPart_001_01C1590E.E135D3E0--
+
+
+------_=_NextPart_000_01C1590E.E135D3E0
+Content-Type: application/msword;
+	x-mac-type="42494E41";
+	x-mac-creator="4D535744";
+	name="AlertaLab 2001-20.doc"
+Content-Disposition: attachment;
+	filename="AlertaLab 2001-20.doc"
+
+[ Attachment content not displayed ]
+------_=_NextPart_000_01C1590E.E135D3E0--
+

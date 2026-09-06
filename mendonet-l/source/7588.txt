@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 1 Nov 2000 02:23:28 -0000
+Received: (qmail 25477 invoked from network); 1 Nov 2000 02:23:28 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 1 Nov 2000 02:23:28 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta2 with SMTP; 1 Nov 2000 02:23:26 -0000
+Received: from antro.micasa ([200.41.31.34]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA07752 for <mendonet-l@egroups.com>; Tue, 31 Oct 2000 23:26:01 +0300 (GMT)
+Date: Tue, 31 Oct 2000 23:18:33 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <9971.001031@...>
+To: Alejandro Gomez Talquenca <mendonet-l@egroups.com>
+Subject: Re[6]: Teletrabajo
+In-reply-To: <00d901c042a0$f36d48c0$LocalHost@...>
+References: <00d901c042a0$f36d48c0$LocalHost@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 30/10/2000, Alejandro Gomez Talquenca curiosamente escribió:
+
+>> Fue un dilema moral intersante de resolver: aplicar mi criterio de
+>> ingeniero para hallar la solucion tecnicamente mas eficiente,
+>> economicamente mas conveniente y artisticamente mas elegante o aplicar
+>> la solucion que me hubiera permitido estar conectado a Internet las 24
+>> horas en mi casa gratis.
+>>
+>> Que te parece?
+>>
+AGT> Amazing!!!!!!!
+AGT> pura creatividad en movimiento......
+AGT> se me cae a pedazos el estereotipo del ingeniero
+
+Estem... Ingenieria... Ingenio....
+Cual es la sorpresa?
+
+-- 
+Groucho Marx
+La inteligencia militar es una contradicción de términos.
+
+
+

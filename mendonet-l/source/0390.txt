@@ -1,0 +1,60 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_5); 1 Apr 2003 13:55:14 -0000
+Received: (qmail 90722 invoked from network); 1 Apr 2003 13:55:13 -0000
+Received: from unknown (66.218.66.218)
+  by m9.grp.scd.yahoo.com with QMQP; 1 Apr 2003 13:55:13 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 1 Apr 2003 13:55:14 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 190MCX-0000JF-00
+	for <mendonet-l@...>; Tue, 01 Apr 2003 10:53:21 -0300
+Message-ID: <3E899594.4010104@...>
+Date: Tue, 01 Apr 2003 10:35:16 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: =?ISO-8859-1?Q?Tiñelas=5Fde=5Frojo=2C_BABY=2E=2E=2E=2E?=
+ =?ISO-8859-1?Q?NUESTROSFASCISTAS_ESTAN_DE_FIESTA?=
+References: <18537432835.20030330003853@...>	 <17514.030330@...> <1049091640.6697.6.camel@stimpy>
+In-Reply-To: <1049091640.6697.6.camel@stimpy>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+cabeza wrote:
+> On Sun, 2003-03-30 at 12:20, Sebas wrote:
+> 
+>>MS> Si me aseguras de que esto es una protesta y no es marketing estoy
+>>MS> disponible para pintar el rio mendoza.
+>>Hablando de río Mendoza, señores ingenieros de la lista.... pensaba
+>>que pintar el río mendoza es ridículo dado que ya viene de color, y
+>>con eso se me ocurrió que todos esos limos que trae se van a depositar
+>>en el dique este que han construido y el dique se llenaría tarde o
+>>temprano... imagino que los ingenieros que construyeron dicha presa
+>>sabía nde eso,,, ¿qué solución le han dado?
+> 
+> 
+> 
+> En realidad no se si lo sabían, je je je
+> hablando con un ingeniero agrónomo me contó del mal de las aguas
+> claras (exactamente como esta ahora el río mendoza) y resulta que
+> el agua cristalina porque no tiene limos es mucho mas facil de
+> que se filtre en la tierra ya que los limos impermeabilizan la
+> superficie de la tierra tapando sus poros. Que problema trae
+> esto? que las napas subterraneas se eleven y se ahoguen 
+> las plantas... ¿y esto lo habían pensado?
+
+Si, claro. Por eso es que tienen que impermeabilizar todos los canales 
+de riego.
+
+-- 
+Groucho
+
+

@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 2 Nov 2001 05:16:30 -0000
+Received: (qmail 67712 invoked from network); 2 Nov 2001 05:16:29 -0000
+Received: from unknown (10.1.10.26)
+  by m3.grp.snv.yahoo.com with QMQP; 2 Nov 2001 05:16:29 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta1 with SMTP; 2 Nov 2001 05:16:29 -0000
+Received: from gateway.micasa.org.ar (200-41-31-100-rdunysd1.impsat.net.ar [200.41.31.100])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with ESMTP id CAA06566
+	for <mendonet-l@...>; Fri, 2 Nov 2001 02:17:09 +0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15yRpS-0000kA-00
+	for <mendonet-l@...>; Tue, 30 Oct 2001 02:52:50 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15yRpS-0000jz-00
+	for <mendonet-l@...>; Tue, 30 Oct 2001 02:52:50 -0300
+Date: Tue, 30 Oct 2001 02:52:49 -0300
+To: mendonet-l@...
+Subject: Re: Riesgo pais ??!... no pibe... Riesgo Mendonet !.
+Message-ID: <20011030025249.I2171@...>
+References: <182914486.20011025085511@...> <0907.011029@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <0907.011029@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Mon, Oct 29, 2001 at 09:47:09PM -0300, rodralez wrote:
+
+> > 3º no te tengo confianza a vos programando, asi que quiero ver el
+> > codigo fuente y los datos ingresados, seguramente hiciste un loop que
+> > hace que se adjudiquen puntos...
+> 
+> Estas loco !!, ésta te voy a mostrar el código fuente !.
+> 
+> > 4º tan al pedo estas para hacer estos programitas pedorros???
+> > PONETE A ESTUDIAR FOCO!!!!!!
+> 
+> Pero no vez que esto está intimamente ligado a mi carrera ?!.
+> Es más, todo esto es el paso inicial a lo que va a ser mi proyecto
+> final para recibirme... el detector de sarcasmo !.
+
+Estos dos items fueron muy gracioso!!!!!
+Rodralez rulez!
+
+--
+Groucho
+
+
+
+

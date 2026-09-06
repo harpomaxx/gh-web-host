@@ -1,0 +1,93 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 28 Nov 2001 12:07:59 -0000
+Received: (qmail 26470 invoked from network); 28 Nov 2001 12:07:59 -0000
+Received: from unknown (216.115.97.172)
+  by m9.grp.snv.yahoo.com with QMQP; 28 Nov 2001 12:07:59 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2.grp.snv.yahoo.com with SMTP; 28 Nov 2001 12:08:00 -0000
+Received: from modem106-as3.mendoza.sinectis.com.ar ([216.244.255.226])
+  by softhome.net with esmtp; Wed, 28 Nov 2001 04:57:57 -0700
+Date: Mon, 26 Nov 2001 10:58:45 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus <aldocop@...>
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <1457.011126@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbMl06IFByZWd1bnRhICBwYXJhIGFsZ/puIGd1cvogaW5mb3Jt4XRp?= =?ISO-8859-1?B?Y28uLi4=?=
+In-reply-To: <20011124173210.H6543@...>
+References: <20011124173210.H6543@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+
+             El 24/11/2001, mendonet-l decía:
+
+
+GM> On Sat, Nov 24, 2001 at 12:14:11PM -0300, Lupus wrote:
+
+>> Por  lo  que  vengo  oyendo  deduzco  que  no todos los pentiun II son
+>> slot1... qué otra opción hay, y cuáles son sus bentajas y desbentajas?
+
+GM> Estoy casi seguro de que todos los productos etiquetados como "Pentium 2" 
+GM> usan slot 1.
+GM> Los unicos Pentiums 2 que no usan slot 1 son los Celeron que tienen otro
+GM> nombre y otro conector por cuestiones de marqueting solamente.
+
+ 
+>> se llama slot1 porque tiene el procesador en 1 slot?
+
+GM> Se llaman slot 1 porque asi lo patento Intel. Pero el nombre no deja
+GM> de ser razonable tratandose del primer conector con aspecto de ranura (slot)
+GM> usado por Intel.
+
+Momento...  esos  conectores  se  han usado durante años para conectar
+otras placas... será el primero usado para el procesador...
+ 
+>> hay procesadores que entran en más de un slot?
+
+GM> Quien haria algo tan engorroso?
+
+No me subestimes...
+
+>> una  placa  madre  para  un slot1 puede alvergar tanto a un pentiun II
+>> como a otro procesador slot1?
+
+GM> Ese es el truco de tener un conector, no te parece?
+
+No  necesariamente...  el beneficio de poder cambiar el procesador por
+otro  igual  si  éste  se  quema  ya es suficiente para justificar esa
+configuración por sobre una configuración con todo integrado...
+
+Además, siendo que ignoro completamente el salto tecnológico existente
+entre   un   pII   y   un   PIII  (aunque  lo  presumo  no  demasiado
+significativo...)  ignoro  también  si esa modificación tecnológica no
+dejó obsoleta la placa madre... con lo que sería imposible conectar un
+PIII a una vieja placa slot 1 para PII...
+
+>> qué otro procesador slot1 existe?
+
+GM> Pentiums 3 viejos y Celerones viejos.
+
+Qué molestos... y qué conector está "de moda" ahora?
+ 
+>> cuál es el diseño de conección del procesador más mecha y por qué?
+
+GM> Es mas mecha el mas practico.
+
+El  slot  1  es  bastante  práctico...  no  he visto los otros... pero
+imagino que serán iguales o mejores en cuanto a eso... o no...?
+
+
+Lupus
+
+-- 
+
+"Son numerosos los púlpitos desde donde se suele impartir la enseñanza, pero muy escasos los maestros sabios y nobles. También numerosos y muy extensos los auditorios, y sin embargo escas�an los jóvenes que honradamente ansían la verdad y la justicia." A. Einstein                
+
+
+

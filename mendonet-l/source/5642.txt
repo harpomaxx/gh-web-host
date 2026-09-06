@@ -1,0 +1,69 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 26 Aug 2001 07:14:36 -0000
+Received: (qmail 68513 invoked from network); 26 Aug 2001 07:14:35 -0000
+Received: from unknown (10.1.10.142)
+  by l7.egroups.com with QMQP; 26 Aug 2001 07:14:35 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.76)
+  by mta3 with SMTP; 26 Aug 2001 07:14:33 -0000
+Received: (qmail 4548 invoked by uid 1005); 25 Aug 2001 23:55:04 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.193988 secs); 25/08/2001 20:55:03
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 25 Aug 2001 23:55:02 -0000
+Date: Sat, 25 Aug 2001 20:55:00 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <01082403041700.00700@...> <4565.010824@...>
+In-Reply-To: <4565.010824@...>
+Subject: Re: Re[4]: =?iso-8859-1?q?=BFBuenas=3F=20y=20etc=2E=2E=2Ede=20uno=20nuevo?=
+MIME-Version: 1.0
+Message-Id: <01082520550006.00458@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 24 Ago 2001 13:33, escribiste:
+
+>  ¿De qué sirve ser
+> un usuario Linux si Ésa es el único aspecto de tu vida que que se
+> maneja con una(según tus palabras) "ideología libre". Quiero decir,
+> conozco varios usuarios linux que "se cierra en su consumismo idiota,
+> su religion fanatica o idealismos politicos que no sirven nada mas
+> que para alimentar a algun pez gordo y darle al consumista esclavo
+> una sensacion de satisfaccion."
+> Sobre todo lo del consumismo.
+
+Hoy estaba meditando sobre ese mismo punto y llegue a la conclusion de 
+que el criterio de libertad que aplicamos al softwre debe ser aplicado 
+a todo aquello conocido como propiedad intelectual.
+Que patraña!
+Las ideas no tienen dueño. Autor si, pero no dueño. Las ideas no son 
+cosas.
+
+Por lo tanto, las mismas libertades que elijo tener con el software las 
+elijo tener con los artefactos y servicios protegidos por patentes y 
+por las obras artisticas.
+
+El poder que nos oprime es de naturaleza economica y se defiende con 
+patentes, marcas y otros elementos de propiedad intelectual. 
+Rechazarlos, difundir su rechazo, finalmente permitira obtener la 
+suficiente como para vencerlos.
+No estoy hablando de una revolucion, solo de ignorar los supuestos 
+derechos de propiedad intelectual y soportar las consecuencias en 
+nuestra contra que de esa conducta se origine.
+
+Realmente no necesito cambiar las leyes de propiedad intelectual. Me 
+basta con ignorarlas y no dejarme vencer con lo que puedan hacer por 
+aber ignorado esas antinaturales leyes. De lograrlo, habre logrado que 
+tales leyes no tengan poder, es decir, que no existan mas.
+(una ley que no se cumple no es una ley).
+
+Este camino lo recomiendo a la confrontacion revolucionaria violenta.
+
+
+-- 
+Groucho Marx
+

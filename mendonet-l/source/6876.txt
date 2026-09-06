@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 18 Nov 2000 08:04:41 -0000
+Received: (qmail 52474 invoked from network); 18 Nov 2000 08:04:40 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 18 Nov 2000 08:04:40 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 18 Nov 2000 08:04:39 -0000
+Received: from antro.micasa ([200.41.31.110]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA20237 for <mendonet-l@egroups.com>; Sat, 18 Nov 2000 01:59:58 -0300 (GMT)
+Date: Sat, 18 Nov 2000 00:53:01 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <936.001118@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Re[5]: Un par de preguntas sobre the bat
+In-reply-To: <000c01c05064$526cfd40$9a4afea9@hfgg>
+References: <000c01c05064$526cfd40$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 16/11/2000, Mariana dudosamente gritó:
+
+>> S> ¿Y cookies?
+>>
+>> Esa era la segunda pregunta? Veo con agrado que estas investigando las
+>> opciones de The Bat.
+>>
+>> Cookies son esas frases graciosas al azar que los tipos cool como
+>> Conan y yo incluimos al final de nuestros mensajes.
+
+M> Y entonces que son las taglines?
+
+En este caso lo mismo, pero The Bat las llama cookies no taglines, que
+le vamos a hacer...
+
+-- 
+Groucho Marx
+Porfiado como gallo comiendo tripa
+
+
+

@@ -1,0 +1,37 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-L@egroups.com
+Received: (EGP: mail-6_1_0); 13 Oct 2000 12:00:33 -0000
+Received: (qmail 5476 invoked from network); 13 Oct 2000 12:00:32 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 13 Oct 2000 12:00:32 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (204.144.231.7) by mta2 with SMTP; 13 Oct 2000 12:00:31 -0000
+Received: (qmail 18159 invoked by uid 417); 13 Oct 2000 11:59:45 -0000
+Message-ID: <20001013115945.18158.qmail@...>
+To: mendonet-L@egroups.com
+Subject: Sufijos en internet
+Date: Fri, 13 Oct 2000 11:58:45 GMT
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_0_1048_971438371"; charset="us-ascii"
+X-Sender: rodralez@...
+From: rodralez@...
+
+
+--=_0_1048_971438371
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 8bit
+
+
+
+Vuelve rodro-reuters... lean esta interesante nota sobre los nuevos 
+sufijos de que habrá en internet. Despues no digan que no les avisaron.
+
+el rodro
+
+--=_0_1048_971438371
+Content-Type: application/pdf; name="SUFIJOS.pdf"
+Content-Disposition: attachment; filename="SUFIJOS.pdf"
+
+[ Attachment content not displayed ]
+--=_0_1048_971438371--
+

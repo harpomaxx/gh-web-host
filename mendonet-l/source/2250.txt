@@ -1,0 +1,45 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-L@...
+Received: (EGP: mail-8_0_1_3); 4 Jan 2002 15:25:59 -0000
+Received: (qmail 65117 invoked from network); 4 Jan 2002 15:25:52 -0000
+Received: from unknown (216.115.97.167)
+  by m11.grp.snv.yahoo.com with QMQP; 4 Jan 2002 15:25:52 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (66.54.152.30)
+  by mta1.grp.snv.yahoo.com with SMTP; 4 Jan 2002 15:25:49 -0000
+Received: (qmail 1034 invoked by uid 417); 4 Jan 2002 14:54:41 -0000
+Message-ID: <20020104145441.1033.qmail@...>
+References: <20020102015353.B2394@...>
+            <7568.020103@...>
+In-Reply-To: <7568.020103@...>
+To: mendonet-L@...
+Subject: Maitena...
+Date: Fri, 04 Jan 2002 14:54:08 GMT
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_0_666_1010156071"; charset="us-ascii"
+X-Sender: rodralez@...
+From: rodralez@...
+X-Yahoo-Group-Post: member; u=3415981
+X-Yahoo-Profile: rodralez
+
+
+--=_0_666_1010156071
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+
+Les mando unos dibujos de Maitena pa' que se caguen de risa.
+
+rodralez
+
+
+
+--=_0_666_1010156071
+Content-Type: image/jpeg; name="familiares en peligro de extincion.jpg"
+Content-Disposition: attachment; filename="familiares en peligro de extincion.jpg"
+
+[ Attachment content not displayed ]
+--=_0_666_1010156071--
+

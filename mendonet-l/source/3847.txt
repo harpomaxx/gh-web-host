@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 13 Oct 2001 14:04:14 -0000
+Received: (qmail 22561 invoked from network); 13 Oct 2001 14:04:14 -0000
+Received: from unknown (10.1.10.27)
+  by l8.egroups.com with QMQP; 13 Oct 2001 14:04:14 -0000
+Received: from unknown (HELO smtp4.impsat.net.ar) (200.31.1.20)
+  by mta2 with SMTP; 13 Oct 2001 14:04:08 -0000
+Received: from gateway.micasa.org.ar (200-41-31-12-rdunysd1.impsat.net.ar [200.41.31.12])
+	by smtp4.impsat.net.ar (8.9.3/8.9.3) with ESMTP id LAA04225
+	for <mendonet-l@...>; Sat, 13 Oct 2001 11:02:08 -0400 (EDT)
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15sDbg-0004pz-00
+	for <mendonet-l@...>; Fri, 12 Oct 2001 22:28:52 -0300
+Date: Fri, 12 Oct 2001 22:28:52 -0300
+To: mendonet-l@...
+Subject: Re: sebas el pedorro pregunton
+Message-ID: <20011012222852.G18496@...>
+References: <41178020.20011010225027@...> <11576.011011@...> <191571407.20011011203806@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <191571407.20011011203806@...>
+User-Agent: Mutt/1.3.22i
+From: Groucho Marx <groucho@...>
+
+On Thu, Oct 11, 2001 at 08:38:06PM -0300, Oxiuro wrote:
+
+> S> Pero qué estúpido... ¿no te das cuenta de que está diciendo que está
+> S> mal que te autodenominés músico, y que no sos un músico?
+> S> Tu sed de guasca grouchesca te ha llevado muy bajo.
+> 
+>  Lee soquete
+> G>  Musicos de medio tiempo, aficionados, hobbistas o amateur? Creo que si.
+> yo dije musico amateur o no?
+
+Creo que hay un malentendido sobre si musico amateur es musico o no.
+Dijimos que musico a secas era el sigmificado 2 de mi diccionario, pero eso
+es una convencion mia y de varias personas mas.
+Musico amateur es el sigmificado 3 de musico, asi que musico amateur es musico
+al eliminar la convencion de que musico a secas es el significado 2.
+como dije antes si el contexto no es confuso tal practica es consistente con
+todo lo que he venido diciendo.
+
+Groucho
+

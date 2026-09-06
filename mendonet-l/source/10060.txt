@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 3139 invoked from network); 25 Jun 2000 22:26:13 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 25 Jun 2000 22:26:13 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 25 Jun 2000 22:26:11 -0000
+Received: from ANTRO ([200.41.31.124]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id TAA05570 for <mendonet-l@egroups.com>; Sun, 25 Jun 2000 19:26:52 +0300 (GMT)
+Date: Sun, 25 Jun 2000 01:36:41 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <367.000625@...>
+To: Bocha <mendonet-l@egroups.com>
+Subject: BUYING BIKES
+In-reply-To: <001101bfdb1f$1319f2c0$031529c8@pc233>
+References: <001101bfdb1f$1319f2c0$031529c8@pc233>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 20/06/2000, Bocha confiadamente sanateó:
+
+>> > Si vos construis un programa de computadora que cumpla las condiciones
+>> > de vida que yo di, entonces para mi, ese sistema ha de estar vivo.
+>> Ok, yo busco definiciones de vida aplicables. Quiero decir, defino vida no
+>> para saber si tu programita vive o no, sino para saber cuando estás
+B> matando,
+>> o cuando matar está mal.
+>>
+B> En 2001, a HAL la podrian matar?
+B> O no esta viva?
+
+Pues no me acuerdo! Hace mucho que la vi.
+Igualmente, un ser vivo con disco rigido (o HAL tenia ferrites?) se muere
+cuando lo apagas pero resucita cuando lo volves a bootear...
+
+Asi que matar a HAL no es tan terrible como matar a un pajarito.
+
+-- 
+Groucho Marx
+Rápido como escupida de músico
+
+
+

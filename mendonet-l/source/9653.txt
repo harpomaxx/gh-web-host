@@ -1,0 +1,127 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 26505 invoked from network); 19 Jul 2000 23:19:51 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 19 Jul 2000 23:19:51 -0000
+Received: from unknown (HELO lanet.com.ar) (200.42.8.134) by mta1 with SMTP; 19 Jul 2000 23:19:50 -0000
+Received: from ANTRO ([200.42.124.93]) by lanet.com.ar (8.8.7/8.8.7) with ESMTP id UAA13069 for <mendonet-l@egroups.com>; Wed, 19 Jul 2000 20:28:49 -0300
+Date: Wed, 19 Jul 2000 00:49:17 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1234.000719@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: Aguante la mala praxis
+In-reply-To: <002601bff0db$77ca1660$7b7d2ac8@tepes>
+References: <002601bff0db$77ca1660$7b7d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 18/07/2000, Sebas furiosamente detalló:
+
+>>Uno  de  los  médicos a los que ha ido Mariela, no recuerdo bien cual,
+>>creo  que  un neurólogo muy conocido, tiene un programa de computadora
+>>(muy  bien  valuado  por cierto), que ademas de los módilos de base de
+>>datos de pacientes tiene un módulo que aepta los síntomas, los compara
+>>además con la información de la ficha del paciente y tira una lista de
+>>posibles  enfermedades,  ordenadas  por  orden  de probabilidad, y una
+>>lista  de  posibles estudios para mejorar la certeza. Esto es sin duda
+>>una  herramienta  de  recagarse!!
+
+S> Todos esos programas tienen el problema que ya mencioné: en medicina 1+1 no
+S> es dos. Muchas veces los mismos síntomas no son la misma enfermedad,
+
+Y como las distigue el medico? Espera a que el cliente se muera de la
+primera o de la segunda enfermedad para saber?
+
+S>  esas
+S> distintas enfermedades tienen distintos tratamientos y la diferencia está en
+S> la historia clínica, en lo que te cuenta el paciente.
+
+Ahhh. Pues entonces, esa informacion debera ingresarse al sistema
+experto (que asi es como se llaman esos programas) que en concecuencia
+podra distiguir un caso de otro.
+
+
+S>  Y una historia clínica
+S> no puede ser interpretada por un programa, al menos no hasta ahora.
+
+Por que no? Acaso no esta formada por datos objetivos.
+Mi historia clinica registra hechos, tales como: medidas fisiologicas,
+estudios realizados, eventos del entorno social (que estudio, que
+deporte practico, cuantas veces cambio de novia por año y esas cosas).
+
+Son hechos representables en un sistema experto.
+
+S> Por otro
+S> lado, del correcto interrogatorio(para lo que no sirve una computadora) y de
+S> la correcta historia clínica, salen la mayoría de los diagnósticos.
+
+El medico pregunta, carga los datos al sistema experto y espera los
+resultados.
+
+
+S>  El interrogatorio no está compuesto por preguntas ya determinadas, y no podría
+S> hacerse de esa manera. El interrogatorio es guiado por le médico y tiene que
+S> ser tan minucioso como investigar todas las características de un síntoma.
+
+Bueno, para eso todavia pueden servir los medicos. Para preguntar.
+
+
+S> Por ejemplo lo que muchos pacientes llaman vértigo, otros lo llaman mareo y
+S> otros lo llaman náuseas. Una computadora no puede arreglarse con el término
+S> aislado.
+
+En general, los sistemas expertos actuales necesitan que la
+informacion se introduzca con cierto grado de formalidad y
+normalizacion. Eso tambien puede ser una tarea para el medico.
+
+
+S>  Tal vez, dentro de unos años(y me animo a decir que no menos de
+S> cien) el médico sea un técnico que recoja información y la suministre a una
+S> máquina que ya ha hecho imagenología. Pero falta muchísimo, se los aseguro.
+
+Y yo digo que no.
+
+
+>> Además, imagintate que te agarra una
+>>enfermedad  muy  poco común, que el médico estudió como una curiosidad
+>>hace  20 años y cuya existencia olvidé completamente hace 10, que para
+>>colmo   comparte  síntomas,  como  supongo  que  la  mayoria  de  las
+>>enfermedades,  con otro grupo de enfermedades más comunes,
+
+S> En ese caso cada vez que se me presenta una de las enfermedades comunes, la
+S> computadora me va a tirar la posibilidad de la enfermedad exótica, entonces,
+S> en 20 años le voy a haber pedido a todos mis pacientes exámenes
+S> complementarios de más.
+
+Bueno.. Si dice: gripe=99,99999% meningitis espinal=0,000001% y a
+pesar de eso le haces estudios para ver si tiene meningitus a TODOS
+los pacientes con esas probabilidades, durante 20 años, serias muy
+torpe e inutil, no te parece??
+
+Pero el dia que diga: gripe=99,9% meningitis espinal=0,1% EEEEEPPPAA!
+A lo mejor vale la pena probar si es o no meningitis de una forma algo
+mas cool que esperando a ver si se muere.
+
+
+S> Igual, para los que no conf�en en los médicos, sepan que sí, algún día serán
+S> reemplazados por técnicos que meterán datos en una computadora.... pero como
+S> será un técnico y no un médico, no sabr� el valor de tal o cual
+S> característica de un signo o un síntoma, tal vez le reste importancia, la
+S> computadora diagnostique mal y te mate con un mal tratamiento. El error
+S> humano siempre va a estar presente
+
+Bueno, a esos tecnicos habra que obligarlos a estudiar medicina, no te
+parece?
+Digamos que el sistema experto es una herramienta de diagnostico mas,
+como los rayos X o los analisis de sangre!
+
+
+-- 
+Groucho Marx
+De la época de la seven-up naranja. (R)
+
+
+

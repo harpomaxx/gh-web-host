@@ -1,0 +1,79 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 8 Oct 2002 03:45:47 -0000
+Received: (qmail 79952 invoked from network); 8 Oct 2002 03:45:47 -0000
+Received: from unknown (66.218.66.218)
+  by m15.grp.scd.yahoo.com with QMQP; 8 Oct 2002 03:45:47 -0000
+Received: from unknown (HELO io) (200.47.194.107)
+  by mta3.grp.scd.yahoo.com with SMTP; 8 Oct 2002 03:45:46 -0000
+Received: from root by io with local (Exim 3.35 #1 (Debian))
+	id 17ylGS-0000Oj-00
+	for <mendonet-l@...>; Tue, 08 Oct 2002 00:42:32 -0300
+Date: Tue, 8 Oct 2002 00:42:31 -0300
+To: mendonet-l@...
+Subject: Re: Fw: Oremos! ( Imperdible)
+Message-Id: <20021008004231.787e6ed0.root@...>
+In-Reply-To: <OE62ik6kvXsn2Yf0scL00008cee@...>
+References: <OE62ik6kvXsn2Yf0scL00008cee@...>
+Organization: Linux User Group Mendoza [LugMen]
+X-Mailer: Sylpheed version 0.8.3 (GTK+ 1.2.10; i686-pc-linux-gnu)
+X-Operating-System: Debian GNU/Linux
+X-KASTOR: Muerte al CAPITAL!!!
+X-KASTOR-1: QUE SE VAYAN TODOS!!!!
+User-Agent: Sylpheed version 0.8.3 (GTK+ 1.2.10; i686-debian-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: k a s t o r <root@...>
+X-Yahoo-Group-Post: member; u=76410190
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+El Mon, 7 Oct 2002 19:18:17 -0300
+"Federico" <federicomorganti@...> escribio:
+
+> 
+> ----- Original Message -----
+> From: "Enrique Morganti" <enrimorg@...>
+> To: "federico morganti" <federicomorganti@...>
+> Sent: Monday, October 07, 2002 6:18 PM
+> Subject: Fw: Oremos! ( Imperdible)
+> 
+> 
+> >
+> > ----- Original Message -----
+> > From: "Felix Nallim" <nallimfe@...>
+> > To: <Undisclosed-Recipient:;>
+> > Sent: Friday, October 04, 2002 11:26 AM
+> > Subject: Fw: Oremos! ( Imperdible)
+> >
+> >
+> > > Un poquito de humor no nos viene mal.
+> > > Félix.
+
+
+pero que pedazo de conchudo sos !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+- -- 
+
+[ kastor ]             [ _QUE SE VAYAN TODOS_ ]
+
+CNC = L U 2 M C G
+JID = kastor@...   
+KFP = B83D C963 C1F8 7C02 FA82  1DFE 4852 C81A EFE9 177A               
+GPG = http://www.lugmen.org.ar/~kastor/public-key.txt                  
+p o w e r e d    b y   d e b i a n    g n u /  l i n u x
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (GNU/Linux)
+
+iD8DBQE9olQnSFLIGu/pF3oRAuJFAJ9aKL5K3g6dcKqXP6VnwYtraI2G1ACdHzZx
+S4bYCrHXf+Z3mSA8Jn7AyQY=
+=dqSt
+-----END PGP SIGNATURE-----
+

@@ -1,0 +1,39 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 00:09:25 -0000
+Received: (qmail 26338 invoked from network); 15 Nov 2000 00:09:24 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 15 Nov 2000 00:09:24 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta2 with SMTP; 15 Nov 2000 00:09:23 -0000
+Received: (qmail 4329 invoked by uid 417); 15 Nov 2000 00:13:56 -0000
+Received: from a200042125115.rev.prima.com.ar (200.42.125.115) by smtpb.softhome.net with SMTP; 15 Nov 2000 00:13:56 -0000
+Date: Tue, 14 Nov 2000 20:54:34 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Sebas <xebax@...>
+X-Priority: 3 (Normal)
+Message-ID: <7871.001114@...>
+To: Groucho Marx <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmVbOF06IFNhbHVkYXIgbyBubyBzYWx1ZGFyLCBlc2EgZXMgbGEgY3Vl?= =?ISO-8859-1?B?c3Rp824=?=
+In-reply-To: <15727.001112@...>
+References: <15727.001112@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+
+
+>>>    La gran solución es usar otro programa de mail por ejemplo THE
+>>>    BAT
+S>> sip, pero the bat se niega a funcionar conmigo.
+GM> Te consegui un programa mas sencillito que TheBat, llamado FoxMail.
+GM> Te pinta?
+Ya estoy haciendo funcionar The bat, aunque persiste el problemita de
+la cuenta de mi hermana, que ya comenté y aún no recibe solución.
+Agradecer� aportes al respecto
+
+-- 
+Sebas                          
+
+
+

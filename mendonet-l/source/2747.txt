@@ -1,0 +1,62 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 22 Nov 2001 20:15:41 -0000
+Received: (qmail 79187 invoked from network); 22 Nov 2001 20:15:41 -0000
+Received: from unknown (216.115.97.167)
+  by m11.grp.snv.yahoo.com with QMQP; 22 Nov 2001 20:15:41 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.98)
+  by mta1.grp.snv.yahoo.com with SMTP; 22 Nov 2001 20:15:39 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 166LEJ-0001Aw-00
+	for <mendonet-l@...>; Tue, 20 Nov 2001 21:27:07 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 166LEI-0001Al-00
+	for <mendonet-l@...>; Tue, 20 Nov 2001 21:27:06 -0300
+Date: Tue, 20 Nov 2001 21:27:05 -0300
+To: mendonet-l@...
+Subject: Re: Che, lady marian.[hablando de coloradas]
+Message-ID: <20011120212705.D4425@...>
+References: <20011114221121.H25154@...> <11614.011117@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <11614.011117@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Sat, Nov 17, 2001 at 02:44:24PM -0300, Marc wrote:
+
+> >> > > bueno si lo que queres es que te de la razon, pues si tenes razon, no
+> >> > > literalmente multiples orgasmos, pero bueno se les llama asi, cuantas
+> >> > > cosas
+> >> > > hay en la vida que no son literalmente asi!! por ejemplo morirse de
+> >> > > risa, a quien conoces que se halla muerto de esta forma?
+> >> >
+> >> > Pelotudo, no hagas chistes con eso. Si un amigo tuyo en tu viaje de
+> >> > egresados
+> >> > se hubiera hubiera puesto a reir por un chiste que contaste, con tan mala
+> >> > suerte que justo estaba tragando un poco de hamburguesa, y por reirse el
+> >> > pedazo de hamburguesa le obstruyo la traquea, y se muriera asfixiado
+> >> > delante de todos, entonce no te estarias burlando.
+> 
+> >>  Bueno lo lamento por tu amigo, pero tampoco se murio de risa, se murio por
+> >> asfixia, o en tro caso se murio por culpa de la risa, que tampoco serai por
+> >> culap ade la risa sino por culpa del chiste.
+> 
+> GM> Cual es tu problema? Se murio asfixiado de risa, que es un caso particular
+> GM> de morirse de risa.
+> 
+> 
+> y cual es el caso general de morirse de risa
+
+La conjuncion logica de todos los casos particulares de morirse de risa.
+
+-- 
+Groucho
+
+
+
+

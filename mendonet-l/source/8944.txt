@@ -1,0 +1,43 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 26981 invoked from network); 9 Aug 2000 01:41:34 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 9 Aug 2000 01:41:34 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 9 Aug 2000 01:41:33 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.55 [200.41.21.55] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA26675 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 22:44:10 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id WAA04630 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 22:05:52 -0300
+Sender: federico@...
+Message-ID: <3990AE70.C67F9D11@...>
+Date: Tue, 08 Aug 2000 22:05:52 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.16 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: la muerte.
+References: <001c01bffe2e$e55273c0$357d2ac8@tepes> <17789.000808@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+Groucho Marx wrote:
+> 
+> >> Vos te referis a la reunion del 1 de diciembre de 1998 que se hizo en la
+> >> casa de Lupus?
+> S> A éso le llamo memoria, una persona que recuerda la fecha de las reuniones.
+> S> No tengo la menor idea si fue en esa fecha o en alguna otra, es lo de menos.
+> 
+> Sera lo de menos para vos, pero no para mi. Fue el dia siguiente del
+> que me puse de novio con Marc.
+
+Marc? Marce... ahhhh!!
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+Your mouse has moves. Windows NT must be restarted for the
+change to take effect. Reboot now? [ OK ]
+

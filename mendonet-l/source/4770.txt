@@ -1,0 +1,42 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:34 -0000
+Received: (qmail 24671 invoked from network); 19 Sep 2001 07:05:34 -0000
+Received: from unknown (10.1.10.142)
+  by l10.egroups.com with QMQP; 19 Sep 2001 07:05:34 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta3 with SMTP; 19 Sep 2001 07:05:31 -0000
+Received: (qmail 8865 invoked by uid 1005); 18 Sep 2001 18:33:12 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.160263 secs); 18/09/2001 15:33:11
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 18:33:10 -0000
+Date: Tue, 18 Sep 2001 15:33:09 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <13542.010824@...> <01090913351303.00458@cubil> <OE29sO1WkminkvltTJ200002a31@...>
+In-Reply-To: <OE29sO1WkminkvltTJ200002a31@...>
+Subject: Re: =?iso-8859-1?q?Mas=20real=20que=20la=20vida=20misma=2E=2E=2E?= (Lupus indignado y =?iso-8859-1?q?vervorragico=2E=2E=2E=29?=
+MIME-Version: 1.0
+Message-Id: <01091815330907.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Sáb 15 Sep 2001 14:33, escribiste:
+
+> > Apuesto a que cuando en un formulario piden nombre y apellido vos
+> > pones: "Morganti, Federico".
+>
+> creo que no...............voy a poner mas atencion a eso y despues te
+> digo............?�?�?�?�?�?�
+
+Por si te interesa yo pongo siempre primero el nombre y despues el 
+apellido, independientemente del orden en el que lo pidan.
+A menos que pongan casilleros distintos para cada componente del nombre.
+
+-- 
+Groucho Marx
+

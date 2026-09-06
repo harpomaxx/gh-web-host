@@ -1,0 +1,75 @@
+From cabeza@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cabeza@...>
+X-Sender: cabeza@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 33279 invoked from network); 26 Aug 2003 17:22:27 -0000
+Received: from unknown (66.218.66.217)
+  by m17.grp.scd.yahoo.com with QMQP; 26 Aug 2003 17:22:27 -0000
+Received: from unknown (HELO muddy.fedped.com.ar) (200.80.52.246)
+  by mta2.grp.scd.yahoo.com with SMTP; 26 Aug 2003 17:22:21 -0000
+Received: (qmail 1516 invoked by uid 1005); 26 Aug 2003 17:22:14 -0000
+Received: from cabeza@... by muddy by uid 1002 with qmail-scanner-1.20rc1 
+ (avp: 4.0.0.1.  Clear:RC:0:. 
+ Processed in 0.048753 secs); 26 Aug 2003 17:22:14 -0000
+Received: from unknown (HELO ?192.168.109.8?) (192.168.109.8)
+  by 192.168.109.10 with SMTP; 26 Aug 2003 17:22:14 -0000
+Subject: Re: foro mendocino PARA NABOS
+To: mendonet <mendonet-l@...>
+In-Reply-To: <Law10-F612MErPFWy3r00000e9c@...>
+References: <Law10-F612MErPFWy3r00000e9c@...>
+Content-Type: text/plain; charset=ISO-8859-1
+Organization: 
+Message-Id: <1061918533.2758.3.camel@stimpy>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.4 
+Date: 26 Aug 2003 14:22:13 -0300
+Content-Transfer-Encoding: 8bit
+From: cabeza <cabeza@...>
+X-Yahoo-Group-Post: member; u=76414316
+X-Yahoo-Profile: c_a_b_e_z_a
+
+On Tue, 2003-08-26 at 10:04, A Secas wrote:
+
+> 
+> 
+> Foros de discusión
+> Error General
+> 
+> Ran into problems sending Mail. Response: 553 sorry, that domain isn't 
+> allowed to be relayed thru this MTA (#5.7.1)
+> 
+> DEBUG MODE
+> 
+> Line : 152
+> File : /home/notandistintosfm/foro/includes/smtp.php
+> 
+> 
+> 
+> QUE CONCHA ES ESTE MENSAJE DE ERROR
+> DECIME que hice mal
+> 
+> explicamelo , hacelo bien clarito, como para que lo entienda mi perro o 
+> susana gimenez
+> 
+> 
+> gracias
+> 
+
+
+lo que hiciste exactamente fue encontrar un error en la configuración
+del foro, el foro es muevo, el error siempre estuvo, pero vos fuiste el
+primero en reportarlo y gracias a tu ayuda lo he solucionado.
+
+muchas gracias
+
+
+saludos
+Cabeza
+
+
+
+
+-- Plug-and-Play is really nice, unfortunately it only works 50% of the
+time. To be specific the "Plug" almost always works.
+
+

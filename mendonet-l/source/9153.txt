@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 12419 invoked from network); 8 Aug 2000 23:22:00 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 8 Aug 2000 23:22:00 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 8 Aug 2000 23:21:59 -0000
+Received: from 200.41.31.73 ([200.41.31.73]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA12603 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 20:24:36 +0300 (GMT)
+Date: Tue, 8 Aug 2000 09:34:02 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <18398.000808@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmVbNF06IERldGVybWluaXNtbyB5IHNhbmF0YS4uLiBWZW8gcXVlIGVu?= =?ISO-8859-1?B?dGVuZGlzdGUgbGEgY29uc2lnbmEuLi4gv1BvciBxdekgbG8gZHVkYXN0?= =?ISO-8859-1?B?ZSBlbiB1biBwcmluY2lwaW8/Li4u?=
+In-reply-To: <001601bffc0f$9cf871e0$6f7d2ac8@tepes>
+References: <001601bffc0f$9cf871e0$6f7d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 01/08/2000, Sebas velozmente sanateó:
+
+S> Yo iba a decir algo parecido pero no estaba seguro. Quiero decir, el otro
+S> día veía un programa en le cual explicaban que el realidad casi todo lo que
+S> postulaba Einsteis estaba en discusión, y que los más grosos de los físicos
+S> de estos días no acuerdan con aquel hombre. De hecho, Stephen Hawkins
+S> demostró algunas falencias de la teoría de la relatividad, según tengo
+S> entendido.
+
+Hawkings descubrio la radiacion Hawkins, que es un efecto cuantico que
+ocurre en el horizonte de sucesos de los agujeros negros.
+Puedo dar detalles, pero lo importante que la radiacion Hawkings ES
+EMITIDA por el agujero negro pero segun la relatividad general, NADA
+puede ser emitido de un agujero negro.
+
+La incompatibilidad entre la relatividad general y la mecanica
+cuantica se conoce desde hace muchas decadas. Es obvio que si combinas
+ambas teorias obtenes resultados gay que contradicen a una, a otra o a
+ambas.
+Lo que tienen que hacer ahora es ver si la radiacion Hawkins se puede
+detectar o no para contrastar esta teoria.
+
+-- 
+Groucho Marx
+Cuando Dios proporcionó cerebros a los seres humanos, no tenía intenciones
+de garantizarlos.
+
+
+

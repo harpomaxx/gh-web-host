@@ -1,0 +1,50 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_1); 30 Oct 2002 18:06:24 -0000
+Received: (qmail 25024 invoked from network); 30 Oct 2002 18:06:24 -0000
+Received: from unknown (66.218.66.217)
+  by m10.grp.scd.yahoo.com with QMQP; 30 Oct 2002 18:06:24 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta2.grp.scd.yahoo.com with SMTP; 30 Oct 2002 18:06:23 -0000
+Received: (qmail 20865 invoked by uid 404); 30 Oct 2002 18:06:20 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar with qmail-scanner-1.01 (uvscan: v4.1.60/v4230. . Clean. Processed in 0.620619 secs); 30 Oct 2002 18:06:20 -0000
+X-Qmail-Scanner-Mail-From: cgimenez@... via multivac.xnetcuyo.com.ar
+X-Qmail-Scanner: 1.01 (Clean. Processed in 0.620619 secs)
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 30 Oct 2002 18:06:19 -0000
+Date: Wed, 30 Oct 2002 15:07:43 -0300
+To: mendonet-l@...
+Subject: Re: Mozilla
+Message-Id: <20021030150743.2c20fb89.cgimenez@...>
+In-Reply-To: <0586.021030@...>
+References: <0586.021030@...>
+Organization: XNetCuyo S.A.
+X-Mailer: Sylpheed version 0.8.5 (GTK+ 1.2.10; i686-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+On Wed, 30 Oct 2002 14:04:54 -0300
+Sebas <xebax@...> wrote:
+
+> Estaba leyendo el artículo del diario sobre Mozillay me generó
+> intriga... ¿alguno de ustedes lo usa?¿qué tal es?
+> 
+
+ lo usamos todos.. y esta muy bueno... deberias probar el mozilla browser y el
+mozilla mail y se van a olvidar de virus por un rato
+
+-- 
+
+Cristian Gimenez
+
+cgimenez@...
+XNet Cuyo S.A.
+Departamento de Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-261-4252788
+

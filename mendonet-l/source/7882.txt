@@ -1,0 +1,53 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_1_0); 18 Oct 2000 18:00:07 -0000
+Received: (qmail 2589 invoked from network); 18 Oct 2000 18:00:07 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 18 Oct 2000 18:00:07 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 18 Oct 2000 18:00:06 -0000
+Received: (qmail 19611 invoked by uid 417); 18 Oct 2000 18:01:21 -0000
+Received: from unknown (HELO 200.41.31.14) (200.41.31.14) by smtpb.softhome.net with SMTP; 18 Oct 2000 18:01:21 -0000
+Date: Wed, 18 Oct 2000 15:06:26 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <13629.001018@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: Compro memoria
+In-reply-To: <002c01c03920$a8eb3f20$347d2ac8@tepes>
+References: <002c01c03920$a8eb3f20$347d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Wednesday, October 18, 2000, 1:26:19 PM, you wrote:
+
+>> Tengo un 586 133 MHz para vender.
+>> Incluye: disco rigido de 1 GB, lectora de CD de 32x, teclado en
+S> castellano,
+>> placa de sonido ESS816, placa de video ATI Match 64 de 1 MB ampliable a 2
+>> MB, gabinete baby y 16 MB de RAM (4 SIMM de 4 MB de 72 pines).
+>> Monitor VGA blanco y negro.
+>> El precio: $280
+S> ¿No has pensado en venderla por partes? Yo, por ejemplo, te compraría las
+S> memorias.
+
+   de que tipo de memoria necesitas tengo para vender 32MB en dos simm
+   de 16MB cada uno, te puedo conseguir de cual quiera y a muy buen
+   precio nuevas y cualquier otra parte de computadora o impresora . y Groucho tiene varios modulos de simm de 4MB
+   creo que las puede vender
+
+
+
+
+-- 
+  nadie, apoltronado en la tibieza de una vida timorata,
+  puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                            
+
+
+

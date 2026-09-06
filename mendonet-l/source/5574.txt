@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 31 Aug 2001 05:18:29 -0000
+Received: (qmail 16597 invoked from network); 31 Aug 2001 05:18:29 -0000
+Received: from unknown (10.1.10.142)
+  by l9.egroups.com with QMQP; 31 Aug 2001 05:18:29 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.6)
+  by mta3 with SMTP; 31 Aug 2001 05:18:27 -0000
+Received: (qmail 9462 invoked by uid 1005); 29 Aug 2001 18:18:08 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 4.411616 secs); 29/08/2001 15:18:04
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 29 Aug 2001 18:18:00 -0000
+Date: Wed, 29 Aug 2001 15:18:00 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <01082619243600.00447@cubil> <9439.010827@...>
+In-Reply-To: <9439.010827@...>
+Subject: Re: Re[6]: =?iso-8859-1?q?=BFBuenas=3F=20y=20etc=2E=2E=2Ede=20uno=20nuevo?=
+MIME-Version: 1.0
+Message-Id: <01082915180000.00455@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 27 Ago 2001 10:32, escribiste:
+
+> GM> Mmm... Kastor es alfa-geminorium y Pollux es beta-geminorium,
+> GM> ambas obviamente en la constelacion Gemini.
+>
+> GM> Kastor y Pollux son las 2 estrellas mas brillantes de la
+> GM> constelacion a la que pertenecen y representan a los hijos
+> gemelos que salieron del GM> cascaron de Leda luego de haber sido
+> seducida por Zeus.
+>
+> Perdón, son constelaciones o estrellas?
+
+Estrellas. Aunque en realidad Kastor no es una extrella sino 6, que 
+desde la tierra y a simple vista se ven como una sola, o como 2 con 
+telescopios pequeños.
+
+Asi que Kastor si puede considerarse una constelacion.
+
+-- 
+Groucho Marx
+

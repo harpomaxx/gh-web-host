@@ -1,0 +1,40 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 29875 invoked from network); 8 Jul 2003 03:10:06 -0000
+Received: from unknown (66.218.66.216)
+  by m11.grp.scd.yahoo.com with QMQP; 8 Jul 2003 03:10:06 -0000
+Received: from unknown (HELO vita.com.ar) (200.80.39.12)
+  by mta1.grp.scd.yahoo.com with SMTP; 8 Jul 2003 03:10:06 -0000
+Received: (qmail 6103 invoked by uid 64014); 8 Jul 2003 03:09:59 -0000
+Received: from rodralez@... by wega by uid 1004 with qmail-scanner-1.16 
+ (avp: 4.0.0.1. spamassassin: 2.20.  Clear:SA:0(0.0/5.0 tests= version=2.20):. 
+ Processed in 3.626122 secs); 08 Jul 2003 03:09:59 -0000
+Received: from unknown (HELO servidor) (rodralez@...@200.41.21.214)
+  by ns1.vita.com.ar with SMTP; 8 Jul 2003 03:09:55 -0000
+Date: Tue, 8 Jul 2003 00:09:34 -0300
+X-Mailer: The Bat! (v1.62r)
+X-Priority: 3 (Normal)
+Message-ID: <744117545.20030708000934@...>
+To: mendonet-l@...
+Subject: Bowling for Columbine
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-15
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, hits=0.0 required=5.0 tests= version=2.20
+X-Spam-Level: 
+From: rodralez <rodralez@...>
+Reply-To: rodralez <rodralez@...>
+X-Yahoo-Group-Post: member; u=152320388
+X-Yahoo-Profile: rodralez
+
+
+Alguien fue a ver esta película al cine Universidad ?
+
+Les gustó, no les gustó ?... escucho opiniones.
+
+
+rodralez
+
+

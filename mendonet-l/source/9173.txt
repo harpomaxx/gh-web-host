@@ -1,0 +1,71 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 15153 invoked from network); 8 Aug 2000 11:29:07 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 8 Aug 2000 11:29:07 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 8 Aug 2000 11:29:05 -0000
+Received: from 200.41.31.92 ([200.41.31.92]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id IAA19209 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 08:31:04 +0300 (GMT)
+Date: Wed, 19 Jul 2000 21:01:29 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <13876.000719@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: Mis problemas con winamp
+In-reply-To: <006601bff1c5$a57dce40$397c2ac8@tepes>
+References: <006601bff1c5$a57dce40$397c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 19/07/2000, Sebas apurado dijo:
+
+>> Porque sos un cybersalame que tiene instalado el driver de DOS en
+>> lugar del de Windows para el lector de CD.
+>> Prueba sencilla: encontra en el archivo \autoexec.bat una linea que
+>> diga MSCDEX (pueden haber varias) y ponele REM adelante.
+S> Es verdad, pero mi problema es que mi lector funciona sólo con ese driver,
+S> he intentado con otros y no ha funcionado, claro que no sé un pomo de
+S> computadoras. Por ejemplo, si apago la computadora sin un cd puesto en la
+S> lectora, corro el riesgo de no poder abrirla después, y tengo que reiniciar
+S> y esperar tener más suerte. Así que he optado por dejar un cd puesto todo el
+S> tiempo. Y cuando le pongo rem no me funciona la lectora, lo hice antes por
+S> otro problema, y me dí cuenta que que no tenía otro driver.
+
+>> Al hacer eso pueden pasar 2 cosas: que la letra de unidad del CDrom
+>> deje de existir o que empiece a andar normalmente.
+S> Pasa lo primero.
+
+Ok. Que clase de lector de CD es el que tiene la computadora?
+Sacale la tapa y fijate a que carajo esta enchufado. Si esta enchufado
+a lo mismo que un disco rigido, es una lectora IDE y NO PUEDE ANDAR
+MAL.
+
+
+Si esta enchufada a una placa de sonido con conexion IDE, sacala a la
+mierda de ahi y enchufala a lo mismo que enchufas los discos rigidos.
+
+Si esta enchufada a una placa de sonido con conexion para CD Sony o
+Mitsumi, vas a tener que instalar como la gente los drivers para esos
+controladores.
+Primero copia el CD de Windows al disco rigido, luego, desactiva
+MSCDEX y cualquier archivo con extension .SYS que haga referencia al
+lector de CD que encuentres en config.sys
+Luego usa el panel de control para "detectar hardaware nuevo" a ver si
+aparece el controlador del CD e instalas los archivos del driver a
+partir del disco rigido (para eso habias copiado todo primero ahi!)
+
+Si no te detecta nada, entonces trata de describirme lo mas
+detalladamente el aspecto del cable de conexion, del CD, todo lo que
+el lecto de CD tenga atras, y el aspecto, numeros de serie y
+pelotudeces de la placa a donde este conectado el lector.
+
+
+-- 
+Groucho Marx
+_ Tranquilos muchachos, saldré a respirar.
+_ Y... ¿si no lo hace, jefe?
+_ ¿Que Dios se apiade de nosotros! -- Jefe Gorgory
+
+
+

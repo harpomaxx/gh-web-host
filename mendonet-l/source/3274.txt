@@ -1,0 +1,46 @@
+From goofer@...  Sat Jul 11 23:23:58 2020
+Return-Path: <goofer@...>
+X-Sender: goofer@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 2 Nov 2001 01:27:46 -0000
+Received: (qmail 83167 invoked from network); 2 Nov 2001 01:27:46 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.223 with QMQP; 2 Nov 2001 01:27:46 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2 with SMTP; 2 Nov 2001 01:27:45 -0000
+Received: from pyter_x_pc.softhome.net ([200.63.137.99])
+  (AUTH: LOGIN goofer@...)
+  by softhome.net with esmtp; Thu, 01 Nov 2001 18:21:14 -0700
+Message-Id: <5.1.0.14.2.20011016040311.00a4a2e0@...>
+X-Sender: goofer@...
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+Date: Tue, 16 Oct 2001 04:05:01 -0300
+To: mendonet-l@...
+Subject: Re: Sobre esos dos pelotudos..
+In-Reply-To: <20011015190812.21685.qmail@...>
+References: <945.011015@...>
+ <11961.011010@...>
+ <945.011015@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"; format=flowed
+Content-Transfer-Encoding: quoted-printable
+From: Goofer <goofer@...>
+
+
+>Ya le pedimos de buenas maneras que la cortara.
+>Ahora hay que hacer algo=
+.
+>Ideas?
+
+La mas simple de todas...
+Que los moderadores de la lista limi=
+ten el tamaño permitido de los mails en 
+la mendo...
+por el resto, defien=
+dansen por sus propios medios...
+
+(Guardo con celo mi material, para cuando=
+ el gusi se decida a terminar mi 
+cuenta regresiva)
+
+

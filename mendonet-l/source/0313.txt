@@ -1,0 +1,41 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_6); 20 May 2003 12:35:40 -0000
+Received: (qmail 71328 invoked from network); 20 May 2003 12:32:26 -0000
+Received: from unknown (66.218.66.217)
+  by m11.grp.scd.yahoo.com with QMQP; 20 May 2003 12:32:26 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 20 May 2003 12:32:26 -0000
+Received: (qmail 15731 invoked by uid 417); 20 May 2003 12:32:22 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 20 May 2003 12:32:22 -0000
+Received: from dup-200-42-124-204.prima.net.ar ([200.42.124.204])
+  by softhome.net with esmtp; Tue, 20 May 2003 06:32:19 -0600
+Date: Tue, 20 May 2003 09:28:53 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <18395.030520@...>
+To: fernando canizo <mendonet-l@...>
+Subject: Re: buenas y santas...
+In-reply-To: <3EC9B327.3090203@...>
+References: <3EC9B327.3090203@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+fc> qué se cuenta por acá? tanto tiempo...
+
+Nada, hace mucho que no se cuenta nada... me parece que esto sí es la
+muerte definitiva de mendonet.
+
+-- 
+Sebas   
+"Hay dos maneras de concebir el mundo. Una, salvarse solo, arrojar ciegamente los demás de la balsa y la otra, un destino de salvarse con todos, comprometer la vida hasta el último náufrago, no dormir esta noche si hay un niño en la calle." Armando Tejada Gomez                       
+
+
+

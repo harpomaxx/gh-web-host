@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 21 Sep 2001 07:05:29 -0000
+Received: (qmail 70666 invoked from network); 21 Sep 2001 07:05:28 -0000
+Received: from unknown (10.1.10.142)
+  by l7.egroups.com with QMQP; 21 Sep 2001 07:05:28 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.61)
+  by mta3 with SMTP; 21 Sep 2001 07:05:25 -0000
+Received: (qmail 20611 invoked by uid 1005); 20 Sep 2001 18:50:20 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.175782 secs); 20/09/2001 15:50:19
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 20 Sep 2001 18:50:18 -0000
+Date: Thu, 20 Sep 2001 15:50:17 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <4957.010907@...> <0109181632050D.00460@cubil> <1131281644.20010920084924@...>
+In-Reply-To: <1131281644.20010920084924@...>
+Subject: Re: Re[4]: Se acabo sebitas... UFA!
+MIME-Version: 1.0
+Message-Id: <01092015501702.00445@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Jue 20 Sep 2001 08:49, escribiste:
+
+
+> GM> Y no, ese no es *mi* mejor material, eso son pavadas de segundo
+> GM> año aplicadas a pavadas de 4to año.
+> Me lo suponia, lo del material digo, jajajaja.
+>
+> Otra cosita, nunca intente desafiarte en una competencia de
+> conociemiento,
+
+Yo tampoco... Solo me prendi en la masa que te criticaba por tu.... 
+digamos... inmodestia.
+
+
+-- 
+Groucho Marx
+

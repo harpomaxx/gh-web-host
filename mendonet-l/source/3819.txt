@@ -1,0 +1,74 @@
+From aletalquenca@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aletalquenca@...>
+X-Sender: aletalquenca@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 14 Oct 2001 03:13:29 -0000
+Received: (qmail 60158 invoked from network); 14 Oct 2001 03:13:28 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.222 with QMQP; 14 Oct 2001 03:13:28 -0000
+Received: from unknown (HELO mail.arlink.net.ar) (200.47.195.4)
+  by mta1 with SMTP; 14 Oct 2001 03:13:28 -0000
+Received: (qmail 20191 invoked by uid 508); 14 Oct 2001 03:11:27 -0000
+Received: from unknown (HELO bocha@supernet) (200.47.194.235)
+  by mail.supernet.com.ar with SMTP; 14 Oct 2001 03:11:27 -0000
+Message-ID: <000901c15070$865d3860$f0c22fc8@...>
+To: <mendonet-l@...>
+Cc: "Claudia Carrivale" <claudiac22@...>
+Subject: =?iso-8859-1?Q?Augusto_Monterroso_-_Fabulas?=
+Date: Tue, 9 Oct 2001 00:14:35 -0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0005_01C15057.60BC1400"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: "Alejandro Gomez" <aletalquenca@...>
+
+
+------=_NextPart_000_0005_01C15057.60BC1400
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0006_01C15057.60C3B520"
+
+
+------=_NextPart_001_0006_01C15057.60C3B520
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+ http://www.patriagrande.net/guatemala/augusto.monterroso/
+
+------=_NextPart_001_0006_01C15057.60C3B520
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>=
+
+<META content=3D"text/html; charset=3Diso-8859-1" http-equiv=3DContent-Typ=
+e>
+<META content=3D"MSHTML 5.00.2614.3500" name=3DGENERATOR>
+<STYLE></STYLE=
+>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV>&nbsp;</DIV><BR>&nbsp;<A 
+href=3D"h=
+ttp://www.patriagrande.net/guatemala/augusto.monterroso/">http://www.patria=
+grande.net/guatemala/augusto.monterroso/</A></BODY></HTML>
+
+------=_NextPart_001_0006_01C15057.60C3B520--
+
+
+------=_NextPart_000_0005_01C15057.60BC1400
+Content-Type: application/octet-stream;
+	name="=?iso-8859-1?Q?Augusto_Monterroso_-_Fabulas.url?="
+Content-Disposition: attachment;
+	filename="=?iso-8859-1?Q?Augusto_Monterroso_-_Fabulas.url?="
+
+[ Attachment content not displayed ]
+------=_NextPart_000_0005_01C15057.60BC1400--
+

@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: unknown); 3 Mar 2002 14:14:56 -0000
+Received: (qmail 13067 invoked from network); 3 Mar 2002 14:14:56 -0000
+Received: from unknown (216.115.97.167)
+  by m4.grp.snv.yahoo.com with QMQP; 3 Mar 2002 14:14:56 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.76)
+  by mta1.grp.snv.yahoo.com with SMTP; 3 Mar 2002 14:14:55 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 16hED4-0006d1-00
+	for <mendonet-l@...>; Sat, 02 Mar 2002 15:26:18 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 16hED4-0006cq-00
+	for <mendonet-l@...>; Sat, 02 Mar 2002 15:26:18 -0300
+Date: Sat, 2 Mar 2002 15:26:18 -0300
+To: mendonet-l@...
+Subject: Re: alguien sabe...
+Message-ID: <20020302182618.GJ25103@...>
+References: <20020227023310.GR7442@...> <12986.020227@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <12986.020227@...>
+User-Agent: Mutt/1.3.25i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Wed, Feb 27, 2002 at 11:40:20PM -0300, Lupus wrote:
+
+> >> alguien sabe desde donde puedo llamar a eeuu gratis, antes habia un monton de lugares, ahora todos quieren cobrar o piden tarjeta de credito, si alguien conoce una web o programa que pueda realiza
+> >> llamadas PC to PHONE me avisa!!
+> 
+> GM> 0,15 el minuto es inaceptable?
+> GM> Sin tarjeta de credito y sin preguntas?
+> 
+> ¿Cómo...? Ouch... ¿esa cuenta como una pregunta...? Ouch...!
+
+No entiendo!
+
+-- 
+Groucho
+ 
+
+
+
+

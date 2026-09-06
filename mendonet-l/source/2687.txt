@@ -1,0 +1,70 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 22 Nov 2001 19:13:50 -0000
+Received: (qmail 55087 invoked from network); 22 Nov 2001 19:13:50 -0000
+Received: from unknown (216.115.97.172)
+  by m5.grp.snv.yahoo.com with QMQP; 22 Nov 2001 19:13:50 -0000
+Received: from unknown (HELO kastor) (200.63.128.67)
+  by mta2.grp.snv.yahoo.com with SMTP; 22 Nov 2001 19:13:49 -0000
+Received: from there (localhost.localdomain [127.0.0.1])
+	by kastor (Postfix) with SMTP id 518F03C485
+	for <mendonet-l@...>; Thu, 22 Nov 2001 16:11:04 -0300 (ART)
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Organization: @ndromeda group
+Message-Id: <200111221610.35407@X-KASTOR >
+To: mendonet-l@...
+Subject: Re: Re[2]: Pregunta  para =?iso-8859-1?q?algun=20guru?= =?iso-8859-1?q?=20informatico=2E=2E=2E?=
+Date: Thu, 22 Nov 2001 16:11:03 -0300
+X-Mailer: KMail [version 1.3.1]
+References: <20011120194912.H3550@...> <200111211842.51976@X-KASTOR > <051901c1737a$7644a8a0$060aa8c0@...>
+In-Reply-To: <051901c1737a$7644a8a0$060aa8c0@...>
+X-KASTOR-2: NO AL PAGO DE LA DEUDA EXTERNA!!!
+X-KASTOR-1: don't look my headers ass hole!!!
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+From: kastor troy <root@...>
+
+El Jueves 22 Noviembre 2001 11:33, Groucho Marx escribio:
+> > > Pero es q=
+ue el formato del disipador hace que la luz sea inevitable...
+> > > Yo  est=
+aba  pensando  justamente en lo mal que le hace a la conduccion
+> > > del=
+  calor  esa  luz... pero imagine que tal vez tenia alguna razon de
+>=
+ > > ser, ya que esta construido asi ex profeso.
+> > > GM> Vos no tenia=
+s un Pentium 2 de 350 mas o menos?
+> > >
+> > > 1=BA el diseño de ese cool=
+er son para procesadores tipo amd que solo hace
+>
+> falta
+>
+> > > hacer con=
+tacto en ese lugar del micro.. en cambio los procesadores
+> > > intel (ppga=
+) tienen que hacer contacto en toda la superficie.
+>
+> Pero el de Lupues es=
+ slot1, asi que el diseño es adecuado.
+
+ahh ok.. no sabia que el tenia sl=
+otone. :P
+
+-- 
+  kastor troy
+ ___________________________________________
+ =
+ root@...
+  kastor@...
+  Linux User #179479
+  IC=
+Q #29242971 - Jabber ID kastor@...
+  powered by  gnu/linux
+ _________=
+____________________________________
+

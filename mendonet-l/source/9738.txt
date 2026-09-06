@@ -1,0 +1,174 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 30538 invoked from network); 7 Jul 2000 16:33:20 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 7 Jul 2000 16:33:20 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 7 Jul 2000 16:33:19 -0000
+Received: from LAGRUTA (rdumen1-200.41.21.69 [200.41.21.69] (may be forged)) by relay3.impsat1.com (8.9.3/8.9.3) with SMTP id NAA26106 for <mendonet-l@egroups.com>; Fri, 7 Jul 2000 13:35:51 +0300 (GMT)
+Message-ID: <00c001bfe831$76245f80$090aa8c0@...>
+To: <mendonet-l@egroups.com>
+References: <004101bfe3dc$2c4b35e0$eb7d2ac8@tepes> <19653.000703@...> <001401bfe6f2$10eb6680$057d2ac8@tepes>
+Subject: RE: Re[2]: El Sebas no sirve!
+Date: Fri, 7 Jul 2000 13:36:10 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: =?iso-8859-1?Q?Fernando_Rodriguez?= <groucho@...>
+
+> > >>Creeme Sebas, conozco a muchos que le pegarian un tiro en la cabeza a
+> > S> varios de sus congeneres.
+> > S> Yo inclusive, pero todavía no me han demostrado que el hombre sea
+malo
+> > S> desde la cuna.
+
+
+> > Lo intentare.
+
+> > Tenes que aceptar primero que ciertas caracteristicas fisicas y
+> > psiquicas sean heredables.
+> > Hipotesis 1: los genes controlan o acentuan ciertos patrones de
+> > conducta como el egoismo, el altruismo, etc.
+> No, los genes determinan el temperamento(ser más o menos agresivo, tener
+más
+> o menos control sobre uno mismo, etc...), egoísmo y altruísmo, por
+ejemplo,
+> pertenecen al carácter. El temperamento es hereditario, el carácter es
+> adquirido. éso es una realidad científica que vas a encontrar en cualquier
+> libro de psiquiatría.
+
+Es un tecnicismo. No conozco la diferencia entre caracter y temperamento.
+Yo lo unico que pedi, es que aceptaras que ciertos patrones de conducta
+puedan ser influenciados hereditariamente.
+Si vos decis que el egoismo no es hereditario, por lo tanto es un caracter,
+entonces
+lo que te pido que aceptes es que aceptar es que exista algun temperamento
+(hereditario) que facilite la aparicion de un caracter egoista (no
+hereditario).
+En definitiva, todo queda funcionando como si realmente el egoismo fuese
+hereditario.
+
+
+> > Ademas, tenes que aceptar que en una sociedad primitiva, como aquella
+> > en la que se origino el homo sapiens, representaba una ventaja
+> > reproductiva el egoismo. Por ejemplo, el no compartir recursos
+> > escasos.
+> No estoy tan seguro. El ser egoísta vive solo, porque los demás seres no
+> obtienen beneficios de su conducta. El ser no egoísta por contraposición
+> vive con otros seres, y así tiene  mayor seguridad.
+
+Esta bien. Pensemos en un egoismo que no llegue a ser antisocial. Eso
+existe, no?
+
+
+> > Hipotesis 2: el egoismo en una sociedad primitiva es una ventaja
+> > evolutiva.
+> No la comparto. Además, el hecho de que hoy el hombre vive en conjuntos y
+no
+> en solitario(hoy y desde hace miles de años) es una prueba de que la
+ventaja
+> evolutiva la tenían quienes vivían en grupos.
+
+Bueno, es que tomaste el egoismo extremo y antisocial.
+Aceptaris que un egoismo que no aisle al individuo seria una ventaja
+evolutiva para
+el?
+Suena sensato: el tipo obtiene lo mas que puede del grupo, pero da a cambio
+lo minimo necesario para ser aceptado por el mismo.
+Ese es el egoismo que tenia en mente.
+
+
+> > La conclusion obvia de esas hipotesis es que la actitud egoista
+> > tendera a propagarse a mas descendientes que la altruista, y luego de
+> > muchas generaciones, los altruistas se extinguen y solo sobreviven los
+> > egoistas.
+> > Si aceptas eso, nosotros, los descendientes de los hombres primitivos
+> > tenemos que ser egoistas ("malos") desde la cuna.
+> Es que no lo acepto porque no lo comparto. Fin de este punto, al menos por
+> el momento.
+
+No se a que te referis con compartir o no...
+Si aceptas las hipotesis, entonces la conclusion es casi ineludible.
+Las hipotesis son discutibles. Yo particularmente me inclino por
+considerarlas
+aceptables.
+Ahora que han decodificado el genoma, tal vez se pueda saber si hay un
+gen o no para la maldad, el egoismo o lo que sea.
+Y con respecto a la segunda hipotesis, aclarado el malentendido supongo que
+se tornara aceptable por vos.
+
+> > Por otro lado, tengo un libro de 300 hojas llamado El Gen Egoista que
+> > desarrolla una teoria mas radical: los egoistas son los genes, quienes
+> > solo intentan perpetuarse al maximo ellos mismos. Nosotros, somos
+> > meras "maquinas de superviviencia" para esos genes.
+> > Lupus lo leyo, y te podria decir que el tambien esta mas o menos
+> > convencido de esta teoria.
+> Conociendo a fondo el tema de los genes y la reproducción celular y de la
+> evolución, y con las someras nociones que tengo sobre el gen egoísta, me
+> atrevo a decir que es un cuento bonito para que crean quienes no manejan
+el
+> tema de los genes a fondo. Pero igual debería leer algo más sobre esa
+> teoría. O que me lo comenten sería mucho mejor.
+
+Te comento en forma muy esquematica:
+
+La teoria del gen egosita surge como sonsecuencia logica de la teoria de la
+evolucion.
+La teroria de la evolucion es ampliamente aceptada, y a la vez se fundamenta
+en trabajos
+mucho mas basicos y establecidos sobre la transmision  hereditaria de
+atributos de un
+ser vivo.
+
+Podemos suponer entonces que las bases desde la que se desarrolla la teoria
+del gen egosita es correcta, en el sentido cientifico de la palabra
+(correcto=de acuerdo con los hechos).
+
+Segun la teoria de la evolucion, los supervivientes son los mas aptos.
+Los *que* mas aptos?
+Los individuos mas aptos? Las especies mas aptas? Los generos mas aptos?
+Los ordenes mas aptos? Que cosa?
+
+En principio los individuos mas aptos, ya que los que mueren o sobreviven
+son precisamente los individuos.
+Las especies mas aptas sobreviven solo porque sus individuos colectivamente
+son mas aptos que los individuos de otra especie.
+Aparte toda la clasificacion taxonomica existe solo en la mente de los
+zoologos, no es real.
+Igual se puede decir que los generos mas aptos sobreviven porque las
+especies que lo forman son mas aptas, etc
+
+Pero el mismo argumento que nos permite decir que las especies son mas aptas
+o no porque los individuos que la forman son mas aptos o no, nos permite
+decir que los genes que le permiten a un indiviudo estar mejor adaptado son
+los que se propagaran mas en la descendencia, y los otros se extinguen.
+Entonces la seleccion natural opera a nivel de genes tambien!!!
+El individuo es entonces una maquina de supervivencia, o sea, una
+dispositivo que le permite a los genes fabricar copias de si mismo.
+
+Por que el egoismo?
+Es una forma de describir el resultado obtenido. Los genes que existen en el
+genoma son los que han sido seleccionados. Si fueron seleccionados, lo
+fueron porque son exitosos en crear una maquina de supervivencia capaz de
+fabricar muchas copias de ese gen, y no de otros, sin importar realmente
+otra cosa que su propia duplicacion.
+Si los genes pensaran, diriamos que se comportan en forma egoista.
+
+
+>
+>
+>  Sebas - Aunque ellos mismos lo ignoren, ningún creador escribe para los
+> otros, ni para sí mismo, ni mucho menos, para satisfacer un anhelo de
+> creación, sino porque no puede dejar de escribir.
+>
+>
+> ------------------------------------------------------------------------
+> Who invented Gatorade -- and what part did it play in
+> winning the1967 Orange Bowl? Find out the true facts at
+> http://click.egroups.com/1/6212/8/_/126155/_/962850755/
+> ------------------------------------------------------------------------
+>
+
+

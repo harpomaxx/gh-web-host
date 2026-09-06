@@ -1,0 +1,45 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 13 Nov 2000 11:30:45 -0000
+Received: (qmail 20591 invoked from network); 13 Nov 2000 11:30:44 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 13 Nov 2000 11:30:44 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.31.47) by mta1 with SMTP; 13 Nov 2000 11:30:34 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id IAA01696 for mendonet-l@egroups.com; Mon, 13 Nov 2000 08:23:14 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Mon, 13 Nov 2000 08:23:14 -0300
+To: mendonet-l@egroups.com
+Subject: Re: A todo esto........
+Message-ID: <20001113082314.E520@...>
+References: <062101c04b25$edaec160$0201a8c0@goofer> <112.001111@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <112.001111@...>; from groucho@... on Sat, Nov 11, 2000 at 12:18:12AM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Sat, Nov 11, 2000 at 12:18:12AM -0300, Groucho Marx dijo:
+> El 10/11/2000, Goofer entrecortadamente dijo:
+> 
+> 
+> Pero el servidor web donde este la pagina tiene que soportar SSI.
+> Algo bastante mas mecha es usar PHP (pretty home page) que es otro
+> minilenguaje interpretado por el servidor (a diferencia de javascript
+> que es interpretado por el browser).
+> Pero el servidor web tiene que soportar PHP.
+> 
+> El guru de PHP de Mendonet actualmente es Harpo.
+
+Nada mas lejos de la realidad... mis conocimientos sobre PHP son cuando mucho
+de medios para abajo. Pero PHP tiene un muy buen manual de referencia y si
+alguna ves programaste en C entonces PHP es una bolazo!!!!
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

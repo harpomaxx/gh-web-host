@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 10 Nov 2000 02:43:45 -0000
+Received: (qmail 93987 invoked from network); 10 Nov 2000 02:41:50 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 10 Nov 2000 02:41:50 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta2 with SMTP; 10 Nov 2000 02:41:49 -0000
+Received: from antro.micasa ([200.41.31.111]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA23702 for <mendonet-l@egroups.com>; Thu, 9 Nov 2000 23:42:10 +0300 (GMT)
+Date: Tue, 7 Nov 2000 22:19:32 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <7930.001107@...>
+To: Marc <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmVbM106IFNhbHVkYXIgbyBubyBzYWx1ZGFyLCBlc2EgZXMgbGEgY3Vl?= =?ISO-8859-1?B?c3Rp824=?=
+In-reply-To: <14728.001107@...>
+References: <14728.001107@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 07/11/2000, Marc triste murmuró:
+
+AGT>> Se me ocurre que con tanto cambio de e-mail,
+AGT>> seria conveniente, que cada quien dispusiese de un icono
+AGT>> identificatorio y lo ponga en su mail.
+AGT>> .Visualmente resultaria mas comodo
+AGT>> encontrar el que queres responder y también eludir los junk-mail
+
+M> Par eso sirve que le pongas automaticamente la iniciales del que
+M> escribe el mensaje original, seguro eso tiene una palabra tecnica
+M> infotonta que lo identifique, preguntale a Grouco o a Harpo ellos
+M> deben saber como se hace en el outlook express yo tengo the bat y
+M> se hace desde la editor de la cuenta en propiedades.
+
+En el Outlook Express no se puede hacer eso.
+Y lo que ellos piden es un iconito en el lugar del sobrecito gay.
+Asi no tenes que leer el nombre para saber de quien es el mensaje.
+
+
+-- 
+Groucho Marx
+Venía a las chuequiadas como loro en baldosa
+
+
+

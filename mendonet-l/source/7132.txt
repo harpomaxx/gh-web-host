@@ -1,0 +1,42 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 8 Nov 2000 00:21:31 -0000
+Received: (qmail 18892 invoked from network); 8 Nov 2000 00:20:58 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 8 Nov 2000 00:20:58 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 8 Nov 2000 01:22:02 -0000
+Received: from antro.micasa ([200.41.31.43]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id VAA09974 for <mendonet-l@egroups.com>; Tue, 7 Nov 2000 21:24:03 +0300 (GMT)
+Date: Mon, 6 Nov 2000 13:20:14 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <2555.001106@...>
+To: Marc <mendonet-l@egroups.com>
+Subject: Re[4]: pregunta
+In-reply-To: <13613.001105@...>
+References: <13613.001105@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 05/11/2000, Marc confiado escribió:
+
+>>>>   Trabajo para una empresa de turismo.
+>>>>   Ironico ¿no?.
+>>>>   no
+
+GM>> Ya lo decidi: No es ironico.
+M>      Que decidiste?
+
+Como dije, decidi que no es ironico.
+Que no es ironico te preguntaras?
+Que sea extranjera y guia de turismo.
+
+-- 
+Groucho Marx
+No hay que confundir introspección con rectoscopía.
+
+
+

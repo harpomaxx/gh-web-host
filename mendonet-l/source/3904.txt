@@ -1,0 +1,49 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0); 12 Oct 2001 16:32:10 -0000
+Received: (qmail 34147 invoked from network); 12 Oct 2001 16:32:09 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.221 with QMQP; 12 Oct 2001 16:32:09 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta1 with SMTP; 12 Oct 2001 16:35:21 -0000
+Received: from a200042124194.rev.prima.com.ar ([200.42.124.194])
+  by softhome.net with esmtp; Fri, 12 Oct 2001 10:31:32 -0600
+Date: Fri, 12 Oct 2001 13:18:47 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Sebas <xebax@...>
+X-Priority: 3 (Normal)
+Message-ID: <18554.011012@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: Re[2]: rodralez disco rayado
+In-reply-To: <20011011151712.C15894@...>
+References: <20011011151712.C15894@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+
+GM> No, eso es expresividad. El tipo hizo un "arreglo" de la partitura que volvio
+GM> mas expresiva la musica, que pruebas hay de que lo que el tipo haya sentido
+GM> haya tenido alguna influencia?
+Que lo hace simultáneamente a la interpretación, y lo hace sin pensar.
+
+GM> Yo hago una analogia con los actores.
+Está mal... hablamos de músicos, no de actores.
+
+>> Probablemente si est�s triste, y toqués como te nace, sea muy distinto
+>> a si est�s eufórico... si la audiencia, sin mirarte, puede decir cual
+>> corresponde a qué estado, entonces decís "este tipo toca con
+>> sentimiento".
+GM> Cierto. Y es bueno o malo que un interprete deje traslucir sus sentimientos en
+GM> la obra que interpreta?
+Para él, bueno, para los demás, depende cómo te gusta más.
+
+
+-- 
+Sebas   
+Estamos tan pervertidos que la inhabilidad de lo ingenuo nos parece el "sumun" del arte.                       
+
+
+

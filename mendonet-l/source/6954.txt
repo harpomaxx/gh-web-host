@@ -1,0 +1,51 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 04:35:06 -0000
+Received: (qmail 13244 invoked from network); 15 Nov 2000 04:35:06 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 15 Nov 2000 04:35:06 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 15 Nov 2000 04:35:05 -0000
+Received: from antro.micasa ([200.41.31.114]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA05793 for <mendonet-l@egroups.com>; Wed, 15 Nov 2000 01:38:20 +0300 (GMT)
+Date: Wed, 15 Nov 2000 00:52:45 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1936.001115@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[3]: Perdonen mi ignorancia
+In-reply-To: <18529.001114@...>
+References: <18529.001114@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 14/11/2000, Sebas curiosamente mencionó:
+
+>>> > Esta mina te está jodiendo... mirá que a mí me gusta la poesía críptica y
+>>> he
+>>> > leído alguna que otra cosa, pero ya las heterocedasticas proxies y las
+>>> bolas
+>>> > del gato son demasiado para mi escaso entendimiento.
+>>> 
+>>> ¿Qué es la poesía críptica? ¿Qué autores la cultivan?
+hsn>> Yo he leido algo de Joseph P. GoodPrivacy, No me resulto demasiado dificil
+hsn>> entenderlo. 
+S> ¿GoodPrivacy? Si es un chiste no lo entiendo, si es real, no lo
+S> conozco.
+
+PGP, Tonton!!!
+
+Sistema de criptografia PGP -> poesia criptica -> Joseph P.
+GoodPrivacy -> gracioso.
+
+Ok?
+
+-- 
+Groucho Marx
+No se preocupe, señor presidente. Har� saborear a esos jóvenes un poco del
+mundo real. -- Homero J. Simpson.
+
+
+

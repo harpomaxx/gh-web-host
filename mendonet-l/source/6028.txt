@@ -1,0 +1,84 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_3); 21 Jun 2001 23:03:19 -0000
+Received: (qmail 4418 invoked from network); 21 Jun 2001 23:03:19 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 21 Jun 2001 23:03:19 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 21 Jun 2001 23:03:19 -0000
+Received: (qmail 18066 invoked by uid 417); 21 Jun 2001 23:06:15 -0000
+Received: from unknown (HELO 200-41-31-109-rdunysd1.impsat.net.ar) (200.41.31.109) by i-softhome-tango with SMTP; 21 Jun 2001 23:06:15 -0000
+Date: Thu, 21 Jun 2001 20:03:14 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <2835.010621@...>
+To: mendonet-l@yahoogroups.com
+Subject: =?ISO-8859-1?B?UmU6IE1pIGNvbXB1dGFkb3JhIGVzdOEgc2VuaWw=?=
+In-reply-To: <9671.010618@...>
+References: <9671.010618@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Tuesday, June 19, 2001, 4:06:40 PM, you wrote:
+
+
+S> Por empezar, les pido que respeten mi ignorancia. En segundo lugar,
+S> les pido que valoren el esfuerzo que hice por hacerles llegar datos
+S> útiles. Y por último, les pido que se imaginen que algún día ustedes
+S> van al médico(que resulto ser yo), les digo que necesitan un
+S> transplante de riñon y cuando entramos al quirófano en vez de ponerles
+S> un riñón(que no tenía) les puse un testículo de toro... feo, no?
+
+S> El tema es el siguiente: tengo una computadora(en esta que estoy
+S> escribiendo) con un pentium de 166 y 16 megas de ram. Lentasa para lo
+S> que necesito. Mis problemas se verían medianamente resueltos si
+S> tuviera 32 en vez de 16. Desconozco el tipo de memoria que tiene mi
+S> computadora, asíque recién la abrí, las miré y acá va la
+S> descripción... ponganl� un poco de huevo, que si no no lo van a
+S> entender:
+
+S> La plaquita esta tiene cuatro "bloquecitos". 1 es igual que cuatro, y
+S> 2 es igual que 3(los números se los puse yo, obvio que no están en la
+S> placa.
+S>  ______________________________________________________
+S> [ _____________  _________  _________  ______________  ]
+S> [ [     1      ][    2    ][    3    ][     4        ] ]
+S> [ [____________][ ________][_________][______________] ]
+S> [______________________________________________________]
+
+S> Los bloques uno y cuatro tienen 21 rayitas plateadas cada uno(¿pines?)
+S> Los bloques 2 y 3 constan de 2 segmentos de 5 rayitas iguales a las
+S> anteriores cada uno. O sea:
+S> Bloque 1      bloque 2       bloque 3       bloque 4
+S>   21      +    5+5       +     5+5      +      21     = 62 rayitas
+
+S>   son dos placas iguales, y tengo espacio para dos más.
+
+S>   La pregunta es : ¿que tipo de memoria tengo?¿simm, dimm, de cuántos
+S>   pines?
+S>   Punto dos: ¿a cuánto y dónde las compro? Mis recursos económicos son
+S>   limitadísimos.
+S>   Punto 3:¿alguno de ustedes me puede vender(por no decir regalar) lo
+S>   que necesito?
+
+
+Con esa descripción si las tuviera te las regalo, no vaya ha ser
+sierto lo del riñon,
+lo que tenias que contar eran las manchitas de metal de cobre que hacen
+contacto con el zocalo de la placa madre, lo mismo deduzco que son
+simm de 8mb cada uno. Y como los riñones también se consiguen en el
+mercado negro  jaja :�)
+En serio quizá Groucho tenga 8Mb para vender o mas.
+
+-- 
+  nadie, apoltronado en la tibieza de una vida timorata,
+  puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                            
+
+
+

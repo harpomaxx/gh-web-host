@@ -1,0 +1,45 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 4 Jun 2002 21:35:39 -0000
+Received: (qmail 44954 invoked from network); 4 Jun 2002 21:35:38 -0000
+Received: from unknown (66.218.66.218)
+  by m6.grp.scd.yahoo.com with QMQP; 4 Jun 2002 21:35:38 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 4 Jun 2002 21:35:38 -0000
+Received: (qmail 10010 invoked by uid 417); 4 Jun 2002 21:35:38 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 4 Jun 2002 21:35:38 -0000
+Received: from modem79-as1.mendoza.sinectis.com.ar ([216.244.255.79])
+  by softhome.net with esmtp; Tue, 04 Jun 2002 15:35:36 -0600
+Date: Wed, 5 Jun 2002 06:31:51 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <1272.020605@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbMl06IFJlc3VtZW4gbvptZXJvIDczMg==?=
+In-reply-To: <200112182358.38620@X-KASTOR >
+References: <200112182358.38620@X-KASTOR >
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+Puta madre!
+
+O  sigo  con  problemas  y  no  recibo  nada de mendonet, o nadie está
+escribiendo... será efecto mundial...?
+
+Lupus
+
+-- 
+
+  * Aquí el que no corre, vuela. (Un terrorista)                
+
+
+

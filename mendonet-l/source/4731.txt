@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:28 -0000
+Received: (qmail 38300 invoked from network); 19 Sep 2001 07:05:28 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.221 with QMQP; 19 Sep 2001 07:05:28 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta1 with SMTP; 19 Sep 2001 07:05:36 -0000
+Received: (qmail 8795 invoked by uid 1005); 18 Sep 2001 18:05:33 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.177393 secs); 18/09/2001 15:05:32
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 18:05:31 -0000
+Date: Tue, 18 Sep 2001 15:05:29 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <003101c13b22$d6c13e40$6301a8c0@g8> <8919.010911@...> <OE16j0CYixMwInhdAHx00003ff3@...>
+In-Reply-To: <OE16j0CYixMwInhdAHx00003ff3@...>
+Subject: Re: Re[2]: =?iso-8859-1?q?=BFEl=20islam=20hizo=20justicia=3F?=
+MIME-Version: 1.0
+Message-Id: <01091815052903.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 14 Sep 2001 00:08, escribiste:
+
+> > No sé que va a pasar, y si ien me preocupa, tengo otro tema en la
+> > cabeza...¿ALGUIEN SABE PORQUÉ CONCHA DE LA RUA DECRETO DUELO
+> > NACIONAL? No murieron argentinos
+>
+> como sabes que entre 10000, no habian argentinos
+
+No es el punto. El punto seria en todo caso como sabia De la Rua que 
+habia argentinos?
+Obviamente no sabia aun, asi que ese tampoco es el punto.
+
+El punto es que hay que quedar bien con unos tipos que estaban a punto 
+de darnos plata y que ahora que estan pensando en sus propios problemas 
+quizas no nos den un carajo. Entonces hay que mantenerse dentro de su 
+atencion con actitudes como esa.
+
+-- 
+Groucho Marx
+

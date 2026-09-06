@@ -1,0 +1,47 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: unknown); 12 Mar 2002 00:21:20 -0000
+Received: (qmail 54094 invoked from network); 12 Mar 2002 00:21:20 -0000
+Received: from unknown (216.115.97.171)
+  by m9.grp.snv.yahoo.com with QMQP; 12 Mar 2002 00:21:20 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (66.54.152.30)
+  by mta3.grp.snv.yahoo.com with SMTP; 12 Mar 2002 00:21:19 -0000
+Received: (qmail 19661 invoked by uid 417); 12 Mar 2002 00:21:19 -0000
+Message-ID: <20020312002119.19660.qmail@...>
+References: <20020310023050.GG1450@...>
+            <4553.020310@...>
+In-Reply-To: <4553.020310@...>
+To: mendonet-l@...
+Subject: Re: Re[2]: your mail
+Date: Tue, 12 Mar 2002 00:21:19 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+X-Sender: rodralez@...
+From: rodralez@...
+X-Yahoo-Group-Post: member; u=3415981
+X-Yahoo-Profile: rodralez
+
+
+Marc writes:
+
+> GM> La computadora esta confirmandote que la encendiste. Realimentacion...
+> GM> Ya que en esa etapa temprana de la inicializacion
+> GM> todavia no se saba si tenes monitor y si anda, lo unica forma que 
+>     tiene
+> GM> la computadora de llamarte la atencion, es haciendo ruidito.
+
+> GM> Yo por ejemplo en mis diseños de microcontroladores suelo hacer
+> GM> que escriban cosas como "I'm alive!" en un display de LCD.
+
+> ejh, ya me robo la idea.
+
+No ti hagá la que inventaste la rueda !... eso ya está visto.
+Además, la frase para inicializar cualquier dispositivo es HELLO WORLD.
+
+No sean herejes y aliniensennn al eje del bien.
+
+rodralez
+

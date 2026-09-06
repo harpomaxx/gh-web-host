@@ -1,0 +1,87 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_2); 22 Nov 2000 15:37:49 -0000
+Received: (qmail 39159 invoked from network); 22 Nov 2000 15:37:49 -0000
+Received: from unknown (10.1.10.27) by l8.egroups.com with QMQP; 22 Nov 2000 15:37:49 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.83) by mta2 with SMTP; 22 Nov 2000 15:37:41 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id MAA10751 for mendonet-l@egroups.com; Wed, 22 Nov 2000 12:29:14 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Wed, 22 Nov 2000 12:29:14 -0300
+To: mendonet-l@egroups.com
+Subject: Re: (Harpo) A todo esto...
+Message-ID: <20001122122914.I10684@...>
+References: <003801c04b2b$331d2980$a47c2ac8@tepes> <515.001111@...> <010001c04d08$d987b2c0$9a4afea9@hfgg> <20001113150007.C2007@...> <000801c05064$4671f900$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <000801c05064$4671f900$9a4afea9@hfgg>; from babasonica@... on Thu, Nov 16, 2000 at 05:55:00AM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Thu, Nov 16, 2000 at 05:55:00AM -0300, LCB dijo:
+> Perfecto. Pero pensá que vos hablás del lado de lo técnico. Yo hablo de
+> parte del consumidor (ojo! no dije "artista").
+> Internet llega a las personas mas simples. Los usuarios ya no son solo
+> expertos en sistemas.
+> El objetivo de las páginas (por lo menos las .com) es que sus páginas sean
+> visitadas, vender productos, etc. Y no solo que "el texto sea leído".
+> ¿Cuáles son los ganchos para esto?... Varios. Entre ellos, un buen diseño,
+> simple, pero ala vez llamativo,a trapador, coherente con el tema tratado,
+> dinámica, no-aburrida, que avive los sentidos del usuario, que no lo duerma.
+
+Seguro que es asi. Internet es un medio de comunicacion mas, y por lo tanto
+tendra "productos" destinados a distintos ambitos. 
+La gente del ambito de lai nvestigacion no le interesa que las paginas se vean
+ lindas. Sino que la informacion que estas contengan, valgan la pena.
+Como aclare en mi otro mail (parece que no quedo claro) si tenemos buena
+informacion+belleza+velocidad de acceso= SUPERPAGINA! COOL!!
+
+No asi para Pepe Losquesea.com que lo unico que quiere es Boludear por la red.
+Para el las paginas deben ser lindas, de manera excluyente.
+
+ 
+> > Sin embargo todo se reduce a la velocidad. Si las paginas se cargaran en
+> menos
+> > de 1 segundo, no tendría drama en que se la llene de imágenes y botones
+> por
+> > todos lados.
+ 
+> Pero el tratar de conseguir esos objetivos que acabo de nombrar no va a
+> implicar que la página vaya a quedar pesada. Solo basta saber elegir bien
+> Calcumill, se dan vuelta para mirar a quién?? (iba a poner a Nicole como
+> ej., pero también vale el contenido).
+
+Seguro, estamos de acuerdo en eso. Pero como vos bien dijiste depende si
+queres conseguir SPONSOR o no? muchas paginas no estan colocadas para
+conseguir SPONSOR. Y MUCHAS MAS SI!
+O sea vuelvo a repetir... dependera a quien este dirigida la pagina.
+
+ 
+> Creo que hoy por hoy el diseño y armado de una página web no le corresponde
+> solo al técnico, al programador o a alguien de ese rubro, sino que es un
+> trabajo en conjunto entre artista y técnico, a menos que seas Goofer, que es
+> los 2 en uno.
+
+Hace ya como unos 5 anios que se sabe que las WEBPAGES se realizan con un
+grupo de 3 personas Disenador,Programador,Coordinardor (Hombre de las ideas)
+
+
+> De todas formas, respecto a la página del Malbec, los dibujos y la onda de
+> los sponsors me parecieron muy copados, pero no creo que sean coherentes con
+> la onda de la página.
+> No creo que a los enólogos, catadores y etcéteras que visitan la página, eso
+> le parezca cool (sobre todo por que ni creo que conozcan la palabra cool).
+
+Uhmm.. no se, no tengo muy claro a quien esta orientado esa pagina, si a
+investigadores o gente como Pepe Loquesa.com
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

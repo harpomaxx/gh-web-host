@@ -1,0 +1,72 @@
+From Recabarren@...  Sat Jul 11 23:23:58 2020
+X-Mailer: Mozilla 4.03 [en] (Win95; I)
+To: mendolist <mendonet-l@egroups.com>
+From: Santiago Imazio <Recabarren@...>
+MIME-Version: 1.0
+Mailing-List: list mendonet-l@egroups.com; contact
+
+mendonet-l-owner@egroups.com
+Delivered-To: mailing list mendonet-l@egroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:mendonet-l-unsubscribe@egroups.com>
+Date: Wed, 19 Jul 2000 01:33:36 -0300
+Reply-To: mendonet-l@egroups.com
+Subject: Una pregunta ...
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+Status:   
+
+La fecha que tiene es miercoles 19 de julio de 2000 a la 1:33:36 hora
+de la Argentina.
+Mi programa de correo es muy copado y me muestra una columna con el
+titulo "creado" donde figura precisamente esa hora, y en otra columna
+titulada "recibido" me muestra el momento en el que llego el mensaje
+a mi maquina. Esa fecha es un invento de mi programa y no forma parte
+de la cabecera del mensaje.
+
+Si el tuyo muestra 1:33 entonces muestra lo que deberia. Si muestra
+cualquier otra hora que termine en :33 entonces tu maquina no sabe que
+esta en la Argentina (tenes configurado para el orto el huso horario)
+o bien, el programa de correo es una mierda y no presta atencion al
+huso horario.
+Si muestra alguna otra hora, hay varias lineas en la cabecera que
+registran por donde ha ido pasando el mensaje (y que yo borre porque
+me la aguanto). Si el programa es tan estupido de mostrar una de esas,
+entonces deja de usarlo de una buena vez!
+
+SI> En algunos casos, (los mensajes del exterior para ser exactos), cuando
+SI> abro el mensaje, donde dice Date la hora es diferente a la que figura en
+SI> el inbox. 
+
+Aha!!! Entonces o en el inbox muestra la hora de recepcion, o bien el
+programa esta tan mal hecho que a veces le presta atencion al huso
+horario y a veces no.
+Cuando recibis mensajes de tu mismo huso horario, coinciden y ves las
+fechas iguales, pero en otros casos no. Un asco!
+Si los minutos y segundos coinciden, es un problema de huso horario.
+
+
+SI> ¿Porque es esto?
+
+Basicamente porque el desarrollo de los protocolos y estandares de
+Internet es caotico. Cada cual hace lo que le parece, y si es una
+buena idea, se publica y todos empiezan a usarla.
+(por cierto, ese tipo de dinamica social es lo que llamo liberalismo
+anarquico por mas que Sebas diga que es una contradiccion).
+Entonces no hay uniformidad de criterios.
+Si al Outlook se le da la gana de mostrar una hora, y al Messenger
+otra distinta, todo bien en cuanto a lo que al funcionamiento del
+e-mail concierne.
+
+En otros sistemas de correo cerrados (como Microsoft Mail, Lotus Notes
+y esas cagadas) hay un gerente de algo en una empresa que se asegura
+que la fecha que se muestre en todos lados sea la misma.
+Pero eso no va a ocurrir en Internet.
+
+-- 
+Groucho Marx
+La duración de un minuto depende de en qué lado de la puerta del baño se
+encuentre Ud.
+
+
+

@@ -1,0 +1,53 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:33 -0000
+Received: (qmail 28441 invoked from network); 19 Sep 2001 07:05:33 -0000
+Received: from unknown (10.1.10.27)
+  by l8.egroups.com with QMQP; 19 Sep 2001 07:05:33 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta2 with SMTP; 19 Sep 2001 07:05:29 -0000
+Received: (qmail 9004 invoked by uid 1005); 18 Sep 2001 19:32:08 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.180655 secs); 18/09/2001 16:32:06
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 19:32:05 -0000
+Date: Tue, 18 Sep 2001 16:32:05 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <4957.010907@...> <3BA3BFC1.CF0272D7@...> <1611829672.20010916210521@...>
+In-Reply-To: <1611829672.20010916210521@...>
+Subject: Re: Re[2]: Se acabo sebitas... UFA!
+MIME-Version: 1.0
+Message-Id: <0109181632050D.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Dom 16 Sep 2001 21:05, escribiste:
+
+> SI> Uuh, resuelve ecuaciones de segundo grado.
+>
+> Ecuaciones de segundo grado??????????????
+> jajajaja
+> no necesitas muchos conocimientos para eso.
+> Yo me referia a la integracion en el tiempo de una ecuacion
+> diferencial de 2º orden mediante el metodo de newmark 1/4.
+
+
+Ese es tu mejor material? Un metodo numerico para ED de segundo orden 
+de coeficientes constantes?
+
+Cuando sepas como resolver una ecuacion de diferencias de orden 
+elevado, mediante transformada Z, para calcular un filtro de respuesta 
+impulsiva finita que se ajuste a un modelo de Cauer, hablemos de nuevo.
+
+Y no, ese no es *mi* mejor material, eso son pavadas de segundo año 
+aplicadas a pavadas de 4to año.
+
+
+
+-- 
+Groucho Marx
+

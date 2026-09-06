@@ -1,0 +1,73 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 8 May 2002 01:40:21 -0000
+Received: (qmail 30381 invoked from network); 8 May 2002 01:40:21 -0000
+Received: from unknown (66.218.66.218)
+  by m2.grp.scd.yahoo.com with QMQP; 8 May 2002 01:40:21 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.56)
+  by mta3.grp.scd.yahoo.com with SMTP; 8 May 2002 01:40:20 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 174uFv-0005Wx-00
+	for <mendonet-l@...>; Mon, 06 May 2002 22:59:07 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 174uFv-0005Wm-00
+	for <mendonet-l@...>; Mon, 06 May 2002 22:59:07 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[6]: Un fernet para Fermat, por lo grosso.
+Date: Tue, 7 May 2002 01:49:48 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <E1741GA-0002wq-00@...> <113.020506@...>
+In-Reply-To: <113.020506@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E174uFv-0005Wm-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Lun 06 May 2002 00:04, escribiste:
+
+> GM> Y hablando de comprobacines inductivas incompletas por
+> GM> computadora, la primera vez que escuche hablar del teorema de
+> GM> Fermat fue en 1993 (antes de que se lo demostrara) cuando me
+> GM> propusieron escribir un programa de computadora que explore el
+> GM> espacio de soluciones de la hipotesis de Fermat. El que hiciera
+> GM> el programa que explorara una fraccion mas grande del espacio de
+> GM> soluciones en el menor tiempo ganaba una suscripcion gratis a la
+> GM> revista que proponia el desafio...
+>
+> ¿y? No lo escribiste o no llegaste a ningún lado con el algoritmo...?
+
+El problema tenia 3 partes:
+
+- Encontrar una forma de visitar ordenadametne todos los puntos 
+(x,y,z,n>2) del espacio entero tetradimensional N^4 logrando que x*y*n 
+(figura de merito de la amplitud de la exploracion) sea lo mas alta 
+posible. En otras palabas: era mejor probar con x de 1 a 3, y de 1 a 3  
+y n de 2 a 3  (8 valores distintos) que probar x de 1 a 20, y de 1 a 1 
+y n de 2 a 2 (20 valores distintos).
+- Encontrar algunos teoremitas que permitan evitar evaluar ciertos 
+puntos, reduciendo el espacio de exploracion: por ejemplo, si pruebo 
+que para x=M, y, z y n dados la relacion de Fermat no se cumple, 
+tampoco se cumplira para x>M, y los mismos y,z,n (si ya me pase, no 
+sigo buscando).
+- Desarrollar rutinas de calculo matematico de precision ilimitada, de 
+alta velocidad para operaciones de suma, exponenciacion, incremento y 
+comparacion y quizas radicacion, porque los formatos numericos 
+manejados por el hardware o las rutinas e biblioteca del lenguaje 
+normalmente no permiten manejar numeros de las de 32 bits, o sea algo 
+asi como 4e9 en notacion cientifica.
+
+Yo me enfrasque el la parte 3 y me aburri pronto.
+
+-- 
+Herr GrouchoX
+
+
+
+

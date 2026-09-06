@@ -1,0 +1,96 @@
+From cabeza@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cabeza@...>
+X-Sender: cabeza@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 4 Dec 2002 02:11:10 -0000
+Received: (qmail 29986 invoked from network); 4 Dec 2002 02:11:10 -0000
+Received: from unknown (66.218.66.218)
+  by m4.grp.scd.yahoo.com with QMQP; 4 Dec 2002 02:11:10 -0000
+Received: from unknown (HELO muddy.fedped.com.ar) (200.80.38.162)
+  by mta3.grp.scd.yahoo.com with SMTP; 4 Dec 2002 02:11:09 -0000
+Received: (qmail 28936 invoked from network); 4 Dec 2002 02:11:38 -0000
+Received: from unknown (HELO stimpy.fedped.com.ar) (192.168.109.11)
+  by 192.168.109.10 with SMTP; 4 Dec 2002 02:11:38 -0000
+Received: (qmail 1086 invoked from network); 4 Dec 2002 02:11:07 -0000
+Received: from localhost (HELO localhost.localdomain) (federico@127.0.0.1)
+  by localhost with SMTP; 4 Dec 2002 02:11:07 -0000
+Subject: Re: sobre creencias y religiones
+To: mendonet <mendonet-l@...>
+In-Reply-To: <16916.021203@...>
+References: <002801c29975$b0aff4a0$0e6da8c0@hastaelojo> 
+	<16916.021203@...>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Ximian Evolution 1.0.8 
+Date: 03 Dec 2002 23:11:06 -0300
+Message-Id: <1038967867.954.9.camel@stimpy>
+Mime-Version: 1.0
+From: cabeza <cabeza@...>
+X-Yahoo-Group-Post: member; u=76414316
+X-Yahoo-Profile: c_a_b_e_z_a
+
+On Tue, 2002-12-03 at 22:00, Sebas wrote:
+> MS>  MS> ..., soy Ateo y creo q=
+ue las religiones son
+> MS>> herramientas de un sistema de control y repres=
+ion.
+
+bla bla bla
+
+> MS> lo primero que tenes que hacer es no inventar ni a=
+gregar nada que confundan
+> MS> tus fines.
+> =BF=A1...!? Vas a tener que di=
+scutir con un profesional sobre tu paranoia.
+> 
+> MS>  En ningun momento ha=
+ble de "creencias",
+> =BFY?
+> 
+> MS> Jamas hable de que las religiones fuer=
+an anteriores o posteriores a las
+> MS> creencias, solo he dicho que pienso=
+ que las religiones son una herramienta
+> MS> de un sistema de control y re=
+presion.
+> Y yo dije que coincidia... ademas de paranoia, tenes probl=
+emas de
+> comprension lectora... si no fuera porque en parte coincido con=
+ la
+> unica opinion que has tirado, ya estarias condenado, como le su=
+cedio a
+> Oxiuro.
+
+
+voy a tener que actuar...
+
+
+'echo 0 > /Rr.Ska/proc/br=
+ain/paranoic_mode'
+ 
+creo que sera suficiente con eso
+por suerte creo que t=
+odavia tengo acceso al cerebro del niño ska.
+
+
+
+
+
+-- 
+Key:  gpg --keyserv=
+er pks.lugli.org.ar --recv-keys 7FDAFC1F 
+Key fingerprint: 24BD BD54 5F9C D=
+D77 C38B  0758 7290 34CD 48FA CE01
+"Yo creo que la television esta haci=
+endo mucho por la cultura. En mi
+caso concreto cuando alguien enciende el t=
+elevisor, me voy
+inmediatamente a otra habitacion y me pongo a leer un li=
+bro." (Groucho
+Marx)
+
+
+
+
+
+

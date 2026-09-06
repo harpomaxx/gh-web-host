@@ -1,0 +1,45 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 31 Aug 2001 05:04:21 -0000
+Received: (qmail 11231 invoked from network); 31 Aug 2001 05:04:17 -0000
+Received: from unknown (10.1.10.27)
+  by l7.egroups.com with QMQP; 31 Aug 2001 05:04:17 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.6)
+  by mta2 with SMTP; 31 Aug 2001 05:04:15 -0000
+Received: (qmail 9489 invoked by uid 1005); 29 Aug 2001 18:27:29 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.178109 secs); 29/08/2001 15:27:28
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 29 Aug 2001 18:27:27 -0000
+Date: Wed, 29 Aug 2001 15:27:27 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <01082520550006.00458@cubil> <10907.010827@...>
+In-Reply-To: <10907.010827@...>
+Subject: Re: Re[6]: =?iso-8859-1?q?=BFBuenas=3F=20y=20etc=2E=2E=2Ede=20uno=20nuevo?=
+MIME-Version: 1.0
+Message-Id: <01082915272702.00455@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 27 Ago 2001 21:47, escribiste:
+
+> GM> Me basta con ignorarlas y no dejarme vencer con lo que puedan
+> GM> hacer por haber ignorado esas antinaturales leyes. De lograrlo,
+> GM> habre logrado que tales leyes no tengan poder, es decir, que no
+> GM> existan mas. (una ley que no se cumple no es una ley).
+> ¿Qué harías, por ejemplo con la cárcel?
+> Si voy a la cárcel, que sea por haberles ocasionado algún mal, no por
+> haber copiado un programita sin pagar.
+
+Si voy a la carcel por eso, hago lo que explique: ignoro el hecho y no 
+me dejo vencer.
+Pueden encerrarme entre 4 paredes, mientras no logren hacerme cambiar 
+de idea, el que gana soy yo.
+
+-- 
+Groucho Marx
+

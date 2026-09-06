@@ -1,0 +1,47 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 7 Mar 2003 21:03:38 -0000
+Received: (qmail 42690 invoked from network); 7 Mar 2003 21:03:38 -0000
+Received: from unknown (66.218.66.218)
+  by m8.grp.scd.yahoo.com with QMQP; 7 Mar 2003 21:03:38 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 7 Mar 2003 21:03:38 -0000
+Received: (qmail 9349 invoked by uid 417); 7 Mar 2003 21:03:37 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 7 Mar 2003 21:03:37 -0000
+Received: from dup-200-42-124-159.prima.net.ar ([200.42.124.159])
+  by softhome.net with esmtp; Fri, 07 Mar 2003 14:03:33 -0700
+Date: Fri, 7 Mar 2003 17:56:16 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <9747.030307@...>
+To: Herr Groucho <mendonet-l@...>
+Subject: Re[2]: Algo
+In-reply-To: <3E674CC1.1020102@...>
+References: <3E674CC1.1020102@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> varias palabras juntas, todas las que recibe de un golpe de vista. Si
+>> dentro de un golpe de vista caen tres palabras, por ejemplo
+>> "estoy escribiendo boludeces",
+
+HG> Es la misma explicacion que di yo hace 3 meses en otra lista de correo.
+Mmmhh... y?
+
+HG> Y la misma que salio en Los Andes este domingo.
+Ah, mirá vos... el título no era muy sugestivo y obvié la nota. La voy
+a buscar y leer.
+
+-- 
+Sebas   
+Todas las discusiones entre personas son discusiones dialecticas. El mundo no cambia: solo lo que  uno cree del mundo cambia. Groucho.                       
+
+
+

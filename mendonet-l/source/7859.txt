@@ -1,0 +1,33 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_0); 25 Oct 2000 19:29:27 -0000
+Received: (qmail 48512 invoked from network); 25 Oct 2000 19:05:13 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 25 Oct 2000 19:05:13 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 25 Oct 2000 19:05:11 -0000
+Received: from antro.micasa ([200.41.31.25]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id QAA03018 for <mendonet-l@egroups.com>; Wed, 25 Oct 2000 16:07:57 +0300 (GMT)
+Date: Wed, 25 Oct 2000 16:01:00 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <15667.001025@...>
+To: mendonet-l@egroups.com
+Subject: Boring
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Groucho Marx <groucho@...>
+
+Mendonet se ha boringizado mucho, che...
+No me siento muy capaz de hacer algo al respecto, asi les pido a todos
+que escriban algo simpaticon...
+O al menos respondan a lo que los demas dicen...
+
+
+-- 
+Groucho Marx
+If I held you any closer I would be on the other side of you. -- Groucho Marx
+
+
+

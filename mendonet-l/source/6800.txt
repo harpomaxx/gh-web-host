@@ -1,0 +1,74 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 20 Nov 2000 16:00:04 -0000
+Received: (qmail 4412 invoked from network); 20 Nov 2000 15:59:43 -0000
+Received: from unknown (10.1.10.27) by m8.onelist.org with QMQP; 20 Nov 2000 15:59:43 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.87) by mta2 with SMTP; 20 Nov 2000 15:59:42 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC; Sun, 19 Nov 2000 13:26:31 -0800
+X-Originating-IP: [200.45.28.65]
+To: <mendonet-l@egroups.com>
+References: <004001c04f1f$1c7fec60$LocalHost@...> <000a01c05064$4cf5c220$9a4afea9@hfgg> <004601c0508c$eab13760$LocalHost@...>
+Subject: Re: duda boba
+Date: Sun, 19 Nov 2000 18:12:36 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE30pT0giSftNtzsG06000007bb@...>
+X-OriginalArrivalTime: 19 Nov 2000 21:26:31.0563 (UTC) FILETIME=[629C45B0:01C0526F]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Original Message -----
+From: Alejandro Gomez Talquenca
+To: mendonet-l@egroups.com
+Sent: Friday, November 17, 2000 8:52 AM
+Subject: RE: duda boba
+
+
+
+----- Original Message -----
+From: Mariana <babasonica@...>
+To: <mendonet-l@egroups.com>
+Sent: Thursday, November 16, 2000 5:55 AM
+Subject: RE: duda boba
+
+
+> >Tengo una duda
+>
+> >El texto de abajo, es críptico, Heterodastico o proxie?
+>
+> >basta
+> >no quiero más de muerte
+> >no quiero más de dolor o sombras
+> >mi corazón es espléndido como una palabra
+>
+> >mi corazón se ha vuelto bello como el sol
+> >que sale vuela canta mi corazón
+> >es de temprano un pajarito
+> >y después es tu nombre
+>
+> >tu nombre sube todas las mañanas
+> >calienta al mundo y se pone
+> >solo en mi corazón
+> >sol en mi corazón
+>
+> >                                         Juan Gelman
+>
+>
+> Es HTML.
+> ...Y esta vez no le estabas contestando nada a Morganti.
+
+
+Todo esto me pasa por ser un mal alumno y no ver el programa:"Educando a
+Morganti"
+
+
+mal hecho, es de lo mejor y muy instructivo (para todos,  excepto para mi,
+que me cuesta, vio')
+

@@ -1,0 +1,65 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_1); 22 Aug 2001 07:12:56 -0000
+Received: (qmail 3471 invoked from network); 22 Aug 2001 07:12:55 -0000
+Received: from unknown (10.1.10.142)
+  by l9.egroups.com with QMQP; 22 Aug 2001 07:12:55 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.42)
+  by mta3 with SMTP; 22 Aug 2001 07:12:54 -0000
+Received: (qmail 27440 invoked by uid 1005); 21 Aug 2001 18:53:16 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.174552 secs); 21/08/2001 15:53:15
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 21 Aug 2001 18:53:13 -0000
+Date: Tue, 21 Aug 2001 15:54:56 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <48843739.20010820204952@...> <1921.010821@...>
+In-Reply-To: <1921.010821@...>
+Subject: Re: =?iso-8859-1?q?=BFBuenas=3F?=
+MIME-Version: 1.0
+Message-Id: <01082115545602.00445@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 21 Ago 2001 00:31, escribiste:
+> >> hola... desde hoy integrare esta famosa lista!!!
+> >>
+> >> saludos a todos!!!
+>
+> O> buenas y bienvenido a la lista don kastor.
+>
+> ¿Qué fue de los días en que cada nuevo miembro era recibido con una
+> sarta de agresiones gratuitas?...
+
+Nueva politica de reclutamiento. Nuestra anterior politica espanto a 2 
+mujeres que podrian haber venido muy bien a algunos en aquella epoca (y 
+en esta!!).
+
+> Los usuarios de Linux:
+> ¿se sienten pertenecientes a una casta superior?
+> ¿forman un club con actividades extracurriculares como hacer carteles
+> que digan LINUX SOS MI VIDA  con firma del club de fans de Floresta?
+> ¿encuentran en linux la sensación de pertenencia que no encuentran en
+> otros grupos?
+
+Todo eso y mucho mas, Unite a los ganadores!
+(frase de los Simpsons, si no te justa, te arranco los ojos con una 
+cuchara y los hecho a los bolsillos traseros de tus pantalones para que 
+puedas ver como pateo tu trasero, otra frase de los Simpsons).
+
+
+> Suelo tener la sensación de que los usuarios de Linux consideran a
+> todo ser vivo que no lo use como una especie de idiota.
+
+Hay que serlo para seguir usando Windows.
+Vos eras antes un tipo de ideales... Creo que vas a entender y 
+compartir la filosifia del movimiento de software libre. Hechale una 
+mirada a http://www.fsf.org
+
+-- 
+Groucho Marx
+

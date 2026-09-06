@@ -1,0 +1,92 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 23 Apr 2002 18:04:13 -0000
+Received: (qmail 14179 invoked from network); 23 Apr 2002 18:04:13 -0000
+Received: from unknown (66.218.66.216)
+  by m5.grp.scd.yahoo.com with QMQP; 23 Apr 2002 18:04:13 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta1.grp.scd.yahoo.com with SMTP; 23 Apr 2002 18:04:12 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with SMTP id PAA08368
+	for <mendonet-l@...>; Tue, 23 Apr 2002 15:05:34 +0300 (GMT)
+Message-ID: <011d01c1eaf2$0b245440$060aa8c0@...>
+To: <mendonet-l@...>
+References: <E16yMGI-0007Js-00@...> <12904.020422@...>
+Subject: Re: Re[8]: (unknown)
+Date: Tue, 23 Apr 2002 15:09:42 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> >> Por si las dudas, defino conciencia como un todo dinámico  que
+> >> permite conocer el mundo, conocerse a sí mismo y conocer a las
+> >> operaciones que en el psiquismo tienen lugar.
+> GM> Que lastima que la conciencia no permita conocer las operaciones de la
+> GM> psiquis.
+> �...? Estoy diciendo que sí puede...  sabés que podés recordar, que
+> podés pensar, que podés dirigir tu atención...
+
+Deci lo que se te ocurra. Eso no te da la razon.
+Tambien se que ocurren procesos en mi mente de los que no soy conciente.
+Entonces cuando decis que la conciencia permite conocer las operaciones que
+en el psiquismo tienen lugar, estas equivocado. Deberias aclarar que permite
+conocer solo algunas operaciones, no todas.
+
+
+> GM> Por ejemplo, por mas que me esfuerce, no puedo distiguir la zona
+> GM> exacta
+> GM> del cerebro donde se lleva a cabo una operacion.
+> Eso es otra cosa... vos querés ubicar en dónde se ubica, pero sabés
+> que esa operación tiene lugar en tu psiquismo.
+
+Concedido. Ahora explicame como haces para conocer concientemente la parte
+incosciente de la mente? Por definicion no se puede.
+
+
+> GM> Es un principio fundamental de la psicologia que la introspecion no
+> GM> permite conocer con ceteza los propios procesos psiquicos.
+> Ese es otro tema.
+
+Si, es otro tema. Veo que no quedo claro que estaba exponiendo 2 argumentos
+complementarios...
+
+
+> GM> La consciencia en ese sentido, es una obra de teatro, una pelicula,
+> GM> una
+> GM> simulacion que el cerebro se va inventando a si mismo.
+
+> Me parece que mezclaste cosas.
+
+Si, un poco. Pero en este mail clarifique algo.
+Hay un experimento muy loco donde hay un tipo conectado a un
+electroencefalografo, y hay una ajuga girando. El sujeto tiene un pulsador
+con el cual puede detener la aguja donde se le de la gana.
+El eperimento consiste en pedirle al sujeto que detenga la aguja donde
+quiera, y preguntarle a que numero apuntaba la aguja cuando decidio
+detenerla.
+Aparentemente, uno decide voluntariamente  tomar una accion, y en una
+fraccion de segundo posterior, el cuerpo la lleva a cabo...
+Aparentemente el experimento mide el retardo entre la decision y la accion.
+
+Pero lo interesante es que el electroencefalograma registra actividad antes
+del momento en el que el sujeto dice que tomo la decision, y no despues.
+Coinclusion: si yo digo que voluntariamente decidi hacer algo en el tiempo
+t=0, pero mi cerebro "proceso" la decision en el tiempo t1<t, y como una
+consecuencia nunca puede preceder en el tiempo a una causa, entonces en que
+sentido uno tiene voluntad conciente?
+
+
+--
+Herr Grouchox
+
+
+

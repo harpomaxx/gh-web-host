@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 22648 invoked from network); 7 Jul 2000 20:32:05 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 7 Jul 2000 20:32:05 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 7 Jul 2000 20:32:03 -0000
+Received: from 200.41.31.106 ([200.41.31.106]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id RAA10685 for <mendonet-l@egroups.com>; Fri, 7 Jul 2000 17:34:44 +0300 (GMT)
+Date: Fri, 7 Jul 2000 17:35:16 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <4732.000707@...>
+To: Groucho Marx <mendonet-l@egroups.com>
+Subject: Re[2]: Buenas, soy el oxiuro!!
+In-reply-To: <15997.000705@...>
+References: <15997.000705@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 05/07/2000, Groucho histéricamente mencionó:
+
+GM> El 04/07/2000, gonzalo histéricamente recitó:
+
+gt>> Aver quién sabe esto:
+
+gt>> Se posee una lámina de cartón cuadrada de lado L y se
+gt>> desea hacer una caja sin tapa de volumen máximo: ¿Cuál
+gt>> deben ser las medidas de la base y la altura de las
+gt>> paredes para que se cumpla esto?
+gt>> por favor siéntanse libre de contestar y ya les tendrá
+gt>> nuevos problemas de la vida real.
+
+GM> Una duda: si cuando corto la caja me sobran pedacitos de carton..
+GM> puedo pegarlos con el resto para ampliar la caja, o la caja tiene que
+GM> quedar de una sola pieza de carton?
+
+Y si es sin tapa (como acabo de darme cuenta) la solucion es muy
+sencilla. Me tengo que ir a la facultad.
+Cuando vuelva mando la respuesta.
+
+-- 
+Groucho Marx
+El hombre desciende del mono. ¿Cuándo subió?
+
+
+

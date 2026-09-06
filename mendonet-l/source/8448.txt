@@ -1,0 +1,28 @@
+From morocho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <morocho@...>
+Received: (qmail 10461 invoked from network); 1 Sep 2000 14:35:29 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 1 Sep 2000 14:35:29 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 1 Sep 2000 14:35:29 -0000
+Received: (qmail 7568 invoked by uid 417); 1 Sep 2000 14:37:43 -0000
+Received: from mza2ppp-304.uc.infovia.com.ar (HELO LocalHost) (209.13.230.49) by smtpa.softhome.net with SMTP; 1 Sep 2000 14:37:43 -0000
+Message-ID: <000c01c014ea$a8319b60$31e60dd1@LocalHost>
+To: <mendonet-l@egroups.com>
+References: <967795553.23248@egroups.com>
+Subject: ERROR!!!!
+Date: Sat, 2 Sep 2000 11:32:33 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: "morocho" <morocho@...>
+
+>Che si reciben un mail que en el asunto dice Re: Resumen numero 193 es
+>porque me equivoque, el asunto es: "IN PURIBUS"
+>sorry, pero estaba apurado y no lo note.
+
+  Un poco mas de cuidado "huevo"!!!
+
+

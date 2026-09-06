@@ -1,0 +1,77 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 20 Apr 2002 13:25:52 -0000
+Received: (qmail 15809 invoked from network); 20 Apr 2002 13:25:51 -0000
+Received: from unknown (66.218.66.218)
+  by m11.grp.scd.yahoo.com with QMQP; 20 Apr 2002 13:25:51 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.25)
+  by mta3.grp.scd.yahoo.com with SMTP; 20 Apr 2002 13:25:50 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 16ykfe-00009e-00
+	for <mendonet-l@...>; Fri, 19 Apr 2002 23:32:14 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 16ykfd-00009T-00
+	for <mendonet-l@...>; Fri, 19 Apr 2002 23:32:13 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re:
+Date: Fri, 19 Apr 2002 23:10:38 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <018a01c1e7bf$f0d75c20$060aa8c0@...> <3585.020419@...>
+In-Reply-To: <3585.020419@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E16ykfd-00009T-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Vie 19 Abr 2002 14:03, escribiste:
+> Buenas y santas mi general, aquí, Evaristo Leguizamón, un servidor de
+> la causa criolla.
+>
+> >>  reenvio a todos los de mi libreta la informacion porque teniendo
+> >> el norton actualizado al dia no lo detecto y realizando los pasos
+> >> lo detecte.un beso
+> >>
+> >> > > tendrá el nombre de jdbgmgr.exe NO ABRIR POR NINGUN MOTIVO
+>
+> GM> Imbecil. jdbgmgr.exe no es un virus.
+> GM> Deberias confirmar la informacion que envias...
+> Sé mucho menos de computadoras, pero lo mío fue más preciso,
+> definitivamente más pedagógico.
+
+No se a que te referis con "lo mio". No encuentro ningun comentario 
+tuyo sobre este hoax... Seguramente ha existido tal comentario y lo he 
+pasado inadvertidamente por alto...
+No puedo sinembargo, congratularte de que hayas logrado ser mas preciso 
+y didactico a pesar de que sapas mucho menos de computadoras que yo, 
+puesto que por un lado yo no intentaba ser pedagogico (entonces no hay 
+merito en superarme), y por otro lado rehuso creer que exista mayor 
+precision que la por mi expuesta en la frase "jdbmgr.exe no es un 
+virus".
+
+El epiteto fue -naturalemente- un gesto de cortesia y buena voluntad.
+
+Estoy cansado de juzguen mis actos segun el resultado obtenido. No fui 
+pedagogico? No me interesa. Dije lo que tenia que decir de la forma en 
+la que tenia que ser dicha. Es un accidente desafortunado que la forma 
+manera correcta en este caso conduza a un resultado pobre. Por que voy 
+a tener que hacer las cosas de manera diferente a como soy, solo para 
+lograr unmejor resultado? Ese mejor resultado seria falso, porque lo 
+obtuve fingiendo un metodo que no me es propio.
+
+Estoy harto de los que van por la vida fijandose objetivos y 
+comprobando su cumplimiento, y demas estupida parafernalia teorica de 
+la administracion.
+
+-- 
+Herr GrouchoX
+
+
+
+

@@ -1,0 +1,65 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: unknown); 28 Feb 2002 17:00:00 -0000
+Received: (qmail 74495 invoked from network); 28 Feb 2002 16:59:59 -0000
+Received: from unknown (216.115.97.172)
+  by m8.grp.snv.yahoo.com with QMQP; 28 Feb 2002 16:59:59 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta2.grp.snv.yahoo.com with SMTP; 28 Feb 2002 16:59:58 -0000
+Received: from lagruta (rdumen1-200.41.21.70 [200.41.21.70] (may be forged))
+	by smtp5 (8.9.3/8.9.3) with SMTP id NAA29139
+	for <mendonet-l@...>; Thu, 28 Feb 2002 13:45:14 +0300 (GMT)
+Message-ID: <00c301c1c079$08699ec0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <003901c1be26$02b16760$911529c8@darinka> <20020227023310.GR7442@...> <002801c1c06d$75372100$5b1529c8@darinka>
+Subject: Re: alguien sabe...
+Date: Thu, 28 Feb 2002 13:56:49 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> > > alguien sabe desde donde puedo llamar a eeuu gratis, antes habia un
+> > > monton de lugares, ahora todos quieren cobrar o piden tarjeta de
+> > > credito, si alguien conoce una web o programa que pueda realiza
+> > > llamadas PC to PHONE me avisa!!
+
+> > 0,15 el minuto es inaceptable?
+> > Sin tarjeta de credito y sin preguntas?
+
+
+> 0.15 centavos el minuto es aceptable pero mucho mas aceptable si es
+> gratis como era antes, no pedian nada, ahora, no encuntro ningun
+> lugar para realizar las llamadas gratis, antes llamaba a canada, eeuu,
+> Madrid, no era lo mejor del mundo la calidad, pero por ser gratis
+> estaba muy bien.
+
+El sueño termino!!!
+Has visto ese capitulo de Futurama donde le hacen burlas a Napster?
+Entra un tipo y le dicen: es usted inversionista? Desea hechar su
+dinero a nuestro agujero negro?
+
+No creo que exista ningun lugar donde te dejen hacer llamadas gratis.
+
+Y los 15 centavos por minuto que te digo, no son con un programa pedorro
+PC to Phone sino con un telefono de verdad.
+Para que tolerar los 33,6 kbps a los que tu modem envia tu voz, sobre una
+red de datagramas, sin garantia de entrega ni retardo, si podes usar una
+red de 64 kbps, sincronica, orientada a conexion, con garantia de entrega,
+etc, etc.
+
+--
+Groucho
+
+--
+Groucho
+
+

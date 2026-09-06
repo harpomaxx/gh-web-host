@@ -1,0 +1,51 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:56:42 -0000
+Received: (qmail 64093 invoked from network); 5 Oct 2001 02:56:42 -0000
+Received: from unknown (10.1.10.27)
+  by m8.onelist.org with QMQP; 5 Oct 2001 02:56:42 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2 with SMTP; 5 Oct 2001 02:56:41 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id AAA24926
+	for <mendonet-l@...>; Fri, 5 Oct 2001 00:02:10 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pHZc-0000EA-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 20:06:36 -0300
+Date: Thu, 4 Oct 2001 20:07:23 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <12838.011004@...>
+To: Lupus <mendonet-l@...>
+Subject: Re: cambiando de tema...
+In-reply-To: <0699.011001@...>
+References: <0699.011001@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Lupus,
+
+Monday, October 01, 2001, 4:47:37 PM, you wrote:
+
+
+L> qué es para vos el alma? qué es para vos el
+L> espíritu? y es lo mismo una cosa que otra? y cómo se escribe la
+L> palabra "escusa"...?
+
+EXCUSA. Basta recordar que etimologicamente significa "EX-CAUSA, o
+sea, la causa esta en otros, la causa esta afuera).
+
+El resto lo dejo para otro momento porque se me juntaron 631 mensajes.
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

@@ -1,0 +1,63 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 27481 invoked from network); 2 Jun 2000 20:29:16 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 2 Jun 2000 20:29:16 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 2 Jun 2000 20:29:13 -0000
+Received: from ANTRO ([200.41.31.102]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id RAA26657 for <mendonet-l@egroups.com>; Fri, 2 Jun 2000 17:24:50 +0300 (GMT)
+Date: Fri, 2 Jun 2000 17:29:28 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <2728.000602@...>
+To: "fcanizo@..." <mendonet-l@egroups.com>
+Subject: Re: quotes mechas de groucho
+In-reply-To: <20000531105615.18575.qmail@...>
+References: <20000531105615.18575.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 31/05/2000, fcanizo furiosamente susurró:
+
+GM>>Era una noche de luna presagiosa, cuando Groucho dijo algo como:
+
+fuea> En cuanto a este tipo de quotes, me podrías comentar cómo
+fuea> los hacés?
+
+fuea> Si es un MUA en particular el que te lo permite o si usás un
+fuea> filtro propio. Lo que sea menester para saber como copiarlo,
+fuea> por favor.
+
+Uso un MUA particular, en este caso The Bat!
+Pero si quisiera, podria hacerlo con un filtro (si tuviera ganas de
+escribir uno, claro), ya que The Bat! es lo suficientemente mecha como
+para invocar filtros externos.
+
+The Bat! te deja especificar una plantilla para las respuestas, para
+los mensajes nuevos y asi por el estilo.
+En las plantillas, podes poner macros que se sustituyen por datos del
+mensaje o del sistema. Por ejemplo %RECIPIENT% se sustituye por lo
+que ya sabes.
+Hay macros muy cool.... Por ejemplo, unan macro es sustituida por la
+salida estandar de un programa que especificas como parametro de la
+macro. Otra macro %COOKIE% la sustituye por una linea elegida al azar
+de un archivo. Y otra macro inserta el texto de un archivo
+especificado.
+
+Usando la macro %COOKIE% tengo algo asi en la platilla:
+
+El %DATE% %FROM% %COOKIE%:"adverbios.txt" %COOKIE%:"verbos.txt":
+
+Entonces si tengo en esos archivos de texto una coleccion de verbos y
+advervios, resultan frases como las que vos viste.
+
+Lo de arriba es pseudocodigo, claro.
+
+
+-- 
+Groucho Marx
+Viene callado como buscando el envido
+
+
+

@@ -1,0 +1,65 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 11 Oct 2001 22:06:06 -0000
+Received: (qmail 61973 invoked from network); 11 Oct 2001 22:06:06 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.223 with QMQP; 11 Oct 2001 22:06:06 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta2 with SMTP; 11 Oct 2001 22:08:42 -0000
+Received: from gateway.micasa.org.ar (200-41-31-52-rdunysd1.impsat.net.ar [200.41.31.52])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id TAA01208
+	for <mendonet-l@...>; Thu, 11 Oct 2001 19:09:55 -0300 (GMT)
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15rkop-0004AJ-00
+	for <mendonet-l@...>; Thu, 11 Oct 2001 15:44:31 -0300
+Date: Thu, 11 Oct 2001 15:44:30 -0300
+To: mendonet-l@...
+Subject: Re: Antes del domingo
+Message-ID: <20011011154430.G15894@...>
+References: <00e501c14b29$9d9dee80$9a4afea9@hfgg> <4842.011004@...> <013901c15234$07ec7ac0$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <013901c15234$07ec7ac0$9a4afea9@hfgg>
+User-Agent: Mutt/1.3.22i
+From: Groucho Marx <groucho@...>
+
+On Thu, Oct 11, 2001 at 06:04:01AM -0300, Lady Marian wrote:
+
+> ... Respecto a lo de la reforma de la constitución... la verdad
+> que no me he interiorizado para nada en el tema, y ni ganas tengo
+> de hacerlo. Por eso pregunto... ¿SI o NO a la Reforma?
+
+Si se te ocurre que tu desinteres te habilita a no votar, lamento decirte que
+para que la reforma se produzca debe obtenerse mayoria absoluta de votos por
+el si, asi que no votar cuenta como votar por el no.
+
+Si no te interesan las razones en detalle y confias en mi analisis, mi consejo
+es que votes por el si. Sinteticamente: el mundo no es igual que en 1916.
+Algun lugar para un cambio y actualizacion tiene que haber, no?
+ 
+Estarias diciendo "si" a habilitar la discusion y posible reforma de una
+serie de temas que se vienen discutiendo en los partidos politicos mayoritarios
+desde la epoca de Bordon: mayor autonomia municipal, representacion directa de
+los legisladores, quizas unificacion de las camaras, reeleccion de cargos
+ejecutivos...
+Si gana el si, luego habra que votar los constituyentes quienes podran hacer
+las reformas que se les cante el culo mientras esten dentro de lo permitido
+por la constitucion nacional y los temas habilitados en esta eleccion.
+En tan sentido los constituyentes serian soberanos y estarian por encima del
+Estado provincial. Eso en teoria. La realidad es que la mayoria de los
+convencionales votaran por los cambios que su partido les dicte.
+
+Si tu argumento es "estoy en contra de la reeleccion de Iglesias" tal argumento
+es irrelevante porque: que la constitucion reformada permita su reeleccion no
+significa que realmente alguien lo vaya a votar. Si tenes miedo de que vaya a
+ganar, entonces le tenes miedo a la mayoria democratica y te tenes que joder.
+Ademas, el mismo ha dicho que no quiere ser reelecto y no esta juridicamente
+claro si tal reeleccion seria legal aun si lo permite la constitucion reformada.
+
+
+Groucho
+

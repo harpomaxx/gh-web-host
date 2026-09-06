@@ -1,0 +1,54 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 29175 invoked from network); 14 Jun 2000 01:57:45 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 14 Jun 2000 01:57:45 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 14 Jun 2000 01:57:43 -0000
+Received: from ANTRO ([200.41.31.112]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA14127 for <mendonet-l@egroups.com>; Tue, 13 Jun 2000 22:56:37 +0300 (GMT)
+Date: Tue, 13 Jun 2000 15:10:54 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <17632.000613@...>
+To: Marc <mendonet-l@egroups.com>
+Subject: Re[4]: Curiosidad (Lupus)
+In-reply-To: <3790.000611@...>
+References: <3790.000611@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 11/06/2000, Marc angustiosamente gritó:
+
+
+
+M> Wednesday, June 07, 2000, 11:38:32 PM, you wrote:
+
+GM>> El 13/06/2000, Trancos angustiado explicó:
+
+T>>> mmm...    yo y mi hermano nos enteramos recien hace unos meses
+T>>> que los cuadros no quedan bien con las rayas...
+T>>> Creo que simplemente no tenemos buen gusto...
+
+GM>> No hagas caso!!!!
+GM>> Los cuadros son un tipo particular de rayas.
+GM>> Las rayas quedan bien con las rayas, (puedo demostrar esto
+GM>> a traves de un teorema para los que osen contradecirme)  asi que
+GM>> los cuadros han de quedar bien con las rayas.
+M>     Cual teorema cerebrin???
+M>     Se puede saber Che!!!
+
+Es muy obvio!!!
+
+La raya n de una prenda a rayas queda bien con la raya n-1 de la misma
+prenda.
+Por lo tanto, las rayas quedan bien con las rayas. Y no importa que
+pertenezcan a distintas prendas. Ya que la division del vestido en
+partes es arbitraria.
+
+-- 
+Groucho Marx
+Más dificil que envolver alambre de p�a. (R)
+
+
+

@@ -1,0 +1,58 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 8 Aug 2002 02:48:58 -0000
+Received: (qmail 11766 invoked from network); 8 Aug 2002 02:48:58 -0000
+Received: from unknown (66.218.66.216)
+  by m5.grp.scd.yahoo.com with QMQP; 8 Aug 2002 02:48:58 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.25)
+  by mta1.grp.scd.yahoo.com with SMTP; 8 Aug 2002 02:48:57 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.35 #1 (Debian))
+	id 17cdNI-0005Rk-00
+	for <mendonet-l@...>; Wed, 07 Aug 2002 23:50:08 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.35 #1 (Debian))
+	id 17cdNI-0005RZ-00
+	for <mendonet-l@...>; Wed, 07 Aug 2002 23:50:08 -0300
+Date: Wed, 7 Aug 2002 23:50:07 -0300
+To: mendonet-l@...
+Subject: Re: Microsoft sobre las cuerdas...
+Message-ID: <20020808025007.GP19736@...>
+References: <E17cHAt-00047a-00@...> <1866.020807@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <1866.020807@...>
+User-Agent: Mutt/1.3.28i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Wed, Aug 07, 2002 at 08:48:14PM -0300, Sebas wrote:
+> GM> Lo mas llamativo de esta nota, es como le llego a
+> GM> Rodro-Reuters...
+> GM> Resulta que hay una mini SIDE dentro de Telefonica,
+> GM> que investiga noticias sobre telecomunicaciones y
+> GM> las distribuye a sus empleados...
+> GM> Me imagino que el sueldo de los 2 pobres infelices que buscan las
+> GM> noticias no debe ser nada comparado con la ventaja que obtienen por 
+> GM> estar bien informados.
+> ¡Qué estúpidos! Pensar que lo podrían haber leído en clarín.
+
+Pero Clarin debe tener como 50 paginas!!!!
+Imaginate a los ejecutivos ñoños esos teniendo que buscar una noticia sepultada
+entre 50 paginas de ruido!!
+Es el tipo de gente que necesita un resumen de 5 lineas al principio de
+cualquier texto, e indicaciones del tiempo estimado de lectura expresado en
+minutos y segundos...
+Estan ocupadisismos!!!!
+
+Conozco a los de su clase. Maldita gerencia!
+
+-- 
+Groucho
+
+
+
+

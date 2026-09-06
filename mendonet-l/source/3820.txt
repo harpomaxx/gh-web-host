@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 14 Oct 2001 01:32:22 -0000
+Received: (qmail 5637 invoked from network); 14 Oct 2001 01:32:21 -0000
+Received: from unknown (10.1.10.142)
+  by l7.egroups.com with QMQP; 14 Oct 2001 01:32:21 -0000
+Received: from unknown (HELO smtp4.impsat.net.ar) (200.31.1.20)
+  by mta3 with SMTP; 14 Oct 2001 01:32:16 -0000
+Received: from gateway.micasa.org.ar (200-41-31-86-rdunysd1.impsat.net.ar [200.41.31.86])
+	by smtp4.impsat.net.ar (8.9.3/8.9.3) with ESMTP id WAA27903
+	for <mendonet-l@...>; Sat, 13 Oct 2001 22:29:49 -0400 (EDT)
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15sa4o-0005j9-00
+	for <mendonet-l@...>; Sat, 13 Oct 2001 22:28:26 -0300
+Date: Sat, 13 Oct 2001 22:28:25 -0300
+To: mendonet-l@...
+Subject: Re: Ideas =?iso-8859-1?Q?Antiquisimas?= 3
+Message-ID: <20011013222825.C21986@...>
+References: <20011010214525.D13391@...> <12844.011012@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <12844.011012@...>
+User-Agent: Mutt/1.3.22i
+From: Groucho Marx <groucho@...>
+
+On Fri, Oct 12, 2001 at 08:15:38PM -0300, Marc wrote:
+
+> GM> Yo hubiera empezado cuestionando la validez de sus metodos haciendoles
+> GM> ver que alternativamente podria intentar responder lo que ellos quieran oir,
+> GM> lo que realmente pienso o todo lo contrario, con el solo afan cientifico de
+> GM> intentar invalidar el metodo y sus objetivos.
+> 
+> GM> Todas las respuestas las hubiera dado infinitamente complejas, poco
+> GM> categoricas y elusivas.
+> 
+> GM> Que es lo que mas aprecian los que me conocen?
+> GM> "Presto poca atencion a lo que otros piensan de mi. Hay quienes valoran mi
+> GM> afectacion culturosa: mi gusto por la lectura, mi desprecio por los
+> GM> espectaculos alienantes. Otros valoran mi apego al status quo, por cierto
+> GM> no carente de criticas, pero de ninguna manera orientado a una ruptura del
+> GM> orden establecido."
+> 
+> GM> Que es lo que mas critan de mi?
+> GM> "Me tildan injustamente de soberbio."
+> 
+> así no va a conseguir trabajo en ningún lado, que cagada lo voy a tener
+> que mantener yo. ova a tener que ser independiente pero las relaciones
+> publicas las tendr� que manejar yo si no se funde.
+
+Esas son las respuestas para Lupus, no para mi!!!!!
+
+Groucho
+

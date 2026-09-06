@@ -1,0 +1,44 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 45667 invoked from network); 3 Sep 2003 00:01:42 -0000
+Received: from unknown (66.218.66.217)
+  by m10.grp.scd.yahoo.com with QMQP; 3 Sep 2003 00:01:42 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 3 Sep 2003 00:01:41 -0000
+Received: (qmail 27993 invoked by uid 417); 3 Sep 2003 00:01:37 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 3 Sep 2003 00:01:37 -0000
+Received: from dup-200-42-124-96.prima.net.ar ([200.42.124.96])
+  (AUTH: PLAIN xebax@...)
+  by softhome.net with esmtp; Tue, 02 Sep 2003 18:01:34 -0600
+Date: Tue, 2 Sep 2003 20:55:25 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <16871.030902@...>
+To: rodralez <mendonet-l@...>
+Subject: Re[3]: Una pelicula acerca de nada
+In-reply-To: <4110573352.20030902010707@...>
+References: <4110573352.20030902010707@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+HG>> Es por eso que no me gusto. No hay una mision a cumplir, o un problema
+HG>> a resolver. No hay conflictos. Solo van pasando cosas...
+
+r> Consejo gratis: nunca veas entonces "Mundo Grúa". Te va a sacar de
+r> quicio.
+
+Mundo grúa está requeterrecontrarrebuenísima.
+
+-- 
+Sebas   
+El término "revolución" en la mayoría de los casos no se refiere al DVD...                       
+
+
+

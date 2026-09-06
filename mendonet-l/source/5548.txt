@@ -1,0 +1,62 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 4 Sep 2001 03:53:40 -0000
+Received: (qmail 32373 invoked from network); 4 Sep 2001 03:53:38 -0000
+Received: from unknown (10.1.10.142)
+  by m8.onelist.org with QMQP; 4 Sep 2001 03:53:38 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.93)
+  by mta3 with SMTP; 4 Sep 2001 03:53:34 -0000
+Received: (qmail 15449 invoked by uid 1005); 3 Sep 2001 18:52:41 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.232573 secs); 03/09/2001 15:52:40
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 3 Sep 2001 18:52:38 -0000
+Date: Mon, 3 Sep 2001 15:52:40 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <OE60NUTvl7PDqqgNjWO00000264@...> <0843.010901@...>
+In-Reply-To: <0843.010901@...>
+Subject: Re: Re[2]: =?iso-8859-1?q?Mas=20real=20que=20la=20vida=20misma=2E=2E=2E?= (Lupus indignado y =?iso-8859-1?q?vervorragico=2E=2E=2E=29?=
+MIME-Version: 1.0
+Message-Id: <01090315524001.00361@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Sáb 01 Sep 2001 20:13, escribiste:
+
+> MF> de  programas de TV o modelos... NO LES PARECE ALGO
+> MF> NEFASTO,SINIESTRO, ALGO  TERRIBLE  HASTA LAS LAGRIMAS. A mi me
+> MF> parece hasta inmoral
+>
+> MF> no se si lo que estoy leyendo es de Lupus o es mi abuelo que se
+> MF> metio dentro del Aldo.
+> MF> Aldo....................sos vos?
+> Morganti, quoteá como la gente la concha de tu vieja
+
+Quizas falto aclarar que el signito > adelante de cada renglon NO ES UN 
+ADORNO SIMPATICO!
+Morganti,no agregues simbolitos ">" por joder.
+
+Viste en las obras de teatro que se pone:
+Hamlet: _El resto es silencio...
+
+Bueno, en el correo electronico pondriamos:
+H> El resto es silencio...
+
+Todo renglon que empieza con unas pocas letras y un signo ">" es una 
+linea citada (quoteada). Mi programa de correo electronico por ejemplo 
+las pinta de otro color, entonces yo puedo facilmente distinguirlo que 
+dicen los demas de lo que dice el remitente.
+Si vos pones a mano unos signitos ">" adelante de las lineas que 
+escribis vos, efectivamente le estas atribuyendo tus dichos a otra 
+persona, con el agravante de que al aparecerme del color de las cosas 
+quoteadas, y al ver que no hay nada no quoteado, concluyo que se trata 
+de un mensaje irrelevante y no lo leo.
+
+
+-- 
+Groucho Marx
+

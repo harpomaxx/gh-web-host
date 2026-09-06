@@ -1,0 +1,26 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_2); 18 Apr 2001 19:12:14 -0000
+Received: (qmail 94917 invoked from network); 18 Apr 2001 19:12:12 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 18 Apr 2001 19:12:12 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.21.102) by mta3 with SMTP; 18 Apr 2001 19:12:10 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id PAA19510 for mendonet-l@yahoogroups.com; Wed, 18 Apr 2001 15:52:18 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Wed, 18 Apr 2001 15:52:17 -0300
+To: Lista de correo copada <mendonet-l@yahoogroups.com>
+Subject: Conan
+Message-ID: <20010418155217.A19501@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+X-Operating-System: Linux elserver.micasa 2.2.18 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+CHe alguien tiene noticias de COnan???
+-- 
+Harpo Maxx
+

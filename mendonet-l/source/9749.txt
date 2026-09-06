@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 3047 invoked from network); 5 Jul 2000 20:17:54 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 5 Jul 2000 20:17:54 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 5 Jul 2000 20:17:52 -0000
+Received: from ANTRO ([200.41.31.80]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id RAA24940 for <mendonet-l@egroups.com>; Wed, 5 Jul 2000 17:20:23 +0300 (GMT)
+Date: Mon, 3 Jul 2000 15:59:35 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1666.000703@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: Re[3]: El Sebas no sirve!
+In-reply-To: <17865.000701@...>
+References: <17865.000701@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 02/07/2000, Lupus curiosamente inventó:
+
+h>> El entorno, puede condicionar de alguna manera, pero tambien hay mucha
+h>> gente cuyo entorno a sido *perfecto* y sin embargo han sabido comportarse
+h>> como unos verdaderos demonios. 
+
+LeL> Mmmmhhh... habría que definir mejor lo de "entorno perfecto"...
+
+LeL> De todos modos, y solo para contradecirte, estoy seguro de que también
+LeL> ha  habido  mucha  gente  cuyo entorno ha sido una mierda y han sabido
+LeL> comportarse bien. Ejemplo: Jean Valjean...
+
+Seguimos metiendo a Victor Hugo hasta en la sopa?
+
+
+-- 
+Groucho Marx
+Either he's dead or my watch has stopped. -- Groucho Marx
+
+
+

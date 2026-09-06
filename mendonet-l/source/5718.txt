@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 24 Aug 2001 03:00:42 -0000
+Received: (qmail 55760 invoked from network); 24 Aug 2001 02:41:28 -0000
+Received: from unknown (10.1.10.27)
+  by m8.onelist.org with QMQP; 24 Aug 2001 02:41:28 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.58)
+  by mta2 with SMTP; 24 Aug 2001 02:41:20 -0000
+Received: (qmail 31292 invoked by uid 1005); 23 Aug 2001 03:53:38 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.161265 secs); 23/08/2001 00:53:37
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 23 Aug 2001 03:53:35 -0000
+Date: Thu, 23 Aug 2001 00:55:29 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <003101c12a70$5a5afa20$6301a8c0@g8> <17938.010821@...>
+In-Reply-To: <17938.010821@...>
+Subject: Re: Re[2]: buenas...
+MIME-Version: 1.0
+Message-Id: <01082300552902.00404@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 21 Ago 2001 22:31, escribiste:
+
+> >>hola... desde hoy integrare esta famosa lista!!!
+>
+> G> ESO está por Verse...
+> G> Básicamente... Do u feel Mendonet Matitial??
+> Solicito definición de "mendonet material"(si bien ya la he leído
+> varias veces) a fin de corroborar su actual estado.
+
+Ha!!! Para eso era que puteabamos a los recien llegados.
+Para determinar hasta que punto eran "mendonet matirial"...
+
+El circulo se ha cerrado!
+
+-- 
+Groucho Marx
+

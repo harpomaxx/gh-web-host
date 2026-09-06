@@ -1,0 +1,55 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:55:56 -0000
+Received: (qmail 14932 invoked from network); 5 Oct 2001 02:55:55 -0000
+Received: from unknown (10.1.10.26)
+  by l10.egroups.com with QMQP; 5 Oct 2001 02:55:55 -0000
+Received: from unknown (HELO smtp4.impsat.net.ar) (200.31.1.20)
+  by mta1 with SMTP; 5 Oct 2001 02:55:55 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by smtp4.impsat.net.ar (8.9.3/8.9.3) with ESMTP id XAA10834
+	for <mendonet-l@...>; Thu, 4 Oct 2001 23:53:54 -0400 (EDT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pHfl-0000En-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 20:12:57 -0300
+Date: Thu, 4 Oct 2001 20:13:44 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <4842.011004@...>
+To: Lady Marian <mendonet-l@...>
+Subject: Re: Seru Giran
+In-reply-To: <00e501c14b29$9d9dee80$9a4afea9@hfgg>
+References: <00e501c14b29$9d9dee80$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Lady,
+
+
+LM> Che... ¿Alguien me puede explicar bien-bien, y con palabras
+LM> fáciles, que es exactamente "Sui Generis"??... Nunca pude
+LM> saberlo.
+
+INSECTICIDA -> el que mata insectos
+HOMICIDA -> el que mata hombres
+GENOCIDA -> el que mata todo un genero
+SUICIDA -> el que se mata a si mismo
+
+SUI= uno mismo
+GENERIS = genero, categoria (como en genero y especie)
+
+SUI GENERIS = uno mismo es su propio genero
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

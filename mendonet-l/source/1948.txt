@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 1 Feb 2002 13:30:10 -0000
+Received: (qmail 20606 invoked from network); 1 Feb 2002 13:30:10 -0000
+Received: from unknown (216.115.97.172)
+  by m2.grp.snv.yahoo.com with QMQP; 1 Feb 2002 13:30:10 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta2.grp.snv.yahoo.com with SMTP; 1 Feb 2002 13:30:10 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay3.impsat1.com (8.9.3/8.9.3) with SMTP id KAA19852
+	for <mendonet-l@...>; Fri, 1 Feb 2002 10:19:08 +0300 (GMT)
+Message-ID: <009201c1ab24$94dbf520$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20020127220214.GF755@...> <16672.020130@...>
+Subject: Re: Re[2]: La colonia perfecta de Sebas y Lupus
+Date: Fri, 1 Feb 2002 10:29:08 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> GM> Ok. ok. Y por que los alimentos "organicos" son mas caros?
+> GM> Porque tienen mas "valor" al ser mas sanos o mas fashion, o porque es
+> GM> mas dificil producirlos?
+>
+> Ambos.
+>
+> El  costo marginal de  producción de los alimentos forma la curva de
+> oferta.
+> El   precio  que   están   dispuestos   a  pagar  los consumidores por
+> distintas  cantidades  de  ese alimento (función de su "valoración" de
+> esos  productos,  función de la propaganda (fashon), el mayor nivel de
+> salud esperado, sus sueldos, etc...) forma la curva de demanda.
+> Ambas son responsables de la formación de precios.
+
+Otra vez explicando lo obvio?
+
+--
+Groucho
+
+

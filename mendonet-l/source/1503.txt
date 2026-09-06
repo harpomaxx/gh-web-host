@@ -1,0 +1,59 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 21 Apr 2002 21:06:09 -0000
+Received: (qmail 28262 invoked from network); 21 Apr 2002 21:06:09 -0000
+Received: from unknown (66.218.66.216)
+  by m12.grp.scd.yahoo.com with QMQP; 21 Apr 2002 21:06:09 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.203)
+  by mta1.grp.scd.yahoo.com with SMTP; 21 Apr 2002 21:06:09 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 21 Apr 2002 14:06:09 -0700
+To: <mendonet-l@...>
+References: <OE567QaaC4omkfdo8TN00002939@...> <12575.020419@...> <E16z1oZ-0000cW-00@...>
+Subject: Re: Re:
+Date: Sun, 21 Apr 2002 18:05:04 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE68RMBVavbNryggANZ00002723@...>
+X-OriginalArrivalTime: 21 Apr 2002 21:06:09.0215 (UTC) FILETIME=[5C0344F0:01C1E978]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.192.79]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+----- Original Message -----
+From: "Groucho Marx" <groucho@...>
+To: <mendonet-l@...>
+Sent: Saturday, April 20, 2002 5:28 PM
+Subject: Re:
+
+
+> El Vie 19 Abr 2002 13:48, escribiste:
+>
+> > ¿Conocés el caso del virus gallego?
+> > "Este es un virus gallego. Borre toda la información de su disco
+> > rígido."
+> > Bueno, es más o menos lo mismo. El archivo que menciona pertenence al
+> > explorer, no es ningún virus. No tenés que borrarlo, y por sobre
+> > todas las cosas, no tenés que reenviar ese mensaje.
+> > Sería bueno que le enviaras esto al zapato que te lo envié, y que le
+> > recomendaras que cada vez que tenga una duda sobre un "probable
+> > virus" chequee en internet... symantec y mcafee tienen buenos sitios
+> > donde te explica las características técnicas del virus y te da las
+> > instrucciones para eliminarlo.
+>
+> Ahhh... Esta es la explicacion pedagogica y que se yo...
+> Admito que es una buena explicacion, amena y amigable... justo 2 cosas
+> que yo no queria ser con el que mando el aviso del hoax.
+
+y para comprender un poco, porque no querer ser amigable o ameno, ¿es una
+limitacion o algo asi?
+

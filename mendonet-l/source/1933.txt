@@ -1,0 +1,117 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 1 Feb 2002 20:40:45 -0000
+Received: (qmail 89618 invoked from network); 1 Feb 2002 20:40:45 -0000
+Received: from unknown (216.115.97.172)
+  by m4.grp.snv.yahoo.com with QMQP; 1 Feb 2002 20:40:45 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2.grp.snv.yahoo.com with SMTP; 1 Feb 2002 20:40:42 -0000
+Received: from modem55-as2.mendoza.sinectis.com.ar ([200.59.95.55])
+  by softhome.net with esmtp; Fri, 01 Feb 2002 13:39:28 -0700
+Date: Fri, 1 Feb 2002 16:00:52 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <9667.020201@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbNF06IERlbGlyaW9zIGluaW5mdW5kYWRvcy4uLiC/Li4uPyBsbyBx?= =?ISO-8859-1?B?dWUgaGFjZSBlbCB0aWVtcG8gZGUgb2Npby4uLg==?=
+In-reply-To: <00ab01c1a9a7$2629f100$060aa8c0@...>
+References: <00ab01c1a9a7$2629f100$060aa8c0@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+
+>> GM> No seria mejor si queres que haya fruta gratis, destinar todo el costo
+>> GM> que representan las desventajas que mencione, y hacer algo asi como
+GM> una
+>> GM> finca estatal? Y que trabajen los presos en ella?
+>>
+>> Esa  también  es  una buena idea... aunque eso aumentaría el número de
+>> presos  fugados...  ya  que  es  mas  difícil  cuidar a los presos que
+>> trabajan con relativa libertad en un gran campo...
+
+GM> Estarian supervisados estrechamente por guardias...
+
+¿Cuántos guardias necesitás para supervisar presos en un gran campo...
+muchos  mas  de los que necesitás para supervisarlos en la carcel... y
+si en la carcel por ahí se escapan... imaginate en el campo...
+
+>> GM> O que cada uno pplante los arboles que se le cante el orto en el patio
+>> GM> de su casa si es que se le da la gana?
+>>
+>> Eso existe... cual es la diferencia...??
+
+GM> Ninguna.. Ese es el punto. Yo me pregunte a mi mismo si no seria
+GM> mejor dejar todo como esta!!!
+
+Argumentun ad pajerum... ? (Conformista!)
+
+>> A  un  conocido  se  le cayó un álamo en el techo de la casa... andá a
+>> contarle lo del viento...
+
+GM> Imaginate si en lugar de un alamo hubiera sido uno de los arboles
+GM> peleles que vos decis!!!
+
+Son más chicos y menos pesados, es más dificil que se caigan porque no
+son tan altos...
+
+>> GM> Los generadores solares generan corriente continua, frecuencia 0...
+>>
+>> ¿Qué otras frecuencias existen para la corriente continua...?? �...?
+
+GM> Estaba ACLARANDO, no ESPECIFICANDO.
+
+Y yo estaba MOLESTANDO, no ARGUMENTANDO... ;)
+
+>> GM> Igualmente solo a las maquinas electricas y a los transformadores
+>> GM> les interesa la frecuencia (y a los televisores viejos)
+>>
+>> ¿a los nuevos no?... esa no la tenía...
+
+GM> Y no... La polarizacion del tubo es de unos pocos kilovolts de corriente
+GM> continua, la alimentacion de los circuitos electronicos es en corriente
+GM> continua, no hay motores y todas las señales periodicas necesarias se
+GM> derivan de osciladores controlados a cristal, sincronizados con la
+GM> señal recibida si hiciera falta, o de osciladores RC.
+
+Ok  ok... y los lavarropas... bueno... supongo que, aún si los motores
+fueran de alterna, cosa que ignoro, podrían construirse de continua...
+aunque  son  una  poronga  los  motores  de  continua esos... (de puro
+resentido...)
+
+>> Y a las computadoras... supongo que deben mantener tensiones dentro de
+>> un rango bien determinado... si las frecuencias varían, varían también
+>> las  tensiones  a la salida... digo... supongo que los transformadores
+>> probocar�n  eso...
+
+GM> Si hay transformadores es correcto lo que decis... Pero decime donde mierda
+GM> encontras en la fuente de una PC un transformador diseñado para operar a
+GM> la frecuencia de linea? (hint: tienen que ser enormes y pesados debido a
+GM> que la baja frecuencia produce flujos muy bajas y hay que usar
+GM> mucho hierro para mantener decente la induccion)
+
+No soy electrónico... qué carajo se yo...?
+
+GM> Los transformadores que encontras dentro de una fuente de alimentacion de
+GM> PC son transformadores de pulso, es decir, operan a varios kilohertz y
+GM> funcionan mas bien como filtros y como acopladores que como transformadores.
+GM> Si queres te explico como funciona una fuente conmutada.
+
+Sos capaz de hacerlo sin dibujar...?
+
+En  realidad  creo  que  una vez vi algo sobre eso, pero nunca volvi a
+encontrarlo... así que mi conocimiento al respecto apesta...
+
+Lupus
+
+-- 
+
+"...Tened éxito: esa es la teoría... Confunden con las costelaciones del abismo las hullas estrelladas que dejan en el cieno blandode un lodazal las patas de los gansos."VH            
+
+
+

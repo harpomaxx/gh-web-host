@@ -1,0 +1,55 @@
+From cabeza@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cabeza@...>
+X-Sender: cabeza@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 5 Jan 2003 00:16:21 -0000
+Received: (qmail 77576 invoked from network); 5 Jan 2003 00:16:21 -0000
+Received: from unknown (66.218.66.218)
+  by m10.grp.scd.yahoo.com with QMQP; 5 Jan 2003 00:16:21 -0000
+Received: from unknown (HELO muddy.fedped.com.ar) (200.80.38.162)
+  by mta3.grp.scd.yahoo.com with SMTP; 5 Jan 2003 00:16:20 -0000
+Received: (qmail 29084 invoked from network); 5 Jan 2003 00:16:46 -0000
+Received: from unknown (HELO localhost.localdomain) (192.168.109.11)
+  by 192.168.109.10 with SMTP; 5 Jan 2003 00:16:46 -0000
+Subject: Por fin los joputa de telefonica ponen tarifa plana.
+To: mendonet <mendonet-l@...>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Ximian Evolution 1.0.8 
+Date: 04 Jan 2003 21:16:10 -0300
+Message-Id: <1041725776.13092.5.camel@stimpy>
+Mime-Version: 1.0
+From: cabeza <cabeza@...>
+X-Yahoo-Group-Post: member; u=76414316
+X-Yahoo-Profile: c_a_b_e_z_a
+
+-------------------------------- telefonica.com.ar --------------
+Con SUPER=
+PLAN 0610, de lunes a viernes de 20:00 hs. a 8:00 hs, sabados a
+partir de=
+ las 13:00 hs y domingos y feriados las 24 hs, te despreocupas
+por tu con=
+sumo telefonico.
+ 
+$22,90 + IVA
+Precio sin descuento
+
+$11.45 + IVA
+50% de=
+scuento
+Los primeros 2 meses.
+---------------------------------------------=
+--------------------
+
+
+
+-- 
+Key:  gpg --keyserver pks.lugli.org.ar --recv-k=
+eys 7FDAFC1F 
+Key fingerprint: 24BD BD54 5F9C DD77 C38B  0758 7290 34CD 48F=
+A CE01
+Per escriure aquest mail no s'han maltractat animals ni s'han usat
+p=
+roductes MicroSoft.
+
+

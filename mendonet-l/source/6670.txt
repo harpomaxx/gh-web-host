@@ -1,0 +1,42 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_2); 4 Dec 2000 16:57:15 -0000
+Received: (qmail 67489 invoked from network); 4 Dec 2000 16:56:23 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 4 Dec 2000 16:56:23 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 4 Dec 2000 16:56:21 -0000
+Received: from antro.micasa ([200.41.31.33]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA10020 for <mendonet-l@egroups.com>; Mon, 4 Dec 2000 13:59:40 +0300 (GMT)
+Date: Sun, 3 Dec 2000 15:52:24 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <16661.001203@...>
+To: "fcanizo@..." <mendonet-l@egroups.com>
+Subject: Re[3]: Sacando conclusiones sobre la firma de Harpo Maxx
+In-reply-To: <20001201213935.14360.qmail@...>
+References: <20001201213935.14360.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 01/12/2000, fcanizo@... ruidosamente recitó:
+
+fuea>  GM>Ok. Vos has hecho o conoces algun mail user agent que permita
+fuea>  GM>seleccionar las taglines a mano?
+ 
+fuea>  No es difícil groucho: mapeás alguna tecla en el vi para que
+fuea>  cuando lo llame el MUA puedas llamar a un scripcito tuyo que
+fuea>  con un poco de perl y ncurses te deje elegir un tag de
+fuea>  alguna lista de por ahí y listo. (a mi no me interesa
+fuea>  hacerlo, pero no es difícil)
+
+Nada mal. Ahora explicame como usas ncurses desde Perl.
+
+-- 
+Groucho Marx
+Time flies like an arrow. Fruit flies like a banana. -- Groucho Marx
+
+
+

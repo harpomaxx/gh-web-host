@@ -1,0 +1,70 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_1_0); 16 Oct 2000 16:56:05 -0000
+Received: (qmail 10967 invoked from network); 16 Oct 2000 16:56:04 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 16 Oct 2000 16:56:04 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 16 Oct 2000 16:56:03 -0000
+Received: (qmail 10425 invoked by uid 417); 16 Oct 2000 16:57:03 -0000
+Received: from unknown (HELO 200.41.31.14) (200.41.31.14) by smtpb.softhome.net with SMTP; 16 Oct 2000 16:57:03 -0000
+Date: Sun, 15 Oct 2000 14:36:10 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <13608.001015@...>
+To: mendonet-l@egroups.com
+Subject: Re[2]: Invitacion - GNU/Linux InstallationFest... como minitas ?!.
+In-reply-To: <19578.001013@...>
+References: <19578.001013@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Sunday, October 15, 2000, 1:52:22 PM, you wrote:
+
+GM> El 12/10/2000, rodralez velozmente escribió:
+
+Groucho Marx>>> ATENCION!!! ESTO NO ES UNA DE ESAS CADENAS DE MENSAJES DE MIERDA!!!!
+Groucho Marx>>> SI TE INTERESA CONOCER GNU/LINUX, LEELO!
+
+Groucho Marx>>> sI TE LLEGO ESTE MENSAJE, ES PORQUE TU DIRECCION DE E-MAIL ESTA EN LA
+Groucho Marx>>> LIBRETA DE DIRECCIONES DE GROUCHO, LO CUAL MUY PROBABLEMENTE
+Groucho Marx>>> SIGNIFIQUE QUE SEAS AMIGO DE GROUCHO. POR LO TANTO, SI TE MOLESTO
+Groucho Marx>>> RECIBIR ESTE MENSAJE, COMO AMIGO TE DIGO: JODETE!!!
+
+r>> Che, me parece muy interesante la idea. Voy a hablar con mi buen
+r>> amigos Harpo a ver que va a ser él.
+
+GM> Que pregunta es esa?
+GM> Olvide acaso mencionar que Harpo al igual que yo es uno de los
+GM> organizadores del evento?
+
+r>> Una pregunta Groucho, sin ningún ánimo de descalificar tu
+r>> invitación... va a haber minitas ?!.
+
+GM> Ademas de mi novia? Veremos!!!
+
+  Groucho deci la verdad, el grupo linuxero se encargo de espantar a
+  todas las minitas con un cartel que decia algo asi como no usen
+  windows que es un so para minitas o linux no es para minitas como
+  lo es windous, el autor material e intelectual de el cartel fue
+  Harpo y secundado por dicho grupo de fanáticos.
+
+  De todas maneras algunas nos dimos cuenta de la aberración cometida
+  y fuimos a la install fest claro todas somos novias de alguno de
+  estos fanáticos antes mencionados.
+
+
+
+
+-- 
+  nadie, apoltronado en la tibieza de una vida timorata,
+  puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                            
+
+
+

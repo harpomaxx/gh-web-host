@@ -1,0 +1,29 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 30538 invoked from network); 29 Jul 2000 14:31:40 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 29 Jul 2000 14:31:40 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 29 Jul 2000 14:31:39 -0000
+Received: (qmail 6399 invoked by uid 722); 29 Jul 2000 14:07:05 -0000
+Date: 29 Jul 2000 14:07:04 -0000
+Message-ID: <20000729140704.6380.qmail@...>
+To: mendonet-l@egroups.com
+Subject: Re: bajo tierra
+From: fcanizo@...
+
+El 06/07/00, Marc le blasfemó tristemente a fcanizo@...:
+
+M>fuea> Pasa que estuve como 10 días bajo tierra... err... hice
+M>fuea> andar el starcraft.
+M>       ¿en Linux??
+
+Marce, yo sé que vos sabés que yo soy muy grosso, pero
+tampoco la huevada. A menos que alguien consiga los fuentes
+del starcraft o sea un paciente genio del reverse
+engineering, dudo que eso se pueda hacer.
+
+---
+Pensarán los críticos que el desagrado es un signo de superioridad?
+
+	"Crónicas del Angel Gris" - A. Dolina
+
+

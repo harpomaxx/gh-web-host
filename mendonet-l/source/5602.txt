@@ -1,0 +1,201 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 29 Aug 2001 07:14:37 -0000
+Received: (qmail 64295 invoked from network); 29 Aug 2001 07:14:36 -0000
+Received: from unknown (10.1.10.142)
+  by l10.egroups.com with QMQP; 29 Aug 2001 07:14:36 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.66)
+  by mta3 with SMTP; 29 Aug 2001 07:14:31 -0000
+Received: (qmail 6513 invoked by uid 1005); 28 Aug 2001 19:04:39 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.266861 secs); 28/08/2001 16:04:38
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 28 Aug 2001 19:04:37 -0000
+Date: Tue, 28 Aug 2001 16:04:45 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <01082520550006.00458@cubil> <2389.010827@...>
+In-Reply-To: <2389.010827@...>
+Subject: Re: Re[6]: =?iso-8859-1?q?=BFBuenas=3F=20y=20etc=2E=2E=2Ede=20uno=20nuevo?=
+MIME-Version: 1.0
+Message-Id: <01082816044503.00457@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 27 Ago 2001 09:21, escribiste:
+
+> Estaba pensando en eso, creo que ya hemos hablado de todo esto
+> antes... Cada idea, invención o lo que sea debería ser liberada al
+> merdaco después de que su autor haya recibido una justa compensación
+> por el trabajo y el esfuerzo que involucré, estoy de acuerdo en
+> principio.
+
+Por que despues de que haya recibido su compensacion? Ese no es un 
+derecho adquirido y natural, es solo un premio que la sociedad para su 
+propia conveniencia decide darle a los innovadores, sacrificando en 
+parte algunas libertades.
+
+Pero hay que plantearse siempre cuanto te sale a vos como persona y a 
+la sociedad en su conjunto darle ese premio a los innovadores.
+La propiedad individual es basicamente la facultad dada a una persona 
+de controlar el uso que todos los demas puedan darle a una idea 
+(nominalmente de su propidad, aunque no necesariamente de su ocurrencia 
+pues los derechos intelectuales se pueden vender y comprar).
+
+La facultad de controlar el uso de una idea, es simplemente la facultad 
+de controlar la vida de los demas.
+Nunca hay que olvidar cuanta libertad estamos resignando para compensar 
+a los innovadores.
+
+> Ahora, planteo esto:
+> 1) Pepe decide iniciar un negocio en Mendoza, planea obtener una
+> ventaja competitiva por sobre las grandes empresas que ya están en el
+> negocio implementando una idea que ha estado amasando últimamente y
+> finalmente contrata a un profesional para terminar de darle forma y
+> llevarla a la práctica, después de pagarle inicia su empresa, pero
+> comola propiedad intelectual no existe inmediatamente las demás
+> empresas con las que compite adaptan su idea, evitando que pueda
+> realizar su negocio, es más, haciendole perder su inverción
+> inicial...
+>
+> Ventajas: una buena idea mejora la producción de todas las empresas
+> en el mercado, con lo que todos los consumidores deberían
+> beneficiarse.
+>
+> Desventaja: acaso no fue injusto para pepe...
+
+Pepe como empresario se jodio. Pepe como innovador obtuvo una de las 
+maximas retribuciones a las que puede aspirar: que los demas reconozcan 
+que su idea es tan grosa que la ponen en practica.
+Pero igual Pepe tiene una ventaja competitiva: el fue el primero en 
+tener la idea, el primero el ponerla en practica y el que mejor conoce 
+el know-how.
+
+
+> 2) Quién dice cuál es la retribución "justa" para un creador? quién
+> puede saber si el parto de la idea le tom� años, dias u horas? en
+> función de qué se evalúa eso? en función del esfuerzo? en función de
+> la utilidad de la idea? en función del tiempo o esfuerzo invertidos?
+
+No se puede, pero vale la pena intentarlo. Para un producto que se 
+vuelve obsoleto como el software esta bien que los derechos de 
+propiedad intelectual sobre el mismo duren varias decadas, igual que 
+los derechos sobre la musica o sobre la literatura?
+Es justo volver ricos a los hijos de un inventor que no hicieron nada, 
+haciendo que una patente dure decadas?
+Cada caso merece un analisis, pero mi apreciacion general es que los 
+derechos de propiedad intelectual duran demasiado, benefician en exceso 
+a los inventores/creadores/innovadores y perjudican en exceso las 
+libertades individuales de los miembros de la sociedad.
+
+
+
+> 3) Un mal sistema de retribución de ideas llevará a que sean menos
+> lucrativas las actividades de I+D,
+
+I+D=sigla �o�a. Por que + y no & o / por ejemplo?
+
+
+> sería mas barato esperar a que
+> otro invente y luego usar las ideas,
+
+Sin duda, con los consiguientes beneficios para los usuarios de la 
+innovacion que podrian acceder a ella a menor costo.
+
+
+> con lo que el que invierte en la
+> investigación quedaría en desbentaja y habrían llanamente muchas
+> menos ideas...
+
+No necesariamente. Hoy por ti, mañana por mi resume claramente el 
+sistema. Hoy yo descubro algo y vos lo usas. Mañana vos descubris algo 
+y yo lo uso. No ha sido hasta hace poco ese el espiritu de los 
+investigadores cientificos? Acaso eso ha frenado o acelerado el 
+desarrollo de la ciencia?
+Quizas un oportunista utilice una idea, la desarrolle y luego no 
+retribuya nada en la forma de investigacion de nuevas ideas, con lo que 
+ahi si perjudica el que innovo primero.
+Seria un abuso al sistema que propongo. Propiedad intelectual limitada 
+y de cortra duracion lo solucionaria?
+Veamos un ejemplo de abuso en el sistema actual. Cierto laboratorio 
+desarrollo y patento cierto medicamento contra el SIDA. Tal medicamento 
+luego es vendido a los enfermos de SIDA a precios muy altos, quizas 
+para recuperar la inversion de haber inventado el medicamento en primer 
+lugar, quizas porque un enfermo moribundo paga lo que sea con tal de 
+sobrevivir, o por lo que sea.
+Luego un gobierno de un pais tercermundista se las ingenia para 
+descubrir la composicion del medicamento patentado y lo fabrica en masa 
+para su poblacion, obviamente en esta historia, altamente infectada de 
+SIDA. Lo interesante es que el medicamento se puede producir a un costo 
+5 veces menor.
+
+Que es lo justo para ese gobierno terver mundista? Respetar la patente 
+del medicamento y beneficiar al laboratorio que lo invento?
+Seguir fabricando el medicamento y beneficiando a los enfermos de SIDA.
+Por un lado, si el laboratorio nunca hubiera investigado, nunca habria 
+habido un medicamento, original o copiado que darle a los enfermos, por 
+lo que el laboratorio merece la consideracion de ese gobierno 
+tercermundista.
+Pero el laboratorio no puede multiplicar por 5 el precio del 
+medicamento si lo unico que pretende es amortizar el costo de 
+investigacion y desarrollo, costo que tendra varias decadas para 
+amortizar en el sistema actual.
+
+Ese gobierno tercermundista existe. Es el gobierno de Brasil y el caso 
+es real. Que tiene que hacer Brasil?
+Obviamente el laboratorio esta abusando, por lo que tampoco el sistema 
+actual es justo.
+
+
+Cuando las ideas innovadoras circulan facilmente, se vuelven abundantes 
+y tienden a perder relevancia consideraciones economicas como las que 
+planteas.
+
+
+> 4)Es cierto que el know how de todo daría toda la vuelta al mundo y
+> países como los nuestros podrían soñar en producir cosas como
+> mnocristales de silicio.
+
+Es cierto.
+
+
+> GM> El poder que nos oprime es de naturaleza economica y se defiende
+> GM> con patentes, marcas y otros elementos de propiedad intelectual.
+> GM> Rechazarlos, difundir su rechazo, finalmente permitira obtener la
+> GM> suficiente como para vencerlos.
+>
+> Le ponemos una musiquita melosa de fondo y lo agregamos a la próxima
+> producción de Suar... ;)
+
+Si eso te distre lo suficiente como para no confrontar el fondo del 
+asunto y escapar de la cuestion con la conciencia tranquila, adelante...
+
+
+> GM> No estoy hablando de una revolucion, solo de ignorar los
+> GM> supuestos derechos de propiedad intelectual y soportar las
+> GM> consecuencias en nuestra contra que de esa conducta se origine.
+>
+> Nop, y tampoco estás hablando de maní tostado... ;)
+
+Eso creo Cerebro, pero por que querria Helmut Koll que le sirvan 
+tallarines en la Antartida?
+
+
+> GM> Realmente no necesito cambiar las leyes de propiedad intelectual.
+> GM> Me basta con ignorarlas y no dejarme vencer con lo que puedan
+> GM> hacer por aber ignorado esas antinaturales leyes. De lograrlo,
+> GM> habre logrado que tales leyes no tengan poder, es decir, que no
+> GM> existan mas. (una ley que no se cumple no es una ley).
+>
+> Hermoso... todo un párrafo para decir nada nuevo...!!
+
+Ahh... La descalificacion. Debil recurso que has aplicado 
+insistentemente en esta, tu nueva etapa. Esperaba mas.
+Tu estrella se apaga Lupus.
+
+-- 
+Groucho Marx
+

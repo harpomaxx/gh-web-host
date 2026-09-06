@@ -1,0 +1,55 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 9 Oct 2002 12:58:39 -0000
+Received: (qmail 67285 invoked from network); 9 Oct 2002 12:58:38 -0000
+Received: from unknown (66.218.66.218)
+  by m9.grp.scd.yahoo.com with QMQP; 9 Oct 2002 12:58:38 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta3.grp.scd.yahoo.com with SMTP; 9 Oct 2002 12:58:35 -0000
+Received: (qmail 20397 invoked by uid 404); 9 Oct 2002 12:58:22 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar with qmail-scanner-1.01 (uvscan: v4.1.60/v4227. . Clean. Processed in 1.553253 secs); 09 Oct 2002 12:58:22 -0000
+X-Qmail-Scanner-Mail-From: cgimenez@... via multivac.xnetcuyo.com.ar
+X-Qmail-Scanner: 1.01 (Clean. Processed in 1.553253 secs)
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 9 Oct 2002 12:58:20 -0000
+Date: Wed, 9 Oct 2002 09:59:00 -0300
+To: mendonet-l@...
+Subject: Re: Re[2]: salame!
+Message-Id: <20021009095900.3d36a492.cgimenez@...>
+In-Reply-To: <5972.021008@...>
+References: <20021008204114.3fe53617.root@...>
+	<5972.021008@...>
+Organization: XNetCuyo S.A.
+X-Mailer: Sylpheed version 0.8.5 (GTK+ 1.2.10; i686-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+On Tue, 8 Oct 2002 23:21:05 -0300
+Sebas <xebax@...> wrote:
+
+> >> CG> SERA castigado!!!!!!!!
+> >> ¿Qué es Xnet cuyo?
+> >> 
+> >> 
+> 
+> kastor>  mi laburo!
+> Me cago en la especificidad.
+> 
+> 
+
+ cuando pagues un impuesto.. fijate en el ticket... en realidad hacemos
+lecturas de codigos de barras!
+
+-- 
+
+Cristian Gimenez
+
+cgimenez@...
+Departamento de Desarrollo
+XNet Cuyo S.A.
+

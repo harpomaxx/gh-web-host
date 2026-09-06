@@ -1,0 +1,57 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 3 Jan 2003 13:00:30 -0000
+Received: (qmail 76017 invoked from network); 3 Jan 2003 13:00:30 -0000
+Received: from unknown (66.218.66.217)
+  by m11.grp.scd.yahoo.com with QMQP; 3 Jan 2003 13:00:30 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta2.grp.scd.yahoo.com with SMTP; 3 Jan 2003 13:00:29 -0000
+Received: (qmail 5632 invoked by uid 404); 3 Jan 2003 13:00:26 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar with qmail-scanner-1.01 (uvscan: v4.1.60/v4240. . Clean. Processed in 0.403423 secs); 03 Jan 2003 13:00:26 -0000
+X-Qmail-Scanner-Mail-From: cgimenez@... via multivac.xnetcuyo.com.ar
+X-Qmail-Scanner: 1.01 (Clean. Processed in 0.403423 secs)
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 3 Jan 2003 13:00:26 -0000
+Date: Fri, 3 Jan 2003 10:00:25 -0300
+To: mendonet-l@...
+Subject: Re: Re[6]: (unknown)
+Message-Id: <20030103100025.57311438.cgimenez@...>
+In-Reply-To: <1041572823.1328.17.camel@stimpy>
+References: <18015316994.20021218003551@...>
+	<7952.021218@...>
+	<904134014.20021221180556@...>
+	<20021223095048.79b14c1b.cgimenez@...>
+	<1041572823.1328.17.camel@stimpy>
+Organization: XNetCuyo S.A.
+X-Mailer: Sylpheed version 0.8.7 (GTK+ 1.2.10; i386-debian-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+On 03 Jan 2003 02:47:02 -0300
+cabeza <cabeza@...> wrote:
+
+> ha!, no se refería a que ensucian las calles debido a que ahora
+> no les queda otra que urgar en la basura en busca de cartones y vidrios.
+> lo que quiere hacer o ya hizo el invecil de hadad es otro tema.
+> el texto de arriba mas bien era una citación casi exacta del libro
+> "que es la propiedad" de proudhon y fue citado solo para ver la
+> reacción de Sebas, baa eso supongo, es el único motivo que se me ocurre
+> 
+
+ hadad habra leido el libro de proudhon ? :P :P 
+
+
+-- 
+
+Cristian Gimenez
+
+XNet Cuyo S.A.
+Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-261-4252788
+

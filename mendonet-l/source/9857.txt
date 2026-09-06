@@ -1,0 +1,49 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 23024 invoked from network); 3 Jul 2000 21:16:46 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 3 Jul 2000 21:16:46 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 3 Jul 2000 21:16:44 -0000
+Received: from pentium.localdomain (rdumend2-200.41.21.21 [200.41.21.21] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id SAA09343 for <mendonet-l@egroups.com>; Mon, 3 Jul 2000 18:19:18 +0300 (GMT)
+Received: from supernet.com.ar (pentium [192.168.1.200] (may be forged)) by pentium.localdomain (8.9.3/8.9.3) with ESMTP id SAA03487 for <mendonet-l@egroups.com>; Mon, 3 Jul 2000 18:19:37 -0300
+Sender: federico@...
+Message-ID: <39610367.F56B382C@...>
+Date: Mon, 03 Jul 2000 18:19:36 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.12 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: bajo tierra
+References: <20000703202507.23845.qmail@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+fcanizo@... wrote:
+
+> El 29/06/00, harpo le escupió ruidosamente a mendonet-l@egroups.com:
+>
+> h>Mierda que es vieja esta boludez!
+> h>Ponete  media pila y responde mas seguido
+>
+> Se me quedan en el tintero y salen junto con los nuevos.
+>
+> Pasa que estuve como 10 días bajo tierra... err... hice
+> andar el starcraft.
+>
+
+Lo hiciste andar en Linux ?
+
+
+--
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+"Si luchas contra el mejor, muere como los demás."
+
+
+
+

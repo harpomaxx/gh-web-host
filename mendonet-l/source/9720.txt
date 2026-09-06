@@ -1,0 +1,150 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 10756 invoked from network); 8 Jul 2000 21:28:46 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 8 Jul 2000 21:28:46 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 8 Jul 2000 21:28:46 -0000
+Received: (qmail 14720 invoked by uid 417); 8 Jul 2000 21:33:39 -0000
+Received: from mza2ppp-203.uc.infovia.com.ar (209.13.229.203) by smtpb.softhome.net with SMTP; 8 Jul 2000 21:33:39 -0000
+Date: Fri, 7 Jul 2000 18:17:45 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <18762.000707@...>
+To: gonzalo torrisi <mendonet-l@egroups.com>
+Subject: Re: Buenas, soy el oxiuro!!
+In-reply-To: <200007040903328.SM00155@...>
+References: <200007040903328.SM00155@...>
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------3B1585E2CEF146"
+From: Lupus el Lobo <aldocop@...>
+
+
+------------3B1585E2CEF146
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+El 7/4/2000 gonzalo torrisi me decia:
+
+gt> Buenas para la gente de mendon=
+et, para los que conozco y
+gt> los que no conozco tambien.
+
+gt> Esto de e=
+nviar mails a uds. surge por una cuestion de que
+gt> a nadie le interesa =
+las matematicas, ya que nadie le
+gt> contesta al supuesto genio calculi=
+n Groucho y sus
+gt> problemas sacados de libros.
+
+gt> Bueno, yo si le doy u=
+n poco de atencion y para el otro
+gt> fanatico del manga y el anime l=
+e tengo una pregunta muy
+gt> simple ( asi comenzara todo)
+
+gt> Aver qui=
+en sabe esto:
+
+gt> Se posee una lamina de carton cuadrada de lado L y=
+ se
+gt> desea hacer una caja sin tapa de volumen maximo: =BFCual
+gt> de=
+ben ser las medidas de la base y la altura de las
+gt> paredes para que se c=
+umpla esto?
+gt> por favor sientanse libre de contestar y ya les tendre
+=
+gt> nuevos problemas de la vida real.
+
+gt> nos Vemos
+
+Supongo  que  esta  r=
+espuesta llegara tarde porque este mail recien lo
+veo  hoy  y  alguien =
+habra respondido ya... ademas calculo que esperas
+una  especie  de  d=
+emostracion  que  fundamente la respuesta... bueno,
+intentare algo rapi=
+dito...
+
+La  solucion  facil  que  se  me  ocurre  es  esta:  sabemos  =
+que  la
+configuracion  optima  corresponde a un cubo de arista a, porqu=
+e es el
+que mas se acerca a una esfera. Ademas sabemos que la superfici=
+e total
+del  cubo sera: S=3DLxL, osea L exp 2 ("exp" implica "elevado a l=
+a"). la
+superficie  de  un  cubo sin tapa sera de arista "a" sera: a exp =
+2 x 5
+(ya que seran 5 caras). entonces:
+
+L exp 2 =3D a exp 2 x 5
+
+a=3D  r=
+aiz cuadrada de (L al cuadrado sobre 5). Me cago en mi edicion de
+formu=
+las...  esa  es  una  respuesta valida para el alto y ancho de tu
+cubo,  =
+pero  supongo  que  no  es la respuesta que buscas, simplemente
+porque  e=
+se  cubo  es  bastante  dificil  de construir... tendrias que
+cortar   =
+primero  los  cuatro lados que entran en la cartulina y luego
+armar  el  ot=
+ro  cuadrado con unas franjitas de longitud mayor que a y
+ancho  mucho  men=
+or  que  a...  asi que tendrias que entrar a cortar y
+pegar  como  un  =
+gil...  ese es el limite teorico de volumen que vas a
+poder conseguir=
+ con esa superficie sin curvar las caras de la figura.
+Hay otras formas de =
+cortar para hacerlo mas parejo, pero igual hay que
+cortar en varios pedac=
+itos por lo menos un lado.
+
+A ver, otro intento:
+
+El volumen de la caja sin=
+ tapa sera: V=3D B1*B2*h (B1 y B2 son los lados
+de la base que asi no e=
+s necesariamente cuadrada, y h la "haltura". El
+problema  esta en la rest=
+riccion de que los 4 pedazos de careton deben
+salir  de  una  cartulina=
+  cuadrada  de  lado L... mmm... lo que se me
+ocurre  hacer  es intentar es=
+cribir mtematicamente las restricciones y
+despues   expresar   las  med=
+idas  que  te  dije  en  funcion  de  las
+restricciones  geometricas  a=
+l cortar la cartulina en 5, despues poner
+la  ecuacion  de V en funci=
+on de las restricciones, derivar, igualar a
+cero  y  sacar los optimos.=
+.. esta solucion va a ser limpita pero
+engorrosisima...
+
+La verdad que =
+estuve haciendo un par de dibujos y no se me ocurre como
+cortar  la  cart=
+ulina  en  5 rectangulos que luego sirvan para armar la
+caja,  osea, que =
+compartan las dimensiones b1, b2 y h en como debe ser
+y  a  la  vez  que  n=
+o sobre cartulina... a lo mejor hay que buscar un
+optimo  en  el que sobr=
+e algo de cartulina... o a lo mejor la solucion
+que buscabas es la que di=
+ primero... espero tu respuesta.
+
+
+------------3B1585E2CEF146
+Content-Type: text/plain; name="mats.txt"
+Content-Disposition: attachment; filename="mats.txt"
+
+[ Attachment content not displayed ]
+------------3B1585E2CEF146--
+

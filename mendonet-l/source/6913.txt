@@ -1,0 +1,58 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 04:34:58 -0000
+Received: (qmail 12919 invoked from network); 15 Nov 2000 04:34:57 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 15 Nov 2000 04:34:57 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 15 Nov 2000 04:34:56 -0000
+Received: from antro.micasa ([200.41.31.114]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA05770 for <mendonet-l@egroups.com>; Wed, 15 Nov 2000 01:38:11 +0300 (GMT)
+Date: Wed, 15 Nov 2000 00:28:14 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <219.001115@...>
+To: "harpo@..." <mendonet-l@egroups.com>
+Subject: Re[2]: A todo esto........
+In-reply-To: <20001113082314.E520@...>
+References: <20001113082314.E520@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 13/11/2000, harpo@... velozmente dijo:
+
+hsn> El Sat, Nov 11, 2000 at 12:18:12AM -0300, Groucho Marx dijo:
+>> El 10/11/2000, Goofer entrecortadamente dijo:
+>> 
+>> 
+>> Pero el servidor web donde este la pagina tiene que soportar SSI.
+>> Algo bastante mas mecha es usar PHP (pretty home page) que es otro
+>> minilenguaje interpretado por el servidor (a diferencia de javascript
+>> que es interpretado por el browser).
+>> Pero el servidor web tiene que soportar PHP.
+>> 
+>> El guru de PHP de Mendonet actualmente es Harpo.
+
+hsn> Nada mas lejos de la realidad... mis conocimientos sobre PHP son
+hsn> cuando mucho de medios para abajo.
+
+éso es mucho mejor nivel que mis conocimientos de PHP. Habria que ver
+los de Conan, pero hoy por hoy, sos el tipo que mas sabe de PHP en
+Mendonet.
+
+hsn> Pero PHP tiene un muy buen manual de referencia y si alguna ves
+hsn> programaste en C entonces PHP es una bolazo!!!!
+
+Supongamos que mi plan es instalarlo, y dejar que mis usuarios lo
+usen...
+Eso es facil o dificil?
+
+-- 
+Groucho Marx
+Te presento a la mafia china. Estos sujetos son capaces de matarte 3
+veces antes de que toques el suelo.  -- Edna Krabaple
+
+
+

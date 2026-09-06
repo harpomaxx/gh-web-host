@@ -1,0 +1,56 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 56414 invoked from network); 12 Sep 2003 20:41:16 -0000
+Received: from unknown (66.218.66.216)
+  by m14.grp.scd.yahoo.com with QMQP; 12 Sep 2003 20:41:16 -0000
+Received: from unknown (HELO mail1relaynoc.bbt.net.ar) (200.81.94.8)
+  by mta1.grp.scd.yahoo.com with SMTP; 12 Sep 2003 20:41:15 -0000
+Received: (qmail 31924 invoked from network); 12 Sep 2003 20:41:13 -0000
+Received: from 200-80-60-183.bbt.net.ar (HELO torton.micasa.org.ar) (200.80.60.183)
+  by mail1relaynoc-fe.bbt.net.ar with SMTP; 12 Sep 2003 20:41:13 -0000
+Received: from antro.micasa.org.ar ([10.55.68.2] helo=there)
+	by torton.micasa.org.ar with smtp (Exim 3.35 #1 (Debian))
+	id 19xujC-0000eQ-00
+	for <mendonet-l@...>; Fri, 12 Sep 2003 17:41:14 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: efemerides0
+Date: Fri, 12 Sep 2003 17:52:32 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <E19xajv-0000U3-00@...> <10857.030911@...>
+In-Reply-To: <10857.030911@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E19xujC-0000eQ-00@...>
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Jue 11 Sep 2003 20:34, Sebas escribió:
+> M> un dia como hoy alla por 11 de septiembre de 1888 murio un viejo
+> loco M> un idealista, un patriota, educador, uno de los mejores
+> precidentes M> argentinos
+> M> eso es mas importante que la caida de dos torrecitas de mierda.
+>
+> Viejo del orto, vende patria y genocida.
+
+Viejo del orto: Excentrico, egolatra, furibundo... Sin duda un 
+personaje.
+Vende patria: por que? Por vivir en un pais escasamente poblado, 
+situado marginalmente en el mundo, con enormes recursos para prosperar 
+pero sin la suficiente gente para explotarlo? Por vivir en la epoca de 
+auge del positivismo? No estas teniendo en cuenta el contexto.
+Genocida: definitivamente no se de que hablas. A que genero mato 
+Sarmiento?
+
+-- 
+Herr GrouchoX
+
+ID Jabber: groucho@...
+Señal distintiva: LU5MJR - 144,550 MHz FM.
+Clave pública GPG: [pronto la voy a subir a algún lado]
+Fingerprint GPG: 00EC 0B71 49D5 2EEC 357C  9A78 A87B DC4F 1B31 8B55
+

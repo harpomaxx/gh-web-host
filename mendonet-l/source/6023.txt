@@ -1,0 +1,37 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_3); 24 Jun 2001 07:05:20 -0000
+Received: (qmail 43847 invoked from network); 24 Jun 2001 07:05:20 -0000
+Received: from unknown (10.1.10.142) by l7.egroups.com with QMQP; 24 Jun 2001 07:05:20 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.82) by mta3 with SMTP; 24 Jun 2001 07:05:15 -0000
+Received: (qmail 19954 invoked by uid 1005); 23 Jun 2001 18:15:36 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.163277 secs); 23/06/2001 15:15:34
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3) by torton.micasa with SMTP; 23 Jun 2001 18:15:33 -0000
+Date: Sat, 23 Jun 2001 15:15:33 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain; charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <9671.010618@...> <9697.010619@...> <20010620105812.B25310@...>
+In-Reply-To: <20010620105812.B25310@...>
+Subject: Re: Mi computadora =?iso-8859-1?q?esta=20senil=20-=20Anecdota=20de=20un=20amigo=20de?= la =?iso-8859-1?q?niña?=
+MIME-Version: 1.0
+Message-Id: <01062315153300.01161@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mié 20 Jun 2001 10:58, escribiste:
+
+> > El ansi-art te salio casi profesional. Con un poco mas de soltura
+>   ^^^^^^^^^^^
+>
+> Este... el comun de la gente lo llama ascii-art...ah.. me olvidaba
+> vos no eras el comun de la gente.
+
+El ascii-art es un subconjunto del ansi-art. Llamenme generalista, si 
+les place
+
+-- 
+Groucho Marx
+

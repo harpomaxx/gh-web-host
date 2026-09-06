@@ -1,0 +1,26 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 6546 invoked from network); 18 May 2000 02:28:15 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 18 May 2000 02:28:15 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 18 May 2000 02:28:14 -0000
+Received: from ANTRO ([200.41.31.114]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA21624 for <mendonet-l@egroups.com>; Wed, 17 May 2000 23:22:18 +0300 (GMT)
+Date: Wed, 17 May 2000 23:26:10 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <13976.000517@...>
+To: Coronel Mansilla <mendonet-l@egroups.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Groucho Marx <groucho@...>
+
+Y mi Coronel?
+Como va la impresion laser?
+
+-- 
+Groucho Marx
+As soon as I get through with you, you'll have a clear case for divorce and so will my wife. -- Groucho Marx
+
+
+

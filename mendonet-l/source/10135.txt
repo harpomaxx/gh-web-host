@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 1833 invoked from network); 24 Jun 2000 12:22:54 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 24 Jun 2000 12:22:54 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 24 Jun 2000 12:22:53 -0000
+Received: from 200.41.31.102 ([200.41.31.102]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id JAA03477 for <mendonet-l@egroups.com>; Sat, 24 Jun 2000 09:23:33 +0300 (GMT)
+Date: Wed, 21 Jun 2000 08:53:47 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <10370.000621@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: Negropontistas
+In-reply-To: <001401bfd805$c1d8a4e0$2a7c2ac8@tepes>
+References: <001401bfd805$c1d8a4e0$2a7c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 16/06/2000, Sebas entrecortadamente deliró:
+
+S> Che, estoy leyendo un libro en el cual le dan con un caño a Nicholas Negroponte. Me imagino que en este ámbito debe haber más de un lector del "ser digital". ¿Podrían hacerme un pequeño resumen
+S> sobre qué trata? Especialmente la "lógica circular".
+
+Que podria decirse de malo de Negroponte?
+Ser digital es un libro que te podria prestar Conan si queres leerlo.
+Basicamente, el tipo plantea que toda nuestra sociedad se basa en el
+transporte de atomos, pero que eso va a cabiar radicalemente para
+pasar a ser una sociedad basada en el transporte de bits.
+
+A ver:
+El correo de papel es un transporte de atomos (atomos de tinta? ja!)
+pero el correo electronico es un transporte de bits.
+El asunto es que nosotros estamos hechos de atomos por lo tanto, gran
+parte de nuestras necesidades deben ser satisfechas con atomos (comida
+por ejemplo).
+
+-- 
+Groucho Marx
+Rápido como escupida de músico
+
+
+

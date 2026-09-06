@@ -1,0 +1,51 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 5 Mar 2003 12:46:59 -0000
+Received: (qmail 38525 invoked from network); 5 Mar 2003 12:46:59 -0000
+Received: from unknown (66.218.66.217)
+  by m2.grp.scd.yahoo.com with QMQP; 5 Mar 2003 12:46:59 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 5 Mar 2003 12:46:58 -0000
+Received: (qmail 23625 invoked by uid 417); 5 Mar 2003 12:46:58 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 5 Mar 2003 12:46:58 -0000
+Received: from dup-200-42-124-182.prima.net.ar ([200.42.124.182])
+  by softhome.net with esmtp; Wed, 05 Mar 2003 05:46:44 -0700
+Date: Wed, 5 Mar 2003 09:42:39 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <1404.030305@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: =?ISO-8859-1?B?SW5mb3Jt4XRpY2EgcGFyYSB0b2Rvcw==?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+Sucede que yo usaba ocasionalmente el teleport pro, una versión
+shareware cuyo "craqueador"(estará bien dicho?) no funcionó,
+probablemente por un problema del disquito en que me lo grabaron. El
+tiempo de prueba venció, y ya no puedo usarlo más. Imagino que en
+algún lugar de la computadora debe haber un archivito que le diga al
+programa que ya no debe seguir funcionando, sin importar que lo
+desinstale y reinstale. Imagino(parte del imaginario popular) tal vez
+est� en lo que denominan "registro", si es que tal cosa existiera.
+Imagino también que en una de esas es sólo cuestión de borrar ese
+archivito para poder usar el teleport por otro "período de prueba".
+
+Por favor, indique cuál de mis imaginaciones son correctas, cuales no,
+e indique además el modo de proceder en caso de que mis imaginaciones
+no estén tan erradas.
+
+Gracias
+
+-- 
+ Sebas  
+El trabajo libera. (Pórtico del campo de concentración de Auschwitz.)                      
+
+
+

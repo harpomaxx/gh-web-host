@@ -1,0 +1,46 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 2 Sep 2001 22:05:40 -0000
+Received: (qmail 51965 invoked from network); 2 Sep 2001 22:05:39 -0000
+Received: from unknown (10.1.10.27)
+  by l7.egroups.com with QMQP; 2 Sep 2001 22:05:39 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.95)
+  by mta2 with SMTP; 2 Sep 2001 22:05:39 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 30 Aug 2001 19:16:52 -0700
+X-Originating-IP: [200.45.193.221]
+To: <mendonet-l@yahoogroups.com>
+References: <01082403041700.00700@...> <4565.010824@...>
+Subject: Re: Re[4]: ¿Buenas? y etc...de uno nuevo
+Date: Thu, 30 Aug 2001 10:17:03 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE38lhgnFZS4HIv6Eyb000002a6@...>
+X-OriginalArrivalTime: 31 Aug 2001 02:16:52.0118 (UTC) FILETIME=[FF630360:01C131C2]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+AW>    Windows es uno de esos productos como tambien Gran Hermano o
+cualquier
+AW> reality show. Donde se "garantiza" tener algo autentico y controlado.
+En realidad, te garantizan una interfaz "amigable" y un manejo
+sencillo, con una resolución de problemas relativamente simple y al
+alcance de cualquier ser humano... no digo que realmente sea así,
+sino que, dado su difusión, manejar windows es algo tan común como
+manejar un auto corriente, en cambio linux se nos presenta a los
+neófitos como un auto para seres sin manos y con ojos en el culo, y
+que encima, si se rompe no tiene mecánico, tiene que arreglarlo uno
+mismo. Desde el facilismo dueño del mundo, la opción es lógica, más
+allá de que linux sea mejor... no se si se entiende mi punto.
+
+grashias, guindou, por esisti, te lo agradeshemo, noshotro, lo estudiante de
+medicina
+

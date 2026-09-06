@@ -1,0 +1,65 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 20 Sep 2001 01:08:43 -0000
+Received: (qmail 7640 invoked from network); 20 Sep 2001 01:08:43 -0000
+Received: from unknown (10.1.10.142)
+  by l10.egroups.com with QMQP; 20 Sep 2001 01:08:43 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.113)
+  by mta3 with SMTP; 20 Sep 2001 01:08:42 -0000
+Received: (qmail 13810 invoked by uid 1005); 19 Sep 2001 17:59:20 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 4.227502 secs); 19/09/2001 14:59:16
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 19 Sep 2001 17:59:11 -0000
+Date: Wed, 19 Sep 2001 14:59:11 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <8334.010916@...> <7122.010917@...>
+In-Reply-To: <7122.010917@...>
+Subject: Re: Lupus, como moneda de 3
+MIME-Version: 1.0
+Message-Id: <01091914591100.00457@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 17 Sep 2001 02:56, escribiste:
+
+> Como puta puede ser que no me entiendan!!!!!!!!
+>
+> Ahora, si mollo toca siempre igual, es porque es capaz de hacerlo, y
+> podría pensarse que lo hace porque quiere, si varía una vez pa arriba
+> y la otra pa abajo... es claro que su "desprolijidad" es consecuencia
+> de su falta de profesionalidad.
+
+Vos decis que:
+Constancia->Control->Capacidad->Talento->Groso
+
+El problema es como estar seguro que cuando se aparta de lo previsto es 
+porque quiere o porque no le da para mas. No podemos confiar en su 
+palabra porque el podria estar interesado en que concluyamos que es 
+groso.
+Es decir que:
+Talento->Capacidad->Control->Constancia
+es valido, pero tambien:
+Talento->Capacidad->Control->Inconstancia.
+
+Quizas Oxi tenga mediciones de la desviacion estandar en las 
+interpretaciones de Mollo.
+Ahora podria ser que el tipo sea animicamente inestable, y haya dias 
+que se le cante el culo tocar asi o asa, lo cual introduciria ruido en 
+tales observaciones.
+
+Inconstancia->Descontrol->Incompetencia->Fiasco podria estar provocado
+por Suministro Irregular de Drogas, Acceso Restringido a Sexo, Cortes 
+Frecuentes en la Television por Cable...
+
+Y si para concluir que el tipo es groso, debe tocar con constancia 
+incluso cuando sus estimulos son muy irregulares entonces vos lo que 
+queres es un automata.
+
+-- 
+Groucho Marx
+

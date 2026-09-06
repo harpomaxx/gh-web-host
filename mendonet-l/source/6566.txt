@@ -1,0 +1,49 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 9 Dec 2000 19:23:27 -0000
+Received: (qmail 97005 invoked from network); 9 Dec 2000 19:23:27 -0000
+Received: from unknown (10.1.10.142) by l8.egroups.com with QMQP; 9 Dec 2000 19:23:27 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 9 Dec 2000 20:24:32 -0000
+Received: (qmail 15681 invoked by uid 417); 9 Dec 2000 19:26:06 -0000
+Received: from unknown (HELO 200.41.31.116) (200.41.31.116) by smtpa.softhome.net with SMTP; 9 Dec 2000 19:26:06 -0000
+Date: Fri, 8 Dec 2000 13:51:23 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <4577.001208@...>
+To: mendonet-l@egroups.com
+Subject: =?ISO-8859-1?B?UmVbMl06IGNvc2FzIHF1ZSBubyBkZWJpZXJhbiB0cmF0YXJzZSBhcXXt?= =?ISO-8859-1?B?IHBvciBxdWUgbm8=?=
+In-reply-To: <20001208094816.E17346@...>
+References: <20001208094816.E17346@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Friday, December 08, 2000, 9:48:17 AM, you wrote:
+
+  No es ncurses más flexible y potente?
+
+hsn> Seguramente, pero Whiptail es bien simple, para implementaciones elementales
+hsn> de shellscripts...
+
+hsn> Ahora te aviso, en mendonet SE HABLA DE COMPUTACION/LINUX/SIMPSONS/LESBIANISMOS!!!
+hsn> Esta lista nacio asi...!!!
+
+hsn> De todas maneras busque en los libros (no exaustivamente), y no encontre nada
+hsn> de como usar Ncurses con Perl, asi que voto por que es una sanata tuyo, hasta
+hsn> demostrar lo contrario!
+
+     estoy de acuerdo con vos Harpo, totalmente
+
+-- 
+  nadie, apoltronado en la tibieza de una vida timorata,
+  puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                            
+
+
+

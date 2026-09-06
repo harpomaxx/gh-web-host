@@ -1,0 +1,64 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_0_3); 3 Oct 2000 03:45:41 -0000
+Received: (qmail 18176 invoked from network); 3 Oct 2000 03:45:40 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 3 Oct 2000 03:45:40 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 3 Oct 2000 03:45:39 -0000
+Received: from 200.41.31.87 ([200.41.31.87]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id AAA08971 for <mendonet-l@egroups.com>; Tue, 3 Oct 2000 00:48:22 +0300 (GMT)
+Date: Mon, 2 Oct 2000 16:34:34 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <18690.001002@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Re[2]: Ayiuda!
+In-reply-To: <00e601c02bd2$9e84be40$4b1f29c8@mendoza>
+References: <00e601c02bd2$9e84be40$4b1f29c8@mendoza>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 01/10/2000, Mariana fuertemente detalló:
+
+>>> Puede ser que algun payaso haya usado tu direccion para hacer spamming
+>>> (uno de los planes que tenia para joder al Morga�o�o)
+
+M> Desde hace ya un par de meses que un spam me está rompiendo las bolas...
+M> ¿Fuiste vos, Groucho?
+
+Yo spammer??? Yo detesto a los spammers!!!!
+Por eso hacer que Morganti pasara por uno hubiera sido un castigo
+demasiado terrible, y finalmente me conforme con saber que SOY CAPAZ
+DE HACERLO, sin tener que hacerlo realmente.
+
+
+M> Otra cosa... ¿Cómo puedo hacer para sacarmelo de encima?... ¿Existe alguna
+M> manera sin que haya necesidad de instalarme algún programita?
+
+Vos mandame como archivo adjunto uno o varios de los mensajes de ese
+pelotudo y yo me encargo de ponerlo en su lugar...  ;-)
+
+Basicamente tenes que saber quien es, y pagarle con su propia
+medicina aumentada 10 veces, para que aprenda a respetar a los demas.
+
+Despues podes quejarte al administrador de todos los servidores por
+donde paso el mensaje, para que lo bloqueen en el futuro.
+Despues tenes que maltratar a tus hermanos por andar poniendo tu
+direccion de e-mail en cualquier lado.
+Despues tenes que putear a todos los que te mandan cadenas tontas de
+mensajes para que aprendan a borrar las direcciones de e-mail que ahi
+salen (principal alimento de los spammers).
+Finalmente, debes configurar tu programa para que cada vez que vea un
+mensaje de ese pelotudo, lo borre del servidor sin bajarlo, y le mande
+una respuesta automatica indicandole que es un pelotudo.
+Eso si se lo hice a Morganti!!!!
+
+-- 
+Groucho Marx
+Esta será una semana memorable -- no importa cuánto trate de olvidarla.
+
+
+

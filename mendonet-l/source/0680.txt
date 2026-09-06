@@ -1,0 +1,44 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-8_2_3_0); 21 Dec 2002 14:06:24 -0000
+Received: (qmail 98186 invoked from network); 21 Dec 2002 14:06:24 -0000
+Received: from unknown (66.218.66.217)
+  by m13.grp.scd.yahoo.com with QMQP; 21 Dec 2002 14:06:24 -0000
+Received: from unknown (HELO elserver.forknet.org.ar) (200.70.107.71)
+  by mta2.grp.scd.yahoo.com with SMTP; 21 Dec 2002 14:06:23 -0000
+Received: (qmail 20255 invoked by uid 1000); 21 Dec 2002 03:13:16 -0000
+Date: Sat, 21 Dec 2002 00:13:16 -0300
+To: mendonet-l@...
+Subject: Obra de teatro
+Message-ID: <20021221031316.GB20221@...>
+Mime-Version: 1.0
+Content-Type: text/plain
+Content-Disposition: inline; filename="msg.pgp"
+User-Agent: Mutt/1.4i
+X-Operating-System: Linux elserver 2.4.19
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+Reply-To: harpo@...
+X-Yahoo-Group-Post: member; u=3400103
+X-Yahoo-Profile: harpomaxx
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Gente: los invito a la obra de teatro "el herrero y la muerte" el domingo 22
+de diciembre a partir de las 9:30 en la sala el taller (de ernesto Suarez).
+
+Mi brotha participa en esa obra, y la entrada es de 3 pesos. SAlutes!
+- -- 
+Harpo+
+[FP] F152 8D50 6939 E21A 7A90  CDD4 AEE4 FA48 DF70 4D68 
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (GNU/Linux)
+
+iD8DBQE+A9xMruT6SN9wTWgRAmbtAKCaRTEJvrQc3Gf5Rew6j24PL2uzagCeIOmE
+Jbvy0m2f+DttQz3Sa0XbuZI=
+=6a2+
+-----END PGP SIGNATURE-----
+

@@ -1,0 +1,62 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 25 Jun 2002 17:02:56 -0000
+Received: (qmail 20533 invoked from network); 25 Jun 2002 17:02:55 -0000
+Received: from unknown (66.218.66.217)
+  by m5.grp.scd.yahoo.com with QMQP; 25 Jun 2002 17:02:55 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 25 Jun 2002 17:02:55 -0000
+Received: (qmail 19736 invoked by uid 417); 25 Jun 2002 17:02:53 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 25 Jun 2002 17:02:53 -0000
+Received: from a200042124227.rev.prima.com.ar ([200.42.124.227])
+  by softhome.net with esmtp; Tue, 25 Jun 2002 11:02:50 -0600
+Date: Tue, 25 Jun 2002 14:05:11 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <3586.020625@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbMl06IFByZWd1bnRhIHTpY25pY2EgSUk=?=
+In-reply-To: <018a01c21c4d$c0775220$060aa8c0@...>
+References: <018a01c21c4d$c0775220$060aa8c0@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> ¿Podría uno de ustedes decirme con qué programa puedo pasar de mp3 al
+>> formato que habitualmente viene en los cds de audio? Preferiblemente
+>> un programa no muy pesado para poder bajarlo de internet
+GM> Seria el formato "raw", algo asi como un WAV de 44kHz, estereo,
+GM> little-endian sin cabecera...
+GM> Como no tiene sentido almacenar ese formato en el disco rigido sin la
+GM> cabecera, la mayoria de los programas de grabacion de CDs permiten grabar
+GM> pistas de audio a partir de archivos WAV sin problemas (y con la ventja de
+GM> que se encargan de swappear el orden de los bytes si el WAV fuera
+GM> big-endian).
+GM> En cuando a un programa para convertir de MP3 a WAV, cualquier decodificador
+GM> (o sea reproductor) de MP3 sirve. Cuando usaba Windows, lo hacia con el
+GM> Winamp y el plug-in para salida a disco...
+Me perdí un poquito, así que... si quiero pasar mis mp3 de Led
+Zeppelin, Sumo y Janis Joplin a sendos cds para luego poder
+escucharlos en mi equipito portátil en mi habitación, o sea, sin
+computadora de por medio... ¿cómo hago?
+
+
+ 
+
+GM> Tu uso de Yahoo! Grupos está sujeto a las http://ar.docs.yahoo.com/info/utos.html 
+
+
+
+
+-- 
+Sebas   
+El mundo es redondo y lo llaman planeta. Si fuese plano... ¿lo llamarían  redondeta?                       
+
+
+

@@ -1,0 +1,81 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 25 Apr 2002 18:19:09 -0000
+Received: (qmail 15430 invoked from network); 25 Apr 2002 18:16:34 -0000
+Received: from unknown (66.218.66.218)
+  by m9.grp.scd.yahoo.com with QMQP; 25 Apr 2002 18:16:33 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.121)
+  by mta3.grp.scd.yahoo.com with SMTP; 25 Apr 2002 18:16:29 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 25 Apr 2002 11:16:29 -0700
+To: <mendonet-l@...>
+References: <018a01c1e7bf$f0d75c20$060aa8c0@...> <E16zkWR-0000Pu-00@...> <OE31RHiU34iEzRmknJM00005cd9@...> <E1709ae-00018x-00@...>
+Subject: Re: Re[2]: para los que saben de virus, ¿que opinan sobre esto?
+Date: Thu, 25 Apr 2002 14:53:18 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE17CAGXbae0ymZLPWX000030ee@...>
+X-OriginalArrivalTime: 25 Apr 2002 18:16:29.0580 (UTC) FILETIME=[52213CC0:01C1EC85]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.192.19]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+----- Original Message -----
+From: "Groucho Marx" <groucho@...>
+To: <mendonet-l@...>
+Sent: Tuesday, April 23, 2002 11:16 PM
+Subject: Re: Re[2]: para los que saben de virus, ¿que opinan sobre esto?
+
+
+> El Mar 23 Abr 2002 12:58, escribiste:
+>
+> > > > > GM> Imbecil. jdbgmgr.exe no es un virus.
+> > > > > GM> Deberias confirmar la informacion que envias...
+> > > > > Sé mucho menos de computadoras, pero lo mío fue más preciso, y
+> > > > > definitivamente más pedagógico.
+> > > >
+> > > > ya sabia que no era un virus, solo que me lo enviaron con el
+> > > > rotulo de virus y yo te pregunto era para saber porque no es un
+> > > > virus, pero no importa le preguntare a alguien menos pedagogico.
+> > >
+> > > Yo no vi ninguna pregunta... Es porque no la escribiste o porque no
+> > > la lei?
+> >
+> > transcribo el subject para los que no ven mas alla de lo que quieren
+> > ver: para los que saben de virus, ¿que opinan sobre
+> > esto?>>>>>>>>>>>>>PREGUNTA
+>
+> Aha... Pero no quedo claro. Si vos compras el libro de Sebas que en la
+> tapa dice "QUE ES LA VIDA" y cuando lo abris en el primer capitulo
+> empieza diciendo: "Es la conciencia no perdida en forma irreversible"
+> no entenderias nada.
+> Segurametne en el primer capitulo, dentro del cuerpo se repite la
+> pregunta. Analogamente, si queres hacer una pregunta en un mail, la
+> pones en el cuerpo. Lo que pones en el titulo es para ver si uno se va
+> a molestar el leer el cuerpo o no, y nunca debe usarse como primera
+> oracion del cuerpo.
+>
+> Y si bien mi intencion fue insultarte y menospreciarte por haber
+> mandado el falso aviso de virus, si lees desprovisto de emocion mi
+> respuesta la misma puede interpretarse asi:
+>
+>
+> Pregunta: para los que saben de virus, ¿que opinan sobre esto?
+> Respuesta: opino que es algo imbecil: jdbgmgr.exe no es un virus.
+> Deberias confirmar la informacion que envias.
+
+ primero se entiende que la pregunta existio, segundo no fue respondida
+correctamente, ya que se insulto al que la mandaba, quien solo pretendia
+informacion y tercero la respuesta de arriba es correcta ya que se ataca al
+mail, la cual puede llegar a ser informativa, ya que se evidencias de que el
+"virus" no es tal y es solo caca.
+

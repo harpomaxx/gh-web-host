@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 4706 invoked from network); 28 Aug 2000 01:54:11 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 28 Aug 2000 01:54:11 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta2 with SMTP; 28 Aug 2000 01:54:10 -0000
+Received: from ANTRO ([200.41.31.114]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA21541 for <mendonet-l@egroups.com>; Sun, 27 Aug 2000 22:55:48 +0300 (GMT)
+Date: Sun, 27 Aug 2000 23:00:23 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <17958.000827@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: prueba
+In-reply-To: <00a901c00fca$e7382240$987d2ac8@tepes>
+References: <00a901c00fca$e7382240$987d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+>> Exactamente que querias probar?
+> ¿Te mencioné que como buen compuignorante mi computadora funciona para el
+> reverendo ojete? Si le sumamos que cada vez que funciona mal(que es todo el
+> tiempo) siento la irresistible tentación de querer arreglara...
+> Esta vez dudaba de varias cosas, mi conexión a internet, mi cliente de mail,
+> y varios etcéteras más.... y nunca nadie respondió mi duda acerca de mis
+> controladores de disco rígido automáticamente descomponibles.
+
+No, no!!! Ese es un problema facil de resolver!!!!
+Habria que ver exactamente que drivers tenes activada, y que modelo de
+mobo (=motherboard) es tu maquina, para colocar el driver correcto.
+
+El problema es que no te puedo dar interactivamente los pasos para
+solucionar el problema por e-mail, porque es probable que mientras
+dure el arreglo, solo te ande el modo a prueba de fallos, y ahi perdes
+acceso al e-mail y no te puedo decir como seguir (pues depende de
+informacion que la misma maquina te  va a dar).
+
+Es mejor arreglarlo personalmente, no por control remoto.
+
+Groucho
+
+
+

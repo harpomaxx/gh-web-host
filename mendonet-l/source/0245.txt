@@ -1,0 +1,57 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 27931 invoked from network); 24 Aug 2003 03:38:36 -0000
+Received: from unknown (66.218.66.216)
+  by m8.grp.scd.yahoo.com with QMQP; 24 Aug 2003 03:38:36 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta1.grp.scd.yahoo.com with SMTP; 24 Aug 2003 03:38:33 -0000
+Received: (qmail 32039 invoked by uid 404); 24 Aug 2003 03:37:34 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar by uid 401 with qmail-scanner-1.16 
+ (uvscan: v4.1.60/v4288. spamassassin: 2.44.  Clear:. 
+ Processed in 0.488719 secs); 24 Aug 2003 03:37:34 -0000
+Received: from unknown (HELO xnetcuyo.com.ar) (127.0.0.1)
+  by 0 with SMTP; 24 Aug 2003 03:37:33 -0000
+Received: from 200.80.150.41
+        (SquirrelMail authenticated user cgimenez@...)
+        by webmail1.xnetcuyo.com.ar with HTTP;
+        Sun, 24 Aug 2003 00:37:33 -0300 (ART)
+Message-ID: <34481.200.80.150.41.1061696253.squirrel@...>
+Date: Sun, 24 Aug 2003 00:37:33 -0300 (ART)
+Subject: Re: linda foto
+To: <mendonet-l@...>
+In-Reply-To: <1061695123.950.3.camel@stimpy>
+References: <Law10-F17kMZ3uYLRCc00027f76@...>
+        <6625260502.20030822212255@...>
+        <E19qh7k-0008Ds-00@...>
+        <1061695123.950.3.camel@stimpy>
+X-Priority: 3
+Importance: Normal
+X-Mailer: SquirrelMail (version 1.2.10)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: "Cristian Gimenez" <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+> grrrrrr, bueno no aguanto más sin mandar la foto
+> ya que para armarla como yo quiero puede que
+> pase mucho tiempo.
+>
+> mientras, mando solo 2 de las 21 fotos que forman
+> el total de la foto panoramica.
+>
+
+seria muy cool que cdo la tengas lista la mandes :)
+
+saludos
+-- 
+Cristian Gimenez
+XNet Cuyo S.A.
+Investigacion y Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-261-4252788
+
+
+

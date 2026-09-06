@@ -1,0 +1,65 @@
+From cabeza@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cabeza@...>
+X-Sender: cabeza@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 96239 invoked from network); 24 Aug 2003 03:18:58 -0000
+Received: from unknown (66.218.66.217)
+  by m12.grp.scd.yahoo.com with QMQP; 24 Aug 2003 03:18:58 -0000
+Received: from unknown (HELO muddy.fedped.com.ar) (200.80.52.246)
+  by mta2.grp.scd.yahoo.com with SMTP; 24 Aug 2003 03:18:52 -0000
+Received: (qmail 14912 invoked by uid 1005); 24 Aug 2003 03:18:49 -0000
+Received: from cabeza@... by muddy by uid 1002 with qmail-scanner-1.20rc1 
+ (avp: 4.0.0.1.  Clear:RC:1:. 
+ Processed in 2.606738 secs); 24 Aug 2003 03:18:49 -0000
+Received: from unknown (HELO ?192.168.109.8?) (192.168.109.8)
+  by 192.168.109.10 with SMTP; 24 Aug 2003 03:18:45 -0000
+Subject: Re: linda foto
+To: mendonet <mendonet-l@...>
+In-Reply-To: <E19qh7k-0008Ds-00@...>
+References: <Law10-F17kMZ3uYLRCc00027f76@...>
+	 <6625260502.20030822212255@...>
+	 <E19qh7k-0008Ds-00@...>
+Content-Type: multipart/mixed; boundary="=-T58QqhDc2bt/Up0KREnq"
+Organization: 
+Message-Id: <1061695123.950.3.camel@stimpy>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.4 
+Date: 24 Aug 2003 00:18:44 -0300
+From: cabeza <cabeza@...>
+X-Yahoo-Group-Post: member; u=76414316
+X-Yahoo-Profile: c_a_b_e_z_a
+
+
+--=-T58QqhDc2bt/Up0KREnq
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+grrrrrr, bueno no aguanto más sin mandar la foto
+ya que para armarla como yo quiero puede que
+pase mucho tiempo.
+
+mientras, mando solo 2 de las 21 fotos que forman
+el total de la foto panoramica.
+
+
+
+saludos
+Cabeza
+
+
+
+
+
+
+--=-T58QqhDc2bt/Up0KREnq
+Content-Disposition: attachment; filename=02.jpg
+Content-Type: image/jpeg; name=02.jpg
+
+[ Attachment content not displayed ]
+--=-T58QqhDc2bt/Up0KREnq
+Content-Disposition: attachment; filename=03.jpg
+Content-Type: image/jpeg; name=03.jpg
+
+[ Attachment content not displayed ]
+--=-T58QqhDc2bt/Up0KREnq--
+

@@ -1,0 +1,46 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 23 Sep 2001 21:27:45 -0000
+Received: (qmail 53960 invoked from network); 23 Sep 2001 21:27:44 -0000
+Received: from unknown (10.1.10.26)
+  by l9.egroups.com with QMQP; 23 Sep 2001 21:27:44 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta1 with SMTP; 23 Sep 2001 21:27:44 -0000
+Received: from 200-41-31-73-rdunysd1.impsat.net.ar ([200.41.31.73])
+  by softhome.net with esmtp; Sun, 23 Sep 2001 15:26:24 -0600
+Date: Sun, 23 Sep 2001 18:26:47 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: rodralez <rodralez@...>
+X-Priority: 3 (Normal)
+Message-ID: <3768.010923@...>
+To: groucho <mendonet-l@...>
+Subject: Mais larga do mundo
+In-reply-To: <0109181632050D.00460@cubil>
+References: <0109181632050D.00460@cubil>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: rodralez <rodralez@...>
+
+Groucho Marx decia:
+
+> Ese es tu mejor material? Un metodo numerico para ED de segundo orden
+> de coeficientes constantes?
+
+> Cuando sepas como resolver una ecuacion de diferencias de orden 
+> elevado, mediante transformada Z, para calcular un filtro de respuesta 
+> impulsiva finita que se ajuste a un modelo de Cauer, hablemos de nuevo.
+
+Disculpalo Groucho, es que algunos todavía no saben que en ingeniería en
+electrónica se estudia más matemática y física que en algunas otras
+ingenierías.
+
+Será esa una de las razones por la que se tarda una década
+en salir de ella ?!
+
+rodralez
+
+
+

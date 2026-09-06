@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_1); 12 Sep 2001 05:43:16 -0000
+Received: (qmail 93101 invoked from network); 12 Sep 2001 05:43:16 -0000
+Received: from unknown (10.1.10.142)
+  by l9.egroups.com with QMQP; 12 Sep 2001 05:43:16 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.37)
+  by mta3 with SMTP; 12 Sep 2001 05:43:14 -0000
+Received: (qmail 31699 invoked by uid 1005); 12 Sep 2001 02:55:26 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.529369 secs); 11/09/2001 23:55:24
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 12 Sep 2001 02:55:23 -0000
+Date: Tue, 11 Sep 2001 23:55:21 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <7761.010902@...> <01090521002701.00372@cubil> <00d001c13a5f$7d34c900$6301a8c0@g8>
+In-Reply-To: <00d001c13a5f$7d34c900$6301a8c0@g8>
+Subject: Re: Re[3]: Falsa modestia...
+MIME-Version: 1.0
+Message-Id: <01091123552100.00446@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Dom 09 Sep 2001 05:09, escribiste:
+
+> >> que todos buscan algo contra el estres...?
+> >
+> >Yo no busco nada contra el stress!!!!
+> >Buscar algo contra el stress es de perdedores que no aguantan su
+> > propia vida o las reglas del juego del mundo.
+>
+> Habl� Yome tomo las cosas con calma garrison
+> sigo las reglas Benitez,
+> Fidel no me gusta la pachanga...
+>
+> Daaale Groucho..., no jodamo
+
+En serio! Yo despotrico y me enervo con cualquier cosa, pero no me 
+"estreso".
+
+-- 
+Groucho Marx
+

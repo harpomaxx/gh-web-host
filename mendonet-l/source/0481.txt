@@ -1,0 +1,72 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 6 Mar 2003 03:54:51 -0000
+Received: (qmail 33627 invoked from network); 6 Mar 2003 03:54:51 -0000
+Received: from unknown (66.218.66.216)
+  by m6.grp.scd.yahoo.com with QMQP; 6 Mar 2003 03:54:51 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 6 Mar 2003 03:54:51 -0000
+Received: (qmail 21000 invoked by uid 417); 6 Mar 2003 03:54:51 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 6 Mar 2003 03:54:51 -0000
+Received: from dup-200-42-125-99.prima.net.ar ([200.42.125.99])
+  by softhome.net with esmtp; Wed, 05 Mar 2003 20:54:44 -0700
+Date: Thu, 6 Mar 2003 00:52:20 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <036.030306@...>
+To: Groucho Marx <mendonet-l@...>
+Cc: Aldo Coppola <ACOPPOLA2@...>,
+  Cristian Vacarezza <cvacarezza@...>
+Subject: Algo
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+Hoy recibí un mail de una amiga con el subject "habrí mi oficina"
+Obviamente, semejante estupro ortográfico era inaceptable. Así que
+procedí a darle una de las explicaciones sobre por qué tener mala
+ortografía es malo. Cuando terminé noté que había sido muy claro y
+convincente, así que decidí enviarle la explicación a aquellas
+personas con el mismo defecto:
+
+"PD: abra su oficina sin hache, que se le van a espantar los clientes
+puntillosos como yo... sí, ya sé, que soy un pesado y tal, suelen
+decírmelo, pero paso a explicar:
+Cuando leemos, no lo hacemos letra por letra, sino por golpes de
+vista. No miramos cada palabra, sino que nuestro cerebro procesa
+varias palabras juntas, todas las que recibe de un golpe de vista. Si
+dentro de un golpe de vista caen tres palabras, por ejemplo
+"estoy escribiendo boludeces",
+inmediatamente pasará al siguiente grupo de palabras, porque proces�
+correctamente, los términos asimilados son totalmente compatibles con
+los conocidos y no requiere otra acción antes de pasar al siguiente
+grupo. Si en cambio dice
+"hestoy escribiendo boludeces"
+hay un término no compatible con los conocidos por lo que,
+inevitablemente, me demoraré una fracción de segundo(o más) porque, o
+bien debo releer o mi cerebro se demora en chequear la palabra, que ha
+pasado a tener una letra más de las que mi cerebro espera, o bien una
+diferente, con una conformación distinta al golpe de vista.
+Hace poco leí un artículo que comentaba una experiencia sobre le
+particular... se habían elegido personas que leyeran a 400 palabras
+por minuto. Se les hizo leer un texto con un error de ortografía cada
+10 palabras. Como resultado, todos los participantes disminuyeron su
+velocidad de lectura a entre 320 y 370 palabras por minuto. Además,
+sus frecuencias cardíacas eran mayores tras leer el fragmento con
+errores ortográficos, que tras leer el ortográficamente correcto.
+¿No es interesante?
+Hun avraso"
+
+
+-- 
+ Sebas  
+Argentina puede salir rápido de este pozo recesivo, crecerá al 10 por ciento anual�. Domingo Cavallo, diciembre del 2000. (¿Cómo dijo, maestro?)                      
+
+
+

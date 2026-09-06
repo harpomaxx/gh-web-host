@@ -1,0 +1,36 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 18385 invoked from network); 15 Sep 2000 19:15:19 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 15 Sep 2000 19:15:19 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 15 Sep 2000 19:15:18 -0000
+Received: from a2d57.impsat.net.ar (a2d57.impsat.net.ar [200.41.21.117]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id QAA19702 for <Mendonet-l@egroups.com>; Fri, 15 Sep 2000 16:16:35 +0300 (GMT)
+Date: Fri, 15 Sep 2000 15:44:27 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <16655.000915@...>
+To: Mendonet-l@egroups.com
+Subject: Teletrabajo
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Me han ofrecido quedarme a trabajar en mi casa, de 19:00 a 24:00.
+Me colocan una conexion permanente a Internet y una linea telefonica
+para recibir llamadas desde la oficina.
+Mi tarea: desarrollar programas para las paginas web, y atender
+reclamos tecnicos de clientes durante ese horario.
+
+Debo aceptar?
+Ventajas y desventajas?
+
+Ayuda!
+
+
+-- 
+Groucho Marx
+Verás hijo, la mujer es como una heladera. -- Homero J. Simpson
+
+
+

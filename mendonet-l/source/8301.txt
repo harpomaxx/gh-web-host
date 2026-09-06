@@ -1,0 +1,35 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+Received: (qmail 16703 invoked from network); 11 Sep 2000 13:56:17 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 11 Sep 2000 13:56:17 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (204.144.231.7) by mta2 with SMTP; 11 Sep 2000 13:56:16 -0000
+Received: (qmail 13582 invoked by uid 417); 11 Sep 2000 13:56:04 -0000
+Message-ID: <20000911135604.13581.qmail@...>
+To: mendonet-L@egroups.com
+Subject: Llega el cablemodem a Mendoza...
+Date: Mon, 11 Sep 2000 13:55:13 GMT
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="=_0_10934_968680536"; charset="us-ascii"
+X-Sender: rodralez@...
+From: rodralez@...
+
+
+--=_0_10934_968680536
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 8bit
+
+
+
+... de la mano de nuestro meciánico empresario local, Don Vila.
+
+Será cierto ??!.
+
+el rodro
+
+--=_0_10934_968680536
+Content-Type: application/pdf; name="VILA.pdf"
+Content-Disposition: attachment; filename="VILA.pdf"
+
+[ Attachment content not displayed ]
+--=_0_10934_968680536--
+

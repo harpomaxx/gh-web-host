@@ -1,0 +1,77 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:35 -0000
+Received: (qmail 24665 invoked from network); 19 Sep 2001 07:05:34 -0000
+Received: from unknown (10.1.10.26)
+  by l10.egroups.com with QMQP; 19 Sep 2001 07:05:34 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta1 with SMTP; 19 Sep 2001 07:05:29 -0000
+Received: (qmail 8886 invoked by uid 1005); 18 Sep 2001 18:49:15 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.171004 secs); 18/09/2001 15:49:14
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 18:49:13 -0000
+Date: Tue, 18 Sep 2001 15:49:12 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <3BA11C45.24136.531DF@localhost> <5621.010915@...>
+In-Reply-To: <5621.010915@...>
+Subject: Re: Re[2]: Cad del orrrto.....
+MIME-Version: 1.0
+Message-Id: <01091815491208.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Sáb 15 Sep 2001 14:55, escribiste:
+
+> msn> Te agarre!!
+> msn> Ese mail fue enviado con el Outlook Express, como bien dice el
+> msn> header.
+>
+> Che, hablando de headers...
+>
+> Me pueden decir exactamente qué es el Xsender...
+
+Todo lo que empieza con "X-" corresponde a informacion no normalizada 
+que los programas agregan cuando y como quieren, para el uso que 
+quieran.
+Por ejemplo, en los mensajes de Harpo podemos ver:
+
+X-Harpo-Useless-Header: What R U looking at? Asshole!
+
+Sender designa la persona que envio el mensaje, que no necesariamente 
+coincide con la persona que lo escribio. Seria por ejemplo el caso del 
+tipo que deja una serie de mensajes para que su secretaria los envie y 
+luego se va de vacaciones. Es obviamente mas practico que las 
+respuestas le lleguen a la direccion de la secretaria, no a la propia, 
+asi que se incluye una cabecera "Sender" para que el programa de correo 
+del destinatario sepa como responderle a la persona que realmente envio 
+el mensaje en lugar de al autor.
+
+Otro ejemplo: un amigo pelotudo que no tiene direccion de e-mail te 
+pide que le envies de onda unos mensajecitos con puteadas dirigidas a 
+binladen@.... Quizas a vos te interese que quede claro para el 
+que recibe el mensaje que por mas que vos remitis el mensaje, el autor 
+y origen de las puteadas es tu amigo.
+
+
+En el caso del X-Sender, es agregado por la poca confiabilidad que 
+podria llegar a tener la cabecera Sender, sobre todo cuando el mensaje 
+es excesivamente manoseado por el sistema de transporte de correo, 
+cosas como: el chabon escribe el mensaje en un webmail, pero el webmail 
+inyecta el mensaje en un servidor de correo SMTP que por cuestiones de 
+seguridad sobreescribe siempre el campo Sender con la informacion que 
+figure en el campo GECOS de la base de datos de usuarios de Unix, pero  
+como el webmail es ejecutado no a nombre del pelotudo que lo esta 
+usando via web sino a nombre del pelotudo que lo instalo, todos los 
+mensajes podrian salir con la cabecera sender equivocada.
+
+Una cabecera X-Sender es mucho menos probable que sea tenida en cuenta 
+por algun programa.
+
+-- 
+Groucho Marx
+

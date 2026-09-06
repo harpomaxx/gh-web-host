@@ -1,0 +1,60 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:53:58 -0000
+Received: (qmail 48775 invoked from network); 5 Oct 2001 02:53:56 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.220 with QMQP; 5 Oct 2001 02:53:56 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2 with SMTP; 5 Oct 2001 02:56:21 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id AAA24868
+	for <mendonet-l@...>; Fri, 5 Oct 2001 00:01:45 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pFsW-0000Ai-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 18:18:00 -0300
+Date: Thu, 4 Oct 2001 18:18:46 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <16763.011004@...>
+To: Oxiuro <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbM106IElkZWFzIEFudGlxde1zaW1hcyAz?=
+In-reply-To: <536574804.20010929201913@...>
+References: <536574804.20010929201913@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Oxiuro,
+
+Saturday, September 29, 2001, 8:19:13 PM, you wrote:
+
+LM>> Eso quedó claro desde hace bastante, el tema es ¿en qué escala de
+LM>> valores ponés a la creatividad y al sentimiento?... Por lo que
+LM>> has estado diciendo, se nota que los ponés muchísimo mas abajo
+LM>> que a la técnica... Todos los demás opinamos que no debe ser así.
+
+O> definiendo como 10 lo mas importante y 0 algo que no importa:
+
+O> tecnica 10
+O> creatividad 10 o 9
+O> sentimientos 8
+
+Esa seria una postura de artista profesional: impecable tecnica,
+excelente creatividad, sentimientos relegados a segundo
+plano, en cotraposicion a un artista mas bohemio.
+
+Ustedes creen que Maria Marta Serralima siente alguno de los
+sentimientos que describe en las caciones que interpreta?
+Ella es una profesional.
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

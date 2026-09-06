@@ -1,0 +1,66 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+Received: (qmail 11155 invoked from network); 3 Sep 2000 19:27:55 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 3 Sep 2000 19:27:55 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.31.96) by mta3 with SMTP; 3 Sep 2000 19:27:38 -0000
+Received: from elserver.micasa (harpo@... [192.168.1.3]) by elserver.micasa (8.8.7/8.8.7) with ESMTP id NAA28465 for <mendonet-l@egroups.com>; Sun, 3 Sep 2000 13:27:53 -0300
+Date: Sun, 3 Sep 2000 13:27:53 -0300 (WART)
+X-Sender: harpo@...
+To: mendonet-l@egroups.com
+Subject: RE: HIJOS DE PUTA
+In-Reply-To: <002301c015a4$d7e36e00$e47c2ac8@tepes>
+Message-ID: <Pine.LNX.4.04.10009031325020.1995-100000@...>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+From: harpo <harpo@...>
+
+On Sun, 3 Sep 2000, Sebas wrote:
+
+S>S>Una pregunta, que es el argumento de =
+los defensores del copyright:
+S>S>Si el copyright no existiera=BFhabria u=
+na produccion de musica o libros tan
+S>S>diversa como la que tenemos? o=
+ mas aun=BFalguien se molestaria por dar a
+S>S>conocer su arte?
+S>>Cr=
+eeme que si... el tema del copyleft te lo prueba, copyleft es una
+S>licenci=
+a
+S>>sobre la cual esta distribuido cierto software... Linux por ejemplo.
+S=
+>>Esta licencia establece que una vez adquirido el producto, se puede hacer=
+
+S>con
+S>>el lo que desee... modificarlo, distribuirlo, etc... La unica con=
+dicion que
+S>>tiene es que si vos tomas algo de las fuentes de ese producto=
+ (programa)
+S>>entonces el resultado tiene necesariamente que estar con la =
+misma licencia.
+
+S>No termino de entender porque garantiza la difusion =
+del arte de uno. =BFCuando
+S>decis "lo adquiris" decis "lo compras"=
+? Igual, a mi no me interesa reformar
+S>los libros o la musica que comp=
+ro(si comprara).
+
+el soft GNU no espeficica nada respecto a la forma de adq=
+uisicion, vale decir
+que se puede llevar a "vender" soft GNU! pero una vez =
+que lo "compraste" sos
+"dueño" del soft y podes hacer con el lo que quier=
+as.
+
+Respecto a las modiicaciones de la musica o libros... en tu caso parti=
+cular no
+deseas modificacion.. pero si libre distribucion.. 
+
+Eso es lo poc=
+o que puedo decir al respecto.
+
+El Harpo!
+
+

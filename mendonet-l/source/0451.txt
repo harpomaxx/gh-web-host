@@ -1,0 +1,47 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 27 Feb 2003 18:36:50 -0000
+Received: (qmail 12713 invoked from network); 27 Feb 2003 18:36:50 -0000
+Received: from unknown (66.218.66.217)
+  by m13.grp.scd.yahoo.com with QMQP; 27 Feb 2003 18:36:50 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 27 Feb 2003 18:36:50 -0000
+Received: (qmail 12536 invoked by uid 417); 27 Feb 2003 18:36:49 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 27 Feb 2003 18:36:49 -0000
+Received: from dup-200-42-124-43.prima.net.ar ([200.42.124.43])
+  by softhome.net with esmtp; Thu, 27 Feb 2003 11:36:47 -0700
+Date: Thu, 27 Feb 2003 15:34:06 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <15648.030227@...>
+To: Herr Groucho <mendonet-l@...>
+Subject: Re[2]: A cara de perro !...
+In-reply-To: <3E5E18DA.9050502@...>
+References: <3E5E18DA.9050502@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> MS>  Hay alguna diferencia entre votar en
+>> MS> blanco e impugnar el voto o voto bronca?
+>> 
+>> Nunca lo confirmé con el texto de la ley, pero al parecer, los votos
+>> en blanco no se computan para los porcentajes, mientras que los
+>> anulados sí.
+
+HG> Es exactamente al reves.
+
+Ambos nos equivocabamos, y ahora sí lo confirmé.
+
+-- 
+Sebas   
+Argentina puede salir rápido de este pozo recesivo, crecerá al 10 por ciento anual�. Domingo Cavallo, diciembre del 2000. (¿Cómo dijo, maestro?)                       
+
+
+

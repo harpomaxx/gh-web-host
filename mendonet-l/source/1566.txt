@@ -1,0 +1,60 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 28 Apr 2002 14:53:50 -0000
+Received: (qmail 79125 invoked from network); 28 Apr 2002 14:53:49 -0000
+Received: from unknown (66.218.66.218)
+  by m9.grp.scd.yahoo.com with QMQP; 28 Apr 2002 14:53:49 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.14)
+  by mta3.grp.scd.yahoo.com with SMTP; 28 Apr 2002 14:53:45 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 171nNN-0000Zm-00
+	for <mendonet-l@...>; Sun, 28 Apr 2002 09:01:57 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 171nNN-0000Zb-00
+	for <mendonet-l@...>; Sun, 28 Apr 2002 09:01:57 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[8]: Por que los arboles si estan vivos
+Date: Sun, 28 Apr 2002 11:55:54 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <E171Fd6-0000oh-00@...> <4434.020428@...>
+In-Reply-To: <4434.020428@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E171nNN-0000Zb-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Dom 28 Abr 2002 10:25, escribiste:
+> >> F> si nunca fue conciente y potencialmente puede serlo, ¿esta
+> >> muerto, no? No, simplemente no está vivo, que es muy distinto a
+> >> estar muerto.... esa necesidad de atribuirle a todo el estado de
+> >> "vivo" o "muerto" no hace más que demostrar que a una gran parte
+> >> del género humano le cuesta mucho eso del pensamiento abstracto.
+>
+> GM> Estas sugiriendo que muerto no es el antonimo de vivo?
+> Alto es el antónimo de bajo y no por eso todo debe ser alto o bajo...
+> "qué pedo tan alto me he tirado"... "¿Qué tan baja es la enfermedad
+> que tengo, doctor?"
+
+Queres engatuzarme?
+Un antonimo no tiene por que ser la negacion logica de un termino... 
+Solo debe tener un significado opuesto.
+La negacion de alto, es no-alto que puede ser bajo o intermedio...
+
+Y no todo tiene que ser alto o bajo, pero todo aquello que posea el 
+atributo de la altura esta obligado a ser alto, no-alto, bajo o no-bajo.
+Naturalmente, un pedo o una enfermedad carecen del atributo de la 
+altura.
+
+-- 
+Herr GrouchoX
+
+
+
+

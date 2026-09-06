@@ -1,0 +1,47 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 1 Oct 2001 15:38:43 -0000
+Received: (qmail 1802 invoked from network); 1 Oct 2001 15:38:43 -0000
+Received: from unknown (10.1.10.26)
+  by l7.egroups.com with QMQP; 1 Oct 2001 15:38:43 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.195)
+  by mta1 with SMTP; 1 Oct 2001 15:38:43 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 1 Oct 2001 08:38:43 -0700
+X-Originating-IP: [200.45.192.33]
+To: <mendonet-l@...>
+References: <OE60fCs2ImoTz0HqPBi000082bf@...>            <1797.010917@...>            <025901c14102$cb0188e0$9a4afea9@hfgg>            <200109191847.f8JIlha02001@...> <20010920144121.20775.qmail@...>
+Subject: RE: raro raro
+Date: Sat, 29 Sep 2001 14:16:27 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE60I9dm5UxP9Fekzab0000611f@...>
+X-OriginalArrivalTime: 01 Oct 2001 15:38:43.0463 (UTC) FILETIME=[26C9E970:01C14A8F]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Mensaje original ----- 
+De: <goofer@...>
+Para: <mendonet-l@...>
+Enviado: Jueves, 20 de Septiembre de 2001 11:41 a.m.
+Asunto: raro raro
+
+
+> 
+> Estoy experimentando mails perdidos...
+> O sea, los que mando no llegan y tampoco recibo mails que luego aparecen
+> contestados por otros...
+> raro raro...
+> Huelo mano negra detras de estos aparentemente inocentes hechos
+
+
+me descubriste
+

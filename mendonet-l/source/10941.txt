@@ -1,0 +1,29 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 4301 invoked from network); 12 May 2000 10:08:35 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 12 May 2000 10:08:35 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 12 May 2000 10:08:34 -0000
+Received: (qmail 16044 invoked by uid 722); 12 May 2000 10:08:25 -0000
+Date: 12 May 2000 10:08:24 -0000
+Message-ID: <20000512100824.16040.qmail@...>
+To: mendonet-l@egroups.com
+Subject: mensajes no tan repetidos
+From: fcanizo@...
+
+El 11/05/00, Lupus el Lobo le susurraba a Marcela Imazio:
+
+LeL>Pero si ya arreglé ese problema, por la putísima que lo parióooo... al
+LeL>único  que  puede  haberle llegado repetido es a Groucho... y no lo he
+LeL>escuchado quejarse... aun...
+
+Ocurre que tenés mal configurada la direeci�n de groucho. Vos le enviaste un
+mail con copia a su "dirección personal" y otro por mendonet (como te enseñé),
+pero ocurre que en la dirección personal de groucho tenés la dirección de
+mendonet. 
+
+Por eso llegó repetido.
+
+---
+Era tan petiso que daba vértigo mirarlo
+
+

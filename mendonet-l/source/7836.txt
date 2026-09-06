@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 30 Oct 2000 02:44:55 -0000
+Received: (qmail 2821 invoked from network); 30 Oct 2000 02:44:53 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 30 Oct 2000 02:44:53 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 30 Oct 2000 02:44:52 -0000
+Received: from antro.micasa ([200.41.31.15]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA17339 for <mendonet-l@egroups.com>; Sun, 29 Oct 2000 23:45:27 +0300 (GMT)
+Date: Sat, 28 Oct 2000 16:36:33 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <12692.001028@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmU6IMlyYXNlIHVuIGhvbWJyZSBjb24gcHJvYmxlbWFzIGRlIFBD?=
+In-reply-To: <008701c040f7$7dc5f900$117c2ac8@tepes>
+References: <008701c040f7$7dc5f900$117c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 28/10/2000, Sebas angustiosamente deliró:
+
+>> Lo que hay que hacer es descubir por que no puede escribir en el
+>> archivo de salida y en que casos si puede.
+
+S> Ok, qué hago?(aparte de sacar los virúse)
+
+>> Una pregunta: si lo grabas como plantilla, pero con extension doc, te
+>> deja grabarlo?
+S> Sabés de qué me dí cuenta? De que todos los archivos que tiene problemas han
+S> pasado por la máquina de Marianella X, con ella mantengo un maileo en un
+S> adjunto de Word, y los archivos que inicio en mi máquina y no pasan por la
+S> de ella andan bien, sin ese problema...supongo entonces que la de los virúse
+S> es ella, no?
+
+YOU BET!!!
+
+
+
+-- 
+Groucho Marx
+Todo el mundo debería creer en algo -- Yo creo que tomaré otro trago.
+
+
+

@@ -1,0 +1,27 @@
+From bocha@...  Sat Jul 11 23:23:58 2020
+Return-Path: <bocha@...>
+Received: (qmail 14949 invoked from network); 14 Jun 2000 02:54:40 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 14 Jun 2000 02:54:40 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 14 Jun 2000 02:54:38 -0000
+Received: from pc233 (rdumend2-200.41.21.52 [200.41.21.52] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with SMTP id XAA18556 for <mendonet-l@egroups.com>; Tue, 13 Jun 2000 23:53:31 +0300 (GMT)
+Message-ID: <005101bfd5aa$c2493f00$341529c8@pc233>
+To: <mendonet-l@egroups.com>
+Subject: no es para debatir
+Date: Tue, 13 Jun 2000 23:46:34 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+From: "Bocha" <bocha@...>
+
+como puedo hacer para bajar todos los mails desdes el inicio de I-mendonet?
+
+
+Sebastian Gomez Talquenca
+MI NUEVA DIRECCION ES
+bocha@...
+�CQ Nº 21.848.163
+

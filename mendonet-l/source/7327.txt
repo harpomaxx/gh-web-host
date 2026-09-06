@@ -1,0 +1,36 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 4 Nov 2000 19:32:18 -0000
+Received: (qmail 10176 invoked from network); 4 Nov 2000 19:32:18 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 4 Nov 2000 19:32:18 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta2 with SMTP; 4 Nov 2000 19:32:17 -0000
+Received: from antro.micasa ([200.41.31.29]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA04816 for <mendonet-l@egroups.com>; Sat, 4 Nov 2000 13:27:32 -0300 (GMT)
+Date: Sat, 4 Nov 2000 15:17:02 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <8636.001104@...>
+To: Morganti Federico <mendonet-l@egroups.com>
+Subject: Re[2]: Bienvenida/malcomenzada
+In-reply-To: <OE5175HvAoEvyncU1to000028fd@...>
+References: <OE5175HvAoEvyncU1to000028fd@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 03/11/2000, Morganti Federico temeroso escribió:
+
+Morganti, haceme un favor: anda al menu Herramientas de tu
+Microsoft Outlook Express 5.50.4133.2400. Elegi el submenu
+Opciones y busca en la solapa Redaccion una opcion que diga
+"Texto sin formato" y activala.
+
+-- 
+Groucho Marx
+Tranquilo como agua de pozo
+
+
+

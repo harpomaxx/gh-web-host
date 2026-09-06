@@ -1,0 +1,72 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 11 Oct 2001 17:47:54 -0000
+Received: (qmail 67567 invoked from network); 11 Oct 2001 17:47:54 -0000
+Received: from unknown (10.1.10.26)
+  by l7.egroups.com with QMQP; 11 Oct 2001 17:47:54 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta1 with SMTP; 11 Oct 2001 17:47:53 -0000
+Received: from gateway.micasa.org.ar (200-41-31-68-rdunysd1.impsat.net.ar [200.41.31.68])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id OAA01698
+	for <mendonet-l@...>; Thu, 11 Oct 2001 14:53:12 +0300 (GMT)
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15repX-000424-00
+	for <mendonet-l@...>; Thu, 11 Oct 2001 09:20:51 -0300
+Date: Thu, 11 Oct 2001 09:20:51 -0300
+To: mendonet-l@...
+Subject: Re: rodralez disco rayado
+Message-ID: <20011011092051.B15482@...>
+References: <762217589.20011010230746@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <762217589.20011010230746@...>
+User-Agent: Mutt/1.3.22i
+From: Groucho Marx <groucho@...>
+
+On Wed, Oct 10, 2001 at 11:07:46PM -0300, Oxiuro wrote:
+
+> >> L>  Y por qué hay directores de
+> >> L> orquesta famosos y directores desconocidos, siendo que todos son
+> >> L> capaces de interpretar bien las partituras...
+> > 
+> > Tengo mis serias dudas sobre la importancia de un director de orquesta.
+> > Exactamente para que sirve el director?
+> > Les dice a los musicos como y cuando tocar?
+> > Acaso no tienen partituras esos musicos que les dicen exactamente eso?
+> 
+> Primero, el tipo debe conocer todos los intrumentos que dirige, ir
+> anticipandose a cada compas y avisarle a cada grupo de instrumentos
+> cuando tiene que entrar.
+> Tiene que decir que grupo debe tocar bajo y cual ir subiendo el
+> volumen, cosa que si bien puede decir la partitura es mas facil verlo
+> de alguien enfrente tuyo.
+> Quizas un grupo de instrumentos, (flautas por ejemplo) no toca durante
+> la mitad de la obra y lo hace solo unos compaces en el centro de la
+> misma, entonces la partitura seria un gran silencio con algunos
+> compases llenos en los cuales tocaria dicho instrumento, para ahorrar
+> papel por ejemplo, solo se escriben los compases a tocar y el director
+> le da el pase, con que enfasis entrar, etc.
+> Quizas para un los violines "moderate" sea algo y para los cellos
+> "moderate" si bien significa lo mismo lo tocan un poco mas fuerte,
+> entonces el director hace que un grupo disminuya su volumen o fuerza y
+> le dice a otro que siga igual, o sea, mantiene a la banda en armonia.
+
+Aha... Me convence.
+
+> > O estan tan profundamente aturdidos por la orquesta que no se escuchan a
+> > si mismos?
+> 
+> Alguna vez te paraste frente a un escenario con un instrumento?
+> Todos creerian que si estas tocando y tenes el amplificador cerca
+> escuchas lo que tocas, ERROR!!!, necesitas el famoso Retorno porque
+> sino no sabes que guasca estas haciendo.
+
+Aunque no he estado en un escenario ejecutando un instrumento, lo sabia
+igual. Es algo que me enseñaron en Sistemas de Sonido.
+
+Groucho
+

@@ -1,0 +1,59 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:54:30 -0000
+Received: (qmail 49568 invoked from network); 5 Oct 2001 02:54:30 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.220 with QMQP; 5 Oct 2001 02:54:30 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta2 with SMTP; 5 Oct 2001 02:56:55 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA07916
+	for <mendonet-l@...>; Thu, 4 Oct 2001 23:50:36 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pHRs-0000Dy-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 19:58:36 -0300
+Date: Thu, 4 Oct 2001 19:59:23 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <13832.011004@...>
+To: Sebas <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbMTBdOiC/RWwgaXNsYW0gaGl6byBqdXN0aWNpYT8=?=
+In-reply-To: <15727.011001@...>
+References: <15727.011001@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Sebas,
+
+Monday, October 01, 2001, 5:28:14 PM, you wrote:
+
+>>> MF> lamento comunicarte gallego que el padre de la noelia, ayer me
+>>> MF> mostro una nota en donde en resumidas cuentas decia que nuestra
+>>> MF> facultad todavia no estaba habilitada. Es mas el padre de la
+>>> MF> noelia se acerco a donde estabamos estudiando, diciendo: "mira
+>>> MF> como les mienten"
+>>>
+>>> Quien es esa putita de Noelia?
+
+MF>> eso mismo
+
+S> ¡Le dolió, le dolió!
+S> Yo no puedo profundizar en el tema porque conozco a la sujeta en
+S> cuestión, pero insistí en ese punto groucho, tala vez podamos sacar lo
+S> peor de morganti
+
+Sera la novia o algo asi...
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

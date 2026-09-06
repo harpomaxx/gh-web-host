@@ -1,0 +1,35 @@
+From goofer@...  Sat Jul 11 23:23:58 2020
+Return-Path: <goofer@...>
+X-Sender: goofer@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 20 Sep 2001 15:20:29 -0000
+Received: (qmail 79324 invoked from network); 20 Sep 2001 15:20:29 -0000
+Received: from unknown (10.1.10.26)
+  by l8.egroups.com with QMQP; 20 Sep 2001 15:20:29 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (204.144.231.8)
+  by mta1 with SMTP; 20 Sep 2001 15:20:28 -0000
+Received: (qmail 20776 invoked by uid 417); 20 Sep 2001 14:41:21 -0000
+Message-ID: <20010920144121.20775.qmail@...>
+References: <OE60fCs2ImoTz0HqPBi000082bf@...>
+            <1797.010917@...>
+            <025901c14102$cb0188e0$9a4afea9@hfgg>
+            <200109191847.f8JIlha02001@...>
+In-Reply-To: <200109191847.f8JIlha02001@...>
+To: mendonet-l@...
+Subject: raro raro
+Date: Thu, 20 Sep 2001 14:41:21 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Sender: goofer@...
+From: goofer@...
+
+
+Estoy experimentando mails perdidos...
+O sea, los que mando no llegan y tampoco recibo mails que luego aparecen
+contestados por otros...
+raro raro...
+Huelo mano negra detras de estos aparentemente inocentes hechos
+
+Goofer 
+

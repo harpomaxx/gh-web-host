@@ -1,0 +1,24 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 2928 invoked from network); 3 Jul 2000 20:25:40 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 3 Jul 2000 20:25:40 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 3 Jul 2000 20:25:32 -0000
+Received: (qmail 23853 invoked by uid 722); 3 Jul 2000 20:25:07 -0000
+Date: 3 Jul 2000 20:25:07 -0000
+Message-ID: <20000703202507.23847.qmail@...>
+To: mendonet-l@egroups.com
+Subject: mailes viejos
+From: fcanizo@...
+
+El 29/06/00, Mariana le inventó entrecortadamente a mendonet-l@egroups.com:
+
+M>A todo esto... ¿Cómo hiciste para leer el artículo, si lo mandé en Word?
+
+Pasa que uso linux, soy grosso y tengo unas pelotas ASI!!!
+
+---
+La ciencia es filosofía natural.
+
+	René J. Dubos
+
+

@@ -1,0 +1,66 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 11 Mar 2003 00:15:18 -0000
+Received: (qmail 78741 invoked from network); 11 Mar 2003 00:15:18 -0000
+Received: from unknown (66.218.66.218)
+  by m1.grp.scd.yahoo.com with QMQP; 11 Mar 2003 00:15:18 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 11 Mar 2003 00:15:18 -0000
+Received: (qmail 10969 invoked by uid 417); 11 Mar 2003 00:14:31 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 11 Mar 2003 00:14:31 -0000
+Received: from dup-200-42-125-35.prima.net.ar ([200.42.125.35])
+  by softhome.net with esmtp; Mon, 10 Mar 2003 17:14:16 -0700
+Date: Mon, 10 Mar 2003 21:11:00 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <14882.030310@...>
+To: Herr Groucho <mendonet-l@...>
+Subject: =?ISO-8859-1?B?TW96aWxsYSwgUHJvdOFnb3JhcyB5IHlvLg==?=
+In-reply-To: <3E6C933E.1010906@...>
+References: <3E6C933E.1010906@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> HG> 6) Soporta la marca <BLINK> correctamente
+>> ¿Y esto que quiere decir?
+
+HG> Que si algun idiota hace una pagina con texto parpadeante, lo vas a ver 
+HG> parpadeando, no fijo como con IE.
+
+En este caso, IE funcionaría como un atenuador de idioteces, lo que no
+está del todo mal.
+
+>> HG> 12) No agrupa en el concepto de "cuenta" el servidor SMTP
+>> No entiendo.
+HG> En el OE, configuras "cuentas". Una "cuenta" especifica un servidor
+HG> SMTP, un servidor POP3/IMAP y los datos personales.
+HG> En Mozilla, los servidores SMTP van por un lado, y la informacion 
+HG> personal y las cuentas POP3/IMAP van por otro. Es mejor asi pues el 
+HG> servidor de correo SMTP depende usualmente de tu conexion, no de tu 
+HG> direccion de correo.
+
+¿Cuál es la ventaja concreta de esto?
+
+HG> Entonces Mozilla no es para vos. 24MB es demasiado poco para una
+HG> computadora de escritorio de 2003.
+
+Ya lo decía Protágoras... "el hombre es la medida de todas las cosas".
+De tal manera, no hago más que flexibilizar ligeramente mis
+necesidades(he aprendido a no alterarme por esperar un segundo más)
+ante la imposibilidad e inconveniencia de incrementar el poder de mi
+computadora de escritorio con 24 Mb.
+
+
+-- 
+Sebas   
+Si votar cambiara algo estaría prohibido. Eduardo Galeano                       
+
+
+

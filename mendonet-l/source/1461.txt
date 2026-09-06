@@ -1,0 +1,56 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 28 Apr 2002 15:08:19 -0000
+Received: (qmail 93902 invoked from network); 28 Apr 2002 15:08:19 -0000
+Received: from unknown (66.218.66.216)
+  by m11.grp.scd.yahoo.com with QMQP; 28 Apr 2002 15:08:19 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.14)
+  by mta1.grp.scd.yahoo.com with SMTP; 28 Apr 2002 15:08:18 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 171nbU-0000bm-00
+	for <mendonet-l@...>; Sun, 28 Apr 2002 09:16:32 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 171nbT-0000bb-00
+	for <mendonet-l@...>; Sun, 28 Apr 2002 09:16:31 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[14]: (unknown)
+Date: Sun, 28 Apr 2002 12:10:28 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <OE56upeyyfIIhs6hdn100000b0e@...> <16445.020428@...>
+In-Reply-To: <16445.020428@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E171nbT-0000bb-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Dom 28 Abr 2002 10:41, escribiste:
+> >> F> si leo, tene en cuenta que tu definicion es muy loca y me
+> >> cuesta
+>
+> F> entenderla,
+>
+> >> Según lupus, no es tan loca... el dice que Carl Sagan tiene una
+> >> parecida.
+>
+> F> ¿Carl Sagan escribe ciencia ficcion, no?
+> Creo que escribió algún libro de ciencia ficción.
+
+Crees bien. Por ejemplo, escribio la novela "Contacto".
+
+> pero su actividad
+> principal era la divulgación científica, además de ser consultor de
+> la NASA y profesor de  varias Universidades. También era astrónomo.
+
+-- 
+Herr GrouchoX
+
+
+
+

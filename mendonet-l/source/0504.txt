@@ -1,0 +1,62 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 7 Feb 2003 16:58:33 -0000
+Received: (qmail 58526 invoked from network); 7 Feb 2003 16:58:33 -0000
+Received: from unknown (66.218.66.216)
+  by m2.grp.scd.yahoo.com with QMQP; 7 Feb 2003 16:58:33 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta1.grp.scd.yahoo.com with SMTP; 7 Feb 2003 16:58:33 -0000
+Received: (qmail 11529 invoked by uid 404); 7 Feb 2003 16:58:29 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar with qmail-scanner-1.01 (uvscan: v4.1.60/v4245. . Clean. Processed in 0.417229 secs); 07 Feb 2003 16:58:29 -0000
+X-Qmail-Scanner-Mail-From: cgimenez@... via multivac.xnetcuyo.com.ar
+X-Qmail-Scanner: 1.01 (Clean. Processed in 0.417229 secs)
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 7 Feb 2003 16:58:29 -0000
+Date: Fri, 7 Feb 2003 13:58:28 -0300
+To: mendonet-l@...
+Subject: Re: Re[5]: (unknown)
+Message-Id: <20030207135828.57d5170c.cgimenez@...>
+In-Reply-To: <1217771655.20030206233831@...>
+References: <249689673.20030205233045@...>
+	<6943.030206@...>
+	<1217771655.20030206233831@...>
+Organization: XNetCuyo S.A.
+X-Mailer: Sylpheed version 0.8.9 (GTK+ 1.2.10; i386-debian-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+On Thu, 6 Feb 2003 23:38:31 -0300
+Mr Ska <gabrielsublime@...> wrot=
+e:
+
+> 
+> Es imposible que todos tuvieran formacion universitaria, no habr=
+ia
+> trabajo para tantos, aparte el pais necesita de verduleros (por dar =
+un
+> ejemplo cualquiera) y no es necesario que tengan educacion
+> univers=
+itaria, lo que si estaria bueno es que ganen lo mismo que un
+> universitari=
+o y sus hijos tengan las mismas posibilidades que los de
+> los otros.
+> 
+
+s=
+eguis demostrando tu beta fascista! 
+
+-- 
+
+Cristian Gimenez
+
+XNet Cuyo S.A.=
+
+Depto. de Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-261-4252788 
+

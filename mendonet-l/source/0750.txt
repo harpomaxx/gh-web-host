@@ -1,0 +1,65 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 8 Oct 2002 07:02:32 -0000
+Received: (qmail 89045 invoked from network); 8 Oct 2002 07:02:31 -0000
+Received: from unknown (66.218.66.216)
+  by m11.grp.scd.yahoo.com with QMQP; 8 Oct 2002 07:02:31 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.16)
+  by mta1.grp.scd.yahoo.com with SMTP; 8 Oct 2002 07:02:30 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.35 #1 (Debian))
+	id 17yo4O-0004AP-00
+	for <mendonet-l@...>; Tue, 08 Oct 2002 03:42:16 -0300
+Received: from antro.micasa.org.ar ([192.168.1.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.35 #1 (Debian))
+	id 17yo4O-0004AE-00
+	for <mendonet-l@...>; Tue, 08 Oct 2002 03:42:16 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Fw: Oremos! ( Imperdible)
+Date: Tue, 8 Oct 2002 03:36:09 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <OE62ik6kvXsn2Yf0scL00008cee@...>
+In-Reply-To: <OE62ik6kvXsn2Yf0scL00008cee@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E17yo4O-0004AE-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Lun 07 Oct 2002 19:18, escribiste:
+> > > Un poquito de humor no nos viene mal.
+>
+> begin 666 santos-argentinos.pps
+> MT,\1X*&Q&N$`````````````````````/@`#`/[_"0`&```````````````*
+> M'2PP+"0G*"@D(!XN+BPG(" ='"$9%AXE)1T5&QP8&QD2$A07%Q88%10-%100
+> M#A,,"@L*#Q ,!0<'_@@,!@0'#0H("0<$! 8$!_<``>[W`'^4DHB"@X:(C8^.
+> M````````````````````````````````````````````````````````````
+> B````````````````````````````````````````````````
+> `
+> end
+
+Sos un imbecil.
+1) Mandaste 3 veces el mismo mensaje a la lista.
+2) Sebas lo recibio 7 veces porque ademas se lo mandaste 4 veces 
+adicionales a el.
+3) El mail es ilegible por como incluiste el adjunto, sin cabeceras 
+MIME.
+4) PPS es un formato propietario.
+5) Ahora se las direcciones de tus amiguitos y de tu novia Noelia y 
+puedo romperles las bolas.
+6) Cres que el mail es para mandarse chistecitos? Madura!
+
+-- 
+Herr GrouchoX
+
+ID Jabber: groucho@...
+Clave pública GPG: [pronto la voy a subir a algún lado]
+Fingerprint GPG: 00EC 0B71 49D5 2EEC 357C  9A78 A87B DC4F 1B31 8B55
+
+
+
+

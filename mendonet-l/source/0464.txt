@@ -1,0 +1,53 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 25 Feb 2003 12:56:30 -0000
+Received: (qmail 73673 invoked from network); 25 Feb 2003 12:56:30 -0000
+Received: from unknown (66.218.66.218)
+  by m13.grp.scd.yahoo.com with QMQP; 25 Feb 2003 12:56:30 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta3.grp.scd.yahoo.com with SMTP; 25 Feb 2003 12:56:29 -0000
+Received: (qmail 7840 invoked by uid 404); 25 Feb 2003 12:56:26 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar by uid 401 with qmail-scanner-1.16 
+ (uvscan: v4.1.60/v4248. spamassassin: 2.44.  Clear:. 
+ Processed in 0.412655 secs); 25 Feb 2003 12:56:26 -0000
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 25 Feb 2003 12:56:25 -0000
+Date: Tue, 25 Feb 2003 09:56:25 -0300
+To: mendonet-l@...
+Subject: Re: que es ser progre
+Message-Id: <20030225095625.6693ce65.cgimenez@...>
+In-Reply-To: <3E5A1CA4.8070603@...>
+References: <0342.030222@...>
+	<3E5A1CA4.8070603@...>
+Organization: XNetCuyo S.A.
+X-Mailer: Sylpheed version 0.8.10 (GTK+ 1.2.10; i386-debian-linux-gnu)
+X-Face: 
+ $S%{=ci}O9P~|`Jr]FyF}53[&-D~SP}*/hULJDuQP~(K;R'7LxQKN7Ta$4}"gBMyDP:>Nk!
+ 6f`4LP,tEP^[k-+{1E'qh[kqV@^y*Yb6V4^DsU3`Ar}/(R[1Qd'#+].v1r+v!
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+On Mon, 24 Feb 2003 10:22:44 -0300
+Herr Groucho <groucho@...> wrote:
+
+> Yo... Tambien estoy de parte de Roca. Y ya estoy casi seguro de que voy 
+> a votar a Lopez Murphy.
+> 
+
+groucho.. cada dia estar peor!!! no podes votar a bulldog
+
+
+-- 
+
+Cristian Gimenez
+
+XNet Cuyo S.A.
+Depto. de Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-261-4252788 
+

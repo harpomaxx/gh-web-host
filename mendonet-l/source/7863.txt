@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_1_0); 21 Oct 2000 04:17:58 -0000
+Received: (qmail 1494 invoked from network); 21 Oct 2000 04:17:58 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 21 Oct 2000 04:17:58 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 21 Oct 2000 04:17:47 -0000
+Received: from 200.41.31.23 ([200.41.31.23]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA05244 for <mendonet-l@egroups.com>; Sat, 21 Oct 2000 01:20:53 +0300 (GMT)
+Date: Sat, 21 Oct 2000 01:17:44 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <753.001021@...>
+To: Alejandro Gomez Talquenca <mendonet-l@egroups.com>
+Subject: Re[4]: Invitacion - GNU/Linux InstallationFest... como minitas ?!.
+In-reply-To: <006301c038a3$a5735e40$LocalHost@...>
+References: <006301c038a3$a5735e40$LocalHost@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 17/10/2000, Alejandro Gomez Talquenca agresivamente susurró:
+
+>> Groucho Marx>>> ATENCION!!! ESTO NO ES UNA DE ESAS CADENAS DE MENSAJES DE
+AGT> MIERDA!!!!
+>> Groucho Marx>>> SI TE INTERESA CONOCER GNU/LINUX, LEELO!
+
+AGT> Que tal salio, todo ? Un exito
+AGT> dos exitos
+AGT> tres sexitos
+
+Muy copado. Podes ver fotos y comentarios en
+http://www.linuxmendoza.org.ar (y si eso no funciona, en
+http://www.uch.edu.ar/~lug)
+
+Dicen que en el fondo no se escuchaba nada, pero por lo demas, todo
+salio smooth. No rompimos nada y lo mas grave que paso es que Boring
+perdio su carterita.
+
+
+-- 
+Groucho Marx
+I was not told to do this -- Bart Simpson
+
+
+

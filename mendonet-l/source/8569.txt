@@ -1,0 +1,31 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+Received: (qmail 9139 invoked from network); 29 Aug 2000 01:06:35 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 29 Aug 2000 01:06:35 -0000
+Received: from unknown (HELO postino4.prima.com.ar) (200.42.0.162) by mta3 with SMTP; 29 Aug 2000 01:06:33 -0000
+Received: from tepes (a200042125242.rev.prima.com.ar [200.42.125.242]) by postino4.prima.com.ar (8.9.3/8.9.1) with SMTP id WAA54419 for <mendonet-l@egroups.com>; Mon, 28 Aug 2000 22:06:28 -0300 (ART)
+Message-ID: <010d01c01154$e6f4c5a0$3e7d2ac8@tepes>
+To: <mendonet-l@egroups.com>
+References: <Pine.LNX.4.04.10008280730160.31950-100000@...>
+Subject: RE: prueba
+Date: Mon, 28 Aug 2000 19:36:42 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: "Sebas" <xebax@...>
+
+>No entiendo la parte del virus... como puede ser que tengas un virus.
+>Tal vez esto lo diga sin conocer a fondo tu problema, pero acaso no has
+>tratado de sacarlo con un antivirus tipo F-prot??
+Resulta que cuando lo quise sacar me dijo que lo tenía que hace con un disco
+de inicio(obvio) y resulta que mis pajerísimos amigos me prometen y prometen
+hacerlo y d�rmelo, pero nunca concretan.
+
+ Sebas - ¡Quién hubiera previsto que las Venus griegas fuesen capaces de
+perder la cabeza!
+
+

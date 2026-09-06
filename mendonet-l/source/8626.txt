@@ -1,0 +1,40 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 18674 invoked from network); 19 Aug 2000 02:28:00 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 19 Aug 2000 02:28:00 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 19 Aug 2000 02:27:58 -0000
+Received: from ANTRO ([200.41.31.76]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA24248 for <mendonet-l@egroups.com>; Fri, 18 Aug 2000 23:29:46 +0300 (GMT)
+Date: Fri, 18 Aug 2000 23:33:44 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <18981.000818@...>
+To: Cabeza <mendonet-l@egroups.com>
+Subject: Re[2]: IN PURIBUS
+In-reply-To: <399C5BE0.423DE740@...>
+References: <399C5BE0.423DE740@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 17/08/2000, Cabeza agresivamente farfulló:
+
+C> Groucho Marx wrote:
+>> 
+>> El 16/08/2000, Cabeza No se pudo abrir el archivo C:\Archivos de programa\The Bat!\MAIL\adverbios.txt No se pudo abrir el archivo C:\Archivos de programa\The Bat!\MAIL\verbos.txt:
+
+C> Groucho, arregla esto, que me haces quedar mal. 
+
+Podria ser, che... Pero me ha dado fiaca.
+
+
+-- 
+Groucho Marx
+Recuerda: cuando alguien te hace enfadar hacen falta 42 músculos de tu
+cara para fruncir el ceno, PERO sólo hacen falta 4 músculos para extender el
+brazo y darle un buen trompazo.
+%
+
+
+

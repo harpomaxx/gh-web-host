@@ -1,0 +1,54 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 16 Dec 2001 21:05:00 -0000
+Received: (qmail 87765 invoked from network); 16 Dec 2001 21:05:00 -0000
+Received: from unknown (216.115.97.167)
+  by m12.grp.snv.yahoo.com with QMQP; 16 Dec 2001 21:05:00 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.3)
+  by mta1.grp.snv.yahoo.com with SMTP; 16 Dec 2001 21:04:58 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16FicJ-00086O-00
+	for <mendonet-l@...>; Sun, 16 Dec 2001 18:14:39 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16FicI-00086D-00
+	for <mendonet-l@...>; Sun, 16 Dec 2001 18:14:38 -0300
+Date: Sun, 16 Dec 2001 18:14:38 -0300
+To: mendonet-l@...
+Subject: Re: Informe sobre la argentina.
+Message-ID: <20011216181438.C30983@...>
+References: <20011215123941.E25924@...> <9582.011216@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <9582.011216@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Sun, Dec 16, 2001 at 01:59:07PM -0300, Marc wrote:
+
+> >> Tus mensajes son increibles...
+> >> Decime... Vos hablas asi?
+> 
+> GM> No creas... A veces tambien respira.
+> GM> Pero igua tiene que repetir 2 o 3 veces una frase para que la entienda.
+> 
+> eso es porque sos sordo, sino al Harpo tampoco le entendes
+
+Harpo se burla de que no te entienda a vos, no a el!!!
+Ademas: se dice "si no" (pronunciado si nó), no "sino" (pronunciado síno).
+Ademas: te falto la conjuncion "por qué" antes de "... al Harpo"
+Ademas: se dice "a Harpo" no "al Harpo". 
+
+Y no le voy a prestar mi monito de gramatica a nadie!!
+
+-- 
+Groucho
+
+
+
+

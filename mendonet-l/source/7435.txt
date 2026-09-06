@@ -1,0 +1,53 @@
+From recabarren@...  Sat Jul 11 23:23:58 2020
+Return-Path: <recabarren@...>
+X-Sender: recabarren@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 3 Nov 2000 05:54:00 -0000
+Received: (qmail 659 invoked from network); 3 Nov 2000 05:54:00 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 3 Nov 2000 05:54:00 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 3 Nov 2000 05:53:59 -0000
+Received: (qmail 8990 invoked by uid 417); 3 Nov 2000 05:57:08 -0000
+Received: from host055149.arnet.net.ar (HELO softhome.net) (200.45.55.149) by smtpa.softhome.net with SMTP; 3 Nov 2000 05:57:08 -0000
+Message-ID: <3A0243EE.9239598D@...>
+Date: Fri, 03 Nov 2000 01:49:50 -0300
+X-Mailer: Mozilla 4.03 [en] (Win95; I)
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: Teletrabajo
+References: <00d901c042a0$f36d48c0$LocalHost@...> <16738.001101@...>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Santiago Imazio <Recabarren@...>
+
+Marc wrote:
+> 
+> Wednesday, November 01, 2000, 3:41:01 PM, you wrote:
+> 
+> >
+> >> Que te parece?
+> >>
+> AGT> Amazing!!!!!!!
+> AGT> pura creatividad en movimiento......
+> AGT> se me cae a pedazos el estereotipo del ingeniero
+> 
+>      Cual es tu estereotipo de ingeniero??
+> 
+> AGT> tus soluciones responder a un metodo(libro) propio o ajeno; patentado o por
+> AGT> patentar
+> AGT> me interesan estos temas
+> 
+>      Todo ingeniero desde estudiante tiene su propio metodo claro con
+>      algunas influencias pero no hay dos iguales puede haber
+>      compatibles.
+> 
+
+
+Hablando de libros, justamente estoy leyendo uno muy interesante:
+
+"El uso de los signos de puntuacion y su influencia en la comprension de
+textos".
+
+Es un libro recomendable para ingenieros estudiantes y aficionados de la
+prestigiosa editorial Planeta.
+
+

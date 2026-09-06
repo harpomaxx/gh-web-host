@@ -1,0 +1,77 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 23051 invoked from network); 30 Jun 2000 01:24:44 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 30 Jun 2000 01:24:44 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 30 Jun 2000 01:24:43 -0000
+Received: from 200.41.31.118 ([200.41.31.118]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA20656 for <mendonet-l@egroups.com>; Thu, 29 Jun 2000 22:27:31 +0300 (GMT)
+Date: Tue, 27 Jun 2000 20:56:36 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <16872.000627@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: Re[3]: mailes de lupus
+In-reply-To: <4953.000624@...>
+References: <4953.000624@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 25/06/2000, Lupus agresivamente recitó:
+
+GM>> Un buen plan seria componer los mensajes de prueba sin usar el The
+GM>> Bat!, sino telnet.
+GM>> El telnet de Windows es una poronga, no permite redireccionamiento,
+GM>> pipes ni nada, asi que habra que probar a con otro telnet que tengo
+GM>> por ahi, o con Linux.
+
+LeL> ¿Telnet??
+LeL> Despacio geniecillo...!
+
+Pone "telnet smtp.softhome.net 25" en alguna linea de comandos por
+ahi. (no me acuerdo si ese era el nombre del servidor SMTP de
+softhome, si no es, arreglalo).
+
+Despues le activas en el menu el "eco local" para ver lo que escribis
+y le pones:
+
+HELO smtp.softhome.net
+
+a lo que te va a responder algo asi como:
+Hello xxx.xxx.xxx.xxx, pleased to meet you.
+
+le pones:
+MAIL FROM: lupus@...
+
+donde lupus@bla-bla-bla es tu direccion de e-mail
+
+despues pones:
+RCPT TO: mendonet-l@egroups.com
+
+y despues:
+DATA
+Subject: esto es una prueba de mierda
+(2 lineas el blanco)
+y despues escruibis varios cientos de rengloles de sanata, que
+formaran parte del mensaje que estas enviando.
+
+al final pones:
+.
+
+(un puto punto solo, si)
+y te fijas como llega el mensaje a mendonet.
+
+Para areglar una historia de seguridad que tiene softhome, dentro de
+los 15 minutos anteriores a hacer eso, bajate algun mensaje de esa
+cuenta de softhome.
+
+Ahora si?
+
+
+-- 
+Groucho Marx
+Viene callado como buscando el envido
+
+
+

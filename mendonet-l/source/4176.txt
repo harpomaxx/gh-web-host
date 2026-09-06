@@ -1,0 +1,53 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:48:10 -0000
+Received: (qmail 40734 invoked from network); 5 Oct 2001 02:48:10 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.220 with QMQP; 5 Oct 2001 02:48:10 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2 with SMTP; 5 Oct 2001 02:50:34 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA24399
+	for <mendonet-l@...>; Thu, 4 Oct 2001 23:56:03 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pJVS-0000SM-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 22:10:26 -0300
+Date: Thu, 4 Oct 2001 22:11:12 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <15924.011004@...>
+To: Morganti Federico <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbMTFdOiC/RWwgaXNsYW0gaGl6byBqdXN0aWNpYT8=?=
+In-reply-To: <OE56TXEKpEtgcc7yfxZ00007468@...>
+References: <OE56TXEKpEtgcc7yfxZ00007468@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Morganti,
+
+>> >> Quien es esa putita de Noelia?
+>> MF> eso mismo
+>>
+>> ¡Le dolió, le dolió!
+>> Yo no puedo profundizar en el tema porque conozco a la sujeta en
+>> cuestión, pero insistí en ese punto groucho, tala vez podamos sacar lo
+>> peor de morganti
+
+MF> noooooooo, ni mierda, hay muchas cosas que iran conmigo a la tumba
+
+Entonces no es la novia? Es una mina que le corto el rostro? Y encima
+se aguanta la humillacion de seguir tratandola?
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

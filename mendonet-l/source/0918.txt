@@ -1,0 +1,59 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 11 Jun 2002 01:44:21 -0000
+Received: (qmail 21921 invoked from network); 11 Jun 2002 01:44:21 -0000
+Received: from unknown (66.218.66.216)
+  by m2.grp.scd.yahoo.com with QMQP; 11 Jun 2002 01:44:21 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 11 Jun 2002 01:44:21 -0000
+Received: (qmail 28832 invoked by uid 417); 11 Jun 2002 01:44:20 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 11 Jun 2002 01:44:20 -0000
+Received: from modem65-as2.mendoza.sinectis.com.ar ([200.59.95.65])
+  by softhome.net with esmtp; Mon, 10 Jun 2002 19:44:14 -0600
+Date: Tue, 11 Jun 2002 05:16:09 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <2219.020611@...>
+To: mendonet-l@...
+Subject: Re[2]: siempre hay un boludo...
+In-reply-To: <200206100028.37762@X-KASTOR >
+References: <200206100028.37762@X-KASTOR >
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+>> El Sáb 08 Jun 2002 20:02, escribiste:
+>> > Gente, ese email titulado "The garden of eden" no lo mandé yo. Algun
+>> > boludo, que los hay en todos lados, mandó eso en mi nombre.
+>>
+>> Un boludo que usa Windows, se conecta usando Ciudad Internet y estuvoo
+>> esta suscripto a esta lista.
+>>
+>> Eso me permite autoexcluirme, porque:
+>>
+>> - no uso windows
+>> - no me conecto usando Ciudad Internet
+
+k> en realidad puede haber sido el querido klez!!
+
+�...?
+
+Y ese...?
+
+
+Lupus
+
+-- 
+
+"Fue tan feliz que si Dios le hubiera dicho:"¿Quieres el cielo?", él hubiera respondido: "Perdería"." VH                
+
+
+

@@ -1,0 +1,91 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 04:35:04 -0000
+Received: (qmail 13176 invoked from network); 15 Nov 2000 04:35:03 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 15 Nov 2000 04:35:03 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 15 Nov 2000 04:35:02 -0000
+Received: from antro.micasa ([200.41.31.114]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA05786 for <mendonet-l@egroups.com>; Wed, 15 Nov 2000 01:38:17 +0300 (GMT)
+Date: Wed, 15 Nov 2000 00:40:38 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1528.001115@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: Un par de preguntas sobre the bat
+In-reply-To: <2961.001112@...>
+References: <2961.001112@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 12/11/2000, Sebas dudosamente puteó:
+
+S>   Ando explorando la cuestión, y tengo un par de dudas:
+S>   1- ¿Qué es PGP? En medicina quiere decir parálisis general progresiva,
+S>   pero no sé que tendrá que ver con esto.
+
+Significa Pretty Good Privacy.
+Es un sistema criptografico de claves publicas.
+Clave publica significa que los demas saben tu password, y se conoce
+el mecanismo de encriptacion y desencripatacion.
+La parte matematica no te la voy a explicar, pero si como funciona.
+
+Primero, vos tenes que generar tu clave publica y tu clave privada.
+Estas son secuencias de bits demasiado largas para memorizar (nada que
+ver con los 4 digitos del cajero automatico por ejemplo), que guardas
+en archivos de texto.
+Estas claves se generan en base a tu identidad, el reloj de la
+computadora, y un texto que vos pones al azar.
+La clave privada no se la tenes que decir a nadie (de hecho, en
+algunas versiones se guarda encriptada en tu maquina y necesitas una
+clave para acceder a la clave publica).
+
+Existe uan relacion matematica entre la clave publica y privada de
+manera que cuando encriptas un archivo cualquiera (llamado mensaje)
+usando tu clave publica, solo puede ser desencriptado usando tu clave
+privada.  Esto le permite a los demas enviarte mensajes que solo vos
+podras leer.
+Si vos tenes la clave publica de la otra persona entonces obtuviste un
+canal seguro en ambas direcciones para el intercambio de mensajes.
+
+Otro uso es para "firmar" digitalmente un mensaje.
+Le das tu clave publica a quienes quieras que puedan verificar tu
+firma (o sea, la autenticidad de los mensajes que envias).
+Cuando queres firmar un mensaje, generas un nuevo mensaje compuesto
+del mensaje original y tu clave publica concatenadas, y al resultado
+lo encriptas con tu clave privada. Quien tenga tu clave publica podra
+desencriptar el mensaje y obtener el mensaje original y una copia de
+tu clave publica, la cual podra comparar con la que uso para
+desencriptar y saber si realmente el mensaje lo enviaste vos y no fue
+modificado desde que se lo firmo.
+
+De hecho hay todo un curro en Internet con las firmas digitales.
+Hay empresas que se dedican a firmar tus claves publicas, lo que se
+llama certificar una firma. Tienen fecha de caducidad y otras
+sutilezas y cobran caro por hacerlo.
+
+Los algoritmos de encriptacion de PGP estan patentados por un tipo en
+Estados Unidos, y como los yankis estan algo psicopatas al respecto,
+consideran la exportacion de tecnicas criptograficas un delito, asi
+que antes habia una version de estados unidos y una version
+internacional de PGP. La segunda era facil de desencriptar por las
+agencias de gobierno de estados unidos cuyo nombre tenga 3 letras
+(CIA, DEA, FBI...)
+
+Algunas de esas patentes han vencido. Tambien se ha desarrollado una
+version sin restricciones estupidas basada en tecnicas criptograficas
+tan seguras como las de PGP, que se llama GPG (GNU Privacy Guard) y
+que se desarrollo totalmente fuera de estados unidos.
+
+GPG esta hecho por el mismo tipo de gente que hace Linux y toda esa
+historia del software libre y abierto, con la que seguro simpatizas.
+
+-- 
+Groucho Marx
+I am not the reincarnation of Sammy Davis Jr. -- Bart Simpson
+
+
+

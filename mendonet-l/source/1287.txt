@@ -1,0 +1,109 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 14 May 2002 00:19:21 -0000
+Received: (qmail 6863 invoked from network); 14 May 2002 00:19:19 -0000
+Received: from unknown (66.218.66.216)
+  by m8.grp.scd.yahoo.com with QMQP; 14 May 2002 00:19:19 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.114)
+  by mta1.grp.scd.yahoo.com with SMTP; 14 May 2002 00:19:18 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 177NNL-0000XD-00
+	for <mendonet-l@...>; Mon, 13 May 2002 18:28:59 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 177NNL-0000X2-00
+	for <mendonet-l@...>; Mon, 13 May 2002 18:28:59 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[12]: (unknown)
+Date: Mon, 13 May 2002 21:21:24 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <01f601c1f50b$b4613780$060aa8c0@...> <5338.020513@...>
+In-Reply-To: <5338.020513@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E177NNL-0000X2-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Lun 13 May 2002 08:07, escribiste:
+
+> >> La  naturaleza  dual de las partículas subatómicas no invalida
+> >> ninguna de  las  dos teorías...
+>
+> GM> Al contrario: invalida a las 2, convirtiendolas en aproximaciones
+> aplicables GM> solo a ciertos casos particulares.
+>
+> Ok. De acuerdo. No fue un buen ejemplo... pero sacandolo la
+> afirmación original sigue pareciéndome válida.
+>
+> >> aunque no estoy seguro de que este sea un buen ejemplo...
+>
+> GM> Creo que no... Porque la aparente dualidad de las particulas
+> subatomicas es GM> su unica y verdadera naturaleza. No es que no
+> estemos seguros de si son GM> ondas o particulas. No son ninguna
+> porque son una cosa distinta llamada GM> onda-particula.
+>
+> Esa   es   una forma de decir: no lo sé explicar de otro modo...
+> habrá que desarrollar una teoria más general para esas
+> "onda-partículas" que no  haga necesario utilizar una u otra teoría
+> para analizar uno u otro fenomeno...
+
+Vos decis desarrollar una teoria que maneja ondas y particulas a la vez?
+No existe y no hace falta que exista. La mecanica cuantica no maneja 
+ondas y particulas a la vez, sino que maneje onda-particulas.
+Hay 3 fenomenos distintos: ondas, particulas y ondas-particulas.
+Las ondas-particulas se parecen a las ondas en algunos casos y a las 
+particulas en otros.
+Pero si estas resolviendo problemas de onda-particulas tenes que 
+aplicar la mecanica cuantica, no la mecanica newtoniana (aplicable para 
+particulas) ni la teoria ondulatoria (aplicable a las ondas).
+
+>  o  bien  desarrollar  una 
+> teoría  general  de la cual se desprendan las otras dos como casos
+> particulares.
+
+Aha.. Una teoria del Todo. Eso promete, pero falta mucho.
+Por supuesto, casi todas las teorias pasadas y presentes se convertiran 
+en casos particulares o en aproximaciones de la teoria del Todo.
+
+
+> GM> En cambio, entre estar vivo y no estarlo aplicando la definicion
+> de GM> Sebas-Lupus a un comatoso que no se sabe si va a recuperar la
+> conciencia, la GM> duda no es parte de la naturaleza del fenomeno,
+> sino de la incompetencia del GM> observador.
+>
+> Ok. Eso es cierto, pero aún así no invalida nada...
+>
+> El  hecho  de  que  yo  no sea capaz de determinar la circunstancia
+> no implica que la circunstancia no exista objetivamente más allá de
+> mí.
+
+Justamente. Y ese es otro punto en contra de la definicion de vida de 
+ustedes: en algunos casos la definicion no permite estar seguros sobre 
+la condicion vivo/no-vivo. Seria mejor que en todos los casos se 
+pudiera saber...
+
+
+> Osea,  puede  ser  que  sea  imposible, en algunos casos
+> particulares, determinar  (por  ahora)  un diagnóstico, pero eso no
+> significa que el diagnóstico  no  exista,  el  tipo  está vivo o
+> muerto, uno de los dos estados, independientemente de mi poder
+> de diserci�n en el caso particular.
+
+Si, todo bien. Pero el valor instrumental de la definicion se reduce. 
+Ustedes quieren definir la vida asi por un proposito, que es eso de 
+reflejar el mayor valor atribuido a la vida antropomorfica.
+Ustedes quieren usar la definicion para eso, y yo les hago ver algo 
+para lo cual no se puede aplicar, como para que se bajen de la moto.
+
+-- 
+Herr GrouchoX
+
+
+
+

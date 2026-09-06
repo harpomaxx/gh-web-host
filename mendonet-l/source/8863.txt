@@ -1,0 +1,69 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 17101 invoked from network); 15 Aug 2000 15:15:18 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 15 Aug 2000 15:15:18 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 15 Aug 2000 15:15:12 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.8 [200.41.21.8] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id MAA17753 for <mendonet-l@egroups.com>; Tue, 15 Aug 2000 12:17:50 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id MAA10686 for <mendonet-l@egroups.com>; Tue, 15 Aug 2000 12:20:09 -0300
+Sender: federico@...
+Message-ID: <39995FA8.11287F5C@...>
+Date: Tue, 15 Aug 2000 12:20:08 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.16 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: Determinismo y sanata: solo =?iso-8859-1?Q?quedo?= la sanata
+References: <39881457.A93F4C74@...> <13650.000808@...> <3993FAE7.DE66CDE@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+Mariana wrote:
+> 
+> > M> Y sabés qué? Te envidio un montón, porque vos el año que viene vas
+> > M> a tener un título que avalará todo el esfuerzo que has hecho estos
+> > M> años. A mi nunca me van a dar ningún título que diga: srta. Ya es
+> > M> artista!... NUNCA... Y encima tango que bancarme que me discriminen
+> > M> y me prejuzguen por algo que no soy.
+> >
+> > Como?
+> > Cuando terminas la facultad de arte, te recibis de......
+> 
+> Profesora
+> 
+> > Y te dan un diploma en..........
+> 
+> Profesorado
+> 
+> > Serias una graduada de.............
+> 
+> Profesora de.........
+> 
+> También tenés la opción de recibirte de Licenciado, pero ni siquiera los
+> que saben, saben pa'que carajo sirve la licenciatura.
+> 
+> > M> ser artista no es bardear a los ingenieros
+> > M> (la persona que mas amo en este mundo es un futuro ingeniero)
+> 
+> > Estem.... A mi novia no le va a gustar que digas eso, Mari....
+> > :-)
+> 
+> OPS!... ¿Ella también está enamorada de Cabeza?
+> 
+
+epa, tomo como un cumplido que hayas elegido
+mi nombre de todos los futuros ingenieros que 
+tenias en la lista, pero a mi novia seguro que 
+no le va a gustar esto.
+
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+"In a World Without Fences, Who Needs Gates?"
+

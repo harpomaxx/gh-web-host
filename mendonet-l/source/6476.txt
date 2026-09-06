@@ -1,0 +1,22 @@
+From aletalquenca@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aletalquenca@...>
+X-Sender: aletalquenca@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 2 Jan 2001 01:49:21 -0000
+Received: (qmail 80076 invoked from network); 2 Jan 2001 01:48:43 -0000
+Received: from unknown (10.1.10.142) by l8.egroups.com with QMQP; 2 Jan 2001 01:48:43 -0000
+Received: from unknown (HELO pop.impsat.net.ar) (200.31.1.7) by mta3 with SMTP; 2 Jan 2001 02:49:47 -0000
+Received: from bocha.supernet.com.ar (a2d22.impsat.net.ar [200.41.21.82]) by smtp1.impsat.net.ar (8.9.3/8.9.3) with SMTP id WAA06571 for <mendonet-l@egroups.com>; Mon, 1 Jan 2001 22:35:53 +0300 (GMT)
+Message-ID: <000b01c0745b$15303260$LocalHost@...>
+To: <mendonet-l@egroups.com>
+References: <92fh1h+2e5g@...> <14551.001231@...>
+Subject: Benusiano Greek, Venus de Milo, frontal.jpeg [1/2]
+Date: Mon, 1 Jan 2001 22:26:50 -0300
+MIME-Version: 1.0
+Content-Type: message/partial; total=2; id="01C0745B.14E3E720@..."; number=1
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6600
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6600
+From: "Alejandro Gomez" <aletalquenca@...>
+

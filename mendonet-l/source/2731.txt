@@ -1,0 +1,69 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 24 Nov 2001 19:32:44 -0000
+Received: (qmail 47435 invoked from network); 24 Nov 2001 19:32:43 -0000
+Received: from unknown (216.115.97.172)
+  by m5.grp.snv.yahoo.com with QMQP; 24 Nov 2001 19:32:43 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.97)
+  by mta2.grp.snv.yahoo.com with SMTP; 24 Nov 2001 19:32:43 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sat, 24 Nov 2001 11:32:43 -0800
+X-Originating-IP: [200.45.192.171]
+To: <mendonet-l@...>
+References: <20011120195142.I3550@...> <11484.011124@...>
+Subject: RE: Re[2]: Siguen las preguntas informáticas...
+Date: Sat, 24 Nov 2001 16:28:24 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE40Mv2h9RRJaJxX2Lf000075e3@...>
+X-OriginalArrivalTime: 24 Nov 2001 19:32:43.0926 (UTC) FILETIME=[C9DD0B60:01C1751E]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Mensaje original -----
+De: "Lupus" <aldocop@...>
+Para: <mendonet-l@...>
+Enviado: Sábado, 24 de Noviembre de 2001 11:38 a.m.
+Asunto: Re[2]: Siguen las preguntas informáticas...
+
+
+>
+> GM> Paginas blancas: listado de personas con su direccion y telefono
+>
+> GM> Las paginas blancas de ICQ son un listado de todos los pobres
+infelices que
+> GM> cuando sacaron su direccion de ICQ no desactivaron la casilla para
+publicar
+> GM> sus datos en las paginas blancas.
+>
+> Bien sabelotodo... pero mi confuguración en icq no incluye ningún dato
+> personal,  sencillamente  porque  mi  hermano  no  puso  ni  el  cp...
+> entonces...  cómo carajo llegó esa información hasta la persona que me
+> contactó...  eso  es  lo  que  quiero  saber...  de  dónde  se fuga la
+> información  de  mi pc... ademp�s,la persona era de mendoza... así que
+> de   algun   modo   debe  haber sabido que yo era de acá tb... pero no
+> está cargada la palabra mendoza en "my icq" o como sea que se llame la
+> lista  de  información  personal  del  programejo... lo que me intriga
+> justamente  es  cómo  supo  que  yo  era  de  mendoza, y por qué no se
+> contacta conmigo nadie de mexico, venezuela, españa,etc... supongo que
+> las wp incluyen gente de todo el mundo... y es mucha casualidad que me
+> habra  una  ventana  alguien  que  vive  a  menos  de km de mi casa...
+> bueno... al menos a mí me llamó la atención...
+
+vean..........un claro ejemplo de delirio de persecucion
+
+> >> Hay alguna forma de desactivar esas w p?
+
+
+si,  borra el programa al carajo
+
+
+

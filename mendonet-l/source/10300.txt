@@ -1,0 +1,51 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+Received: (qmail 27949 invoked from network); 10 Jun 2000 21:14:03 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 10 Jun 2000 21:14:03 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 10 Jun 2000 21:14:03 -0000
+Received: (qmail 26048 invoked by uid 417); 10 Jun 2000 21:15:37 -0000
+Received: from unknown (HELO ANTRO) (200.41.31.72) by smtpb.softhome.net with SMTP; 10 Jun 2000 21:15:37 -0000
+Date: Sat, 10 Jun 2000 11:47:36 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <6491.000610@...>
+To: Cabeza <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmVbMl06IE1lZGljafNuIGRlIGNvZWZpY2llbnRl?=
+In-reply-To: <393C2230.2D62DF32@...>
+References: <393C2230.2D62DF32@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+
+
+C> Marc wrote:
+>> 
+>>   A ver quien resuelve primero el problema:
+>> 
+>>   EL BUEN PASTO
+>>   Una vaca pastaba en un campo perfectamente circular,de 100 metros de
+>>   diámetro. Fue comiendo el pasto del perímetro hasta dejar reducido
+>>   el campo a un circulo que tenía la mitad de superficie del original.
+>>  ¿cuántos metros de diámetro tendrá el circulo de pasto que quedó?
+
+C> a ver...
+
+C> pi*r1^2 = (pi*r2^2)/2
+C> r2 = sqr(r1^2/2)
+=>> r2 = 35.35533906 metros 
+  No
+
+
+
+
+-- 
+Que sueñen con los angelitos
+ Marc                            
+
+
+

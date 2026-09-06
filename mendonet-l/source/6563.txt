@@ -1,0 +1,67 @@
+From goofer@...  Sat Jul 11 23:23:58 2020
+Return-Path: <goofer@...>
+X-Sender: goofer@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 12 Dec 2000 02:11:01 -0000
+Received: (qmail 64547 invoked from network); 12 Dec 2000 02:11:00 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 12 Dec 2000 02:10:59 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (204.144.231.7) by mta1 with SMTP; 12 Dec 2000 02:10:59 -0000
+Received: (qmail 32313 invoked by uid 417); 12 Dec 2000 02:02:18 -0000
+Message-ID: <20001212020218.32309.qmail@...>
+References: <20001209155515.14916.qmail@...> <6989.001210@...>
+In-Reply-To: <6989.001210@...>
+To: mendonet-l@egroups.com
+Subject: Mendonet con casa propia....
+Date: Tue, 12 Dec 2000 02:02:18 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+X-Sender: goofer@...
+From: goofer@...
+
+
+La mendonet ha tenido idas y venidas a lo pavote...
+(verso mio)
+
+Pero nunca ha tenido casa propia, con el concepto total de tal aseveracion.
+Pues, los invito si es su deseo a que ahora si.
+Los dueños de la lista indiscutiblemente son los Marx, por lo que ellos son
+en realidad quienes deberian contestar esto.
+Tengo sitio propio y con continuidad.
+Eso me da la posibilidad de tener dos mailing list.
+desearia que uno fuera la mendo.
+Pa darle rancho propio y con total control.
+
+Ustedes deciden.
+Por lo pronto pego lo que me dice mi sitio sobre el tema:
+
+Hecho 
+Para suscribirse a la lista de correos, simplemente mande un email con la
+palabra 'subscribe' en el campo 'tema:' a la direccion '-request' de esa
+lista
+
+A: Mendonet-request@... 
+asunto: subscribe 
+
+Para suscribirse, simplemente envie un mensaje con la palabra suscribe en
+el campo Tema: a la siguiente dirección. 
+A: Mendonet-d-request@... 
+asunto: subscribe 
+
+Para mandar correo a la Lista de correo, escriba a la siguiente dirección: 
+A: Mendonet@... 
+
+Para cancelar su suscripción, escriba un email con la palabra 'unsuscribe
+en' el campo 'tema:' a la direccion '-request' de esa lista 
+A: Mendonet-request@... 
+asunto: unsubscribe 
+
+Para cancelar su suscripción, escriba un email como este: 
+A: Mendonet-d-request@... 
+asunto: unsubscribe 
+Done! 
+
+
+
+Goofer Mimo Craneos
+

@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 17 Nov 2001 18:38:34 -0000
+Received: (qmail 87495 invoked from network); 17 Nov 2001 18:38:34 -0000
+Received: from unknown (216.115.97.167)
+  by m11.grp.snv.yahoo.com with QMQP; 17 Nov 2001 18:38:34 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.21.160)
+  by mta1.grp.snv.yahoo.com with SMTP; 17 Nov 2001 18:38:32 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 164vwI-00056o-00
+	for <mendonet-l@...>; Sat, 17 Nov 2001 00:14:42 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 164vwH-00056d-00
+	for <mendonet-l@...>; Sat, 17 Nov 2001 00:14:41 -0300
+Date: Sat, 17 Nov 2001 00:14:41 -0300
+To: mendonet-l@...
+Subject: Re: Lupus y morganti de novios
+Message-ID: <20011117001441.K18473@...>
+References: <000201c16e94$2943aa00$9a4afea9@hfgg> <15938.011116@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <15938.011116@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Fri, Nov 16, 2001 at 10:31:37PM -0300, Sebas wrote:
+
+> >> > > El Arte de La Guerra --Teodore T'so. Capitulo 4.
+> >> > Y ese chabón quién era ???!.
+> LM> Ah!... ¿Era un chiste?
+> 
+> Ups! Me hicieron un chiste y lo tomé como algo serio... me lo
+> explicaron y seguí sin darme cuenta... o mi nivel de comprensión
+> es bajísimo, o el chiste fue demasiado malo.
+
+No... Estoy seguro de que los usuarios de Linux sonrieron levemente
+al leer mi comentario.
+
+-- 
+Groucho
+
+
+
+

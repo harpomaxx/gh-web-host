@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 23192 invoked from network); 5 Sep 2000 18:50:04 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 5 Sep 2000 18:50:04 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 5 Sep 2000 18:50:03 -0000
+Received: from a3d25.impsat.net.ar (a3d25.impsat.net.ar [200.41.21.145]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id PAA17418 for <mendonet-l@egroups.com>; Tue, 5 Sep 2000 15:52:42 +0300 (GMT)
+Date: Mon, 4 Sep 2000 18:45:31 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <4781.000904@...>
+To: El Goofer <mendonet-l@egroups.com>
+Subject: Re[2]: prueba
+In-reply-To: <39B1A637.96571BCE@...>
+References: <39B1A637.96571BCE@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 02/09/2000, El Goofer furiosamente escribió:
+
+>> alguna de mis maquinas, y vos no te das cuenta del swapeo, mejor.
+>> (Bueno, eso ultimo hace de cuenta que no lo dije!)
+>> 
+>> Ademas, siempre es posible motivarme para hacer algo "for free".
+>> Harpo lo sabe, EL Zeppo lo sabe, y mis empleadores todavia no.
+>> Tal vez vos descubras la manera.
+
+EG> Descubra el modo de copar al Groucho en 1 clase de 15"... 
+EG> Simplemente debe decírsele..:
+EG> 1) No, me dijeron que esto no puede arreglarlo nadie
+EG> 2) Mirá que esto es un problemon grosso, que no es pa cualquiera...
+EG> 3) En Mendoza, es la única que hay
+EG> 4) Linux
+EG> 5) Tengo algo que puede interesarte
+EG> 6) Tengo dos cervezas, un problema y mucho tiempo...
+
+EG> Igualmente, enunciar todas las posibilidades que brinda la mezcla  que
+EG> sale de Desafío, Curiosidad y Gula es imposible, pero esa es la Idea
+
+JA!!!!!
+Me tenes bien calao!!!
+
+-- 
+Groucho Marx
+Ya no necesito el diploma de la secundaria!
+Soy intelectual! Muy inteligente!
+Soy intelectual! Muy inteligente! -- Homero J. Simpson
+
+
+

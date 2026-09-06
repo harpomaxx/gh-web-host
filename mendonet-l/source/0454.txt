@@ -1,0 +1,64 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 27 Feb 2003 13:57:50 -0000
+Received: (qmail 99780 invoked from network); 27 Feb 2003 13:57:49 -0000
+Received: from unknown (66.218.66.217)
+  by m6.grp.scd.yahoo.com with QMQP; 27 Feb 2003 13:57:49 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.73)
+  by mta2.grp.scd.yahoo.com with SMTP; 27 Feb 2003 13:57:47 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18oOjZ-0000nv-00
+	for <mendonet-l@...>; Thu, 27 Feb 2003 11:10:01 -0300
+Message-ID: <3E5E18DA.9050502@...>
+Date: Thu, 27 Feb 2003 10:55:38 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: A cara de perro !...
+References: <1553604142.20030225170749@...> <6541.030226@...>
+In-Reply-To: <6541.030226@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+> S>> cualquier combinación de estos tres, intentar concretar dos
+> S>> magnicidios antes de la fecha del ballotage. En cualquier otro caso,
+> S>> volver a votar en blanco.
+> 
+> MS> Quiza por hacer esta pregunta me tomen por boludo, pero de hecho ya lo
+> MS> hacen,
+> Correcto, seguí...
+> 
+> MS>  asi que no importa:
+> Me gusta tu actitud.
+> 
+> MS>  Hay alguna diferencia entre votar en
+> MS> blanco e impugnar el voto o voto bronca?
+> 
+> Nunca lo confirmé con el texto de la ley, pero al parecer, los votos
+> en blanco no se computan para los porcentajes, mientras que los
+> anulados sí.
+
+Es exactamente al reves.
+Un voto anulado es un voto que no existe, que no cuenta.
+Equivale a no votar.
+
+> En realidad digo votar en blanco por costumbre, lo que
+> sugiero es anular el voto.
+
+No podes anular tu voto. Podes poner objetos extraños o para que el 
+presidente de mesa anule tu voto, o podes armar un voto que mezcle 
+candidatos para el mismo cargo, con lo que lo impugnaran.
+
+-- 
+Groucho
+
+
+

@@ -1,0 +1,55 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 22 May 2002 01:13:12 -0000
+Received: (qmail 44536 invoked from network); 22 May 2002 01:13:12 -0000
+Received: from unknown (66.218.66.216)
+  by m3.grp.scd.yahoo.com with QMQP; 22 May 2002 01:13:12 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.84)
+  by mta1.grp.scd.yahoo.com with SMTP; 22 May 2002 01:13:09 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 17AI4f-0000d4-00
+	for <mendonet-l@...>; Tue, 21 May 2002 19:25:45 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 179x3B-0004eA-00
+	for <mendonet-l@...>; Mon, 20 May 2002 20:58:49 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[15]: (unknown)
+Date: Mon, 20 May 2002 23:48:39 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <1977.020514@...> <14370.020516@...> <OE46dH0ykXybY3qxzuj0000bb1a@...>
+In-Reply-To: <OE46dH0ykXybY3qxzuj0000bb1a@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E179x3B-0004eA-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Sáb 18 May 2002 07:47, escribiste:
+
+> > >>> ¡Fede tu dios tiene nombre, apellido y descubridor!
+> > GM>> Mmmm... Stefan, Boltzman, Joule, Watt, o quien?
+> >
+> > S> ¿Quién describió por primera vez las leyes de la termodinámica?
+> >
+> > Supongo   que  el  que  empezó fue Joule, planteando la relacion
+> > entre trabajo,  energía  y calor
+>
+> ¿Joule creo la energia o solo descubrio una forma de cuantificarla?
+> Joule no es energia, por lo tanto no es Dios
+
+Pero yo hablaba del nombre del descubridor de tu dios, no de tu dios.
+Esta clarisimo que tu dios es la termodinamica, asi que obviametne la 
+duda era respecto del descubridor.
+
+-- 
+Herr GrouchoX
+
+
+
+

@@ -1,0 +1,167 @@
+From HADARO@...  Sat Jul 11 23:23:58 2020
+Return-Path: <HADARO@...>
+X-Sender: HADARO@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 26 Oct 2001 01:38:07 -0000
+Received: (qmail 93956 invoked from network); 26 Oct 2001 01:38:06 -0000
+Received: from unknown (10.1.10.27)
+  by l10.egroups.com with QMQP; 26 Oct 2001 01:38:06 -0000
+Received: from unknown (HELO relay02.pecom.com.ar) (200.3.110.25)
+  by mta2 with SMTP; 26 Oct 2001 01:38:06 -0000
+Received: from maipu57.pecom.com.ar (200.3.110.23 [200.3.110.23]) by relay02.pecom.com.ar with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id VHH5VRBD; Thu, 25 Oct 2001 22:27:56 -0300
+Received: by MAIPU57 with Internet Mail Service (5.5.2653.19)
+	id <VP9ZHZG2>; Thu, 25 Oct 2001 22:37:52 -0300
+Message-ID: <D18920FC9EC7D411ACC00008C75635FA384665@PCUYO_MZA00>
+To: mendonet-l@...
+Subject: RE: Bienvenido a mendonet-l 
+Date: Thu, 25 Oct 2001 22:38:26 -0300
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C15DBE.E854DE50"
+From: Adaro Humberto <HADARO@...>
+
+
+------_=_NextPart_001_01C15DBE.E854DE50
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+> Lista para la gente de Mendonet  Mza-Arg 
+> Mendonet es una lista de corr=
+eo con historia. Hace ya un par de años se
+> formo una RED de BBS en la p=
+rovincia de Mendoza. Esta red cuyo nombre era
+> justamente el de Mendonet, =
+funcionaba de manera similar a la otrora famosa
+> FIDONET. Sin embargo la t=
+ecnologia avanzo y los BBS murienron. Por ello se
+> traslado a este lista d=
+e correo.
+> 
+> mendonet-l es la lista que intenta rescatar un poco de aquel=
+las glorias
+> pasadas. El topico de la lista es cualquiera, las malas palab=
+ras son
+> bienvenidas, cualquier tipo de abuso es bienvenido. Ya que ese es=
+ el
+> espiritu de Mendonet. El mas absoluto libertinaje.
+> 
+> Sin embargo n=
+o piensen que Mendonet-l es una lista en donde se putea todo
+> el tiempo. M=
+endonet-l trata temas de todo tipo: Filosoficos, matematicos,
+> televisivos=
+, computacionales, artisticos,etc.
+> 
+> IMPORTANTE: 
+> ---------- 
+> ENTONC=
+ES TODO LO QUE DICE ES MENTIRA? 
+> 
+> Para mandar un mail a la lista para q=
+ue sea leido por todos las personas.
+> la direccion es:  mendonet-l@egroups=
+.com                           Si no
+> queres seguir leyendo Mendonet, mand=
+a un mail a
+> 
+> mendonet-l-unsubscribe@egroups.com 
+> Para cualquier queja=
+ o problemas mandar un mail a: 
+> Harpo@... Groucho@... 
+=
+>  El uso de Yahoo! Grupos esta sujeto a las
+> http://ar.docs.yahoo.com/i=
+nfo/utos.html 
+> 
+>   
+> 
+> 
+> 
+> 
+
+------_=_NextPart_001_01C15DBE.E854DE50
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-=
+EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Diso-8859-1">
+<META N=
+AME=3D"Generator" CONTENT=3D"MS Exchange Server version 5.5.2653.12">
+<TITL=
+E>RE: Bienvenido a mendonet-l </TITLE>
+</HEAD>
+<BODY>
+<UL>
+<P><FONT SIZE=3D=
+2 FACE=3D"Arial">Lista para la gente de Mendonet=A0 Mza-Arg</FONT><FONT FAC=
+E=3D"Arial"> </FONT>
+<BR><FONT SIZE=3D2 FACE=3D"Arial">Mendonet es una list=
+a de correo con historia. Hace ya un par de años se formo una RED de BBS =
+en la provincia de Mendoza. Esta red cuyo nombre era justamente el de Mendo=
+net, funcionaba de manera similar a la otrora famosa FIDONET. Sin embargo l=
+a tecnologia avanzo y los BBS murienron. Por ello se traslado a este lista =
+de correo.</FONT></P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">mendonet-l es la li=
+sta que intenta rescatar un poco de aquellas glorias pasadas. El topico de =
+la lista es cualquiera, las malas palabras son bienvenidas, cualquier tipo =
+de abuso es bienvenido. Ya que ese es el espiritu de Mendonet. El mas absol=
+uto libertinaje.</FONT></P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Sin embargo n=
+o piensen que Mendonet-l es una lista en donde se putea todo el tiempo. Men=
+donet-l trata temas de todo tipo: Filosoficos, matematicos, televisivos, co=
+mputacionales, artisticos,etc.</FONT></P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial"=
+>IMPORTANTE:</FONT> 
+<BR><FONT SIZE=3D2 FACE=3D"Arial">----------</FONT><FO=
+NT FACE=3D"Arial"> </FONT>
+<BR><B><FONT COLOR=3D"#0000FF" FACE=3D"Andale Mo=
+no">ENTONCES TODO LO QUE DICE ES MENTIRA?</FONT></B><FONT FACE=3D"Arial"> <=
+/FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Para mandar un mail a la list=
+a para que sea leido por todos las personas. la direccion es:</FONT><B><FON=
+T COLOR=3D"#0000FF" FACE=3D"Andale Mono">=A0</FONT></B><FONT FACE=3D"Arial"=
+></FONT> <FONT SIZE=3D2 FACE=3D"Arial">mendonet-l@egroups.com</FONT><B><FON=
+T COLOR=3D"#0000FF" FACE=3D"Andale Mono">=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0</FONT></B><FONT FACE=3D"Arial=
+"></FONT> <FONT SIZE=3D2 FACE=3D"Arial">Si no queres seguir leyendo Mendone=
+t, manda un mail a</FONT></P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">mendonet-l-=
+unsubscribe@egroups.com</FONT><FONT FACE=3D"Arial"> </FONT>
+<BR><FONT SIZE=
+=3D2 FACE=3D"Arial">Para cualquier queja o problemas mandar un mail a:</FON=
+T><FONT FACE=3D"Arial"> </FONT>
+<BR><FONT SIZE=3D2 FACE=3D"Arial">Harpo@sof=
+thome.net</FONT><FONT FACE=3D"Arial"></FONT> <FONT SIZE=3D2 FACE=3D"Arial">=
+Groucho@...</FONT><FONT FACE=3D"Arial"> </FONT>
+<BR><FONT SIZE=3D2=
+ FACE=3D"Arial">=A0El uso de Yahoo! Grupos esta sujeto a las</FONT><U><FO=
+NT FACE=3D"Arial"></FONT></U><U> <FONT COLOR=3D"#0000FF" SIZE=3D2 FACE=3D"A=
+rial"><A HREF=3D"http://ar.docs.yahoo.com/info/utos.html" TARGET=3D"_blank"=
+>http://ar.docs.yahoo.com/info/utos.html</A></FONT></U><FONT SIZE=3D2 FACE=
+=3D"Arial"></FONT> 
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">=A0</FONT><FONT =
+FACE=3D"Arial"> </FONT>
+</P>
+<BR>
+<BR>
+<BR>
+</UL>
+</BODY>
+</HTML>
+------_=_NextPart_001_01C15DBE.E854DE50--
+

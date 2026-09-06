@@ -1,0 +1,58 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_3); 25 Sep 2002 17:21:00 -0000
+Received: (qmail 22025 invoked from network); 25 Sep 2002 17:21:00 -0000
+Received: from unknown (66.218.66.217)
+  by m2.grp.scd.yahoo.com with QMQP; 25 Sep 2002 17:21:00 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 25 Sep 2002 17:20:59 -0000
+Received: (qmail 4148 invoked by uid 417); 25 Sep 2002 17:17:15 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 25 Sep 2002 17:17:15 -0000
+Received: from a200042124186.rev.prima.com.ar ([200.42.124.186])
+  by softhome.net with esmtp; Wed, 25 Sep 2002 11:16:55 -0600
+Date: Wed, 25 Sep 2002 14:15:36 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <2594.020925@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?RGVzYWZp7XRvIGRlIGbtc2ljYS4=?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+Paso a comentarles. Como algunos de ustedes sabrán estoy dando clases
+de física, química y biología en el curso de nivelación que de mi
+facultad a los aspirantes. En uno de los grupos que tengo han 
+coincidido varios alumnos/as cuya capacidad les permite llevar el
+curso con bastante facilidad, y además muy afectos a aprender, y hasta
+cierto punto, curiosos. A fin de aprovechar estas cualidades, he
+decidido ir un poco más allá de los alcances del curso(con su
+consentimiento) y en cada clase les planteo un "desafío" relacionado
+al tema que estamos viendo. Ahora estamos viendo gravedad y pensando
+en algún desafío que plantearles, me encontré con que el mismo
+cuadernillo les plantea uno. El tema es: ¿por qué la luna no cae
+sobre la tierra?. Imaginando posibles respuestas de mis alumnos y me
+encuentro con que no sé si estas dos que les presento son la misma...
+quisiera que ustedes rebatan o afirmen estas probables respuestas:
+- porque la aceleración que genera la fuerza gravitacional es apenas
+suficiente com aceleración centrípeta;
+- porque su velocidad tangencial(paralela a la superficie terrestre)
+hace que su caída, que sí se está produciendo, configure la órbita
+alrededor de la tierra.
+
+La segunda es la correcta, pero ¿es igual que la primera?
+Estoy seguro que me van a dar la primera, pero no me doy cuenta si es
+lo mismo, creo que sí, pero si ustedes pudieran confirmarlo...
+
+-- 
+ Sebas  
+Quien sacrifica la libertad en nombre de la seguridad no merece la libertad ni la seguridad.                       
+
+
+

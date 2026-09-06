@@ -1,0 +1,43 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 26 Sep 2001 03:05:16 -0000
+Received: (qmail 90616 invoked from network); 26 Sep 2001 03:05:13 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.223 with QMQP; 26 Sep 2001 03:05:12 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.21.114)
+  by mta1 with SMTP; 26 Sep 2001 03:05:52 -0000
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id UAA16890
+	for mendonet-l@...; Tue, 25 Sep 2001 20:57:10 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Tue, 25 Sep 2001 20:57:10 -0300
+To: mendonet-l@...
+Subject: Re: "Naturaleza del hombre" my ass !
+Message-ID: <20010925205710.D16770@...>
+Reply-To: harpo@...
+References: <D18920FC9EC7D411ACC00008C75635FA33A77C@PCUYO_MZA00> <010801c145e7$e6fd33c0$060aa8c0@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <010801c145e7$e6fd33c0$060aa8c0@...>; from groucho@... on Tue, Sep 25, 2001 at 02:31:24PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.19 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+El Tue, Sep 25, 2001 at 02:31:24PM -0300, Groucho Marx dijo:
+> Tambien se me malinterpreto cuando -supuestamente- justifique los
+> atentados apelando a la naturaleza humana. Yo nunca opine sobre si matar a
+> los demas esta bien o esta mal. Creo que ese tema es mas complejo y no puedo
+
+Creo que matar es un acto natural, de hecho todos lo hacemos a diario, y creo
+que si la muerte es algo natural, entonces matar por no deberia serlo...
+
+Ahora, una cosa es que algo sea natural, y otra cosa es que sea algo agradable
+y culturamente correcto.
+
+-- 
+Harpo+
+

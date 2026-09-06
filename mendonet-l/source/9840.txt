@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 18142 invoked from network); 30 Jun 2000 01:35:15 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 30 Jun 2000 01:35:15 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 30 Jun 2000 01:35:13 -0000
+Received: from 200.41.31.118 ([200.41.31.118]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA25631 for <mendonet-l@egroups.com>; Thu, 29 Jun 2000 22:38:01 +0300 (GMT)
+Date: Thu, 29 Jun 2000 22:37:57 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <2943.000629@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: Re[5]: Lo Bello (Cumbia pop vs Tschaicowsky...)
+In-reply-To: <17807.000626@...>
+References: <17807.000626@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 26/06/2000, Lupus histéricamente escupió:
+
+GM>> Con respecto a la actitud de Conan, esta muy bien. El pelotudo sos vos
+GM>> por usar una poronga que no todo el mundo puede leer.
+
+LeL> El formato doc solo puede ser leído por utilitarios microsoft?????
+
+Si es la ultima version si. Fijate que ahora que esta Office 2k, salen
+por todos lados conversores de Word 8.0 (que es el Word que viene con
+Office 97).
+
+LeL> Que  culiados!!!  No  creo que sea así, para mí que Conan es un pajero
+LeL> que  no  se  ha  tomado el trabajo de pedirle a Harpo algún programita
+LeL> para ver docs...
+
+No existe que yo sepa, mas alla de que algun loco lindo de haya
+propuesto descifrar el formato y lo haya logrado a medias.
+
+
+LeL> Si me equivoco y los docs son privativos de microsoft, entonces lo que
+LeL> decías es verdad.
+
+Y... Si no es blanco es negro.
+
+-- 
+Groucho Marx
+¡Cállate Flanders! -- Homero J. Simpson.
+
+
+

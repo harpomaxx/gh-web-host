@@ -1,0 +1,55 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 34298 invoked from network); 1 Jul 2003 19:35:33 -0000
+Received: from unknown (66.218.66.216)
+  by m13.grp.scd.yahoo.com with QMQP; 1 Jul 2003 19:35:33 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta1.grp.scd.yahoo.com with SMTP; 1 Jul 2003 19:35:31 -0000
+Received: (qmail 8085 invoked by uid 404); 1 Jul 2003 19:35:27 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar by uid 401 with qmail-scanner-1.16 
+ (uvscan: v4.1.60/v4273. spamassassin: 2.44.  Clear:. 
+ Processed in 0.454731 secs); 01 Jul 2003 19:35:27 -0000
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 1 Jul 2003 19:35:27 -0000
+Date: Tue, 1 Jul 2003 16:35:25 -0300
+To: mendonet-l@...
+Subject: Re: Nuevo email.
+Message-Id: <20030701163525.0570668c.cgimenez@...>
+In-Reply-To: <402956998.20030701140802@...>
+References: <402956998.20030701140802@...>
+Organization: XNET Cuyo SA
+X-Mailer: Sylpheed version 0.9.0claws (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+El Tue, 1 Jul 2003 14:08:02 -0300
+rodralez <rodralez@...> escribio:
+
+> 
+> Les paso mi nuevo email:
+> 
+> rodralez@...
+> 
+> Saludos...
+> 
+> rodralez
+
+yo no te recomiendo ese server porq anda para el orto :P
+
+
+-- 
+
+Cristian Gimenez
+cgimenez@...
+http://kastor.org.ar/
+
+XNet Cuyo S.A.
+Investigacion y Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-261-4252788 
+

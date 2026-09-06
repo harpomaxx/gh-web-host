@@ -1,0 +1,73 @@
+From cabeza@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cabeza@...>
+X-Sender: cabeza@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 16891 invoked from network); 14 Aug 2003 16:24:41 -0000
+Received: from unknown (66.218.66.216)
+  by m8.grp.scd.yahoo.com with QMQP; 14 Aug 2003 16:24:41 -0000
+Received: from unknown (HELO muddy.fedped.com.ar) (200.80.52.246)
+  by mta1.grp.scd.yahoo.com with SMTP; 14 Aug 2003 16:24:40 -0000
+Received: (qmail 11696 invoked from network); 14 Aug 2003 16:18:00 -0000
+Received: from unknown (HELO ?192.168.109.11?) (192.168.109.11)
+  by 192.168.109.10 with SMTP; 14 Aug 2003 16:18:00 -0000
+Subject: Re: =?ISO-8859-1?Q?Charrua?= se presenta
+To: mendonet <mendonet-l@...>
+In-Reply-To: <20030813213757.25512.qmail@...>
+References: <20030813213757.25512.qmail@...>
+Content-Type: text/plain; charset=ISO-8859-1
+Organization: 
+Message-Id: <1060877844.15956.16.camel@stimpy>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.4 
+Date: 14 Aug 2003 13:17:24 -0300
+Content-Transfer-Encoding: 8bit
+From: cabeza <cabeza@...>
+X-Yahoo-Group-Post: member; u=76414316
+X-Yahoo-Profile: c_a_b_e_z_a
+
+On Wed, 2003-08-13 at 18:37, ElBeneficio DeLaDuda wrote:
+> No no no..... no soy de Mendoza no... en que taba pensando cuando me
+> afilie?
+> Me gustó el tono, la afiliación sin pudor a la pedantería y a la
+> soberbia...
+> la libertad de temas... en fin, me sentí en frecuencia y me tiré de
+> cabeza.
+> Por lo menos espero que me cuenten algo de como es Mendoza, ya que
+> estamos.
+> 
+> Este es mi mail de presentación. Uruguaya en Montevideo, 25 años bien
+> llevados  (si esta carta es corta es porque estoy apurada para ir al
+> gimnasio), trabajo 14 horassss en un cyber de lunes a domingos (no se
+> asusten: los domingos solo 8 o 9 horas) que abri hace un mes asi que
+> tengo
+> mucho tiempo adelante de la compu pa delirar con vosotros.
+> 
+> Soy de Nacional, no me gustan las cadenas ....
+
+
+bueno, sos bienvenida, aca no somos nacional istas a si que poco
+importa que no seas de mendoza, es mas no importa para nada.
+dentro de poco voy a tener lista una foto panoramica desde la
+terraza del edificio en donde vivo para que la veas, cuando
+logre hacerla desde linux porque no pienso usar la mierda de windows
+solo para unir un par de fotos
+
+
+saludos
+cabeza
+
+
+
+
+
+
+
+
+
+
+
+
+-- In theory, practice and theory are the same, but in practice they are
+different -- Larry McVoy
+
+

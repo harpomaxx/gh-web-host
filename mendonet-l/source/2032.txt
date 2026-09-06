@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 25 Jan 2002 15:40:10 -0000
+Received: (qmail 30856 invoked from network); 25 Jan 2002 15:40:09 -0000
+Received: from unknown (216.115.97.172)
+  by m2.grp.snv.yahoo.com with QMQP; 25 Jan 2002 15:40:09 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.118)
+  by mta2.grp.snv.yahoo.com with SMTP; 25 Jan 2002 15:40:08 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16TyqR-00023x-00
+	for <mendonet-l@...>; Fri, 25 Jan 2002 02:24:11 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16TyqR-00023m-00
+	for <mendonet-l@...>; Fri, 25 Jan 2002 02:24:11 -0300
+Date: Fri, 25 Jan 2002 02:24:10 -0300
+To: mendonet-l@...
+Subject: Re: che... creo que estamos solos en mendonet... todos deben haberse ido de vacaciones...
+Message-ID: <20020125052410.GF7515@...>
+References: <200201221613.2960@X-KASTOR> <1717.020123@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <1717.020123@...>
+User-Agent: Mutt/1.3.24i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Wed, Jan 23, 2002 at 12:24:41AM -0300, Sebas wrote:
+> >> Una cosa no quita a la otra. Un ingeniero no va a querer realizar tareas de
+> >> obrero, y un plan trabajar para un ingeniero no tiene por que incluir
+> >> igual remumeracion que un plan trabajar para un obrero.
+> 
+> k> exacto:   cobra segun su capacidad (idea del socialismo)
+> 
+> Que socialismo tan exotico el tuyo.
+
+Corregime si me equivoco, pero era
+"de cada cual segun su capacidad, cada cual segun su necesidad".
+
+-- 
+Groucho
+
+
+
+

@@ -1,0 +1,29 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-7_0_3); 15 Feb 2001 02:49:58 -0000
+Received: (qmail 27475 invoked from network); 15 Feb 2001 02:49:58 -0000
+Received: from unknown (10.1.10.27) by l8.egroups.com with QMQP; 15 Feb 2001 02:49:58 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.21.92) by mta2 with SMTP; 15 Feb 2001 02:49:57 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id XAA24939 for mendonet-l@egroups.com; Wed, 14 Feb 2001 23:48:00 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Wed, 14 Feb 2001 23:47:59 -0300
+To: Lista de correo copada <mendonet-l@yahoogroups.com>
+Subject: Astalatusa On-Line
+Message-ID: <20010214234759.G23129@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+Despues de mucho tiempo, finalmente se puso on-line el famoso
+y tan esperado site de ASTALATUSA.
+Visitenlo y aporten criticas y sugerencias...
+en http://www.astalatusa.cjb.net y preguntense si realmente estan
+ASTALAAATUSA!!
+
+

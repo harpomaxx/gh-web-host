@@ -1,0 +1,81 @@
+From gtbest@...  Sat Jul 11 23:23:58 2020
+Return-Path: <gtbest@...>
+Received: (qmail 20854 invoked from network); 13 Jul 2000 03:27:42 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 13 Jul 2000 03:27:42 -0000
+Received: from unknown (HELO web1361.dn.net) (216.167.63.146) by mta1 with SMTP; 13 Jul 2000 03:27:42 -0000
+Received: from latinmail.com [216.167.63.166] by web1361.dn.net (SMTPD32-6.00) id A8CC22600FC; Wed, 12 Jul 2000 23:34:36 -0400
+To: mendonet-l@egroups.com
+Date: Wed, 12 Jul 2000 23:27:43 -0400
+Subject: Buenas soy el oxiuro!!!
+X-Mailer: LatinMail v3.0 -- http://www.latinmail.com
+Message-Id: <200007122334562.SM00150@...>
+From: gonzalo torrisi <gtbest@...>
+
+
+LeL>Supongo que esta respuesta llegará tarde porque este mail recién lo
+LeL>veo hoy y alguien habrá respondido ya... además calculo que esperás
+LeL>una especie de demostración que fundamente la respuesta... bueno,
+LeL>intentaré algo rapidito...
+
+LeL>La solución fácil que se me ocurre es esta: sabemos que la
+LeL>configuración óptima corresponde a un cubo de arista a, porque es el
+LeL>que más se acerca a una esfera. Además sabemos que la superficie total
+LeL>del cubo será: S=LxL, osea L exp 2 ("exp" implica "elevado a la"). la
+LeL>superficie de un cubo sin tapa sera de arista "a" será: a exp 2 x 5
+LeL>(ya que serán 5 caras). entonces:
+
+LeL>L exp 2 = a exp 2 x 5
+
+LeL>a= raiz cuadrada de (L al cuadrado sobre 5). Me cago en mi edición de
+LeL>fórmulas... esa es una respuesta válida para el alto y ancho de tu
+LeL>cubo, pero supongo que no es la respuesta que buscás, simplemente
+LeL>porque ese cubo es bastante difícil de construir... tendrías que
+LeL>cortar primero los cuatro lados que entran en la cartulina y luego
+LeL>armar el otro cuadrado con unas franjitas de longitud mayor que a y
+LeL>ancho mucho menor que a... así que tendrías que entrar a cortar y
+LeL>pegar como un gil... ese es el límite teórico de volúmen que vas a
+LeL>poder conseguir con esa superficie sin curvar las caras de la figura.
+LeL>Hay otras formas de cortar para hacerlo más parejo, pero igual hay que
+LeL>cortar en varios pedacitos por lo menos un lado.
+
+LeL>A ver, otro intento:
+
+LeL>El volumen de la caja sin tapa será: V= B1*B2*h (B1 y B2 son los lados
+LeL>de la base que así no es necesariamente cuadrada, y h la "haltura". El
+LeL>problema está en la restricción de que los 4 pedazos de caret�n deben
+LeL>salir de una cartulina cuadrada de lado L... mmm... lo que se me
+LeL>ocurre hacer es intentar escribir mtemáticamente las restricciones y
+LeL>después expresar las medidas que te dije en función de las
+LeL>restricciones geométricas al cortar la cartulina en 5, después poner
+LeL>la ecuación de V en función de las restricciones, derivar, igualar a
+LeL>cero y sacar los óptimos... esta solución va a ser limpita pero
+LeL>engorrosísima...
+
+LeL>La verdad que estuve haciendo un par de dibujos y no se me ocurre cómo
+LeL>cortar la cartulina en 5 rectángulos que luego sirvan para armar la
+LeL>caja, osea, que compartan las dimensiones b1, b2 y h en como debe ser
+LeL>y a la vez que no sobre cartulina... a lo mejor hay que buscar un
+LeL>óptimo en el que sobre algo de cartulina... o a lo mejor la solución
+LeL>que buscabas es la que di primero... espero tu respuesta.
+
+
+Lupus, se me cayo un idolo. ¿Que pasó hermano?, te fuiste por las ramas con
+ese ¿desarrollo?
+Era muy simple, tenias que plantear el volumen como una ecuación con una
+sola incognita que
+era el alto de las paredes y luego derivarla e igualarla a cero, un simple
+problema de maximos y
+minimos de nuestro profesor Mario Negri.
+Espero que en Francia nunca te toque hacer una caja para esconder el trasero
+porque vas muerto.
+Che, un abrazo y espero que el ídolo nuevamente tome posicion en las alturas
+¿o eran todas fabulas
+las que se escuchaban de vos?
+
+
+
+
+_________________________________________________________
+http://www.latinmail.com.  Gratuito, latino y en español.
+
+

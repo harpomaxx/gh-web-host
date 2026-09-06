@@ -1,0 +1,54 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 11528 invoked from network); 21 Jun 2000 19:17:00 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 21 Jun 2000 19:17:00 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 21 Jun 2000 19:16:59 -0000
+Received: (qmail 12654 invoked by uid 417); 21 Jun 2000 19:19:48 -0000
+Received: from mza2ppp-415.uc.infovia.com.ar (209.13.230.160) by smtpa.softhome.net with SMTP; 21 Jun 2000 19:19:48 -0000
+Date: Wed, 21 Jun 2000 12:37:55 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <12526.000621@...>
+To: "fcanizo@..." <mendonet-l@egroups.com>
+Subject: Re: lupus: otra vez mail
+In-reply-To: <20000620171249.17000.qmail@...>
+References: <20000620171249.17000.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Lupus el Lobo <aldocop@...>
+
+El 6/20/2000 fcanizo@... me decia:
+
+fuea> Velo de esta manera: vo=
+s bajas tu mail y luego invertis
+fuea> tiempo en componer respuestas. E=
+se tiempo, poco o mucho, es
+fuea> tiempo tirado, porque por aca no llegan=
+ los mails. Estoy
+fuea> mirando ahora y me parece que es mas del 50% los =
+que llegan
+fuea> cortados.
+
+fuea> Fijate en que lugar se cortan, hace c=
+omparaciones con los
+fuea> que no se cortan.
+
+fuea> Otra cosa, muy importan=
+te: a vos te llegan cortados tus
+fuea> propios mails?
+
+fuea> Si necesitas=
+ ayuda puedo automatizar para que cada vez que
+fuea> yo reciba un mail tuyo=
+ te lo forwardee, de manera que veas
+fuea> como me llega a mi.
+
+Ok. fowarde=
+ame los mails que te mande por private plis, lo primero que
+quiero hacer es=
+ ver si es solo con Mendonet.
+
+
+

@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 16 Nov 2001 01:31:57 -0000
+Received: (qmail 53720 invoked from network); 16 Nov 2001 01:31:57 -0000
+Received: from unknown (216.115.97.171)
+  by m10.grp.snv.yahoo.com with QMQP; 16 Nov 2001 01:31:57 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta3.grp.snv.yahoo.com with SMTP; 16 Nov 2001 01:31:58 -0000
+Received: from gateway.micasa.org.ar (200-41-21-160-tntmen1.impsat.net.ar [200.41.21.160])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA07229
+	for <mendonet-l@...>; Thu, 15 Nov 2001 22:37:38 +0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 164DO0-00077j-00
+	for <mendonet-l@...>; Thu, 15 Nov 2001 00:40:20 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 164DO0-00077Y-00
+	for <mendonet-l@...>; Thu, 15 Nov 2001 00:40:20 -0300
+Date: Thu, 15 Nov 2001 00:40:19 -0300
+To: mendonet-l@...
+Subject: Re: putos
+Message-ID: <20011115004019.M26782@...>
+References: <20011113155223.N16116@...> <4462.011114@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <4462.011114@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Wed, Nov 14, 2001 at 11:05:38AM -0300, Lupus wrote:
+
+> GM> Ahh si? Y si trato de bobos todos los demas, inmediatamente
+> GM> soy mas cool?
+> GM> Me acabo de dar cuenta de que *ESO* exactamente es lo que me
+> GM> molestaba de Ivan Ataguile.
+> 
+> Y quién es ese...?
+
+Un amigo de barrio del Zeppo... Que se llevaba a todos por delante.
+
+-- 
+Groucho
+
+
+
+

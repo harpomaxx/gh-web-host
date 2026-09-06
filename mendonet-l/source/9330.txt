@@ -1,0 +1,51 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 29341 invoked from network); 28 Jul 2000 01:45:59 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 28 Jul 2000 01:45:59 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 28 Jul 2000 01:45:59 -0000
+Received: (qmail 5018 invoked by uid 417); 28 Jul 2000 01:53:12 -0000
+Received: from mza2ppp-280.uc.infovia.com.ar (209.13.230.25) by smtpb.softhome.net with SMTP; 28 Jul 2000 01:53:12 -0000
+Date: Thu, 20 Jul 2000 15:49:49 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <14659.000720@...>
+To: harpo <mendonet-l@egroups.com>
+Subject: Re[2]: Para todos los...
+In-reply-To: <Pine.LNX.4.04.10007210425270.10087-100000@...>
+References: <Pine.LNX.4.04.10007210425270.10087-100000@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Lupus el Lobo <aldocop@...>
+
+El 7/21/2000 harpo me decia:
+
+h> On Fri, 14 Jul 2000, Lupus el Lobo wrote=
+:
+
+LeL>>El 7/14/2000 Sebas me decia:
+
+LeL>>A  mi  me  suele  pasar  est=
+o con varios programas, no tienen afinidad
+LeL>>conmigo  y  se  reusan  a  =
+funcionar  correctamente...  te aconsejo lo
+LeL>>siguiente:  escribiles  pa=
+labras  de  amor  en sus lineas de comandos,
+LeL>>preferentemente  en ing=
+les, comprales un estabilizador de tension para
+
+h> Como tu programa de=
+ mail! que anda como el orto cabezoN!!!!
+
+Exacto!
+
+Excelente  ejemplo: mi p=
+rograma de e.mail no me ama... Groucho utiliza
+el  mismo  programa  pero  a=
+  el no le falla, ergo, no tengo una buena
+relacion con mi maquina...=
+
+
+
+

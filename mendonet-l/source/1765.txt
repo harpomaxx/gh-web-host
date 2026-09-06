@@ -1,0 +1,157 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: unknown); 12 Mar 2002 00:14:43 -0000
+Received: (qmail 83574 invoked from network); 12 Mar 2002 00:14:40 -0000
+Received: from unknown (216.115.97.167)
+  by m2.grp.snv.yahoo.com with QMQP; 12 Mar 2002 00:14:40 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta1.grp.snv.yahoo.com with SMTP; 12 Mar 2002 00:14:40 -0000
+Received: from a200042124204.rev.prima.com.ar ([200.42.124.204])
+  by softhome.net with esmtp; Mon, 11 Mar 2002 17:14:36 -0700
+Date: Mon, 11 Mar 2002 21:07:29 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <19880.020311@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: Re[2]: your mail
+In-reply-To: <20020311035842.GC4100@...>
+References: <20020311035842.GC4100@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> lo que pasa es que en un 40% de los casos en que oprimo el botón de
+>> encendido de mi computadora, esta no "inicializa"
+>> (�ser� ese el término?)
+
+GM> El termino es "boot-up". Traducilo como te guste. O mejor, no lo traduzcas.
+¿Puedo castellanizarlo diciendo "butear"?
+
+>>, sólo prende las lucecitas del cpu
+GM> Las CPUs no tienen lucecitas desde mediados de los 70...
+Tengo una ENIAC.(je je je)
+
+>> esto sucede más en verano que en invierno, aunque suene loco.
+GM> Para nada.... Seria loco lo contrario: que anduviera mejor en verano.
+Conclusión: las computadoras son como sus dueños... a mí el calor del
+verano me aplaca.
+
+GM> Yo la llamaria una falla "termica" etendiendo a su origen.
+GM> Atendiendo a su naturaleza puede ser una falla "mecanica" si lo que
+GM> ocurre es que por ejemplo la dilatacion de algunos materiales hace que
+GM> algunas soldaduras mal hechas hagan contacto intermitente.
+GM> Tambien teniendo en cuenta la naturaleza, puede ser una falla "electronica"
+GM> ya que todos los parametros de todos los componentes electronicos varian 
+GM> sus valores en funcion de la temperatura. Por supuesto, un circuito
+GM> bien diseñado opera dentro de rangos de temperatura esperados sin
+GM> inconvenientes. Pero cuando los componentes se envejecen o se usan mal,
+GM> se degradan y la variacion de sus parametros con la temperatura suele
+GM> ser mucho mayor y naturamente muy apartadas de lo que se supuso al
+GM> diseñar el sistema.
+GM> Entonces el circuito puede andar mal porque alguna pieza en verano no
+GM> se esta comportando como se supone que se tiene que comportar.
+De todo esto deduzco que no podré arreglarlo yo.
+
+GM> Esa respuesta de puede dar ebn distintos niveles de detalle:
+GM> 0) A nivel de aplicacion:
+GM> La computadora hace bip cuando la encendes. Si no hace bip, esta
+GM> andando mal. Llevala a arreglar.
+Comprendo.
+
+GM> 1) A nivel de sistema operativo:
+GM> El BIOS esta programado para hacer bip!!!!!
+GM> Por lo tanto, la computadora hace bip cuando el BIOS ejecuta las
+GM> instrucciones para hacer bip lo cual ocurre al principio de la rutina
+GM> de POST del BIOS.
+Todavía entiendo.
+
+GM> 2) A nivel de maquina convencional:
+GM> Esas instrucciones simplemente programan los puertos B y C del PPI
+GM> (a donde esta conectado el parlante del gabinete) para que una oscilacion
+GM> de onda cuadrada cuyo periodo se controla por programa exite al
+GM> parlante.
+Puedo imaginarlo
+
+GM> 3) A nivel de logica de compuertas:
+GM> La oscilacion se genera con un contador programado en modo de
+GM> autorecarga, y la salida de onda cuadrada se toma de la señal de
+GM> cuenta final.
+Se me empieza a complicar.
+
+GM> 4) A nivel de componentes electronicos:
+GM> Los niveles de la onda cuadrada en en un circuito CMOS son (nominalmente)
+GM> 0 y 5 volts, respecto de la tierra logica del circuito.
+GM> El nivel alto de tension desplaza el cono del parlante desde su posicion
+GM> de reposo (segun las caracteristicas electricas como la impedancia
+GM> y mecanicas como la compliancia del parlante)
+GM> Y cuando la tension aplicada retorna a 0, el cono del parlante regresa
+GM> a su posicision de reposo. Estos desplazamientos del cono producen
+GM> variaciones en la presion atmosferica que siguen aproximadamente el
+GM> desplazamiento del cono, y que percibis como un sonido de timbre
+GM> "metalico".
+Comprendí las primeras dos líneas.
+
+GM> 5) A nivel fisico:
+GM> El parlante esta conectado entre la salida de onda cuadrada y tierra. Cuando
+GM> la señal de onda cuadrada esta en alto, la diferencia de potencial aplicada
+GM> a los bornes del bobinado del parlante, hacen circular una corriente por el
+GM> mismo. La corriente en el bobinado genera un campo magnetico estatico, y
+GM> por lo tanto una fuerza magnetica, que actua sobre un cercano iman
+GM> permanente firmemente unido a un cono de papel suspendido de unos
+GM> muelles elasticos ligeros, que le permiten desplazarse acercandose o
+GM> alejandose del bobinado.
+GM> Y luego  viene la explicacion acustica, etc, etc
+Puedo imaginarlo, pero de un tamaño tal que me parece que esto es una
+simplificación para niños.
+
+En definitiva: yo no puedo arreglarlo.
+
+
+>> Ahora, con datos más concretos podés tirarme alguna idea al respecto.
+GM> El dato decisivo es que falla mas en verano. Esta claro que tu
+GM> computadora es vieja y esta mal refrigerada.
+Meterla en la heladera vuelve poco práctico el uso de ambos
+electrodomésticos.
+
+GM> Es probable que el ventilador del microprocesador este girando muy
+GM> por debajo de su regimen nominal, o incluso que este detenido por
+GM> completo.
+No está detenido. Contar cuántas vueltitas da puede resultarme
+difícil... una vez leí que a muchos pentium les ponían coolers que no
+eran de pentium pero que eran más baratos... voy a chequear
+
+GM> El probable que la disposicion fisica de los elementos internos de la
+GM> maquina no haya sido hecha teniendo en cuenta principios elementales
+GM> de propagacion del calor.
+Dado que no es un ser humano, no puedo evaluar su manejo del calor.
+
+>> GM> Yo por ejemplo en mis diseños de microcontroladores
+>> Hace un tiempo un amigo que iba a laUniversidad de mendoza, tenía la
+>> idea de que hicieramos un "trabajo de investigación" de manera
+>> conjunta, porque estaba profundizando sus conocimientos en esa
+>> cuestión que decís, microcontroladores, y él quería hacer una
+>> investigación(obvio que "a la argentina") sobre el uso de
+>> microcontroladores en la corteza cerebral... pero después le surgió un
+>> trabajo en Siemens en Bs As y todo quedó en la nada...
+GM> Que uso en la corteza cerebral?
+GM> Queria medir variaciones electricas de origen biologico en la superficie
+GM> del craneo?
+GM> Queria hacer un electroencefalografo?
+Al parecer el conceto tuyo y el de él de un microcontrolador es
+distinto... por lo que vos decís un mc es algo así como un instrumento
+de medición, según mi amigo era algo más groso.
+
+Otra cosa... estoy en mi etapa periódica de interés en linux, por lo
+que quisiera que me pasaras una dirección de internet que haga
+difusión de dicha cuestión o que sea para principiantísimos.
+-- 
+Sebas   
+Cruzada. (Nombre que los presidentes Bush y Berlusconi dieron a la nueva guerra, hasta que algún historiador les conté que, al cabo de ocho Cruzadas, los cristianos habían sido derrotados por los musulmanes).                       
+
+
+

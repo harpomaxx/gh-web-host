@@ -1,0 +1,83 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 31 May 2002 14:09:49 -0000
+Received: (qmail 52076 invoked from network); 31 May 2002 14:09:48 -0000
+Received: from unknown (66.218.66.218)
+  by m8.grp.scd.yahoo.com with QMQP; 31 May 2002 14:09:48 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta3.grp.scd.yahoo.com with SMTP; 31 May 2002 14:09:48 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp5 (8.9.3/8.9.3) with SMTP id KAA13661
+	for <mendonet-l@...>; Fri, 31 May 2002 10:58:31 +0300 (GMT)
+Message-ID: <00b501c208ad$cab7c200$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20020530213918.GN27277@...> <114.020531@...>
+Subject: Re: Re[2]: Expo GNU/Linux Mendoza 2002
+Date: Fri, 31 May 2002 11:15:33 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> GM> Este evento te va a encantar, ya que toda la discusion tecnica es solo
+> GM> una excusa para hablar en realidad de filosofia y politica.
+>
+> A propósito, tengo una especie de duda, desde mi ignorancia en el
+> tema.
+> 1- ¿Es objetivo de los linuxeros transformar lo que los nuclea en un
+> asunto de masas?
+
+No de los linuxeros, sin de los LUGs (Linux Users Group).
+Hay un manual de reclutamiento y todo...
+
+
+> 2-Según tengo entendido por lo que leí en algunos sites, dos
+> importantes ventajas de linux son, que no requiere de equipos muy
+> modernos, y la gratuidad. Dado la situación que está viviendo
+> argentina ¿no sería este un muy buen escenario para lanzarse a la
+> conquista de los ignotos, ahora también pobres?
+
+Es un error.
+Linux no esta a la venta. El dueño de Linux se llama Linus Torvalds y nunca
+ha vendido Linux a nadie.
+Lo que si es casi gratuita es la licencia de uso de Linux, que es la
+Licencia Publica General (GPL). Digo casi gratuito, porque la licencia de
+uso te impone ciertas obligaciones que tenes que cumplir (como la
+prohibicion de distribuir copias modificadas de Linux en terminos mas
+restrictivos que los terminos en los que vos recibiste tu copia no
+modificada). Gratuito significa "a cambio de nada", no "a cambio de 0
+dinero", ok?
+
+En cambio, los costos de distribucion material de Linux si los tenes que
+pagar. Si a mi se me ocurre venderte un CD con Linux a 100 pesos, estoy en
+mi derecho. El mercado por supuesto ha hecho que se puedan conseguir copias
+de Linux por algo asi como 5 pesos el CD o menos.
+
+
+Si es verdad que puede operar en hardware mas modesto.
+
+De todas formas, los argumentos economicos como esos son persuasivos, pero
+insuficientes.
+La ventaja decisiva del software libre es la libertad.
+Indudablemente algun dia Microsoft haga una version de Windows que ande
+bien. Es evidente que ha mejorado bastante en los ultimos 10 años.
+Y cuando Windows ande bien y en hardware modesto, Linux no tendra razon de
+ser?
+Absolutamente no!!!!
+Anda a la conferencia Filosofia GNU/Linux y a la conferencia DotGNU versus
+.NET y enterate por que.
+
+
+--
+Herr Grouchox
+
+
+

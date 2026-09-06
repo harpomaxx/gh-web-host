@@ -1,0 +1,45 @@
+From ladymarian@...  Sat Jul 11 23:23:58 2020
+Return-Path: <ladymarian@...>
+X-Sender: ladymarian@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 16 Nov 2001 15:45:52 -0000
+Received: (qmail 81671 invoked from network); 16 Nov 2001 15:45:51 -0000
+Received: from unknown (216.115.97.171)
+  by m6.grp.snv.yahoo.com with QMQP; 16 Nov 2001 15:45:51 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta3.grp.snv.yahoo.com with SMTP; 16 Nov 2001 15:45:51 -0000
+Received: from hfgg (200-41-31-58-rdunysd1.impsat.net.ar [200.41.31.58])
+	by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id MAA00418
+	for <mendonet-l@...>; Fri, 16 Nov 2001 12:51:32 +0300 (GMT)
+Message-ID: <000201c16e94$2943aa00$9a4afea9@hfgg>
+To: <mendonet-l@...>
+References: <20011107165650.J8502@...> <519.011112@...> <20011113154049.K16116@...>
+Subject: RE: Lupus y morganti de novios
+Date: Fri, 16 Nov 2001 05:39:10 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: "Lady Marian" <ladymarian@...>
+
+> > > El Arte de La Guerra --Teodore T'so. Capitulo 4.
+
+> > Y ese chabón quién era ???!.
+
+> Ciertamente existe un libro titulado  "El arte de la Guerra",
+escrito por un
+> militar chino del medioevo, y ciertamente ese libro contiene un
+precepto
+> acerca de lo conveniente de dividir al enemigo para vencerlo.
+El autor de
+> ese libro ciertamente se apellida T'so, pero Toedore T'so es un
+mainteiner
+> de Linux y de Debian.
+
+Ah!... ¿Era un chiste?
+
+

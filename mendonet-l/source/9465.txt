@@ -1,0 +1,158 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 16423 invoked from network); 19 Jul 2000 23:19:55 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 19 Jul 2000 23:19:55 -0000
+Received: from unknown (HELO lanet.com.ar) (200.42.8.134) by mta1 with SMTP; 19 Jul 2000 23:19:52 -0000
+Received: from ANTRO ([200.42.124.93]) by lanet.com.ar (8.8.7/8.8.7) with ESMTP id UAA13062 for <mendonet-l@egroups.com>; Wed, 19 Jul 2000 20:28:47 -0300
+Date: Wed, 19 Jul 2000 00:13:05 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <99.000719@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: Re: Dios y la muerte.
+In-reply-To: <19526.000716@...>
+References: <19526.000716@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 16/07/2000, Lupus furiosamente puteó:
+
+>>> creíamos en esas cosas. Otra pregunta: ¿Vos creés en Dios?
+M>> Está es una pregunta difícil.
+M>> Supongo que sí. No sé bien... En lo que si te aseguro que creo es en el
+M>> Destino, "Lo que tiene que ser, ES".
+
+LeL> Muy determinista lo tuyo...
+
+M>>  Y por ende creo que hay "algo" o
+M>> "alguien" que lo dictamina y lo dirige; no sé que nombre darle si Dios,
+M>> Jeovha, Alá o la mano que mece la cuna (la nuestra).
+
+LeL> El nombre no me calienta en lo más mínimo.
+
+LeL> Además,  aún  aceptando  que el universo está totalmente predestinado,
+LeL> eso no implica que deba existir un plan consciente que lo predetermine.
+ 
+M>> ¿Y vos?
+
+LeL> Yo   diría  que  soy  agnóstico...  esto  es  una
+LeL> consecuencia  de mi formación y educación, ni más ni menos. A pesar de
+LeL> que  fui  educado  en  la  fe  cristiana  siempre  he  sido  demasiado
+LeL> curioso...
+
+LeL> Yo creo, que  no hay ningún plan consciente sobre el
+LeL> destino  del  universo, hay ciertas cosas que están predestinadas, eso
+LeL> es inegable, basta pegar un vistazo al universo allá afuera para darse
+LeL> cuenta,   pero   eso   no  responde a un plan consciente sino más bien
+LeL> simplemente  a  la  estructura  del  universo.  Sobre  si  TODO  está
+LeL> predeterminado,   ya   habría  que  meterse  con  el  principios  de
+LeL> incertidumbre (Groucho: ¿era Heisemberg??)
+
+Sip.
+
+
+LeL> , ni se me ocurre plantearlo
+LeL> acá,  solo  me  remito a la crítica de Einstein: God doesn't play dice
+LeL> (Dios  no  juega  a  los  dados).
+
+Pero Eistein se murio tratando de demostrar eso, y no lo logro.
+De hecho, las 2 principales teorias basicas sobre la estructura fisica
+del universo que conocemos (teoria genenralizada de la relatividad y
+mecanica cuantica) son ambas aproximadas e incorrectas por cuanto se
+contradicen formalmente una a otra.
+Por suerte, los sistemas a las que son aplicables son bien distintos,
+y cada una falla en el campo de la otra, por lo tanto son
+como todas las teorias que tenemos: aproximadas y restringidas.
+
+
+LeL> De  todos  modos  algo  es seguro, si el universo está predestinado en
+LeL> cada  detalle,  lo  que  implicaría  que  las  acciones de los hombres
+LeL> también están predeterminadas (determinismo clásico), o no, no tiene en
+LeL> verdad  importancia  práctica, es meramente un tema filosófico, por lo
+LeL> siguiente:
+LeL> 1)las   leyes   que   rigen   los actos humanos implican interrelaciones
+LeL> demasiado  complejas.
+LeL> 2)  la  información  necesaria  para  predecir  los sucesos no solo es
+LeL> inmensa sino que es inaccesible con el grado de presición necesaria, y
+LeL> no  me  refiero  a que sea muy difícil de acceder a ella, es imposible
+LeL> físicamente  acceder  a  ella.
+
+Cuando decis fisicamente imposible haces referencia al pricipio de
+incertidumbre, o solo a que para conocer el estado de un ser humano
+para poder predecir su respuesta futura haya que desamarlo en
+pedacitos y se muera en el proceso?
+
+
+LeL>  El principio de incertidumbre establede
+LeL> que  no se puede conseguir, por ningún medio, la información exacta de
+LeL> una  partícula,  que  es  casi  lo  mismo que decir que "no existe" la
+LeL> información  exacta de una partícula, con el concepto del árbol que se
+LeL> cae en un bosque donde nadie lo escucha.
+
+Bueno. Es la explicacion mas rara que he escuchado del principio de
+incertidumbre!!!!
+La idea es que es imposible conocer el estado de una particula sin
+perturbarla tanto en el proceso que el estado que terminas midiendo no
+es mas el estado de la particula.
+(el estado es simplemente la cantidad de movimiento y la posicion).
+Y no se trata de que seamos muy torpes y toscos para medir ese estado.
+Einstein ideo varios experimentos mentales donde no habia un pelotudo
+midiendo y cagando el estado de la particula, sino que se planteaba la
+interaccion de una particula con otra.
+Y los resultados a los que llego es que ni siquiera una particula
+puede "saber" el estado con total exactitud de otra particula.
+Y cuando una particula "sabe" el estado de todas las otras particulas
+con exactitud, su respuesta esta determinada con toda exactitud.
+
+Pues bien: le tengo malas noticias a la determinista de Mariana:
+no es eso lo que sucede.
+
+El limite de incertidumbre es muy pequeño, y esta dado por 1/2 h donde
+h es la constante de Plank (del orden de 1e-34).
+
+Una aplicacion del principio de incertidumbre: el pene de Sebas es tan
+pequeño que no es posible conocer su velocidad y posicion
+simultaneamente con suficiente precision.
+Cuando el coge (posicion y velocidad!!!) se forma una funcion de onda
+en la muñeca inflable que usa cuya raiz cuadrada es la probabilidad de
+encontrar el pene de Sebas en esa posicion.
+
+Identica obsevacion se puede hacer del cerebro de Fede Morganti.
+
+
+LeL> Por  esto si el destino existe o no carece en realidad de importancia,
+LeL> para  los  hombres es lo mismo y deben actuar, en ambos casos, como si
+LeL> el destino no existiera.
+
+Entonces, el principio de Mach nos lleva a concluir que no solo es
+como si el destino no existiera: no existe de hecho.
+
+LeL> pensando  así,  creyera  en  Dios. Por otro lado, y luego de una serie
+LeL> larguísima  de  reflexiones,  no  considero a la muerte como algo tan
+LeL> terrible.
+
+Mmm... Aun no llego a ese estadio.
+
+
+LeL> Hablemos de la muerte: ¿Qué pensás de ella? ¿La vez con miedo? ¿Tratás
+LeL> de evitar el tema? ¿Pensás o has pensado a menudo en ella?
+LeL> Digo, se me ocurre que nunca hemos hablado de la muerte en Mendonet, y
+LeL> con la recurrencia temática que nos ataca últimamente...
+
+Yo no pienso en mi propia muerte. De hecho, mi propia muerte la
+percibo como algo totalmente inmaterial y lejano.
+Tengo algunos ejemplos simpatico/pateticos de actitudes mias que
+demuestran lo que digo, si a alguien le interesa.
+
+Por otro lado, pienso a veces en la muerte de mis mascotas, abuelo y
+padres, en ese orden de frecuencia.
+
+-- 
+Groucho Marx
+Más triste que la llovizna
+
+
+

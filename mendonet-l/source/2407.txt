@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_2); 13 Dec 2001 12:27:03 -0000
+Received: (qmail 46730 invoked from network); 13 Dec 2001 12:27:03 -0000
+Received: from unknown (216.115.97.167)
+  by m2.grp.snv.yahoo.com with QMQP; 13 Dec 2001 12:27:03 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta1.grp.snv.yahoo.com with SMTP; 13 Dec 2001 12:27:02 -0000
+Received: from lagruta (rdumen1-200.41.21.70 [200.41.21.70] (may be forged))
+	by relay3.impsat1.com (8.9.3/8.9.3) with SMTP id JAA20042
+	for <mendonet-l@...>; Thu, 13 Dec 2001 09:18:28 +0300 (GMT)
+Message-ID: <000501c183d1$629dd940$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20011210162513.J3348@...> <8504.011211@...>
+Subject: Re: Informe sobre la argentina.
+Date: Wed, 12 Dec 2001 13:26:01 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> Adjunto  la última opinión gráfica de economistas y filósofos sobre el
+> futuro de la Argentina.
+
+El envio de archivos adjuntos binarios ejecutables es considerado
+antisocial, porque:
+1) No necesariamente los demas tienen el mismo tipo de maquina que vos, y a
+menos que sea un programa en bytecodes de Java, un programa binario solo
+anda en la maquina para la cual se realizo.
+2) Solo en un binario ejecutable puede transportarse un virus (aun cuando
+algunos programas de correo criminalmente mal hechos ofrezcan matices a la
+anterior afirmacion).
+
+Por lo tanto, exijo y recomiendo que no envies mas archivos binarios
+ejecutables no solicitados.
+
+--
+Groucho
+
+

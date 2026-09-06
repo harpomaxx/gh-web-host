@@ -1,0 +1,43 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 16 Sep 2001 16:09:42 -0000
+Received: (qmail 21479 invoked from network); 16 Sep 2001 16:09:41 -0000
+Received: from unknown (10.1.10.27)
+  by l8.egroups.com with QMQP; 16 Sep 2001 16:09:41 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.115)
+  by mta2 with SMTP; 16 Sep 2001 16:09:39 -0000
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id NAA11118
+	for mendonet-l@...; Sun, 16 Sep 2001 13:00:48 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Sun, 16 Sep 2001 13:00:48 -0300
+To: mendonet-l@...
+Subject: Re: Discusiones con altura
+Message-ID: <20010916130048.A10063@...>
+Reply-To: harpo@...
+References: <20010913170440.C11592@...> <1851.010914@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <1851.010914@...>; from rodralez@... on Fri, Sep 14, 2001 at 08:25:26PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.19 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+El Fri, Sep 14, 2001 at 08:25:26PM -0300, rodralez dijo:
+> Otro mito de mendonet... las discuciones con "altura". De donde
+> sacaste eso ?!. Lo más inteligente que he leido en una discusión entre
+> dos o más mendotianos es "tu hermana es mi novia !".
+> 
+> Si somo' todo' unos bruto' de mierda !... m� que
+> disssscusiones elevadas.
+
+OK, Foco.. como ud mande! jua jua.
+
+-- 
+Harpo+
+

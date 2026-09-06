@@ -1,0 +1,200 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 30 Jan 2002 15:59:51 -0000
+Received: (qmail 92460 invoked from network); 30 Jan 2002 15:59:51 -0000
+Received: from unknown (216.115.97.171)
+  by m2.grp.snv.yahoo.com with QMQP; 30 Jan 2002 15:59:51 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta3.grp.snv.yahoo.com with SMTP; 30 Jan 2002 15:59:50 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with SMTP id MAA21146
+	for <mendonet-l@...>; Wed, 30 Jan 2002 12:59:26 +0300 (GMT)
+Message-ID: <00ab01c1a9a7$2629f100$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20020125062806.GH7515@...> <10501.020129@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B2=5D:_Delirios_ininfundados..._=BF...=3F_lo_que_h?=
+	=?iso-8859-1?Q?ace_el_tiempo_de_ocio...?=
+Date: Wed, 30 Jan 2002 12:59:42 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> GM> No seria mejor si queres que haya fruta gratis, destinar todo el costo
+> GM> que representan las desventajas que mencione, y hacer algo asi como
+una
+> GM> finca estatal? Y que trabajen los presos en ella?
+>
+> Esa  también  es  una buena idea... aunque eso aumentaría el número de
+> presos  fugados...  ya  que  es  mas  difícil  cuidar a los presos que
+> trabajan con relativa libertad en un gran campo...
+
+Estarian supervisados estrechamente por guardias...
+
+
+> GM> O que cada uno pplante los arboles que se le cante el orto en el patio
+> GM> de su casa si es que se le da la gana?
+>
+> Eso existe... cual es la diferencia...??
+
+Ninguna.. Ese es el punto. Yo me pregunte a mi mismo si no seria
+mejor dejar todo como esta!!!
+
+
+
+> >> Ahora  que lo pienso... habría que hacer algo para mermar la población
+> >> palom�fera...  qué  tal traer unos buenos alcones... no estaría mal...
+> >> no?
+>
+> GM> Columbus vulgaris. Tambien conocida como "rata voladora"... Que
+> GM> tenes en contra de ella?
+>
+> Me  caga  un  poco...  pero  en realidad hemos convivido bastante bien
+> durante toda mi existencia...
+>
+> >> L>>  o por qué no nogales o tilos y cosas así en lugar
+> >> L>> de  simples paraisos, carolinos o álamos en las calles...
+> >> S> Si yo soy el medico de la colonia no voy a permitir carolinos ni
+alamo
+> >> S> blanco, porque son importantes generadores de alergia.
+>
+> GM> Que se jodan los alergicos!!! Dan buena sombra, crecen con muy poca
+agua
+> GM> y resisten el viento.
+>
+> A  un  conocido  se  le cayó un álamo en el techo de la casa... andá a
+> contarle lo del viento...
+
+Imaginate si en lugar de un alamo hubiera sido uno de los arboles
+peleles que vos decis!!!
+
+
+> >> L>> La existencia de abejas puede ser deseable para la polinización de
+> >> L>> los frutos  y  para  obtener miel...
+> >> S> Las abejas te estropean muchos frutos, aunque no estoy seguro si
+> >> S> todos...
+> GM> Pues evitas que las abejas lleguen a donde no deben, encerrandolas o
+> GM> matando a las que se escapan hasta que la evolucion genetica las haga
+> GM>  evolucionar a abejas que se quedan donde las pones.
+>
+> Y se mueren de hambre... pero donde las pones... je je...
+
+Bueno... bueno... la misma seleccion natural eliminaria a las abejas
+demasiado estaticas.
+
+
+
+> >> Pero hay que tener la guita por anticipado... de todos modos, creo que
+> >> se  podría  improvisar algo a mano... el problema puede ser el tema de
+> >> la  regulacion de frecuencia... no se mucho generación eléctrica, pero
+> >> cuando  lo  estudié,  me  dió  la  impresión  de  que  no era algo tan
+> >> complicado...
+>
+> GM> Los generadores solares generan corriente continua, frecuencia 0...
+>
+> ¿Qué otras frecuencias existen para la corriente continua...?? �...?
+
+Estaba ACLARANDO, no ESPECIFICANDO.
+
+
+> GM> Y los molinos los conectaras a alguna maquina giratoria supongo...
+> GM> Puede ser de corriente continua (que es pulsante a diferencia de la de
+> GM> los generadores solares) o de corriente alterna (cuya frecuencia es
+> GM> proporcional a la velocidad angular en las maquinas sincronicas).
+> GM> Como no podes controlar la velocidad del viento,
+> GM> no podes saber a que velocidad va a girar el molino, y si bien podrias
+> GM> mecanicamente regular la velocidad, seria a expensas de rendimiento.
+>
+> Es lo que se hace... es la única forma, supongo...
+>
+> GM> Un metodo muy simple de regular la frecuencia es simplemente tener
+> GM> muchas maquinas generndo a la vez. Como el motor sincronico de CA y
+> GM> el generador sincronico de CA son exactamente la misma maquina pero
+conectada
+> GM> distinto, si una maquina gira mas rapido que la mayoria, las otras se
+> GM> transforman en motores para el generador acelerado, y la energia que
+> GM> gasta ese generador en apurar a los otros (convertidos en motores) lo
+> GM> frena. Inversamente pasa si una maquina gira mas lento. El resultado
+> GM> siempre es que las maquinas giran a la misma velocidad y si son
+> GM> muchas, la velocidad de todas sera intermedia a la que tendria cada
+una
+> GM> por si misma, y seria muy estable.
+>
+> Claro...  pero  la frecuencia total generada sería variable en función
+> de  la  velocidad  del  viento...  y eso justamente es lo que se desea
+> evitar...  para encender un foco estaría bien... pero yo no conectaría
+> mi televisor ahí...
+
+Es un metodo complementario mas, que usa 0 partes mecanicas y es muy
+confiable y de muy bajas perdidas.
+Obvio que no alcanza, pero da una regulacion muy fina y sensible una
+vez que mecanicamente estabilizas la velocidad a un valor cercano al
+deseado.
+
+Y al televisor le chupara un huevo la frecuencia. Si trabaja todo con
+corriente continua. En un televisor viejo te creo que el barrido de la
+imagen se derivara de la frecuencia de linea, pero no en uno moderno.
+
+
+> GM> Igualmente solo a las maquinas electricas y a los transformadores
+> GM> les interesa la frecuencia (y a los televisores viejos)
+>
+> ¿a los nuevos no?... esa no la tenía...
+
+Y no... La polarizacion del tubo es de unos pocos kilovolts de corriente
+continua, la alimentacion de los circuitos electronicos es en corriente
+continua, no hay motores y todas las señales periodicas necesarias se
+derivan de osciladores controlados a cristal, sincronizados con la
+señal recibida si hiciera falta, o de osciladores RC.
+
+
+> Y a las computadoras... supongo que deben mantener tensiones dentro de
+> un rango bien determinado... si las frecuencias varían, varían también
+> las  tensiones  a la salida... digo... supongo que los transformadores
+> probocarán  eso...
+
+Si hay transformadores es correcto lo que decis... Pero decime donde mierda
+encontras en la fuente de una PC un transformador diseñado para operar a
+la frecuencia de linea? (hint: tienen que ser enormes y pesados debido a
+que la baja frecuencia produce flujos muy bajas y hay que usar
+mucho hierro para mantener decente la induccion)
+
+Los transformadores que encontras dentro de una fuente de alimentacion de
+PC son transformadores de pulso, es decir, operan a varios kilohertz y
+funcionan mas bien como filtros y como acopladores que como transformadores.
+Si queres te explico como funciona una fuente conmutada.
+
+> >> En  realidad  la reglas reglas que existen son más complejas de lo que
+> >> deberían  ser...  pero al menos son unívocas... no son óptimas... pero
+> >> al menos son útiles...
+>
+> GM> Son extraordinariamente simples:
+> GM> agudas llevan acento si terminan en n, s o vocal
+> GM> graves llevan acento si no terminan en n, s o vocal
+> GM> el resto lleva acento siempre
+>
+> acentuar todo es más simple...
+
+Y el gasto de tinta?
+
+
+> de todos modos, a mí tampoco me molestan esas reglas...
+> GM> Que juego de reglas mas simple es la vez univoco, y minimiza el numero
+> GM> de acentos ortograficos a escribir?
+>
+> Minimizar el número de acentos no tiene por qué ser indispensable.
+
+Lo siento. Lo impongo como condicion de diseño.
+
+--
+Groucho
+
+

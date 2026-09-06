@@ -1,0 +1,32 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_2_0); 14 Jul 2001 18:45:35 -0000
+Received: (qmail 15696 invoked from network); 14 Jul 2001 18:45:34 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 14 Jul 2001 18:45:34 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.100) by mta2 with SMTP; 14 Jul 2001 18:45:33 -0000
+Received: (qmail 7456 invoked by uid 1005); 13 Jul 2001 18:15:53 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.278035 secs); 13/07/2001 15:15:52
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3) by torton.micasa with SMTP; 13 Jul 2001 18:15:50 -0000
+Date: Fri, 13 Jul 2001 15:15:52 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain; charset="iso-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <004501c10b35$0759ea70$f72837c8@g8>
+In-Reply-To: <004501c10b35$0759ea70$f72837c8@g8>
+Subject: Re: HDP
+MIME-Version: 1.0
+Message-Id: <01071315155201.00347@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Jue 12 Jul 2001 21:13, escribiste:
+
+> > señores, desculen esto
+
+Un torso humano abandonado en el Valle de la Luna?
+
+-- 
+Groucho Marx
+

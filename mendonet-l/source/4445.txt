@@ -1,0 +1,65 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 1 Oct 2001 15:39:05 -0000
+Received: (qmail 88319 invoked from network); 1 Oct 2001 15:39:05 -0000
+Received: from unknown (10.1.10.142)
+  by l10.egroups.com with QMQP; 1 Oct 2001 15:39:05 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.205)
+  by mta3 with SMTP; 1 Oct 2001 15:39:05 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 1 Oct 2001 08:39:05 -0700
+X-Originating-IP: [200.45.192.33]
+To: <mendonet-l@...>
+References: <1731343093.20010919201627@...> <18929.010921@...>
+Subject: RE: Re[2]: De boludos y boludos
+Date: Sat, 29 Sep 2001 16:02:22 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE70GtgBQZfv4eqfxrC00006307@...>
+X-OriginalArrivalTime: 01 Oct 2001 15:39:05.0223 (UTC) FILETIME=[33C23970:01C14A8F]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Mensaje original -----
+De: "Sebas" <xebax@...>
+Para: "Oxiuro" <mendonet-l@...>
+Enviado: Viernes, 21 de Septiembre de 2001 10:18 p.m.
+Asunto: Re[2]: De boludos y boludos
+
+
+> O>>>>> Yo me referia a la integracion en el tiempo de una ecuacion
+> O>>>>> diferencial de 2º orden mediante el metodo de newmark 1/4.
+> S>>>> Pero qué pelotudo formidable...
+> O>>> Lo decis por vos sr. meson que son sabe que es una ecuacion????
+> S>> Che oxi, un "son" quedó vagando por el insondable vacío de tu
+> S>> seudocerebro y se manifestó a través del teclado...
+> O> Sabes lo que es un meson??? no me refiero a una mesa grande si es
+> O> todo lo que cerebro puede llegar a saber al respecto.
+> O> Para guiarte, tu inteligencia solo es comparable con el tamaño de un
+> O> meson.
+> Ay oxi.... sos tan mínimo.
+> Sé lo que es un mesón, sos tan estúpido que ni siquiera podés
+> mencionar cosas que yo no conozca para agredirme. Un mesón es una
+> partícula subatómica virtual, fruto de la vibración de no me acuerdo
+> si el neutrón o el protón, algo así como una impronta que queda en el
+> espacio donde previamente estuvo el protón(casi seguro de que era el
+> protón, por lógica debería serlo) y es lo que le daría cohesión al
+> núcleo... lo aprendí porque cuando estudiaba para el pre de la
+> facultad y me dijeron que el núcleo estaba unido pero que a la vez
+> estaba constituído sólo por cargas positivas no me cerró(si las cargas
+> del mismo signo se rechazan... primitivo, pero bastante para un perito
+> mercantil futuro médico) mi profesor no pudo contestarme y leí un
+> libro que recomiendo...
+
+
+con razon no entre a la facultad ese año, eso yo no lo estudie, me hubieras
+dicho que tomaban tan fino, puto
+

@@ -1,0 +1,44 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 74490 invoked from network); 2 Sep 2003 01:13:42 -0000
+Received: from unknown (66.218.66.217)
+  by m2.grp.scd.yahoo.com with QMQP; 2 Sep 2003 01:13:42 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 2 Sep 2003 01:13:42 -0000
+Received: (qmail 28249 invoked by uid 417); 2 Sep 2003 01:13:39 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 2 Sep 2003 01:13:39 -0000
+Received: from dup-200-42-125-64.prima.net.ar ([200.42.125.64])
+  (AUTH: PLAIN xebax@...)
+  by softhome.net with esmtp; Mon, 01 Sep 2003 19:13:35 -0600
+Date: Mon, 1 Sep 2003 21:41:51 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <15904.030901@...>
+To: rodralez <mendonet-l@...>
+Subject: Re[2]: Una pelicula acerca de nada
+In-reply-To: <986535260.20030831170122@...>
+References: <986535260.20030831170122@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+
+HG>> Un cuadro costumbrista sin argumento.
+
+r> Ante todo, debo decir que la película me gustó.
+
+A mí más o menos... me gustaría saber si a groucho le gustó o no...
+
+
+-- 
+Sebas   
+Los piqueteros no quieren destruir el sistema, quieren entrar en él. Carlos Auyero.                       
+
+
+

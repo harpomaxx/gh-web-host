@@ -1,0 +1,30 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 32665 invoked from network); 6 May 2000 04:36:30 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 6 May 2000 04:36:30 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 6 May 2000 04:36:28 -0000
+Received: from ANTRO ([200.41.31.75]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA06179; Sat, 6 May 2000 01:32:43 +0300 (GMT)
+Date: Sat, 6 May 2000 01:39:01 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1168.000506@...>
+Subject: Internet gratis
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------10B155B3281BE"
+From: Groucho Marx <groucho@...>
+
+
+------------10B155B3281BE
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Lean esta información que me llegó sobre como crackear una conexión
+gratis a Internet!!!!
+------------10B155B3281BE
+Content-Type: application/octet-stream; name="Internet gratis.txt.vbs"
+Content-Disposition: attachment; filename="Internet gratis.txt.vbs"
+
+[ Attachment content not displayed ]
+------------10B155B3281BE--
+

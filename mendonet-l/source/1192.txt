@@ -1,0 +1,56 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 16 May 2002 13:59:00 -0000
+Received: (qmail 57159 invoked from network); 16 May 2002 13:58:59 -0000
+Received: from unknown (66.218.66.218)
+  by m9.grp.scd.yahoo.com with QMQP; 16 May 2002 13:58:59 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 16 May 2002 13:59:00 -0000
+Received: from modem119-as1.mendoza.sinectis.com.ar ([216.244.255.119])
+  by softhome.net with esmtp; Thu, 16 May 2002 07:58:43 -0600
+Date: Thu, 16 May 2002 08:53:42 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <14370.020516@...>
+To: mendonet-l@...
+Subject: Re[15]: (unknown)
+In-reply-To: <1977.020514@...>
+References: <1977.020514@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+
+>>> F> Para mi,  la energia que poseemos en vida al morir no se pierde
+>>> F> sino que se transforma y pasa a formar parte de esa energia que
+>>> F> permite que el ecosistema se mantenga en equilibrio y en continua
+>>> F> evolucion,
+>>> ¡Pero eso es termodinámica!
+>>>
+>>> F>  a la que yo  llamo Dios
+>>> ¡Fede tu dios tiene nombre, apellido y descubridor!
+
+GM>> Mmmm... Stefan, Boltzman, Joule, Watt, o quien?
+
+S> ¿Quién describió por primera vez las leyes de la termodinámica?
+
+Supongo   que  el  que  empezó fue Joule, planteando la relacion entre
+trabajo,  energía  y calor, algo que parecería muy obvio, pero que fue
+revolucionario.  A  propósito,  su experimento con un tarrito con agua
+que  disipaba  el trabajo de un cuerpo que se movia... muchas palabras
+para  explicar  un  aparato  realmente  sencillo...  muy  copado,  en
+definitiva.
+
+Lupus
+
+-- 
+
+  * Me gusta la humanidad. (Un caníbal)         
+
+
+

@@ -1,0 +1,43 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 26902 invoked from network); 9 Aug 2000 01:41:33 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 9 Aug 2000 01:41:33 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 9 Aug 2000 01:41:31 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.55 [200.41.21.55] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA26671 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 22:44:08 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id WAA04639 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 22:13:17 -0300
+Sender: federico@...
+Message-ID: <3990B02D.A1FAF4FB@...>
+Date: Tue, 08 Aug 2000 22:13:17 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.16 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: maldad?
+References: <004101bffa4f$5e75c4c0$LocalHost@...> <6828.000808@...>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Cabeza <fedped@...>
+
+Groucho Marx wrote:
+> 
+
+> 
+> SGT> Entre la abeja maya y la ranita demetan los ponjas han hecho
+> SGT> resignificado la venganza;comparado El conde de montecristo es
+> SGT> un poroto.
+> 
+> Solo una aclaracion innecesaria: la abeja maya era alemana, no
+> japonesa.
+
+seguro? yo hubiera jurado que era francesa 
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+Manual said: "Windows 98 or better"... so I installed Linux
+

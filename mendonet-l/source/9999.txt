@@ -1,0 +1,35 @@
+From sebas11@...  Sat Jul 11 23:23:58 2020
+Return-Path: <sebas11@...>
+Received: (qmail 2977 invoked from network); 24 Jun 2000 18:57:46 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 24 Jun 2000 18:57:46 -0000
+Received: from unknown (HELO postino4.prima.com.ar) (200.42.0.162) by mta1 with SMTP; 24 Jun 2000 18:57:45 -0000
+Received: from tepes ([200.42.124.50]) by postino4.prima.com.ar (8.9.3/8.9.1) with SMTP id PAA74576 for <mendonet-l@egroups.com>; Sat, 24 Jun 2000 15:57:39 -0300 (ART)
+Message-ID: <001001bfde0d$b8e1a540$327c2ac8@tepes>
+To: <mendonet-l@egroups.com>
+References: <001401bfd805$c1d8a4e0$2a7c2ac8@tepes> <10370.000621@...>
+Subject: RE: Negropontistas
+Date: Sat, 24 Jun 2000 15:53:45 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: "Sebas" <sebas11@...>
+
+>> S> Che, estoy leyendo un libro en el cual le dan con un caio a Nicholas
+Negroponte. Me >>imagino que en este ámbito debe haber mis de un lector del
+"ser digital". Podrían hacerme >>un pequeño resumen sobre qui trata?
+Especialmente la "lógica circular".
+> Basicamente, el tipo plantea que toda nuestra sociedad se basa en el
+> transporte de atomos, pero que eso va a cabiar radicalemente para
+> pasar a ser una sociedad basada en el transporte de bits.
+iY la lógica circular? Muy agradecido por lo explicado, pero algo un poco
+mis amplio me vendría bomba.
+
+ Sebas - Aunque ellos mismos lo ignoren, ningún creador escribe para los
+otros, ni para si mismo, ni mucho menos, para satisfacer un anhelo de
+creación, sino porque no puede dejar de escribir.
+
+

@@ -1,0 +1,43 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 10 Mar 2003 13:31:03 -0000
+Received: (qmail 46293 invoked from network); 10 Mar 2003 13:31:03 -0000
+Received: from unknown (66.218.66.216)
+  by m3.grp.scd.yahoo.com with QMQP; 10 Mar 2003 13:31:03 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta1.grp.scd.yahoo.com with SMTP; 10 Mar 2003 13:31:01 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18sNbO-0006Gk-00
+	for <mendonet-l@...>; Mon, 10 Mar 2003 10:46:02 -0300
+Message-ID: <3E6C9378.7010907@...>
+Date: Mon, 10 Mar 2003 10:30:32 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: Algo
+References: <3E674CC1.1020102@...> <9747.030307@...>
+In-Reply-To: <9747.030307@...>
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+>>>varias palabras juntas, todas las que recibe de un golpe de vista. Si
+>>>dentro de un golpe de vista caen tres palabras, por ejemplo
+>>>"estoy escribiendo boludeces",
+> 
+> HG> Es la misma explicacion que di yo hace 3 meses en otra lista de correo.
+> Mmmhh... y?
+
+Que tu explicacion queda entonces confirmada y validada.
+
+-- 
+Groucho
+
+

@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 1 Sep 2001 18:06:58 -0000
+Received: (qmail 42635 invoked from network); 1 Sep 2001 18:06:57 -0000
+Received: from unknown (10.1.10.26)
+  by m8.onelist.org with QMQP; 1 Sep 2001 18:06:57 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.82)
+  by mta1 with SMTP; 1 Sep 2001 18:06:56 -0000
+Received: (qmail 4686 invoked by uid 1005); 1 Sep 2001 17:54:31 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.309149 secs); 01/09/2001 14:54:30
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 1 Sep 2001 17:54:29 -0000
+Date: Sat, 1 Sep 2001 14:55:20 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <1674355926.20010824083946@...> <200108310121.f7V1L5w02484@...> <007001c13254$1e3f6f80$6301a8c0@g8>
+In-Reply-To: <007001c13254$1e3f6f80$6301a8c0@g8>
+Subject: Re: My funny OS !.
+MIME-Version: 1.0
+Message-Id: <01090114552001.00404@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 31 Ago 2001 16:35, escribiste:
+
+> > Qué lastima que bajo linux no funcionen...
+>
+> y quien te dijo que no? conoces wine?
+>
+> Red Wine??
+> White wine??
+> Tetrabrick??
+>
+> Goofer gusta wine!
+
+
+En realidad, como es tipico en este ambiente, los nombres de los 
+programas suelen ser bromas.
+
+Wine significa vino, como Goofer apunto.
+Pero Wine es un emulador de Windows para Linux. Muchos creerian que  
+WINE es una abreviatura de WIN(dows)E(mulator), pero el verdadero 
+significado de WINE es W(INE) I(s) N(ot an) E(mulator) es decir una 
+definicion recursiva.
+
+Otro ejemploo es el (F)ree (U)niversity (C)ompiler (K)it, o VUCK 
+(tengan en cuenta que la palabra "free" en holandes se escribe con V, 
+no con F).
+
+
+-- 
+Groucho Marx
+

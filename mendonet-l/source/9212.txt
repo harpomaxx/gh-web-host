@@ -1,0 +1,176 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 26079 invoked from network); 31 Jul 2000 18:59:43 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 31 Jul 2000 18:59:43 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 31 Jul 2000 18:59:42 -0000
+Received: (qmail 4500 invoked by uid 417); 31 Jul 2000 19:07:14 -0000
+Received: from mza2ppp-358.uc.infovia.com.ar (209.13.230.103) by smtpb.softhome.net with SMTP; 31 Jul 2000 19:07:14 -0000
+Date: Mon, 31 Jul 2000 15:47:21 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <18657.000731@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Aristóteles, un físico pésimo... en pocas palabras...
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------8D8518CDC75CEB"
+From: Lupus el Lobo <aldocop@...>
+
+
+------------8D8518CDC75CEB
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Es  sabido  que  Aristoteles  pensaba  que  el  razonamiento debia ser
+=
+NECESARIAMENTE  algo perfecto, que el pensamiento y la logica limpia y
+pu=
+ra  era  la  expresion  maxima  de  esa  perfeccion.  El estudio del
+=
+universo  era  para  el algo divino, por ende, pero debia limitarse al
+=
+razonamiento puro, porque los sentidos, por ser humanos e imperfectos,
+(el =
+ mundo sensorial en si creo que era considerado imperfecto... pero
+no  es=
+toy  seguro)  podian  distorsionar esa perfeccion... Algo que se
+deduce=
+  esta concepcion es que, de existir alguna contraposicion entre
+los  s=
+entidos (la experiencia) y la razon, y por ser la razon algo mas
+perf=
+ecto  que  los  sentidos,  debian  desconocerse  estos y atender a
+aque=
+lla.  En este marco filosofico desarrollo su estudio de la fisica,
+un=
+o  de  cuyos  engendros comento mas adelante... El punto aqui es que
+Ar=
+istoteles  fue  tan  reconocido  y aclamado por generaciones que sus
+post=
+ulados  fueron  ley  para  cientos  de  futuros  estudiosos  y  el
+distanci=
+amiento consecuente entre razon (teoria) y sentidos (realidad)
+freno =
+el progreso durante siglos y dio a cientos de obtusos argumentos
+para confi=
+ar ciegamente en sus postulados emanados de la razon (de sus
+razones...) =
+y desconocer las claras muestras de distanciamiento con la
+realidad.  No  e=
+sta  de  mas  comentar  que la actitud cerrada de, por
+ejemplo,  la igl=
+esia catolica frente a la realidad sensorial (desde el
+telescopio  de  Ga=
+lileo hasta la expansion del universo de...=BFHubble?)
+tiene  un  buen  p=
+unto de aferre en las ideas del gran filosofo... con
+frecuentes consecuen=
+cias macabras...
+
+La interpretacion de Aristoteles del movimiento:
+
+Ari=
+stoteles  habia  deducido, en base a su razonamiento puro, que todo
+cue=
+rpo que se mueva DEBE ser empujado o jalado por otro. El movimiento
+asi  =
+es  una  consecuencia  de la interaccion entre dos o mas cuerpos,
+unos =
+ que  ejercen  fuerza  contra  otros,  y la velocidad resulta del
+cociente =
+entre el peso del cuerpo y la fuerza aplicada (v=3DF/P).
+
+Una  consecuencia=
+ de este pensamiento es que el tipo pensaba que si se
+arrojaba  una  piedra=
+ hacia arriba y adelante, esta avanzaria en linea
+recta hasta que se =
+le le "terminara la fuerza" y luego caria en picada
+describiendo una tray=
+ectoria triangular.
+                           . .
+                        =
+ .   .
+                       .     .
+                     .       .
+      =
+             .         .
+
+Ay  Aristoteles,  si  no hubieras desconfiado a=
+si de tus sentidos y te
+hubieras  detenido  a mirar las piedras que arroj=
+aban los niños contra
+los ventanas habrias descubierto que las trayecto=
+rias son parabolicas.
+(Mariana, podes hacer la prueba si no me crees.=
+.. ;) )
+
+                               .  .
+                          .   =
+         .
+                      .                    .
+                   =
+.                           .
+                 .                           =
+       .
+
+Por   fortuna   (o  por  desgracia)  la  balistica  desconoci=
+o  estos
+principios...
+
+Consecuencias:  El  tipo  pensaba que Dios tomaba=
+ participacion activa
+constante  en  el universo impulsando a los planeta=
+s,  las estrellas y
+al   sol,   para  que  cumplieran sus trayectorias... c=
+omo siempre, se
+disfraza ignorancia de divinidad...
+
+Otra consecuencia: San=
+ Agustin (que suelo confundir con Santo Tomas...
+corrijanme  si  me  =
+equivoque) desarrollo su demostracion logica de la
+existencia   de =
+  Dios   a   traves   del   conocido  razonamiento del
+primer  motor:  co=
+mo todo objeto que se mueve es empujado por otro, si
+seguimos  hacia atra=
+s la interaccion de causas efectos llegaremos a un
+primer motor que debe =
+haber iniciado el movimiento en el universo, ese
+motor  debe  ser  Dios  y =
+ la  existencia  de  movimiento (vida) en el
+universo es consecuencia de =
+este Dios, algo irrefutable, aceptando por
+supuesto la fisica dinamic=
+a de Aris...
+
+La  explicacion de donde esta el yerro me la guardo por=
+que supongo que
+hasta los menos cientificos deben haber tenido una formac=
+ion minima en
+fisica  en el secundario y son claras las diferencias e=
+ntre la dinamica
+de  Aris  y  la  de  Newton.  Ademas  Este  razonamien=
+to da por tierra
+redondamente  con  toda  la  termodinamica... pero est=
+a es una ciencia
+mucho mas nueva y compleja...
+
+Como  veras,  Mari,  ci=
+ertos  conocimientos cientificos son necesarios
+para    encarar  ciertos =
+ temas filosoficos, ignorarlos puede ser caer
+en los errores de Aristot=
+eles, y creer en las razones de San Agustin...
+(me cago, que memoria de=
+ mierda que tengo... era Agustin o Tomas??)
+
+
+------------8D8518CDC75CEB
+Content-Type: text/plain; name="La fisica de Aristoteles.txt"
+Content-Disposition: attachment; filename="La fisica de Aristoteles.txt"
+
+[ Attachment content not displayed ]
+------------8D8518CDC75CEB--
+

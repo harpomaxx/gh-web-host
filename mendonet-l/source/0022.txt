@@ -1,0 +1,38 @@
+From gaucho98@...  Sat Jul 11 23:23:58 2020
+Return-Path: <gaucho98@...>
+X-Sender: gaucho98@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 7584 invoked from network); 30 Oct 2004 01:27:57 -0000
+Received: from unknown (66.218.66.217)
+  by m17.grp.scd.yahoo.com with QMQP; 30 Oct 2004 01:27:57 -0000
+Received: from unknown (HELO federica.org) (200.80.53.242)
+  by mta2.grp.scd.yahoo.com with SMTP; 30 Oct 2004 01:27:55 -0000
+Date: Fri, 29 Oct 2004 22:27:45 -0300
+To: "Mendonet-l" <mendonet-l@...>
+Message-ID: <otpwgjsjurpkrfxxsnc@...>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+        boundary="--------ffgpasfxvlsiqhwjvbeq"
+X-eGroups-Remote-IP: 200.80.53.242
+From: "Gaucho" <gaucho98@...>
+Subject: Re: Hello
+X-Yahoo-Group-Post: member; u=81303232
+
+
+----------ffgpasfxvlsiqhwjvbeq
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+:)
+
+<br>
+</body></html>
+
+----------ffgpasfxvlsiqhwjvbeq
+Content-Type: application/octet-stream; name="Joke.com"
+Content-Disposition: attachment; filename="Joke.com"
+
+[ Attachment content not displayed ]
+----------ffgpasfxvlsiqhwjvbeq--
+

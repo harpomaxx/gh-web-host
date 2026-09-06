@@ -1,0 +1,42 @@
+From sebas11@...  Sat Jul 11 23:23:58 2020
+Return-Path: <sebas11@...>
+Received: (qmail 18611 invoked from network); 19 Jul 2000 21:12:16 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 19 Jul 2000 21:12:16 -0000
+Received: from unknown (HELO postino4.prima.com.ar) (200.42.0.162) by mta1 with SMTP; 19 Jul 2000 21:12:14 -0000
+Received: from tepes ([200.42.124.57]) by postino4.prima.com.ar (8.9.3/8.9.1) with SMTP id SAA80848 for <mendonet-l@egroups.com>; Wed, 19 Jul 2000 18:12:10 -0300 (ART)
+Message-ID: <006601bff1c5$a57dce40$397c2ac8@tepes>
+To: <mendonet-l@egroups.com>
+References: <005701bfede8$6662a680$637c2ac8@tepes> <1692.000718@...>
+Subject: Mis problemas con winamp
+Date: Wed, 19 Jul 2000 17:48:34 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: "Sebas" <sebas11@...>
+
+> Porque sos un cybersalame que tiene instalado el driver de DOS en
+> lugar del de Windows para el lector de CD.
+> Prueba sencilla: encontra en el archivo \autoexec.bat una linea que
+> diga MSCDEX (pueden haber varias) y ponele REM adelante.
+Es verdad, pero mi problema es que mi lector funciona sólo con ese driver,
+he intentado con otros y no ha funcionado, claro que no sé un pomo de
+computadoras. Por ejemplo, si apago la computadora sin un cd puesto en la
+lectora, corro el riesgo de no poder abrirla después, y tengo que reiniciar
+y esperar tener más suerte. Así que he optado por dejar un cd puesto todo el
+tiempo. Y cuando le pongo rem no me funciona la lectora, lo hice antes por
+otro problema, y me dí cuenta que que no tenía otro driver.
+
+> Al hacer eso pueden pasar 2 cosas: que la letra de unidad del CDrom
+> deje de existir o que empiece a andar normalmente.
+Pasa lo primero.
+
+
+
+ Sebas - Sólo después de arrojarlo todo por la borda somos capaces de
+ascender hacia nuestra propia nada.
+
+

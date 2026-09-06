@@ -1,0 +1,235 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 25 Jan 2002 04:29:47 -0000
+Received: (qmail 77520 invoked from network); 25 Jan 2002 04:29:47 -0000
+Received: from unknown (216.115.97.167)
+  by m5.grp.snv.yahoo.com with QMQP; 25 Jan 2002 04:29:47 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.7)
+  by mta1.grp.snv.yahoo.com with SMTP; 25 Jan 2002 04:29:43 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16TwOQ-0001jX-00
+	for <mendonet-l@...>; Thu, 24 Jan 2002 23:47:06 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16TwOP-0001jM-00
+	for <mendonet-l@...>; Thu, 24 Jan 2002 23:47:05 -0300
+Date: Thu, 24 Jan 2002 23:47:05 -0300
+To: mendonet-l@...
+Subject: Re: ouch!
+Message-ID: <20020125024705.GB6572@...>
+References: <20020117211411.GP9568@...> <6557.020119@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <6557.020119@...>
+User-Agent: Mutt/1.3.24i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Sat, Jan 19, 2002 at 01:23:04PM -0300, Lupus wrote:
+> >> al  menos  cuando  se  requiere  una  solución provisoria... además...
+> >> esperarme  20 o 30 minutos (exagerando... no creo haber tardado tanto)
+> >> más,  no  los  hubiera  puesto en peligro de volver de noche, nosortos
+> >> llegamos a la ciudad de día, aún después de todos los contratiempos...
+> 
+> GM> Cierto, cierto. Pero Mariela dijo que nos fueramos, que ustedes se
+> GM> volvian en camioneta.
+> 
+> Lo  que  no  les habría impedido esperar a que yo llegara para evitar
+> que ella se quedara sola...
+> 
+> (¿camioneta...?)
+
+Camioneta, traffic o como te guste llamarlo.
+El vehiculo de los infelices de Betancort Rafting...
+
+
+> >> Y,  que  yo sepa, el único que tenía un motivo real para estar apurado
+> >> en volver era rodro...
+> 
+> GM> Sin duda. A mi solo me apuraba la oscuridad... Y llegamos a mi casa con
+> GM> las ultimas luces del atardecer.
+> Pedaliaron  despacio...
+
+Cierto, pero fue culpa de Marcela.
+
+
+>  además,  con  llegar  con  luz a la ciudad es relativamente suficiente.
+
+Cierto. Pero llegamos bien.
+
+
+> >> Qué  llamada?  yo  no  hablé  con nadie a tiempo para comenar lo de la
+> >> cámara...
+> GM> Que? No hablo con vos con mi telefono, cuando estabamos con Mariela
+> GM> esperandote?
+> 
+> Este...  nop...  si  lo  hubiera  hecho  yo  habría sabido que ustedes
+> partían... debe haber llamado a su amigo en kadmand�...
+
+Mmmm... No preste atencion.
+
+
+
+
+> >> Pero  en  realidad  quiero intentar arreglarmelas solo, así aprendo un
+> >> algo  sobre  el sistema y, con suerte, soy capaz de arreglármelas solo
+> >> la  próxima  vez  que  algo falle...
+> GM> Eso tiene un doble sentido relacionado con bicicletas, o hablas solo de
+> GM> computadoras?
+> 
+> Je je... tampoco nos pongamos paranóicos...
+> 
+> Realmente   me   interesa   aprender   un  poco sobre el sistema, para
+> ser un usuario bobo me habría quedado en windon...
+
+
+> 
+> A propósito, (pregutna que le hice al cato, pero parece que no chequ�a
+> su  mail  muy seguido...). Me placa de video (una viper II de diamond,
+> de  32M  y  bastante  mecha,  debo  decir) necesita del driver llamado
+> "savage"...  al  ppio pensé que lo iba a encontrar con la distribución
+> que  me pasó el cato... pero parece que no está... no veo que se pueda
+> bajar  nada  de Xfree86.org, salvo los docs de información... ahora me
+> iba  a poner a buscar el driver en la página de diamond... pero por si
+> no lo encuentro... ¿dónde se supone que debería buscarlo...?
+
+No.. En www.xfree86.org (trata de escribir el nombre de host o el URL
+completo!!) tenes todo para bajar. No se donde, pero tenes todo.
+Igualmente, yo no buscaria ahi, porque lo que vas a encontrar es el codigo
+fuente y tendrias que instalar/bajar primero todas las herarmientas y
+cosas necesarias para compilar, y conocer algunos detalles de como funciona
+el sistema para compilar el servidor X (y/o su modulo "savage") y que
+funcione/interactue bien con el resto de las cosas que tenes ya
+instaladas compiladas vaya a saber uno como por Pepe Distribucion.
+Yo lo que buscaria seria la pagina de la empresa u organizacion (Conectiva
+puede ser?) que hace tu distribucion y buscaria el mismo paquete donde
+viene el servidor X y bajaria una version mas reciente.
+
+
+> Y cuando lo encuentre... lo meto en /dev ??
+
+No. En /dev van archivos especiales que cuando lees/escribis sobre ellos
+los datos no van a parar al disco rigido sino a un driver, quien hace con
+los datos algo util (usualmente hacer llegr los datos a un dispositivo
+de hardware).
+Por ejemplo, si escribis en el archivo /dev/tty0, los datos van a parar a
+la pantalla. Si escribis en /dev/lp0 los datos van a parar al puerto
+paralelo (y de ahi a la impresora si esta enchufada y en linea). Si lees
+de /dev/zero lees siempre 0s... Si escribis en /dev/hda los datos van a
+parar al disco rigido, pero pasandose por alto el sistema de archivos, 
+es decir, escribis en los sectores del disco en lugar de en los archivos.
+
+Son drivers del kernel (que estan almacenados en /lib/modules o directamente
+dentro del kernel en /vmlinuz) los programas que implementan la
+funcionalidad detras de los archivos especiales que encontras en /dev
+
+Lo que vos necesitas puede ser 2 cosas:
+
+1)
+un driver para el dispositivo "framebuffer" especifico para tu placa
+de video
+El framebuffer es la memoria de video de la placa de video. El kernel
+hace accesible el framebuffer de tu placa de video a traves del archivo
+especial /dev/fb. Leer o escribir ahi modifica la memoria de tu placa de
+video y por lo tanto modifica lo que el monitor dibuja en la pantalla.
+Pero ademas el driver de framebuffer es capaz de representar y hacer accesibles
+varias de las funciones de aceleracion grafica de tu hardware de video.
+Quizas el servidor X no detecta que tenes una placa Savage, y cuando accede
+a /dev/fb y pretende accdeder a las funciones especiales de tu placa se
+encuenta con que no responden, entonces se enoja y no te anda nada.
+
+2) Los drivers que vos queres no son drivers del kernel, sino drivers para
+el servidor X. El servidor X es un programa comun que se encarga de dibujar
+ventanas y cositas a pedido de las aplicaciones y leer los movimientos del
+mouse y del teclado e informarle de tales eventos a las aplicaciones (que
+se llaman clientes X).
+Para que el servidor X haga mejor uso de las capacidades de tu hardware de
+video, debe saber que placa de video tenes. O bien usas una version del
+servidor X especialmente hecha para tu placa o en las versiones mas nuevas
+del servidor X (XFree86 version 4) cargas un "driver" que le dice al
+servidor X como hacer cosas locas en tu placa, ya sea directamente
+accediendo al hardware o accediendo de una forma homogenea y prolija a traves
+del dispositivo de framebuffer o de la interfaz DRI (que no se bien donde
+esta).
+
+
+
+> A propósito, obtengo este hermoso mensaje de error:
+> 
+> (II) LoadModule: "savage"
+> (WW) Warning, couldn't open module savage
+> (II) UnloadModule: "savage"
+> (EE) Failed to load module "savage" (module does not exist, 0)
+
+Bien. Estos son mensajes de error del servidor X que no puede encontrar
+un modulo del servidor X, o sea: el caso 2 de los que presente mas arriba.
+La solucion ya te la dije mas arriba: busca en Conectiva una version mas
+nueva que incluya el driver que queres, o usa el servidor S3 generico,
+o el servidor SVGA generico.
+
+
+ 
+> Y  después  un "Fatal error, screen not found" (mi screen debería usar
+> obviamente  ese  dirver,  por  lo que pienso que el problema es ese...
+
+El servidor X puede hacer accesibles varias "pantallas" distintas a las
+aplicaciones. Una aplicacion puede decidir conectarse a la pantalla 1 del
+servidor X y la ventana de ese programa aparece dibujada en la pantalla
+1. Cual mierda es la pantalla 1? La que sea que hayas configurado.
+Por lo general, todas las pantallas del servidor X se dibujan en el
+unico monitor que tenes (pero podrias tener varios). Entonces, para que no
+se superpongan todas las pantallas, cada una aparece en una consola
+virtual diferente. Las consolas virtuales son la forma de Linux de simular
+que tenes una compudora con muchos teclados y pantallas: con ALT-CTRL-F1,
+ALT-CTRL-F2 etc seleccionas la consola virtual 1, la 2, etc.
+Por lo general, las primeras 6 consolas virtuales estan esperando a que
+escribas tu user y pass para iniciar una sesion (probalo).
+La pantalla 0 aparece en la primera consola virtual libre (generalmente la
+consola 7, visible al apretar ALT-CTRL-F7, la pantalla 1 en la consola 8
+ALT-CTRL-F8, etc).
+Ademas por lo general, no tenes mas que una sola pantalla habilitada (la
+0).
+
+El mensaje que vos decis es generado por un cliente X (casi seguro el
+window manager, que es un programa que permite abrir/cerrar y modificar las
+ventanas de otros programas) y significa que la "screen" a la que se quiso
+conectar ese programa no acepto la conexion, lo que a su vez en tu caso
+sae debe casi seguro a que en realidad el servidor X no ha podido hacer
+andar tu hardware (por no tener el modulo del orto ese) y por lo tanto,
+es imposible que un programa pueda dibujar nada en la pantalla.
+
+
+
+> También  tengo  un  mensaje  de  error  sobre el hecho de que no tengo
+> ningun  layout  definido  en mi config (el Xconfigurator no lo hizo, y
+> todavía no me pongo a ver la sintaxis para hacerlo yo...)
+
+O sea que tu servidor X no sabe en realidad donde estan pintados los simbolos
+de tu teclado...
+El XConfigurator que tengo yo, esta muy copado porque activa un segundo
+servidor X configurado pedorramente (16 colores, resolucion fea, teclado
+ingles, sin mouse) y mediante menues y cosas vas eligiendo el teclado,
+el mouse, la placa de video y el monitor, todo desde dentro de X.
+Luego te modifica el archivo de configuracion automaticamente y reinicia
+el primer servidor X con la nueva configiracion.
+
+
+> Pero no creo
+> que  ese  sea  el  problema  porque el mensaje,luego de advertir de la
+> ausencia, indica que va a usar la screen "no me acuerdo" que es la que
+> yo quería usar... y no funca...
+
+Lo del layout se refiere al teclado. Lo de screen se refiere a la placa
+de video.
+
+
+-- 
+Groucho
+
+
+
+

@@ -1,0 +1,61 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 14 Nov 2000 22:35:28 -0000
+Received: (qmail 17892 invoked from network); 14 Nov 2000 22:35:27 -0000
+Received: from unknown (10.1.10.26) by l8.egroups.com with QMQP; 14 Nov 2000 22:35:27 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.118) by mta1 with SMTP; 14 Nov 2000 22:35:27 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC; Tue, 14 Nov 2000 14:35:27 -0800
+X-Originating-IP: [200.45.29.219]
+To: <mendonet-l@egroups.com>
+References: <OE5175HvAoEvyncU1to000028fd@...> <8636.001104@...> <009101c04756$51efbf40$LocalHost@...> <012401c04814$86a85b20$9a4afea9@hfgg>
+Subject: Re: Boicot al formato HTML!!
+Date: Sun, 12 Nov 2000 17:07:50 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE14DWSAGsRgkAAuSNs0000064f@...>
+X-OriginalArrivalTime: 14 Nov 2000 22:35:27.0563 (UTC) FILETIME=[2FCB09B0:01C04E8B]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Original Message -----
+From: Mariana
+To: mendonet-l@egroups.com
+Sent: Monday, November 06, 2000 2:04 PM
+Subject: Boicot al formato HTML!!
+
+
+
+----- Original Message -----
+From: Alejandro Gómez Talquenca <aletalquenca@...>
+To: <mendonet-l@egroups.com>
+Sent: Sunday, November 05, 2000 3:29 PM
+Subject: RE: Re[2]: Bienvenida/malcomenzada
+
+
+> ----- Original Message -----
+> From: Groucho Marx <groucho@...
+
+> > Morganti, haceme un favor: anda al menú Herramientas de tu
+> > Microsoft Outlook Express 5.50.4133.2400. Elegí el submenu
+> > Opciones y busca en la solapa Redacción una opción que diga
+> > "Texto sin formato" y activala.
+
+> > Groucho EL PIADOSO
+
+Hey Talquencus, que esto que dice el Groucho sirva para vos también, que por
+ahí se te suelen escapar mails en formato HTML.
+
+
+groucho, vos que sos el mejor, y el unico a mano, necesito asesoramiento,
+porque siguiendo sus consejor  (o puteadas) saque el formato enriquecido,
+pero cuando voy a enviar la culiada no hace lo que le ordene. porque? no se!
+siempre tuve mala relacion con estas maquinas
+
+

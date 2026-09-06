@@ -1,0 +1,85 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_3); 21 Jun 2001 02:12:00 -0000
+Received: (qmail 73770 invoked from network); 21 Jun 2001 02:12:00 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 21 Jun 2001 02:12:00 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 21 Jun 2001 02:12:00 -0000
+Received: (qmail 26063 invoked by uid 417); 21 Jun 2001 02:14:51 -0000
+Received: from a200042125131.rev.prima.com.ar (200.42.125.131) by i-softhome-tango with SMTP; 21 Jun 2001 02:14:51 -0000
+Date: Wed, 20 Jun 2001 22:27:30 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Sebas <xebax@...>
+X-Priority: 3 (Normal)
+Message-ID: <3935.010620@...>
+To: Groucho Marx <mendonet-l@yahoogroups.com>
+Subject: =?ISO-8859-1?B?RGUgbmnxYXMgeSBzZW5pbGlkYWRlcyggbyBlbCB0ZW1hIGRlIGxhIGNv?= =?ISO-8859-1?B?bXB1dGFkb3JhKQ==?=
+In-reply-To: <9697.010619@...>
+References: <9697.010619@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+
+GM> No hace falta. Hay 2 posibilidades: tenes 2 SIMMs de 72 pines de 8 MB
+GM> cada uno, sin paridad, o bien, tenes 4 SIMs de 72 pines de 4 MB cada
+GM> uno, sin paridad.
+La primer opción es la correcta.
+
+GM> Tu maquina tiene 4 ranuras de color blanco para enchufarle SIMMs de 72
+GM> pines, y 2 ranuras mas de color negro para enchufarle DIMMs de 168
+GM> pines. Si no tenes eso, te metieron el perro cuando la compraste.
+No la compré yo, igual, no me fijé en eso, ya me voy a fijar.
+
+GM> El ansi-art te salio casi profesional. Con un poco mas de soltura en
+GM> el uso de | y - (simbolos que omitiste usar) te salia con calidad
+GM> fotografica.
+Al palito vertical culiado ese no lo encontré.
+
+GM> Si queres saber la cantidad de pines, no era mas facil contarlos?
+Es que no sabía cuales eran, de hecho conté, pero conté lo incorrecto.
+
+GM> Vamos a ampliar una parte de tu dibujo asi ves cuales son los pines
+GM> que tenes que contar. Por otro lado la cuenta no necesita ser muy
+GM> exacta, con que diferencies 30, 72 y 168 alcanza.
+Siempre se aprende algo.
+
+S>>   Punto dos: ¿a cuánto y dónde las compro? Mis recursos económicos
+S>> son limitadísimos.
+GM> Los SIMMs como los que buscas son absurdamente caros.
+Me lo temía... maldito progreso
+
+S>>   Punto 3:¿alguno de ustedes me puede vender(por no decir regalar) lo
+S>>   que necesito?
+GM> Lo unico que tengo para desprendermelo son 2 SIMMs de 4 MB. Si te
+GM> interesa te los presto hasta que me olvide que te los preste, a menos
+GM> que Marc los quiera para ella en cuyo caso, ella tiene prioridad.
+Acá precisamos la intervención de Marc, ser humano de características
+únicas... una mina excepcional, de ideas brillantes, de una calidad
+humana incomparable...
+Me vendrían de superpelos, dado que a parte de volver las esperas menos
+intolerables, me permitiría instalar el chessmaster 7000, que requiere
+24 mb, y mis búsquedas de pornografía en intertet también se verían
+facilitadas(creo, eso leí por ahí)
+
+GM> Si queres probar si una memoria nueva de 133 MHz va a funcionar en
+GM> tu motherboard, te venis a mi casa con el gabinete (y su rellenito) y
+GM> lo probamos. Si te funciona, vemos si te lo puedo comprar a precio
+GM> mayorista y te cobro una minucia por la instalacion.
+Veremos
+
+En cuanto a lo que seguía, no creo ser tan molesto, en última
+instancia, tendr� que aprender un poquito y ver si lo puedo resolver
+yo(a cualquier eventual problemejo)
+
+Restaría que usted proponga fecha, hora y lugar a donde yo deba
+llegar(cerveza o gaseosa en mano) para concretar las acciones que
+usted propuso.
+
+-- 
+Sebas   
+Las mujeres modernas olvidan que para desvestirse y desvestirlas se requiere un mínimo de indumentaria.                        
+
+
+

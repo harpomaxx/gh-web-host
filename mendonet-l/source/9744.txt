@@ -1,0 +1,74 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 17190 invoked from network); 5 Jul 2000 23:03:10 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 5 Jul 2000 23:03:10 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 5 Jul 2000 23:03:09 -0000
+Received: from pentium.localdomain (rdumend2-200.41.21.48 [200.41.21.48] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA27961 for <mendonet-l@egroups.com>; Wed, 5 Jul 2000 20:05:51 +0300 (GMT)
+Received: from supernet.com.ar (pentium [192.168.1.200] (may be forged)) by pentium.localdomain (8.9.3/8.9.3) with ESMTP id RAA01518 for <mendonet-l@egroups.com>; Wed, 5 Jul 2000 17:39:02 -0300
+Sender: federico@...
+Message-ID: <39639CE5.12A1258@...>
+Date: Wed, 05 Jul 2000 17:39:01 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.12 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: Buenas, soy el oxiuro!!
+References: <200007040903328.SM00155@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+gonzalo torrisi wrote:
+
+> Buenas para la gente de mendonet, para los que conozco y
+> los que no conozco también.
+>
+
+Hola
+
+>
+> Esto de enviar mails a uds. surge por una cuestión de que
+> a nadie le interesa las matemáticas, ya que nadie le
+> contesta al supuesto genio calculón Groucho y sus
+> problemas sacados de libros.
+>
+
+que simpático!
+
+
+>
+> Bueno, yo si le doy un poco de atención y para el otro
+> fanático del manga y el animé le tengo una pregunta muy
+> simple ( así comenzará todo)
+>
+> Aver quién sabe esto:
+>
+> Se posee una lámina de cartón cuadrada de lado L y se
+> desea hacer una caja sin tapa de volumen máximo: ¿Cuál
+> deben ser las medidas de la base y la altura de las
+> paredes para que se cumpla est
+
+Por casualidad vos eras unos de los integrantes del grupo Oxiuro ?
+
+
+>
+
+> por favor siéntanse libre de contestar y ya les tendré
+> nuevos problemas de la vida real.
+>
+> nos Vemos
+>
+
+--
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+Comité: una forma de vida con seis o más piernas y ningún cerebro.
+
+
+
+

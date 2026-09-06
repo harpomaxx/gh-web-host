@@ -1,0 +1,69 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 29 Aug 2001 07:14:45 -0000
+Received: (qmail 64660 invoked from network); 29 Aug 2001 07:14:44 -0000
+Received: from unknown (10.1.10.27)
+  by l10.egroups.com with QMQP; 29 Aug 2001 07:14:44 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.66)
+  by mta2 with SMTP; 29 Aug 2001 07:14:43 -0000
+Received: (qmail 6454 invoked by uid 1005); 28 Aug 2001 18:10:30 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.191167 secs); 28/08/2001 15:10:29
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 28 Aug 2001 18:10:28 -0000
+Date: Tue, 28 Aug 2001 15:10:36 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <01082115545602.00445@cubil> <20010822212943.D28018@...> <007f01c12eef$1c4c2be0$9a4afea9@hfgg>
+In-Reply-To: <007f01c12eef$1c4c2be0$9a4afea9@hfgg>
+Subject: Re: =?iso-8859-1?q?LINUX=2E=2E=2E=BFpor=20que=20yo=3F?=
+MIME-Version: 1.0
+Message-Id: <01082815103601.00457@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 27 Ago 2001 08:20, escribiste:
+
+> > Por que es COOL y divertido...
+> ¿Divertido?... ����????... ¿Cómo es un SO "Divertido"?
+>
+> No sé por qué presiento que vos y yo no tenemos el mismo concepto
+> de lo que es divertido y lo que no
+
+Porque la gente que escribe los programas es cool y divertida y escribe 
+programas que te hablan de manera cool y divertida.
+
+Ejemplos:
+Si se te cuelga Windows te sale un mensaje insipido en letras blancas 
+sobre fondo azul diciendo que se ha realizado una operacion no valida o 
+que el sistema se ha vuelto inestable o cosas asi.
+
+Si se te cuelga Linux, te salen carteles tales como:
+
+
+"Kernel panic: IIIAAAAYYYY!!!!! Trying to kill idle task"
+"Oops! General Protect Fault at 0x1172823"
+
+Y un juegito podes tener los niveles de dificultad: "patan, 
+principiante, medio, y avanzado".
+Y en el programa "mailstat" que lee de su entrada estandar un archivo 
+de log generado por el MTA, si resulta que la entrada estandar no es 
+unarchivo sino una terminal, te pone:
+"Most people don't type thir own logfiles; but what do I care?"
+
+En un archivo de ayuda salen las instrucciones paso a paso para 
+construir un LART. Un LART es un "looser attitude readjustment tool" 
+con una barra metalica de 1,2 m utilizada en la industria petrolera. Y 
+luego explica cuando y como tenes que visitar a los usuarios del 
+sistema petulantes y aplicarles un poco de LART.
+
+En Windows solo vas a leer discurso corporativo: "somos felices, 
+hacemos todo bien, no se preocupe, denos dinero".
+
+
+-- 
+Groucho Marx
+

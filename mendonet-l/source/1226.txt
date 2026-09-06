@@ -1,0 +1,59 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 12 May 2002 20:56:26 -0000
+Received: (qmail 30804 invoked from network); 12 May 2002 20:56:25 -0000
+Received: from unknown (66.218.66.218)
+  by m8.grp.scd.yahoo.com with QMQP; 12 May 2002 20:56:25 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.30)
+  by mta3.grp.scd.yahoo.com with SMTP; 12 May 2002 20:56:24 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 176Zge-0003hR-00
+	for <mendonet-l@...>; Sat, 11 May 2002 13:25:36 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 176Zge-0003hG-00
+	for <mendonet-l@...>; Sat, 11 May 2002 13:25:36 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[4]: propiedades emergentes
+Date: Sat, 11 May 2002 16:14:29 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <E175xk6-0001nY-00@...> <5589.020511@...>
+In-Reply-To: <5589.020511@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E176Zge-0003hG-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Sáb 11 May 2002 14:09, escribiste:
+> >> O sea que en definitiva, estamos de acuerdo, y esto es una
+> >> discusión dialéctica.
+>
+> GM> Pero no estamos de acuerdo en la valoracion. A mi no me parece
+> menos GM> valorable algo porque se lo explique con reacciones
+> quimicas. Hablo de la valoración general, no de la mía particular.
+>
+> >> Ahora agarrate, que morganti te va  dar por pensar que la reacción
+> >> química arriba mencionada es vida.
+>
+> GM> No, la vida es AMOR!!!!
+> Percibo cierto sarcasmo en tus palabras.
+
+Estas bromeando?
+Un poco mas y esta preciosidad hubiera volado por los aires...
+
+        [..../]
+    Sarcasm Detector
+
+
+-- 
+Herr GrouchoX
+
+
+
+

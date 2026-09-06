@@ -1,0 +1,46 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+Received: (qmail 14068 invoked from network); 1 Jul 2000 13:03:55 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 1 Jul 2000 13:03:55 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.115) by mta1 with SMTP; 1 Jul 2000 13:03:53 -0000
+Received: from elserver.micasa (harpo@... [192.168.1.3]) by elserver.micasa (8.8.7/8.8.7) with ESMTP id JAA31521 for <mendonet-l@egroups.com>; Sat, 1 Jul 2000 09:59:48 -0300
+Date: Sat, 1 Jul 2000 09:59:48 -0300 (WART)
+X-Sender: harpo@...
+To: mendonet-l@egroups.com
+Subject: Re: texto en los mails y, si se puede, contenido...
+In-Reply-To: <20000629170821.32521.qmail@...>
+Message-ID: <Pine.LNX.4.04.10006301125070.6528-100000@...>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+From: harpo <harpo@...>
+
+On 29 Jun 2000 fcanizo@... wrote:
+
+>El 21/06/00, Lupus el Lobo le r=
+ecalco verborragicamente a fcanizo@...:
+>Casualmente SI puedo lee=
+r docs, pero solo los hechos con
+>cierta version de word. Simpatico: =
+word tiene formato
+>incompatible entre distintas versiones.
+>
+>Me la banco.=
+.. De hecho me la re-banco: no voy a leer ese
+>mail.
+>
+>LeL>=BFpodes leer=
+ txt o tambien tenes que reiniciar tu maquina...?
+>
+>Es solo una co=
+nvencion. Y para mas datos una convencion a
+
+Ni te gastes en explicar=
+le a lupus, recorda que es un industrial!!!
+No gastes polvora en chimango..=
+ ok?
+
+El Harpo!
+
+
+

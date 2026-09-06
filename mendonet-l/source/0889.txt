@@ -1,0 +1,55 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 28 Jul 2002 03:42:00 -0000
+Received: (qmail 89296 invoked from network); 28 Jul 2002 03:42:00 -0000
+Received: from unknown (66.218.66.217)
+  by m9.grp.scd.yahoo.com with QMQP; 28 Jul 2002 03:42:00 -0000
+Received: from unknown (HELO io) (200.47.194.50)
+  by mta2.grp.scd.yahoo.com with SMTP; 28 Jul 2002 03:41:59 -0000
+Received: from root by io with local (Exim 3.35 #1 (Debian))
+	id 17YemL-0007ZE-00
+	for <mendonet-l@...>; Sun, 28 Jul 2002 00:31:33 -0300
+Date: Sun, 28 Jul 2002 00:31:13 -0300
+To: mendonet-l@...
+Subject: Re: Diez razones para no votar a Memen...
+Message-Id: <20020728003113.19afe0db.root@...>
+In-Reply-To: <courier.3D41ED8F.00001961@...>
+References: <OE35IIAsvvcqJUOjQFO0000ba68@...>
+	<115.020726@...>
+	<20020726144535.482616d3.root@...>
+	<courier.3D41ED8F.00001961@...>
+Organization: -fobos team-
+X-Mailer: Sylpheed version 0.7.4 (GTK+ 1.2.10; i386-debian-linux-gnu)
+X-Operating-System: Debian GNU/Linux
+X-KASTOR: Muerte al CAPITAL!!!
+User-Agent: #Muerte Al CAPITAL#
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+From: k a s t o r <root@...>
+X-Yahoo-Group-Post: member; u=76410190
+
+El Fri, 26 Jul 2002 18:47:11 -0600
+"marc.mz@..." <marc.mz@...> escribio:
+
+> > 
+>  
+> 
+> es que no quieren compartir la torta 
+> 
+> 
+
+ marcela, nunca nos vamos a poner de acuerdo.. asi que evitemos estos flames!
+
+-- 
+
+[ kastor ] 
+
+JID: kastor@... / Powered By Debian GNU/Linux
+Key fingerprint = B83D C963 C1F8 7C02 FA82  1DFE 4852 C81A EFE9 177A
+GnuPG-public-key: http://www.linuxmendoza.org.ar/~kastor/public-key.txt
+
+
+

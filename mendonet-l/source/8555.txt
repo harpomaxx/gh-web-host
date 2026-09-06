@@ -1,0 +1,31 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+Received: (qmail 16229 invoked from network); 31 Aug 2000 15:40:29 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 31 Aug 2000 15:40:29 -0000
+Received: from unknown (HELO web704.mail.yahoo.com) (128.11.23.24) by mta2 with SMTP; 31 Aug 2000 15:40:28 -0000
+Received: (qmail 14389 invoked by uid 60001); 31 Aug 2000 15:47:19 -0000
+Message-ID: <20000831154719.14388.qmail@...>
+Received: from [168.226.22.101] by web704.mail.yahoo.com; Thu, 31 Aug 2000 08:47:19 PDT
+Date: Thu, 31 Aug 2000 08:47:19 -0700 (PDT)
+Reply-To: rodralez@...
+Subject: Napster 2...
+To: mendonet-l@egroups.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="0-1804289383-967736839=:14243"
+X-eGroups-From: Rodro <rodralez@...>
+From: Rodro <rodralez@...>
+
+
+--0-1804289383-967736839=:14243
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+[ Attachment content not displayed ]
+--0-1804289383-967736839=:14243
+Content-Type: application/x-zip-compressed; name="NAPSTER_2.zip"
+Content-Description: NAPSTER_2.zip
+Content-Disposition: attachment; filename="NAPSTER_2.zip"
+
+[ Attachment content not displayed ]
+--0-1804289383-967736839=:14243--
+

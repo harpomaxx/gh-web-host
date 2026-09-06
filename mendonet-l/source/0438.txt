@@ -1,0 +1,79 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 11 Mar 2003 13:07:01 -0000
+Received: (qmail 91352 invoked from network); 11 Mar 2003 13:06:59 -0000
+Received: from unknown (66.218.66.218)
+  by m8.grp.scd.yahoo.com with QMQP; 11 Mar 2003 13:06:59 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 11 Mar 2003 13:06:57 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18sjhX-0003ux-00
+	for <mendonet-l@...>; Tue, 11 Mar 2003 10:21:51 -0300
+Message-ID: <3E6DDF47.10005@...>
+Date: Tue, 11 Mar 2003 10:06:15 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: =?ISO-8859-1?Q?Informatica_para_todos?=
+References: <3E660C77.9080602@...> <0879.030310@...>
+In-Reply-To: <0879.030310@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+> HG> Si te gusta el programa, compra la licencia y listo.
+> ¡Facilista!
+
+Seguro. El tiempo que puedo dedicar a la computacion es finito.
+Y me interesa maximizar el tiempo que invierto en temas que me rindan 
+algun fruto (entretenimiento, conocimiento, perfeccionamiento laboral).
+Investigar como violar las triviales medidas anticopia de un programa no 
+me parece que sea una buena inversion de mi tiempo.
+
+Si el autor del programa no quiere que copies su programa, que se lo 
+pierda en el orto. Hay muchos otros programas con mejor onda.
+
+
+>>>Imagino también que en una de esas es sólo cuestión de borrar ese
+>>>archivito para poder usar el teleport por otro "período de prueba".
+> HG> Si, me encantaria que borraras el registro, asi tenes que reinstalar
+> HG> Windows de nuevo...
+> Me refería al archivito del teleport pro dentro del registro... pero
+> al parecer, por lo que vos decís, no se puede.
+
+El registro es una base de datos jerarquica que almacena pares 
+(clave,valor). La "clave" es un identificador unico de cada valor. Una 
+clave puede contener ademas de valores, subclaves, asi como un 
+directorio puede contener archivos y directorios.
+El registro esta almacenado en 2 archivos en la version de Windows que 
+vos usas. Si borras alguno de esos archivos, haces desaparecer muchos 
+datos no solo los que te interesaba que desaparecieran.
+
+
+> HG> Mejor borra la rama del registro donde el Teleport ese guarda sus datos.
+> A eso me refería. ¿Es muy difícil?
+
+No usando el programa regedit.exe.
+
+
+> HG> Lo que tenes que hacer es comprar el Teleport o abstenerte de usarlo. Te
+> HG> recomiendo que te abstengas de usarlo y uses en cambio wget.
+> Lo intentaré.
+
+Perfecto. Basta con que pongas wget -c -r -k URL para que baje 
+recursivamente todos los archivos accesibles desde el URL indicado. La 
+-c indica que si se interrumpe la descarga de un archivo luego la 
+continue desde donde se corto. La -k indica reescribir el codigo HTML 
+para permitir la navegacion local de los archivos bajados.
+
+-- 
+Groucho
+
+

@@ -1,0 +1,39 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 9954 invoked from network); 29 Jun 2000 17:09:07 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 29 Jun 2000 17:09:07 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 29 Jun 2000 17:09:03 -0000
+Received: (qmail 32577 invoked by uid 722); 29 Jun 2000 17:08:23 -0000
+Date: 29 Jun 2000 17:08:23 -0000
+Message-ID: <20000629170823.32559.qmail@...>
+To: mendonet-l@egroups.com
+Subject: docs y otras yerbas
+From: fcanizo@...
+
+El 27/06/00, Cabeza le explicó insultantemente a mendonet-l@egroups.com:
+
+C>> fuea> Eso fue lo que llegó de tu mensaje, fue buena idea que lo
+C>> fuea> mandaras attached además, pero te sugiero que para los
+C>> fuea> próximos hagas lo siguiente: hace un attach de texto ya que
+C>> fuea> para leer el mensaje anterior tendría que apagar mi máquina,
+C>> fuea> iniciar windows y leerlo all�, para luego volver a apagar la
+C>> fuea> máquina iniciar linux y continuar leyendo mails
+C>> fuea> normalemente.
+C>>
+C>??... Y por que no usas el StarOffice ?
+
+Tendría que arrancar X y sería sólo un poco menos engorroso,
+porque uso el pine y me *gusta* usarlo desde la consola.
+Igual tendría que hacer malabares con los programas, cuando
+lupus solamente tiene que poner "guardar como" > texto
+
+Y eso sin considerar que se podría haber puesto las pilas
+con el tema del mail para no tener que llegar a esto.
+
+---
+Es bien sabido que el fracaso tiene mil excusas; el éxito no requiere
+explicación.
+
+	"Todos los secretos de la excelencia" - Miguel A. Cornejo
+
+

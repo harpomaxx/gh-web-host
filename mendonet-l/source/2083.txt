@@ -1,0 +1,95 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 30 Jan 2002 17:15:57 -0000
+Received: (qmail 33989 invoked from network); 30 Jan 2002 17:15:57 -0000
+Received: from unknown (216.115.97.172)
+  by m9.grp.snv.yahoo.com with QMQP; 30 Jan 2002 17:15:57 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta2.grp.snv.yahoo.com with SMTP; 30 Jan 2002 17:15:56 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with SMTP id OAA28332
+	for <mendonet-l@...>; Wed, 30 Jan 2002 14:15:55 +0300 (GMT)
+Message-ID: <00fe01c1a9b1$d534d700$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20020129035753.GA5464@...> <7575.020129@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B2=5D:_Lupus=2C_te_voy_a_hacer_rico=28quiero_una?=
+	=?iso-8859-1?Q?_comision=29?=
+Date: Wed, 30 Jan 2002 14:16:17 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> >> >> GM> Si la tierra es para el que la cultiva, entonces las viviendas
+son
+> >> >> GM> para el que las habita (adios alquileres),
+> >> >> Deducción absolutamnte errónea y sin base alguna.
+> >> GM> Deduccion inductiva cuya base es la analogia:
+> >> GM> "la tierra para el que la cultiva" lo generalizo a "X para el que
+> >> GM> hace uso de el".
+> >> ¿Y quién te dijo que lo podés generalizar?
+> GM> Sabia que dirias eso!!! La respuesta la di mas abajo...
+> No dijiste por qué podías generalizar, simplemente generalizaste y a
+> partir de ahí diste una larga e infecunda explicación.
+>
+> GM> Te referis a:
+> >> La salud es patrimonio del pueblo y el hambre como factor predisponente
+> >> para enfermar no es admisible en un país de estas características.
+> GM> Vos crees que realmente hace falta dedicar mas tierra a cultivo?
+> GM> O quizas sea mas util mejorar los metodos presentes para obtener
+> GM> mayor eficiencia en lugar de arruinar mas y mas tierra?
+> Eso es concurrente con la reforma agraria.
+>
+> GM> Epero que entre las tierras ociosas no estes pensando en terrenos
+> GM> mas o menos virgenes...
+> Por supuesto que no... las selvas del noreste y noroeste, los esteros
+> de Iberá, algunas regiones de Chaco y Formosa, ciertas parte del monte
+> andino, los bosques del sur... todas las zonas con un importante valor
+> ecológico deben preservarse... es que la reforma no consiste en
+> agregar tierras, sino en las tierras que pertenecen a latifundistas,
+> confiscarlas y fraccionarlas, para que sirvan de fuente de trabajo y
+> alimentación.
+>
+> >> GM> Yo escuche 15000, no 20000.
+> >>
+> >> Igual....¿tan difícil es hacer un semáforo que ninguna empresa
+> >> argentina los hace? Porque a ese precio, debe ser muy fácil competir
+> GM> Ojo. Ese es el precio instalado. Con rotura de calle, canalizacion
+> GM> subrterranea, etc.
+> Ah, caramba, entonces cambia ligeramente... ¿de qué canalización
+> subterránea hablás? Digo, me imagino que todos los semáforos de una
+> esquina deben conectarse subterráneamente, pero no sé si algo más....
+
+Si de esa canalizacion hablo.
+Tienen que conectar las lamparas de las 4 esquinas al controlador.
+
+> y esas conexiones...¿no pueden ser aéreas? No digo con cables, sino
+> ondas(no comprendo el tema en absoluto, por eso pregunto).
+
+radioenlaces? Si... pero son menos confiables y seria un desafio asignar
+inteligentemente canales de manera que el semaforo de una esquina no moleste
+al de la otra, ademas de permitir a los hackers manipular las luces desde
+su casa.
+Seria mucho mas practico que todas las esquinas tengan receptores y que
+desde el cerro arco les tranmitan a los semaforos lo que deben hacer.
+
+
+> De todos modos, me sigue pareciendo bastante caro, aunque tal vez me
+> des alguna explicación inesperada que lo justifique... y de todos
+> modos, deberíamos tener una fábrica argentina de semáforos.
+
+Estoy de acuerdo en que es sorprendentemente caro y que deberia haber
+una fabrica local.
+
+--
+Groucho
+
+

@@ -1,0 +1,65 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 29 Sep 2001 03:42:40 -0000
+Received: (qmail 89851 invoked from network); 29 Sep 2001 03:42:39 -0000
+Received: from unknown (10.1.10.26)
+  by m8.onelist.org with QMQP; 29 Sep 2001 03:42:39 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta1 with SMTP; 29 Sep 2001 03:42:09 -0000
+Received: from gateway.micasa.org.ar (200-41-31-81-rdunysd1.impsat.net.ar [200.41.31.81])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with ESMTP id AAA11492
+	for <mendonet-l@...>; Sat, 29 Sep 2001 00:42:24 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15n3AV-0000GI-00
+	for <mendonet-l@...>; Fri, 28 Sep 2001 16:19:27 -0300
+Date: Fri, 28 Sep 2001 16:19:50 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <13680.010928@...>
+To: Sebas <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbN106IE3hcyByZWFsIHF1ZSBsYSB2aWRhIG1pc21hLi4uIChMdXB1?= =?ISO-8859-1?B?cyBpbmRpZ25hZG8geSB2ZXJ2b3Jy4WdpY28uLi4p?=
+In-reply-To: <5931.010927@...>
+References: <5931.010927@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Sebas,
+
+Thursday, September 27, 2001, 10:20:47 PM, you wrote:
+
+MF>> es como imaginarte un espectacular cuadro en tu cerebro y al
+MF>> momento de traspasrlo a un lienzo no sale como querias.
+S> Eso es inhabilidad manual, no falta de lenguaje.
+
+Y que es la tecnica entonces para vos?
+
+MF>> estoy a favor de la libre eleccion
+S> ¿Quién te dijo que elegís libremente? Yo quiero ver un programa que se
+S> trate de la evolución social de los aborígenes americanos desde que
+S> cruzaron el estrecho de Bering hast que llegaron a Tierra del Fuego, y
+S> quiero verlo ahora...
+
+Que infantil. Eso no es libertad de eleccion, eso es poder ilimitado.
+La libertad de eleccion es poder seleccionar entre las alternativas
+ofrecidas, no las alternativas a ofrecer.
+
+
+S> Si con la libre elección te referís a ver o no ver, entonces no hay
+S>  elección posible, porque yo "no quiero ver" porque me parece que
+S> lo que se ve es nocivo y vivo rodeado de gente que "sí ve", por lo
+S> que la nocividad de lo que se ve, me afecta indirectamente.
+
+Siempre podes elegir matar a los que te molesten. Creo que ejemplos en
+el mundo sobran.
+
+-- 
+ Groucho
+
+
+

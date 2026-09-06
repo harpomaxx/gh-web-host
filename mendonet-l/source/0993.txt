@@ -1,0 +1,63 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 5 Jun 2002 04:38:26 -0000
+Received: (qmail 63952 invoked from network); 5 Jun 2002 04:38:26 -0000
+Received: from unknown (66.218.66.217)
+  by m3.grp.scd.yahoo.com with QMQP; 5 Jun 2002 04:38:26 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.93)
+  by mta2.grp.scd.yahoo.com with SMTP; 5 Jun 2002 04:38:25 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 17FPwV-0006Kx-00
+	for <mendonet-l@...>; Tue, 04 Jun 2002 22:50:31 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 17FPwU-0006Km-00
+	for <mendonet-l@...>; Tue, 04 Jun 2002 22:50:30 -0300
+Date: Tue, 4 Jun 2002 22:50:30 -0300
+To: mendonet-l@...
+Subject: Re: Pal Groucho, u otro que sepa...
+Message-ID: <20020605015030.GK23963@...>
+References: <18783.020526@...> <124.020604@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <124.020604@...>
+User-Agent: Mutt/1.3.25i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Tue, Jun 04, 2002 at 12:06:06AM -0300, Lupus wrote:
+> 
+> Cómo  puedo  hacer para bajar los mails de los pultimos 4 días (que no
+> recibí  por problemas en la cuenta de softhome)?
+
+Bajar de donde? Donde supones que estan los mails? Por que no estan en
+tu casilla pop3 de softhome?
+Si softhome soreteo los mensajes, o vos los soreteaste de tu maquina,
+habiendolos borrado de softhome (operacion normal offlien de pop3) entonces
+esos mensajes no existen mas como mensajes de mail. Los tendras que leer
+on-line via web
+
+
+> digo... ¿puedo? o los tengo  que  mirar  por  web,  cosa  que no haré por
+>  ser extremadamente molesta...
+
+No se que problema tuviste con softhome. Segun cual haya sido, y como tengaas
+configurado todo, se podra o no.
+
+ 
+> Otra  cosa:  qué  lenguaje de scripts hay para windon (digo, hay algún
+> análogo a los .bat de dos?)
+
+Los BATs de Windows son complemente analogos a los BAT de DOS. Es mas: son iguales.
+En WinNT tenes los scripts de cmd que son levemente mas poderosos y retrocompatibles.
+
+-- 
+Groucho
+
+
+
+

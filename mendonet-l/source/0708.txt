@@ -1,0 +1,66 @@
+From gabrielsublime@...  Sat Jul 11 23:23:58 2020
+Return-Path: <gabrielsublime@...>
+X-Sender: gabrielsublime@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 8 Dec 2002 00:59:27 -0000
+Received: (qmail 18550 invoked from network); 8 Dec 2002 00:59:27 -0000
+Received: from unknown (66.218.66.216)
+  by m3.grp.scd.yahoo.com with QMQP; 8 Dec 2002 00:59:27 -0000
+Received: from unknown (HELO muddy.fedped.com.ar) (200.80.38.162)
+  by mta1.grp.scd.yahoo.com with SMTP; 8 Dec 2002 00:59:26 -0000
+Received: (qmail 489 invoked from network); 8 Dec 2002 00:59:58 -0000
+Received: from unknown (HELO hasta-el-ojo) (192.168.109.14)
+  by 192.168.109.10 with SMTP; 8 Dec 2002 00:59:58 -0000
+Date: Sat, 7 Dec 2002 21:59:25 -0300
+X-Mailer: The Bat! (v1.61)
+Organization: Hasta el ojo
+X-Priority: 3 (Normal)
+Message-ID: <1692177711.20021207215925@...>
+To: "aldocop@..." <mendonet-l@...>
+Subject: Re[2]: hola, soy nuevo... y bastante boludito
+In-Reply-To: <courier.3DF28790.000074C8@...>
+References: <000f01c29646$617aa560$0e6da8c0@hastaelojo>
+ <12980.021128@...>
+ <000a01c29769$0d5aa600$0e6da8c0@hastaelojo>
+ <courier.3DF28790.000074C8@...>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Yahoo <gabrielsublime@...>
+Reply-To: Yahoo <gabrielsublime@...>
+X-Yahoo-Group-Post: member; u=131141227
+X-Yahoo-Profile: gabrielsublime
+
+Saludos aldocop,
+
+Saturday, December 7, 2002, 8:43:12 PM, usted escribió:
+
+
+asn> Bueno, algo se despertó el muñeco... y hablando de muñeco... qué carajo será 
+asn> de la vida... ¿no? 
+
+asn> Solo quiero agregar que "gabriel" tiene por dirección: 
+
+asn> "Garbrielsublime" y la puso en YAHOOOOO!!!! 
+
+asn> ¿Pagás por tu mail o lo levantás de web?? 
+
+no, no pago
+
+
+asn> Si mal no tengo entendido Yahoo suspendió su servicio gratuito indeterminado 
+asn> de POP...
+parece que no es asi
+si los bajo por POP
+pop.mail.yahoo.com.ar
+libre y gratuito
+asn> Lupus, viendo un poco más allá de lo evidente... 
+
+asn> PD: Qué buena estuvo la entrevista a Rico!! 
+
+
+-- 
+"Yo creo que la televisión está haciendo mucho por la cultura. En mi caso concreto cuando alguien enciende el televisor, me voy inmediatamente a otra habitación y me pongo a leer un libro."
+ (Groucho Marx)
+
+

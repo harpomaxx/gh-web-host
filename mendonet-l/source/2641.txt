@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 23 Nov 2001 23:42:44 -0000
+Received: (qmail 52201 invoked from network); 23 Nov 2001 23:42:44 -0000
+Received: from unknown (216.115.97.172)
+  by m5.grp.snv.yahoo.com with QMQP; 23 Nov 2001 23:42:44 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.19)
+  by mta2.grp.snv.yahoo.com with SMTP; 23 Nov 2001 23:42:42 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 167MKd-0005KI-00
+	for <mendonet-l@...>; Fri, 23 Nov 2001 16:49:51 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 167MKc-0005K7-00
+	for <mendonet-l@...>; Fri, 23 Nov 2001 16:49:50 -0300
+Date: Fri, 23 Nov 2001 16:49:50 -0300
+To: mendonet-l@...
+Subject: Re: Pa la lady marian...
+Message-ID: <20011123164950.S18521@...>
+References: <1682722451.20011122013541@...> <6580.011122@...> <1191552478.20011123023331@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <1191552478.20011123023331@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Fri, Nov 23, 2001 at 02:33:31AM -0300, Oxiuro wrote:
+
+> (cabalgata:  ______  ______  ______ ______  )
+>              |_|  |  |_|  |  |_|  | |_|  |
+>              | |  |  | |  |  | |  | | |  |
+>              0 0  0  0 0  0  0 0  0 0 0  0
+
+> Si alguna vez estudiaste musica en la secundaria sabras que es una
+> corchea y una semicorchea y como suena lo de arriba <es el molesto
+> ruido repetitivo de la cumbia realizado con los elementos de
+> percusion>
+
+Es verdad!! Realmente suena a cabalgata.
+Pep-tucu-pep-tucu-pep-tucu-pep
+
+-- 
+Groucho
+
+
+
+

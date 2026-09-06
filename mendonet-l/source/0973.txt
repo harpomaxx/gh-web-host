@@ -1,0 +1,92 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 4 Oct 2002 23:24:32 -0000
+Received: (qmail 59196 invoked from network); 4 Oct 2002 23:21:58 -0000
+Received: from unknown (66.218.66.217)
+  by m9.grp.scd.yahoo.com with QMQP; 4 Oct 2002 23:21:58 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 4 Oct 2002 23:21:56 -0000
+Received: (qmail 8234 invoked by uid 417); 4 Oct 2002 23:21:47 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 4 Oct 2002 23:21:47 -0000
+Received: from modem70-as1.mendoza.sinectis.com.ar ([216.244.255.70])
+  by softhome.net with esmtp; Fri, 04 Oct 2002 17:21:44 -0600
+Date: Sat, 28 Sep 2002 20:43:37 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <13863.020928@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmU6IERlc2Fmae10byBkZSBm7XNpY2Eu?=
+In-reply-To: <2594.020925@...>
+References: <2594.020925@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+Si,  son lo mismo, pero yo no redactaría la número 1 de ese modo... yo
+diría  que la fuerza de gravitacón que atrae a la luna hacia la tierra
+es  idéntica  a  la  fuerza  centrífuga  que  la  empuja en el sentido
+opuesto,  como  ambas  fuerzas  tienen  igual módulo y dirección, pero
+sentidos opuestos se anulan y no producen aceleración alguna.
+
+A  propósito...  a  modo de desafío... tengo algunas ideas que podrías
+agregar:
+
+1  dales  la masa de la tierra y la distancia de la tierra a la luna y
+preguntá  la  masa  de  la luna... (la velocidad angular de giro de la
+luna  es  un  dato  conocido). O dales las dos masas y preguntá por la
+distancia...
+
+A   propósito,  la  luna  tiene  una  cara  que  jamás  vemos  porque
+curiosamente  da un giro alrededor de sí misma en exáctamente el mismo
+tiempo  que  tarda en dar un giro alrededor de la tierra. En una época
+se  pensaba que ésto hasta era prueba de la existencia del altísimo...
+una  coincidencia  tan grande no podía ser otra cosa que la obra de un
+ente  conciente  y  poderoso...  después  se  halló  una  explicación
+considerablemente  mejor  a éste fenómeno... digo... a modo de desafía
+yo  no  lo  sacaría  ni  en  pedo...  la  respuesta  la leí después de
+deshilacharme los sesos...
+
+
+S> Paso a comentarles. Como algunos de ustedes sabrán estoy dando clases
+S> de física, química y biología en el curso de nivelación que de mi
+S> facultad a los aspirantes. En uno de los grupos que tengo han 
+S> coincidido varios alumnos/as cuya capacidad les permite llevar el
+S> curso con bastante facilidad, y además muy afectos a aprender, y hasta
+S> cierto punto, curiosos. A fin de aprovechar estas cualidades, he
+S> decidido ir un poco más allá de los alcances del curso(con su
+S> consentimiento) y en cada clase les planteo un "desafío" relacionado
+S> al tema que estamos viendo. Ahora estamos viendo gravedad y pensando
+S> en algún desafío que plantearles, me encontré con que el mismo
+S> cuadernillo les plantea uno. El tema es: ¿por qué la luna no cae
+S> sobre la tierra?. Imaginando posibles respuestas de mis alumnos y me
+S> encuentro con que no sé si estas dos que les presento son la misma...
+S> quisiera que ustedes rebatan o afirmen estas probables respuestas:
+S> - porque la aceleración que genera la fuerza gravitacional es apenas
+S> suficiente com aceleración centrípeta;
+S> - porque su velocidad tangencial(paralela a la superficie terrestre)
+S> hace que su caída, que sí se está produciendo, configure la órbita
+S> alrededor de la tierra.
+
+S> La segunda es la correcta, pero ¿es igual que la primera?
+S> Estoy seguro que me van a dar la primera, pero no me doy cuenta si es
+S> lo mismo, creo que sí, pero si ustedes pudieran confirmarlo...
+
+
+
+
+Lupus
+
+-- 
+
+"Cossette, al saberse hermosa, perdió la gracia de ignorarlo..." VH             
+
+
+

@@ -1,0 +1,49 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 17 Nov 2001 01:37:59 -0000
+Received: (qmail 86941 invoked from network); 17 Nov 2001 01:37:58 -0000
+Received: from unknown (216.115.97.171)
+  by m6.grp.snv.yahoo.com with QMQP; 17 Nov 2001 01:37:58 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta3.grp.snv.yahoo.com with SMTP; 17 Nov 2001 01:37:58 -0000
+Received: from a200042124026.rev.prima.com.ar ([200.42.124.26])
+  by softhome.net with esmtp; Fri, 16 Nov 2001 18:29:27 -0700
+Date: Fri, 16 Nov 2001 22:31:37 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Sebas <xebax@...>
+X-Priority: 3 (Normal)
+Message-ID: <15938.011116@...>
+To: Lady Marian <mendonet-l@...>
+Subject: Re[2]: Lupus y morganti de novios
+In-reply-To: <000201c16e94$2943aa00$9a4afea9@hfgg>
+References: <000201c16e94$2943aa00$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+
+>> > > El Arte de La Guerra --Teodore T'so. Capitulo 4.
+>> > Y ese chabón quién era ???!.
+>> Ciertamente existe un libro titulado  "El arte de la Guerra",
+LM> escrito por un
+>> militar chino del medioevo, y ciertamente ese libro contiene un
+LM> precepto
+>> acerca de lo conveniente de dividir al enemigo para vencerlo.
+LM> El autor de
+>> ese libro ciertamente se apellida T'so, pero Toedore T'so es un
+LM> mainteiner
+>> de Linux y de Debian.
+
+LM> Ah!... ¿Era un chiste?
+
+Ups! Me hicieron un chiste y lo tomé como algo serio... me lo
+explicaron y seguí sin darme cuenta... o mi nivel de comprensión
+es bajísimo, o el chiste fue demasiado malo.
+-- 
+Sebas   
+La vida es un largo embrutecimineto. La costumbre nos teje, diariamente, una telaraña en las pupilas; poco a poco nos aprisiona la sintaxis, el diccionario, los mosquitos pueden volar tocando la corneta, carecemos del coraje de llamrlos arcángeles, y cuando deseamos viajar nos dirigimos a una agencia de vapores en vez de metamorfosear una silla en un trasatlántico.                       
+
+
+

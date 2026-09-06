@@ -1,0 +1,55 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 6664 invoked from network); 22 Jul 2000 04:48:46 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 22 Jul 2000 04:48:46 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 22 Jul 2000 04:48:44 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.24 [200.41.21.24] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA07835 for <mendonet-l@egroups.com>; Sat, 22 Jul 2000 01:51:15 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id BAA01762 for <mendonet-l@egroups.com>; Sat, 22 Jul 2000 01:51:29 -0300
+Sender: federico@...
+Message-ID: <39792851.107DF488@...>
+Date: Sat, 22 Jul 2000 01:51:29 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.12 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: Para todos los...
+References: <Pine.LNX.4.04.10007210402090.10087-100000@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+harpo wrote:
+> 
+> On Tue, 18 Jul 2000, Cabeza wrote:
+> 
+> C>Sebas wrote:
+> C>>
+> C>> > recuerdo que habia una opcion por ahi, pero, no se.
+> C>> > Se me olvido porque hace mas de 2 años que no uso el winamp
+> C>> > y hace mas de dos años que deje de usar windows en mis PC.
+> C>> Para dar esas ayudas hermano... retiro todas las gracias quete había dado
+> C>
+> C>
+> C>Es verdad, pero sobre linux preguntame lo que quieras.
+> 
+> Cual es el tamanio en bytes del miembro de la estructura que representa
+> el PID???? :)))
+
+ja ja.. rebuscada la pregunta he? pero tendran que ser 16 bits.
+ya que el maximo de procesos es 65536
+
+> 
+> El Harpo!
+> 
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+Bienaventurados los pesimistas, porque a ellos les funcionaran los
+BackUp's
+

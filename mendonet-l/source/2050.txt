@@ -1,0 +1,60 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 2 Feb 2002 22:35:30 -0000
+Received: (qmail 19971 invoked from network); 2 Feb 2002 22:35:30 -0000
+Received: from unknown (216.115.97.172)
+  by m11.grp.snv.yahoo.com with QMQP; 2 Feb 2002 22:35:30 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.122.20)
+  by mta2.grp.snv.yahoo.com with SMTP; 2 Feb 2002 22:35:29 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16X720-0000XF-00
+	for <mendonet-l@...>; Sat, 02 Feb 2002 17:45:04 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16X71z-0000X4-00
+	for <mendonet-l@...>; Sat, 02 Feb 2002 17:45:03 -0300
+Date: Sat, 2 Feb 2002 17:45:03 -0300
+To: mendonet-l@...
+Subject: Re: Delirios =?iso-8859-1?Q?ininfundados?=
+	=?iso-8859-1?B?Li4uIL8uLi4/?= lo que hace el tiempo de ocio...
+Message-ID: <20020202204503.GR709@...>
+References: <00ab01c1a9a7$2629f100$060aa8c0@...> <9667.020201@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <9667.020201@...>
+User-Agent: Mutt/1.3.24i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Fri, Feb 01, 2002 at 04:00:52PM -0300, Lupus wrote:
+
+> >> GM> No seria mejor si queres que haya fruta gratis, destinar todo el costo
+> >> GM> que representan las desventajas que mencione, y hacer algo asi como
+> >> GM> una finca estatal? Y que trabajen los presos en ella?
+> >> Esa  también  es  una buena idea... aunque eso aumentaría el número de
+> >> presos  fugados...  ya  que  es  mas  difícil  cuidar a los presos que
+> >> trabajan con relativa libertad en un gran campo...
+> 
+> GM> Estarian supervisados estrechamente por guardias...
+> 
+> ¿Cuántos guardias necesitás para supervisar presos en un gran campo...
+
+0,5 por preso.
+
+> muchos  mas  de los que necesitás para supervisarlos en la carcel... y
+> si en la carcel por ahí se escapan... imaginate en el campo...
+
+En la carcel no les dan bola y la supervision no es "estrecha".
+Que clase de supervision estrecha les permite cavar tuneles?
+
+
+-- 
+Groucho
+
+
+
+

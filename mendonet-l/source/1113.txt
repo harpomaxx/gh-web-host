@@ -1,0 +1,197 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 16 May 2002 20:50:15 -0000
+Received: (qmail 23826 invoked from network); 16 May 2002 20:50:14 -0000
+Received: from unknown (66.218.66.218)
+  by m10.grp.scd.yahoo.com with QMQP; 16 May 2002 20:50:14 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.194)
+  by mta3.grp.scd.yahoo.com with SMTP; 16 May 2002 20:50:14 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 16 May 2002 13:50:14 -0700
+To: <mendonet-l@...>
+References: <OE75qFJ3sl3xbYiMCIq00000b3c@...> <E174twN-0005VU-00@...> <OE63tWfN3vSAMfKQu1b00000c2f@...> <E17744d-0004hR-00@...> <OE26odDres84CpICF5P00009739@...> <018801c1fb63$68ca3160$060aa8c0@...>
+Subject: Re: Re: ovulo con 2 nucleos? Aberracion?
+Date: Wed, 15 May 2002 02:57:19 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE59jmkp2KC3vo9bhe90000acf9@...>
+X-OriginalArrivalTime: 16 May 2002 20:50:14.0863 (UTC) FILETIME=[478075F0:01C1FD1B]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.192.82]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+----- Original Message -----
+From: "Groucho Marx" <groucho@...>
+To: <mendonet-l@...>
+Sent: Tuesday, May 14, 2002 1:21 PM
+Subject: Re: Re: ovulo con 2 nucleos? Aberracion?
+
+
+> > > > eso no lo sabia (lo de los gemelos), por lo que tengo entendido los
+> > > > gemelos univitelinos es cuando un ovulo (binucleado)
+> > > > es fecundado
+> > >
+> > > No soy el experto en el tema, pero si los gemelos son geneticamente
+> > > identicos es porque provienen de la combinacion del ADN de 1 ovulo con
+> > > 1 espermatozoide. No hay manera de que 1 espermatozoide fusione su
+> > > material genetico con el de 2 nucleos diferentes dentro de 1 ovulo. Si
+> > > hay 2 nucleos que fecundar, pue tendran que participar 2
+> > > espermatoziodes (o un espermatoziode binucleado?) Si fueran 2
+> > > espematozoides los gemelos geneticamente identicos serian casi
+> > > inobservables, lo cual contradice la realidad.
+> >
+> > no recuerdo que puse pero el ovulo binucleado es fecundado por dos
+> > espermatozoides, por supuesto
+>
+> Ok. Entonces que nazcan gemelos geneticamente identicos significa que:
+> 1) los 2 nucleos del ovulo binucleado tienen el mismo ADN
+> 2) los 2 espermatozoides que se fusionan cada uno con un nucleo tienen el
+> mismo ADN.
+>
+> Cada espermatoziode porta una seleccion aleatoria de alelos asi que la
+> cuestion 2 es de naturaleza estadistica. Sin realizar un calculo
+detallado,
+> esta claro que la probabilidad de que 2 espermatoziodes que porten el
+mismo
+> material genetico fecunden los 2 nucleos del ovulo binucleado es
+> infinitesimal.
+> Sobre la cuestion 1 no opino porque no se como se forman esos ovulos
+> binucleados.
+>
+>
+> > > Por lo tanto, en lugar de un ovulo binucleado, creo que estamos
+hablano
+> > > de un ovulo fecundado que se dividio en 2 celulas.
+> >
+> > no, es un ovulo binucleado, tengo bibliografia a tu disposicion, el
+libro
+> > de obstetricia, de todos modos verificare en otros libros, porque me
+> > parece que este libro es medio pedorro
+>
+> Explicame por que los gemelos univitelinos son consistentemente
+> geneticamente identicos. El mecanismo que explicas no parece que produzca
+> esos resultados.
+>
+>
+> > > Como sabras, las primeras mitosis del ovulo fecundado ocurren en
+rapida
+> > > sucesion y a expensas del material citoplasmatico del ovulo original.
+> > asi es
+> >
+> > > Otras celulas primero se dedican a crecer antes de dividirse. Tambien
+> > > sabras que las celulas hijas del ovulo, son no diferenciadas.
+> > asi es
+> >
+> > > Por lo tanto, una celula no diferenciada separada de la pelota de 2 a
+> > > 16 celulas en las que se divide el ovulo fecundado durante alguna de
+> > > las primeras 4 divisiones celulares es desde el punto de vista
+> > > logico equivalente a un ovulo fecundado mas chico.
+> > logico
+>
+> Si aceptas esas premisas, por que no aceptas el mecanismo que mencione de
+> formacion de gemelos?
+
+la acepto y es muy cierta, yo solo mencione otra que tenia dando vueltas por
+mis apuntes
+
+> > > > lugo el material embriologico se separa en dos masas, naciendo dos
+> > > > seres iguales,
+> > > Bueno, yo digo que si separas en 2 el material embriologico (la pelota
+> > > de celulas) antes de la 5ta division celular, tambien obtenes gemelos,
+> > > en numero de 2 a 16 segun en cuantas partes lo dividas.
+> >
+> > interesante
+>
+>
+> > > Asi es. Pero no entiendo el concepto de 1 ovulo con 2 nucleos.
+> > > Como se forma?
+> >
+> > primero partamos de que un ovulo puede ser fecundado por mas de un
+> > espermatozoide (excepcionalmente), solo que si los espermatozoide no
+> > encuentran material genetico del nucleo ovular con quien unirse el
+> > material genetico sobrante se pierde, que sucede si esoso
+> > espermatozoides encuentran
+>
+> Eso no es ser fecundado. Eso es que el espermatozoide ingresa dentro del
+> ovulo. La fecundacion es en escencia la combinacion del material genetico.
+> Salvo en el caso de Freddy Krugger cuya madre fue violada por 16 asesinos
+> fugados de la carcel y parece que heredo caracteristicas de los 16...
+
+cuando gigo material genetico me refiero al nucleo
+
+> > material genetico ovular para unirse. bueno, el proceso continua, ese es
+> > el caso de los ovulos binucleados, de todos modos eso es lo que dice mi
+> > libro de obstetricia,
+>
+> Pero por que hay 2 nucleos adentro del espermatozoide en primer lugar.
+> No es el resultado que uno esperaria de ma meiosis que da origen a los
+> ovulos.
+
+los dos nucleos estan en el ovulo
+
+>
+> > pero el libro de embriologia certifica tu teoria, es mas
+> > dice que cuando el cigoto (ovulo fecundado) se divide en dos celulas
+estas
+> > rompen sus uniones y se implantan por separado en el utero dando dos
+> > embriones iguales geneticamente, y para desempatar me fui al libro de
+> > genetica donde enuncia la misma teoria, por lo tanto descarto mi teoria
+> > del ovulo binucleado hasta encontrarla en otro bibliografia mas fiel
+>
+> Excelente.
+>
+>
+> > > > > Entonces, todo indicaria que el estado interno de cada una de las
+> > > > > 16 celulas en las que se ha divide el cigoto no ha cambiado
+> > > > > respecto del cigoto original, entonces si el cigoto original era
+> > > > > considerado unser humano, la pelota de 16 celulas pegadas deberia
+> > > > > considerarse como una pelota de 2 a 16 seres humanos siameses...
+> > > >
+> > > > ahi mi me cagaste, no se.................¿lo leiste o lo supones?
+>
+> Lo deduzco aplicando un poco de logica formal, por lo tanto la conclusion
+es
+> tan valida como las premisas.
+
+bien, vale
+
+>
+> > si esas celulas perdieran sus uniones antes del dia 10 post fecundacion
+y
+> > se implantaran por separado en el utero serian 16 seres humanos, pero
+> > solo seran siameses cuando la separacion del material embrionario
+> > sucediera despues del dia 13 post- fecundacion, con el riesgo de
+formarse
+> > por separado pero conectados por algun organo o tejido
+>
+> Whatever.
+> Dijimos que el numero de celulas no interesa al determinar si un
+determinado
+> objeto es un ser humano o no.
+> Entonces 1 cigoto es un ser humano, solo que aun no ha crecido lo
+> suficiente. 16 celulas indiferenciadas pero unidas podrian considerarse 16
+> seres humanos unidos, o sea siameses. O la union de los siameses debe ser
+> funcional) o sea compartir organos), en lugar de ser solamente tisular
+> (tener celulas pegadas).
+
+deben compartir organos
+
+>
+> > > > > Todas las discusiones, no solo esta: todas las discusiones entre
+> > > > > personas son discusiones dialecticas. En mundo no cambia: solo lo
+> > > > > que uno cree del mundo cambia.
+> > > > es cierto, fin de toda discusion
+>
+> No. Quiero que puienses del mundo lo mismo que yo.
+
+bueno, je,je
+

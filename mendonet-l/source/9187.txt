@@ -1,0 +1,41 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+Received: (qmail 31494 invoked from network); 1 Aug 2000 23:24:24 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 1 Aug 2000 23:24:24 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.230.130) by mta1 with SMTP; 1 Aug 2000 23:24:22 -0000
+Received: from elserver.micasa (harpo@... [192.168.1.3]) by elserver.micasa (8.8.7/8.8.7) with ESMTP id SAA26892 for <mendonet-l@egroups.com>; Tue, 1 Aug 2000 18:11:04 -0300
+Date: Tue, 1 Aug 2000 18:11:04 -0300 (WART)
+X-Sender: harpo@...
+To: mendonet-l@egroups.com
+Subject: Re: RIAA WINS!
+In-Reply-To: <3981B3C3.7B916B5B@...>
+Message-ID: <Pine.LNX.4.04.10008011809120.26725-100000@...>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+From: harpo <harpo@...>
+
+On Fri, 28 Jul 2000, Cabeza wrote:
+
+C>harpo wrote:
+C> 
+C>Bah, por que?? si el napster esta hecho para que los musicos sin
+C>muchos recursos puedan compartir sus creaciones en internet.
+
+Eso el lo que digo yo... es mas Manflora el sol, banda del rodro, esta usando
+mucho Napster para hacerse cononcer en Guyana Francesa.
+
+C>que puede tener eso de malo? 
+C>
+C>hablando en serio... hay un solo servidor de napster? no habra otro 
+C>rodando por ahi...
+
+Hay otros programas similares como GNUTELLA, o FREENET, que te permiten
+compartir no solo Mp3'z sino tambien muchas otras cosas mas. Lo bueno de estos
+es que no son centralizados como Napster.... habra que ver...
+Ahora otro Server Napster... me parece que no!
+
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+
+

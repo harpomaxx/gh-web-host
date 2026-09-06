@@ -1,0 +1,27 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 14 Nov 2000 11:11:31 -0000
+Received: (qmail 21484 invoked from network); 14 Nov 2000 11:11:29 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 14 Nov 2000 11:11:29 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta2 with SMTP; 14 Nov 2000 11:11:29 -0000
+Received: (qmail 2919 invoked by uid 722); 14 Nov 2000 11:11:20 -0000
+Date: 14 Nov 2000 11:11:20 -0000
+Message-ID: <20001114111120.2917.qmail@...>
+To: mendonet-l@egroups.com
+Subject: un artita del trapecio
+From: fcanizo@...
+
+El 10/11/00, Alejandro Gomez Talquenca le susurraba a mendonet-l@egroups.com:
+ 
+ AGT>Como seria coger en un trapecio?
+ AGT>
+ AGT>Seguramente incomodo, pero eso si, emocionante
+ 
+ Preguntale a "Un artista del trapecio" de Kafka.
+ 
+ 
+ 
+
+

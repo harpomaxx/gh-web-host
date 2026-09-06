@@ -1,0 +1,97 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 18 Jan 2002 18:11:48 -0000
+Received: (qmail 20460 invoked from network); 18 Jan 2002 18:11:48 -0000
+Received: from unknown (216.115.97.167)
+  by m11.grp.snv.yahoo.com with QMQP; 18 Jan 2002 18:11:48 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.95)
+  by mta1.grp.snv.yahoo.com with SMTP; 18 Jan 2002 18:11:46 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16Rde3-0004uF-00
+	for <mendonet-l@...>; Fri, 18 Jan 2002 15:21:43 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16Rde2-0004u4-00
+	for <mendonet-l@...>; Fri, 18 Jan 2002 15:21:42 -0300
+Date: Fri, 18 Jan 2002 15:21:42 -0300
+To: mendonet-l@...
+Subject: Re: Re[2]: Solo con el =?iso-8859-1?Q?Pueb?=
+	=?iso-8859-1?Q?lo_de_pie_se_levanta_la_Nacion=2E=2E?=
+	=?iso-8859-1?Q?=2E?= coma en Mc Donals !.
+Message-ID: <20020118182142.GE18478@...>
+References: <20020115171240.GK1130@...> <3899.020115@...> <20020118033741.20553.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20020118033741.20553.qmail@...>
+User-Agent: Mutt/1.3.24i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Fri, Jan 18, 2002 at 03:37:41AM +0000, ladymarian@... wrote:
+> 
+> Sebas writes:
+> 
+> > >> r> Eso es lo mejor. El resto es "Revoluci?n que viene en la Cajita
+> > >> r> Feliz".
+> > >> 
+> > >> Rodro, en esto no estoy con vos.... estuviste mal, desmovilizador y
+> > >> reaccionario... dejemos al mundo que se enga?e y ensa?e con las
+> > >> telef?nicas, aunque no les hagan nada, no contribuyamos a su imagen de
+> > >> indestructibilidad... ahora, seriamente, a m? tambi?n me molestan un
+> > >> poquito las "revoluciones a la disney" pero vos que est?s en el tema,
+> > >> y sac?ndote la camiseta de la empresa que s? que llev?s muy adentro...
+> > >> ?no hay ninguna maniobra de cajita feliz que sirva?
+> > GM> El fraude. hablar sin pagar.
+> > ?C?mo lo hago?
+> > 
+> > GM> El vandalismo: hacerles pagar reparaciones innecesarias.
+> > Eso no es revoluci?n de cajita feliz, pero acuerdo con ello. De hecho
+> > hoy ve?a en la tele los destrozos a bancos en jujuy, y pens? en todos
+> > los moralistas que saldr?an a condenar a "los violentos de siempre"...
+> > si no matan a nadie, destruir los bancos que nos cagaron y nos cagan
+> > deliberadamente me parece correcto y bueno.
+> 
+> Tan bueno como que si destruyen todos los bancos, mi viejo, yo y un mont?n
+> de amigos mios, nos quedar?amos sin laburo.
+> Si queres destruir, anda a las bases, a las raices... Los grandes jefes no
+> estan ni aqui ni en Jujuy, ni en Casilda, ni en la telefonica donde trabaja
+> el Rodro ?Que culpa tiene de todo esto un simple cajero juje?o,
+> desconocido, que ahora no tiene laburo?
+> ?Sabias que en Bs As se quedaron sin trabajo 250 personas que trabajaban en
+> los Musimundos que destruyeron? Ah!... Y que esas sucursales ni las piensan
+> arreglar, por lo menos, por hora?
+> Con todos estos quilombos, la verdad que se me esta despertando la veta
+> violenta, y tengo ganas de destruir algo o torturar a alguien... Pero nunca
+> lo haria con un EMPLEADO (bancario o del rubro que sea).
+> 
+> Y respecto a lo de los telefonos, vez pasada en la radio dijeron que habia
+> una forma de hacerles perder guita. No me acuerdo muy bien, pero lo que
+> habia que hacer era hacer una llamada larga distancia, pero no marcar el
+> ?ltimo n?mero, y dejar asi, descolgado. Vos no perd?s, porque al no marcar
+> el n?mero completo, nunca te comunica, pero no se que rollo hay, que los de
+> telefonica si pierden. 
+
+Que supuestamente cuando marcaste el prefijo de larga distancia y el numero
+de central, ellos ya enrutaron la llamada a la central de destino y tienen
+ocupados al pedo todos los enlaces necesarios entre tu central y la de
+destino. (Es mas divertido si la llamada es entre empresas distintas,
+digamos de Telefonica a Telecom, o Impsat o CTI o lo que te guste).
+Esos enlaces son finitos, y si logras ocuparlos todos entonces
+no solo no te pueden cobrar un centavo por una llamada que nunca hiciste
+en realidad sino que bloqueas cualquier otra llamada que si podrian
+cobrarle a alquien.
+
+Pero si no logras bloquearle los enlaces fue tiempo perdido.
+Solo en la retorcida mente de un contador no ganar es lo
+mismo que perder.
+
+
+-- 
+Groucho
+
+
+
+

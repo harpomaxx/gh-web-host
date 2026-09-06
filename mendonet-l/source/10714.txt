@@ -1,0 +1,65 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 10566 invoked from network); 19 May 2000 19:20:51 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 19 May 2000 19:20:51 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 19 May 2000 19:20:49 -0000
+Received: from ANTRO ([200.41.31.123]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id QAA29943 for <mendonet-l@egroups.com>; Fri, 19 May 2000 16:21:31 +0300 (GMT)
+Date: Fri, 19 May 2000 16:26:53 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <11685.000519@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Re[2]: Leer sucks!
+In-reply-To: <3923ACE2.93B91355@...>
+References: <3923ACE2.93B91355@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 18/05/2000, Mariana delirantemente puteó:
+
+>> M> Evidentemente en algún punto del proceso, la comunicación falló...
+>> 
+>> M> - ¿Emisor? - Todavía no estoy lista para una web-cam...
+>> M> - ¿Mensaje? - Simple, claro y conciso...  
+>> M> - ¿Receptor? - Carezco de autoridad para juzgar...
+>> 
+>> Y que hay del canal, el codigo y el ruido?
+
+M> OPS!... Ahora me agarraste vos a mi. Me acordé de ellos, pero la verdad
+M> que nunca los entendí bien. Sobre todo el Canal... ��Qu� #$%% es el
+M> Canal???... 
+
+Bueno, te imaginaras que cualquiera sea la naturaleza del proceso de
+comunicaciones, el mensaje se traslada desde el emisor al receptor de
+alguna forma, y esa forma tiene ciertas limitaciones y peculiaridades
+que deben tenerse en cuenta.
+
+Por ejemplo, en un medio impreso, el mensaje no puede ser interactivo.
+En un cable coaxil, debe usarse modulacion de radiofrecuencia, y asi
+por el estilo.
+
+El canal es el medio de comunicacion.
+En el caso de esto que te estoy diciendo, el canal de comunicacion (en
+forma abstracta) es una red de computadoras llamada Internet.
+
+
+>> Ahora no solo los periodistas y los sociologos sino tambien los
+>> artistas se creen que saben algo de comunicaciones!!!!!!
+>> Ratas!!!!
+
+M> HEY, Cerebro... Te cuento que en Artes Plásticas, tenemos en 4º año una
+M> materia anual que se llama Medios de Comunicación, en donde la primera
+M> unidad es todo Teoría de la Comunicación.
+M> OK, Ingeniero?
+
+zzz zzz zzz zzz zzz
+
+-- 
+Groucho Marx
+¡Vuelva prontos! -- Apu Ramubadasan
+
+
+

@@ -1,0 +1,37 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 18 Nov 2000 03:43:58 -0000
+Received: (qmail 74687 invoked from network); 18 Nov 2000 03:43:53 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 18 Nov 2000 03:43:53 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 18 Nov 2000 03:43:51 -0000
+Received: from antro.micasa ([200.41.31.4]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id VAA15244 for <mendonet-l@egroups.com>; Fri, 17 Nov 2000 21:39:10 -0300 (GMT)
+Date: Fri, 17 Nov 2000 00:55:24 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1538.001117@...>
+To: Morganti Federico <mendonet-l@egroups.com>
+Subject: Re[2]: Boicot al formato HTML!!
+In-reply-To: <OE64XCFbN4TZyabYTHr00000c6d@...>
+References: <OE64XCFbN4TZyabYTHr00000c6d@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 12/11/2000, Morganti Federico delirantemente farfulló:
+
+Pues yo creo que si.... No has vuelto a mandar un solo mensaje HTML.
+Lo que podes fijarte es en el caracter de quoteo (que deberia ser ">")
+y que los mensajes los responda siempre en texto sin formato (porque
+por ahi se puede poner que responda los mensajes en el formato en el
+que se refirieron).
+
+-- 
+Groucho Marx
+I am not a licensed hairstylist -- Bart Simpson
+
+
+

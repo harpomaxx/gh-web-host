@@ -1,0 +1,59 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 3868 invoked from network); 25 Jun 2000 22:26:28 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 25 Jun 2000 22:26:28 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 25 Jun 2000 22:26:27 -0000
+Received: from ANTRO ([200.41.31.124]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id TAA05640 for <mendonet-l@egroups.com>; Sun, 25 Jun 2000 19:27:08 +0300 (GMT)
+Date: Sun, 25 Jun 2000 03:05:41 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <15128.000625@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: Re[3]: La respuesta de Groucho a Sebas11
+In-reply-To: <6623.000622@...>
+References: <6623.000622@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 22/06/2000, Lupus angustiado puteó:
+
+LeL> El 6/21/2000 Sebas me decía:
+
+>>> Esto te va a gustar!!!!!
+>>>
+>>> Suponiendo que la formula que da la tasa de este impuesto progresivo
+>>> sea:
+>>>
+>>> i=a exp[-(B-200)/k)  (graficala y vas a ver que es como vos queres)
+>>>
+>>> donde:
+>>> k: constante arbitraria que define el ritmo de crecimiento de i
+>>> i: tasa de impuesto
+>>> B: beneficios o ganancias brutas
+
+LeL>  Momento! Si B>200 ==> la tasa es mayor que 1 osea más del 100% ¿o no?
+
+LeL> Solo  es  válido  para  valores  superiores  a  200, en rigor deberías
+LeL>  aclarar: para B>200 ==> i=0.
+
+LeL> (Solo ganas de joder...)
+
+Bueno, le agregue el -200 para que diera impuesto exactamente igual a
+0 si B=200. Como 200 es el sueldo minimo segun Sebas11, y para que la
+formula se vuelva mas generica y no quede lugar para tus correcciones
+de rompida de bolas, reemplacemos la constante 200 por el parametro SM
+llamado "sueldo minimo".
+Y si es el sueldo minimo, entonces no existe nada inferior. Entonces
+el dominio de la funcion que da el valor de i es B>SM y te tape la
+boca.
+
+
+-- 
+Groucho Marx
+Pura sangre como una morcilla
+
+
+

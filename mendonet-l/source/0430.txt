@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 13 Mar 2003 15:12:34 -0000
+Received: (qmail 39805 invoked from network); 13 Mar 2003 15:12:34 -0000
+Received: from unknown (66.218.66.217)
+  by m5.grp.scd.yahoo.com with QMQP; 13 Mar 2003 15:12:34 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta2.grp.scd.yahoo.com with SMTP; 13 Mar 2003 15:12:33 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18tUcq-00018s-00
+	for <mendonet-l@...>; Thu, 13 Mar 2003 12:28:08 -0300
+Message-ID: <3E709FD4.5020007@...>
+Date: Thu, 13 Mar 2003 12:12:20 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: que pasa?
+References: <3E660C77.9080602@...> <0879.030310@...>	 <3E6DDF47.10005@...> <courier.3E6FB00E.00004B56@...>	  <3E707786.1000900@...> <1047567125.18587.11.camel@stimpy>
+In-Reply-To: <1047567125.18587.11.camel@stimpy>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+cabeza wrote:
+> On Thu, 2003-03-13 at 09:20, Herr Groucho wrote:
+> 
+>>gaucho98@... wrote:
+>>
+>>>Hola es a mi a todos les pasa que solo les llega uno o dos mensajes por dia?
+>>>mis mensajes ya no llegan a la lista, y no me llegan la cantidad de emnsajes 
+>>>que me llegaba antes.
+>>>que pasa???
+>>
+>>Ya nada.
+>>Mira http://www.lugmen.org.ar/noticiafull.php?codigo=77 para mas detalles.
+> 
+> 
+> 
+> Eso quiere decir que desde ahora en más a gaucho98
+> además de uno o dos mensajes por día provenientes de
+> mendonet, le van a llegar un montón de mensajes del Lug?
+> 
+> claro, tal vez los mensajes del lug le hagan olvidar el poco
+> tráfico de mendonet, bien pensado! 
+
+Que lista es esta? Mendonet? OOps!!!
+
+-- 
+Groucho
+
+

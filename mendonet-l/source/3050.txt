@@ -1,0 +1,60 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 15 Nov 2001 01:51:58 -0000
+Received: (qmail 88852 invoked from network); 15 Nov 2001 01:51:58 -0000
+Received: from unknown (216.115.97.171)
+  by m11.grp.snv.yahoo.com with QMQP; 15 Nov 2001 01:51:58 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta3.grp.snv.yahoo.com with SMTP; 15 Nov 2001 01:51:57 -0000
+Received: from gateway.micasa.org.ar (200-41-21-121-tntmen1.impsat.net.ar [200.41.21.121])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA29284
+	for <mendonet-l@...>; Wed, 14 Nov 2001 22:57:38 +0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 164B3r-0006dm-00
+	for <mendonet-l@...>; Wed, 14 Nov 2001 22:11:23 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 164B3q-0006db-00
+	for <mendonet-l@...>; Wed, 14 Nov 2001 22:11:22 -0300
+Date: Wed, 14 Nov 2001 22:11:21 -0300
+To: mendonet-l@...
+Subject: Re: Re[6]: Che, lady marian.[hablando de coloradas]
+Message-ID: <20011114221121.H25154@...>
+References: <000201c16988$82540e20$b01529c8@darinka> <6540.011110@...> <001501c16a3d$cd43b380$7e1529c8@darinka> <20011111104303.C5939@...> <000001c16c5f$7919a020$f81529c8@darinka>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <000001c16c5f$7919a020$f81529c8@darinka>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Mon, Nov 12, 2001 at 11:48:04PM -0300, GAUCHO98 wrote:
+
+> > > bueno si lo que queres es que te de la razon, pues si tenes razon, no
+> > > literalmente multiples orgasmos, pero bueno se les llama asi, cuantas
+> > > cosas
+> > > hay en la vida que no son literalmente asi!! por ejemplo morirse de
+> > > risa, a quien conoces que se halla muerto de esta forma?
+> >
+> > Pelotudo, no hagas chistes con eso. Si un amigo tuyo en tu viaje de
+> > egresados
+> > se hubiera hubiera puesto a reir por un chiste que contaste, con tan mala
+> > suerte que justo estaba tragando un poco de hamburguesa, y por reirse el
+> > pedazo de hamburguesa le obstruyo la traquea, y se muriera asfixiado
+> > delante de todos, entonce no te estarias burlando.
+
+>  Bueno lo lamento por tu amigo, pero tampoco se murio de risa, se murio por
+> asfixia, o en tro caso se murio por culpa de la risa, que tampoco serai por
+> culap ade la risa sino por culpa del chiste.
+
+Cual es tu problema? Se murio asfixiado de risa, que es un caso particular
+de morirse de risa.
+
+-- 
+Groucho
+
+
+
+

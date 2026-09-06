@@ -1,0 +1,56 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 3 Jul 2002 23:56:02 -0000
+Received: (qmail 85460 invoked from network); 3 Jul 2002 23:56:02 -0000
+Received: from unknown (66.218.66.217)
+  by m15.grp.scd.yahoo.com with QMQP; 3 Jul 2002 23:56:02 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 3 Jul 2002 23:56:01 -0000
+Received: (qmail 31907 invoked by uid 417); 3 Jul 2002 23:56:01 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 3 Jul 2002 23:56:01 -0000
+Received: from SERVIDOR ([200.5.199.114])
+  by softhome.net with esmtp; Wed, 03 Jul 2002 17:55:59 -0600
+Date: Wed, 3 Jul 2002 20:53:58 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <5870.020703@...>
+To: mendonet-l@...
+Subject: Diez razones para no votar a Memen...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: rodralez <rodralez@...>
+Reply-To: rodralez <rodralez@...>
+X-Yahoo-Group-Post: member; u=3415981
+X-Yahoo-Profile: rodralez
+
+
+El lunes tenía turno para la dentista.
+
+Una vez en el consultorio la mina, entre pasadas de torno, me cuenta
+que todos sus insumos están dolarizados, pero que a la vez no puede
+subir el precio de las consulta. La charla derivó a lo mal que
+estamos, etc, etc... pero cuando me estaba por ir, la mina me pregunta
+por quien iba a votar y sin darme tiempo a contestar, ella se
+responde "yo creo que lo voy a votar a Memen".
+
+El ruido del torno fue menos iriente que esa frase. Sólo amagué a
+decir "yo no voto a mafiosos".
+
+La historia es que la mina me agarró en frío y no pude tirarle algunos
+argumentos más por los que no hay que votar al innombrable.
+
+Como sé que en mendonet hay gente que comparte mi asco, me gustaría
+que armáramos algo asi como "Diez razones para no votar a Memen" y de
+esa manera tener un speech armado si se nos cruza gente que lo quiere
+votar.
+
+Os escucho...
+
+rodralez
+
+
+

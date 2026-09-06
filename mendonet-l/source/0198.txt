@@ -1,0 +1,67 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 45576 invoked from network); 31 Aug 2003 20:01:26 -0000
+Received: from unknown (66.218.66.217)
+  by m10.grp.scd.yahoo.com with QMQP; 31 Aug 2003 20:01:26 -0000
+Received: from unknown (HELO vita.com.ar) (200.80.39.12)
+  by mta2.grp.scd.yahoo.com with SMTP; 31 Aug 2003 20:01:25 -0000
+Received: (qmail 7112 invoked by uid 64014); 31 Aug 2003 20:01:18 -0000
+Received: from rodralez@... by wega by uid 1004 with qmail-scanner-1.20rc1 
+ (avp: 4.0.2.2. spamassassin: 2.20.  Clear:RC:0:SA:0(-4.4/5.0 tests=IN_REP_TO version=2.20):. 
+ Processed in 0.68725 secs); 31 Aug 2003 20:01:18 -0000
+Received: from unknown (HELO SERVIDOR) (rodralez@...@200.41.21.197)
+  by ns1.vita.com.ar with SMTP; 31 Aug 2003 20:01:17 -0000
+Date: Sun, 31 Aug 2003 17:01:22 -0300
+X-Mailer: The Bat! (v1.62r)
+X-Priority: 3 (Normal)
+Message-ID: <986535260.20030831170122@...>
+To: Herr Groucho <mendonet-l@...>
+Subject: Re: Una pelicula acerca de nada
+In-Reply-To: <E19swMy-0000d1-00@...>
+References: <E19swMy-0000d1-00@...>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, hits=-4.4 required=5.0 tests=IN_REP_TO version=2.20
+X-Spam-Level: 
+From: rodralez <rodralez@...>
+Reply-To: rodralez forknet <rodralez@...>
+X-Yahoo-Group-Post: member; u=152320388
+X-Yahoo-Profile: rodralez
+
+Herr decía:
+
+HG> Acabo de ver Kamchatka, o como prefiero llamarla "Senfield", una 
+HG> pelicula acerca de nada.
+
+HG> Si no me creen, lean:
+HG> Viene el golpe militar de 1976. Se escapan de Buenos Aires a las 
+HG> afueras de Mar del Plata. Los echan del trabajo. Para perder el tiempo 
+HG> juegan al TEG, pero el padre siempre gana. Refugian a un mechudo de La 
+HG> Plata. van a visitar al abuelo en Tandil. Vuelven. El mechudo se tiene 
+HG> que ir tan misteriosamente como vino. Juegan otro partido de TEG, donde 
+HG> el hijo le gana todos los territorios al padre, excepto Kamchatka, que 
+HG> luego de varias horas, no puede conquistar.
+HG> Tienen que interrumpir el partido porque vienen los militares. Llevan a 
+HG> los hijos de vuelta a Tandil para que los cuide el abuelo. Ls padres se 
+HG> van, y nunca mas los vuelven a ver.
+
+HG> "Esa vez, mi papa me hablo de Kamchatka, y esa vez entendi. Kamchatka 
+HG> es el lugar a donde resistir". Fin.
+
+HG> Un cuadro costumbrista sin argumento.
+
+Ante todo, debo decir que la película me gustó.
+
+Creo que en el medio se te pasó como el chico iba armando o iba
+desentrañando la realidad que le tocaba vivir a traves de las series
+de TV que veía o de sus juegos.
+
+Para mi la pelicula muestra como un niño se adapta a la situación de
+mierda que le tocó pasar a partir de la represión del gobierno.
+
+rodralez                      
+
+

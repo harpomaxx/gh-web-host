@@ -1,0 +1,80 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 20 Nov 2001 23:13:55 -0000
+Received: (qmail 19158 invoked from network); 20 Nov 2001 23:13:53 -0000
+Received: from unknown (216.115.97.171)
+  by m4.grp.snv.yahoo.com with QMQP; 20 Nov 2001 23:13:53 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.67)
+  by mta3.grp.snv.yahoo.com with SMTP; 20 Nov 2001 23:13:51 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 166JpI-0000zT-00
+	for <mendonet-l@...>; Tue, 20 Nov 2001 19:57:12 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 166JpH-0000zI-00
+	for <mendonet-l@...>; Tue, 20 Nov 2001 19:57:11 -0300
+Date: Tue, 20 Nov 2001 19:57:10 -0300
+To: mendonet-l@...
+Subject: Re: Roxette
+Message-ID: <20011120195710.J3550@...>
+References: <20011112012117.F10342@...> <831045788.20011114004328@...> <20011114213622.D25154@...> <182683973.20011115022830@...> <20011115232851.F31811@...> <581248352.20011116022033@...> <20011117001050.H18473@...> <1741349091.20011118151641@...> <20011119202744.F31520@...> <772245751.20011120011953@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <772245751.20011120011953@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Tue, Nov 20, 2001 at 01:19:53AM -0300, Oxiuro wrote:
+
+> GM> Veo que mi poder de sintesis te supera...
+> GM> Si criolla no es igual a acustica entonces criolla es igual a que cosa?
+> 
+> 
+> GM> Mas claro (y verborragico y pedante):
+> GM> De haber estudiado y aprobado la materia Sistemas de Sonido, puedo
+> GM> afirmar sin temor a equivocarme que las guitarras que se usan en el folklore
+> GM> son acusticas. Segun vos, tambien son criollas.
+> nop, son criollas no acusticas.
+> 
+> GM> Por otro lado, las guitarras usadas en el rock no son acusticas, sino
+> GM> electricas, y segun vos, tampoco son criollas.
+> mmmmm, sep
+
+Acustica: porque la generacion de ondas se produce mediante elementos vibrantes
+mecanicos, exitados mecanicamente, que acoplan un medio gasesoso. Siendo ese el
+tema de estudio de la rama de la fisica llamada "Acustica", esos instrumentos
+son denominados "acusticos".
+ 
+> GM> Esos 2 ejemplos sugieren (por induccion) que en todas las guitarras, la
+> GM> calidad de "criolla" se da simultaneamente que la calidad de "acustica", como
+> GM> si ambos conceptos fueran equivalentes. (criolla=acustica).
+> 
+> GM> Si ese razonamiento inductivo resulta ser valido (formalmente no lo es, como
+> GM> toda induccion incompleta, pero materiamente puede serlo) entonces puedo 
+> GM> aprender que significa guitara criolla sabiendo solamente que significa 
+> GM> "guitarra acustica" y aplicando la equivalencia recien descubierta.
+> GM> Vos decis que tal equivalencia no es correcta, asi que estoy confundido
+> GM> respecto de que mierda es una guitarra criolla si es que no es lo mismo que
+> GM> una guitarra acustica.
+> 
+> Esto que te voy a decir no se cumple siempre (te gusto sebitas asi?)
+> Generalmente las guitarras criollas tienen cuerdas de nylon y una
+> forma muy conocida por todos, siendo su material la madera.
+> Las guitarras acusticas pueden tener, y de hecho casi siempre tienen,
+> cuerdas de acero, su forma varia saliendose del tradicional formato de
+> "8", y el material del que estan hechas puede ser madera o plastico, y
+> me imagino que bien sabras la diferencia de sonido que se produce al
+> tener una caja de madera o de plastico.
+
+Aha. Entonces las guitarras criollas son guitarras acusticas construidas con
+ciertos materiales.
+
+-- 
+Groucho
+
+
+
+

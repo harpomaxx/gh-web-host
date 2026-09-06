@@ -1,0 +1,78 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 10 Mar 2003 13:30:14 -0000
+Received: (qmail 3333 invoked from network); 10 Mar 2003 13:30:13 -0000
+Received: from unknown (66.218.66.218)
+  by m12.grp.scd.yahoo.com with QMQP; 10 Mar 2003 13:30:13 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 10 Mar 2003 13:30:11 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18sNaS-0006Fv-00
+	for <mendonet-l@...>; Mon, 10 Mar 2003 10:45:04 -0300
+Message-ID: <3E6C933E.1010906@...>
+Date: Mon, 10 Mar 2003 10:29:34 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: =?ISO-8859-1?Q?=BFMozilla=3F?=
+References: <3E6605AE.4050206@...> <17743.030307@...>
+In-Reply-To: <17743.030307@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+>>>Como consecuencia de tus comentarios sobre mozilla, lo bajé e
+>>>instalé, luego quise abrirlo.... tardó SIGLOS, sí SIGLOS en abrirse...
+> 
+> HG> Necesitas al menos 96 MB para que ande bien. COn 64MB es casi inusable.
+> 
+> Y con 24 ni hablar.
+
+Ouch.
+
+> 
+> HG> 6) Soporta la marca <BLINK> correctamente
+> ¿Y esto que quiere decir?
+
+Que si algun idiota hace una pagina con texto parpadeante, lo vas a ver 
+parpadeando, no fijo como con IE.
+
+
+> HG> 12) No agrupa en el concepto de "cuenta" el servidor SMTP
+> No entiendo.
+
+En el OE, configuras "cuentas". Una "cuenta" especifica un servidor 
+SMTP, un servidor POP3/IMAP y los datos personales.
+En Mozilla, los servidores SMTP van por un lado, y la informacion 
+personal y las cuentas POP3/IMAP van por otro. Es mejor asi pues el 
+servidor de correo SMTP depende usualmente de tu conexion, no de tu 
+direccion de correo.
+
+
+>>>¿Podrías comentarme porqué debería soportar semejante eterna espera
+>>>cada vez que quiero chequear mail o hacer algo en internet?
+> HG> Por las 25 razones expuestas antes, y porque tenes que darte cuenta que
+> HG> no es culpa de Mozilla que seas un raton que no tiene al menos 96MB.
+> Entiéndese por el lunfardo "ratón", una persona que no gasta por
+> tacaño. Yo no soy ratón, yo no gasto en más memoria por dos motivos:
+> 1- Cada vez que he tenido efectivo en mi poder, he tenido prioridades
+> que me han impedido volcarlo en dicho artículo.
+> 2- Mis necesidades están casi totalmente cubiertas por la precaria
+> máquina que poseo, y las escasas necesidades que no estén plenamente
+> satisfechas, son tan nimias que lindan con caprichos.
+
+Entonces Mozilla no es para vos. 24MB es demasiado poco para una 
+computadora de escritorio de 2003.
+
+-- 
+Groucho
+
+
+

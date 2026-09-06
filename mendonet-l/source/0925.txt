@@ -1,0 +1,45 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 3 Jun 2002 15:12:28 -0000
+Received: (qmail 38967 invoked from network); 3 Jun 2002 15:12:28 -0000
+Received: from unknown (66.218.66.217)
+  by m5.grp.scd.yahoo.com with QMQP; 3 Jun 2002 15:12:28 -0000
+Received: from unknown (HELO smtp3) (200.31.1.18)
+  by mta2.grp.scd.yahoo.com with SMTP; 3 Jun 2002 15:12:27 -0000
+Received: from lagruta (rdumen1-200.41.21.70 [200.41.21.70] (may be forged))
+	by smtp3 (8.9.3/8.9.3) with SMTP id MAA22608
+	for <mendonet-l@...>; Mon, 3 Jun 2002 12:19:18 +0300 (GMT)
+Message-ID: <011b01c20b12$04bb5d20$060aa8c0@...>
+To: <mendonet-l@...>
+References: <18783.020526@...> <4998.020603@...>
+Subject: =?iso-8859-1?Q?Re:_Putos_problemas_con_mi_suscripcion_a_yahoo_groups?=
+Date: Mon, 3 Jun 2002 12:19:11 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> Hay  una reunión sobre linux, según lo que alcancé a ver en unos mails
+> por  web...  ya  fue?  me  la  perdí?  me  interesa, si todavía no fue
+> cuéntenme cuándo es y donde, si ya fue... cuéntenme de qué se hablé...
+
+No me quede hasta las 5 de la mañana levantado haciendo esa pagina para que
+nadie la mire.
+Las respuestas a tus preguntas estan en
+http://www.linuxmendoza.org.ar/eventos/expo-2002/
+
+
+
+--
+Herr Grouchox
+
+
+

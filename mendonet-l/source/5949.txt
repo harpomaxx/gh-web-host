@@ -1,0 +1,64 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_2_0); 11 Jul 2001 07:08:13 -0000
+Received: (qmail 79620 invoked from network); 11 Jul 2001 07:08:13 -0000
+Received: from unknown (10.1.10.26) by l9.egroups.com with QMQP; 11 Jul 2001 07:08:13 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.89) by mta1 with SMTP; 11 Jul 2001 07:08:11 -0000
+Received: (qmail 5833 invoked by uid 1005); 10 Jul 2001 18:46:59 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.178738 secs); 10/07/2001 15:46:58
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3) by torton.micasa with SMTP; 10 Jul 2001 18:46:57 -0000
+Date: Tue, 10 Jul 2001 15:46:58 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain; charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <6833.010709@...> <6925.010709@...>
+In-Reply-To: <6925.010709@...>
+Subject: Re: Algo sobre mi =?iso-8859-1?q?pais=20de=20mierda?=
+MIME-Version: 1.0
+Message-Id: <01071015465800.00434@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 09 Jul 2001 22:13, escribiste:
+> >> ¿Podría alguien por favor decirme algo bueno de este lugar, o de
+> >> cualquier lugar en cualquier parte?
+>
+> r> Algo bueno que tiene este pais es que la universidad es gratuita.
+> ¿¿¿¿Gratuita?!?! Pagamos impuestos, ergo, educación "gratuita" es
+> mínimamente lo que nos deben dar...¿sino para qué pagás?
+
+Gratuita chiquito. No hay correlacion entre los impuestos y los 
+servicios que recirias en la universidad como contraprestacion.
+
+Ejemplo: pagas impuestos pero no se te da la gana de ir a la 
+uiversidad. Podes acaso presentar un formularo en algun lugar para 
+pagar menos impuestos? Ya se lo que vas a responder: estas pagando 
+impuestos porque la educacion superior de tus compatriotas mejora tu 
+pais y por lo tanto a vos.
+Entonces tengo este segundo ejemplo: yo estoy haciendo 2 carreras 
+universitaras. Pago mas impuestos? Tampoco. Deberia pagar mas impuestos?
+
+Pues a mi no me parece justo que paguen iguales impuestos los que van a 
+la unversidad y los que no, o los que van 2 veces.
+Lo mas sencillo de implementar es que todos contribuyan una parte a 
+traves de los impuestos generales y los directos interesados (los 
+estudiantes o sus familias) contribuyan el resto. Llamalo arancel, 
+llamalo impuesto educativo, o lo que sea.
+
+
+
+> Y gratuita,
+> no como en nuestro país donde a pesar de no tener que pagar una
+> cuota, la condición social de muchos los priva de la educación
+> universitaria.
+
+Realmente que gasto ocasiona la universidad, que no le permitan a 
+alguien asistir?
+Las fotocopias de los libros? El transporte? El tiempo que utilizas en 
+estudiar y no en ganar dinero?
+
+-- 
+Groucho Marx
+

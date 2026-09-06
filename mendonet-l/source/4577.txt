@@ -1,0 +1,115 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 27 Sep 2001 18:39:00 -0000
+Received: (qmail 78335 invoked from network); 27 Sep 2001 18:39:00 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.4.53 with QMQP; 27 Sep 2001 18:39:00 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.84)
+  by mta3 with SMTP; 27 Sep 2001 18:39:00 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 27 Sep 2001 11:38:59 -0700
+X-Originating-IP: [200.45.193.179]
+To: <mendonet-l@...>
+References: <1186050183.20010915000539@...> <0240.010916@...> <93828421.20010918153721@...>
+Subject: RE: Re[2]: ¿El islam hizo justicia?
+Date: Thu, 27 Sep 2001 15:33:58 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE27PcMFlF8HGmCvoXM000048bc@...>
+X-OriginalArrivalTime: 27 Sep 2001 18:38:59.0978 (UTC) FILETIME=[AC481EA0:01C14783]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Mensaje original -----
+De: "Oxiuro" <oxiuro@...>
+Para: "Lupus" <mendonet-l@...>
+Enviado: Martes, 18 de Septiembre de 2001 03:37 p.m.
+Asunto: Re[2]: ¿El islam hizo justicia?
+
+
+>
+> O>> 1- Si hablas de carga dinamica en si, analizada como estatica, facil,
+> O>> solo multiplicas la estatica por un coeficiente que depende entre
+> O>> otras cosas de la distancia entre la carga en reposo y el punto de
+> O>> aplicacion.   Fd=Fe*coef
+> O>> Luego haces un analisis estatico ordinario.
+>
+> L> Sip estaba pensando en esa...
+>
+> O>> De todos modos la pregunta de Groucho venia por otro lado, es asi o no
+> O>> groucho?
+>
+> L> Estaba pensando en lo siguiente: cuando se desplomó el piso 67 de la
+> L> segunda torre, a carga dinámica sufrida por el pedazo que quedaba
+> L> abajo debe haber sido, segun u ecuación, algo así:
+>
+> L> Fuerza recibida por la parte inferior=peso de la parte superior *
+> L> coeficiente que depende de la altura del piso que se desplomó y que
+> L> debe haber sido muy superior a uno.
+> En este caso debe haber sido superior a uno, pero no siempre lo es.
+>
+> L> Luego de que el daño causado por el impacto del avión terminó por
+> L> derribar el piso 67, la carga dinámica se encargó de derribar el resto
+> L> del edificio en unos segundos, aún cuando solo un par de pisos estaban
+> L> en llamas, el resto conservaba su rigidez habitual.
+>
+> Grave error mi ingeniero amigo, la carga dinamica en este caso no tuvo
+> importancia, solo sirvio para ver cuanto valia la carga gravitatoria
+> que cayo sobre el piso inferior al caersele el superior encima.
+> El impacto del avion fue como un "impulso" (recordas carga impulsiva?)
+> o sea, el tiempo de duracion de la carga dinamica fue mucho menor que
+> el periodo propio de la torre con lo cual no tiene significado, se
+> puede tomar como estatica.(en realidad la duracion de la carga debe
+> haber sido muchisimo menor a varias decenas de periodos)
+>
+> La carga dinamica se usa mas que nada para analizar
+> frente a distintos acelerogramas o fuerzas variables en el tiempo o
+> fuerzas con cierta frecuencia, el impacto que puede tener sobre la
+> estructura y ver si en algun momento de la misma alguna parte entra en
+> resonancia. Lo que aca paso si se tuviese que analizar en algun
+> programa, colocar una carga estatica a la altura del choque, y segundo
+> hacer un analisis de transferencia de calor desde el punto de choque
+> hacia todos lados, ya que fue el fuego el causante de la caida.
+>
+> Si bien muchos pisos conservaban la rigidez  inicial o elastica, se
+> puede asimilar a un tipico caso de "piso debil" muy habitual para que
+> se den cuenta aca en mendoza donde las plantas bajas tienen vidrieras
+> y pocas columnas o muros y los pisos superiores poseen gran cantidad
+> de muros, debido a que hay oficinas o departamentos, eso genera una
+> "discontinuidad estructural", en las torres al perder rigidez unos
+> pisos por el fuego, sobreexigio a los demas pisos mas alla de su limite
+> elastico, superando la sobrerresistencia y concluyendo en un colapso.
+>
+> Para que te des una idea lupus, si el problema hubiese sido dinamico
+> las torres se hubiesen caido a los minutos o segundos del impacto, o
+> sea, choca el avion, la torre vibra, saca de servicio a un piso, se
+> sobreexigen los pisos restantes, colapso.
+> Sin embargo, las torres permanecieron en pie mas de una hora, claro
+> ejemplo de que fue un colapso progresivo causado por la fatiga del
+> material debido al fuego.
+>
+> Para finalizar, si el avion no hubiese llevado los tanques llenos y no
+> se hubiese producido tanto fuego las torres seguirian en pie.
+>
+> Si queres visualizarlo, toma una regla, colocala vertical, ponele un
+> peso en el extremos superior (ej. bola de plastilina) sotenela
+> fuertemente en la parte inferior y pegale con el dedo arriba, la regla
+> no va a vibrar, ahora, comenza a mover la mano que la sostiene
+> lentamente hacia los costados y vas a ver que la parte de arriba
+> comienza a vibrar, asi podes ver la diferencia entre "carga impulsiva"
+> (golpe con el dedo) y "carga dinamica" (movimiento en la base), para
+> que sea bien notorio, trata de que la regla sea larga.
+>
+> Lo entendiste sebitas o te lo explico con manzanitas???
+
+
+todo esto me aburre, prefiero lo de las manzanitas
+

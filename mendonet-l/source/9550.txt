@@ -1,0 +1,43 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 14634 invoked from network); 19 Jul 2000 01:59:25 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 19 Jul 2000 01:59:25 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 19 Jul 2000 01:59:23 -0000
+Received: from ANTRO ([200.41.31.126]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA00106 for <mendonet-l@egroups.com>; Tue, 18 Jul 2000 23:01:46 +0300 (GMT)
+Date: Tue, 18 Jul 2000 23:03:17 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <15960.000718@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: Para todos los...
+In-reply-To: <001801bfef6b$8c25f460$ae7d2ac8@tepes>
+References: <001801bfef6b$8c25f460$ae7d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 16/07/2000, Sebas confiado murmuró:
+
+>> no soy un tipo copado que sabe mucho de comput~1, pero
+>> tendrias que ver en las opciones que trae tu winamp porque
+>> te debe estar mostra~1 el nombre del archivo en lugar
+>> del tag que esta dentro del archivo.
+S> ¿Podrías ser un poco más específico y decirme exactamente qué debo corregir?
+S> Gracias de nuevo, pero no tanto como las anteriores.
+
+No. Son cagadas. Primero, casi ningun archivo MP3 tiene completamente
+rellenado el ID TAG que el menciona, y segundo, el nombre de archivo
+es mucho mas visible y manejable y en un sistema operativo decente,
+existirian decenas de herramientas capaces de manipular archivos en
+base a su nombre, y 0 o tal vez 1 capaz de manipular solo una pequeña
+parte de todos los archivos en base al MP3 ID TAG.
+
+
+-- 
+Groucho Marx
+He sido de todo en mi vida: traficante de marfil, presidente de la FOX...
+
+
+

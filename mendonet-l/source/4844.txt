@@ -1,0 +1,37 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2_2); 26 Sep 2001 23:50:30 -0000
+Received: (qmail 88574 invoked from network); 26 Sep 2001 23:50:29 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.222 with QMQP; 26 Sep 2001 23:50:29 -0000
+Received: from unknown (HELO n2.groups.yahoo.com) (10.1.10.41)
+  by mta1 with SMTP; 26 Sep 2001 23:50:29 -0000
+X-eGroups-Return: rodralez@...
+Received: from [10.1.10.116] by hi.egroups.com with NNFMP; 26 Sep 2001 23:50:29 -0000
+Date: Wed, 26 Sep 2001 23:50:26 -0000
+To: mendonet-l@...
+Subject: Re: Algo malo pasa
+Message-ID: <9otpk2+6puq@...>
+In-Reply-To: <20010926223124.29616.qmail@...>
+User-Agent: eGroups-EW/0.82
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Length: 206
+X-Mailer: eGroups Message Poster
+X-Originating-IP: 200.41.31.54
+From: "Rodralez" <rodralez@...>
+
+--- In mendonet-l@y..., Recabarren@s... wrote:
+> 
+> ...
+
+No me ha llegado un email de mendonet.
+Estoy contestando en linea.
+
+Me parece que debe haber problemas entre Softhome y Yahoo... otra vez.
+
+rodralez
+
+

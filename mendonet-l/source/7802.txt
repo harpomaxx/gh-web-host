@@ -1,0 +1,36 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 27 Oct 2000 17:32:42 -0000
+Received: (qmail 30458 invoked from network); 27 Oct 2000 17:31:02 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 27 Oct 2000 17:31:02 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.12) by mta3 with SMTP; 27 Oct 2000 17:31:00 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id OAA06909 for mendonet-l@egroups.com; Fri, 27 Oct 2000 14:07:46 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Fri, 27 Oct 2000 14:07:46 -0300
+To: mendonet-l@egroups.com
+Subject: Re: Otra vez...
+Message-ID: <20001027140746.F6865@...>
+References: <004601c03de1$58d27f60$ce7d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <004601c03de1$58d27f60$ce7d2ac8@tepes>; from xebax@... on Tue, Oct 24, 2000 at 01:40:53PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-head: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Tue, Oct 24, 2000 at 01:40:53PM -0300, Sebas dijo:
+> Che gentes, alguien podría decirme algo sobre el problema que paso a detallar?
+> Cada vez que abro un documento de word, me dice que no hay espacio en el disco(quedan 710 Mb) y que deberé guardarlo en otra unidad. Per oese cartelito no me rompe tanto las pelotas, es decirleque sí y pasar a otro tema, lo que me jode es que no me deja guardar los documentos que uso por primera vez de una manera que no sea una plantilla. Existe la posibilidad de que sea un virus, pero quería saber si puede ser alguna otra cosa.
+
+Entregate Sebas... LAS PCS TE ODIAN!!!!!!!!
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

@@ -1,0 +1,145 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 28 Nov 2001 17:01:38 -0000
+Received: (qmail 69637 invoked from network); 28 Nov 2001 17:01:35 -0000
+Received: from unknown (216.115.97.171)
+  by m4.grp.snv.yahoo.com with QMQP; 28 Nov 2001 17:01:35 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta3.grp.snv.yahoo.com with SMTP; 28 Nov 2001 17:01:35 -0000
+Received: from a200042124018.rev.prima.com.ar ([200.42.124.18])
+  by softhome.net with esmtp; Wed, 28 Nov 2001 09:51:29 -0700
+Date: Wed, 28 Nov 2001 13:58:40 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Sebas <xebax@...>
+X-Priority: 3 (Normal)
+Message-ID: <4582.011128@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: Re[4]: boludoso
+In-reply-To: <01a701c17825$162f3480$060aa8c0@...>
+References: <01a701c17825$162f3480$060aa8c0@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+
+
+GM> Pero los programas chotos no los haces en C, o C++... Los haces en Perl,
+GM> sed, awk, o shell scripting, o si te gustan las cosas nuevas en Python o
+GM> PHP.
+GM> Y no estoy de acuerdo en que el manejo de punteros sea bastante molesto.
+GM> Lo que puede ser molesto es el manejo de la memoria asignada dinamicamente,
+GM> pero en C++ se simplifica bastante debido a la introduccion de los
+GM> operadores
+GM> unarios new y free, mas toda la parafernalia orientada a objetos.
+
+>>  es  más...  imagino  que  debe  ser  mecha  empezar a
+>> trabajar  con  punteros  solo a partir de programas de una envergadura
+>> considerable... a los que nunca creo que accederé...
+
+GM> Es correcto eso. Mientras mas sofisticado un programa, mas y mas atractivo
+GM> puede ser el uso de punteros.
+GM> De todas formas, cuando sabes usar los punteros y estas en un lenguaje al
+GM> cual se los quitaron te da por las bolas no poder usarlos.
+
+
+>> >> no se puede crear una máquina virtual que emule también eso?
+>> GM> Si, por supuesto. Pero seria una maquina virtual de Lupus, no de Java.
+>>
+>> >> y nunca vi que
+>> >> permitieran   realmente  hacer  algo  que  fuese  imposible  con  las
+>> >> instrucciones tradicionales...
+>>
+>> GM> Por eso el Java funciona, porque igual podes hacer todo.
+>> GM> Turing demostro que cualquier programa puede realizarse disponiendo de
+>> GM> solo 3 instrucciones:
+>> GM> sumar 1
+>> GM> saltearse la siguiente instruccion si el resultado de la operacion
+GM> anterior no es 0.
+>> GM> ir a la direccion de memoria x
+>> Si... pero lo quiero ver a ese turin programando...
+
+GM> Te sorprenderias... El tipo fue un genio. Entre otras cosas creo las
+GM> bases teoricas de la inteligencia artificial.
+
+>> A propósito: cuántas instrucciones tiene assembler? bueno... empecemos
+>> por algo más básico: assembler: ¿tiene instrucciones?...
+
+GM> Assembler significa 2 cosas:
+GM> 1) Es un lenguaje de programacion que tiene la particularidad de que cada
+GM> una
+GM> de sus intrucciones se corresponde con alguna de las operaciones que el
+GM> procesador puede realizar
+GM> 2) Es el compilador que lee un programa escrito en lenguaje assembler y
+GM> genera el programa correspondiente en lenguaje de maquina.
+
+GM> Cada instruccion indica al procesador hacer una operacion
+GM> sencilla del estilo de: leer un registro, sumar 2 registros, leer una
+GM> direccion de
+GM> memoria y cosas asi. Lo mas complicado que puede haber seria: tomar 2
+GM> numeros reales de la pila, elevar el primero a la potencia indicada por el
+GM> segundo
+GM> y guardar el resultado de vuelta en la pila.
+
+GM> En realidad hay 2 tipos de procesadores segun su juego de instrucciones:
+GM> RISC: reduced instruction set computing
+GM> CISC: complex instruccion set computing
+
+GM> La ventaja de RISC es que tiene pocas instrucciones, (de 20 a 60) las cuales
+GM> son muy ortogonales (o sea: todas las instrucciones tienen los mismos modos
+GM> y variedades),
+GM>  y simples de decodificar, de manera que se puede usar la misma palabra de
+GM> instruccion para
+GM> activar cada elemento interno del procesador (data path) y la ejecucion de
+GM> la instruccion
+GM> es muy rapida, tipicamente 1 instruccion por ciclo de maquina.
+GM> La ventaja de CISC es que al tener instrucciones mas poderosas, se pueden
+GM> escribir programas mas cortos, y debido a que el acceso a memoria es
+GM> definitivamente
+GM> la operacion mas lenta de todas las que realiza el procesador, ahorrar
+GM> accesos a memoria
+GM> es una buena idea.
+GM> Debido a que una instruccion CISC requiere por lo general de muchas
+GM> operaciones internas,
+GM> la secuencia de operaciones que corresponde a una instruccion CISC esta
+GM> almacenada en
+GM> una memoria interna del procesador. Esa memoria contiene el programa
+GM> expresado en
+GM> "microcodigo" que es necesario ejecutar por cada instruccion CISC.
+GM> Los procesadorses CISC suelen reconocer entre 600 y 2000 instrucciones.
+
+GM> Cual es mejor, depende de que parte de la tecnica este mas desarrollada
+GM> en un momento particular: si la memoria de muy alta velocidad mejora, CISC
+GM> se
+GM> vuelve mejor, si la logica de control y los compiladores mejoran, RISC se
+GM> vuelve
+GM> mejor.
+GM> Hoy por hoy se cree que RISC es mejor, hace 20 a�nos, eran mejores los CISC.
+GM> Como todo procesador fabricado por Intel mantiene compatibilidad con el 8088
+GM> de 1979, resulta que los procesadores actuales son CISC por fuera pero
+GM> internamente
+GM> descomponen las instrucciones CISC en instrucciones reducidas (pero que no
+GM> son
+GM> RISC porque requieren aun microcodigo). La idea es poner un conversor de
+GM> CISC
+GM> retorcido y feo a CISC bonito y amigable con RISC.
+GM> La idea es poder reordenar o elimiar las instrucciones CISC intermedias,
+GM> para
+GM> aumentar posibilitar de poder realizar varias operaciones RISC internas
+GM> simultanemente.
+GM> Tal reordenacion no se puede hacer con las instrucciones CISC que llegan
+GM> desde
+GM> afuera porque cambaria el significado del programa.
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+
+Creo que entre esta y otra charla que hay por ahí de la misma índole,
+han sumergido a mendonet en su etapa más aburrida desde que estoy.
+
+
+-- 
+Sebas   
+Quien sacrifica la libertad en nombre de la seguridad no merece la libertad ni la seguridad. (Benjamin Franklin, más de dos siglos antes de las recientes leyes antiterroristas.)                       
+
+
+

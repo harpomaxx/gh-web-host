@@ -1,0 +1,51 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 16389 invoked from network); 18 Aug 2003 14:29:19 -0000
+Received: from unknown (66.218.66.217)
+  by m20.grp.scd.yahoo.com with QMQP; 18 Aug 2003 14:29:19 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 18 Aug 2003 14:29:18 -0000
+Received: (qmail 10210 invoked by uid 417); 18 Aug 2003 14:29:18 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 18 Aug 2003 14:29:18 -0000
+Received: from dup-200-42-124-36.prima.net.ar ([200.42.124.36])
+  (AUTH: PLAIN xebax@...)
+  by softhome.net with esmtp; Mon, 18 Aug 2003 08:29:16 -0600
+Date: Mon, 18 Aug 2003 10:36:50 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <15442.030818@...>
+To: Herr Groucho <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbMl06IENoYXJy+mEgc2UgcHJlc2VudGE=?=
+In-reply-To: <E19nTrA-0000dR-00@...>
+References: <E19nTrA-0000dR-00@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> Este es mi mail de presentación. Uruguaya en Montevideo, 25 años bien
+>> llevados
+
+HG> Hummm... "25 años bien llevados" es un eufemismo para...?
+HG> Cual es tu problema? Cuantas formas distintas hay de tener 25 años?
+
+Por lo que se desprende de lo que seguía, pueden llevarse caminando o
+rodando... esta chica hace su esfuerzo por llevarlos caminando.
+
+HG> Trabajo diseñando sistemas microcontrolados (por lo que me pagan mas
+HG> dinero del que necesito), vivo con mi novia y un gato
+
+Qué envidia! Y uno que se conforma con tenerlas de a una...
+
+
+-- 
+Sebas   
+Los piqueteros no quieren destruir el sistema, quieren entrar en él. Carlos Auyero.                       
+
+
+

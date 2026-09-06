@@ -1,0 +1,74 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 18 Dec 2000 23:24:19 -0000
+Received: (qmail 94372 invoked from network); 18 Dec 2000 23:24:18 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 18 Dec 2000 23:24:18 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta2 with SMTP; 18 Dec 2000 23:24:18 -0000
+Received: (qmail 6680 invoked by uid 417); 18 Dec 2000 23:28:02 -0000
+Received: from unknown (HELO 200.41.31.112) (200.41.31.112) by smtpb.softhome.net with SMTP; 18 Dec 2000 23:28:02 -0000
+Date: Mon, 18 Dec 2000 20:29:45 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <7853.001218@...>
+To: mendonet-l@egroups.com
+Subject: Re: [off topic]: Historia lame
+In-reply-To: <1876.001217@...>
+References: <1876.001217@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Monday, December 18, 2000, 1:50:18 AM, you wrote:
+
+GM> Hoy arme mi cuarta computadora (con piezas que un cliente iba a tirar
+GM> a la basura, trozos en desuso del trabajo, piezas que me prestaron
+GM> hace tiempo y no han venido a buscar y una que otra pieza nueva
+GM> comprada por mi vieja).
+GM> La maquina es para ella, que esta obnubilada por unos programas
+GM> ñoños que yo nunca hubiera traido a mi casa pero que ella vio en la
+GM> computadora de una compañera de trabajo. Me refiero al Print Master
+GM> y al Word 9 (o 2000, como les guste).
+GM> Por lo tanto me fue imposible meterle GNU/Linux de prepo (falta de
+GM> espacio para 2 sistemas operativos en el disco).
+
+GM> Luego de luchar contra el insipido instalador de Office 2000 y
+GM> reistalar Windows 2 veces, hoy a la tarde deje la maquina lista.
+GM> La enchufe a la red, arregle mi server DHCP y DNS, y cuando todo
+GM> estuvo listo me puse a repasar para mi examen del lunes.
+
+GM> 2 horas despues, algo o alguien se llevo puesto el cable de red
+GM> provisoriamente tendido, tirando al suelo la maquina y convirtiendo el
+GM> disco rigido en queso gruyere.
+
+GM> 5 mentarios.
+
+    comentario 1: el cable de red provisoriamente tendido pasaba por encima de la cucha de la
+                  perra Inga.
+    Comentario 2: te dije es peligroso poner el cable así esper� a
+                  poner el cable por el lugar que corresponda y de la forma
+                  definitiva.
+    Comentario 3: tu mamá te dijo gritando furiosamente ese cable no
+                  puede estar all� no se puede pasar esto es un
+                  quilombo. bla bla bla.
+    Comentario 4: te dije tene cuidado que la perra quiere hacer uso
+                  de su camita,porque no corres la cucha de all� momentáneamente.
+    Comentario 5: la perra dijo me voy a dormir, uhy que es esto un
+                  obstaculo lo voy a saltar, ouch tire todo que cagada
+                  huyamos.
+
+     La muerte de un disco rígido en manos de un porfiado en
+     5 comentarios
+     
+-- 
+  nadie, apoltronado en la tibieza de una vida timorata,
+  puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                            
+
+
+

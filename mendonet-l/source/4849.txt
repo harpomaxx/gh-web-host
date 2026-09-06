@@ -1,0 +1,60 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 16:01:15 -0000
+Received: (qmail 67979 invoked from network); 19 Sep 2001 16:01:15 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.1.222 with QMQP; 19 Sep 2001 16:01:15 -0000
+Received: from unknown (HELO elserver.micasa) (200.5.199.16)
+  by mta3 with SMTP; 19 Sep 2001 16:01:16 -0000
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id MAA17229
+	for mendonet-l@...; Wed, 19 Sep 2001 12:46:09 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Wed, 19 Sep 2001 12:46:09 -0300
+To: mendonet-l@...
+Subject: Re: Cad del orrrto.....
+Message-ID: <20010919124609.B17177@...>
+Reply-To: harpo@...
+References: <3BA11C45.24136.531DF@localhost> <000001c13e25$37f68760$7c8d3dc8@darinka> <01091815121304.00460@cubil>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <01091815121304.00460@cubil>; from groucho@... on Tue, Sep 18, 2001 at 03:12:13PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.19 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+El Tue, Sep 18, 2001 at 03:12:13PM -0300, Groucho Marx dijo:
+> El Vie 14 Sep 2001 17:10, escribiste:
+> 
+> > Te agarre!!
+> > Ese mail fue enviado con el Outlook Express, como bien dice el
+> > header.
+> >
+> >  SI y..... cual es el problema??? es el que encontre a mas a mano, y
+> > ni loco me iba a poner a leer todos los mail en linea desde mi
+> > webmail, esto fue lo primero que hagarre y te confieso que es la
+> > primera vez que lo uso, no me gusta ningun programa de email, que no
+> > se en linea o webmail, puesto que en cuanto caiga un virus, los que
+> > cagaron son todos los de mi liost mail jajajjaa asique cuidensen o me
+> > recomiendan algun otro mejor.  chau
+> 
+> Absurdo. Los virus no "caen" solos sino que alguien generalmente 
+> incompetente los activa culposamente.
+
+Si usas OE, se pueden llegar a ejecutar automaticamente debido a un bug
+interno de OE. Mi viejo recibio una linda copia de Haptime.A y me temo que voy
+a tener que reinstalarle todo de nuevo....
+
+Segun lo que estuve leyendo en CNET, Haptime.A es un gusano que aprovecha
+fallas de seguridad de OE para ejecutarse automaticamente...extranio no?
+Ah.. y infecta HTML, ASP,HTT.. y borra los .EXE y .DLL ciertos dias del anios.
+
+Tenes info al respecto?? mandamela please!
+
+-- 
+Harpo+
+

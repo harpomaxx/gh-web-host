@@ -1,0 +1,43 @@
+From recabarren@...  Sat Jul 11 23:23:58 2020
+Return-Path: <recabarren@...>
+X-Sender: recabarren@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 11 Oct 2001 16:53:36 -0000
+Received: (qmail 30689 invoked from network); 11 Oct 2001 16:53:35 -0000
+Received: from unknown (10.1.10.27)
+  by m8.onelist.org with QMQP; 11 Oct 2001 16:53:35 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (66.54.152.30)
+  by mta2 with SMTP; 11 Oct 2001 16:53:35 -0000
+Received: (qmail 23288 invoked by uid 417); 11 Oct 2001 16:15:58 -0000
+Message-ID: <20011011161558.23287.qmail@...>
+References: <1241689444.20011009202228@...>
+            <16484.011010@...>
+            <3BC4A9AE.2CE6CCD0@...>
+            <20011010225459.G13391@...>
+In-Reply-To: <20011010225459.G13391@...>
+To: mendonet-l@...
+Subject: Re: Una respuesta, plis
+Date: Thu, 11 Oct 2001 16:15:58 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Sender: recabarren@...
+From: Recabarren@...
+
+
+Groucho Marx writes:
+
+> On Wed, Oct 10, 2001 at 05:03:58PM -0300, Santiago Imazio wrote:
+> 
+> > A ver los expertos:
+> > Donde estan los mensajes viejos de mendonet?
+> > Porque si buscas  mendonet en yahoogroups te dice que no existe?
+> 
+> Es correcto. La lista se llama mendonet-l, no mendonet.
+> 
+> Groucho
+> 
+> No chico listo, tampoco existe mendonet-l
+ 
+  Y antes con mendonet bastaba.
+

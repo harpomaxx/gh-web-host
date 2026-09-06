@@ -1,0 +1,43 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 24897 invoked from network); 16 Aug 2000 16:18:53 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 16 Aug 2000 16:18:53 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 16 Aug 2000 16:18:51 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.40 [200.41.21.40] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA10458 for <mendonet-l@egroups.com>; Wed, 16 Aug 2000 13:21:29 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id NAA16492 for <mendonet-l@egroups.com>; Wed, 16 Aug 2000 13:23:54 -0300
+Sender: federico@...
+Message-ID: <399AC01A.67B1731A@...>
+Date: Wed, 16 Aug 2000 13:23:54 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.16 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: El Argentino y la =?iso-8859-1?Q?etica?=
+References: <0325693D.003E840B.00@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+didias@... wrote:
+> 
+> 
+> <Y ademas, podrias pensar un poco antes de copiar texto como invecil
+> <porque seguro que lo que escribiste no es de tu autoría.
+> 
+> OTRA VEZ: INVECIL? Sera porque no tiene fecha de vencimiento?
+> 
+
+ok, es imbecil
+
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+"Contrary to popular opinion, Linux is user friendly, It just happens to
+be very selective about who makes friends with."
+

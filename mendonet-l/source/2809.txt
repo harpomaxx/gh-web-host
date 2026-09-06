@@ -1,0 +1,67 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 17 Nov 2001 18:38:43 -0000
+Received: (qmail 675 invoked from network); 17 Nov 2001 18:38:43 -0000
+Received: from unknown (216.115.97.167)
+  by m8.grp.snv.yahoo.com with QMQP; 17 Nov 2001 18:38:43 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.21.160)
+  by mta1.grp.snv.yahoo.com with SMTP; 17 Nov 2001 18:38:43 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 164wDl-00058j-00
+	for <mendonet-l@...>; Sat, 17 Nov 2001 00:32:45 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 164wDk-00058Y-00
+	for <mendonet-l@...>; Sat, 17 Nov 2001 00:32:44 -0300
+Date: Sat, 17 Nov 2001 00:32:44 -0300
+To: mendonet-l@...
+Subject: Re: Buying bykes (La nueva generacion)
+Message-ID: <20011117003244.O18473@...>
+References: <20011112013049.I10342@...> <4886.011112@...> <20011113154229.L16116@...> <50969501.20011113223617@...> <20011114221633.J25154@...> <37928652.20011116124837@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <37928652.20011116124837@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Fri, Nov 16, 2001 at 12:48:37PM -0300, Oxiuro wrote:
+
+> >> ----BEGIN GEEK CODE BLOCK-----
+> >> Version: 3.12
+> >> GE d- s+:+ a? C++ UL++ P+ L++ E--- W+ N+ o+ K- w++
+> >> O+ M-- V- PS++ PE-- Y+ PGP t+ 5- X+ R tv+ b+ DI- D++
+> >> G e++ h! r y+
+> >> ------END GEEK CODE BLOCK------
+> 
+> >> Sorry groucho, se que no es mucho pero bue, por algun lado se comienza
+> >> no?
+> 
+> GM> Por Dios!!! s+:+ significa que sos mas alto y mas ancho que el promedio.
+> Es verdad!!! soy mas ancho que el promedio
+
+Pero no mas alto!
+> 
+> GM> Vos sos: s--: o quizas s-: pero nunca s+:+. YO SOY s+:+!!!!!
+> GM> K-, DI-? Acaso sabes que mierda es Kibo o Dilbert?
+> K- y DI- era la respuesta a si alguna vez habia escuchado de Kibo o
+> Dilbert, cosa que si es cierto, no era opcion de si conocia a Kibo o
+> Dilbert, cosa que no tengo la mas puta idea de que es.
+
+K- o DI- son opiniones negativas sobre Kibo y Dilbert y para tener opinion
+negativa tenes que conocerlos. Si solo lo escuchaste por ahi al pasar, no
+podes tener opinion formada, positiva o negativa y por lo tanto K- DI-
+es inexacto.
+
+> che y que tul  a?
+
+Inmortal? Es gracioso.
+
+-- 
+Groucho
+
+
+
+

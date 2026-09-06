@@ -1,0 +1,170 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 27 Sep 2001 11:42:06 -0000
+Received: (qmail 53080 invoked from network); 27 Sep 2001 11:42:04 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.4.52 with QMQP; 27 Sep 2001 11:42:04 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta2 with SMTP; 27 Sep 2001 11:41:59 -0000
+Received: from gateway.micasa.org.ar (200-41-31-94-rdunysd1.impsat.net.ar [200.41.31.94])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with ESMTP id IAA20437
+	for <mendonet-l@...>; Thu, 27 Sep 2001 08:43:18 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15mSPl-00008M-00
+	for <mendonet-l@...>; Thu, 27 Sep 2001 01:04:45 -0300
+Date: Thu, 27 Sep 2001 01:05:06 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1745.010927@...>
+To: Sebas <mendonet-l@...>
+Subject: Re[3]: "Naturaleza del hombre" my ass !
+In-reply-To: <6874.010925@...>
+References: <6874.010925@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Tuesday, September 25, 2001, 8:59:17 PM, you wrote:
+
+GM>> Personalmente opino lo mismo. Sinembargo, esto plantea la
+GM>> pregunta sobre que significa entonces "artificial". He aqui mi
+GM>> respuesta: artificial es lo que se opone a la naturaleza de las
+GM>> cosas. 
+
+S> Para nada...
+S> artificial: Hecho por mano o arte del hombre.
+S> Ergo, artificial no se opone a natural, en su acepción original.
+S> Después se degeneró en "opuesto a la naturaleza" por mal uso de la
+S> palabra naturaleza.
+
+Justamente... Al opinar que lo que hace el hombre es natural (porque
+el hombre es un ser natural y la fabricacion de artefactos es
+intrinseca y natural en el) entonces estamos quitandole a "artificial"
+todo el significado tradicional que buscaste en el diccionario.
+
+Esta bien entonces (*) que yo haya planteado la cuestion sobre que
+significa entonces "artificial".
+
+(*) Fijate que al mencionar la palabra "entonces" estoy dejando claro
+que lo que sigue es consecuencia de algun juicio anteriormente
+expuesto, en este caso, considerar natural lo hecho por el hombre.
+De manera que si no compartis ese juicio, y para vos hay una
+diferencia irreducible entre la casita del hornero y la casita del
+IPV, entonces no tendria sentido que refutes mi consecuencia aludiendo
+a la definicion del diccionario de "artificial".
+En todo caso trata de explicar por que lo que hace el hombre tiene que
+tener su propia palabra y concepto especial ("artificial"). Recorda
+que las palabras ayudan a modelar el pensamiento, y si vos usas una
+palabra especial para designar algo, muy probablemente estes inclinado
+a pensar que lo designado por esa palabra realmente sea diferente y
+especial.
+
+GM>> Un semaforo es un objeto natural creado por seres naturales,
+GM>> con materiales que se obtienen de materias primas naturales.
+GM>> Un semaforo es un sistema artificial de regulacion de transito,
+GM>> porque nada en la naturaleza de los autos o de las calles señala
+GM>> que los vehiculos deban detenerse ante luces de colores.
+
+S> Perfecto... natural y artificial no sae contraponen en tu ejemplo.
+
+Porque lo que estaba ejemplificando eran las distintas dimensiones a
+las que se puede aplicar la propuesta antitesis natural/artificial.
+Si te limitas a estudiar una sola dimension del ejemplo, si hay
+oposicion: la naturaleza de los vehiculos y los caminos  se opone a la
+operacion del semaforo.
+Un sistema de control de transito natural, seria levantar un muro
+delante de los autos que deben deternerse, o una puas que destruyan
+los neumaticos. Esta en la naturaleza de los caminos el ser vias
+despejadas de circulacion de vehiculos. El muro o las puas son
+obstrucciones, que desnaturalizan el camino, es vedad, pero que
+detienen naturalmente a los vehiculos.
+
+Por cierto: mi principal argumento para estar en contra de los badenes
+es justamente que desnaturalizan las calles. Si van a hacer calles
+para despues arruinarlas con badenes pues no se hubieran molestado
+desde el principio en hacer la calle.
+
+
+GM>> Tambien se me malinterpreto cuando -supuestamente- justifique los
+GM>> atentados apelando a la naturaleza humana.
+S> No te aflijas groucho, yo te comprendí.
+
+GM>> Mi argumento era que pretender del ser humano un comportamiento utopico
+GM>> que no incluya matar a sus congeneres (independientemente de que este bien o
+GM>> mal hacerlo) seria contrario a lo que parece ser la naturaleza del hombre
+GM>> segun
+GM>> ilustra la historia y que por lo tanto no corresponde escandalizarse
+GM>> demasiado
+GM>> al respecto.
+S> Lo que a mí me llama la atención, es cómo la muerte ha pasado a ser un
+S> tema mucho más terrible en la actualidad que hace unos, por caso, 500
+S> años... digo, lo peor que me puede pasar a mí es mi muerte, mi vida es
+S> lo único totalmente mío... y no me salgan con eso de "la muerte de los
+S> que querés es más terrible" porque puedo sentir algo por la muerte de
+S> mis seres queridos porque estoy vivo, si estuviera muerto, ni siquiera
+S> podría sentirme mal, si estoy muerto no soy, por lo tanto nada es
+S> terrible... o todo lo es, se entiende?.
+S> Lo que me parece extraño es esa supervalorizaci�n de la muerte ajena.
+S> Hace unos siglos atrás, era terrible pero hasta ahí, digamos que
+S> nadie en londres se calentaba mucho por los cientos de miles de
+S> muertos de tal o cual cruzada, aunque se enteraran... y si lo
+S> terrible es la muerte, no me vengan con eso de verlo o no por tv,
+S> porque entonces tendríamos que ponernos igual de mal por un muerto de
+S> una película que por un muerto de la vida real.
+S> El planteo es: ¿porqué ha crecido tanto la tristeza que produce una
+S> muerte?
+
+GM>> Las leyes no sirven. Las leyes suponen que el ser humano es absolutamente
+GM>> racional, y
+GM>> castigan los excesos irracionales como si el autor racionalmente hubiera
+GM>> decidido actuar
+GM>> de ese modo.
+S> Lo de las leyes me pareció medio descolgado, pero lo dejo porque tal
+S> vez no comprendí una relación clara.
+
+Lo aclaro con gusto:
+Se supone que las leyes son un intento de codificar de manera
+minimanente equitativa los valores de justicia, moral, etica, y otras
+ideas bonitas.
+Esos mismos valores bonitos son los que impulsan a todos los que se
+escandalizan y condenan el atentado a escandalizarse y condenar el
+atentado.
+
+Pero en la esencia de esos valores y de las leyes que resultan de su
+codificacion se encuentra la suposicion tacita de que el hombre es un
+ser muy altamente racional, lo que considero falso y absurdo a la luz
+de mis limitadisimos conocimientos de psicologia.
+
+Me quede pensando por que casi todos habian saltado con la condena al
+atentado y yo no, y encuentro por respuesta que yo comprendo y acepto
+que a un tipo se le puede saltar un tornillo e ir en contra de las
+leyes y valores habitualmente sostenidos por las sociedades y que
+siendo natural y esperable ese comportamiento entonces por que deberia
+haber castigo?
+Por que hacer una ley que le complique la vida a la gente impidiendole
+ser autenticamente ella misma? (ella=la gente).
+
+Pues simplemente por conveniencia: para que la saltada de tornillo
+inicial no perturbe mucha mas gente que la que resulta perturbada
+simplemente prohibiendo la saltada de tornillo.
+
+Concretamente: el atentado de New York es condenable no porque este
+mal matar gente, sino porque no conviene que la gente se ande matando
+entre si y porque romanticamente uno pretende una sociedad utopica
+donde todos sean felices y buenitos.
+
+
+--
+Groucho
+
+PS para Lupus:"como ves estoy escribiendo en The Bat para Windows
+porque es el unico programa que tenia a mano compatible con IMAP4 y
+estoy probando IMAP4.
+
+
+

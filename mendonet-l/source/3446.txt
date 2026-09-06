@@ -1,0 +1,47 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 22 Oct 2001 18:58:36 -0000
+Received: (qmail 90411 invoked from network); 22 Oct 2001 18:58:35 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.220 with QMQP; 22 Oct 2001 18:58:35 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.82)
+  by mta1 with SMTP; 22 Oct 2001 18:58:35 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 22 Oct 2001 11:58:35 -0700
+X-Originating-IP: [200.45.192.8]
+To: <mendonet-l@...>
+References: <000701c15572$37f94400$9a4afea9@hfgg> <11852.011015@...> <000301c15616$41a842e0$9a4afea9@hfgg> <20011017091011.D9764@...>
+Subject: RE: Re[2]: Sean buenos...
+Date: Mon, 22 Oct 2001 14:53:17 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE257yRLVbNDN4CxpAO00002f19@...>
+X-OriginalArrivalTime: 22 Oct 2001 18:58:35.0283 (UTC) FILETIME=[8D252E30:01C15B2B]
+From: "Morganti Federico" <federicomorganti@...>
+
+
+----- Mensaje original -----
+De: "Groucho Marx" <groucho@...>
+Para: <mendonet-l@...>
+Enviado: Miércoles, 17 de Octubre de 2001 09:10 a.m.
+Asunto: Re: Re[2]: Sean buenos...
+
+
+> On Mon, Oct 15, 2001 at 08:57:18PM -0300, Lady Marian wrote:
+>
+> > Cambiando de tema: ¿Vieron que Jenifer López se cambió el
+> > nombre?... Ahora se llama J-Lo... ¿Qué tul?... �Me copi� a mi!
+>
+> Y se supone que J-Lo es mas cool que Jennifer Lopez?
+> Que mina imbecil.
+
+muchisimo mas cool!!
+

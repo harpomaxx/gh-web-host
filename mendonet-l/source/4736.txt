@@ -1,0 +1,42 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:31 -0000
+Received: (qmail 30569 invoked from network); 19 Sep 2001 07:05:30 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.224 with QMQP; 19 Sep 2001 07:05:30 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta1 with SMTP; 19 Sep 2001 07:05:32 -0000
+Received: (qmail 9020 invoked by uid 1005); 18 Sep 2001 19:37:03 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.171298 secs); 18/09/2001 16:37:02
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 19:37:01 -0000
+Date: Tue, 18 Sep 2001 16:37:01 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <611891766.20010916034144@...> <12666.010915@...> <OE26A3yBQcBiZMS8pbh00006332@...>
+In-Reply-To: <OE26A3yBQcBiZMS8pbh00006332@...>
+Subject: Re: Re[2]: Guarda que te garronea!!!
+MIME-Version: 1.0
+Message-Id: <0109181637010E.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 17 Sep 2001 00:39, escribiste:
+
+> > Lo gracioso es que este oxiuro parece tomar todo como una agresión
+> > en su contra... ¿no?...
+>
+> no solo oxiuro
+
+Mira,si lo decis por mi te podes ir a la mismisima mierda, me ois!
+Conmigo no te metas!!!
+
+(Jejjejeje. Hace falta que explique?)
+
+-- 
+Groucho Marx
+

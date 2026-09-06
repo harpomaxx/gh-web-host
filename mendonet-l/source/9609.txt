@@ -1,0 +1,94 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 16316 invoked from network); 14 Jul 2000 01:20:04 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 14 Jul 2000 01:20:04 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 14 Jul 2000 01:20:04 -0000
+Received: (qmail 27760 invoked by uid 417); 14 Jul 2000 01:25:35 -0000
+Received: from mza2ppp-182.uc.infovia.com.ar (209.13.229.182) by smtpa.softhome.net with SMTP; 14 Jul 2000 01:25:35 -0000
+Date: Wed, 12 Jul 2000 20:11:49 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <19841.000712@...>
+To: Groucho Marx <mendonet-l@egroups.com>
+Subject: Re[3]: Buenas, soy el oxiuro!!
+In-reply-To: <16544.000709@...>
+References: <16544.000709@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Lupus el Lobo <aldocop@...>
+
+El 7/9/2000 Groucho Marx me decia:
+
+LeL>> El volumen de la caja sin tapa =
+sera: V=3D B1*B2*h (B1 y B2 son los lados
+LeL>> de la base que asi no e=
+s necesariamente cuadrada, y h la "haltura". El
+LeL>> problema  esta en l=
+a restriccion de que los 4 pedazos de careton deben
+LeL>> salir  de  un=
+a  cartulina  cuadrada  de  lado L... mmm... lo que se me
+LeL>> ocurre  hac=
+er  es intentar escribir mtematicamente las restricciones y
+LeL>> despu=
+es   expresar   las  medidas  que  te  dije  en  funcion  de  las
+LeL>>=
+ restricciones  geometricas  al cortar la cartulina en 5, despues poner=
+
+LeL>> la  ecuacion  de V en funcion de las restricciones, derivar, igu=
+alar a
+LeL>> cero  y  sacar los optimos... esta solucion va a ser limpi=
+ta pero
+LeL>> engorrosisima...
+
+GM> Bueno, es lo que hice y es 0 engorros=
+o!!!!
+GM> Estos ingenieros industriales son unos afeminados que arrugan a l=
+a
+GM> primera derivada que ven!!!!
+GM> JAJAJAJJAAJ!!!!!
+
+Pero yo no queri=
+a tirar nada de carton!!!
+
+Que  es  eso  de  suponer  que se espera un =
+maquinado sencillo para la
+caja...  si  a  mi se me canta utilizar los re=
+tazos que vos tiras para
+aumentar el alto de la caja mi caja tendra m=
+as volumen que la tuya!!
+
+De todos modos, me gusto tu solucion.
+
+Y  o=
+tra  cosa:  es  verdad,  los  industriales  dejamos  de  utilizar
+seriament=
+e  las matematicas desde tercer año, cosa que lamento... pero
+que lo =
+voy a hacer...
+
+LeL>> La verdad que estuve haciendo un par de dibujos y no =
+se me ocurre como
+LeL>> cortar  la  cartulina  en  5 rectangulos que lu=
+ego sirvan para armar la
+LeL>> caja,  osea, que compartan las dimensiones b=
+1, b2 y h en como debe ser
+LeL>> y  a  la  vez  que  no sobre cartulina... =
+a lo mejor hay que buscar un
+LeL>> optimo  en  el que sobre algo de cartu=
+lina... o a lo mejor la solucion
+LeL>> que buscabas es la que di primero.=
+.. espero tu respuesta.
+
+GM> Que no sobre cartulina? Quiero ver eso!!!
+
+Esp=
+era sentado!
+
+a  proposito:  =BFVos  viste  la solucion del Oxiuro? p=
+orque yo no la he
+visto aun...
+
+
+

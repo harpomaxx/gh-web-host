@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 04:35:03 -0000
+Received: (qmail 27120 invoked from network); 15 Nov 2000 04:35:02 -0000
+Received: from unknown (10.1.10.27) by l9.egroups.com with QMQP; 15 Nov 2000 04:35:02 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 15 Nov 2000 04:35:01 -0000
+Received: from antro.micasa ([200.41.31.114]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA05783 for <mendonet-l@egroups.com>; Wed, 15 Nov 2000 01:38:16 +0300 (GMT)
+Date: Wed, 15 Nov 2000 00:36:55 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1625.001115@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmU6IEJhcmlsb2NoZSwgcXVlIGNhZ2FkYS4uLiBObyBjb2dpbW8gbmkg?= =?ISO-8859-1?B?dW5hIGFsbW9oYWRhLCB0cnVsYWzh?=
+In-reply-To: <00fc01c04d08$cd8386c0$9a4afea9@hfgg>
+References: <00fc01c04d08$cd8386c0$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 12/11/2000, Mariana angustiosamente farfulló:
+
+>>  Yo viví la misma situación! En qué año fuiste de viaje de
+>>  egresados? Si no fue el mismo año que yo: doble jua!
+
+M> No me acuerdo... Debe haber sido el mismo año que Harpo, Rodro y demás. O
+M> sea, un año antes que ustedes.
+
+M> Hey, contesten!... ¿En que año me fui de viaje de egresados?
+
+Te fuiste en el 92, igual que yo.
+
+-- 
+Groucho Marx
+Muchachos, ¡cómprenlo! No me hice rico firmando cheches, señor. -- W. Gates
+
+
+

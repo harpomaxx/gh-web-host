@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 18 Dec 2000 17:03:16 -0000
+Received: (qmail 35194 invoked from network); 18 Dec 2000 17:02:44 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 18 Dec 2000 17:02:44 -0000
+Received: from unknown (HELO smtp1.impsat.net.ar) (200.31.1.8) by mta1 with SMTP; 18 Dec 2000 17:02:43 -0000
+Received: from antro.micasa ([200.41.31.115]) by smtp1.impsat.net.ar (8.9.3/8.9.3) with ESMTP id OAA14434; Mon, 18 Dec 2000 14:04:36 +0300 (GMT)
+Date: Sun, 17 Dec 2000 01:50:18 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1876.001217@...>
+To: lug-list@...
+Subject: [off topic]: Historia lame
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hoy arme mi cuarta computadora (con piezas que un cliente iba a tirar
+a la basura, trozos en desuso del trabajo, piezas que me prestaron
+hace tiempo y no han venido a buscar y una que otra pieza nueva
+comprada por mi vieja).
+La maquina es para ella, que esta obnubilada por unos programas
+ñoños que yo nunca hubiera traido a mi casa pero que ella vio en la
+computadora de una compañera de trabajo. Me refiero al Print Master
+y al Word 9 (o 2000, como les guste).
+Por lo tanto me fue imposible meterle GNU/Linux de prepo (falta de
+espacio para 2 sistemas operativos en el disco).
+
+Luego de luchar contra el insipido instalador de Office 2000 y
+reistalar Windows 2 veces, hoy a la tarde deje la maquina lista.
+La enchufe a la red, arregle mi server DHCP y DNS, y cuando todo
+estuvo listo me puse a repasar para mi examen del lunes.
+
+2 horas despues, algo o alguien se llevo puesto el cable de red
+provisoriamente tendido, tirando al suelo la maquina y convirtiendo el
+disco rigido en queso gruyere.
+
+5 mentarios.
+
+-- 
+Groucho Marx
+Yo tengo un palo verde. (El increible Hulk)
+
+
+

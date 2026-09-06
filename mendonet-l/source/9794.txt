@@ -1,0 +1,27 @@
+From babasonica@...  Sat Jul 11 23:23:58 2020
+Return-Path: <babasonica@...>
+Received: (qmail 20087 invoked from network); 7 Jul 2000 16:15:36 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 7 Jul 2000 16:15:36 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 7 Jul 2000 16:15:35 -0000
+Received: (qmail 26838 invoked by uid 417); 7 Jul 2000 16:20:20 -0000
+Received: from mza2ppp-124.uc.infovia.com.ar (HELO softhome.net) (209.13.229.124) by smtpb.softhome.net with SMTP; 7 Jul 2000 16:20:20 -0000
+Message-ID: <3965C87A.F6C309A7@...>
+Date: Fri, 07 Jul 2000 09:09:30 -0300
+X-Mailer: Mozilla 4.61 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet <mendonet-l@egroups.com>
+Subject: =?iso-8859-1?Q?UTOP=CDAS?=
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Mariana <babasonica@...>
+
+"Lo malo de las utopías habría sido pretender que lo sublime, en vez de
+irrepresentable, se torne en base de un programa concreto. El cual se
+vuelve entonces totalitario e intolerante, porque pretende
+'terrenalizar' aquello que está más allá de la concreción".
+
+(no cito, porque no sé de quien es)
+
+
+

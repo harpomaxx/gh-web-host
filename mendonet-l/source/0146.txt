@@ -1,0 +1,61 @@
+From asecas2003@...  Sat Jul 11 23:23:58 2020
+Return-Path: <asecas2003@...>
+X-Sender: asecas2003@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 8807 invoked from network); 3 Dec 2003 14:15:19 -0000
+Received: from unknown (66.218.66.216)
+  by m19.grp.scd.yahoo.com with QMQP; 3 Dec 2003 14:15:19 -0000
+Received: from unknown (HELO hotmail.com) (64.4.31.34)
+  by mta1.grp.scd.yahoo.com with SMTP; 3 Dec 2003 14:15:13 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 3 Dec 2003 06:15:12 -0800
+Received: from 168.226.149.203 by by13fd.bay13.hotmail.msn.com with HTTP;
+	Wed, 03 Dec 2003 14:15:05 GMT
+X-Originating-Email: [asecas2003@...]
+X-Sender: asecas2003@...
+To: mendonet-l@...
+Bcc: 
+Subject: FW: Fwd: inaguracion muestra
+Date: Wed, 03 Dec 2003 11:15:05 -0300
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_3c53_24b2_1fac"
+Message-ID: <BAY13-F348e3IzQqbk4000016ba@...>
+X-OriginalArrivalTime: 03 Dec 2003 14:15:12.0408 (UTC) FILETIME=[DD8B5980:01C3B9A7]
+X-eGroups-Remote-IP: 64.4.31.34
+From: "Samurai A Secas" <asecas2003@...>
+X-Originating-IP: [168.226.149.203]
+X-Yahoo-Group-Post: member; u=141741680
+X-Yahoo-Profile: asecas2004
+
+
+------=_NextPart_000_3c53_24b2_1fac
+Content-Type: text/html; charset=iso-8859-1
+
+<html><div style='background-color:'><P><BR><BR></P>
+<P><BR><BR></P>
+<DIV>
+<P><BR><BR></P>
+<DIV>
+<P><BR><BR>&nbsp;</P>
+<DIV>
+<DIV class=RTE>
+<P><BR><BR>&nbsp;</P></DIV><BR><BR>
+<DIV></DIV></DIV></DIV></DIV></div><br clear=all><hr>Nuevo MSN Messenger <a href="http://g.msn.com/8HMAESAR/2749??PS=">Una forma rápida y divertida de enviar mensajes</a> </html>
+------=_NextPart_000_3c53_24b2_1fac
+Content-Type: text/html; charset=iso-8859-1
+X-Stn-Info:  
+
+<html><div style='background-color:'><DIV>
+<DIV>
+<DIV>
+<DIV>
+<DIV></DIV></DIV></DIV></DIV></DIV></div></html>
+
+
+------=_NextPart_000_3c53_24b2_1fac
+Content-Type: image/pjpeg; name=" flyer muestra.jpg"
+Content-Disposition: attachment; filename=" flyer muestra.jpg"
+
+[ Attachment content not displayed ]
+------=_NextPart_000_3c53_24b2_1fac--
+

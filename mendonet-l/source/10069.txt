@@ -1,0 +1,30 @@
+From bocha@...  Sat Jul 11 23:23:58 2020
+Return-Path: <bocha@...>
+Received: (qmail 27925 invoked from network); 21 Jun 2000 03:08:56 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 21 Jun 2000 03:08:56 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 21 Jun 2000 03:08:54 -0000
+Received: from pc233 (rdumend2-200.41.21.19 [200.41.21.19] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with SMTP id AAA03077 for <mendonet-l@egroups.com>; Wed, 21 Jun 2000 00:07:48 +0300 (GMT)
+Message-ID: <001101bfdb1f$1319f2c0$031529c8@pc233>
+To: <mendonet-l@egroups.com>
+References: <001501bfd598$f9aef000$0100007f@pc233> <1977.000615@...> <00cc01bfdb08$a4457560$457c2ac8@tepes>
+Subject: =?iso-8859-1?Q?RE:_programita_por_el_orto=2C_para_los_rompebolas_que_no_q?= =?iso-8859-1?Q?uieren_mas_buying_bikes?=
+Date: Tue, 20 Jun 2000 22:21:49 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+From: "Bocha" <bocha@...>
+
+> > Si vos construis un programa de computadora que cumpla las condiciones
+> > de vida que yo di, entonces para mi, ese sistema ha de estar vivo.
+> Ok, yo busco definiciones de vida aplicables. Quiero decir, defino vida no
+> para saber si tu programita vive o no, sino para saber cuando estás
+matando,
+> o cuando matar está mal.
+>
+En 2001, a HAL la podrian matar?
+O no esta viva?
+

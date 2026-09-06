@@ -1,0 +1,166 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 28 Aug 2001 05:02:58 -0000
+Received: (qmail 61098 invoked from network); 28 Aug 2001 05:02:56 -0000
+Received: from unknown (10.1.10.27)
+  by m8.onelist.org with QMQP; 28 Aug 2001 05:02:56 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.86)
+  by mta2 with SMTP; 28 Aug 2001 05:02:54 -0000
+Received: (qmail 3921 invoked by uid 1005); 27 Aug 2001 19:45:09 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.250411 secs); 27/08/2001 16:45:08
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 27 Aug 2001 19:45:07 -0000
+Date: Mon, 27 Aug 2001 16:45:10 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <01082520550006.00458@cubil> <8576.010826@...>
+In-Reply-To: <8576.010826@...>
+Subject: Re: Re[6]: =?iso-8859-1?q?=BFBuenas=3F=20y=20etc=2E=2E=2Ede=20uno=20nuevo?=
+MIME-Version: 1.0
+Message-Id: <01082716451006.00455@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Dom 26 Ago 2001 13:49, escribiste:
+
+
+> GM> Por lo tanto, las mismas libertades que elijo tener con el
+> GM> software las elijo tener con los artefactos y servicios
+> GM> protegidos por patentes y por las obras artisticas.
+>
+> GM> El poder que nos oprime es de naturaleza economica y se defiende
+> GM> con patentes, marcas y otros elementos de propiedad intelectual.
+> GM> Rechazarlos, difundir su rechazo, finalmente permitira obtener la
+> GM> suficiente como para vencerlos.
+>
+> no entiendo porque estas en contra de la propiedad intelectual,
+
+Porque es contrario a la naturaleza. Si vos me contas una idea grosa yo 
+obtengo una copia de la idea. Vos seguis teniendo tu idea y podes hacer 
+con ella lo que mejor te plazca.
+Yo tambien deberia. Yo deberia poder basarme en tu idea para tener una 
+idea mas grosa aun. No trata de eso el progreso?
+
+Que la idea se te haya ocurrido primero a vos y no a mi, no te tiene 
+que dar excesivamente muchos mas privilegios sobre la idea que al resto 
+de los mortales. Podes tener derecho a ser reconocida y aclamada como 
+la autora de la idea, y a utilizar la idea como mejor te aproveche, 
+pero eso no te convierte en la dueña de la idea, ni te da derecho de 
+impedir que otros usen la idea como mejor le aproveche.
+
+
+> la cual es protegida por el patentamiento de la cosa que de la
+> inventiva.
+
+Error. No patentas cosas. Patentas ideas, y restingis su difusion 
+mediante copyright. Las ideas no son cosas, por mas que las leyes de 
+propiedad intelectual quieran asimilarlas como entidades identicas.
+
+> surja,es necesaria porque en este mundo existe el robo, y si yo me
+> cague trabajando en un proyecto el cual me daré satisfacciones
+> emocionales y también económicas, no puedo permitir que otro se lleve
+> los laureles y el dinero que surja de su venta,
+
+Bien. En un mundo donde existe la propiedad intelectual, ese 
+razonamiento es valido. Yo me cague para lograr esto y no quierio que 
+otros sin esfuerzo obtengan ventajas derivadas de mi esfuerzo. Eso es 
+entendible y lo comparto.
+Excepto por 3 detalles:
+- puedo tener en tan alta estima mis ideas que no me interesa que otros 
+las usen. Yo siempre voy a estar un paso adelante.
+- el progreso de la civilizacion puede ser mi objetivo. La ciencia 
+solia ser una actividad donde las ideas que uno tenia eran siempre 
+abiertamente compartidas y difundidas, no oscurecidas y patentadas.
+- el comercio es una competencia deportiva, no una batalla. En una 
+competencia deportiva vos das lo mejor de vos, pero no le impedis a los 
+demas dar lo mejor de ellos. En una batalla te dedicas a ganar tanto 
+como a evitar que el otro gane.
+ 
+Pero en el mundo que estoy colaborando a construir, tu primera premisa, 
+la del esfuerzo por conseguir algo se desmorona, porque si el 
+conocimiento se comparte y se difunde sin trabas, entonces el progreso 
+se realiza sin tan terrible esfuerzo  y la tentacion de ocultar tus 
+ideas grosas para evitar que los demas tengan ideas grosas pierde su 
+atractivo al entender que las ideas grosas de los demas pueden ser la 
+inspiracion de tus propias ideas grosas.
+
+Para una empresa, el costo de investigacion y desarrollo seria mucho 
+mas bajo, entonces no hay tanto incentivo para "proteger" esa inversion 
+patentanto e impidiendo la difusion de lo que descubriste.
+
+
+> quede claro que yo no digo de cobrar un extra por lo inventado o
+> creado, digo de ganar el reconocimiento y el dinero que de su venta
+> surja.
+
+El reconocimiento esta bien. El dinero que de su venta surja siempre 
+que vos vendas algo, pero estabamos hablando de que patentabas una 
+idea, no que hacias un objeto o servicio basandote en esa idea.
+Igual entiendo tu punto: vos tendrias menos ganas de inventar cosas si 
+no lo recuperaras con creces en forma de dinero despues, y para eso 
+necesitas una patente. No todos tienen que pensar asi. Un cientifico no 
+puede pensar asi. Un artista tampoco.
+
+Hay un compromiso: que las patentes y otros derechos de propiedad 
+intelectual duren una cantidad corta de tiempo. Entonces los inventores 
+codiciosos tienen la oportunidad de obtener el dinero que ellos quieren 
+por haber tenido su idea. Y con rspecto al derecho de copia, si usas el 
+"copyleft" obtenes reconocimiento como autor, pero resignas la 
+posibilidad de impedir la difusion de tu idea.
+
+
+> Por esto es necesario que existan las patentes y las marcas
+> registradas
+
+Sobran ejemplos de gente que crea cosas y no necesita ni patentes ni 
+marcas registradas. Algunos de esta epoca, otros de otras.
+
+
+> esto no significa que el uso por parte de otras personas
+> que no sea el creador de esa cosa patentada se tenga que cobrar. o
+> sea el uso  de la cosa inventada debe
+> ser libre, como ocurre con el kernel de linux sin embargo todos
+> sabemos que el inventor es Linus
+> lo mismo debería ocurrir con los medicamentos: un laboratorio inventa
+> o descubre una droga, la patenta, hace uso de ella en distintas
+> aplicaciones y no debería cobrar a los otros laboratorios por el uso
+> y  aplicación de la droga.
+
+Bueno, esa es la idea basica que propongo. Pero vos das una 
+prescripcion de como deberian ser las cosas. Yo digo como son y que hay 
+que hacer para que sean como vos y decimos que deberian ser.
+
+
+> No se puede ignorar el derecho a la propiedad porque es un derecho
+> del ser libre.
+
+No se. Explicalo. Es conveniente que el autor de una idea pueda decidir 
+quien y como usa su idea? Por que beneficiar a una sola persona (el 
+autor) y no a los miles o millones que pueden favorecerse con esa idea?
+La respuesta ya esta estudiada: para premiar a los autores e 
+incentivarlos a tener mas ideas. Pero esto funciona si el control sobre 
+las ideas dados a los autores es limitado, de otra forma el publico en 
+general nunca se beneficia como podria de la idea del autor.
+La intencion es maximizar el beneficio para el publico asi que los 
+derechos de propiedad intelectual deben ser los minimos que incentiven 
+a los autores a producir el maximo de ideas para el publico.
+Actualmente el beneficio para los autores es excesivo.
+
+
+> Si yo trabaje y conseguí algo no tengo porque  dejar que alguien me
+> lo quite y no se me reconozca como autor de la cosa.
+
+No te quitan nada!!! Vos sequis teniendo tu idea y la libertad de hacer 
+con ella lo que quieras. si te quito tu auto no tenes la libertad de 
+hacer con el lo que quieras. Entendes la diferencia?
+Solo te quitan la facultad de controlar el uso de tu idea. Pero es que 
+nunca debiste tener esa facultad.
+
+
+-- 
+Groucho Marx
+

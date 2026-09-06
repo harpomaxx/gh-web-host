@@ -1,0 +1,64 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 10 Jun 2002 16:34:15 -0000
+Received: (qmail 495 invoked from network); 10 Jun 2002 16:34:15 -0000
+Received: from unknown (66.218.66.216)
+  by m15.grp.scd.yahoo.com with QMQP; 10 Jun 2002 16:34:15 -0000
+Received: from unknown (HELO smtp2) (200.31.1.16)
+  by mta1.grp.scd.yahoo.com with SMTP; 10 Jun 2002 16:34:15 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp2 (8.9.3/8.9.3) with SMTP id NAA16028
+	for <mendonet-l@...>; Mon, 10 Jun 2002 13:34:55 -0300 (GMT)
+Message-ID: <004801c2109d$93e714e0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <adu2dr+queq@...> <E17H2kI-0000nP-00@...> <200206100028.37762@X-KASTOR >
+Subject: Re: siempre hay un boludo...
+Date: Mon, 10 Jun 2002 13:40:15 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> > Gente, ese email titulado "The garden of eden" no lo mandé yo. Algun
+> > boludo, que los hay en todos lados, mandó eso en mi nombre.
+>
+> Un boludo que usa Windows, se conecta usando Ciudad Internet y estuvoo
+> esta suscripto a esta lista.
+>
+> Eso me permite autoexcluirme, porque:
+>
+> - no uso windows
+> - no me conecto usando Ciudad Internet
+
+en realidad puede haber sido el querido klez!!
+
+Sin duda ha sido Klez. Pero en lo que a mi concierne, los virus
+corren a nombre del usuario, como cualquier otro proceso.
+Si vos tenes un virus y el virus me manda mierdas, entonces *vos*
+me mandaste mierdas. Es tu problema evitar que tu maquina me
+mande virus. Que seas negligente o retrasado mental y no puedas
+controlar adecuadamente las actividades de la maquina, no es
+excusa.
+
+En mi caso, entoy seguro de que el virus no pudo conectarse usando
+Ciudad Internet desde alguna de mis computadoras.
+Creo poder controlar con certeza mis computadoras para que no hagan
+llamadas por telefono que yo no quiero que hagan...
+Y estoy seguro de que no uso windows para leer mis mensajes. Creo
+poder distinguir entre usar windows y usar linux...
+
+
+--
+Herr Grouchox
+
+
+
+

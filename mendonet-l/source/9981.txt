@@ -1,0 +1,30 @@
+From bocha@...  Sat Jul 11 23:23:58 2020
+Return-Path: <bocha@...>
+Received: (qmail 1550 invoked from network); 26 Jun 2000 17:02:33 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 26 Jun 2000 17:02:33 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 26 Jun 2000 17:02:31 -0000
+Received: from pc233 (rdumend2-200.41.21.29 [200.41.21.29] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with SMTP id OAA24997 for <mendonet-l@egroups.com>; Mon, 26 Jun 2000 14:01:18 +0300 (GMT)
+Message-ID: <001001bfdefa$ef184a40$0100007f@pc233>
+To: <mendonet-l@egroups.com>
+References: <001101bfdb1f$1319f2c0$031529c8@pc233> <367.000625@...>
+Subject: pajaron
+Date: Sun, 25 Jun 2000 20:13:11 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+From: "Bocha" <bocha@...>
+
+> B> En 2001, a HAL la podrian matar?
+> B> O no esta viva?
+> 
+> Pues no me acuerdo! Hace mucho que la vi.
+> Igualmente, un ser vivo con disco rigido (o HAL tenia ferrites?) se muere
+> cuando lo apagas pero resucita cuando lo volves a bootear...
+> 
+> Asi que matar a HAL no es tan terrible como matar a un pajarito.
+y si al pajarito lo reseteamos con una lobotomia? 
+

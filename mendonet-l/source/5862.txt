@@ -1,0 +1,42 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_1); 19 Aug 2001 15:56:39 -0000
+Received: (qmail 84441 invoked from network); 19 Aug 2001 15:56:39 -0000
+Received: from unknown (10.1.10.27)
+  by l8.egroups.com with QMQP; 19 Aug 2001 15:56:39 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.123)
+  by mta2 with SMTP; 19 Aug 2001 15:56:37 -0000
+Received: (qmail 21434 invoked by uid 1005); 19 Aug 2001 15:16:13 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 5.070003 secs); 19/08/2001 12:16:07
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 19 Aug 2001 15:16:04 -0000
+Date: Sun, 19 Aug 2001 12:17:38 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <185596928.20010923104014@...> <3411.010818@...>
+In-Reply-To: <3411.010818@...>
+Subject: Re: La importancia de llamarse Silvia, Silvana o Silvina.
+MIME-Version: 1.0
+Message-Id: <01081912173800.00353@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Sáb 18 Ago 2001 09:52, escribiste:
+
+> Y hablando de todo un poco, alguna vez salí con una mina que cuando
+> nació el padre se mandó solito al Registro Civil y la anotó como
+> Silvina (o Silvana, no lo recuerdo), pero en la casa la llamaban
+> Silvia, que era el nombre que la madre realmente le quería poner.
+> Aunque usted... no lo crea.
+
+Y cuando el padre llego a la casa y se entero de su error dijo: "d'oh!"
+Se podria hacer un buen programa de television con eso.
+
+
+-- 
+Groucho Marx
+

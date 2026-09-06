@@ -1,0 +1,66 @@
+From morocho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <morocho@...>
+Received: (qmail 27712 invoked from network); 9 Aug 2000 17:52:33 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 9 Aug 2000 17:52:33 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (204.144.231.7) by mta1 with SMTP; 9 Aug 2000 17:52:32 -0000
+Received: (qmail 661 invoked by uid 417); 9 Aug 2000 17:46:18 -0000
+Message-ID: <20000809174618.660.qmail@...>
+References: <965808253.24610@egroups.com>
+In-Reply-To: <965808253.24610@egroups.com>
+To: mendonet-l@egroups.com
+Subject: Una pregunta...
+Date: Wed, 09 Aug 2000 17:46:17 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+X-Sender: morocho@...
+From: morocho@...
+
+
+De: morocho <morocho@...>
+Para: <mendonet-l@egroups.com>
+Asunto: Una pregunta.....
+Fecha: Miércoles, 09 de Agosto de 2000 01:44 p.m.
+
+>----- Original Message -----
+>From: <mendonet-l@egroups.com>
+>To: <mendonet-l@egroups.com>
+>Sent: Tuesday, August 08, 2000 8:22 PM
+>Subject: Resumen número 161
+--------------------------------------------------
+--------------------------------------------------
+>Mensaje: 10
+>   Fecha: Thu, 20 Jul 2000 00:20:28 -0300
+>   De: Groucho Marx <groucho@...>
+>Asunto: Re: Una pregunta ...
+
+>El 19/07/2000, Santiago delirantemente escribió:
+
+>SI> Yo uso el Netscape Messenger para los mails, cada mensaje que entra
+>SI> tiene una fecha y una hora.
+>SI> ¿Que significan esa fecha y esa hora?
+
+>SI> ¿Es el momento en que el mensaje fue escrito? ¿Cuando fue enviado?
+>SI> ¿Cuando lo recibio softhome?
+
+GM>En realidad, no se puede saber con certeza.
+GM>Puede ser esa o muchas fechas posibles.... El programa va a mostrar
+GM>simplemente lo que diga el campo "Date" de la cabecera del mensaje.
+GM>El contenido de esa parte de la cabecera se supone que lo coloca ahi
+GM>el programa con el que se redacto el mensaje (el agente de usuario o
+GM>MUA), entonces, lo mas probable es que la fecha ahi escrita sea la
+GM>fecha de redaccion del mensaje (aunque tambien podria ser la fecha
+GM>en la que el programa se digno a enviar el mensaje al servidor de
+GM>correo (o agente de transporte de mensajes, MTA)
+
+Por lo que puedo deducir que vos escribiste este mail hace mas de 20 dias?
+Que paso Groucho, despues le recriminan al Conan que escribe tarde? Y no me
+vas a decir que estuviste jugando al Starcraft bajo Linux?. Ahh y por
+cierto
+puede ser
+que vos me estes grabando un CD con ese juego para mi? Puede ser? Si es asi
+avisame!
+
+
+ 
+

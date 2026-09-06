@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 13874 invoked from network); 13 May 2000 20:54:46 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 13 May 2000 20:54:46 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 13 May 2000 20:54:45 -0000
+Received: from ANTRO ([200.41.31.71]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id RAA12131 for <mendonet-l@egroups.com>; Sat, 13 May 2000 17:48:53 +0300 (GMT)
+Date: Thu, 11 May 2000 16:36:56 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <13692.000511@...>
+To: =?ISO-8859-1?B?Sm9z6SBPY3RhdmlvIEFsb25zbw==?= <mendonet-l@egroups.com>
+Subject: Re[2]: (unknown)
+In-reply-To: <000a01bfbaa9$ea0b1f20$d4812ac8@joalonso>
+References: <000a01bfbaa9$ea0b1f20$d4812ac8@joalonso>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 10/05/2000, José confiado deliró:
+
+>>
+>> PD.: Ya me está llenando softhome... alguien conoce otro server gratis
+>> que soporte pop3 y que ande mejor??
+>> Han  notado  que no se puede enviar un mensaje a más de 11 personas...
+>> un embole...
+>>
+JOA> En yahoo, podés usar pop3 y web, ahora, me parece que es pop3 entrante, nada
+JOA> más, que para mandar, no se si te deja, pero con probar no se pierde nada.
+
+Si es POP3 no te deja por definicion enviar mensajes.
+Eso de servidor de correo entrante y saliente es un verso de
+Microsoft.
+
+-- 
+Groucho Marx
+They fight. And bite.
+Bite. Bite. Bite.
+Fight. Fight. Fight.
+The Itchy and Scratchy show.
+
+
+

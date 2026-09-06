@@ -1,0 +1,68 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_3); 18 Jun 2001 19:10:03 -0000
+Received: (qmail 81668 invoked from network); 18 Jun 2001 19:10:01 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 18 Jun 2001 19:10:01 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 18 Jun 2001 19:10:01 -0000
+Received: (qmail 2800 invoked by uid 417); 18 Jun 2001 19:12:36 -0000
+Received: from a200042125105.rev.prima.com.ar (200.42.125.105) by i-softhome-tango with SMTP; 18 Jun 2001 19:12:36 -0000
+Date: Mon, 18 Jun 2001 16:06:40 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Sebas <xebax@...>
+X-Priority: 3 (Normal)
+Message-ID: <9671.010618@...>
+To: mendonet-l@yahoogroups.com
+Subject: =?ISO-8859-1?B?TWkgY29tcHV0YWRvcmEgZXN04SBzZW5pbA==?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+
+
+Por empezar, les pido que respeten mi ignorancia. En segundo lugar,
+les pido que valoren el esfuerzo que hice por hacerles llegar datos
+útiles. Y por último, les pido que se imaginen que algún día ustedes
+van al médico(que resulto ser yo), les digo que necesitan un
+transplante de riñon y cuando entramos al quirófano en vez de ponerles
+un riñón(que no tenía) les puse un testículo de toro... feo, no?
+
+El tema es el siguiente: tengo una computadora(en esta que estoy
+escribiendo) con un pentium de 166 y 16 megas de ram. Lentasa para lo
+que necesito. Mis problemas se verían medianamente resueltos si
+tuviera 32 en vez de 16. Desconozco el tipo de memoria que tiene mi
+computadora, as�que recién la abrí, las miré y acá va la
+descripción... ponganl� un poco de huevo, que si no no lo van a
+entender:
+
+La plaquita esta tiene cuatro "bloquecitos". 1 es igual que cuatro, y
+2 es igual que 3(los números se los puse yo, obvio que no están en la
+placa.
+ ______________________________________________________
+[ _____________  _________  _________  ______________  ]
+[ [     1      ][    2    ][    3    ][     4        ] ]
+[ [____________][ ________][_________][______________] ]
+[______________________________________________________]
+
+Los bloques uno y cuatro tienen 21 rayitas plateadas cada uno(¿pines?)
+Los bloques 2 y 3 constan de 2 segmentos de 5 rayitas iguales a las
+anteriores cada uno. O sea:
+Bloque 1      bloque 2       bloque 3       bloque 4
+  21      +    5+5       +     5+5      +      21     = 62 rayitas
+
+  son dos placas iguales, y tengo espacio para dos más.
+
+  La pregunta es : ¿que tipo de memoria tengo?¿simm, dimm, de cuántos
+  pines?
+  Punto dos: ¿a cuánto y dónde las compro? Mis recursos económicos son
+  limitadísimos.
+  Punto 3:¿alguno de ustedes me puede vender(por no decir regalar) lo
+  que necesito?
+
+-- 
+ Sebas  
+Musicalmente, el clarinete es un instrumento muchísimo más rico que el diccionario.                       
+
+
+

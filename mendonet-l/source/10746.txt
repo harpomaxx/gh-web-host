@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 15974 invoked from network); 24 May 2000 19:56:26 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 24 May 2000 19:56:26 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta2 with SMTP; 24 May 2000 19:56:24 -0000
+Received: from 200.41.31.107 ([200.41.31.107]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id QAA09239 for <mendonet-l@egroups.com>; Wed, 24 May 2000 16:52:12 +0300 (GMT)
+Date: Mon, 22 May 2000 21:38:26 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <15901.000522@...>
+To: harpo <mendonet-l@egroups.com>
+Subject: Re[2]: El pollito
+In-reply-To: <Pine.LNX.4.04.10005211059470.1028-100000@...>
+References: <Pine.LNX.4.04.10005211059470.1028-100000@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 21/05/2000, harpo triste murmuró:
+
+S>>>        Maquiavelo: La cuestión es que el pollo cruzó la carretera. ¿A
+S>>quién le importa el por qué? El fin cruzar la carretera justifica cualquier
+S>>medio.
+S>>Por favor, los que hayan leído "El príncipe" de Maquiavelo, díganme en qué
+S>>parte el tipo dice que el fin justifica los medios, porque estoy casi seguro
+S>>de que nunca lo dijo.
+
+De fidedigna fuente me llega el dato de que la intencion de la
+remitente del mensaje del pollito no era entablar discusion sobre
+la autoria de frases trilladas atribuidas a Maquiavelo sino:
+
+Si alguien puede responder psicologicamente por que el pollito cruzo
+la carretera.
+Segun la respuesta se puede saber algo de la personalidad.
+
+La veradad es que es una tonta cadena que a mi ya me habia llegado
+hace tiempo, pero mas graciosa. Por ejemplo, decia Andersen Consulting
+Group pero alguien lo cambio en la version que nos llego a
+"Cualquier(a) Consulting Group" entre otras degradaciones...
+
+
+-- 
+Groucho Marx
+Si fuera por mí, lo dejaría ir, pero los niños tienen mal carácter
+y han estado bebiendo. -- El jardinero Willie
+
+
+

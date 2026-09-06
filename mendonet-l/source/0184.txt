@@ -1,0 +1,59 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 13964 invoked from network); 2 Sep 2003 01:13:59 -0000
+Received: from unknown (66.218.66.217)
+  by m20.grp.scd.yahoo.com with QMQP; 2 Sep 2003 01:13:59 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 2 Sep 2003 01:13:58 -0000
+Received: (qmail 27899 invoked by uid 417); 2 Sep 2003 01:13:35 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 2 Sep 2003 01:13:35 -0000
+Received: from dup-200-42-125-64.prima.net.ar ([200.42.125.64])
+  (AUTH: PLAIN xebax@...)
+  by softhome.net with esmtp; Mon, 01 Sep 2003 19:13:33 -0600
+Date: Mon, 1 Sep 2003 21:41:01 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <17903.030901@...>
+To: Herr Groucho <mendonet-l@...>
+Subject: Re: Una pelicula acerca de nada
+In-reply-To: <E19swMy-0000d1-00@...>
+References: <E19swMy-0000d1-00@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+HG> Acabo de ver Kamchatka, o como prefiero llamarla "Senfield", una
+HG> pelicula acerca de nada.
+
+¿Eso es malo?
+
+HG> Si no me creen, lean:
+HG> Viene el golpe militar de 1976. Se escapan de Buenos Aires a las 
+HG> afueras de Mar del Plata. Los echan del trabajo. Para perder el tiempo 
+HG> juegan al TEG, pero el padre siempre gana. Refugian a un mechudo de La 
+HG> Plata. van a visitar al abuelo en Tandil. Vuelven. El mechudo se tiene 
+HG> que ir tan misteriosamente como vino. Juegan otro partido de TEG, donde 
+HG> el hijo le gana todos los territorios al padre, excepto Kamchatka, que 
+HG> luego de varias horas, no puede conquistar.
+HG> Tienen que interrumpir el partido porque vienen los militares. Llevan a 
+HG> los hijos de vuelta a Tandil para que los cuide el abuelo. Ls padres se 
+HG> van, y nunca mas los vuelven a ver.
+HG> "Esa vez, mi papa me hablo de Kamchatka, y esa vez entendi. Kamchatka
+HG> es el lugar a donde resistir". Fin.
+HG> Un cuadro costumbrista sin argumento.
+
+¿Eso es malo?
+
+
+-- 
+Sebas   
+No arroje sus cigarrillos aquí, porque nadie orina en su cenicero. (En el baño de un bar de Bruselas.)                       
+
+
+

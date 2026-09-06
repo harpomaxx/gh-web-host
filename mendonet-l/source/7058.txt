@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 12 Nov 2000 19:15:53 -0000
+Received: (qmail 85220 invoked from network); 12 Nov 2000 19:15:53 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 12 Nov 2000 19:15:53 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 12 Nov 2000 19:15:51 -0000
+Received: from antro.micasa ([200.41.31.82]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id QAA29474 for <mendonet-l@egroups.com>; Sun, 12 Nov 2000 16:16:15 +0300 (GMT)
+Date: Sat, 11 Nov 2000 00:21:36 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <515.001111@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: A todo esto........
+In-reply-To: <003801c04b2b$331d2980$a47c2ac8@tepes>
+References: <003801c04b2b$331d2980$a47c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 10/11/2000, Sebas angustiado inventó:
+
+>> Lo de las palabras que se cortan depende mayormente de la definicion a la
+>> hora de verse la página.
+>> Estas en 800x600???
+S> Sip, pero con otras paginas no me pasa... y no creo ser el único en esta
+S> situación, quiero decir, desde mi absoluta ignorancia... ¿eso no se arregla
+S> para que todo el mundo lo vea bien sin importar la definición?
+
+S> qué bruto soy, no?
+
+Es que la mayoria de los autores de paginas web se preocupan
+principalmente de como se ve.
+Eso es un abuso. La web no se diseño para garantizar que las cosas se
+vean asi o asa. Se diseño para intercambiar y compartir conocimiento.
+Y no importa con que tipografia o colorcitos digas algo, lo que cuenta
+es lo que dice.
+
+Pero claro, yo soy una especie en extincion.
+
+
+-- 
+Groucho Marx
+Sí... Tenemos seguridad, pero ¿a que precio? -- Milhouse
+
+
+

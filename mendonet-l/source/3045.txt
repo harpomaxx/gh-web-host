@@ -1,0 +1,75 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 15 Nov 2001 01:52:00 -0000
+Received: (qmail 71628 invoked from network); 15 Nov 2001 01:51:59 -0000
+Received: from unknown (216.115.97.167)
+  by m10.grp.snv.yahoo.com with QMQP; 15 Nov 2001 01:51:59 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta1.grp.snv.yahoo.com with SMTP; 15 Nov 2001 01:52:00 -0000
+Received: from gateway.micasa.org.ar (200-41-21-121-tntmen1.impsat.net.ar [200.41.21.121])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA29294
+	for <mendonet-l@...>; Wed, 14 Nov 2001 22:57:42 +0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 164B2B-0006dR-00
+	for <mendonet-l@...>; Wed, 14 Nov 2001 22:09:39 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 164B2A-0006dG-00
+	for <mendonet-l@...>; Wed, 14 Nov 2001 22:09:38 -0300
+Date: Wed, 14 Nov 2001 22:09:38 -0300
+To: mendonet-l@...
+Subject: Re: _ebax y su =?iso-8859-1?B?ZW1vY2nzbi4u?=
+	=?iso-8859-1?Q?=2E?=
+Message-ID: <20011114220938.G25154@...>
+References: <9958.011110@...> <14555.011111@...> <1762423843.20011114010626@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <1762423843.20011114010626@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Wed, Nov 14, 2001 at 01:06:26AM -0300, Oxiuro wrote:
+
+> Siempre me pregunte eso...
+> Por que dicen "ganamos" o "perdimos" o "somos campeones"????
+> Ni siquiera pisaron el campo de juego, no corrieron, no sudaron,
+> no entrenaron, no recibieron escupitajos, no recibieron instrucciones,
+> nada de nada.
+> Es mas, la mayoria ve el partido tranquilamente en su casa, junto a
+> su bebida preferida, amigos o no, etc. y es mas, algunos hasta se
+> ponen a joder entre si y ni miran el partido, solo se callan y ven la
+> pantalla cuando se escucha la palabra "gol".
+
+Si, es muy gracioso. Dicen "me gustan los deportes" solo porque el domingo
+arrancan temprano con las carreras de F1, siguen con el TC mientras preparan
+en asado, luego hacen zapping en PSN/ESPN entre golf, basket y 2 o 3 cosas
+mas exoticas, y se enganchan toda la tarde con el futbol.
+
+Si les gustaran los deportes, al menos saldrian a correr.
+
+
+> Tampoco me vengan con eso de "somos parte del equipo" y no cuanta cosa
+> mas porque estoy seguro que si alguno de ustedes dice "soy hincha de
+> <supongamos> Boca" y se quiere meter a entrenar con el equipo antes de
+> un partido lo sacan a las patadas (eso si lo dejan entrar), o sea, no
+> son parte del equipo.
+
+Yo te explico como es que si son parte de un equipo.
+Es que en un equipo no todos hacen las mismas tareas. A algunos les toca
+atajar, a otros correr, y a otros poner estupidamente la plata en forma de
+consumo de los productos publicitados, cuotas de servicio de television
+codificada, etc.
+El proposito del equipo es el deporte? Dificilmente. Llenar de plata a los
+jugadores? No, ellos son solo un instrumento. Es todo un truco de los medios
+masivos para llenarse de plata.
+
+
+-- 
+Groucho
+
+
+
+

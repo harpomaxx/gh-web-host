@@ -1,0 +1,50 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 12714 invoked from network); 9 Aug 2000 01:41:40 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 9 Aug 2000 01:41:40 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 9 Aug 2000 01:41:38 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.55 [200.41.21.55] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA26692 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 22:44:16 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id VAA04523 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 21:34:13 -0300
+Sender: federico@...
+Message-ID: <3990A705.E8255D6F@...>
+Date: Tue, 08 Aug 2000 21:34:13 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.16 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: SI AL ARANCEL.
+References: <20000803032100.91912.qmail@...> <15667.000808@...>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Cabeza <fedped@...>
+
+Groucho Marx wrote:
+> 
+> >>
+> >>El Groucho apetito, tiene bastante, lo digo porque lo vi comer asado el
+> >>domingo.
+> 
+> El domingo... A ver... Almorzamos en el Shopping ese "Del Siglo" pero
+> vos te quedaste en el hotel haciendo vaya a saberse que con tu novia.
+> Y cenamos en ese lugar "Pizza No-Se-Que" que era carero y donde me
+> comi 2 porciones de papas fritas y todo el mani que pude conseguir.
+
+para colmo de carero, la pizza estaba dura como una piedra.
+ 
+> No, no comi asado en ningun lugar porque lo hacen medio crudo.
+> O te referias a otra cosa?
+
+si, choclos asados.
+en realidad me referia al domingo anterior, ya que ese mail lo
+mande antes del viaje... 
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+Manual said: "Windows 98 or better"... so I installed Linux
+

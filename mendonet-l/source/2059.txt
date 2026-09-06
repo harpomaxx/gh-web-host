@@ -1,0 +1,38 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 30 Jan 2002 16:55:56 -0000
+Received: (qmail 88850 invoked from network); 30 Jan 2002 16:55:56 -0000
+Received: from unknown (216.115.97.172)
+  by m9.grp.snv.yahoo.com with QMQP; 30 Jan 2002 16:55:56 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta2.grp.snv.yahoo.com with SMTP; 30 Jan 2002 16:55:55 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with SMTP id NAA26496
+	for <mendonet-l@...>; Wed, 30 Jan 2002 13:56:25 +0300 (GMT)
+Message-ID: <00c101c1a9af$1bd1f4c0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20020128182954.GD3439@...> <15566.020129@...>
+Subject: Re: Re[2]: La colonia perfecta de Sebas y Lupus
+Date: Wed, 30 Jan 2002 13:56:48 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> GM> Bueno, bueno. Entonces tambien algunos peptidos son ferrosos,
+> Mmmhh... no recuerdo cuales... ¿qué aminoácido tiene hierro?
+
+Alguno que forme parte de la hemoglobina.
+
+--
+Groucho
+
+

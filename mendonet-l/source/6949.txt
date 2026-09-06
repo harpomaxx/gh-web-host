@@ -1,0 +1,61 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 18:13:33 -0000
+Received: (qmail 73708 invoked from network); 15 Nov 2000 18:13:33 -0000
+Received: from unknown (10.1.10.27) by m8.onelist.org with QMQP; 15 Nov 2000 18:13:33 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta2 with SMTP; 15 Nov 2000 18:13:33 -0000
+Received: (qmail 22851 invoked by uid 417); 15 Nov 2000 18:18:11 -0000
+Received: from unknown (HELO 200.41.31.63) (200.41.31.63) by smtpb.softhome.net with SMTP; 15 Nov 2000 18:18:11 -0000
+Date: Tue, 14 Nov 2000 16:06:48 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <14671.001114@...>
+To: mendonet-l@egroups.com
+Subject: Re[3]: A todo esto........
+In-reply-To: <515.001111@...>
+References: <515.001111@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Tuesday, November 14, 2000, 12:21:36 AM, you wrote:
+
+GM> El 10/11/2000, Sebas angustiado inventó:
+
+>>> Lo de las palabras que se cortan depende mayormente de la definicion a la
+>>> hora de verse la página.
+>>> Estas en 800x600???
+S>> Sip, pero con otras paginas no me pasa... y no creo ser el único en esta
+S>> situación, quiero decir, desde mi absoluta ignorancia... ¿eso no se arregla
+S>> para que todo el mundo lo vea bien sin importar la definición?
+
+S>> qué bruto soy, no?
+
+GM> Es que la mayoria de los autores de paginas web se preocupan
+GM> principalmente de como se ve.
+GM> Eso es un abuso. La web no se diseño para garantizar que las cosas se
+GM> vean asi o asa. Se diseño para intercambiar y compartir conocimiento.
+GM> Y no importa con que tipografia o colorcitos digas algo, lo que cuenta
+GM> es lo que dice.
+
+y si no dice nada hay que adornarlo de alguna forma no...?
+
+GM> Pero claro, yo soy una especie en extincion.
+
+      y yo soy de la brigada conservacionista
+
+
+
+-- 
+  nadie, apoltronado en la tibieza de una vida timorata,
+  puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                            
+
+
+

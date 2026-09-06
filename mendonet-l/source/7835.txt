@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 30 Oct 2000 02:45:00 -0000
+Received: (qmail 3092 invoked from network); 30 Oct 2000 02:44:59 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 30 Oct 2000 02:44:59 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta3 with SMTP; 30 Oct 2000 02:44:58 -0000
+Received: from antro.micasa ([200.41.31.15]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA17355 for <mendonet-l@egroups.com>; Sun, 29 Oct 2000 23:45:36 +0300 (GMT)
+Date: Sun, 29 Oct 2000 23:23:34 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <16974.001029@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmU6IMlyYXNlIHVuIGhvbWJyZSBjb24gcHJvYmxlbWFzIGRlIFBD?=
+In-reply-To: <008701c040f7$7dc5f900$117c2ac8@tepes>
+References: <008701c040f7$7dc5f900$117c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 28/10/2000, Sebas apurado blasfemó:
+
+>> Una pregunta: si lo grabas como plantilla, pero con extension doc,
+>> te deja grabarlo?
+S> Sabés de qué me dí cuenta? De que todos los archivos que tiene
+S> problemas han pasado por la máquina de Marianella X, con ella
+S> mantengo un maileo en un adjunto de Word,
+
+Uff... No quiero ni pensar por que les resulta conveniente mailearse
+mandandose archivos de word por mail en lugar de simplemente
+mailearse por mail.
+
+S>  y los archivos que inicio
+S> en mi máquina y no pasan por la de ella andan bien, sin ese
+S> problema...supongo entonces que la de los virúse es ella, no?
+
+No se si es un virus.... Si fuese un virus, se te deberia infectar tu
+word y de ahi en mas tampoco andar los archivos que vos generas.
+A lo mejor ella usa una version de Word diferente que la tuya, lo cual
+confunde a tu version.
+O a lo mejor es un virus lo suficientemente mal hecho como para no
+copiarse bien a tu maquina.
+
+-- 
+Groucho Marx
+¡Si no lo veo, no es ilegal! -- Homero J. Simpson
+
+
+

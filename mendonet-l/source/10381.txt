@@ -1,0 +1,35 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+Received: (qmail 5159 invoked from network); 5 Jun 2000 19:19:06 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 5 Jun 2000 19:19:06 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 5 Jun 2000 19:19:05 -0000
+Received: (qmail 13001 invoked by uid 417); 5 Jun 2000 19:19:56 -0000
+Received: from unknown (HELO ANTRO) (200.41.31.88) by smtpb.softhome.net with SMTP; 5 Jun 2000 19:19:56 -0000
+Date: Sat, 3 Jun 2000 20:58:11 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <12873.000603@...>
+To: mendonet-l@egroups.com
+Subject: =?ISO-8859-1?B?TWVkaWNp824gZGUgY29lZmljaWVudGU=?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+  A ver quien resuelve primero el problema:
+
+  EL BUEN PASTO
+  Una vaca pastaba en un campo perfectamente circular,de 100 metros de
+  diámetro. Fue comiendo el pasto del perímetro hasta dejar reducido
+  el campo a un circulo que tenía la mitad de superficie del original.
+ ¿cuántos metros de diámetro tendrá el circulo de pasto que quedó?
+
+-- 
+Que sueñen con los angelitos
+ Marc                         
+
+
+

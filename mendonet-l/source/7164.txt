@@ -1,0 +1,26 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 8 Nov 2000 13:00:05 -0000
+Received: (qmail 8511 invoked from network); 8 Nov 2000 13:00:04 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 8 Nov 2000 13:00:04 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 8 Nov 2000 13:00:03 -0000
+Received: (qmail 13476 invoked by uid 722); 8 Nov 2000 12:59:53 -0000
+Date: 8 Nov 2000 12:59:53 -0000
+Message-ID: <20001108125953.13465.qmail@...>
+To: mendonet-l@egroups.com
+Subject: sin subject
+From: fcanizo@...
+
+El 02/11/00, Sebas le susurraba a mendonet-l@egroups.com:
+ 
+ S>>  Los autos nuevos vienen con AVS (creo que así es la sigla),
+ S>>  sistema que impide que las ruedas se bloqueen.=20
+ S>Vivir con Víctor tiene sus privilegios
+ 
+ Que no son más que los desprivilegios.
+ 
+ 
+
+

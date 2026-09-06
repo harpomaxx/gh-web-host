@@ -1,0 +1,49 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 12 Nov 2000 15:52:28 -0000
+Received: (qmail 46192 invoked from network); 12 Nov 2000 15:52:26 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 12 Nov 2000 15:52:26 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 12 Nov 2000 15:52:26 -0000
+Received: (qmail 19827 invoked by uid 417); 12 Nov 2000 15:56:43 -0000
+Received: from unknown (HELO 200.41.31.122) (200.41.31.122) by smtpa.softhome.net with SMTP; 12 Nov 2000 15:56:43 -0000
+Date: Sun, 12 Nov 2000 12:41:46 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <5529.001112@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: A ver cerebritos...
+In-reply-To: <001901c04b3b$c4a25320$fe7c2ac8@tepes>
+References: <001901c04b3b$c4a25320$fe7c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Sunday, November 12, 2000, 2:27:43 PM, you wrote:
+
+S> ...(lo de cerebritos es con cariño) ¿podrían decirme porqué carajo n
+S> o puedo conectarme con softhome a través de the bat! ?
+S> En una de esas mi pregunta está poco entendible, pero hagan un esfuercito
+
+ Si es poco entendible
+ Bueno te fijaste que the bat sea el programa de correo
+ predeterminado(quisa ese no sea el problema )
+ confuiguraste bien la cuenta o sea en cuentas -->crear( se siguen
+ todos los pasos nombre, direccion, pop3, smtp, clave ) y listo
+ o podes ir a propiedades de la cuenta, si ya esta creada, y entrar en
+ transporte y revisar que los datos esten bien puestos.
+ Que mal que explico no.;�)
+
+
+-- 
+  nadie, apoltronado en la tibieza de una vida timorata,
+  puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                            
+
+
+

@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 24 Feb 2003 13:23:04 -0000
+Received: (qmail 50005 invoked from network); 24 Feb 2003 13:23:03 -0000
+Received: from unknown (66.218.66.218)
+  by m11.grp.scd.yahoo.com with QMQP; 24 Feb 2003 13:23:03 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.73)
+  by mta3.grp.scd.yahoo.com with SMTP; 24 Feb 2003 13:23:02 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18nImk-00054X-00
+	for <mendonet-l@...>; Mon, 24 Feb 2003 10:36:46 -0300
+Message-ID: <3E5A1CA4.8070603@...>
+Date: Mon, 24 Feb 2003 10:22:44 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: que es ser progre
+References: <0342.030222@...>
+In-Reply-To: <0342.030222@...>
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+> Avisó: “Tal vez lo que voy a decir suene brutal”. Y explicó: “Estoy de
+> parte  de  Roca”. Roca es Julio Argentino Roca, el general que comandó
+> en  1879  la  conquista  del desierto, y su admirador es Ricardo López
+> Murphy,  que ayer criticó en Bariloche a los indígenas que reclaman la
+> propiedad de la tierra.
+> Todo un progresista.
+
+Acaso el dice ser progresista?
+Que se entiende exactamente por progresista? Me haría falta un 
+diccionario de términos políticos. Lo que el uso me permite deducir es 
+que los progresistas son socialistas a la europea: estan a favor del 
+libre mercado y del capitalismo pero quieren que el estado modere los 
+excesos y desviaciones que no lleven al progreso y el bien comun.
+
+Yo... Tambien estoy de parte de Roca. Y ya estoy casi seguro de que voy 
+a votar a Lopez Murphy.
+
+-- 
+Groucho
+
+
+

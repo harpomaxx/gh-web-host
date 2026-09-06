@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 14574 invoked from network); 5 Sep 2000 18:50:06 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 5 Sep 2000 18:50:06 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta2 with SMTP; 5 Sep 2000 18:50:04 -0000
+Received: from a3d25.impsat.net.ar (a3d25.impsat.net.ar [200.41.21.145]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id PAA17432 for <mendonet-l@egroups.com>; Tue, 5 Sep 2000 15:52:44 +0300 (GMT)
+Date: Mon, 4 Sep 2000 18:47:39 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <13783.000904@...>
+To: El Goofer <mendonet-l@egroups.com>
+Subject: Re[2]: Harpo: prueba
+In-reply-To: <39B1A774.75315354@...>
+References: <39B1A774.75315354@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 02/09/2000, El Goofer apurado recitó:
+
+EG> De hecho el menem tocoto funcionaba así, grabándose en la pista 0 y
+EG> trasladando lo que había ahí a otra... 
+EG> Cuando arrancaba lo hacía desde la 0, que ejecutaba el virus, y despues
+EG> saltaba a la (ponele 7)
+EG> Si un antivirus buscaba leer la pista 0 para ver si el sector de
+EG> arranque estaba contaminado, el virus redireccionaba el pedido a esa
+EG> desplazada pista 7
+
+Un ejemplo magistral de shadowing.
+
+
+-- 
+Groucho Marx
+Ya no necesito el diploma de la secundaria!
+Soy intelectual! Muy inteligente!
+Soy intelectual! Muy inteligente! -- Homero J. Simpson
+
+
+

@@ -1,0 +1,107 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_2); 11 Feb 2002 12:15:54 -0000
+Received: (qmail 65123 invoked from network); 11 Feb 2002 12:15:54 -0000
+Received: from unknown (216.115.97.172)
+  by m3.grp.snv.yahoo.com with QMQP; 11 Feb 2002 12:15:54 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2.grp.snv.yahoo.com with SMTP; 11 Feb 2002 12:15:54 -0000
+Received: from modem14-as1.mendoza.sinectis.com.ar ([216.244.255.14])
+  by softhome.net with esmtp; Mon, 11 Feb 2002 05:13:22 -0700
+Date: Sat, 9 Feb 2002 17:39:27 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <8735.020209@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbMTBdOiBEZWxpcmlvcyBpbmluZnVuZGFkb3MuLi4gvy4uLj8gbG8g?= =?ISO-8859-1?B?cXVlIGhhY2UgZWwgdGllbXBvIGRlIG9jaW8uLi4=?=
+In-reply-To: <7922.020208@...>
+References: <7922.020208@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+
+L>> deben pesar varias toneladas... no es un molinito pedorro de madera de
+L>> 30 kilos... no lo vas a mover con una aletita de tela como si fuera de
+L>> madera balsa... es bastante más complicado que eso...
+S> Es curioso que un ingeniero diga semejante barbaridad... por un lado,
+S> los molinos para energía eólica que ví en el sur, eran bastante
+S> chiquitos, no daba para pesar toneladas... por otro lado, por más que
+S> la parte relacionada a las haspas y ese conito que tenían atrás,
+S> pesaran toneladas, el viento no debe mover todas esas toneladas, a ese
+S> peso lo soporta el pie del molino... si te sentís muy estúpido
+S> recibiendo esta explicación, hacés bien... tu explicación fue muy
+S> precaria, deberías haber explicado los porqués.
+
+Puta... qué rompe bolas...
+
+Mierda... estará cholulo... ¿no dije que en el oeste del país es mucho
+más   barata   la    generación  hidroeléctrica...??!!  ¿no  dije  que
+funciona  el  100%  del  tiempo  (aunque a veces es necesario volver a
+bombear  agua  arriba durante la noche... hay turbinas que trabajan al
+revés   (osea,  como bombas de agua) para poder hacer eso...) De todos
+modos... me estoy llendo a la mierda...
+
+Yo  nunca dije que sea imposible la generación eolica en mendoza, solo
+dije  que  sería  más caro generar acá que hacerlo en puerto madrin, y
+además que sería más caro generar asi que hacerlo mediante turbinas de
+agua.
+
+Volviendo:
+
+Hay dos formas de orientar el molino:
+
+1)  solo  orientar  las aspas (No creo que sea con "h"), de modo de no
+tener  que mover el "conito" que es más dificil. Girar las aspas sería
+medianamente  sencillo (son más livianas), pero eso implicaría preveer
+un  sistema  capaz  de trasmitir el torque en ángulos variables. Estos
+sistemas  existen  (un  ejemplo  lo  podés  encontrar  en  las  ruedas
+delanteras de los autos con tracción delantera, las ruedas son capaces
+de girar cierto ángulo y seguir trasmitiendo la fuerza del motor). Las
+desventajas  son:  ese  sistema  es  más caro que un eje fijo, hay más
+partes   móviles   y   requiere   seguramente  de  más  mantenimiento
+y,  principalmente,   tiene   menor   rendimiento  (solo  por trabajar
+girado...)
+
+2)  Mover todo. Es cierto que el peso del molinito es sostenido por la
+base,  pero si, como a mí me parece, el molino es pesado, para moverlo
+hay  que  vencer  la fuerza de rozamiento de las partes móviles, si la
+diferencia  de  ángulo  entre  el  viento  y el molino no es grande la
+fuerza  generada también será muy pequeña y, en el mejor de los casos,
+el  sistema  terminaría  teniendo  una  inercia  considerable, bajando
+considerablemente   el   rendimiento del  aparatejo...  cosa  que  no
+ocurriría   en   una  central  hidroeléctrica... Si el vicho es pesado
+el  rosamiento  va  a ser más o menos importante... no se que tan bien
+funcionaría  el  dejarlo  orientarse solito con el viento... y en todo
+caso,  no  recuerdo  que  los generadores eólicos del sur tuvieran una
+cola para que se orienten solos...
+Además,  si   el  viento  cambia frecuentemente de dirección el molino
+funciona como el orto...
+
+Habría  que  tener  algunos  datos  más,  la  verdad  que  de  molinos
+generadores  no se un carajo, pero yo  diría que sería conveniente
+agregar  un  sistema eléctrico, un motorcito eléctrico pedorro con una
+caja  de reducción y unos controles automáticos en función de sensores
+que  detecten la velocidad del viento; para orientar momento a momento
+al  molino  de  la mejor forma posible, con generador y todo... así se
+lograría la mayor eficiencia... aunque habría que ver si el sistema no
+consume más energía de la que recupera...
+
+De  todos  modos,  que  yo sepa, los molinos de viento solo se usan en
+lugares  donde  hay  viento  de  dirección  y  velocidad relativamente
+constante durante una buena parte del año, si no, no es negocio...
+
+
+Lupus
+
+-- 
+
+PRESIDENT OF THE STREET: Presidente De la Rua           
+
+
+

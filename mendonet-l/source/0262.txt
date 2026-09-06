@@ -1,0 +1,42 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 60481 invoked from network); 15 Aug 2003 01:58:34 -0000
+Received: from unknown (66.218.66.216)
+  by m5.grp.scd.yahoo.com with QMQP; 15 Aug 2003 01:58:34 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 15 Aug 2003 01:58:34 -0000
+Received: (qmail 1939 invoked by uid 417); 15 Aug 2003 01:58:33 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 15 Aug 2003 01:58:33 -0000
+Received: from dup-200-42-125-24.prima.net.ar ([200.42.125.24])
+  (AUTH: PLAIN xebax@...)
+  by softhome.net with esmtp; Thu, 14 Aug 2003 19:58:31 -0600
+Date: Thu, 14 Aug 2003 22:42:49 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <14946.030814@...>
+To: rodralez forknet <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbMl06IENoYXJy+mEgc2UgcHJlc2VudGE=?=
+In-reply-To: <2043674.20030813225216@...>
+References: <2043674.20030813225216@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+rf> Debo advertirte que el "zurdaje" llegó también a Mendonet asi que
+rf> movete con cuidado.
+
+¿Qué te lleva a identificar la oriental como "derechaje"?
+
+
+-- 
+Sebas   
+Cuando cierran los números, las cuentas, las fábricas y los estómagos. Malos días.                       
+
+
+

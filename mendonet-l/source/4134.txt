@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:56:32 -0000
+Received: (qmail 63088 invoked from network); 5 Oct 2001 02:56:32 -0000
+Received: from unknown (10.1.10.27)
+  by l8.egroups.com with QMQP; 5 Oct 2001 02:56:32 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2 with SMTP; 5 Oct 2001 02:56:31 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id AAA24884
+	for <mendonet-l@...>; Fri, 5 Oct 2001 00:01:57 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pGh3-0000CZ-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 19:10:13 -0300
+Date: Thu, 4 Oct 2001 19:11:00 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <19799.011004@...>
+To: Morganti Federico <mendonet-l@...>
+Subject: Re[10]: Se acabo sebitas... UFA!-no more mr. nice guy-
+In-reply-To: <OE15d4SaT3Jb1zqfyY5000062b3@...>
+References: <OE15d4SaT3Jb1zqfyY5000062b3@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Morganti,
+
+Saturday, September 29, 2001, 3:37:11 PM, you wrote:
+
+
+MF> de todos modos en la palabra "obvio" hay una "v" o una "b" que
+MF> sobra eso si que es un gasto energético, ¿ortografia y la puta que
+MF> te pario!
+
+No sobra!! Debes pronunciar las 2 letras separadas: OB-VIO
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

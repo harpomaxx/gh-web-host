@@ -1,0 +1,81 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_2); 11 Dec 2001 16:41:58 -0000
+Received: (qmail 63314 invoked from network); 11 Dec 2001 16:41:58 -0000
+Received: from unknown (216.115.97.172)
+  by m2.grp.snv.yahoo.com with QMQP; 11 Dec 2001 16:41:58 -0000
+Received: from unknown (HELO kastor) (168.226.90.56)
+  by mta2.grp.snv.yahoo.com with SMTP; 11 Dec 2001 16:41:57 -0000
+Received: from there (localhost.localdomain [127.0.0.1])
+	by kastor (Postfix) with SMTP id 0FA8E256EB
+	for <mendonet-l@...>; Tue, 11 Dec 2001 13:38:48 -0300 (ART)
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Organization: @ndromeda group
+Message-Id: <200112111338.37248@X-KASTOR >
+To: mendonet-l@...
+Subject: Re: Re[2]: Siguen las preguntas =?iso-8859-1?q?informaticas=2E=2E=2E?=
+Date: Tue, 11 Dec 2001 13:38:47 -0300
+X-Mailer: KMail [version 1.3.1]
+References: <20011210162513.J3348@...> <19786.011210@...>
+In-Reply-To: <19786.011210@...>
+X-KASTOR-2: NO AL PAGO DE LA DEUDA EXTERNA!!!
+X-KASTOR-1: don't look my headers ass hole!!!
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+From: kastor troy <root@...>
+X-Yahoo-Group-Post: member; u=76410190
+
+El Lunes 10 Diciembre 2001 18:52, Lupus escribio:
+> GM> On Sun, Dec 09, 2=
+001 at 10:28:38AM -0300, Lupus wrote:
+> >> Hay  alguna  forma  de  desactiv=
+ar  los  molestisimos autorun??
+>
+> GM> Aparte de reemplazando windows po=
+r Linux?
+> GM> Si.
+> GM> Le desactivas la notificacion de insercion automat=
+ica en las
+> propiedades GM> de la lectora en en device manager, con lo que=
+ ademas
+> tampoco te cierra GM> ventanas que tengas abiertas en el explorad=
+or cuando
+> sacas el CD. GM> Otra posibilidad mas precisa (por ejemplo, pod=
+es
+> desactivar autorun solo GM> para cds de datos o solo de musica) es toc=
+ando
+> el registro o usando un GM> porgramita que venia con los power toys.=
+..
+>
+> Lupus agradecido.
+>
+> A proposito, tengo un cd con 6 examenes de=
+l toefl, por si a alguien le
+> interesa...
+>
+>
+> Lupus
+
+pinto... como podem=
+os hacer?
+
+-- 
+  kastor troy
+ _____________________________________________=
+_
+  kastor@... / root@...
+  kastor@...
+=
+  http://kastor.com.ar [kastor online]
+  Linux User #179479 Linux Box #1314=
+21
+  ICQ #29242971 
+  Jabber ID: kastor#jabber.linuxmendoza.org.ar
+  powere=
+d by gnu/linux & ::fobos server::
+ ________________________________________=
+______
+

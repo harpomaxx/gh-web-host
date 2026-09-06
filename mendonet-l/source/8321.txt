@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 31990 invoked from network); 9 Sep 2000 01:02:23 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 9 Sep 2000 01:02:23 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta2 with SMTP; 9 Sep 2000 01:02:21 -0000
+Received: from 200.41.31.77 ([200.41.31.77]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA16927 for <mendonet-l@egroups.com>; Fri, 8 Sep 2000 22:03:47 +0300 (GMT)
+Date: Wed, 6 Sep 2000 17:50:40 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <7743.000906@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: prueba
+In-reply-To: <00a001c01762$d22ef320$f77d2ac8@tepes>
+References: <00a001c01762$d22ef320$f77d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 05/09/2000, Sebas velozmente blasfemó:
+
+>> > Ademas, siempre es posible motivarme para hacer algo "for free".
+>> > Harpo lo sabe, EL Zeppo lo sabe, y mis empleadores todavia no.
+>> > Tal vez vos descubras la manera.
+
+S> Je! Ya no necesito de tus servicios groucho, por fin solucioné el problemita
+S> por mí mismo. Era tan simple como que todos mis problemas eran causados por
+S> este virus, un tal Eco-(b). Ahora no vamos a decir que la máquina anda hecha
+S> un pijazo, pero ya no es a leña.
+S> Gracias por vuestra preocupación.
+
+Bueno, el fundamento de por que se arreglo la maquina al sacar el
+virus te lo explique yo.
+Espero que te sirva para otra vez, y que te acuerdes que me debes un
+favor.
+
+
+-- 
+Groucho Marx
+Verás hijo, la mujer es como una heladera. -- Homero J. Simpson
+
+
+

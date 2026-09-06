@@ -1,0 +1,48 @@
+From gabrielsublime@...  Sat Jul 11 23:23:58 2020
+Return-Path: <gabrielsublime@...>
+X-Sender: gabrielsublime@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 63424 invoked from network); 6 Nov 2003 20:12:27 -0000
+Received: from unknown (66.218.66.218)
+  by m9.grp.scd.yahoo.com with QMQP; 6 Nov 2003 20:12:27 -0000
+Received: from unknown (HELO muddy.fedped.com.ar) (200.80.52.246)
+  by mta3.grp.scd.yahoo.com with SMTP; 6 Nov 2003 20:12:27 -0000
+Received: (qmail 5195 invoked by uid 1005); 6 Nov 2003 20:12:25 -0000
+Received: from gabrielsublime@... by muddy by uid 1002 with qmail-scanner-1.20rc1 
+ (avp: 4.0.0.1.  Clear:RC:1:. 
+ Processed in 0.045755 secs); 06 Nov 2003 20:12:25 -0000
+Received: from unknown (HELO hasta-el-ojo) (192.168.109.4)
+  by 192.168.109.10 with SMTP; 6 Nov 2003 20:12:24 -0000
+Date: Thu, 6 Nov 2003 17:12:22 -0300
+X-Mailer: The Bat! (v1.61)
+Organization: Hasta el ojo
+X-Priority: 3 (Normal)
+Message-ID: <59141202358.20031106171222@...>
+To: mendonet-l@...
+Subject: sobre la expo del lug
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Mr Ska <gabrielsublime@...>
+Reply-To: Mr Ska <gabrielsublime@...>
+X-Originating-IP: 200.80.52.246
+X-Yahoo-Group-Post: member; u=131141227
+X-Yahoo-Profile: gabrielsublime
+
+Y Groucho?? que paso??
+
+Te mande una mail el sabado confirmando el espacio en el programa del
+lunes para hacer una nota sobre la Expo.
+
+No te llego??
+
+Bue... hubiese estado bueno hablar un poco sobre software libre y
+propietario.
+
+Lastima :/
+
+-- 
+"Estos son mis principios. Si a usted no le gustan, tengo otros."
+ (Groucho Marx)
+
+

@@ -1,0 +1,37 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 17054 invoked from network); 17 Aug 2000 21:35:44 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 17 Aug 2000 21:35:44 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 17 Aug 2000 21:35:42 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.17 [200.41.21.17] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id SAA22036 for <mendonet-l@egroups.com>; Thu, 17 Aug 2000 18:38:19 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id SAA02274 for <mendonet-l@egroups.com>; Thu, 17 Aug 2000 18:40:48 -0300
+Sender: federico@...
+Message-ID: <399C5BE0.423DE740@...>
+Date: Thu, 17 Aug 2000 18:40:48 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.16 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: IN PURIBUS
+References: <399A2486.1BDEF5FC@...> <1686.000816@...>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Cabeza <fedped@...>
+
+Groucho Marx wrote:
+> 
+> El 16/08/2000, Cabeza No se pudo abrir el archivo C:\Archivos de programa\The Bat!\MAIL\adverbios.txt No se pudo abrir el archivo C:\Archivos de programa\The Bat!\MAIL\verbos.txt:
+
+Groucho, arregla esto, que me haces quedar mal. 
+
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+Motto: Linux is like a wigwam - no windows, no gates, apache inside!
+

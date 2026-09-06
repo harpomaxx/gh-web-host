@@ -1,0 +1,48 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 6 Nov 2001 03:17:40 -0000
+Received: (qmail 28688 invoked from network); 6 Nov 2001 03:17:39 -0000
+Received: from unknown (216.115.97.172)
+  by m2.grp.snv.yahoo.com with QMQP; 6 Nov 2001 03:17:39 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2.grp.snv.yahoo.com with SMTP; 6 Nov 2001 03:17:39 -0000
+Received: from 200-41-21-173-tntmen1.impsat.net.ar ([200.41.21.173])
+  by softhome.net with esmtp; Mon, 05 Nov 2001 20:10:36 -0700
+Date: Tue, 6 Nov 2001 00:19:51 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: rodralez <rodralez@...>
+X-Priority: 3 (Normal)
+Message-ID: <213.011106@...>
+To: mendonet-l@...
+Subject: Re[2]: Riesgo pais ??!... no pibe... Riesgo Mendonet !.
+In-reply-To: <1132005640.20011104034355@...>
+References: <1132005640.20011104034355@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: rodralez <rodralez@...>
+X-Yahoo-Profile: rodralez
+
+Oxiuro decia:
+
+r>> Lo gracioso fue leerlo al Oxiuro creyendo que yo puedo programar en COBOL.
+r>> En COBOL !!!!.
+
+> Y lo gracioso???
+> COBOL no es tan dificil...
+
+Disculpá, no recordaba que estaba hablando con un genio de la
+programación (?!).
+
+La historia que es un lenguaje muy viejo, que estimo que, a esta
+altura de la humanidad, nadie debe usar.
+
+Pero dejalo ahi Oxi, ya le quitaste toda la gracia a este asunto.
+Lo lograste.
+
+rodralez
+
+
+

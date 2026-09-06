@@ -1,0 +1,233 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 21 Jan 2002 12:52:38 -0000
+Received: (qmail 11999 invoked from network); 21 Jan 2002 12:52:38 -0000
+Received: from unknown (216.115.97.167)
+  by m12.grp.snv.yahoo.com with QMQP; 21 Jan 2002 12:52:38 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta1.grp.snv.yahoo.com with SMTP; 21 Jan 2002 12:52:38 -0000
+Received: from modem99-as2.mendoza.sinectis.com.ar ([200.59.95.99])
+  by softhome.net with esmtp; Mon, 21 Jan 2002 05:52:11 -0700
+Date: Sat, 19 Jan 2002 15:14:59 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <12635.020119@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbNF06IERlbGlyaW9zIGluaW5mdW5kYWRvcy4uLiC/Li4uPyBsbyBx?= =?ISO-8859-1?B?dWUgaGFjZSBlbCB0aWVtcG8gZGUgb2Npby4uLg==?=
+In-reply-To: <10902.020117@...>
+References: <10902.020117@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+
+L>> Bueno,  qué  tal  si comenzamos con un trabajo intelectual, tipo brain
+L>> storming,  proponiendo  y eliminando los posibles trabajos necesarios,
+L>> una  vez  que  completemos  la  lista  de funciones óptimas, podríamos
+L>> tratar  de  ver las cantidades a producir necesarias, y las cantidades
+L>> de  personas  necesarias en cada puesto, incluyendo recreacion y algún
+L>> modo  de  vacaciones,
+S> Deberías empezar por pensar que dado que eso de que somos "libres" es
+S> una gran mentira, necesitás dinero para comprar un terreno grande y
+S> fértil.
+
+Qué  tan  grande...? Alguien tiene idea de la productividad que podría
+esperarse?
+
+Sobre  lo  fértil...  casi  todo  mendoza es fértil... solo hace falta
+agua...
+
+S> Un modelo que me parece correcto sería uno con capacidad de
+S> autoabastecerse de lo básico  a excepción de aquellos productos cuya
+S> producción resulta contraproducente, no tiene posibilidad de colocación
+S> de los excedentes en el mercado y de bajo costo externo. Por ejemplo,
+S> la harina de trigo. Requiere mucho campo y comprarla es barato.
+S> Además vas a necesitar dinero para vacaciones, universidad de tus
+S> hijos, ropa o en su defecto tela para confeccionarla, materiales de
+S> construcción, etc.. Por lo que yo creo que si se aspira a tener un
+S> estilo de vida con el comfort al que te acostumbraste, es
+S> estrictamente necesario interactuar con la sociedad y extraer dinero
+S> de ella.
+
+Si, ciertamente yo también había pensado en eso... habría que producir
+un poco de más de cualquier cosa que se produzca...
+
+S> Por ejemplo: se juntan 20 parejas sin hijos(eso les daría unos años
+S> para armar todo para cuando los niños lleguen). Dentro de esas 20
+S> parejas deberían haber, como mínimo, un médico, un ingeniero agrónomo,
+S> un ingeniero de conocimientos generales(debe saber de mecánica,
+S> construcción, electricidad, etc... ¿un industrial?),
+
+Suena  sensato...  aunque no había pensado en un generalista como algo
+fundamental,  porque  estaba  pensando  en  que  todos  los individuos
+deberían  cumplir  con ciertas características generalistas... pero en
+realidad, ahora que lo decís, suena muy lógico.
+
+S>  una docente
+S> altamente capacitada. Lo demás se aprende.
+
+Bueno, sobre la actividad docente... yo había pensado en un sistema en
+el  que  cada  individuo  esté capacitado para ejercer la docencia, en
+mayor  o  menor  nivel... de modo que una buena porción de la sociedad
+ocupara  una  porción de su tiempo en educar a los menores... no se...
+undía  a  la  semana  o  algo  así... auqneu para la educación básica,
+quiero  decir, para alfabetizar y enseñar la matemática indispensable,
+la  lengua  induspensable  y esas cosas, docentes profesionales serían
+una  buena  opción... aunque eso podría ser necesario solo durante los
+primeros  3  o  4  años  de  formación,  pudiendo  luego  seguir  algo
+organizado como decía antes...
+
+S> El médico es necesario porque no tenerlo te resulta más caro que
+S> tenerlo,
+
+Seguro,  por eso y porque sería deseable cierto desarrollo de medicina
+preventiva,  y  porque  sería  necesario tener lo a mano por cualquier
+eventualidad...
+
+S>  y porque si es un buen médico, tiene desarrollado un
+S> mecanismo de pensamiento que le facilita el diagnóstico de problemas,
+S> de cualquier tipo. Un ingeniero agrónomo(el alma de la colonia) para
+S> definir qué plantar, cuándo, como, etc y hacerlo de manera orgánica,
+S> para poder prescindir de químicos. Los otros dos profesionales no
+S> precisan justificación.
+
+Sería  interesante  que  existieran  mecanismos  de  recuperación  de
+desechos  orgánicos  para  hacer  los  abonos  orgánicos... (aunque lo
+más  seguro  es  que  no alcanzarían...). Algo así como concientizar a
+todos  de  separar  desechos  orgánicos como cáscaras y cosas así para
+formar  fertilizantes  naturales...  la  materia  fecal  también puede
+entrar  en  el  proceso, pero sería más complicado por una cuestión de
+higiene  y  pestes...  la  materia  fecal  animal, de cabras o vacas o
+gallinas, causaría en este sentido menos inconvenientes...
+
+Si el tema del fertilizante de esta procedencia funciona bien hasta se
+podría  "importar"  orgánicos  de  afuera, como cáscaras o desechos de
+algunas  industrias,  bosta  y boludeces así, para asegurarse de poder
+producir  la  suficiente  cantidad  de fertilizante orgánico necesario
+para el campo...
+
+S> En la colonia deberían producirse todos los productos que uno halla en
+S> la verdulería, conejos, vacas lecheras, cerdos, gallinas y vacas
+S> reproductoras, que deberían ser alimentados con productos de la colonia.
+
+Y  por  supuesto  frutas...  estaría bueno tener �rgoles frutales como
+manzanos,  naranjos  o por qué no nogales o tilos y cosas así en lugar
+de  simples paraisos, carolinos o álamos en las calles... de éste modo
+habrían varias frutas distintas y cosas de estas en períodos distintos
+al  alcance  de  la mano y con poco esfuerzo de producción, que además
+podrían envasarse para otras épocas en forma de dulces o mermeladas, o
+frutas en almivar y cosas de esas...
+
+La existencia de abejas puede ser deseable para la polinización de los
+frutos  y  para  obtener miel... pero si los frutos están intercalados
+entre las casas... las abejas pueden causar problemas... no se...
+
+S> Y de la misma producción de la colonia, deberían surgir los productos
+S> de intercambio con el exterior: un mercadito orgánico. Verdulería
+S> orgánica, productos de granja sin hormonas, panadería sin aditivos...
+S> son todos productos que necesariamente producir� la colonia, y que
+S> haciéndolo en una escala mayor, sirven para la venta. Además,  podés
+S> aprovechar el atractivo propio del lugar y poner un spa. Además, los
+S> integrantes de la colonia pueden destinar un corto lapso a servicios
+S> externos pagos. Por ej.: el médico puede trabajar unas 4 horas diarias
+S> en el medio externo, lo que además del dinero para las arcas de la
+S> colonia le permite tener medicamentos gratuitos y mantenerse
+S> actualizado. Igual para cualquier profesión.
+
+Si,  pero  habría  que limitarlo de algún modo, o imponer un número de
+horas  mínimas  de  trabajo  interno... de lo contrario terminaría por
+convertirse,  como  dice groucho por ahí, en un simple barrio privado,
+tal  vez  con  una  organización un poco más profunda... pero no mucho
+más...
+
+S> El tema de la energía es más jodido... la energía solar y eólica no es
+S> tan buena opción como yo pensaba.
+
+Como  buena  opción  es  muy buena... pero suelen ser fuentes caras de
+energía...   poner  genta  pedalear  no  me  parece  tampoco una buena
+opción... ;) habrá que conseguir esas cosas de afuera...
+
+S> Me cansé de escribir, pero he pensado muchas cosas más.
+
+Te escucho cuando tomes aliento...
+
+Además haría falta, por supuesto, que la población cumpliera funciones
+de  obrero,  chacarero y esas cosas... yo había pensado en un ideal en
+funcionamiento   donde   todos   tengan   una  serie  de  actividades
+obligatorias  o  de  ahí  en más desarrollen profesiones paralelas, de
+modo  que  tanto  los  ingenieros  como  los  médicos  o  los docentes
+cumplieran   con   cierto  labor  semanal  en  el  campo, en tareas de
+mantenimiento  necesarias  y luego para las cosechas o producciones de
+furtos...  de  ese  modo  nadie  se  ve  privado  de la posibilidad de
+estudiar  y  desarrollar una profesión o arte que le interese... de lo
+contrario  habría que contar con una especie de casta que hiciera esas
+cosas  y  que,  de  no  mantenerse, profesionalizarse y querer partir,
+dejaría a la colonia sin la mano de obra necesaria.
+
+Además,   estaría   bueno   que  todos  tuvieran  un  nivel  cultural
+desarrollado  (y  permanecieran en la comunidad por decisión propia, y
+no  por  no  tener  otro  lugar  donde ir...)y que todos estuvieran en
+cierta  medida  comprometidos  con  el  desarrollo  y  mejora  de  las
+funciones  del  "barrio"...  algo  así  como  un  proceso  de  mejora
+continua...
+
+La  idea  de  que  cada cual se dedique a algo en particular, como las
+profesiones  que  decías  antes,  y  además  cumplan ciertas funciones
+comunes,  como  cuidar  campo,  mantener ciertos frutales, desarrollar
+ciertos  temas  y  ejercer  cierta  docencia, es algo me me parece que
+sería  muy  positivo...  además, estaría bueno implementar especies de
+módulos  formadores para todos y para todas las edades, donde cada uno
+estudie algo de interés y luego exponga los adelantos y la información
+referente en una especie de aula donde puedan ir los que quieran... de
+ese  modo  se  podría  fomentar cierto desarrollo cultural abanzado...
+incluyendo  un  proceso  de  aprendizaje para todos los induviduos, no
+solo  para  los niños, lo que me parece que podría ser muy positivo, y
+fomentaría   conocimientos  y  desarrollos en muchos ámbitos distintos
+que  podrían  ir desde diversas artes hasta diversas ciencias... hasta
+podrían  surgir mejoras cuantiosas de los mecanismos de funcionamiento
+interno,  filosofía,  hasta cierto nivel de investigacion y desarrollo
+y, por qué no, cierta cantidad de proyectos útiles...
+
+L>> lo  que hace a la elección de administradores y la toma de decisiones,
+L>> así  como  también  en  lo  que  hace  a la violación de normas, tanto
+L>> internas como externas...
+S> El objetivo es que la convivencia sea espontáneamente agradable, por
+S> lo que se debería prescindir de reglamentos y cuestiones.
+
+Si,  pero  cierta  cantidad de decisiones deberían ser tomadas de forma
+comunitaria...  aunque  si  no  hay  mucha  gente un simple sistema de
+votación podría solucionar eso...
+
+Además,   si   seguimos   la  línea que planteaba antes, sobre la idea
+desarrollar polifasetismos en los individuos y de que cada cual cumpla
+un  cierto  número  de tar�as comunes, sería necesario cierto nivel de
+organización...  y  habría  que  intentar  que,  en  el caso de existir
+individuos  deseosos  de colaborar lo menos posible con cualquier tipo
+de  trabajo,  y  dado  que  esos  individuos no tendrían un sistema de
+premios  muy  claro  que  los insentivara; éstos cumplieran aun así un
+mínimo  de actividades de modo de no hacer tambalear la estabilidad de
+la  producción,  y de modo de no sobrecargar injustamente la labor del
+resto... Creo que cierto conjunto de reglas básicas debería existir...
+
+L>> Pero,  no  hay nada de esto echo de antemano? De qué carajo hablaba el
+L>> fourier ese...??
+S> En la época de Fourier era mucho más fácil porque las expectativas
+S> eran mucho menores.
+
+Seguramente...  pero  seguramente también las necesidades básicas eran
+las  mismas...  qué  cuenta  el fourier este... vos tenés el libro ese
+donde habla de esos falanstenerios (era así como les decía...?)
+
+Lupus
+
+-- 
+
+¿Qué es un fantasma?, preguntó stephen. Un hombre que se ha desvanecido hasta ser impalpable, por muerte, por ausencia o por cambio de constumbres. James Joyce         
+
+
+

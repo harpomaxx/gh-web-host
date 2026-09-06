@@ -1,0 +1,30 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_1); 21 Nov 2000 11:40:08 -0000
+Received: (qmail 18109 invoked from network); 21 Nov 2000 11:40:07 -0000
+Received: from unknown (10.1.10.142) by l9.egroups.com with QMQP; 21 Nov 2000 11:40:07 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta3 with SMTP; 21 Nov 2000 12:41:12 -0000
+Received: (qmail 8808 invoked by uid 722); 21 Nov 2000 11:39:51 -0000
+Date: 21 Nov 2000 11:39:51 -0000
+Message-ID: <20001121113951.8804.qmail@...>
+To: mendonet-l@egroups.com
+Subject: qpv
+From: fcanizo@...
+
+El 17/11/00, Groucho Marx le susurraba a fcanizo@...:
+ 
+ GM>fuea>  Pero si me jodió que fuera un archivo de powerpoint. Con qué
+ GM>fuea>  se lee eso? No me podía mandar un jpg la guacha?
+ GM>
+ GM>Cagate de risa, pero tengo un visor de imagenes que es capaz de
+ GM>entender los archivos de powerpoint y los muestra como animaciones
+ GM>gif.
+ GM>Se llama QPV.
+ 
+ Y en qué sistema operativo anda?
+ 
+ 
+
+

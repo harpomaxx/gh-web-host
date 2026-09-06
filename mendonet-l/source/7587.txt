@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 1 Nov 2000 01:59:55 -0000
+Received: (qmail 14981 invoked from network); 1 Nov 2000 01:59:55 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 1 Nov 2000 01:59:55 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 1 Nov 2000 01:59:53 -0000
+Received: from antro.micasa ([200.41.31.34]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA06533 for <mendonet-l@egroups.com>; Tue, 31 Oct 2000 23:02:38 +0300 (GMT)
+Date: Mon, 30 Oct 2000 17:06:07 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <6712.001030@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmVbMl06IMlyYXNlIHVuIGhvbWJyZSBjb24gcHJvYmxlbWFzIGRlIFBD?=
+In-reply-To: <00bd01c04296$c97fd6e0$fa7c2ac8@tepes>
+References: <00bd01c04296$c97fd6e0$fa7c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 30/10/2000, Sebas entrecortadamente detalló:
+
+>> Uff... No quiero ni pensar por que les resulta conveniente
+>> mailearse mandandose archivos de word por mail en lugar de
+>> simplemente mailearse por mail.
+S> El motivo es demasiado cursi para tus sensibles oidos groucho,
+S> recomiendo no preguntar.
+
+La tentacion de preguntar es dificil de resistir. No solo por
+curiosidad sino por la oportunidad de ofrecerte una tecnica superior.
+
+Pero si vos decis que me va a hacer mal saberlo, te creo.
+-- 
+Groucho Marx
+I will not get very far with this attitude -- Bart Simpson
+
+
+

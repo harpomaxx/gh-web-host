@@ -1,0 +1,45 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 12083 invoked from network); 27 Jul 2000 12:32:54 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 27 Jul 2000 12:32:54 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 27 Jul 2000 12:32:52 -0000
+Received: from LAGRUTA (rdumen1-200.41.21.69 [200.41.21.69] (may be forged)) by relay3.impsat1.com (8.9.3/8.9.3) with SMTP id JAA06594 for <mendonet-l@egroups.com>; Thu, 27 Jul 2000 09:35:05 +0300 (GMT)
+Message-ID: <001a01bff7c7$4fb6dd00$090aa8c0@...>
+To: <mendonet-l@egroups.com>
+References: <Pine.LNX.4.04.10007210356160.10087-100000@...>
+Subject: RE: Re[2]: Para todos los...
+Date: Thu, 27 Jul 2000 09:36:38 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: =?iso-8859-1?Q?Fernando_Rodriguez?= <groucho@...>
+
+> GM>No. Son cagadas. Primero, casi ningun archivo MP3 tiene completamente
+> GM>rellenado el ID TAG que el menciona, y segundo, el nombre de archivo
+> GM>es mucho mas visible y manejable y en un sistema operativo decente,
+> GM>existirian decenas de herramientas capaces de manipular archivos en
+> GM>base a su nombre, y 0 o tal vez 1 capaz de manipular solo una pequeña
+> GM>parte de todos los archivos en base al MP3 ID TAG.
+>
+> Sin embargo la IDTag te permite colocar mas informacion aparte de nombre
+> de banda y tema, podes colocar album, estilo, y aparte un comentario
+simpatico
+> sobre el momento en que se hizo!!!
+
+Estoy de acuerdo... Permit colocar un monton de datos, pero el player que
+uses
+de toda esa informacion muestra una pequeña parte, por lo general el nombre
+del tema y del interprete y en ausencia de esos datos, el nombre del
+archivo.
+Y si le estan apareciendo nombr~1 cortad~1, entonces lo que el esta viendo
+son
+los nombres de archivo.
+
+Groucho
+
+
+

@@ -1,0 +1,17 @@
+From foo@bar  Sat Jul 11 23:23:58 2020
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+(descripcion del tipo de contenido del mensaje)
+
+
+> La pregunta nace porque al poner un filtro en el the bat me encontré
+> con ese término, y aparentemente es muy groso.
+
+Si, grosisimo.
+
+
+--
+Groucho
+
+

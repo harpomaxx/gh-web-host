@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 7 Nov 2002 18:12:11 -0000
+Received: (qmail 65009 invoked from network); 7 Nov 2002 18:12:09 -0000
+Received: from unknown (66.218.66.216)
+  by m13.grp.scd.yahoo.com with QMQP; 7 Nov 2002 18:12:07 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta1.grp.scd.yahoo.com with SMTP; 7 Nov 2002 18:12:05 -0000
+Received: from kavkeeper by pandora.negyser.com.ar with local (Exim 3.35 #1 (Debian))
+	id 189rA5-0001fj-00
+	for <mendonet-l@...>; Thu, 07 Nov 2002 15:13:49 -0300
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 189rA4-0001fY-00
+	for <mendonet-l@...>; Thu, 07 Nov 2002 15:13:48 -0300
+Message-ID: <3DCAACF1.6010705@...>
+Date: Thu, 07 Nov 2002 15:12:01 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.0.1) Gecko/20020826
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: (unknown)
+References: <1486.021107@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+> ¿Por qué a los autos gasoleros no se les puede poner equipo de gas?
+> 
+
+
+
+
+
+
+

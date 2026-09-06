@@ -1,0 +1,82 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 7 Nov 2001 05:42:46 -0000
+Received: (qmail 97387 invoked from network); 7 Nov 2001 05:42:46 -0000
+Received: from unknown (216.115.97.172)
+  by m8.grp.snv.yahoo.com with QMQP; 7 Nov 2001 05:42:46 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2.grp.snv.yahoo.com with SMTP; 7 Nov 2001 05:42:46 -0000
+Received: from modem38-as3.mendoza.sinectis.com.ar ([216.244.255.158])
+  by softhome.net with esmtp; Tue, 06 Nov 2001 22:35:34 -0700
+Date: Tue, 6 Nov 2001 12:59:44 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus <aldocop@...>
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <2541.011106@...>
+To: mendonet-l@...
+Subject: Re[2]: "rodralez disco rayado" my ass.
+In-reply-To: <20011105161427.J24374@...>
+References: <20011105161427.J24374@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+
+GM> On Sun, Nov 04, 2001 at 03:26:22AM -0300, Oxiuro wrote:
+
+>> Groucho Marx <groucho@...> escribio:
+>> 
+>> GM> On Fri, Nov 02, 2001 at 09:19:24AM -0300, Oxiuro wrote:
+>> 
+>> >> -----
+>> >> Oxiuro
+>> 
+>> GM> 'Ta mal esa firma. Son 2 rallitas no precedidas por espacio, si no no funciona.
+>> GM> Arreglala, ok?
+>> De que estas hablando??????????????????
+>> Siempre he firmado asi!!!!!!
+>> 
+>> Explica tu punto.
+
+GM> Todos los programas de mail decentes utilizan la convencion de que
+GM> cualquier linea del mensaje que este en o despues de una linea que conste
+GM> de exactamente 2 guiones, (tear line) debe ser suprimido en las respuestas.
+GM> De esa forma, evito tener que eliminar las firmas, taglines, y propagandas
+GM> estupidas de los mensajes que respondo.
+
+Che, eso lo descubrí yo hace no demasiado tiempo... y puse mis dos
+rayitas... justo después de mi firma... y qué...!
+
+>> --
+>> Oxiuro
+>> La diferencia es....?????
+
+GM> Que de la otra forma no funciona.
+GM> Ouch! Aca tampoco funciono... Bueno, pero ya es problema mio. Vos segui asi.
+
+Ja ja!
+
+GM> --
+GM> Groucho
+
+Coño!! acá tampoco funcionó!!
+
+
+ 
+
+GM> Tu uso de Yahoo! Grupos está sujeto a las http://ar.docs.yahoo.com/info/utos.html 
+
+
+
+
+Lupus
+
+--
+
+"...y, más tarde, al sentir deseos de viajar, tomamos un boleto en una agencia de vapores, en vez de metamorfosar una silla en transatlántico." OG              
+
+
+

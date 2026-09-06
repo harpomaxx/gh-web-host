@@ -1,0 +1,43 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_2); 13 Dec 2001 16:58:42 -0000
+Received: (qmail 64541 invoked from network); 13 Dec 2001 16:58:41 -0000
+Received: from unknown (216.115.97.167)
+  by m11.grp.snv.yahoo.com with QMQP; 13 Dec 2001 16:58:41 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta1.grp.snv.yahoo.com with SMTP; 13 Dec 2001 16:58:39 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay3.impsat1.com (8.9.3/8.9.3) with SMTP id NAA15786
+	for <mendonet-l@...>; Thu, 13 Dec 2001 13:50:21 +0300 (GMT)
+Message-ID: <00ec01c183f7$5d7cb820$060aa8c0@...>
+To: <mendonet-l@...>
+References: <200112111338.37248@X-KASTOR > <16848.011211@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B4=5D:_Siguen_las_preguntas_informaticas...?=
+Date: Thu, 13 Dec 2001 13:58:17 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> podés  pasar  por  mi casa a buscarlo, te hago una copia y te cobro el
+> cd...  los  que  tengo  los  compré  a  1.50...  o traés un cd con ese
+> espacio  libro  y el disco abierto
+
+"Disco abierto"?
+Querras decir: "que la ultima pista haya sido grabada en modo multisesion"?
+Es increible lo inexacta y confusa que es la terminologia que Easy CD
+Creator ha acuñado para los usuarios ñoños de grabadoras de CDs.
+
+
+--
+Groucho
+
+

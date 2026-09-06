@@ -1,0 +1,81 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 29 Sep 2001 16:27:03 -0000
+Received: (qmail 6001 invoked from network); 29 Sep 2001 16:27:03 -0000
+Received: from unknown (10.1.10.27)
+  by l8.egroups.com with QMQP; 29 Sep 2001 16:27:03 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta2 with SMTP; 29 Sep 2001 16:27:03 -0000
+Received: from gateway.micasa.org.ar (200-41-31-56-rdunysd1.impsat.net.ar [200.41.31.56])
+	by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA14685
+	for <mendonet-l@...>; Sat, 29 Sep 2001 13:21:00 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15nMtj-0000jo-00
+	for <mendonet-l@...>; Sat, 29 Sep 2001 13:23:27 -0300
+Date: Sat, 29 Sep 2001 13:23:52 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <13558.010929@...>
+To: Sebas <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbNV06IElkZWFzIEFudGlxde1zaW1hcw==?=
+In-reply-To: <3924.010927@...>
+References: <3924.010927@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Sebas,
+
+O>>>> Simple: si va a hacer algo, hacelo bien, sino no lo hagas.
+S>>> ¿Quién dice que para hacer arte hay que respetar técnicas?
+S>>> ����Creatividad!!!!
+O>> Ejemplo: para pintar al oleo necesitas conocer la tecnica.
+O>> Para hacer una escultura necesitas saber esculpir.
+O>> Otra vez caemos en que la creatividad sin la tecnica no es nada
+S> Si mover un pincel sobre una tela para crear una forma es una técnica,
+S> digamos que es una técnica que casi se trae de nacimiento.
+
+Nononono. Pamplinas. Hay una tecnica para mezclar pigmentos y para
+aplicarlos. Que pasaria con el pintor innato este que vos imaginas
+cuando quiera aclarar un color? Como se aclara un color? Se diluye el
+pigmento con agua? Con thinner? Se le hecha pintura blanca?
+
+De los varios pinceles, espatulas y demas herraminetas cual usar en
+cada caso segun el efecto a lograr?
+Si quiero pintar el brillito de los ojos,lo hago con un pincel finito,
+con un alambre, con la esquina de una espatula? Como queda en cada
+caso?
+
+No se la respuesta a ninguna de estas preguntas, ya que no conozco la
+tecnica de pintar.
+Y la escultura? Alguna vez trataste de partir una piedra con un cincel
+y un martillo? Como logras que con los golpes retires pedacitos de
+piedra que te sobran en vez de hacer volar por el aire todo el bloque?
+Hay una tecnica de esculpir cuya ignorancia invalida cualquier vuelo
+creativo.
+
+
+A menos que el artista innato y sin tecnica sea tan creativo que
+invente sus propias tecnicas sobre la marcha.
+A eso te referis?
+
+
+
+O>> Un tipo creativo puede imaginarse una pintura de puta madre en su
+O>> cabeza pero nunca podra plasmarla si no conoce como es la tecnica
+S> En realidad, no podrá plasmarla si su capacidad manual no responde a
+S> su diseño mental...
+
+La capacidad manual se puede educar. Llamemosla "tecnica".
+
+
+-- 
+ Groucho
+
+
+

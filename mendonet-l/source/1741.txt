@@ -1,0 +1,214 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: unknown); 11 Mar 2002 05:09:15 -0000
+Received: (qmail 87139 invoked from network); 11 Mar 2002 05:09:15 -0000
+Received: from unknown (216.115.97.172)
+  by m4.grp.snv.yahoo.com with QMQP; 11 Mar 2002 05:09:15 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.69)
+  by mta2.grp.snv.yahoo.com with SMTP; 11 Mar 2002 05:09:13 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 16kGxP-000164-00
+	for <mendonet-l@...>; Mon, 11 Mar 2002 00:58:43 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 16kGxO-00015t-00
+	for <mendonet-l@...>; Mon, 11 Mar 2002 00:58:42 -0300
+Date: Mon, 11 Mar 2002 00:58:42 -0300
+To: mendonet-l@...
+Subject: Re: your mail
+Message-ID: <20020311035842.GC4100@...>
+References: <20020310023050.GG1450@...> <9498.020310@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <9498.020310@...>
+User-Agent: Mutt/1.3.25i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Sun, Mar 10, 2002 at 11:57:39AM -0300, Sebas wrote:
+
+> >> Cuando pedés la computadora, esta hace un bip... ¿qué quiere decir?
+> 
+> GM> La computadora esta confirmandote que la encendiste. Realimentacion...
+> GM> Ya que en esa etapa temprana de la inicializacion
+> GM> todavia no se saba si tenes monitor y si anda, lo unica forma que tiene
+> GM> la computadora de llamarte la atencion, es haciendo ruidito.
+> Bueno, gracias, pero lo que me decís era bastante fácil de suponer...
+
+No supongas mas. Ahora tenes certeza, dada por un experto como yo.
+
+
+> lo que pasa es que en un 40% de los casos en que oprimo el botón de
+> encendido de mi computadora, esta no "inicializa"
+> (¿será ese el término?)
+
+El termino es "boot-up". Traducilo como te guste. O mejor, no lo traduzcas.
+
+
+>, sólo prende las lucecitas del cpu
+
+Las CPUs no tienen lucecitas desde mediados de los 70...
+Ahh. Las luceceitas del gabiente!!!
+
+
+> y el monitor, pero no arranca, en esos casos no hace el bip
+
+Bueno... Si no hace bip, algo salio mal.
+Ves que sirve?
+Si no hiciera bip, tendrias que esperar un rato, a ver si aparece
+algo en la pantalla. El bip es mas rapido y mas ergonomico.
+
+
+
+> , que en realidad es lo que me hace reiniciar sin esperar más...
+
+Bien. O sea que aprendiste a disfrutar de los beneficios de tener un bip
+de realimentacion en la etapa temprana del arranque.
+Veo que tu pregunta sobre el bip fue completamente innecesaria...
+
+
+
+> esto sucede más en verano que en invierno, aunque suene loco.
+
+Para nada.... Seria loco lo contrario: que anduviera mejor en verano.
+
+
+> El hecho de su prevalencia en verano me hizo pensar en que era una
+> falla "mecánica", y seguramente lo es.
+
+Yo la llamaria una falla "termica" etendiendo a su origen.
+Atendiendo a su naturaleza puede ser una falla "mecanica" si lo que
+ocurre es que por ejemplo la dilatacion de algunos materiales hace que
+algunas soldaduras mal hechas hagan contacto intermitente.
+Tambien teniendo en cuenta la naturaleza, puede ser una falla "electronica"
+ya que todos los parametros de todos los componentes electronicos varian 
+sus valores en funcion de la temperatura. Por supuesto, un circuito
+bien diseñado opera dentro de rangos de temperatura esperados sin
+inconvenientes. Pero cuando los componentes se envejecen o se usan mal,
+se degradan y la variacion de sus parametros con la temperatura suele
+ser mucho mayor y naturamente muy apartadas de lo que se supuso al
+diseñar el sistema.
+Entonces el circuito puede andar mal porque alguna pieza en verano no
+se esta comportando como se supone que se tiene que comportar.
+
+
+
+> La pregunta apuntaba a que me dijeras  "hace bip cuando la electricidad
+> pasa de tal a tal dispositivo"
+
+Esa respuesta de puede dar ebn distintos niveles de detalle:
+
+0) A nivel de aplicacion:
+La computadora hace bip cuando la encendes. Si no hace bip, esta
+andando mal. Llevala a arreglar.
+
+1) A nivel de sistema operativo:
+El BIOS esta programado para hacer bip!!!!!
+Por lo tanto, la computadora hace bip cuando el BIOS ejecuta las
+instrucciones para hacer bip lo cual ocurre al principio de la rutina
+de POST del BIOS.
+
+2) A nivel de maquina convencional:
+Esas instrucciones simplemente programan los puertos B y C del PPI
+(a donde esta conectado el parlante del gabinete) para que una oscilacion
+de onda cuadrada cuyo periodo se controla por programa exite al
+parlante.
+
+3) A nivel de logica de compuertas:
+La oscilacion se genera con un contador programado en modo de
+autorecarga, y la salida de onda cuadrada se toma de la señal de
+cuenta final.
+
+4) A nivel de componentes electronicos:
+Los niveles de la onda cuadrada en en un circuito CMOS son (nominalmente)
+0 y 5 volts, respecto de la tierra logica del circuito.
+El nivel alto de tension desplaza el cono del parlante desde su posicion
+de reposo (segun las caracteristicas electricas como la impedancia
+y mecanicas como la compliancia del parlante)
+Y cuando la tension aplicada retorna a 0, el cono del parlante regresa
+a su posicision de reposo. Estos desplazamientos del cono producen
+variaciones en la presion atmosferica que siguen aproximadamente el
+desplazamiento del cono, y que percibis como un sonido de timbre
+"metalico".
+
+5) A nivel fisico:
+El parlante esta conectado entre la salida de onda cuadrada y tierra. Cuando
+la señal de onda cuadrada esta en alto, la diferencia de potencial aplicada
+a los bornes del bobinado del parlante, hacen circular una corriente por el
+mismo. La corriente en el bobinado genera un campo magnetico estatico, y
+por lo tanto una fuerza magnetica, que actua sobre un cercano iman
+permanente firmemente unido a un cono de papel suspendido de unos
+muelles elasticos ligeros, que le permiten desplazarse acercandose o
+alejandose del bobinado.
+Y luego  viene la explicacion acustica, etc, etc
+
+
+> por decir algo, entonces yo acotaba mi ámbito de investigación.
+
+El bip es un efecto programado deliberadamente. Su ausencia
+es dificil de correlacionar con causas fisicas exactas.
+Solo al nivel de explicacion 0 (aplicacion) la ausencia del bip
+significa algo interesante: que la computadora esta rota.
+
+
+
+> Ahora, con datos más concretos podés tirarme alguna idea al respecto.
+
+El dato decisivo es que falla mas en verano. Esta claro que tu
+computadora es vieja y esta mal refrigerada.
+Es probable que el ventilador del microprocesador este girando muy
+por debajo de su regimen nominal, o incluso que este detenido por
+completo.
+El probable que la disposicion fisica de los elementos internos de la
+maquina no haya sido hecha teniendo en cuenta principios elementales
+de propagacion del calor.
+
+
+ 
+> GM> Yo por ejemplo en mis diseños de microcontroladores
+> Hace un tiempo un amigo que iba a laUniversidad de mendoza, tenía la
+> idea de que hicieramos un "trabajo de investigación" de manera
+> conjunta, porque estaba profundizando sus conocimientos en esa
+> cuestión que decís, microcontroladores, y él quería hacer una
+> investigación(obvio que "a la argentina") sobre el uso de
+> microcontroladores en la corteza cerebral... pero después le surgió un
+> trabajo en Siemens en Bs As y todo quedó en la nada...
+
+Que uso en la corteza cerebral?
+Queria medir variaciones electricas de origen biologico en la superficie
+del craneo?
+Queria hacer un electroencefalografo?
+
+
+
+> ...
+> "¿qué tendrá que ver?", te preguntarás. Nada, que mencionaste la
+> palabra "microcontrolador" y como mi conocimiento del término está
+> ligado al hecho que relató, se me vino a la cabeza, y parece que estoy
+> muy locuaz y largo lo que se me viene a la cabeza... igual, era
+> interesante el tema de estudio.
+
+Cual era el tema de estudio?
+Medir microvolts sobre la piel no es para nada interesante: se conoce
+la naturaleza de los transductores adecuados (un gel conductor, y un
+cable del tipo par diferencial), se conocen los circuitos necesarios
+(amplificadores operaciones de alta impedancia de entrada, alta ganancia,
+baja impedancia de salida, alta linealidad, y todos los demas parametros
+que los acercan al caso ideal). Y se conoce la conversion a digital
+para procesamiento en microcontrolador: basta con un conversor AD,
+digamos del tipo de aproximaciones sucesivas, y de alta precision.
+
+A menos que haya tenido una idea interante sobre el significado y
+aplicacion de esas mediciones (una hipotesis medica!) la idea era
+bastante aburrida.
+
+-- 
+Groucho
+
+
+
+

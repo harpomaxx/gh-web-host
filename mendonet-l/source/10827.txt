@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 25838 invoked from network); 17 May 2000 11:52:41 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 17 May 2000 11:52:41 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 17 May 2000 11:52:39 -0000
+Received: from ANTRO ([200.41.31.89]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id IAA18393 for <mendonet-l@egroups.com>; Wed, 17 May 2000 08:51:38 +0300 (GMT)
+Date: Mon, 15 May 2000 22:38:48 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <17943.000515@...>
+To: harpo <mendonet-l@egroups.com>
+Subject: Re[2]: julio y Agosto
+In-reply-To: <Pine.LNX.4.04.10005140758490.21644-100000@...>
+References: <Pine.LNX.4.04.10005140758490.21644-100000@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 14/05/2000, harpo curiosamente murmuró:
+
+M>>Y tampoco nos olvidemos de SETIEMBRE, que deriva de 7
+M>>
+M>>��C�mo olvidarnos del SIETE!!
+
+h> Es cierto.. el siete es un numero importantisimo para nosotros los occidentales.Gracias Mari por no dejarlo en el olvido!
+
+El 7 no es nada si no fuera por el 6.
+En realidad ningun numero es nada sin el 1. El 1 es un concepto
+primitivo, al igual que la funcion siguiente(). Todos los otros
+numeros se derivan de esos 2 conceptos primitivos.
+
+Ejemplo:
+7=sig(sig(sig(sig(sig(sig(1))))))
+
+Segun Rey Pastor, claro.
+
+-- 
+Groucho Marx
+Viene callado como buscando el envido
+
+
+

@@ -1,0 +1,91 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 6976 invoked from network); 19 Jul 2000 23:19:56 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 19 Jul 2000 23:19:56 -0000
+Received: from unknown (HELO lanet.com.ar) (200.42.8.134) by mta1 with SMTP; 19 Jul 2000 23:19:54 -0000
+Received: from ANTRO ([200.42.124.93]) by lanet.com.ar (8.8.7/8.8.7) with ESMTP id UAA13080 for <mendonet-l@egroups.com>; Wed, 19 Jul 2000 20:28:54 -0300
+Date: Wed, 19 Jul 2000 01:15:43 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <752.000719@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: Re[4]: Buenas, soy el oxiuro!!
+In-reply-To: <19841.000712@...>
+References: <19841.000712@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 13/07/2000, Lupus apurado deliró:
+
+LeL>>>  mmm... lo que se me
+LeL>>> ocurre  hacer  es intentar escribir mtemáticamente las restricciones y
+LeL>>> después   expresar   las  medidas  que  te  dije  en  función  de  las
+LeL>>> restricciones  geométricas  al cortar la cartulina en 5, después poner
+LeL>>> la  ecuación  de V en función de las restricciones, derivar, igualar a
+LeL>>> cero  y  sacar los óptimos... esta solución va a ser limpita pero
+LeL>>> engorrosísima...
+
+GM>> Bueno, es lo que hice y es 0 engorroso!!!!
+GM>> Estos ingenieros industriales son unos afeminados que arrugan a la
+GM>> primera derivada que ven!!!!
+GM>> JAJAJAJJAAJ!!!!!
+
+LeL> Pero yo no quería tirar nada de cartón!!!
+
+Yo sugeri 2 usos para los recortes: pueden servir para hacer las
+aletas para unir los bordes de las cajas, o pueden servir para
+fabricar un modelo de caja mas chico. (y aplica recursivamente el
+argumento).
+
+LeL> Qué  es  eso  de  suponer  que se espera un maquinado sencillo para la
+LeL> caja...  si  a  mí se me canta utilizar los retazos que vos tirás para
+LeL> aumentar el alto de la caja mi caja tendrá más volumen que la tuya!!
+
+Pero yo no compraria una caja toda cortajeada!
+
+
+LeL> De todos modos, me gustó tu solución.
+
+Gracias.
+
+LeL> Y  otra  cosa:  es  verdad,  los  industriales  dejamos  de  utilizar
+LeL> seriamente  las matemáticas desde tercer año, cosa que lamento... pero
+LeL> qué lo voy a hacer...
+
+Bueno, pero en todas las ramas de la ingenieria ocurre tarde o
+temprano. En el caso de la electronica, la matematica se resiste a
+desaparecer debido a que los modelos lineales de circuitos son tan
+precisos y manipulables en forma matematica que no vale la pena
+desprenderse de la matamatica.
+
+Pero en el fondo, siempre en la ingenieria terminas recurriendo a
+matematica mucho mas barata y a modelos mucho mas simplificados que
+los que agradarian a un cientifico.
+
+Por ejemplo, el problema de la caja yo lo reduje a una variable.
+Por que? Principalmente porque me daba fiaca calcular maximizar una
+funcion de varias variables, a pesar de que tanto vos como yo estamos
+perfectamente capacitados para hacerlo (recordaras las clases de
+Serdoch y Gandolfo).
+Por suerte pude justificar que dadas las restricciones del problema,
+una base no cuadrada, disminuiria siempre el volumen de la caja, pero
+tuve suerte de que las restricciones fuesen tan bizarras como para
+solicitar una caja sin tapa a partir de un cuadrado.
+
+
+LeL> a  propósito:  ¿Vos  viste  la solución del Oxiuro? porque yo no la he
+LeL> visto aun...
+
+No la planteo en detalle, pero entiendo que es exactamente lo que yo
+desarrolle.
+
+
+-- 
+Groucho Marx
+Más desubicado que perro en cancha de bochas.
+
+
+

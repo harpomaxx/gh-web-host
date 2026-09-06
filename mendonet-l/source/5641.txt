@@ -1,0 +1,55 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 26 Aug 2001 07:14:36 -0000
+Received: (qmail 58867 invoked from network); 26 Aug 2001 07:14:36 -0000
+Received: from unknown (10.1.10.26)
+  by l9.egroups.com with QMQP; 26 Aug 2001 07:14:36 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.76)
+  by mta1 with SMTP; 26 Aug 2001 07:14:33 -0000
+Received: (qmail 4514 invoked by uid 1005); 25 Aug 2001 23:42:03 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.182601 secs); 25/08/2001 20:42:02
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 25 Aug 2001 23:42:00 -0000
+Date: Sat, 25 Aug 2001 20:41:59 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <998475575.305.28938.l10@yahoogroups.com> <001801c12c84$0742ad40$a7e60dd1@LocalHost>
+In-Reply-To: <001801c12c84$0742ad40$a7e60dd1@LocalHost>
+Subject: Re: aprendiendo sobre linux (Vol I)
+MIME-Version: 1.0
+Message-Id: <01082520415904.00458@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 24 Ago 2001 06:46, escribiste:
+> >...
+> >AGUANTE EL PINGÜINO!!!!!!!!!!!!!!!!!!!
+>
+>   A ver, haber o como mierda se escriba o diga, por que carajo
+> eligieron este puto bicho trolo para que los represente en su tan
+> "mentada" logia y no por ejemplo una buena marmota, que mierda
+> representa ese bichoto.
+
+El pingüino ese se llama Tux. Hubo un concurso para elegir la mascota 
+de Linux y Linus Torvalds eligio el pingüino rechoncho y sentado porque 
+segun el es lo que mejor representa la actitud del desarrollador tipico 
+de Linux.
+
+> Otra pregunta que le hicieron al Osiuro, le
+> lavaron el cerebro, es un linuxoso cualquiera, esta enfermo o que le
+> pasa?
+>   Con decirles que el otro dia estaba vanagloriando a esa cagada de
+> linux y entonces me saco cuando le pregunte: ¿Que mierda es linux? a
+> lo que me respondio: Un sistema operativo para hombres.
+>   Basta loco es una clara señal algo le hicieron haganse cargo de lo
+> acaban de hacer.
+
+Ha hecho progresos sorprendentes, es cierto.
+
+-- 
+Groucho Marx
+

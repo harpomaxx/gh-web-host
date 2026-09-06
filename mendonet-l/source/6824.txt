@@ -1,0 +1,39 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 18 Nov 2000 03:43:55 -0000
+Received: (qmail 45491 invoked from network); 18 Nov 2000 03:43:55 -0000
+Received: from unknown (10.1.10.26) by l8.egroups.com with QMQP; 18 Nov 2000 03:43:55 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 18 Nov 2000 03:43:53 -0000
+Received: from antro.micasa ([200.41.31.4]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id VAA15250 for <mendonet-l@egroups.com>; Fri, 17 Nov 2000 21:39:12 -0300 (GMT)
+Date: Fri, 17 Nov 2000 00:59:49 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <041.001117@...>
+To: "fcanizo@..." <mendonet-l@egroups.com>
+Subject: Re[2]: lcb?
+In-reply-To: <20001116110308.1174.qmail@...>
+References: <20001116110308.1174.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 16/11/2000, fcanizo@... ruidosamente inventó:
+
+fuea>  Pero si me jodió que fuera un archivo de powerpoint. Con qué
+fuea>  se lee eso? No me podía mandar un jpg la guacha?
+
+Cagate de risa, pero tengo un visor de imagenes que es capaz de
+entender los archivos de powerpoint y los muestra como animaciones
+gif.
+Se llama QPV.
+
+-- 
+Groucho Marx
+I am not a licensed hairstylist -- Bart Simpson
+
+
+

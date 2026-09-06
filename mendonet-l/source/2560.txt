@@ -1,0 +1,118 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 3 Dec 2001 17:52:51 -0000
+Received: (qmail 98943 invoked from network); 3 Dec 2001 17:52:51 -0000
+Received: from unknown (216.115.97.171)
+  by m12.grp.snv.yahoo.com with QMQP; 3 Dec 2001 17:52:51 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta3.grp.snv.yahoo.com with SMTP; 3 Dec 2001 17:52:47 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id OAA12132
+	for <mendonet-l@...>; Mon, 3 Dec 2001 14:57:51 +0300 (GMT)
+Message-ID: <04e101c17c24$5ca57a20$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20011130170757.D31458@...> <4485.011202@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B2=5D:_Siguen_las_preguntas_informaticas...?=
+Date: Mon, 3 Dec 2001 15:00:11 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+
+> >> GM> 2) firmas digitales: si vos crees o sospechas que te di una version
+> >> GM> toqueteada del codigo fuente, obtene la version original del autor
+> >> GM> (posiblemente firmada digitalemente) para verificar cuales fueron
+> >> GM> mis cambios si es que hubieron.
+> >> GM> Con lo que sabes de C serias capaz de entender si el cambio es
+> >> GM> perjudicial o no, o podrias pagarle a alguien para que se fije.
+> >>
+> >> Firma   digital...  eso  me  interesa...  cómo  funciona?  hay  algún
+> >> mecanismo de seguridad, además de  la filosofía open source?
+
+> Genial!
+> Y es realmente imposible falsificar esas firmas??!!
+
+Es tan posible o imposible como sea posible factorear numeros coprimos
+grandes: mientras mas grandes los numeros mas tiempo tardas, de manera
+que depende mucho de las maquinas a tu disposicion.
+Las agencias de 3 letras (FBI, CIA, IBM, IRS, DEA) pueden violar facilmente
+firmas digitales con claves de hasta 64 bits.
+Actualmente se considera inviolable claves de 2048 bits para arriba, con
+tiempos
+de violacion de varios años, aunque con redes de computacion distribuida
+ese tiempo puede disminuir.
+Se dice que un metodo para violar claves de 2048 bits, seria que el gobierno
+chino regale a cada chino un set top box para ver television codificada,
+pero que
+los aparatitos ademas de decodificar TV, decodifiquen archivos secretos que
+el gobierno chino quiera leer. Por satelite le envian a cada chino un
+pequeño grupo
+de claves a probar. Cuando el televisor de un chino descubre la clave,
+muestra
+en la pantalla un cartel indicando que se gano la loteria china, y que llame
+al
+0800 555-5555 para cobrar su premio.
+Un calculo pesimista hecho hace unos años indicaba que una clave de 2048
+bits podria explorarse en un mes con el sistema de la loteria china..
+
+
+> Supongo  que  copiar  pegar  no  funciona...  quier decir, yo no puedo
+> escribir  un  programa  y  firmarlo  con  la  firma  digital  de  otro
+> programador...  mierda...  esto  debe  tener implicaciones filosóficas
+> interesantísimas...
+
+Nunca podrias usar la firma digital del otro porque por definicion, la clave
+privada es PRIVADA (secreta) asi que tu unica opcion es adivinarla.
+
+
+> GM> Entonces yo genero 2 claves: una me la guardo en forma secreta (clave
+> GM> publica) y la otra la publico en algun lugar donde cualquiera pueda
+> GM> conseguirla (clave privada).
+> No será al revés...?
+
+Si, eso. No jodas con detalles.
+
+
+> Pero:  qué tan probable es que alguien descifre tu calve privada? debe
+> haber algoritmos descifraclaves supongo...
+
+Los algoritmos de cifrado y descifrado son publicos y conocidos por todos.
+(otra vez la filosofia open source). La seguridad esta en que las claves
+privadas son realmente secretas, y en la diicultad matematica de calcular
+numeros primos grandes.
+La ventaja de un algoritmo abierto y publico de cifrado es que cualquier
+cientifico va a romperse el culo tratano de encontrarle una falla o puerta
+trasera con tan que de que su nombre salga publicado en algura revista
+cientifica (consultoria gratis para el creador del algoritmo), y para el
+publico
+en general, tener mayor certeza de que el algoritmo no tiene puertas
+traseras o debilidades deliberadamente introducidas por el diseñador.
+(mismo argumento que indica que el codigo fuente abierto es mas seguro).
+
+
+> Supongo que en el ambiente informático los mejores programadores serán
+> aquellos  que  hayan  programado  los mejores open sources y con esto
+> podrán  aprobechar  su reputación para obtener la retribución adecuada
+> por  sus  conocimientos,  sin  necesidad de vender programas enlatados
+> porongos...
+
+O son demasiado hippies como para pretender que les paguen por trabajar.
+Ejemplo: Richars Stallman.
+
+
+> Ahora,  se  que la filosofía linuz va de la mano con el open source...
+> (o creo saberlo...), pero: hay open sources para windon?
+
+Seguro.
+
+--
+Groucho
+
+

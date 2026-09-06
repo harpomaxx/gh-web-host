@@ -1,0 +1,49 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 30467 invoked from network); 9 Aug 2000 01:41:42 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 9 Aug 2000 01:41:42 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 9 Aug 2000 01:41:40 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.55 [200.41.21.55] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA26699 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 22:44:18 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id VAA04543 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 21:42:23 -0300
+Sender: federico@...
+Message-ID: <3990A8EF.94CA9801@...>
+Date: Tue, 08 Aug 2000 21:42:23 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.16 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: Dios NO EXISTIS.
+References: <20000801040023.5583.qmail@...> <39890521.B925E59E@...> <398AAB05.6294B7EB@...> <20000805181744.7581.qmail@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+Recabarren@... wrote:
+> 
+> Mariana writes:
+> 
+> >
+> > OPS!... Entonces todos aquellos que apuntan a que no existe, pero a la
+> > vez lo desafían y lo insultan y le dicen que se la come (por lo cual le
+> > están adjudicando acciones casi humanas), implícita e inconcientemente
+> > están creyendo en su existencia?... Porque, digo ¿Qué sentido tiene
+> > insultar a la nada?
+> >
+> El ateismo es una posicion religiosa.
+> El ateo piensa todo el tiempo en Dios, si bien en terminos de negacion.
+> Un verdadero ateo, alguien que realmente no creyera en la existencia de
+> Dios, no se molestaria en negarla.
+> 
+
+exactamente. 
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+Manual said: "Windows 98 or better"... so I installed Linux
+

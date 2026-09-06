@@ -1,0 +1,79 @@
+From aletalquenca@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aletalquenca@...>
+Received: (qmail 30861 invoked from network); 9 Sep 2000 18:14:05 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 9 Sep 2000 18:14:05 -0000
+Received: from unknown (HELO central.inta.gov.ar) (157.92.58.8) by mta2 with SMTP; 9 Sep 2000 18:14:04 -0000
+Received: from bocha_sn@... (a2d56.impsat.net.ar [200.41.21.116]) by central.inta.gov.ar with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21) id SQ28NMMP; Sat, 9 Sep 2000 15:16:07 -0300
+Message-ID: <001501c01a77$6fd16c40$LocalHost@...>
+To: "Bioalternativo.com" <webmaster@...>
+Cc: "Mariana" <babasonica@...>, <mendonet-l@egroups.com>, "veronica fontana" <verofont@...>, "Cabeza" <fedped@...>
+Subject: Bicho bolita
+Date: Sat, 9 Sep 2000 13:03:04 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0012_01C01A5E.4A51D9A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+From: "Alejandro Gomez Talquenca" <aletalquenca@...>
+
+
+------=_NextPart_000_0012_01C01A5E.4A51D9A0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+El miercoles 20 de setiembre a las 20:30 se va apresentar en sociedad el se=
+gundo numero de la Revista "Bicho Bolita".
+
+Bicho bolita, es una producci=
+on independiente que quiere difundir la obra de escritores de la talla de=
+ Ramiro Tapiz, Claudio Rosales, Gabriel Oros y otros ilustres desconocidos.=
+
+ Acompañara la presentacion  una muestra de pinturas de Leoardo Pedra,=
+ mas la actuacion de las bandas Etiam Licet y Los Silver Mangiacazzi
+
+E=
+stan todos cordialmente invitados
+
+------=_NextPart_000_0012_01C01A5E.4A51D9A0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>=
+
+<META content=3D"text/html; charset=3Dwindows-1252" http-equiv=3DContent-T=
+ype>
+<META content=3D"MSHTML 5.00.2314.1000" name=3DGENERATOR>
+<STYLE></STY=
+LE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>El mi=
+ercoles 20 de setiembre a las 20:30 se va 
+apresentar en sociedad el segund=
+o numero de la Revista "Bicho 
+Bolita".</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV=
+><FONT face=3DArial size=3D2>Bicho bolita, es una produccion independient=
+e que 
+quiere difundir la obra de escritores de la talla de Ramiro Tapiz, C=
+laudio 
+Rosales, Gabriel Oros y otros ilustres desconocidos.</FONT></DIV>
+<=
+DIV><FONT face=3DArial size=3D2>&nbsp;Acompañara la presentacion&nbsp; =
+una muestra 
+de pinturas de Leoardo Pedra, mas la actuacion de las band=
+as Etiam Licet y Los 
+Silver Mangiacazzi</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DI=
+V><FONT face=3DArial size=3D2>Estan todos cordialmente 
+invitados</FONT><=
+/DIV></BODY></HTML>
+
+------=_NextPart_000_0012_01C01A5E.4A51D9A0--
+

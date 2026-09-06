@@ -1,0 +1,72 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 9 May 2002 15:24:49 -0000
+Received: (qmail 279 invoked from network); 9 May 2002 15:24:49 -0000
+Received: from unknown (66.218.66.218)
+  by m5.grp.scd.yahoo.com with QMQP; 9 May 2002 15:24:49 -0000
+Received: from unknown (HELO smtp3) (200.31.1.18)
+  by mta3.grp.scd.yahoo.com with SMTP; 9 May 2002 15:24:48 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp3 (8.9.3/8.9.3) with SMTP id MAA28912
+	for <mendonet-l@...>; Thu, 9 May 2002 12:31:30 +0300 (GMT)
+Message-ID: <014d01c1f76e$79e50540$060aa8c0@...>
+To: <mendonet-l@...>
+References: <E174tMl-0005TG-00@...> <18910.020508@...>
+Subject: Re:  propiedades emergentes
+Date: Thu, 9 May 2002 12:30:39 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> >> Cuál  es  la  diferencia  entre  vivir  y  reaccionar...??
+> GM> Que las reacciones particulares que llamamos vida son tan complejas,
+> GM> fragiles y sutiles como una obra de arte.
+> Pero no dejan de ser reacciones.
+
+Y las obras maestras de la pintura no dejan de ser manchas de pintura
+pegadas a un trozo de tela...
+
+> El funcionamiento de una célula no es
+> más que un conjunto de reacciones químicas... desde mi punto de vista,
+> decir que una célula está viva es lo mismo que decir que
+> Na(OH) + ClH = NaCl + H2O es vida.
+
+Y que tiene de malo? Todos los cochinos reduccionistas como yo estamos de
+acuerdo con eso...
+
+
+> La capacidad superior de la conciencia, difiere entre otras
+> cosas, porque dota al hombre de voluntad, que las reacciones químicas
+> no tienen.
+
+La voluntad es una propiedad emergente.
+Una propiedad emergente es una propiedad funcional, estructural o procesal
+de un sistema que no puede derivarse combinando las propiedades
+estructurales, procesales y funcionales de los componentes del sistema.
+Dicha incapacidad surge de la falta de detalles de los modelos que usamos
+para representar conceptualmente los subsistemas componentes.
+Si fuera razonable/posible resolver las ecuaciones de onda para todas las
+particulas subatomicas que forman un ser vivo (un modelo bastante detallado,
+por cierto), se podrian deducir las propiedades del sistema completo, por
+ejemplo la conciencia.
+
+Entonces si bien de la reaccion acido-base que pusiste arriba (ni de un
+millon mas de ecuaciones de esas todas juntas) no se puede deducir la
+conciencia, eso no quita que la conciencia no funcione en base a reacciones
+quimicas (y estas en base a la mecanica cuantica).
+
+
+--
+Herr Grouchox
+
+
+

@@ -1,0 +1,45 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_4); 3 Oct 2002 01:43:14 -0000
+Received: (qmail 91385 invoked from network); 3 Oct 2002 01:43:13 -0000
+Received: from unknown (66.218.66.218)
+  by m4.grp.scd.yahoo.com with QMQP; 3 Oct 2002 01:43:13 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 3 Oct 2002 01:43:13 -0000
+Received: (qmail 31466 invoked by uid 417); 3 Oct 2002 01:43:13 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 3 Oct 2002 01:43:13 -0000
+Received: from 200-41-31-94-rdunysd1.impsat.net.ar ([200.41.31.94])
+  by softhome.net with esmtp; Wed, 02 Oct 2002 19:43:11 -0600
+Date: Mon, 30 Sep 2002 15:53:03 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <11661.020930@...>
+To: mendonet-l@...
+Subject: otro desafio de fisica
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+Reply-To: Marc <Marc.mz@...>
+X-Yahoo-Group-Post: member; u=34474120
+
+Lunes, 30 de Septiembre de 2002
+
+  Por que la tierra y demas cuerpos celestes giran sobre su propio
+  eje?
+  por que giran siempre para el mismo lado?
+  
+
+--
+ Es más fácil reprimir las protestas de los desempleados que enfrentarse
+ a generaciones de ilustrados reclamando lo que la naturaleza ha dado a 
+ cada hombre por ser habitante de este mundo: su libertad y su derecho de 
+ crecer y progresar.
+
+ Marc                         
+
+
+

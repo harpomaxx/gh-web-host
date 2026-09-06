@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 04:35:01 -0000
+Received: (qmail 8117 invoked from network); 15 Nov 2000 04:35:00 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 15 Nov 2000 04:35:00 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 15 Nov 2000 04:34:58 -0000
+Received: from antro.micasa ([200.41.31.114]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA05777 for <mendonet-l@egroups.com>; Wed, 15 Nov 2000 01:38:14 +0300 (GMT)
+Date: Wed, 15 Nov 2000 00:32:11 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1722.001115@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: Un error de the bat!
+In-reply-To: <5446.001113@...>
+References: <5446.001113@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 13/11/2000, Sebas furiosamente sanateó:
+
+S>   Che, cerebritos requiero vuestra ayuda nuevamente.
+S>   ¿qué signifiva este error?
+S>   FETCH - Connection to host broken(last commands were: "PASS", "USER
+S>   noelia")
+
+S>   Imagino que es el password... ¿es así?
+
+No creo. Lo que dice el mensaje es que se interrumpio la conexion con
+el servidor despues de haber enviado el user y el password.
+Si el password estuviese mal, te habria respondido que esta mal, no te
+hubiera desconectado hostilmente.
+
+noelia es tu user? O tu password?
+
+-- 
+Groucho Marx
+¿Que quién soy? Digamos que un ciudadano con mucho tiempo libre... -- Bart
+J. Simpson
+
+
+

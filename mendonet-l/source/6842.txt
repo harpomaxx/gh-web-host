@@ -1,0 +1,42 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 17 Nov 2000 03:01:31 -0000
+Received: (qmail 63549 invoked from network); 17 Nov 2000 03:01:31 -0000
+Received: from unknown (10.1.10.142) by l8.egroups.com with QMQP; 17 Nov 2000 03:01:31 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 17 Nov 2000 04:02:35 -0000
+Received: from antro.micasa ([200.41.31.49]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA05174 for <mendonet-l@egroups.com>; Thu, 16 Nov 2000 20:56:45 -0300 (GMT)
+Date: Thu, 16 Nov 2000 16:41:46 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <7695.001116@...>
+To: Mendonet <mendonet-l@egroups.com>
+Subject: Marketing berreta de la Telefonica
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: Groucho Marx <groucho@...>
+
+Vieron lo que esta haciendo la Telefonica?
+Te llaman y te dicen que te ganaste un premio y un descuento para
+larga distancia, PERO solo llaman a los que tienen linea control (que
+no pueden llamar por larga distancia) y a los que tienen otros
+proveedores de larga distancia. Luego te explican que no vas a poder
+acceder al premio y te cortan.
+
+Muy cool!!! Ellos quedan compo unos duques, no gastan un centavo en el
+supuesto premio y uno queda incomodo por no ser cliente de Telefonica
+y poder acceder al premio.
+
+Funcionara?
+
+
+
+-- 
+Groucho Marx
+Pain is not the cleanser -- Bart Simpson
+
+
+

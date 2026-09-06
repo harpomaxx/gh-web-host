@@ -1,0 +1,42 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_1); 21 Aug 2001 16:38:07 -0000
+Received: (qmail 55844 invoked from network); 21 Aug 2001 16:28:03 -0000
+Received: from unknown (10.1.10.26)
+  by l7.egroups.com with QMQP; 21 Aug 2001 16:28:03 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta1 with SMTP; 21 Aug 2001 16:28:02 -0000
+Received: from elserver.micasa (200-41-21-171-tntmen1.impsat.net.ar [200.41.21.171])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA18041
+	for <mendonet-l@yahoogroups.com>; Tue, 21 Aug 2001 13:33:17 +0300 (GMT)
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id KAA15006
+	for mendonet-l@yahoogroups.com; Tue, 21 Aug 2001 10:58:26 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Tue, 21 Aug 2001 10:58:26 -0300
+To: mendonet-l@yahoogroups.com
+Subject: Re: buenas...
+Message-ID: <20010821105825.C14980@...>
+Reply-To: harpo@...
+References: <200108200059.f7K0xAA01419@...> <19440.010820@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <19440.010820@...>; from rodralez@... on Mon, Aug 20, 2001 at 10:34:22AM -0300
+X-Operating-System: Linux elserver.micasa 2.2.18 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+> Y pensar que el General San Martin tuvo que cruzar los Andes para
+> poder vivir como un hombre libre. Como cambian los tiempos.
+
+Por mas que se te explique, no lo entenderias.... no sos un computonto! :(
+Aunque deberias serlo! 
+So bad!
+
+-- 
+Harpo+
+

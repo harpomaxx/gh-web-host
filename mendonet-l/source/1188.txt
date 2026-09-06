@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 15 May 2002 18:00:19 -0000
+Received: (qmail 40550 invoked from network); 15 May 2002 18:00:19 -0000
+Received: from unknown (66.218.66.216)
+  by m3.grp.scd.yahoo.com with QMQP; 15 May 2002 18:00:19 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.3)
+  by mta1.grp.scd.yahoo.com with SMTP; 15 May 2002 18:00:17 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 177lfO-000164-00
+	for <mendonet-l@...>; Tue, 14 May 2002 20:25:14 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 177lfN-00015t-00
+	for <mendonet-l@...>; Tue, 14 May 2002 20:25:13 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: tautologia
+Date: Tue, 14 May 2002 23:17:25 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <OE74bdkSmLAztxc1o8y000081c5@...> <9989.020514@...>
+In-Reply-To: <9989.020514@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E177lfN-00015t-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Mar 14 May 2002 23:45, escribiste:
+
+> >> Y para que sirve/es util expresasrse correctametne o concer tu
+> >> pais?
+> F> expresarse correctamente es util para poner el ejemplo de como
+> F> expresarse correctamente, valga la redundancia
+>
+> Hmmm ¿otra tautología...?
+
+No creo. Una frase autoreferencial: si.
+Es util expresarse correctamente para poder explicar por que es util 
+expresarse correctamente, entre otras cosas.
+Hasta es levemente gracioso.
+
+-- 
+Herr GrouchoX
+
+
+
+

@@ -1,0 +1,60 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 7 Mar 2003 21:03:34 -0000
+Received: (qmail 27957 invoked from network); 7 Mar 2003 21:03:34 -0000
+Received: from unknown (66.218.66.216)
+  by m13.grp.scd.yahoo.com with QMQP; 7 Mar 2003 21:03:34 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 7 Mar 2003 21:03:34 -0000
+Received: (qmail 9109 invoked by uid 417); 7 Mar 2003 21:03:33 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 7 Mar 2003 21:03:33 -0000
+Received: from dup-200-42-124-159.prima.net.ar ([200.42.124.159])
+  by softhome.net with esmtp; Fri, 07 Mar 2003 14:03:30 -0700
+Date: Fri, 7 Mar 2003 17:50:53 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <17743.030307@...>
+To: Herr Groucho <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbMl06IL9Nb3ppbGxhPw==?=
+In-reply-To: <3E6605AE.4050206@...>
+References: <3E6605AE.4050206@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> Como consecuencia de tus comentarios sobre mozilla, lo bajé e
+>> instalé, luego quise abrirlo.... tardó SIGLOS, sí SIGLOS en abrirse...
+HG> Necesitas al menos 96 MB para que ande bien. COn 64MB es casi inusable.
+
+Y con 24 ni hablar.
+
+HG> 6) Soporta la marca <BLINK> correctamente
+¿Y esto que quiere decir?
+
+HG> 12) No agrupa en el concepto de "cuenta" el servidor SMTP
+No entiendo.
+
+>> ¿Podrías comentarme porqué debería soportar semejante eterna espera
+>> cada vez que quiero chequear mail o hacer algo en internet?
+HG> Por las 25 razones expuestas antes, y porque tenes que darte cuenta que
+HG> no es culpa de Mozilla que seas un raton que no tiene al menos 96MB.
+Entiéndese por el lunfardo "ratón", una persona que no gasta por
+tacaño. Yo no soy ratón, yo no gasto en más memoria por dos motivos:
+1- Cada vez que he tenido efectivo en mi poder, he tenido prioridades
+que me han impedido volcarlo en dicho artículo.
+2- Mis necesidades están casi totalmente cubiertas por la precaria
+máquina que poseo, y las escasas necesidades que no estén plenamente
+satisfechas, son tan nimias que lindan con caprichos.
+
+-- 
+Sebas   
+El trabajo libera. (Pórtico del campo de concentración de Auschwitz.)                       
+
+
+

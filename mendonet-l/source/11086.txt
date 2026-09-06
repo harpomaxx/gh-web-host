@@ -1,0 +1,59 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 18695 invoked from network); 3 May 2000 20:02:26 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 3 May 2000 20:02:26 -0000
+Received: from unknown (HELO q8.egroups.com) (10.1.2.31) by mta3 with SMTP; 3 May 2000 20:02:26 -0000
+Received: (qmail 31226 invoked from network); 3 May 2000 20:02:25 -0000
+Received: from tango.softhome.net (204.144.231.49) by mx3.egroups.com with SMTP; 3 May 2000 20:02:25 -0000
+Received: (qmail 7561 invoked by uid 417); 3 May 2000 20:02:24 -0000
+Received: from mza2ppp-259.uc.infovia.com.ar (209.13.230.4) by smtpb.softhome.net with SMTP; 3 May 2000 20:02:24 -0000
+Date: Wed, 3 May 2000 15:43:30 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <13655.000503@...>
+To: Mendonet <mendonet-l@egroups.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Lupus el Lobo <aldocop@...>
+
+
+ Estadisticas
+
+  La tasa de natalidad es el doble que la tasa de mortali=
+dad; por lo tanto,
+ una de cada dos personas es inmortal.
+
+  Cuando ocurre =
+un incendio, el numero de bomberos suele ser mayor cuanto
+ mayor es el da=
+ño causado por el fuego. Por tanto, deben ser los bomberos
+ los que produ=
+cen los destrozos.
+
+  En los accidentes ferroviarios, el mayor numero de vi=
+ctimas suele estar
+ en el ultimo vagon (el primero suele ser la locomotora,=
+ y alli no van
+ pasajeros). Por tanto, una forma de salvar vidas humanas es=
+ retirar el
+ ultimo vagon de cada tren.
+
+  La probabilidad de tener un acci=
+dente de trafico aumenta con el tiempo
+ que te pases en la calle. Por tanto=
+, cuanto mas rapido circules, menor es
+ la probabilidad de que tengas un ac=
+cidente.
+
+  El 33 % de los accidentes mortales involucran a alguien que ha =
+bebido.
+ Por tanto, el 67 % restante ha sido causado por alguien que no
+ ha=
+biabebido. A la vista de esto, esta claro que la forma mas segura de
+ con=
+ducir es ir borracho y a alta velocidad.
+
+
+

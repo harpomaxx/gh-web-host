@@ -1,0 +1,65 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 20 Dec 2002 02:18:07 -0000
+Received: (qmail 34372 invoked from network); 20 Dec 2002 02:18:07 -0000
+Received: from unknown (66.218.66.216)
+  by m15.grp.scd.yahoo.com with QMQP; 20 Dec 2002 02:18:07 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.122.194)
+  by mta1.grp.scd.yahoo.com with SMTP; 20 Dec 2002 02:18:06 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.35 #1 (Debian))
+	id 18Otey-0000Oa-00
+	for <mendonet-l@...>; Thu, 19 Dec 2002 02:55:52 -0300
+Received: from antro.micasa.org.ar ([192.168.1.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.35 #1 (Debian))
+	id 18Otey-0000OP-00
+	for <mendonet-l@...>; Thu, 19 Dec 2002 02:55:52 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[4]: (unknown)
+Date: Thu, 19 Dec 2002 02:55:50 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <E18OA1t-00017u-00@...> <0915.021218@...>
+In-Reply-To: <0915.021218@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E18Otey-0000OP-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Mié 18 Dic 2002 21:58, escribiste:
+> GM> Existe una base fisiologica para la homosexualidad?
+> GM> Si existe, habria que discutir si son "enefermos" o no, si hay
+> que GM> tratarlos o no.
+> La normalidad en psiquiatría para los trastornos de la personalidad
+> se define en función de la frecuencia... dos desvíos estándar a
+> partir del modo... bah, no recuerdo si eran dos o tres, la cuestión
+> es que engloba al 96% de la población. Dicho de otra manera, para la
+> psiquiatría es normal si cae dentro de ese porcentaje en la campana
+> de Gauss...
+
+Un argumento estocastico... Que decepcion!
+
+
+> Para ponerlo simple: la homosexualidad será normal, es decir no será
+> una enfermedad, si es lo suficientemente frecuente, y por lo visto,
+> lo es.
+
+Supongamos que un meteorito choca contra la tierra y el polvo que 
+levanta hace que el 96% de la poblacion mundial contraiga asma.
+El asma dejaria de ser una enfermedad por convertirse en algo comun?
+O lo que explicaste es exclusivo de la psiquiatria?
+
+-- 
+Herr GrouchoX
+
+ID Jabber: groucho@...
+Clave pública GPG: [pronto la voy a subir a algún lado]
+Fingerprint GPG: 00EC 0B71 49D5 2EEC 357C  9A78 A87B DC4F 1B31 8B55
+
+
+
+

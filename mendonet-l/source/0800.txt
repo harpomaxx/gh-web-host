@@ -1,0 +1,54 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_4); 1 Oct 2002 11:06:51 -0000
+Received: (qmail 94122 invoked from network); 1 Oct 2002 11:06:50 -0000
+Received: from unknown (66.218.66.217)
+  by m8.grp.scd.yahoo.com with QMQP; 1 Oct 2002 11:06:50 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 1 Oct 2002 11:06:50 -0000
+Received: (qmail 23663 invoked by uid 417); 1 Oct 2002 11:06:50 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 1 Oct 2002 11:06:50 -0000
+Received: from a200042124081.rev.prima.com.ar ([200.42.124.81])
+  by softhome.net with esmtp; Tue, 01 Oct 2002 05:06:47 -0600
+Date: Tue, 1 Oct 2002 07:41:18 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <12320.021001@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: =?ISO-8859-1?B?oaGhQXl1ZGEhISEh?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+Che me llegó esto:
+
+Incident Information:-
+
+Database: e:/Lotus/Domino/Data/mail.box
+Originator:    xebax <xebax@...>
+Recipients:    jmiceli@...
+Subject:  A funny game
+Date/Time:     10/01/2002 01:20:24 AM
+
+The file attachment snoopy.exe you sent to the recipients listed above was
+infected with the W32/Klez.h@MM virus and was not successfully cleaned.
+
+
+¿Podrá estar relacionado a eso mensajes que me llegaban de mí mismo
+con virus y que yo pregunté acá de qué se trataba?
+Imagino que esto pude llegar a perjudicarme si alguna de estas
+empresas que prestan servicios de internet me filtra por mandar virus.
+¿Alguna idea para terminar con esto?
+
+-- 
+ Sebas  
+La gente copada no viene con fecha de vencimiento. Rodro.                      
+
+
+

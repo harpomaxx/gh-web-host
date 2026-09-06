@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 04:35:07 -0000
+Received: (qmail 9419 invoked from network); 15 Nov 2000 04:35:07 -0000
+Received: from unknown (10.1.10.26) by m4.onelist.org with QMQP; 15 Nov 2000 04:35:07 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 15 Nov 2000 04:35:06 -0000
+Received: from antro.micasa ([200.41.31.114]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA05797 for <mendonet-l@egroups.com>; Wed, 15 Nov 2000 01:38:21 +0300 (GMT)
+Date: Wed, 15 Nov 2000 00:54:36 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1337.001115@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[3]: Un par de preguntas sobre the bat
+In-reply-To: <9530.001114@...>
+References: <9530.001114@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 14/11/2000, Sebas curiosamente recitó:
+
+hsn>> Groucho te lo explicara mucho mas detallaado que yo. Pero te
+hsn>> adelante que PGP es un programa que te permite encriptar tu
+hsn>> correspondiencia y asi garantizar una cierta seguridad de que
+hsn>> nadie leas tus mail (excepto la persona a la que se lo envias)
+S> Correcto, entonces en eso no me tengo que meter.
+
+S> ¿Y cookies?
+
+Esa era la segunda pregunta? Veo con agrado que estas investigando las
+opciones de The Bat.
+
+Cookies son esas frases graciosas al azar que los tipos cool como
+Conan y yo incluimos al final de nuestros mensajes.
+
+-- 
+Groucho Marx
+No se preocupe, señor presidente. Haré saborear a esos jóvenes un poco del
+mundo real. -- Homero J. Simpson.
+
+
+

@@ -1,0 +1,43 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_0_3); 6 Oct 2000 04:39:55 -0000
+Received: (qmail 32044 invoked from network); 6 Oct 2000 04:39:55 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 6 Oct 2000 04:39:55 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta2 with SMTP; 6 Oct 2000 04:39:53 -0000
+Received: from 200.41.31.53 ([200.41.31.53]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA04996 for <mendonet-l@egroups.com>; Fri, 6 Oct 2000 01:42:37 +0300 (GMT)
+Date: Thu, 5 Oct 2000 02:11:26 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <691.001005@...>
+To: Fabio Cavassini <mendonet-l@egroups.com>
+Subject: Re[2]: otra aiuda
+In-reply-To: <00100401410703.00628@petunia2>
+References: <00100401410703.00628@petunia2>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 04/10/2000, Fabio Cavassini curiosamente deliró:
+
+
+FC> que es The Bat! ?
+
+Sabias que la palabra china para murcielago, "fu" significa tambien
+felicidad?
+
+The Bat! es el mas completo y usable MUA para Windows que conozco.
+
+-- 
+Groucho Marx
+Abuelo: _Que duro es ser viejo, nadie te hace caso...
+Bart:   _Que duro es se niño nadie te hace caso...
+Homero: _Soy un hombre tipo, promedio de treinta años, blanco,
+        y todos hacen caso a lo que digo por mas que eso sea una
+        estupidez.
+
+
+

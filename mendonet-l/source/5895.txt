@@ -1,0 +1,43 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_1); 19 Aug 2001 07:13:12 -0000
+Received: (qmail 41725 invoked from network); 19 Aug 2001 07:13:12 -0000
+Received: from unknown (10.1.10.26)
+  by m8.onelist.org with QMQP; 19 Aug 2001 07:13:12 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.9)
+  by mta1 with SMTP; 19 Aug 2001 07:13:10 -0000
+Received: (qmail 16858 invoked by uid 1005); 18 Aug 2001 13:40:32 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 4.09575 secs); 18/08/2001 10:40:27
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Aug 2001 13:40:24 -0000
+Date: Sat, 18 Aug 2001 10:41:52 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <85010538.20010814154300@...> <19903.010817@...>
+In-Reply-To: <19903.010817@...>
+Subject: Re: Un cacho de cultura
+MIME-Version: 1.0
+Message-Id: <01081810415200.00365@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 17 Ago 2001 21:40, escribiste:
+
+> O> Veamos, respondiste esto solo para hacer notar que hay un error
+> O> ortografico,
+> Error ortográfico es cuando se escribe incorrectamente por el
+> desacertado empleo de las letras y de los signos auxiliares de la
+> escritura. Lo tuyo, al presentarse una fusión reiterada de palabras
+> generando una inexistente, no puede clasificarse como error
+> ortográfico... es más bien un dislate que deja en evidencia tu
+> incultura.
+
+El espacio en blanco es un signo auxiliar.
+
+-- 
+Groucho Marx
+

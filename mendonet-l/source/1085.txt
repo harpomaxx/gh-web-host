@@ -1,0 +1,69 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 17 May 2002 23:07:47 -0000
+Received: (qmail 1209 invoked from network); 17 May 2002 23:07:47 -0000
+Received: from unknown (66.218.66.217)
+  by m7.grp.scd.yahoo.com with QMQP; 17 May 2002 23:07:47 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.89)
+  by mta2.grp.scd.yahoo.com with SMTP; 17 May 2002 23:07:46 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 178XkW-0000zn-00
+	for <mendonet-l@...>; Thu, 16 May 2002 23:45:44 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 178XkW-0000zb-00
+	for <mendonet-l@...>; Thu, 16 May 2002 23:45:44 -0300
+Date: Thu, 16 May 2002 23:45:44 -0300
+To: mendonet-l@...
+Subject: Re: Re: ovulo con 2 nucleos? Aberracion?
+Message-ID: <20020517024544.GJ3438@...>
+References: <OE75qFJ3sl3xbYiMCIq00000b3c@...> <E174twN-0005VU-00@...> <OE63tWfN3vSAMfKQu1b00000c2f@...> <E17744d-0004hR-00@...> <OE26odDres84CpICF5P00009739@...> <018801c1fb63$68ca3160$060aa8c0@...> <OE59jmkp2KC3vo9bhe90000acf9@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <OE59jmkp2KC3vo9bhe90000acf9@...>
+User-Agent: Mutt/1.3.25i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Wed, May 15, 2002 at 02:57:19AM -0300, Federico wrote:
+
+> > Si aceptas esas premisas, por que no aceptas el mecanismo que mencione de
+> > formacion de gemelos?
+> la acepto y es muy cierta, yo solo mencione otra que tenia dando vueltas por
+> mis apuntes
+
+Ahh. ok. Me dio otra impresion.
+Vas a tener que hacer algo con esa (falta de) claridad de expresion.
+
+
+> > Pero por que hay 2 nucleos adentro del espermatozoide en primer lugar.
+> > No es el resultado que uno esperaria de ma meiosis que da origen a los
+> > ovulos.
+> los dos nucleos estan en el ovulo
+
+Si, si, si. Obviamente eso quise decir.
+La pregunta (correctamente leida y respondida por Sebas) era por que
+habia 2 nucleos en el ovulo.
+
+
+
+> > Entonces 1 cigoto es un ser humano, solo que aun no ha crecido lo
+> > suficiente. 16 celulas indiferenciadas pero unidas podrian considerarse 16
+> > seres humanos unidos, o sea siameses. O la union de los siameses debe ser
+> > funcional) o sea compartir organos), en lugar de ser solamente tisular
+> > (tener celulas pegadas).
+> 
+> deben compartir organos
+
+Aha... Bueno, si esa es la definicion de siameses, esta todo dicho: en la
+pelota de celulas indiferenciadas logicamente no hay organos.
+
+-- 
+Groucho
+
+
+
+

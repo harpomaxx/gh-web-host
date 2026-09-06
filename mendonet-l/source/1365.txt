@@ -1,0 +1,60 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 6 May 2002 19:02:01 -0000
+Received: (qmail 64028 invoked from network); 6 May 2002 19:02:00 -0000
+Received: from unknown (66.218.66.216)
+  by m5.grp.scd.yahoo.com with QMQP; 6 May 2002 19:02:00 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.200)
+  by mta1.grp.scd.yahoo.com with SMTP; 6 May 2002 19:02:00 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 6 May 2002 12:02:00 -0700
+To: <mendonet-l@...>
+References: <E172iT4-00013k-00@...> <16567.020503@...> <E1741GA-0002wq-00@...>
+Subject: Re: Re[4]: Un fernet para Fermat, por lo grosso.
+Date: Mon, 6 May 2002 15:56:29 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE65x42WGYwvimdzhUO000053f2@...>
+X-OriginalArrivalTime: 06 May 2002 19:02:00.0720 (UTC) FILETIME=[808F6100:01C1F530]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.192.52]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+----- Original Message -----
+From: "Groucho Marx" <groucho@...>
+To: <mendonet-l@...>
+Sent: Saturday, May 04, 2002 3:07 PM
+Subject: Re: Re[4]: Un fernet para Fermat, por lo grosso.
+
+
+> El Vie 03 May 2002 13:36, escribiste:
+>
+> > GM> Las demostraciones formales no requieren de la tecnologia... A
+> > GM> que te referis?
+> > A que sabía de una computadora puesta a probar, hizo no sé cuantos
+> > millones de operaciones con resultado negativo, pero obviamente eso
+> > no tiene grado de comprobación.
+>
+> Habras querido decir grado de demostracion (o prueba)... y habras
+> querido decir resultado positivo: positivamente la proposicion de
+> Fermat se cumplia...
+>
+> Y hablando de comprobacines inductivas incompletas por computadora, la
+> primera vez que escuche hablar del teorema de Fermat fue en 1993 (antes
+> de que se lo demostrara) cuando me propusieron escribir un programa de
+> computadora que explore el espacio de soluciones de la hipotesis de
+> Fermat. El que hiciera el programa que explorara una fraccion mas
+> grande del espacio de soluciones en el menor tiempo ganaba una
+> suscripcion gratis a la revista que proponia el desafio...
+
+¿y que paso?
+

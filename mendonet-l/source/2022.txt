@@ -1,0 +1,42 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 27 Jan 2002 03:21:34 -0000
+Received: (qmail 16576 invoked from network); 27 Jan 2002 03:21:34 -0000
+Received: from unknown (216.115.97.171)
+  by m12.grp.snv.yahoo.com with QMQP; 27 Jan 2002 03:21:34 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta3.grp.snv.yahoo.com with SMTP; 27 Jan 2002 03:21:34 -0000
+Received: from a200042124185.rev.prima.com.ar ([200.42.124.185])
+  by softhome.net with esmtp; Sat, 26 Jan 2002 20:21:07 -0700
+Date: Sun, 27 Jan 2002 00:00:24 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <70.020127@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: =?ISO-8859-1?B?bWUgbGFuY+kgYSBjYW1iaWFybGUgZWwgc3ViamVjdCB5IG5vIHNlIGNv?= =?ISO-8859-1?B?bW8gcG9uZXJsZQ==?=
+In-reply-To: <20020125052410.GF7515@...>
+References: <20020125052410.GF7515@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> k> exacto:   cobra segun su capacidad (idea del socialismo)
+>> 
+>> Que socialismo tan exotico el tuyo.
+
+GM> Corregime si me equivoco, pero era
+GM> "de cada cual segun su capacidad, cada cual segun su necesidad".
+Te faltó el "para": "De cada cual segun su capacidad, para cada cual
+segun su necesidad".
+
+-- 
+Sebas   
+Quien sacrifica la libertad en nombre de la seguridad no merece la libertad ni la seguridad. (Benjamin Franklin, más de dos siglos antes de las recientes leyes antiterroristas.)                       
+
+
+

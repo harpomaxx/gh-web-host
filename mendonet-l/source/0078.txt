@@ -1,0 +1,70 @@
+From asecas2003@...  Sat Jul 11 23:23:58 2020
+Return-Path: <asecas2003@...>
+X-Sender: asecas2003@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 47492 invoked from network); 15 Sep 2003 00:16:04 -0000
+Received: from unknown (66.218.66.217)
+  by m14.grp.scd.yahoo.com with QMQP; 15 Sep 2003 00:16:04 -0000
+Received: from unknown (HELO hotmail.com) (64.4.15.56)
+  by mta2.grp.scd.yahoo.com with SMTP; 15 Sep 2003 00:16:04 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sun, 14 Sep 2003 17:16:04 -0700
+Received: from 200.41.42.165 by lw10fd.law10.hotmail.msn.com with HTTP;
+	Mon, 15 Sep 2003 00:16:04 GMT
+X-Originating-Email: [asecas2003@...]
+To: mendonet-l@...
+Bcc: 
+Subject: Re: foro mendocino PARA NABOS
+Date: Sun, 14 Sep 2003 21:16:04 -0300
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
+Message-ID: <LAW10-F560rA3qG2geG000205dd@...>
+X-OriginalArrivalTime: 15 Sep 2003 00:16:04.0632 (UTC) FILETIME=[8D4C2980:01C37B1E]
+From: "A Secas" <asecas2003@...>
+X-Originating-IP: [200.41.42.165]
+X-Yahoo-Group-Post: member; u=141741680
+X-Yahoo-Profile: asecas2004
+
+
+
+
+> > Ran into problems sending Mail. Response: 553 sorry, that domain
+ > > isn't allowed to be relayed thru this MTA (#5.7.1)
+
+Eso es qmail!
+
+ > > QUE CONCHA ES ESTE MENSAJE DE ERROR
+
+El mensaje que estabas tratando de mandar, iba dirigido a una direccion
+no local que no estaba presente el la lista de dominios a los cuales se
+permite enviar mensajes.
+
+
+ > > DECIME que hice mal
+
+Vivir.
+
+que pena, me doy
+pero...
+en un caso como el mio: justificarias la eutanasia, groucho?
+
+
+ > > explicamelo , hacelo bien clarito, como para que lo entienda mi
+ > > perro o susana gimenez
+
+Otro dia...
+
+esto es pedanteria gratuita no requerida...
+asi que este comentario deberias metertelo en el orto, pero como los 
+teletubbies no tienen orto
+te sugiero que lo coloques en una repisa a lado de tu coleccion de TUXs de 
+peluche
+
+atte
+ale
+
+_________________________________________________________________
+Charla con tus amigos en línea mediante MSN Messenger: 
+http://messenger.yupimsn.com/
+
+

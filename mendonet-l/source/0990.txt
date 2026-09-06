@@ -1,0 +1,44 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 23 Jul 2002 16:06:00 -0000
+Received: (qmail 9988 invoked from network); 23 Jul 2002 16:06:00 -0000
+Received: from unknown (66.218.66.218)
+  by m8.grp.scd.yahoo.com with QMQP; 23 Jul 2002 16:06:00 -0000
+Received: from unknown (HELO io) (200.47.194.25)
+  by mta3.grp.scd.yahoo.com with SMTP; 23 Jul 2002 16:05:59 -0000
+Received: from root by io with local (Exim 3.35 #1 (Debian))
+	id 17X28p-0002MR-00
+	for <mendonet-l@...>; Tue, 23 Jul 2002 13:04:03 -0300
+Date: Tue, 23 Jul 2002 13:04:02 -0300
+To: mendonet-l@...
+Subject: probando
+Message-Id: <20020723130402.556a57ab.root@...>
+In-Reply-To: <13919.020717@...>
+References: <0557.020713@...>
+	<13919.020717@...>
+Organization: -fobos team-
+X-Mailer: Sylpheed version 0.7.4 (GTK+ 1.2.10; i386-debian-linux-gnu)
+X-Operating-System: Debian GNU/Linux
+X-KASTOR: Muerte al CAPITAL!!!
+User-Agent: #Muerte Al CAPITAL#
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+From: k a s t o r <root@...>
+X-Yahoo-Group-Post: member; u=76410190
+
+
+ probando....
+
+-- 
+
+[ kastor ] 
+
+JID: kastor@... / Powered By Debian GNU/Linux
+Key fingerprint = B83D C963 C1F8 7C02 FA82  1DFE 4852 C81A EFE9 177A
+GnuPG-public-key: http://www.linuxmendoza.org.ar/~kastor/public-key.txt
+
+
+

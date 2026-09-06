@@ -1,0 +1,98 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 2 Apr 2002 21:48:42 -0000
+Received: (qmail 98222 invoked from network); 2 Apr 2002 21:48:41 -0000
+Received: from unknown (66.218.66.218)
+  by m3.grp.scd.yahoo.com with QMQP; 2 Apr 2002 21:48:41 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.122.44)
+  by mta3.grp.scd.yahoo.com with SMTP; 2 Apr 2002 21:48:40 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 16s4I3-0002DV-00
+	for <mendonet-l@...>; Mon, 01 Apr 2002 13:04:15 -0300
+Received: from cubil.micasa.org.ar
+	([192.168.0.3] helo=there ident=groucho)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 16s4I2-0002DK-00
+	for <mendonet-l@...>; Mon, 01 Apr 2002 13:04:14 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Aguanten los extremos. De los talibanes al movimiento gay.
+Date: Mon, 1 Apr 2002 12:48:56 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <OE38BnayGkzWkEXvrxd0000caa3@...> <2896.020331@...>
+In-Reply-To: <2896.020331@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E16s4I2-0002DK-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Dom 31 Mar 2002 21:31, escribió:
+
+> F> esta bien, me gustan los terminos medios
+> A mí no. ¿Por qué está mal tomar una postura sobre algo?(y no tiene
+> que ver con el tema original, sino estrictamente con tu pregunta)
+
+No esta mal tomar una postura sobre algo... Pero eso no es lo mismo que tomar 
+una postura extrema, donde extrema se refiere no solo a la conviccion y 
+fervor en la posicion tomada (lo que por si solo es aceptable), sino en la 
+conversion de esa posicion en un dogma irreducible y obtuso, y por lo tanto, 
+incapaz de evaluar justamente las posiciones de los demas.
+
+
+> más... ¿qué tiene de malo tener una postura extrema?
+
+Si hablamos de extremos como el que describi mas arriba, lo malo que tiene es 
+que quien sostiene tal extremo pierde parte de su racionalidad y se vuelve 
+fanatico.
+
+> Creo que la crítica(que ya es casi espontánea) a cualquier posición extrema
+> es otro mecanismo de perpetuación del sistema.
+
+De acuerdo.
+
+>  Una posición extrema implica una convicción fervorosa, alejada de la
+> pretendida moderación que tanto bien le hace al sistema, la moderación
+> que nos vuelve borreguitos inofensivos. "todos los extremos son malos" dice
+> el imaginario popular... ¿por qué?.
+
+Jaja... Cuando tenia 12 años y estaba el 7mo grado refute esa afirmacion 
+dicha por la maestra...
+Dije yo: por que los extremos son malos? Es preferible tender el bien 
+extremo, no?
+La maestra se quedo boquiabierta y balbuceo su asentimiento.
+Mas adelante descubri que en el mundo hay tantos objetivos contrapuestos, que 
+no hay manera de tender al bien extremo en todos los objetivos a la vez y por 
+lo tanto, la unica forma de lograr un bien extremo es equilibrando las 
+propuestas contrapuestas que resulta imposible optimizar simultanemente.
+Entonces, -a veces- el bien extremo es una posicion moderada entre tendencias 
+opuestas.
+
+> >> F> ¿quienes eran lideres en las propuestas de la facultar?, porque por
+> >> F> lo que yo recuerdo se convocaba a la gente a marchar
+> >> ¿Quién convocaba? Si todos, al igual que vos, hubieran esperado una
+> >> marcha espontánea, nunca se hubieran concretado...
+
+Entonces la marcha resultante es artificial. Fue provocada, no espontanea y 
+por lo tanto, su legitimidad en menor.
+
+
+> >>  la organización de la protesta es fundamental por razones obvias.
+
+Razones obvias? El cumplimiento de los objetivos de los convocantes, 
+manipulando a su beneficio a los convocados?
+Yo creo en la suma de voluntades infinitesimales (la teoria del granito de 
+arena) mas que en los grandes arreglos macroscopicos de voluntades.
+Si ha de haber una marcha, surgira porque a muchas personas al mismo tiempo 
+se les da la gana de que haya una marcha.
+
+-- 
+Herr Grouchox
+
+
+
+

@@ -1,0 +1,60 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 24 Jun 2002 16:29:32 -0000
+Received: (qmail 20930 invoked from network); 24 Jun 2002 16:29:31 -0000
+Received: from unknown (66.218.66.216)
+  by m8.grp.scd.yahoo.com with QMQP; 24 Jun 2002 16:29:31 -0000
+Received: from unknown (HELO calisto) (200.45.193.54)
+  by mta1.grp.scd.yahoo.com with SMTP; 24 Jun 2002 16:29:31 -0000
+Received: from localhost.localdomain
+	([127.0.0.1] helo=calisto ident=root)
+	by calisto with smtp (Exim 3.35 #1 (Debian))
+	id 17MK32-00060S-00
+	for <mendonet-l@...>; Sun, 23 Jun 2002 23:57:48 -0300
+Date: Sun, 23 Jun 2002 23:57:42 -0300
+To: mendonet-l@...
+Subject: anyone alive?
+Message-Id: <20020623235742.3ddd4136.root@...>
+Organization: fobos team
+X-Mailer: Sylpheed version 0.7.4 (GTK+ 1.2.10; i386-debian-linux-gnu)
+X-Operating-System: Debian GNU/Linux
+X-KASTOR: Muerte al CAPITAL!!!
+Mime-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pgp-signature";
+ boundary="cMEkDQaz9E=.:?Y6"
+From: kastor <root@...>
+X-Yahoo-Group-Post: member; u=76410190
+
+
+--cMEkDQaz9E=.:?Y6
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+
+eso!
+
+
+-- 
+
+[ kastor ] 
+
+JID: kastor@...
+powered by Debian GNU/Linux
+GnuPG-Key fingerprint = B83D C963 C1F8 7C02 FA82  1DFE 4852 C81A EFE9 177A
+GnuPG-public-key: http://www.linuxmendoza.org.ar/~kastor/public-key.txt
+
+--cMEkDQaz9E=.:?Y6
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+
+iD8DBQE9FoqsSFLIGu/pF3oRAg9TAKCiCs2o+nz0NshX+PksK1+If42uOQCfcdvH
+cKojBpcU/aZyV7dWxqkY9zo=
+=/yBa
+-----END PGP SIGNATURE-----
+
+--cMEkDQaz9E=.:?Y6--
+

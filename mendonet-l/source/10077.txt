@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 28155 invoked from network); 5 Jul 2000 20:16:12 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 5 Jul 2000 20:16:12 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 5 Jul 2000 20:16:10 -0000
+Received: from ANTRO ([200.41.31.80]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id RAA24599 for <mendonet-l@egroups.com>; Wed, 5 Jul 2000 17:18:43 +0300 (GMT)
+Date: Mon, 3 Jul 2000 15:11:34 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <11633.000703@...>
+To: harpo <mendonet-l@egroups.com>
+Subject: Re[2]: Virus (harpo & Rodro)
+In-reply-To: <Pine.LNX.4.04.10006301029220.6528-100000@...>
+References: <Pine.LNX.4.04.10006301029220.6528-100000@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 01/07/2000, harpo angustiado recitó:
+
+GM>>Me preocuparia, ya que ese archivo se origino en mi maquina.
+GM>>Pero como uso el mejor antivirus que existe (la desconfianza) te diria
+GM>>que no se origino en mis maquinas la infeccion.
+GM>>
+GM>>Aparte Mellisa es un virus de e-mail hecho el javascipt. No puede
+GM>>estar en un archivo de word.
+GM>>Falsa deteccion?
+
+h> Me temo que no es asi... esta hecho en macros de word!!! te suena???
+
+Mmm... Pero el Word tendria que decirme que ese archivo tiene macros.
+Es mas... Deberia ser posible editarla, y no se puede.
+
+Conclusion: yo no tengo Mellisa. Y vos?
+
+
+-- 
+Groucho Marx
+Te veré en el infierno, plato. -- Homero J. Simpson
+
+
+

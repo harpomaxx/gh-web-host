@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 8 Dec 2000 05:16:02 -0000
+Received: (qmail 75762 invoked from network); 8 Dec 2000 05:16:01 -0000
+Received: from unknown (10.1.10.142) by l8.egroups.com with QMQP; 8 Dec 2000 05:16:01 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 8 Dec 2000 06:17:05 -0000
+Received: from antro.micasa ([200.41.31.17]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id CAA18128 for <mendonet-l@egroups.com>; Fri, 8 Dec 2000 02:19:22 +0300 (GMT)
+Date: Thu, 7 Dec 2000 23:52:29 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <4994.001207@...>
+To: "fcanizo@..." <mendonet-l@egroups.com>
+Subject: Re: justamente todo lo contrario
+In-reply-To: <20001206215949.6957.qmail@...>
+References: <20001206215949.6957.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 06/12/2000, fcanizo@... tristemente deliró:
+
+fuea> El 01/12/00, Sebas le susurraba a fcanizo@...:
+ 
+fuea>  S>fuea>  M>A quién le querés hacer creer que por la calle solo te das v=
+fuea>  uelta
+fuea>  S>fuea>  M>a mirar a mujeres conocidas tuyas?????
+fuea>  S>fuea>  Sólo a la que me acompaña en ese momento.
+fuea>  S>=BFEso es un arranque de fidelidad por paternidad?
+ 
+fuea>  Hola! Lectura comprensiva? [(gpl) grocucho]
+ 
+Habria que usar el signo )c( para indicar "copyleft" asi como se usa
+(c) para copyright....
+
+-- 
+Groucho Marx
+Colorado como huevo de domador
+
+
+

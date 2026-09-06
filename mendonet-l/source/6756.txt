@@ -1,0 +1,31 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_2); 25 Nov 2000 17:13:32 -0000
+Received: (qmail 81066 invoked from network); 25 Nov 2000 17:13:32 -0000
+Received: from unknown (10.1.10.27) by m8.onelist.org with QMQP; 25 Nov 2000 17:13:31 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta2 with SMTP; 25 Nov 2000 17:13:26 -0000
+Received: from cubil ([200.41.31.67]) by relay2.impsat1.com (8.9.3/8.9.3) with SMTP id LAA06069 for <mendonet-l@egroups.com>; Sat, 25 Nov 2000 11:08:35 -0300 (GMT)
+Date: Sat, 25 Nov 2000 14:05:58 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain; charset="ISO-8859-1"
+To: mendonet-l@egroups.com
+References: <20001122123231.J10684@...> <0930.001122@...> <20001123220355.A20310@...>
+In-Reply-To: <20001123220355.A20310@...>
+Subject: Re: (Groucho) A todo esto...
+MIME-Version: 1.0
+Message-Id: <00112514055801.00380@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+> Trata de usar CSS y nada de cosas solo compatibles con IE5.5  OJO??
+
+JEJE... A eso me referia con descontaminarla un poco.
+
+Perp he decidido un nuevo enfoque. Me baje las especificaciones de HTML 4.01.
+Voy a estudiarlas y voy a producir codigo HTML 4.01 estricto.
+Si se ve mal en un browser o en otro o en todos, no es mi culpa sino del 
+browser.
+Que se quejen los usuarios de ese browser con el autor del browser.
+

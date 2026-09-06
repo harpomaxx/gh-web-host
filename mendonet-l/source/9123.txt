@@ -1,0 +1,59 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 21084 invoked from network); 3 Aug 2000 14:57:53 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 3 Aug 2000 14:57:53 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 3 Aug 2000 14:57:51 -0000
+Received: from LAGRUTA (rdumen1-200.41.21.69 [200.41.21.69] (may be forged)) by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id MAA15065 for <mendonet-l@egroups.com>; Thu, 3 Aug 2000 12:00:17 +0300 (GMT)
+Message-ID: <01b101bffd5b$c051c9a0$090aa8c0@...>
+To: <mendonet-l@egroups.com>
+References: <3970B326.A4D5C2F2@...> <1957.000718@...> <3976EF00.A45727B9@...> <014101bff70f$4804afa0$090aa8c0@...> <398178B8.E0FE5BEA@...>
+Subject: RE: MARIANA! Para todos los...
+Date: Thu, 3 Aug 2000 12:01:40 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: "Groucho Marx" <groucho@...>
+
+> > > Vuelvo a la nó1, leo nuevamente el disk por el Explorador y sale que
+> > > se llama CPP0720x.034
+> > > Ah!... quizás sea que tengo sueño y lo leí mal en el DOS de la nó2
+> > > ... Vuelvo... A:dir --> CPP07~1.034
+> > > ¿What? No entiendo nada!!!
+> >
+> > De ultima, usando DOS en la maquina que tiene DOS, renombra el archivo
+> > a mano antes de procesarlo. Por ejemplo el comando:
+> >
+> > REN CPP07~1.034 CPP0720x.034
+>
+> Bien!... Eso fue lo que hice aquel día y (obviamente) resultó... mmm...
+> quizás no soy tan naba.
+
+El problema es que desrtuiste la evidencia de lo que estaba mal, sin dejar
+ningun indicio en que apoyarse para evitar que el problema vuelva a ocurrir.
+Un tipo de nabicie mas sutil, pues ahora ni siquiera sabes que fue lo que
+paso.
+
+A proposito, una de las cosas en las que estoy trabajando, es en la creacion
+de redes privadas virtuales encima de Internet, usando el protocolo PPTP
+(point to point TUNNELING protocol).
+No se lo que estan haciendo donde vos trabajas, pero que te pareceria si
+en lugar de perder tiempo mandando los archivos por e-mail, sea posible
+que las distintas maquinas "vean" en el entorno de red las otras maquinas
+que estan en los otros lugares que actualmente te mandan archivos por
+e-mail.
+
+No seria copado mandar archivos arrastradolos de un directorio a otro, y
+hacer todo lo que se te ocurra como si el disco de la maquina que esta en
+el otro lado fuese simplemente una letra de unidad adicional en tu maquina,
+y que todo ocurra en tiempo real y con encriptacion?
+
+Decime si seria copado, porque me embola desarrollar algo que despues
+nadie use.
+
+Groucho
+
+

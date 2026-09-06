@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 12045 invoked from network); 8 Aug 2000 23:21:54 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 8 Aug 2000 23:21:54 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 8 Aug 2000 23:21:52 -0000
+Received: from 200.41.31.73 ([200.41.31.73]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA12573 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 20:24:29 +0300 (GMT)
+Date: Tue, 8 Aug 2000 08:57:38 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <7373.000808@...>
+To: "fcanizo@..." <mendonet-l@egroups.com>
+Subject: Re: el mail de aldo
+In-reply-To: <20000731214949.28631.qmail@...>
+References: <20000731214949.28631.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 31/07/2000, fcanizo tartamudeando inventó:
+
+FRg>>No dije que siempre tenia respuestas para todo?
+
+En la resolucion de ese problema, recuerdo haber solicitado mas
+informacion, de 2 maneras posibles
+
+1) user/password de Lupus para ganar acceso a su casilla de correo
+2) Los resultados de una serie de pruebas con telnet que Lupus nunca
+   llevo a cabo.
+
+Una prueba elemental, ere volver a mandar SIN CAMBIOS un mensaje que
+hubiera llegado cortado (de manera de poder caracterizar al sistema
+como invariante en el tiempo o no).
+
+
+
+-- 
+Groucho Marx
+Ese fue el título de nuestro segundo disco: "Más grandes que Jesús" --
+Homero J. Simpson
+
+
+

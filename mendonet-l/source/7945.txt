@@ -1,0 +1,38 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-6_1_0); 18 Oct 2000 13:30:49 -0000
+Received: (qmail 25228 invoked from network); 18 Oct 2000 13:30:49 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 18 Oct 2000 13:30:49 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 18 Oct 2000 13:30:47 -0000
+Received: from LAGRUTA (rdumen1-200.41.21.69 [200.41.21.69] (may be forged)) by relay3.impsat1.com (8.9.3/8.9.3) with SMTP id KAA17853; Wed, 18 Oct 2000 10:31:33 +0300 (GMT)
+Message-ID: <005101c03908$93c5a8a0$090aa8c0@...>
+To: <mendonet-l@...>, <lug-list@...>
+Subject: OFF-TOPIC: Vendo computadora
+Date: Wed, 18 Oct 2000 10:37:35 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+From: "Groucho Marx" <groucho@...>
+
+Tengo un 586 133 MHz para vender.
+Incluye: disco rigido de 1 GB, lectora de CD de 32x, teclado en castellano,
+placa de sonido ESS816, placa de video ATI Match 64 de 1 MB ampliable a 2
+MB, gabinete baby y 16 MB de RAM (4 SIMM de 4 MB de 72 pines).
+Monitor VGA blanco y negro.
+
+El precio: $280
+
+Puede ser con monitor color ($20 la diferencia) o con impresora HP 600 ($40
+la diferencia).
+
+Si conocen a alguien que pueda estar interesado, avisen!!!!!
+
+Fernando
+
+

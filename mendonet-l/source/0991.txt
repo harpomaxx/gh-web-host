@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_3); 12 Sep 2002 13:45:49 -0000
+Received: (qmail 89900 invoked from network); 12 Sep 2002 13:45:49 -0000
+Received: from unknown (66.218.66.216)
+  by m14.grp.scd.yahoo.com with QMQP; 12 Sep 2002 13:45:49 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta1.grp.scd.yahoo.com with SMTP; 12 Sep 2002 13:45:48 -0000
+Received: from kavkeeper by pandora.negyser.com.ar with local (Exim 3.32 #1 (Debian))
+	id 17pUYb-0004GX-00
+	for <mendonet-l@...>; Thu, 12 Sep 2002 11:02:57 -0300
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lagruta)
+	by pandora.negyser.com.ar with smtp (Exim 3.32 #1 (Debian))
+	id 17pUYX-0004GE-00
+	for <mendonet-l@...>; Thu, 12 Sep 2002 11:02:53 -0300
+Message-ID: <009c01c25a62$ae62ca80$060aa8c0@...>
+To: <mendonet-l@...>
+References: <17431.020912@...>
+Subject: Re: (unknown)
+Date: Thu, 12 Sep 2002 10:45:38 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-Envelope-To: mendonet-l@...
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> Siendo un perro, también pueden ser parásitos... coproparasitológico.
+
+El paciente tenia tenias, si.
+
+
+--
+Herr Grouchox
+
+
+
+
+
+

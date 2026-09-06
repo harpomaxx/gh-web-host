@@ -1,0 +1,27 @@
+From recabarren@...  Sat Jul 11 23:23:58 2020
+Return-Path: <recabarren@...>
+X-Sender: recabarren@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 26 Sep 2001 23:09:58 -0000
+Received: (qmail 31145 invoked from network); 26 Sep 2001 23:09:58 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.1.222 with QMQP; 26 Sep 2001 23:09:58 -0000
+Received: from unknown (HELO waltz.SoftHome.net) (66.54.152.30)
+  by mta3 with SMTP; 26 Sep 2001 23:09:57 -0000
+Received: (qmail 29617 invoked by uid 417); 26 Sep 2001 22:31:24 -0000
+Message-ID: <20010926223124.29616.qmail@...>
+References: <17529.010921@...>
+            <14565.010925@...>
+In-Reply-To: <14565.010925@...>
+To: mendonet-l@...
+Subject: Algo malo pasa
+Date: Wed, 26 Sep 2001 22:31:24 GMT
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Sender: recabarren@...
+From: Recabarren@...
+
+
+...
+

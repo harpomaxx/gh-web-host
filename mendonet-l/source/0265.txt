@@ -1,0 +1,44 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 29432 invoked from network); 15 Aug 2003 01:58:37 -0000
+Received: from unknown (66.218.66.218)
+  by m1.grp.scd.yahoo.com with QMQP; 15 Aug 2003 01:58:37 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 15 Aug 2003 01:58:36 -0000
+Received: (qmail 2091 invoked by uid 417); 15 Aug 2003 01:58:36 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 15 Aug 2003 01:58:36 -0000
+Received: from dup-200-42-125-24.prima.net.ar ([200.42.125.24])
+  (AUTH: PLAIN xebax@...)
+  by softhome.net with esmtp; Thu, 14 Aug 2003 19:58:33 -0600
+Date: Thu, 14 Aug 2003 22:44:42 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <7947.030814@...>
+To: cabeza <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbMl06IENoYXJy+mEgc2UgcHJlc2VudGE=?=
+In-reply-To: <1060877844.15956.16.camel@stimpy>
+References: <1060877844.15956.16.camel@stimpy>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+c> bueno, sos bienvenida, aca no somos nacional istas a si que poco
+c> importa que no seas de mendoza, es mas no importa para nada.
+
+¿Cómo que no? Yo creo que no ser de Mendoza es un valor agregado... o
+en todo caso, no ser de Mendoza es un desvalor restado.
+
+
+
+-- 
+Sebas   
+"toda  persona  es  inocente  mientras  no  se  pruebe lo contrario".  Tal  como marchan las cosas, de aquí a poco será culpable de terrorismo toda persona que no camine de rodillas, aunque se pruebe lo contrario. Eduardo Galeano                       
+
+
+

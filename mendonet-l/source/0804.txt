@@ -1,0 +1,55 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_4); 27 Sep 2002 12:33:24 -0000
+Received: (qmail 35268 invoked from network); 27 Sep 2002 12:32:13 -0000
+Received: from unknown (66.218.66.216)
+  by m8.grp.scd.yahoo.com with QMQP; 27 Sep 2002 12:32:13 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 27 Sep 2002 12:32:12 -0000
+Received: (qmail 7123 invoked by uid 417); 27 Sep 2002 12:32:12 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 27 Sep 2002 12:32:12 -0000
+Received: from a200042124148.rev.prima.com.ar ([200.42.124.148])
+  by softhome.net with esmtp; Fri, 27 Sep 2002 06:32:09 -0600
+Date: Fri, 27 Sep 2002 09:30:33 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <19396.020927@...>
+To: GAUCHO98 <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbMl06IERlc2Fmae10byBkZSBm7XNpY2Eu?=
+In-reply-To: <JPEJJKCOMFIHONLPHPCIAEFGCBAA.gaucho98@...>
+References: <JPEJJKCOMFIHONLPHPCIAEFGCBAA.gaucho98@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+G> No es que quiera dar la contra no.... pero bueno si te voy a dar la contra
+G> porque casi siempre lo hago, segun los que me conocen.
+G> Yo no elijo ninguna de tus respuestas, pues tengo entendido que la luna no
+G> cae sobre la tierra simplemente porque la fuerza de gravedad de la tierra no
+G> es lo suificientemente fuerte para atraerla a si si, y tienen un equilibrio
+G> con el resto de los planetas que poseen su propia gravedad.
+Si hacés el cálculo, verás que la luna debería caer a una aceleración
+de algo así como 0.125(o 0.0125, no me acuerdo) m/s2.
+
+G> ¿Porqué la luna no cae sobre la Tierra ni la Tierra sobre el Sol?
+G> Porque la fuerza centrífuga de su rotación iguala a la gravitacional del
+G> astro o planeta sobre el que giran.
+Otra vez con esto... la aceleración centrífuga no existe, si existiera
+los cuerpos saldrían despedidos en dirección perpendicular a su
+velocidad tangencial, y lo hacen en la misma dirección. Dije otra vez
+porque Groucho creo que también hablé de aceleración centrífuga.
+
+
+
+-- 
+Sebas   
+No  consigo  dormir. Tengo una mujer atravesada entre los párpados. Si pudiera,  le  diría que se vaya; pero tengo una mujer atravesada en la garganta.                       
+
+
+

@@ -1,0 +1,50 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_1); 10 Aug 2001 11:08:03 -0000
+Received: (qmail 31076 invoked from network); 10 Aug 2001 11:08:03 -0000
+Received: from unknown (10.1.10.142)
+  by l8.egroups.com with QMQP; 10 Aug 2001 11:08:03 -0000
+Received: from unknown (HELO smtp4.impsat.net.ar) (200.31.1.20)
+  by mta3 with SMTP; 10 Aug 2001 11:08:02 -0000
+Received: from elserver.micasa (200-41-21-93-tntmen1.impsat.net.ar [200.41.21.93])
+	by smtp4.impsat.net.ar (8.9.3/8.9.3) with ESMTP id BAA01170
+	for <mendonet-l@yahoogroups.com>; Fri, 10 Aug 2001 01:10:20 -0400 (EDT)
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id BAA08487
+	for mendonet-l@yahoogroups.com; Fri, 10 Aug 2001 01:24:44 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Fri, 10 Aug 2001 01:24:43 -0300
+To: mendonet-l@yahoogroups.com
+Subject: Re: linux, hombres y pornografia
+Message-ID: <20010810012443.B8453@...>
+References: <16743705.20010806213945@...> <01080717503501.00360@cubil>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <01080717503501.00360@cubil>; from groucho@... on Tue, Aug 07, 2001 at 05:50:35PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.18 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+El Tue, Aug 07, 2001 at 05:50:35PM -0300, Groucho Marx dijo:
+> > tenia informacion vital recopilada durante anios, mi preciada
+> > PORNOGRAFIA!!!!, y estaba ordenada alfabeticamente y por nombres de
+> > protagonistas!!!!!!!
+> >     Ya no tenia sentido nada, luego de varias consultas no tuve otra
+> > solucion tuve que formatear la particion perdiendo mas de 400 Mb de
+> > hermosas mujeres.
+> 
+> Seguramente ese formateado de particion estuvo totalmente de mas.
+
+Te comento el pedo.
+Muy comico.. 
+mke2fs corrio sobre una particion con el Id Win95 Vfat. Y fue formateada de
+entrada. Ese fue el error, ese fue el pedo. ESA FUE LA PARTICION QUE ESTABA DE
+MAS! Jua jua...
+
+-- 
+Harpo+
+

@@ -1,0 +1,33 @@
+From oxiuro@...  Sat Jul 11 23:23:58 2020
+Return-Path: <oxiuro@...>
+Received: (qmail 3521 invoked from network); 14 Aug 2000 02:37:50 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 14 Aug 2000 02:37:50 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 14 Aug 2000 02:37:47 -0000
+Received: (qmail 21969 invoked by uid 417); 14 Aug 2000 02:33:17 -0000
+Received: from mza2ppp-392.uc.infovia.com.ar (HELO softhome.net) (209.13.230.137) by smtpb.softhome.net with SMTP; 14 Aug 2000 02:33:17 -0000
+Message-ID: <3996FAA7.600909B4@...>
+Date: Sun, 13 Aug 2000 16:44:40 -0300
+X-Mailer: Mozilla 4.03 [es] (Win95; I)
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Para todos ustedes
+References: <966067008.22393@egroups.com>
+Content-Type: multipart/mixed; boundary="------------BBAEB8585E47A6E91DE27FC3"
+From: Oxiuro <oxiuro@...>
+
+
+--------------BBAEB8585E47A6E91DE27FC3
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Espero que escuchen la voz de su conciencia, soquetes
+
+OXIURO
+
+--------------BBAEB8585E47A6E91DE27FC3
+Content-Type: audio/wav; name="Lavozdelaconciencia.wav"
+Content-Disposition: inline; filename="Lavozdelaconciencia.wav"
+
+[ Attachment content not displayed ]
+--------------BBAEB8585E47A6E91DE27FC3--
+

@@ -1,0 +1,40 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:36 -0000
+Received: (qmail 39240 invoked from network); 19 Sep 2001 07:05:36 -0000
+Received: from unknown (10.1.10.27)
+  by l9.egroups.com with QMQP; 19 Sep 2001 07:05:36 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta2 with SMTP; 19 Sep 2001 07:05:34 -0000
+Received: (qmail 8849 invoked by uid 1005); 18 Sep 2001 18:29:35 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.15726 secs); 18/09/2001 15:29:33
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 18:29:32 -0000
+Date: Tue, 18 Sep 2001 15:29:31 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <1522639839.20010916035412@...> <5360.010915@...> <200109151546.f8FFkDn01666@...>
+In-Reply-To: <200109151546.f8FFkDn01666@...>
+Subject: Re: Oxiuro taliban!!!!!!!
+MIME-Version: 1.0
+Message-Id: <01091815293106.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Sáb 15 Sep 2001 12:46, escribiste:
+
+> > "los mimos son brutos y los ingenieros rulez porque estudiamos".
+> > Es tan estúpido que por ahí me enoja.
+>
+> pero no coincidis en que los mimos son insoportables?
+
+En el caso de Goofer, convengamos que como mimo es demasiado charlatan.
+Aunque el truco ese de tocar paredes invisibles esa genial!!!!
+
+-- 
+Groucho Marx
+

@@ -1,0 +1,44 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_1_0); 12 Oct 2000 21:16:27 -0000
+Received: (qmail 16498 invoked from network); 12 Oct 2000 21:16:27 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 12 Oct 2000 21:16:27 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 12 Oct 2000 21:16:26 -0000
+Received: (qmail 11887 invoked by uid 417); 12 Oct 2000 21:16:59 -0000
+Received: from unknown (HELO RODRALEZ) (200.41.21.243) by smtpb.softhome.net with SMTP; 12 Oct 2000 21:16:59 -0000
+Date: Thu, 12 Oct 2000 16:08:48 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: rodralez <rodralez@...>
+X-Priority: 3 (Normal)
+Message-ID: <6672.001012@...>
+To: Groucho Marx <mendonet-l@egroups.com>
+Subject: Invitacion - GNU/Linux InstallationFest... como minitas ?!.
+In-reply-To: <18923.001011@...>
+References: <18923.001011@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: rodralez <rodralez@...>
+
+Groucho Marx decia:
+
+Groucho Marx> ATENCION!!! ESTO NO ES UNA DE ESAS CADENAS DE MENSAJES DE MIERDA!!!!
+Groucho Marx> SI TE INTERESA CONOCER GNU/LINUX, LEELO!
+
+Groucho Marx> sI TE LLEGO ESTE MENSAJE, ES PORQUE TU DIRECCION DE E-MAIL ESTA EN LA
+Groucho Marx> LIBRETA DE DIRECCIONES DE GROUCHO, LO CUAL MUY PROBABLEMENTE
+Groucho Marx> SIGNIFIQUE QUE SEAS AMIGO DE GROUCHO. POR LO TANTO, SI TE MOLESTO
+Groucho Marx> RECIBIR ESTE MENSAJE, COMO AMIGO TE DIGO: JODETE!!!
+
+Che, me parece muy interesante la idea. Voy a hablar con mi buen
+amigos Harpo a ver que va a ser él.
+
+Una pregunta Groucho, sin ningún ánimo de descalificar tu
+invitación... va a haber minitas ?!.
+
+el rodro
+
+
+

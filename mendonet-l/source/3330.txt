@@ -1,0 +1,54 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 27 Oct 2001 16:26:03 -0000
+Received: (qmail 93094 invoked from network); 27 Oct 2001 16:26:02 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.224 with QMQP; 27 Oct 2001 16:26:02 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta1 with SMTP; 27 Oct 2001 16:26:02 -0000
+Received: from gateway.micasa.org.ar (200-41-31-57-rdunysd1.impsat.net.ar [200.41.31.57])
+	by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA07408
+	for <mendonet-l@...>; Sat, 27 Oct 2001 13:18:00 +0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15xE1Y-000126-00
+	for <mendonet-l@...>; Fri, 26 Oct 2001 17:56:16 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15xE1X-00011v-00
+	for <mendonet-l@...>; Fri, 26 Oct 2001 17:56:15 -0300
+Date: Fri, 26 Oct 2001 17:56:15 -0300
+To: mendonet-l@...
+Subject: Re: Sin defender a J- Lo
+Message-ID: <20011026175615.E3291@...>
+References: <000701c15572$37f94400$9a4afea9@hfgg> <11852.011015@...> <000301c15616$41a842e0$9a4afea9@hfgg> <20011017091011.D9764@...> <001301c157ac$35a85420$9a4afea9@hfgg> <20011018160115.D12524@...> <017f01c15e1c$bf6d6f80$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <017f01c15e1c$bf6d6f80$9a4afea9@hfgg>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Fri, Oct 26, 2001 at 08:10:30AM -0300, Lady Marian wrote:
+
+> > > Tenía previsto que te vengaras por el hecho de que no tengo
+> > > incentivo alguno por mamartela, pero... ¿Con un chiste tan
+> fácil?
+> >
+> > No tenés ningún incentivo? Si, claro...
+> 
+> Che... ¿y podría saber cual o cuales son?...
+> 
+> Bah!... Si es que se puede... De repente me dieron ganas de ser
+> yo también la que conozca ciertos aspectos de mi propio morbo.
+
+Por empezar, 9 de cada 10 dentistas recomiendan sexo oral.
+
+--
+Groucho
+
+
+
+

@@ -1,0 +1,43 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 27 Oct 2000 17:31:11 -0000
+Received: (qmail 12039 invoked from network); 27 Oct 2000 17:31:07 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 27 Oct 2000 17:31:07 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.12) by mta3 with SMTP; 27 Oct 2000 17:31:06 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id OAA06899 for mendonet-l@egroups.com; Fri, 27 Oct 2000 14:02:26 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Fri, 27 Oct 2000 14:02:26 -0300
+To: mendonet-l@egroups.com
+Subject: Re: Boring
+Message-ID: <20001027140226.D6865@...>
+References: <15667.001025@...> <00a001c03f79$9dd74f20$LocalHost@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <00a001c03f79$9dd74f20$LocalHost@...>; from aletalquenca@... on Thu, Oct 26, 2000 at 02:50:22PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-head: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Thu, Oct 26, 2000 at 02:50:22PM -0300, Alejandro Gomez Talquenca dijo:
+
+> Acuso recibo de la primera pedrada.
+> Me parecen atinadas las propuestas de rodro-reuters.
+> textos o imagenes que desafien nuestro intelecto-emoción-imaginación
+
+Mendonet esta muriendo.. el hecho es ese... la razon.... simple desgaste...
+Creo que la propuesta de Rodro-reuters es por demas boluda. Pero bueno si a la
+gente le pinta que transformemos esto en un simple intercambio de informacion
+recibida en los inbox de cada uno... ALLA UDs...
+Por mi parte prefiero quedarme con el recuerdo del apogeo de
+mendonet-mailing-list....
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

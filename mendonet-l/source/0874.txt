@@ -1,0 +1,51 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 4 Oct 2002 23:41:59 -0000
+Received: (qmail 70066 invoked from network); 4 Oct 2002 23:41:17 -0000
+Received: from unknown (66.218.66.216)
+  by m4.grp.scd.yahoo.com with QMQP; 4 Oct 2002 23:41:17 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 4 Oct 2002 23:41:17 -0000
+Received: (qmail 30920 invoked by uid 417); 4 Oct 2002 23:41:16 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 4 Oct 2002 23:41:16 -0000
+Received: from modem70-as1.mendoza.sinectis.com.ar ([216.244.255.70])
+  by softhome.net with esmtp; Fri, 04 Oct 2002 17:41:14 -0600
+Date: Fri, 4 Oct 2002 20:30:51 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <18854.021004@...>
+To: mendonet-l@...
+Subject: internet y mp3...
+In-reply-To: <15979.020927@...>
+References: <15979.020927@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+Chicuelos:
+
+Ocurre que tengo conexión de internet 24hs en el laburo, aunque no con
+demasiado  ancho  de  banda,  y  me  gustaría  tratar de bajar algo de
+música,  apero  no sé dónde puedo encontrar cantidades industriales de
+mp3 gratis y sin navegar demasiado, no tengo mucho tiempo para ponerme
+a   buscar  y  no  puedo  usar  programas de intercambio de mp3 por el
+firewall de la red...
+
+si tienen alguna página que recomendarme, agradecido mucho estaré...
+
+Lupus
+
+-- 
+
+YOU ARE TICKET: Vos sos boleta.         
+
+
+

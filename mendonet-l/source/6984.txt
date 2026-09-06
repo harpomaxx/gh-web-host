@@ -1,0 +1,16 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 13 Nov 2000 20:50:06 -0000
+Received: (qmail 53333 invoked from network); 13 Nov 2000 20:49:41 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 13 Nov 2000 20:49:41 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta2 with SMTP; 13 Nov 2000 20:49:40 -0000
+Received: (qmail 23159 invoked by uid 722); 13 Nov 2000 20:49:31 -0000
+Date: 13 Nov 2000 20:49:31 -0000
+Message-ID: <20001113204931.23153.qmail@...>
+To: mendonet-l@egroups.com
+Subject: hoy leo de corrido
+From: fcanizo@...
+
+

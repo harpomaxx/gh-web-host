@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_1); 12 Sep 2001 21:00:43 -0000
+Received: (qmail 46057 invoked from network); 12 Sep 2001 20:59:56 -0000
+Received: from unknown (10.1.10.142)
+  by l8.egroups.com with QMQP; 12 Sep 2001 20:59:56 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.29)
+  by mta3 with SMTP; 12 Sep 2001 20:59:55 -0000
+Received: (qmail 3724 invoked by uid 1005); 12 Sep 2001 18:27:12 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.156643 secs); 12/09/2001 15:27:10
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 12 Sep 2001 18:27:09 -0000
+Date: Wed, 12 Sep 2001 15:27:08 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <861974596.20010904095753@...> <19435.010911@...> <126369827.20010912204327@...>
+In-Reply-To: <126369827.20010912204327@...>
+Subject: Re: Re[3]: =?iso-8859-1?q?Tecnica=20vs=20sentimiento?=
+MIME-Version: 1.0
+Message-Id: <01091215270804.00455@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mié 12 Sep 2001 20:43, escribiste:
+
+> O>> En la escuela de musica (no fui pero conozco como es el sistema)
+> si te O>> piden hacer "la" y suena algo similar a "la" y no es "la"
+> reprobaste. O>> Simple, si a vos como medico algun dia te toca hacer
+> una operacion no O>> vas a cortar cerca de donde debes hacerlo porque
+> sos un medico con O>> sentimiento, la cosa es simple, lo haces bien o
+> no lo haces. S> ¿Y si la operación es de una estructura relacionada a
+> la cara y S> prefiero acceder desde el cuello para que quede más
+> estético el S> resultado?
+> No es el punto.
+
+Cierto, no es el punto. Si debes cortar por el cuello para no 
+desfigurarle la cara, eso es lo que debes hacer. Si lo haces en otro 
+lado por mas que este cerca, esta mal hecho.
+
+-- 
+Groucho Marx
+

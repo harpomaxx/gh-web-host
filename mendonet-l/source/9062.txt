@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 26177 invoked from network); 8 Aug 2000 23:22:08 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 8 Aug 2000 23:22:08 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 8 Aug 2000 23:22:06 -0000
+Received: from 200.41.31.73 ([200.41.31.73]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA12626 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 20:24:44 +0300 (GMT)
+Date: Tue, 8 Aug 2000 15:41:47 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <7654.000808@...>
+To: Marc <mendonet-l@egroups.com>
+Subject: Re[2]: Otra consultita
+In-reply-To: <5913.000801@...>
+References: <5913.000801@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 01/08/2000, Marc velozmente puteó:
+
+
+
+M> Tuesday, August 01, 2000, 8:23:14 PM, you wrote:
+
+S>> Desde hace mucho que tengo un problema en mi computadora y tal vez ustedes puedan solucionarlo. Desde ya que anda más lenta de lo que debería. El administrador de dispositivos, le pone un signito
+S>> de admiración a lo que creo(desde mi desconocimiento) que son controladores del rígido. Se llaman "Controlador primario IDE(FIFO única)" y lo mismo pero secundario. Por otro lado, en la pesta�a de
+S>> rendimiento, me dice que "La paginaci�n del modo compatibilidad, reduce el rendimiento global del sistema", y además que "SJCDAPI en confyg.sys fuerza el modo compatibilidad con MS-DOS"
+S>> Estos problemejos no se arreglan reinstalando windows, sólo se arreglan formateando el disco rígido y luego aparecen de nuevo. También debo decir que tengo desde hace mucho tiempo un virus, algo
+S>> as� como Echo o Eco o algo así, pero que a no ser que sea el causante de mis problemas, no hace nada.
+S>> Escucho ofertas.
+
+M>    Sebas11 como has dejado pasar el tiempo con esos síntomas a tu
+M>    máquina no le quedan mas de 2 meses de vida
+M>    necesita visitar un técnico urgente te recomiendo al gran Groucho
+M>    hasta ahora es el único que a recuperado PCs desahuciaras pero te
+M>    va ha costar muchas golocinas, chocolates, galletas y gaceosa.
+
+Si!!!! Soy el Maravillo Mago Compu-ñoño!!!!
+
+-- 
+Groucho Marx
+Siempre que tengo el deseo de hacer ejercicio, me acuesto hasta que se me
+pasa.
+
+
+

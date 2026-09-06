@@ -1,0 +1,61 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 18:13:31 -0000
+Received: (qmail 10202 invoked from network); 15 Nov 2000 18:13:31 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 15 Nov 2000 18:13:31 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta2 with SMTP; 15 Nov 2000 18:13:31 -0000
+Received: (qmail 22807 invoked by uid 417); 15 Nov 2000 18:18:06 -0000
+Received: from unknown (HELO 200.41.31.63) (200.41.31.63) by smtpb.softhome.net with SMTP; 15 Nov 2000 18:18:06 -0000
+Date: Tue, 14 Nov 2000 16:05:42 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <7670.001114@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: A ver cerebritos...
+In-reply-To: <009901c04cdd$b1074160$f27c2ac8@tepes>
+References: <009901c04cdd$b1074160$f27c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Tuesday, November 14, 2000, 4:19:30 PM, you wrote:
+
+>> S> ...(lo de cerebritos es con cariño) ¿podrían decirme porqué carajo
+>> S> no puedo conectarme con softhome a través de the bat! ?
+>> S> En una de esas mi pregunta est� poco entendible, pero hagan un
+>> S> esfuercito
+>>
+>> Porque tenes que hacer POP antes de SMTP????
+>> Eso es lo que te falla?
+>> Anda al menu Cuenta > Propiedades > Transporte > SMTP > More
+>> y activa eso que te dije.
+S> Imaginé que era esa "sutileza" y creí haberla solucionado, pero por lo que
+S> me decís lo solucioné incorrectamente, veré ahora.
+
+>> Y si no, lee el maldito mensaje de error que te tire, o queres que
+>> adivine?
+S> Es que no me tiraba ningún mensaje, simplemente se quedaaaaaaaaaba y se
+S> quedaaaaaaaaabaaaa y se quedaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaa y se
+S> quedaaaaaaaaaaaaa.(vacío mental de the bat)
+
+    el vampirito no mueve sus alitas,
+    a mi me paso y lo borre todo e instale de nuevo y empezó a
+    funcionar bien, claro nunca supe que era lo que estaba mal pero lo
+    importante es que funcionó.
+    
+
+
+
+-- 
+  nadie, apoltronado en la tibieza de una vida timorata,
+  puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                            
+
+
+

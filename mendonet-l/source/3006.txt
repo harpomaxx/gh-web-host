@@ -1,0 +1,70 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 8 Nov 2001 05:13:57 -0000
+Received: (qmail 70743 invoked from network); 8 Nov 2001 05:13:57 -0000
+Received: from unknown (216.115.97.167)
+  by m8.grp.snv.yahoo.com with QMQP; 8 Nov 2001 05:13:57 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta1.grp.snv.yahoo.com with SMTP; 8 Nov 2001 05:13:57 -0000
+Received: from gateway.micasa.org.ar ([200.41.31.107])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with ESMTP id CAA15543
+	for <mendonet-l@...>; Thu, 8 Nov 2001 02:15:03 +0300 (GMT)
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 161Yvy-0002ev-00
+	for <mendonet-l@...>; Wed, 07 Nov 2001 17:04:26 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 161Yvx-0002ek-00
+	for <mendonet-l@...>; Wed, 07 Nov 2001 17:04:25 -0300
+Date: Wed, 7 Nov 2001 17:04:24 -0300
+To: mendonet-l@...
+Subject: Re: Bucay sanata.
+Message-ID: <20011107170424.L8502@...>
+References: <20011106001904.L1890@...> <226.011107@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <226.011107@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Wed, Nov 07, 2001 at 12:38:34AM -0300, Sebas wrote:
+
+> >> S> Se imaginarán que un niño que recién empezaba a mimar a mi
+> >> S> mama y memo ama a mumi no veía con muy buenos ojos un libro como
+> >> S> regalo...
+> GM> Eu! Yo si! Entre los 5 y los 12 años recibia varios libros de regalo cada
+> GM> año, mas todos los que quisiera comprar cada vez que ibamos a la libreria de
+> GM> los gatos.
+> Felicitaciones por tu precocidad, pero a mí en el momento que me
+> regalaron un libro y no sabía leer, no me gustó. Tres meses después,
+> al terminarlo, era otra cosa.
+> 
+> GM> Lo que no funciono fue el libro 201 poesias para niños que mi vieja compro
+> GM> cuando yo naci. La poesia me aburre casi en su totalidad.
+> Yo lo tenía...
+> 
+> Lo estoy viendo
+> su pelo es brillante terciopelo que se quema con el sol
+> duerme, y parece enroscado en un enorme caracol.
+> 
+> Ese es un fragmente de un que se llamaba "el gato"... no era tan
+> profunda que digamos, pero se ve que em gustó mucho porque todavía me
+> la acuerdo.
+
+La casita del hornero
+tiene sala y tiene alcoba
+y en la sala muy oronda
+la señora se acomoda
+
+o algo asi.
+
+--
+Groucho
+
+
+
+

@@ -1,0 +1,65 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 15 Jun 2002 04:00:39 -0000
+Received: (qmail 23093 invoked from network); 15 Jun 2002 04:00:38 -0000
+Received: from unknown (66.218.66.216)
+  by m8.grp.scd.yahoo.com with QMQP; 15 Jun 2002 04:00:38 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 15 Jun 2002 04:00:38 -0000
+Received: (qmail 14929 invoked by uid 417); 15 Jun 2002 04:00:37 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 15 Jun 2002 04:00:37 -0000
+Received: from modem29-as1.mendoza.sinectis.com.ar ([216.244.255.29])
+  by softhome.net with esmtp; Fri, 14 Jun 2002 21:59:55 -0600
+Date: Sat, 15 Jun 2002 00:56:53 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <539.020615@...>
+To: mendonet-l@...
+Subject: Re[4]: siempre hay un boludo...
+In-reply-To: <E17IY34-0003nf-00@...>
+References: <E17IY34-0003nf-00@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+X-Yahoo-Profile: aldocop
+
+>> Y en particular estimadísimo Groucho:
+>>
+>> Aparentemente  absolutamente  todo,  desde lo más sencillo, me
+>> resulta complicado con este linuz...
+>>
+>> Ya instalé el kernel y hasta me funciona el mc (gracias a dios...!!).
+>>
+>> Estoy  tratando de instalar el x con apt-get, pero no sé muy bien
+>> cómo buscarlo...  recuerdo  que habia un parámetro que me devolvía la
+>> lista de cuestines que tenía para instalar, pero no lo encentro...
+>>
+>> Ayyyyuda... Ayyyyuda...
+>>
+>> ¿Cuál es la palabra mágica? Apt-get x? apt-get xfree? apt z�samo...?
+
+GM> "apt-cache search xfree" para ver que cosas instalables hay.
+
+GM> Ya estas listo para suscribirte a lug-novatos:
+
+Ok. Ahí estaré...
+
+A  propósito...  este sábado laburo... a la tarde... a pesar de que no
+me tocaba, me tocó el sábado pasado...muy divertido esto del laburo...
+
+
+Lupus
+
+-- 
+
+" Todo idioma se aleja de lo escrito. Y algunos, como el inglés, que allá donde escriben Londres pronuncian Constantinopla. " ES                
+
+
+

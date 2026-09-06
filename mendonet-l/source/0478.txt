@@ -1,0 +1,54 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 6 Mar 2003 13:27:52 -0000
+Received: (qmail 35633 invoked from network); 6 Mar 2003 13:27:52 -0000
+Received: from unknown (66.218.66.216)
+  by m6.grp.scd.yahoo.com with QMQP; 6 Mar 2003 13:27:52 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.74)
+  by mta1.grp.scd.yahoo.com with SMTP; 6 Mar 2003 13:27:51 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18qvdt-0002EN-00
+	for <mendonet-l@...>; Thu, 06 Mar 2003 10:42:37 -0300
+Message-ID: <3E674CC1.1020102@...>
+Date: Thu, 06 Mar 2003 10:27:29 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: Algo
+References: <036.030306@...>
+In-Reply-To: <036.030306@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+> Hoy recibí un mail de una amiga con el subject "habrí mi oficina"
+> Obviamente, semejante estupro ortográfico era inaceptable. Así que
+> procedí a darle una de las explicaciones sobre por qué tener mala
+> ortografía es malo. Cuando terminé noté que había sido muy claro y
+> convincente, así que decidí enviarle la explicación a aquellas
+> personas con el mismo defecto:
+> 
+> "PD: abra su oficina sin hache, que se le van a espantar los clientes
+> puntillosos como yo... sí, ya sé, que soy un pesado y tal, suelen
+> decírmelo, pero paso a explicar:
+> Cuando leemos, no lo hacemos letra por letra, sino por golpes de
+> vista. No miramos cada palabra, sino que nuestro cerebro procesa
+> varias palabras juntas, todas las que recibe de un golpe de vista. Si
+> dentro de un golpe de vista caen tres palabras, por ejemplo
+> "estoy escribiendo boludeces",
+
+Es la misma explicacion que di yo hace 3 meses en otra lista de correo.
+Y la misma que salio en Los Andes este domingo.
+
+-- 
+Groucho
+
+
+

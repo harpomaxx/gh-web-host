@@ -1,0 +1,175 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_2); 20 Feb 2002 16:05:27 -0000
+Received: (qmail 1845 invoked from network); 20 Feb 2002 16:05:27 -0000
+Received: from unknown (216.115.97.167)
+  by m10.grp.snv.yahoo.com with QMQP; 20 Feb 2002 16:05:27 -0000
+Received: from unknown (HELO smtp5) (200.31.1.19)
+  by mta1.grp.snv.yahoo.com with SMTP; 20 Feb 2002 16:05:26 -0000
+Received: from lagruta (rdumen1-200.41.21.70 [200.41.21.70] (may be forged))
+	by smtp5 (8.9.3/8.9.3) with SMTP id MAA02128
+	for <mendonet-l@...>; Wed, 20 Feb 2002 12:56:06 +0300 (GMT)
+Message-ID: <004f01c1ba28$d030c5c0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <6878.020219@...>
+Subject: =?iso-8859-1?Q?Re:_Curiosidad_tecnica?=
+Date: Wed, 20 Feb 2002 13:08:16 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> En el hartazgo de la espera nace una duda... que es a la vez,
+> oportunidad de lucimiento para los computables de esta lista.... ¿qué
+> cosas hace la computadora desde que oprimo el botón para encenderla
+> hasta que me habilita el cursor(pasa de relojito de arena a flechita)?
+
+En realidad, desde que esta en "flechita con relojito" ya esta
+usable... No te molestes en esperar a "flechita sola".
+
+Y "que hace la computadora" en ese tiempo, es tema suficiente como
+para todo un libro. Ademas, algunos detalles son desconocidos debido
+a que el codigo fuente de Windows es un secreto propietario.
+
+Los pasos principales son:
+1) El procesador recibe una condicion de reset generada por la circuiteria
+del motherboard, lo que lo hace entrar al modo 8086 compatible y
+comenzar a ejecutar el programa almacenado en la direccion de memoria
+0x000ffff0
+En esa direccion de memoria, esta mapeado el BIOS (basic input/output
+system) que es un conjunto de programas de apoyo para la inicializacion
+y acceso a algunos dispositivos perifericos.
+2) El procesador ejecuta la rutina de POST (power on self test) del
+BIOS, que detecta e inicializa el hardware encontrado, especialmente
+teclado, video, memoria, chipset, controlador IDE y controlador de
+diskettes.
+El POST tiene muchos pasos intermedios que no vienen al caso, pero
+alguno que reconoceras facilmente es el conteo de memoria mientras
+se realiza un rapido test de legibilidad de memoria.
+3) Como paso final, el POST invoca la rutina BOOTSTRAP ejecutando la
+instruccion INT 0x19. Esta rutina accede en orden al sector de arranque
+de los dispositivos configurados en el BIOS Setup y carga el primer
+sector del primer dispositivo legible que encuentre. Normalmente es
+el disco rigido 0, conectado al bus 0 del controlador IDE 0, o
+en la terminologia anticuada de IBM, el disco "master primario".
+Una vez cargado en memoria ese primer sector (un sector es un bloque
+de 512 bytes en este tipo de discos), llamado MBR (master boot record),
+se invoca un programa que se supone que esta ubicado dentro de ese
+sector.
+4) Ese programa es el "Boot Loader" y en el caso de haber instalado
+Windows 98 solamente, es un programa que lee del mismo MBR
+una tabla de datos llamada "tabla de particion" que indica el inicio
+y fin de cada particion del disco. Una de tales particiones estara
+marcada como "activa". El Boot Loader carga el primer sector
+perteneciente a la particion activa e invoca un programa que se supone
+que esta presente ahi (en forma similar a como BOOTSTRAP cargo BootLoader)
+5) Ese primer sector de la particion se llama "BR" (Boot Record) y es
+similar al MBR, salvo que no contiene una tabla de particion. El BR
+carga en memoria algunos archivos, usando para el acceso al disco
+la rutina int 0x13 del BIOS. Ese archivo en el caso de Windows 98
+es io.sys. Ese archivo lee algunas configuraciones de msdos.sys
+y config.sys y contiene las rutinas basicas del kernel de DOS.
+Finalmente invoca COMMAND.COM
+6) COMMAND.COM lee autoexec.bat e invoca WIN.COM
+7) WIN.COM cambia el procesador a modo protegido (acordate que estaba
+en modo compatible con el 8086) e inicia la carga de Windows.
+Podes ver todos los pasos que hace en el archivo bootlog.txt por si
+te interesa.
+La carga de windows implica muchos pasos: carga del kernel, deteccion e
+inicializacion del hardware, carga de los drivers de hardware, carga
+de los drivers de filesystem, carga de cada modulo (desde las tipografias
+hasta DirectX) y finalmente carga del shell (explorer.exe normalmente)
+8) explorer.exe dibuja el escritorio, invoca a systray.exe (que
+dibuja la barra de menues de abajo), y todos los otros programas
+que esten indicados en el registro, generalmente la cosita esa del
+parlantito, un antivirus, un virus, las pelotudeces puestas por el
+usuario, etc.
+Luego, explorer.exe invoca los programas mencionados en el menu Inicio.
+
+
+> En mi computadora, y tomado por reloj, el tiempo fue de 1 minuto 30
+> segundos 24 centésimas. Quisiera conocer cuánto tiempo aproximado ocupa
+> en cada una de las tareas que alguno de los conocedores(altamente
+> probable que sea Groucho) me detallará como respuesta a esta
+> inquietud.
+
+Ese tiempo es horrible.
+En mi maquina insignia "antro" (k6-2 500 MHz, 256 MB) tarda:
+15 segundos desde que pulso el boton de encendido hasta que aparece
+el menu de Lilo preguntandome si quiero cargar Linux o Windows
+3 segundos en autoseleccionar linux si no eligo antes a mano otra cosa.
+19 segundos en cargar linux y presentarme el login.
+
+Total: 38 segundos en total...
+
+Si justo en ese momento tengo ganas de usar una interfaz grafica,
+cargo el servidor X y KDE escribiendo "startx".
+El servidor X tarda unos 4 segundos en cargar, y luego KDE se demora
+unos 9 segundos mas...
+
+Total: 14 segundos
+
+Mi secreto: la austeridad.
+
+
+> Otra cosa: ¿qué incluye un header?
+
+Metainformacion sobre el mensaje de correo electronico, lo mismo que
+uno encontraria en un encabezado de una carta de verdad, o en un membrete
+de una carta de verdad, o en un sobre de una carta de verdad, o en una
+planilla de un cartero de verdad.
+
+Por ejemplo, los encabezados de tu mensaje son:
+
+Return-Path:
+<sentto-1016528-9558-1014166736-groucho=lanet.com.ar@...
+m>
+
+(direccion a la que hay que enviar mensajes de error debidas al envio de
+este mensaje)
+
+Delivered-To: LANET-groucho@...
+
+(direccion a la que fue entregado el mensaje)
+
+
+Received: (qmail 16992 invoked from network); 20 Feb 2002 00:58:59 -0000
+
+(registro de la recepcion final del mensaje)
+
+
+Received: from postino1.prima.com.ar (200.42.0.132)
+  by cumeil4.prima.com.ar with SMTP; 20 Feb 2002 00:58:59 -0000
+
+(registro de la recepcion del mensaje por Ciudad Internet otra parte de
+Ciudad Internet)
+
+
+Received: from n11.groups.yahoo.com (n11.groups.yahoo.com [216.115.96.61])
+ by postino1.prima.com.ar (8.11.5/8.11.5) with SMTP id g1K0wwk15946
+ for <groucho@...>; Tue, 19 Feb 2002 21:58:58 -0300 (ART)
+
+(registro de la recepcion del mensaje por Ciudad Internet desde Yahoo
+Groups)
+
+
+X-eGroups-Return:
+sentto-1016528-9558-1014166736-groucho=lanet.com.ar@...
+
+(Cabecera privada del sistema de eGroups para uso interno)
+
+
+Received: from [216.115.97.191] by n11.groups.yahoo.com with NNFMP; 20 Feb
+2002 00:58:57 -0000
+
+(registro de la recepcion por Yahoo Groups)
+
+

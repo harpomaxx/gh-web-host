@@ -1,0 +1,36 @@
+From babasonica@...  Sat Jul 11 23:23:58 2020
+Return-Path: <babasonica@...>
+Received: (qmail 2263 invoked from network); 9 Jun 2000 12:44:47 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 9 Jun 2000 12:44:47 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta2 with SMTP; 9 Jun 2000 12:44:46 -0000
+Received: (qmail 25229 invoked by uid 417); 9 Jun 2000 12:46:10 -0000
+Received: from mza2ppp-393.uc.infovia.com.ar (HELO softhome.net) (209.13.230.138) by smtpa.softhome.net with SMTP; 9 Jun 2000 12:46:10 -0000
+Message-ID: <3940AD50.B2B4343A@...>
+Date: Fri, 09 Jun 2000 05:39:44 -0300
+X-Mailer: Mozilla 4.61 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: =?iso-8859-1?Q?Medicion?= de coeficiente
+References: <12873.000603@...> <18721.000605@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Mariana <babasonica@...>
+
+> M> A ver quien resuelve primero el problema:
+> M> Una vaca pastaba en un campo perfectamente circular, de 100 metros 
+> M> de diámetro. Fue comiendo el pasto del perímetro hasta dejar 
+> M> reducido el campo a un circulo que tenía la mitad de superficie del 
+> M> original. ¿cuántos metros de diámetro tendrá el circulo de pasto > M> que quedó?
+ 
+> Se me ocurre un planteo mas interesante... Que tal si atamos la vaca a
+> un poste que se encuentre sobre el borde del campo circular.
+> Cual debe ser la longitud de la soga para que la vaca no pueda comer
+> mas que la mitad de la superficie del pasto?
+
+Depende de donde le atés la soga.
+¿En la cola?... ¿Cuánto mide la vaca?
+¿En el cuello?... ¿Cuánto mide la cabeza de la vaca?
+
+
+

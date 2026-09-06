@@ -1,0 +1,84 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 11 Mar 2003 13:39:11 -0000
+Received: (qmail 93716 invoked from network); 11 Mar 2003 13:39:11 -0000
+Received: from unknown (66.218.66.217)
+  by m14.grp.scd.yahoo.com with QMQP; 11 Mar 2003 13:39:11 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta2.grp.scd.yahoo.com with SMTP; 11 Mar 2003 13:39:07 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18skCz-00049a-00
+	for <mendonet-l@...>; Tue, 11 Mar 2003 10:54:21 -0300
+Message-ID: <3E6DE6E5.3010502@...>
+Date: Tue, 11 Mar 2003 10:38:45 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: Mozilla, =?ISO-8859-1?Q?Protagoras_y_yo=2E?=
+References: <3E6C933E.1010906@...> <14882.030310@...>
+In-Reply-To: <14882.030310@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+>>>HG> 6) Soporta la marca <BLINK> correctamente
+>>>¿Y esto que quiere decir?
+> HG> Que si algun idiota hace una pagina con texto parpadeante, lo vas a ver 
+> HG> parpadeando, no fijo como con IE.
+> 
+> En este caso, IE funcionaría como un atenuador de idioteces, lo que no
+> está del todo mal.
+
+Cierto. Pero los estandares especifican que <BLINK> debe mostrarse como 
+texto parpaedante.
+Y yo estaba enumerando "cosas nuevas" ya que vos dijiste no haber visto 
+"nada nuevo".
+
+
+>>>HG> 12) No agrupa en el concepto de "cuenta" el servidor SMTP
+>>>No entiendo.
+> 
+> HG> En el OE, configuras "cuentas". Una "cuenta" especifica un servidor
+> HG> SMTP, un servidor POP3/IMAP y los datos personales.
+> HG> En Mozilla, los servidores SMTP van por un lado, y la informacion 
+> HG> personal y las cuentas POP3/IMAP van por otro. Es mejor asi pues el 
+> HG> servidor de correo SMTP depende usualmente de tu conexion, no de tu 
+> HG> direccion de correo.
+> ¿Cuál es la ventaja concreta de esto?
+
+Que si tenes n>1 cuentas configuradas, no tenes que especificar cada vez 
+  el servidor SMTP. Aparte agrupar de esa manera la informacion es mas 
+logico, y por lo tanto, mas facil de recordar, y usar.
+
+
+> HG> Entonces Mozilla no es para vos. 24MB es demasiado poco para una
+> HG> computadora de escritorio de 2003.
+> 
+> Ya lo decía Protágoras... "el hombre es la medida de todas las cosas".
+> De tal manera, no hago más que flexibilizar ligeramente mis
+> necesidades(he aprendido a no alterarme por esperar un segundo más)
+> ante la imposibilidad e inconveniencia de incrementar el poder de mi
+> computadora de escritorio con 24 Mb.
+
+Bien. Yo pienso y hago lo mismo. El problema es que los autores de 
+programas suponen ciertas caracteristicas minimas de las computadoras 
+donde sus programas van a usarse y diseñan los mismos consecuentemente.
+Mozilla es desarrollado por una comunidad abierta de programadores, asi 
+que es de esperarse que el codigo producido sea de buena calidad (lo que 
+implica que sea compacto). Lamentablemente, el diseño de Windows impide 
+liberar de memoria gran parte del codigo de IE, y es por eso que uses o 
+no IE tenes un monton de memoria ocupada por el mismo.
+En Linux se puede usar Mozilla con 32 MB bastante decentemente si sos 
+austero con otros programas (leease: no KDE).
+
+-- 
+Groucho
+
+

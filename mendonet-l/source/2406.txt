@@ -1,0 +1,42 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_2); 13 Dec 2001 16:54:18 -0000
+Received: (qmail 86727 invoked from network); 13 Dec 2001 16:54:18 -0000
+Received: from unknown (216.115.97.172)
+  by m9.grp.snv.yahoo.com with QMQP; 13 Dec 2001 16:54:18 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2.grp.snv.yahoo.com with SMTP; 13 Dec 2001 16:54:20 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id OAA06743
+	for <mendonet-l@...>; Thu, 13 Dec 2001 14:00:12 +0300 (GMT)
+Message-ID: <00e501c183f6$dff73c40$060aa8c0@...>
+To: <mendonet-l@...>
+References: <12636.011211@...> <11864.011211@...>
+Subject: Re: Re[3]: Roxette
+Date: Thu, 13 Dec 2001 13:54:47 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> m>>>   Yo fui a los dos, y tambien iria al de Trula-la si vendria,
+> L>> Momento, eso no es ortografía... es gramática...
+> M> conjugación de verbos
+> El verbo está bien conjugado... pero en el tiempo equivocado...
+
+En realidad lo que esta mal es el modo... Esta usando condicional (aunque
+ahora al condicional lo han metido como un tiempo mas dentro del modo
+indicativo) en lugar de subjuntivo.
+
+--
+Groucho
+
+

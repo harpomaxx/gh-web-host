@@ -1,0 +1,179 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 4878 invoked from network); 20 Jun 2000 11:52:57 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 20 Jun 2000 11:52:57 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 20 Jun 2000 11:52:55 -0000
+Received: from 200.41.31.95 ([200.41.31.95]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id IAA20314 for <mendonet-l@egroups.com>; Tue, 20 Jun 2000 08:51:45 +0300 (GMT)
+Date: Fri, 16 Jun 2000 01:18:06 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <154.000616@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: La respuesta de Groucho a Sebas11
+In-reply-To: <000301bfd70b$25d9b520$2a7d2ac8@tepes>
+References: <000301bfd70b$25d9b520$2a7d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 15/06/2000, Sebas temeroso sanateó:
+
+>>"Algo que beneficie al pueblo" Y como haces para beneficiar al pueblo?
+S> Gobernando para adentro. Más adelante, respuestas más puntuales para
+S> preguntas más puntuales.
+
+>>- Como harias para no darle bola al FMI, teniendo en cuenta de que le
+>>debemos  una cantidad de dinero abismal.??
+>>- Como evitarias que te hagan un boicot comercial los demas paises, al ver
+>>  que decidiste no PAGAR!!!
+>>- Como generarias trabajo para la gente de este pais?
+
+S> Veamos lo problemas uno por uno:
+S> 1- Inequidad social: impuesto progresivo a las ganancias(realmente
+S> progresivo, de 0% al que cobra $200 por mes a 100% para ganancias
+S> infinitas),
+
+Esto te va a gustar!!!!!
+
+Suponiendo que la formula que da la tasa de este impuesto progresivo
+sea:
+
+i=a exp[-(B-200)/k)  (graficala y vas a ver que es como vos queres)
+
+donde:
+k: constante arbitraria que define el ritmo de crecimiento de i
+i: tasa de impuesto
+B: beneficios o ganancias brutas
+
+
+El beneficio neto sera:
+
+BN=B-iB=B (1-i)=B exp[-(B-200)/k] (le resto el impuesto)
+
+Esta funcion tiene un maximo relativo en:
+
+x=k (derivas, igualas a 0 y resolves)
+
+En otras palabras: si se aplicara tu impuesto progresivo, existiria un
+nivel de beneficios maximo, mas alla del cual el impuesto es tan
+grande que te queda menos. No podia ser de otra forma, dada tu
+condicion de que para ganancias infinitas, el impuesto es 100%.
+
+Entonces viene el ministro de economia y dice: k=$100000
+Entonces  todas las empresas trataran de obtener un beneficio bruto de
+$100000 pues esa es la condicion donde mas beneficio neto les queda.
+Si ganan mas, el impuesto es muy grande y se quedan con menos,
+y si ganan menos, bueno... se quedan con menos.
+
+Lo interesante es que cuando k es muy grande (tendiendo a infinito),
+el beneficio neto tiende al beneficio bruto, tal y como si no
+aplicaras ningun impuesto.
+
+En otras palabras: un impuesto progresivo continuo no sirve, porque o
+bien limita el crecimiento del pais o bien equivale a casi no poner
+ningun impuesto.
+
+Soy fucking cool o que!!!!?!
+
+
+S> impuesto a las grandes fortunas,
+
+Esta bien, pero que impediria que tengan esas fortunas en el exterior?
+
+S>  anulación del IVA, que grava el
+S> consumo y es pagado por todos sin importar clase social,
+
+Cierto, el IVA es regresivo. Pero no puede desaparecer. Podria no
+cobrarse para operaciones menores a tal valor, pero hecha la ley hecha
+la trampa. No se puede.
+
+
+S>  impuesto a "los
+S> capitales en fuga"(idea de un premio Nobel de Economia, actualmente se
+S> aplica en varios países)
+
+Esto compensaria la fuga de grandes fortunas al exterior, permitiendo
+aplicar el impuesto a las grandes fortunas.
+Igual nada impide que el tipo haga la gran fortuna en el exterior caso
+en el cual el impuesto a percibir es 0.
+
+S> para evitar el vaciamiento, reforma agraria
+S> consistente en la atomización de los latifundios,
+
+Que es el vaciamiento?
+Y que tiene que ver el tamaño de los latifundios con el beneficio para
+el pueblo?
+Una estancia o granja o finca grande es mas eficiente que una chica, y
+por lo tanto deseable, no te parece?
+
+
+S>  creación de laboratorios
+S> estatales para la fabricación de medicamentos y así bajar en un 30% el costo
+S> de la salud pública(acá el costo de los medicamentos es entre un 30 y un
+S> 400% más caro que en el resto del mundo)
+
+Excepto que habria que inventar o desarrollar esos medicamentos, pues
+tal como explico Lupus, no sabemos como hacerlos.
+
+S> 2- Otras medidas económicas: reorganización y reorientación de la industria
+S> tendiente al autoabastecimiento,
+
+Mejor que eso: tendiente a la exportacion de calidad. Por que
+conformarse con autosostenerse? Mejor producir mas de manera que
+alcance para autoabastecerse y vender lo demas!
+
+S>  expropiación de las licencias de
+S> exploración y explotación minera en manos de empresas extranjeras y
+S> concesión a cooperativas,
+
+Y afrontacion de juicios millonarios contra el Estado.
+
+
+S>  expropiación y transformación en cooperativas de
+S> las empresas evasoras y ejecución patrimonial y bancaria a los responsables
+S> de la evasión
+
+Bueno, primero que paguen, no? LA expropiacion no puede ser. Eso es de
+las dictaduras, o de las revoluciones totalitarias.
+El otro punto puede ser.
+
+S> , no pago de la deuda externa(actualmente se pagan 10200
+S> millones anuales), lo que proporciona los medios para la reorganización de
+S> la industria y la reactivación de Pymes mineras, expropiación de
+S> Repsol-YPF(principal exportador argentino) por evasión y vaciamiento de la
+S> empresa
+
+Pues las empresas extrangeras invierten mucho mas que 10200 millones
+por año, cosa que probablemente dejarian de hacer si dejamos de pagar
+la deuda. No conviene.
+
+S> 3- Corrupción: Juicios sumarios a los sospechosos, ejecución contra la
+S> propiedad y las cuentas bancarias de los culpables por el valor de la
+S> defraudación más una multa, cadena perpetua para cualquier delito
+S> relacionado a corrupción con "trabajos forzados" destinados a la autogestión
+S> del sistema carcelario.
+
+La autogestion del sistema carcelario con trabajo de los presos suena
+bien. Aunque la idea detras de las carceles es la reeducacion, no?
+Habria que ver...
+
+S> Hay muchas más que podría enumerar y que seguramente se me están escapando.
+S> Como muchas de las medidas que menciono arriba van contra los intereses de
+S> empresas extranjeras seguramente esperarás ansioso la respuesta a como evito
+S> el bloqueo comercial. No me interesa evitarlo, no soy Cuba que no tiene
+S> petróleo ni minería, soy Argentina y eso acá sobra.
+
+Y la tecnologia?
+Nos sobran recusros naturales, pero no tenemos nada de tecnolgia
+propia. Apuesto a que no habias pensado en eso!
+
+
+
+-- 
+Groucho Marx
+Anda de un lado para el otro como maleta de loco
+
+
+

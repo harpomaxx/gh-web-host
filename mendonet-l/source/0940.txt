@@ -1,0 +1,178 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_3); 11 Sep 2002 13:18:17 -0000
+Received: (qmail 80266 invoked from network); 11 Sep 2002 13:18:16 -0000
+Received: from unknown (66.218.66.216)
+  by m3.grp.scd.yahoo.com with QMQP; 11 Sep 2002 13:18:16 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta1.grp.scd.yahoo.com with SMTP; 11 Sep 2002 13:18:15 -0000
+Received: from kavkeeper by pandora.negyser.com.ar with local (Exim 3.32 #1 (Debian))
+	id 17p7eH-0004FI-00
+	for <mendonet-l@...>; Wed, 11 Sep 2002 10:35:17 -0300
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lagruta)
+	by pandora.negyser.com.ar with smtp (Exim 3.32 #1 (Debian))
+	id 17p7eG-0004F7-00
+	for <mendonet-l@...>; Wed, 11 Sep 2002 10:35:16 -0300
+Message-ID: <010101c25997$534d3de0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <E17ovQe-0007FX-00@...> <552.020911@...>
+Subject: Re: caso clinico
+Date: Wed, 11 Sep 2002 10:29:58 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-Envelope-To: mendonet-l@...
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> Los datos son insuficientes, si es que me estás plantenado un caso
+> real. Veamos:
+>
+> GM> Se que en esta lista abundan los aspirantes a matasanos, asi que
+> GM> permitanme plantear una adivinanza:
+> GM> Sintomas:
+> GM> Vomitos o regurgitacion del alimento, en especial el alimento crudo.
+> ¿Cuánto tiempo después de ingerirlos?
+
+Depende el tipo de alimento.
+Leche, pure de papas -> no hay vomitos.
+Carne de vaca -> vomito despues de 3 horas.
+Carne de pollo -> solo produce vomitos si se ingiere en gran cantidad
+
+> ¿Son vómitos alimenticios,
+> fecaloides(como caca)
+
+Tienen aspecto de comida masticada, pero huelen igual que caca.
+
+
+> verdes y amargos(como hiel)
+
+Amarillos. Y el sabor no lo se? Los medicos saborean el vomito de sus
+pacientes?
+
+
+> o de alimentos parcialmente digeridos?
+
+Si, podria decirse que son alimentos parcialmente digeridos.
+
+
+> ¿Se producen ante cualquier tipo de alimento o
+> ante los que tienen un alto contenido de grasas?
+
+Como explique antes.
+
+
+
+> Son violentos, en chorro o salen despacito, como cuando eructás y
+> viene algo detrás?¿Se acompañan de náuseas?
+
+Despacito. Y creo que sin nausas. El paciente no es muy comunicativo.
+
+
+> GM> Diarrea o caca semiliquida.
+> ¿Se identifican vegetales en ella o se ve como caca común?
+
+No se identifican vejetales porque no se ingieren vejetales.
+No se identifica nada de nada en realidad.
+
+
+
+> ¿Ha presentado algún cambio de color?
+
+Mas claro que el normal.
+
+
+> ¿Tiene algún olor particular?
+
+El mas hediondo que puedas imaginar.
+
+
+> ¿Es espumosa?
+
+Mas o menos. Me hace acordar a candy de dulce de leche.
+
+
+
+> GM> Analisis de sangre dentro de parametros normales, excepto: baja
+> GM> concentracion de glucosa, y alta presencia de enzimas hepaticas.
+
+> ¿Cuán altas? Por favor, indique valores de GOT, GPT y FAL y los
+> valores de referencia del laboratorio.(GOT y GPT pueden aparecer con
+> otros nombres)
+
+Maldicion... Ya no tengo esos datos disponibles.
+GOT y GPT estaban algo asi como un 50% por encima del valor de referencia
+maximo de laboratorio.
+FAL no recuerdo.
+
+
+> GM> Ecografia de abdomen muestra paredes engrosadas del intestino,
+> ¿Eso dice el informe?
+
+Tomalo como una adivinanza o un trabajo practico de la facultad.
+
+
+> ¿A qué nivel está ese engrosamiento?
+
+No se.
+
+
+> GM> y aumento anormal del tamaño del higado.
+> ¿Algún dato sobre su consistencia ecográfica? PUede decir algo así
+> como homogénea o inhomogénea.
+
+Mmm... No tengo ese dato.
+
+
+
+> GM> Que enfermedad es?
+> Deberías aportar más datos, como por ejemplo: edad del paciente,
+
+Anciano. La fecha de nacimiento del paciente es desconocida...
+
+
+> tiempo de evolución de la patología
+
+1 mes y medio.
+
+> y modo de comienzo,
+> características de la orina,
+
+Normal?
+
+
+> dieta habitual
+
+Polenta y carne.
+
+
+> ¿hubo algún cambio en la coloración de piel
+
+No que se pueda apreciar.
+
+
+> o esclerótica(la parte blanca del ojo)?
+
+Igual de blanca que siempre.
+
+
+> ¿Hubo dolor?
+
+Dolor abdominal al principio, en cual ya casi desaparecio.
+
+
+--
+Herr Grouchox
+
+
+
+
+
+

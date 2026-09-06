@@ -1,0 +1,51 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 26722 invoked from network); 21 Aug 2003 23:19:42 -0000
+Received: from unknown (66.218.66.216)
+  by m17.grp.scd.yahoo.com with QMQP; 21 Aug 2003 23:19:42 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 21 Aug 2003 23:19:41 -0000
+Received: (qmail 6247 invoked by uid 417); 21 Aug 2003 23:19:19 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 21 Aug 2003 23:19:19 -0000
+Received: from dup-200-42-125-148.prima.net.ar ([200.42.125.148])
+  (AUTH: PLAIN xebax@...)
+  by softhome.net with esmtp; Thu, 21 Aug 2003 17:19:16 -0600
+Date: Thu, 21 Aug 2003 19:59:56 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <13833.030821@...>
+To: Mr Ska <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbM106IENoYXJy+mEgc2UgcHJlc2VudGE=?=
+In-reply-To: <7023918723.20030819223851@...>
+References: <7023918723.20030819223851@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+MS>   Que bienens materiales en anarquismo???
+  
+MS>  Si tenes propiedad privada estas robando. (segun el anarquismo)
+
+Eso es una extrapolación totalmente errada. La frase que citás("la
+propiedad es el robo") fue acuñada por Pierre Joseph Proudhon en su
+libro "¿Qué es la propiedad?", pero permitime recordarte que Proudhon,
+lejos de representar plenamente al anarquismo, quedó varado entre
+anarquista y comunistas, rechazado por ambos, más allá de que su obra
+sea una base para todas las doctrinas que critican la propiedad
+privada. Por otro lado, la crítica de la propiedad privada es hacia
+los medios de producción, no hacia la ropa que te protege del frío, la
+casa que te cubre de la intemperie, o la computadora que te da
+esparcimiento...
+
+--
+Sebas   
+Bebo para hacer interesantes a las demás personas.                       
+
+
+

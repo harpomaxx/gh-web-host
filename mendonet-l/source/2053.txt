@@ -1,0 +1,60 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 30 Jan 2002 15:16:15 -0000
+Received: (qmail 9576 invoked from network); 30 Jan 2002 15:16:13 -0000
+Received: from unknown (216.115.97.172)
+  by m11.grp.snv.yahoo.com with QMQP; 30 Jan 2002 15:16:13 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2.grp.snv.yahoo.com with SMTP; 30 Jan 2002 15:16:13 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id MAA22449
+	for <mendonet-l@...>; Wed, 30 Jan 2002 12:22:24 +0300 (GMT)
+Message-ID: <00a401c1a9a1$533cb200$060aa8c0@...>
+To: <mendonet-l@...>
+References: <146691487.20020125031552@...> <13655.020126@...>
+Subject: Re: Re[3]: ouch!
+Date: Wed, 30 Jan 2002 12:18:03 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> O> che lupus por que no te subscribis a lug novatos (que por cierto
+> O> groucho parece que no funca mas) o lug list o alguna de esas para
+> O> preguntar todas estas cosas?????
+> O> mendonet se vuelve aburrido con preguntas computontas.
+>
+> En  realidad  me  suscribí  a  lug  novatos... pero nadie parece estar
+> escribiendo...
+
+Escribi tu pregunta primero, y alguien te la va a responder!!!!
+
+
+> La  pregunta  anterior  se  la había hecho por private a Harpo... pero
+> parece  que  está medio pajero y no ha respondido...
+> o bien groucho la dijo  que  él responder�o aquí... con lo que él no
+> lo ha hecho... y...
+
+No se entiende.
+Yo SI te respondi.
+
+> para  terminar  de  responder... en realidad ya que estaba aprovech� y
+> pregunté... aunque en realidad recuerdo que en la vieja mendonet estas
+> preguntas  eran  habituales... y hasta había un foro informático... ¿o
+> no?...
+
+Pero habia una lista para preguntas, una para musica, etc
+Cada uno leia lo que queria. Aca tenemos una lista para todo.
+
+--
+Groucho
+
+

@@ -1,0 +1,72 @@
+From oxiuro@...  Sat Jul 11 23:23:58 2020
+Return-Path: <oxiuro@...>
+X-Sender: oxiuro@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_3); 23 Jun 2001 02:41:54 -0000
+Received: (qmail 30919 invoked from network); 23 Jun 2001 02:41:54 -0000
+Received: from unknown (10.1.10.142) by l10.egroups.com with QMQP; 23 Jun 2001 02:41:54 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 23 Jun 2001 02:41:53 -0000
+Received: (qmail 5001 invoked by uid 417); 23 Jun 2001 02:44:59 -0000
+Received: from unknown (HELO 200.5.199.58) (200.5.199.58) by i-softhome-tango with SMTP; 23 Jun 2001 02:44:59 -0000
+Date: Fri, 22 Jun 2001 23:43:41 -0300
+X-Mailer: The Bat! (v1.49) Personal
+Reply-To: Oxiuro <oxiuro@...>
+X-Priority: 3 (Normal)
+Message-ID: <711578405.20010622234341@...>
+To: mendonet-l@yahoogroups.com
+Subject: =?ISO-8859-1?B?UmU6IE1pIGNvbXB1dGFkb3JhIGVzdOEgc2VuaWwgLSBBbmVjZG90YSBk?= =?ISO-8859-1?B?ZSB1biBhbWlnbyBkZSBsYSBuafFh?=
+In-reply-To: <993023227.385.61164.l10@yahoogroups.com>
+References: <993023227.385.61164.l10@yahoogroups.com>
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------1015831BFCEDFF"
+From: Oxiuro <oxiuro@...>
+
+
+------------1015831BFCEDFF
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+lyc> y me habia complicado la vida en restarurarle todos los datos y
+mlyc> programas a la vez que se los grouchizaba (a la mierda con los
+mlyc> salvatantallas 3D y demas cosas de homosexuales) gran parte de lo cual
+mlyc> se hubiera evitado si me decia desde el principio que iba a poner
+mlyc> disco nuevo con mucho hardware nuevo, entonces le hacia una
+mlyc> instalacion fresca desde 0.
+
+Juas, cuando lei el subject del mensaje crei que hablarias de mi pero
+veo que no fue asi.
+Y ya que estamos en tema, Groucho, guru, maestro, resulta que lei por
+ahi que podia hacer mas rapida mi navegacion creando una unidad
+ficticia para algo que tenia que ver con el "cache", la cosa es que
+debia poner en el config.sys una linea que decia:
+device C:\windows\Ramdrive.sys 2048 /e
+bue, lo hice y me creo una nueva unidad de disco.
+ Probe y no me ayudo mucho en la navegacion entonces edite el
+ config.sys nuevamente borrando la linea agregada y reinicie y ooo
+ sorpresa!!  la unidad no desaparecio y quedo con un icono como si
+ fuera una unidad de CDROM pero que no lee el CDROM sino que la sigue
+ leyendo la otra que tenia antes y la cual cambio el nombre
+ (antes la del CD era la unidad G y ahora es la unidad H quedando la G
+ como una unidad inservible)
+ Mi pregunta es: Como carajo la saco a esa unidad que ocupa un
+ preciado lugar como icono en mi Windows Commander?????
+ Espero que me puedas ayudar ya que mi otro guru (harpo) no sabia que
+ hacer, y bue, que se le va a hacer, es medio soquete.
+ Y en vista de que no necesite hacer un ascii art para mostrar mi
+ problema, no importa, y aca les mando uno.
+
+ have fun!!!
+
+
+
+
+-- 
+ "That which does not kill us make us stronger"
+ Oxiuro                     
+------------1015831BFCEDFF
+Content-Type: text/plain; name="homer2.txt"
+Content-Disposition: attachment; filename="homer2.txt"
+
+[ Attachment content not displayed ]
+------------1015831BFCEDFF--
+

@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 13171 invoked from network); 8 Aug 2000 11:29:12 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 8 Aug 2000 11:29:12 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 8 Aug 2000 11:29:11 -0000
+Received: from 200.41.31.92 ([200.41.31.92]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id IAA19229 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 08:31:09 +0300 (GMT)
+Date: Thu, 20 Jul 2000 00:20:28 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1214.000720@...>
+To: Santiago Imazio <mendonet-l@egroups.com>
+Subject: Re: Una pregunta ...
+In-reply-To: <39752FA0.688EF5ED@...>
+References: <39752FA0.688EF5ED@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 19/07/2000, Santiago delirantemente escribió:
+
+SI> Yo uso el Netscape Messenger para los mails, cada mensaje que entra
+SI> tiene una fecha y una hora.
+SI> ¿Que significan esa fecha y esa hora?
+
+SI> ¿Es el momento en que el mensaje fue escrito? ¿Cuando fue enviado?
+SI> ¿Cuando lo recibio softhome? 
+
+En realidad, no se puede saber con certeza.
+Puede ser esa o muchas fechas posibles.... El programa va a mostrar
+simplemente lo que diga el campo "Date" de la cabecera del mensaje.
+El contenido de esa parte de la cabecera se supone que lo coloca ahi
+el programa con el que se redacto el mensaje (el agente de usuario o
+MUA), entonces, lo mas probable es que la fecha ahi escrita sea la
+fecha de redaccion del mensaje (aunque tambien podria ser la fecha
+en la que el programa se digno a enviar el mensaje al servidor de
+correo (o agente de transporte de mensajes, MTA)
+
+La cabecera del mensaje tuyo dice:
+

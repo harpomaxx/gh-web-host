@@ -1,0 +1,45 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_5); 1 Apr 2003 13:55:08 -0000
+Received: (qmail 21340 invoked from network); 1 Apr 2003 13:55:08 -0000
+Received: from unknown (66.218.66.218)
+  by m13.grp.scd.yahoo.com with QMQP; 1 Apr 2003 13:55:08 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 1 Apr 2003 13:55:07 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 190MAu-0000DX-00
+	for <mendonet-l@...>; Tue, 01 Apr 2003 10:51:40 -0300
+Message-ID: <3E89952E.60506@...>
+Date: Tue, 01 Apr 2003 10:33:34 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: RUIDO
+References: <F64hJxNRJMYJuKurebJ0000a030@...>
+In-Reply-To: <F64hJxNRJMYJuKurebJ0000a030@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+A Secas wrote:
+>>HG> Aparte a la turrita que sale, se la manosean de todas las formas
+>>HG> posibles. Me da un poco de vergüenza ajena.
+>>
+>>Mmmhhh... si yo fuera psicólogo haría un montón de conjeturas sobre
+>>ese hecho.
+> 
+> si yo fuese pastor de almas, haria citas biblicas, del tipo:
+> ""la paja en el ojo ajeno....""
+
+No entiendo que sugieren que mi comentario sugiere sobre mi.
+
+-- 
+Groucho
+
+

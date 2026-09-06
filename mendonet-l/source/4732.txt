@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:36 -0000
+Received: (qmail 24728 invoked from network); 19 Sep 2001 07:05:36 -0000
+Received: from unknown (10.1.10.26)
+  by l10.egroups.com with QMQP; 19 Sep 2001 07:05:36 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta1 with SMTP; 19 Sep 2001 07:05:34 -0000
+Received: (qmail 8816 invoked by uid 1005); 18 Sep 2001 18:12:17 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.18087 secs); 18/09/2001 15:12:15
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 18:12:14 -0000
+Date: Tue, 18 Sep 2001 15:12:13 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <3BA11C45.24136.531DF@localhost> <000001c13e25$37f68760$7c8d3dc8@darinka>
+In-Reply-To: <000001c13e25$37f68760$7c8d3dc8@darinka>
+Subject: Re: Cad del orrrto.....
+MIME-Version: 1.0
+Message-Id: <01091815121304.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 14 Sep 2001 17:10, escribiste:
+
+> Te agarre!!
+> Ese mail fue enviado con el Outlook Express, como bien dice el
+> header.
+>
+>  SI y..... cual es el problema??? es el que encontre a mas a mano, y
+> ni loco me iba a poner a leer todos los mail en linea desde mi
+> webmail, esto fue lo primero que hagarre y te confieso que es la
+> primera vez que lo uso, no me gusta ningun programa de email, que no
+> se en linea o webmail, puesto que en cuanto caiga un virus, los que
+> cagaron son todos los de mi liost mail jajajjaa asique cuidensen o me
+> recomiendan algun otro mejor.  chau
+
+Absurdo. Los virus no "caen" solos sino que alguien generalmente 
+incompetente los activa culposamente.
+
+-- 
+Groucho Marx
+

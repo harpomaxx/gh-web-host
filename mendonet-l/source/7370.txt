@@ -1,0 +1,39 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 4 Nov 2000 19:32:13 -0000
+Received: (qmail 44622 invoked from network); 4 Nov 2000 19:32:13 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 4 Nov 2000 19:32:13 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 4 Nov 2000 19:32:11 -0000
+Received: from antro.micasa ([200.41.31.29]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA04807 for <mendonet-l@egroups.com>; Sat, 4 Nov 2000 13:27:25 -0300 (GMT)
+Date: Sat, 4 Nov 2000 15:05:36 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <11628.001104@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[2]: Para todos los que trabajan...
+In-reply-To: <005201c045f7$fff10c80$e37d2ac8@tepes>
+References: <005201c045f7$fff10c80$e37d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 03/11/2000, Sebas entrecortadamente inventó:
+
+>> Les aviso que, por ser el día del bancario, el lunes tengo
+>> feriado... y ustedes NO!
+S> Les aviso que por ser estudiante, tengo feriados cuando se me
+S> canta... JHA!
+
+Si.. Porque en tu facultad las clases teoricas son optativas.
+Tambien son optativas las clases donde profanan cadaveres?
+
+-- 
+Groucho Marx
+A man's only as old as the woman he feels. -- Groucho Marx
+
+
+

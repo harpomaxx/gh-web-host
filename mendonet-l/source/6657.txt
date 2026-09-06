@@ -1,0 +1,28 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 5 Dec 2000 13:23:02 -0000
+Received: (qmail 79499 invoked from network); 5 Dec 2000 13:23:02 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 5 Dec 2000 13:23:02 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 5 Dec 2000 13:23:01 -0000
+Received: (qmail 26924 invoked by uid 722); 5 Dec 2000 13:22:49 -0000
+Date: 5 Dec 2000 13:22:49 -0000
+Message-ID: <20001205132249.26917.qmail@...>
+To: mendonet-l@egroups.com
+Subject: kde? hum...
+From: fcanizo@...
+
+El 01/12/00, Groucho Marx le susurraba a Mariana:
+ 
+ GM>Te mando un mapa de la posicion del sol el 26 de noviembre a las 20:00
+ GM>Saca tus propias conclusiones.
+ GM>Por cierto, que groso que esta KDE!!!!
+ 
+ Si, muy grosso. Tanto que agarraron el programita ese con el
+ que generaste el gráfico y le pusieron KDE encima. Muy
+ trucho.
+ 
+ 
+
+

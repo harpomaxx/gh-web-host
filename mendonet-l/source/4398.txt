@@ -1,0 +1,51 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:55:07 -0000
+Received: (qmail 50345 invoked from network); 5 Oct 2001 02:55:06 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.1.220 with QMQP; 5 Oct 2001 02:55:06 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta3 with SMTP; 5 Oct 2001 02:57:31 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with ESMTP id XAA25991
+	for <mendonet-l@...>; Thu, 4 Oct 2001 23:57:59 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pGAp-0000BB-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 18:36:55 -0300
+Date: Thu, 4 Oct 2001 18:37:41 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <14776.011004@...>
+To: Sebas <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbNl06IElkZWFzIEFudGlxde1zaW1hcyAz?=
+In-reply-To: <11537.010930@...>
+References: <11537.010930@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Sebas,
+
+Sunday, September 30, 2001, 12:54:17 PM, you wrote:
+
+S> bajarlo a la tierra para que no quede como tan bobo... no hay persona
+S> que se vea más idiota que aquel que trata de exponer sus conocimientos
+S> creyéndose muy sabio y cuando en realidad su bagaje es ridículo o
+S> fuera de tiempo...
+
+Por cierto, cual es la definicion medica de:  idiota, estupido,
+retardado, tarado, imbecil y demas adjetivos para referirse a los
+debiles mentales?
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

@@ -1,0 +1,100 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-7_0_2_1); 27 Jan 2001 19:01:48 -0000
+Received: (qmail 17933 invoked from network); 27 Jan 2001 19:01:47 -0000
+Received: from unknown (10.1.10.27) by l8.egroups.com with QMQP; 27 Jan 2001 19:01:47 -0000
+Received: from unknown (HELO torton.micasa) (200.41.21.65) by mta2 with SMTP; 27 Jan 2001 19:01:46 -0000
+Received: (qmail 2000 invoked from network); 28 Jan 2001 18:40:09 -0000
+Received: from softdnserror (HELO ANTRO) (192.168.0.65) by softdnserror with SMTP; 28 Jan 2001 18:40:09 -0000
+Date: Sun, 28 Jan 2001 15:40:08 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <10652.010128@...>
+To: Groucho Marx <mendonet-l@yahoogroups.com>
+Subject: Re: Millicom
+In-reply-To: <11617.010118@...>
+References: <11617.010118@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 18/01/2001, Groucho Marx apurado escupió:
+
+GM> Ya inauguro en Mendoza la empresa Millicom que se dedica a servicio de
+GM> acceso a Internet por microondas.
+
+GM> Pagando con tarjeta, estan cobrando 90+iva de instalacion y 69+iva de
+GM> tarifa mensual.
+GM> Para que funcione, se requiere tener linea visual hasta ese edificio
+GM> que era del banco BUCI (España al 1200).
+GM> Cobran como 20 pesos por cada metro de torre que haya que instalar
+GM> para lograr la visibilidad.
+GM> Me falta averiguar el alcance del enlace.
+
+Amplio y rectifico los conceptos.
+
+Millicom esta en A. Villanueva entre Belgrano y Cnel. Rodriguez, en el
+mismo lugar donde hay una agencia de CTI.
+Hay un cartel gigante de color rojo asi que no pueden fallar!
+
+
+Los precios son:
+$79+IVA por mes ($76 si pagan con VISA o $69 con Provencred)
+$150+IVA de instalacion ($100 con VISA o $99 con Provencred)
+
+El equipo lo entregan en comodato y consiste en:
+- antena (sellada y alimentada desde el mismo coaxil). Transmite en la
+banda de 5GHz.
+- coaxil (hasta 50 o 100 m segun usen RG58 u otro tipo)
+- subscriber (cajita que se conecta a la antena de un lado y a una red
+del otro). Esto actua como transmisor/receptor de RF, maneja el
+protocolo de acceso a la red (CDMA para los que entiendan). Para la
+LAN actua como router y servidro DHCP. Permite controlar hasta 8
+hsots (pero te lo cambian por otro modelo si queres mas).
+
+El enlace tiene un alcance de 10 km (lo cual cubre en teoria casi todo
+el Gran Mendoza, salvo partes de Maipu y Lujan) y requiere por
+supuesto que la antena del nodo de ellos sea visible (las microondas
+se comportan casi igual que la luz visible, si la luz llega, las
+microondas tambien) desde la antena que le instalan a uno.
+Me subi al techo de mi casa a ver si se podia ver (vivo a unos 5~6 km
+de donde esta el nodo de ellos) y descubri algo terrible: vivimos en
+un maldito bosque!!!! Todos los arboles de mi cuadra son fresnos de no
+mas de 6 m de altura, pero en la puerta de mi casa hay 2 paraisos de
+25 m que me tapan totalmente la visibilidad!!!!
+
+Ellos te instalan una torre a razon de $25 el metro si hace falta para
+superar un obstaculo (pero seguro que se puede armar por menos, habria
+que pregunar en los negocios que venden huevadas para los
+radioaficionados).
+
+La capacidad del enlace es de 128 kbps, con un minimo de 64 kbps
+comprometido.
+Factores que influyen en el desempeño real del enlace son:
+-ruido (por utilizar CDMA, a mayor cantidad de clientes, peor relacion
+señal a ruido)
+-atenuacion (arboles, lluvia, niebla, nieve)
+-refraccion y difraccion en edificios que esten cerca de la linea
+visual.
+
+El subscriber tiene una conexion Ethernet 10baseT con cable UTP.
+Lo pueden conectar a un hub o con un cable cruzado a una sola maquina.
+El subscriber otorga direcciones IP a hasta 8 hosts. Las direcciones
+IP son PUBLICAS y dinamicas, pero mediante solicitud escrita, se
+pueden obtener direcciones FIJAS.
+
+Obviamente puede funcionar con cualquier sistema operativo que emplee
+protocolos TCP/IP estandar. Naturalmente anda con Linux aunque el CD
+que ellos dan no trae nada de software automagico para Linux.
+
+
+-- 
+Groucho Marx
+¡¡Yuppi!! Rinoplastia gratis para todos... -- Dr. Nick Riviera
+
+
+

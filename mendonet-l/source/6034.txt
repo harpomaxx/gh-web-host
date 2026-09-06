@@ -1,0 +1,115 @@
+From oxiuro@...  Sat Jul 11 23:23:58 2020
+Return-Path: <oxiuro@...>
+X-Sender: oxiuro@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_3); 19 Jun 2001 01:58:42 -0000
+Received: (qmail 32249 invoked from network); 19 Jun 2001 01:58:42 -0000
+Received: from unknown (10.1.10.142) by l8.egroups.com with QMQP; 19 Jun 2001 01:58:42 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 19 Jun 2001 01:58:42 -0000
+Received: (qmail 15125 invoked by uid 417); 19 Jun 2001 02:01:18 -0000
+Received: from mza2ppp-382.uc.infovia.com.ar (209.13.230.127) by i-softhome-tango with SMTP; 19 Jun 2001 02:01:18 -0000
+Date: Mon, 18 Jun 2001 23:00:34 -0300
+X-Mailer: The Bat! (v1.49) Personal
+Reply-To: Oxiuro <oxiuro@...>
+X-Priority: 3 (Normal)
+Message-ID: <40270511.20010618230034@...>
+To: mendonet-l@yahoogroups.com
+Subject: algo para pasar el rato...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Oxiuro <oxiuro@...>
+
+Gente, aca les mando algo que encontre sobre ingenieros, fisicos y
+matematicos.
+Groucho y Marc espero comentarios...
+
+Un ingeniero, un matemático y un físico se van a cazar ciervos.
+Ven a uno, y el físico dispara primero, fallando a la derecha.
+ Luego dispara el ingeniero, fallando a la izquierda. 
+Entonces le preguntan al matemático que si va a disparar o no.
+- No, ¿para qué? Prefiere interpolar. 
+
+- ¿Cómo sabían que era un ciervo ? El físico observó que su tamaño, 
+color, comportamiento, etc., era el de un ciervo, por tanto era un
+ ciervo. El ingeniero había ido a cazar ciervos, por lo tanto era un 
+ciervo. El matemático le pregunto al físico, con lo cual consiguió 
+reducir el problema a otro anterior.
+
+
+
+Un grupo de matemáticos tiene un problema. Tienen que medir la altura
+ del mástil para una bandera, pero sólo tienen una cinta métrica, que 
+obviamente no les sirve para gran cosa. En esto que aparece un
+ ingeniero, le cuentan el problema, y lo que el hace es desmontar el 
+mástil, tumbarlo en el suelo, medirlo, y volverlo a poner vertical.
+ Los matemáticos le dan las gracias y el ingeniero dice "de nada",
+ pero en cuanto se va, uno de los matemáticos les dice a los otros:
+- Hay que ver cómo son estos ingenieros, ¿eh? Le decimos que queremos 
+medir la altura, y el tío se queda todo satisfecho cuando consigue
+medir la anchura. 
+
+Una asociación de ganaderos quiere conseguir mejorar una raza
+ de vacas para que den más leche, y reúnen a varios científicos 
+y los asignan en grupos independientes para que busquen varias 
+soluciones, y luego adoptar la de mayor rendimiento. Al cabo de 
+un plazo preestablecido, empiezan a leer los resultados. Unos 
+criadores de ganado proponen un plan de cruzamientos, y basándose 
+en experiencias anteriores se comprometen a lograr una mejora del 3%.
+ El grupo de ingenieros genéticos propone introducir ciertos genes
+ que deberían mejorar la productividad un 10%. Un equipo de 
+veterinarios propone unas modificaciones en los establos que 
+harían que las vacas fuesen más felices, y producirían un 2% más 
+de leche, que habría que sumar a las anteriores mejoras. Otro equipo
+ propone un cambio de dieta que mejoraría el rendimiento en un 7%,
+ otros quieren suministrar hormonas a las vacas para subir un 8%. 
+Entonces aparece el equipo de los matemáticos, que dicen que son 
+capaces de mejorar la producción en un 300%. Todo el mundo se pone 
+muy contento, y se apresuran a leer el proyecto, que empieza
+ diciendo: "Sea una vaca esférica .."
+
+
+Un ingeniero, un matemático y un físico se quedan en un hotel a 
+pasar la noche. El ingeniero nota que su cafetera está echando
+ humo, así que se levanta de la cama, la desconecta, la pone en la
+ ducha y la enfría, Luego vuelve a la cama. Un poco más tarde, el 
+físico huele humo también. Se levanta, y ve que una colilla ha caído
+ en una papelera, y algunos papeles han prendido. Empieza a pensar. 
+"Humm. Esto podría ser peligroso si el fuego se extendiera, las altas
+ temperaturas podrían matar a alguien. Debería apagar este fuego. 
+¿Cómo puedo hacerlo? Vamos a ver.. podría hacer descender la 
+temperatura de la papelera por debajo del punto de ignición del 
+papel, o quizás aislar el combustible del oxígeno... ¡vaya, podría 
+conseguir esto echando agua !" Así que coge la papelera, se va a la
+ ducha, y la llena de agua. Luego se va dormir. El matemático se da
+ cuenta de que su cama esta ardiendo porque unas cenizas de su pipa
+ han prendido en el colchón. Pero como ha estado viendo todo lo
+ anterior, la cosa no le pilla por sorpresa; eso de apagar un fuego 
+es un problema resuelto anteriormente, así que se mete en la cama y
+ se duerme. (Otra forma de acabar el chiste es que el matemático dice
+ "No importa, existe una solución" y se va a la cama ardiendo.)
+
+
+Se encomienda a un ingeniero, un físico y un matemático la 
+"difícil" tarea de abrir una lata de sardinas. Coge el ingeniero 
+y levanta la lata, la sopesa, coge la hebilla del cinturón, hace 
+palanca, levanta una esquina y acaba por estrellarla contra la pared
+ una vez que la estructura tiene un punto débil. -Lata abierta, prueba
+ conseguida!. El físico levanta la lata, sopesa, mide, halla presiones,
+ distribuciones de carga y lo que le dí por calcular, busca una mesa
+ pesada y, con la pata, la machaca. -Lata abierta.... El matemático
+ levanta, sopesa, calcula longitudes de arista, integrales de volumen 
+del gas encerrado en la lata, densidad media de la carne de las 
+sardinas, esperanza del número de sardinas dentro de la lata y después
+ de un rato dice: -Bien. Supongamos que ya está abierta...
+
+
+Un optimista ve un vaso medio lleno.Un pesimista ve un vaso medio vacío. 
+Un ingeniero ve un vaso demasiado grande
+
+
+-- 
+ Oxiuro              
+
+
+

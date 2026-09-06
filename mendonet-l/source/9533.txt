@@ -1,0 +1,33 @@
+From sebas11@...  Sat Jul 11 23:23:58 2020
+Return-Path: <sebas11@...>
+Received: (qmail 2946 invoked from network); 16 Jul 2000 21:22:18 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 16 Jul 2000 21:22:18 -0000
+Received: from unknown (HELO postino4.prima.com.ar) (200.42.0.162) by mta1 with SMTP; 16 Jul 2000 21:22:16 -0000
+Received: from tepes ([200.42.125.174]) by postino4.prima.com.ar (8.9.3/8.9.1) with SMTP id SAA27049 for <mendonet-l@egroups.com>; Sun, 16 Jul 2000 18:22:12 -0300 (ART)
+Message-ID: <001801bfef6b$8c25f460$ae7d2ac8@tepes>
+To: <mendonet-l@egroups.com>
+References: <005701bfede8$6662a680$637c2ac8@tepes> <3970B326.A4D5C2F2@...>
+Subject: RE: Para todos los...
+Date: Sun, 16 Jul 2000 18:17:52 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: "Sebas" <sebas11@...>
+
+> no soy un tipo copado que sabe mucho de comput~1, pero
+> tendrias que ver en las opciones que trae tu winamp porque
+> te debe estar mostra~1 el nombre del archivo en lugar
+> del tag que esta dentro del archivo.
+¿Podrías ser un poco más específico y decirme exactamente qué debo corregir?
+Gracias de nuevo, pero no tanto como las anteriores.
+
+
+ Sebas - ¡Las lágrimas lo corrompen todo! Partidarios insospechables de un
+"regimen mejorado", ¿tenemos derecho a reclamar una "ley seca" para la
+poesía... para una poesía "extra dry", gusto americano?
+
+

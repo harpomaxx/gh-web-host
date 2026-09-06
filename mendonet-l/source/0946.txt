@@ -1,0 +1,39 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 3 Aug 2002 00:24:41 -0000
+Received: (qmail 70886 invoked from network); 3 Aug 2002 00:24:41 -0000
+Received: from unknown (66.218.66.216)
+  by m3.grp.scd.yahoo.com with QMQP; 3 Aug 2002 00:24:41 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 3 Aug 2002 00:24:41 -0000
+Received: (qmail 13244 invoked by uid 417); 3 Aug 2002 00:24:40 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 3 Aug 2002 00:24:40 -0000
+Received: from a200042124032.rev.prima.com.ar ([200.42.124.32])
+  by softhome.net with esmtp; Fri, 02 Aug 2002 18:24:28 -0600
+Date: Fri, 2 Aug 2002 21:18:14 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <14887.020802@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: Re[2]: Consulta
+In-reply-To: <20020802205538.GD1879@...>
+References: <20020802205538.GD1879@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+GM> Te recomiendo por lo tanto que le entregues el material como pdf.
+Mmhh... para ello deberé contar con el acrobat writer, no?
+
+-- 
+Sebas   
+Quien sacrifica la libertad en nombre de la seguridad no merece la libertad ni la seguridad.                        
+
+
+

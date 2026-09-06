@@ -1,0 +1,38 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 14 Nov 2000 17:43:48 -0000
+Received: (qmail 98454 invoked from network); 14 Nov 2000 17:43:48 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 14 Nov 2000 17:43:48 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 14 Nov 2000 18:44:52 -0000
+Received: from antro.micasa ([200.41.31.29]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id LAA01277 for <mendonet-l@egroups.com>; Tue, 14 Nov 2000 11:39:05 -0300 (GMT)
+Date: Sun, 12 Nov 2000 17:27:11 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <15727.001112@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmVbN106IFNhbHVkYXIgbyBubyBzYWx1ZGFyLCBlc2EgZXMgbGEgY3Vl?= =?ISO-8859-1?B?c3Rp824=?=
+In-reply-To: <004801c04cda$e55665c0$f27c2ac8@tepes>
+References: <004801c04cda$e55665c0$f27c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 12/11/2000, Sebas temeroso escribió:
+
+>>    La gran solución es usar otro programa de mail por ejemplo THE
+>>    BAT
+S> sip, pero the bat se niega a funcionar conmigo.
+
+Te consegui un programa mas sencillito que TheBat, llamado FoxMail.
+Te pinta?
+
+-- 
+Groucho Marx
+Underwear should be worn on the inside -- Bart Simpson
+
+
+

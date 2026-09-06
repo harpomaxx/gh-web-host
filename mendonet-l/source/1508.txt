@@ -1,0 +1,46 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 20 Apr 2002 02:34:23 -0000
+Received: (qmail 68862 invoked from network); 19 Apr 2002 23:02:20 -0000
+Received: from unknown (66.218.66.217)
+  by m6.grp.scd.yahoo.com with QMQP; 19 Apr 2002 23:02:20 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 19 Apr 2002 23:02:20 -0000
+Received: from a200042124079.rev.prima.com.ar ([200.42.124.79])
+  by softhome.net with esmtp; Fri, 19 Apr 2002 11:07:36 -0600
+Date: Fri, 19 Apr 2002 13:48:02 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <12575.020419@...>
+To: "Federico" <federicomorganti@...>
+Cc: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmU6IHBhcmEgbG9zIHF1ZSBzYWJlbiBkZSB2aXJ1cywgv3F1ZSBvcGlu?= =?ISO-8859-1?B?YW4gc29icmUgZXN0bz8=?=
+In-reply-To: <OE567QaaC4omkfdo8TN00002939@...>
+References: <OE567QaaC4omkfdo8TN00002939@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+¿Conocés el caso del virus gallego?
+"Este es un virus gallego. Borre toda la información de su disco
+rígido."
+Bueno, es más o menos lo mismo. El archivo que menciona pertenence al
+explorer, no es ningún virus. No tenés que borrarlo, y por sobre todas
+las cosas, no tenés que reenviar ese mensaje.
+Sería bueno que le enviaras esto al zapato que te lo envié, y que le
+recomendaras que cada vez que tenga una duda sobre un "probable virus"
+chequee en internet... symantec y mcafee tienen buenos sitios donde te
+explica las características técnicas del virus y te da las
+instrucciones para eliminarlo.
+
+-- 
+Sebas   
+Cada uno por su camino, que igual se aprende de viejo.                       
+
+
+

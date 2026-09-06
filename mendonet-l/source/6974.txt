@@ -1,0 +1,44 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 14 Nov 2000 13:04:10 -0000
+Received: (qmail 40983 invoked from network); 14 Nov 2000 13:04:10 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 14 Nov 2000 13:04:10 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.31.56) by mta1 with SMTP; 14 Nov 2000 13:04:08 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id JAA03574 for mendonet-l@egroups.com; Tue, 14 Nov 2000 09:32:03 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Tue, 14 Nov 2000 09:32:03 -0300
+To: mendonet-l@egroups.com
+Subject: Re: A todo esto........
+Message-ID: <20001114093203.E1049@...>
+References: <062101c04b25$edaec160$0201a8c0@goofer> <112.001111@...> <20001113082314.E520@...> <00c701c04dd2$09c5c200$0201a8c0@goofer>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <00c701c04dd2$09c5c200$0201a8c0@goofer>; from goofer@... on Mon, Nov 13, 2000 at 09:30:01PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Mon, Nov 13, 2000 at 09:30:01PM -0300, Goofer dijo:
+> > Nada mas lejos de la realidad... mis conocimientos sobre PHP son cuando
+> mucho
+> > de medios para abajo. Pero PHP tiene un muy buen manual de referencia y si
+> > alguna ves programaste en C entonces PHP es una bolazo!!!!
+> 
+> No he programado en C y estoy empezando en PHOP, so jarpo, come to papa!!
+> Digámoslo de otro modo....
+> Ashuda, ashuda
+> ehhehhe
+> tendrás noticias mías cuando me trabe
+
+Ok dokie... pero te repito. Realmente no soy ni remotamente un Guru!!!!!
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

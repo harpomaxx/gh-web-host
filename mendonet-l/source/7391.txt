@@ -1,0 +1,42 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 4 Nov 2000 20:51:41 -0000
+Received: (qmail 26070 invoked from network); 4 Nov 2000 20:51:41 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 4 Nov 2000 20:51:41 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.230.126) by mta2 with SMTP; 4 Nov 2000 20:51:37 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id RAA09194 for mendonet-l@egroups.com; Sat, 4 Nov 2000 17:36:19 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Sat, 4 Nov 2000 17:36:19 -0300
+To: mendonet-l@egroups.com
+Subject: Re: Teletrabajo
+Message-ID: <20001104173619.H9139@...>
+References: <00d901c042a0$f36d48c0$LocalHost@...> <16738.001101@...> <3A0243EE.9239598D@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <3A0243EE.9239598D@...>; from Recabarren@... on Fri, Nov 03, 2000 at 01:49:50AM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Fri, Nov 03, 2000 at 01:49:50AM -0300, Santiago Imazio dijo:
+> 
+> Hablando de libros, justamente estoy leyendo uno muy interesante:
+> 
+> "El uso de los signos de puntuacion y su influencia en la comprension de
+> textos".
+> 
+> Es un libro recomendable para ingenieros estudiantes y aficionados de la
+> prestigiosa editorial Planeta.
+
+Despues pasamelo. Yo hace un tiempo estuve leyendo uno "Mensajes subliminales
+usando solo puntos suspensivos". Pero no me acuerdo a quien se lo preste.
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

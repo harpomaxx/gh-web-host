@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 29 Sep 2001 16:44:55 -0000
+Received: (qmail 45412 invoked from network); 29 Sep 2001 16:44:55 -0000
+Received: from unknown (10.1.10.142)
+  by l10.egroups.com with QMQP; 29 Sep 2001 16:44:55 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta3 with SMTP; 29 Sep 2001 16:44:55 -0000
+Received: from gateway.micasa.org.ar (200-41-31-56-rdunysd1.impsat.net.ar [200.41.31.56])
+	by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA15008
+	for <mendonet-l@...>; Sat, 29 Sep 2001 13:38:21 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15nNAW-0000jw-00
+	for <mendonet-l@...>; Sat, 29 Sep 2001 13:40:48 -0300
+Date: Sat, 29 Sep 2001 13:41:14 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <14570.010929@...>
+To: Sebas <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbNF06IElkZWFzIEFudGlxde1zaW1hcyAz?=
+In-reply-To: <9505.010929@...>
+References: <9505.010929@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Sebas,
+
+Saturday, September 29, 2001, 12:08:15 PM, you wrote:
+
+LM>>> El único argumento que viene utilizando es ese... "Está bien
+hecha" ->>>> Por eso está buena... ¿No opinás así?... ¡NO SABÉS
+LM>>> NADA, PLANCTON... (o algo así)!
+O>> Si te referis a lo que mantiene en un limite a la poblacion algacea en
+O>> una laguna de estabilizacion  le pegaste.
+S> Esa definición está mal por insuficiente.
+
+El no esta definiendo planton. Tampoco esta definiendo lo que mantiene un
+limite en la poblacion blablalblalb
+Vos decis que es insuficiente como definicion de plancton o como de la
+otra cosa?
+
+Un auto es un vehiculo no es una definicion de auto.
+Pero los autos no dejan de ser vehiculos por ello.
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

@@ -1,0 +1,49 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 2021 invoked from network); 27 Jun 2000 16:10:05 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 27 Jun 2000 16:10:05 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta2 with SMTP; 27 Jun 2000 16:10:02 -0000
+Received: from pentium.localdomain (rdumend2-200.41.21.56 [200.41.21.56] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA01342 for <mendonet-l@egroups.com>; Tue, 27 Jun 2000 01:58:30 +0300 (GMT)
+Received: from supernet.com.ar (pentium [192.168.1.200] (may be forged)) by pentium.localdomain (8.9.3/8.9.3) with ESMTP id BAA02090 for <mendonet-l@egroups.com>; Tue, 27 Jun 2000 01:34:43 -0300
+Sender: federico@...
+Message-ID: <39582EE3.8439B2F0@...>
+Date: Tue, 27 Jun 2000 01:34:43 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.12 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: Lo Bello (Cumbia pop vs Tschaicowsky...)
+References: <20000620171248.16987.qmail@...> <4399.000624@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+Groucho Marx wrote:
+
+> El 20/06/2000, fcanizo angustiado mencionó:
+>
+> fuea> Eso fue lo que llegó de tu mensaje, fue buena idea que lo
+> fuea> mandaras attached además, pero te sugiero que para los
+> fuea> próximos hagas lo siguiente: hace un attach de texto ya que
+> fuea> para leer el mensaje anterior tendría que apagar mi máquina,
+> fuea> iniciar windows y leerlo all�, para luego volver a apagar la
+> fuea> máquina iniciar linux y continuar leyendo mails
+> fuea> normalemente.
+>
+
+??... Y por que no usas el StarOffice ?
+
+--
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+         100% Linux
+The choice of a GNU generation.
+
+
+
+

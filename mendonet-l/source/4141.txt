@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:55:10 -0000
+Received: (qmail 97601 invoked from network); 5 Oct 2001 02:55:10 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.223 with QMQP; 5 Oct 2001 02:55:10 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta2 with SMTP; 5 Oct 2001 02:56:56 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA07908
+	for <mendonet-l@...>; Thu, 4 Oct 2001 23:50:22 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pKRU-0000Wt-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 23:10:24 -0300
+Date: Thu, 4 Oct 2001 23:11:12 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <19966.011004@...>
+To: Lady Marian <mendonet-l@...>
+Subject: Re: Acerca de libertades.
+In-reply-To: <00b101c14cb0$5720b180$9a4afea9@hfgg>
+References: <00b101c14cb0$5720b180$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Lady,
+
+LM> ¿Ustedes creen que es una "libertad" tener la "obligación" de
+LM> votar?
+
+Es una pregunta dificil, como preguntar que es la trinidad.
+Tenes la obligacion de ir a registrarte y cumplir con el acto formal
+de la urna, el cuarto oscuro y todo lo demas.
+
+Pero no estas obligada a votar. Digamos: si tu voto es anulado, es lo
+mismo que si no hubieras votado. (dije voto anulado, no voto en
+blanco). Entonces tu libertad de no votar se preserva.
+Ademas tenes como 8 horas para ir a un lugar que se supone que esta a
+pocas cuadras de tu casa un dia que es feriado... realmente no es
+ningun esfuerzo votar.
+Y si tenemos en cuenta que la obligatoriedad existe para evitar
+ciertos fraudes, creo que el beneficio total para la sociedad es mayor
+que el daño total a la sociedad ocasionado por la obligacion de votar.
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

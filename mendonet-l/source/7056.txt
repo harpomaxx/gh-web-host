@@ -1,0 +1,42 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 13 Nov 2000 11:30:14 -0000
+Received: (qmail 79340 invoked from network); 13 Nov 2000 11:30:13 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 13 Nov 2000 11:30:13 -0000
+Received: from unknown (HELO elserver.micasa) (200.41.31.47) by mta3 with SMTP; 13 Nov 2000 12:31:17 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id IAA01702 for mendonet-l@egroups.com; Mon, 13 Nov 2000 08:24:12 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Mon, 13 Nov 2000 08:24:12 -0300
+To: mendonet-l@egroups.com
+Subject: Re: A todo esto........
+Message-ID: <20001113082412.F520@...>
+References: <003801c04b2b$331d2980$a47c2ac8@tepes> <515.001111@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <515.001111@...>; from groucho@... on Sat, Nov 11, 2000 at 12:21:36AM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Sat, Nov 11, 2000 at 12:21:36AM -0300, Groucho Marx dijo:
+> El 10/11/2000, Sebas angustiado inventó:
+> principalmente de como se ve.
+> Eso es un abuso. La web no se diseño para garantizar que las cosas se
+> vean asi o asa. Se diseño para intercambiar y compartir conocimiento.
+> Y no importa con que tipografia o colorcitos digas algo, lo que cuenta
+> es lo que dice.
+
+Seguro, pero si podes mezclar las dos cosas y para colmo que sea veloz en el
+tiempo de carga, entonces sos un dios de la WEB!!!
+
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

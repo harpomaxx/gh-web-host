@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 4 Nov 2000 17:42:12 -0000
+Received: (qmail 49370 invoked from network); 4 Nov 2000 17:42:11 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 4 Nov 2000 17:42:11 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 4 Nov 2000 17:42:10 -0000
+Received: from antro.micasa ([200.41.31.10]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id OAA22341 for <mendonet-l@egroups.com>; Sat, 4 Nov 2000 14:45:22 +0300 (GMT)
+Date: Sat, 4 Nov 2000 14:05:41 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <9587.001104@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmU6IE5lY2VzaXRvIHVuIGNvbnNlam8uLi4gTmVjZXNpdG8gdW5hIG9w?= =?ISO-8859-1?B?aW5p824=?=
+In-reply-To: <001401c0458c$49100ae0$9a4afea9@hfgg>
+References: <001401c0458c$49100ae0$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 03/11/2000, Mariana apurado detalló:
+
+M> Che, se están corriendo rumores de que para fin de año se viene una
+M> devaluación bastante grossa. La cosa es que yo no entiendo nada de
+M> inversiones, pero tengo mis ahorros en un banco, en forma de plazo
+M> fijo y en pesos. Mi vieja (que entiende tanto como yo) dice que lo
+M> pase a dólares. Mi viejo (quien quizás entienda un poquitín más) no
+M> le da importancia al tema. ¿Qué harían ustedes? ¿Qué hago yo?
+M> ¿Tienen algún consejillo para mi?... Plis, no quiero que a fin de
+M> año mis millones se conviertan en miles.
+
+Si un dia vienen y dicen olvidense de 1 peso=1 dolar, a partir de
+ahora 1 peso=0,8 dolares, entonces tus ahorros en pesos valen menos en
+el resto del mundo. Si queres comprar cosas en otro pais te resulta
+mas caro porque tu plata vale menos.
+Al contrario, si queres vender cosas en el exterior, te van a pagar en
+dolares que valen mas y eso te conviene.
+
+Por eso las empresas locales quieren la devaluacion: por un lado, hace
+mas caro cualquier producto importado, y mas baratos los productos
+argentinos. Entonces ellos venden y exportan mas.
+
+Pero lo que ellos ganan en competitividad es a expensas de disminuir
+en terminos reales los salarios de los trabajadores. Por eso la
+devaluacion es una mierda.
+
+
+-- 
+Groucho Marx
+  Bart: _Eso significa que podemos morir mientras dormimos.
+Abuelo: _�Bienvenidos a mi mundo!
+
+
+

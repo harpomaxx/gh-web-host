@@ -1,0 +1,39 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 10898 invoked from network); 3 Jun 2000 00:48:09 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 3 Jun 2000 00:48:09 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 3 Jun 2000 00:48:04 -0000
+Received: from 200.41.31.78 ([200.41.31.78]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id VAA29614 for <mendonet-l@egroups.com>; Fri, 2 Jun 2000 21:46:59 +0300 (GMT)
+Date: Fri, 2 Jun 2000 21:39:01 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <8902.000602@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: Re[3]: (Lupus) El Alquimista
+In-reply-To: <5598.000608@...>
+References: <5598.000608@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 08/06/2000, Lupus velozmente recitó:
+
+LeL> A  propósito:  vieron que Sabato saca otro libro!! No sé muy bien cómo
+LeL> es  la  cosa,  pero  creo  que la semana que viene lo van a poner en a
+LeL> pagina  de  clarín para que cualquiera pueda leerlo, aunque parece que
+LeL> hay  que  leerlo en línea... no te dejan bajarlo... no sé si estará el
+LeL> libro entero... veremos qué pasa.
+
+Imposible.
+cuando lo estes leyendo, ya habra llegado del "cyberespacio" a tu maquina, asi
+que...
+Que tal Archivo/Guardar como... ?
+
+-- 
+Groucho Marx
+Viene callado como buscando el envido
+
+
+

@@ -1,0 +1,74 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_1); 22 Aug 2001 02:29:33 -0000
+Received: (qmail 11738 invoked from network); 22 Aug 2001 02:27:54 -0000
+Received: from unknown (10.1.10.26)
+  by m8.onelist.org with QMQP; 22 Aug 2001 02:27:54 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta1 with SMTP; 22 Aug 2001 02:27:53 -0000
+Received: from elserver.micasa (200-41-21-187-tntmen1.impsat.net.ar [200.41.21.187])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA12357
+	for <mendonet-l@yahoogroups.com>; Tue, 21 Aug 2001 23:29:24 -0300 (GMT)
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id TAA16759
+	for mendonet-l@yahoogroups.com; Tue, 21 Aug 2001 19:23:15 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Tue, 21 Aug 2001 19:23:14 -0300
+To: mendonet-l@yahoogroups.com
+Subject: Re: =?iso-8859-1?Q?=BFBuenas=3F_=28por_que_no_usas_linux=3F=29?=
+Message-ID: <20010821192314.A16727@...>
+Reply-To: harpo@...
+References: <48843739.20010820204952@...> <1921.010821@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <1921.010821@...>; from xebax@... on Tue, Aug 21, 2001 at 12:31:17AM -0300
+X-Operating-System: Linux elserver.micasa 2.2.18 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+El Tue, Aug 21, 2001 at 12:31:17AM -0300, Sebas dijo:
+> ¿Qué fue de los días en que cada nuevo miembro era recibido con una
+> sarta de agresiones gratuitas?... ah, conan no está más en la lista...
+> Igual, tanta bienvenida me hace creer que si uno usa linux tiene
+> coronita en esta lista...
+> Los usuarios de Linux:
+> ¿se sienten pertenecientes a una casta superior?
+> ¿forman un club con actividades extracurriculares como hacer carteles
+> que digan LINUX SOS MI VIDA  con firma del club de fans de Floresta?
+
+Jua jua... preguntale a Kastor!! lo que tiene en mente, es uno de los
+Linuxeros mas radicales que conozco....!!! jua jua ,despues de groucho por
+supuesto :)
+
+> ¿encuentran en linux la sensación de pertenencia que no encuentran en
+> otros grupos?
+
+SI, creo que es eso que vos describis... todo eso... somos como una especie de
+secta o mejor dicho logia... nuestra clara meta es la dominacion del mundo..
+ni mas... ni menos!
+
+> ¿O simplemente es que si sos usuario de linux y te encontrás con otro
+> surge un sentimiento de confraternidad como el que se palpita entre
+
+Creo que es simil a lo de los hinchas de futbol... o al sentimiento de los
+miembros de algun partido politico.
+
+> dos hinchas de fútbol del mismo equipo?
+> Suelo tener la sensación de que los usuarios de Linux consideran a todo
+> ser vivo que no lo use como una especie de idiota.
+
+No se si los consideramos idiotas, pero sin duda preferimos a alguien que se
+atreva a pensar distinto y probar... (aunque despues no use el SO)
+
+
+
+Y 
+
+-- 
+Harpo+
+

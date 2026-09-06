@@ -1,0 +1,45 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 18080 invoked from network); 29 Jul 2000 14:31:47 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 29 Jul 2000 14:31:47 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 29 Jul 2000 14:31:45 -0000
+Received: (qmail 6406 invoked by uid 722); 29 Jul 2000 14:07:05 -0000
+Date: 29 Jul 2000 14:07:04 -0000
+Message-ID: <20000729140704.6388.qmail@...>
+To: mendonet-l@egroups.com
+Subject: txt vs word
+From: fcanizo@...
+
+El 05/07/00, Cabeza le espetó simplemente a mendonet-l@egroups.com:
+
+C>> > Porque tiene un Word pirata, apago Linux, booteo windows, cargo Word,
+C>> > abrio el archivo, y lo leyo.
+C>>
+C>> Supuse que había reiniciado o algo así, pero... ���l dijo que no lo
+C>> pensaba hacer!!!
+
+Voy a ser honesto: la verdad es que cuando lo critiqué a
+lupus había olvidado que tenía un programita que transforma
+(de manera medianamente aceptable) word a HTML.
+
+Esto no invalida lo dicho sobre las incompatibilidades entre
+versiones de word, ni que es cierto que sería más copado
+enviar algo de manera universal. Es decir, a lupus no le
+costaría nada y se aseguraría.
+
+Como comentó grocuho (creo) sobre el proyecto guttenberg:
+"bienvenido al mundo ASCII, legible para computadoras y
+humanos desde 1971".
+
+C>Pero si lo hizo fue porque quiso, no porque el SO le dio un error "inesperado"
+C>ni para terminar de instalar un simple programa o un jueguito choto.
+
+Esto me gusta.
+
+Lo hice porque quise y no porque mi sistema es incapaz de
+modificar cierto dato en memoria o en disco. (patético)
+
+---
+La edad descarta las memorias de las que podemos prescindir.
+
+

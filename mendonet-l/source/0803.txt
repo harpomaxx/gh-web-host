@@ -1,0 +1,113 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_4); 27 Sep 2002 13:45:38 -0000
+Received: (qmail 80605 invoked from network); 27 Sep 2002 13:45:37 -0000
+Received: from unknown (66.218.66.218)
+  by m2.grp.scd.yahoo.com with QMQP; 27 Sep 2002 13:45:37 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 27 Sep 2002 13:45:33 -0000
+Received: from kavkeeper by pandora.negyser.com.ar with local (Exim 3.32 #1 (Debian))
+	id 17uspY-0007vb-00
+	for <mendonet-l@...>; Fri, 27 Sep 2002 07:58:44 -0300
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lagruta)
+	by pandora.negyser.com.ar with smtp (Exim 3.32 #1 (Debian))
+	id 17uspY-0007vQ-00
+	for <mendonet-l@...>; Fri, 27 Sep 2002 07:58:44 -0300
+Message-ID: <00e601c2662c$4acc6aa0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <JPEJJKCOMFIHONLPHPCIAEFGCBAA.gaucho98@...> <19396.020927@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B2=5D:_Desafiito_de_fisica.?=
+Date: Fri, 27 Sep 2002 10:46:33 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+X-Envelope-To: mendonet-l@...
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> G> No es que quiera dar la contra no.... pero bueno si te voy a dar la
+> G> contra
+> G> porque casi siempre lo hago, segun los que me conocen.
+> G> Yo no elijo ninguna de tus respuestas, pues tengo entendido que la
+> G> luna no
+> G> cae sobre la tierra simplemente porque la fuerza de gravedad de la
+> G> tierra no
+> G> es lo suificientemente fuerte para atraerla a si si, y tienen un
+> G> equilibrio
+> G> con el resto de los planetas que poseen su propia gravedad.
+
+No. El equilibrio gravitatorio se obtiene en los puntos L1 y L2,
+descubiertos por Lagrange. El punto L1 esta entre la tierra y la luna,
+y el L2 detras de la orbita lunar.
+En esos puntos la gravedad de la tierra, la luna y el sol se equilibrian.
+La gravedad de los otros planetas es depreciable a esas distancia.
+
+Salvando eso, la fuerza de gravedad de la tierra+luna es exactamente igual a
+la fuerza centrifuga de la orbita de la luna y por eso la orbita es estable.
+En ese sentido, tu respuesta equivale a la respuesta 1.
+Otra forma de plantear la respuesta 1 es haciendo referencia al principio
+de conservacion del momento angular. Es decir: que la orbita de la luna
+sea estable no es una coincidencia.
+
+
+> Si hacés el cálculo, verás que la luna debería caer a una aceleración
+> de algo así como 0.125(o 0.0125, no me acuerdo) m/s2.
+
+Tuviste en cuenta la masa de la luna, o solo la de la tierra?
+De todas formas, esa fuerza pruduce una aceleracion que produce una
+velocidar radial (de caida) la cual se compone con la velocidad tangencial
+de la luna y se comforma la orbita eliptica.
+Esa seria la respuesta 2.
+
+
+
+> G> ¿Porqué la luna no cae sobre la Tierra ni la Tierra sobre el Sol?
+> G> Porque la fuerza centrífuga de su rotación iguala a la gravitacional
+> G> del astro o planeta sobre el que giran.
+
+Respuesta 1.
+
+> Otra vez con esto... la aceleración centrífuga no existe, si existiera
+> los cuerpos saldrían despedidos en dirección perpendicular a su
+> velocidad tangencial, y lo hacen en la misma dirección.
+
+La fuerza centripeta es la fuerza de reaccion a la cuerza centrifuga.
+Si cesa la fuerza centipeta obviamente cesa la centrifuga tambien
+y solo resta la velocidad tangencial y por eso el cuerpo sale despedido
+tangencialmente.
+
+De todas maneras la forma correcta de resolver estos problemas es plantear
+la ecuacion integrodiferencial que describe el sistema y encontrarle las
+soluciones. Cada solucion describe un movimiento posible.
+Las condiciones de contorno seleccionaran 1 solo de esos movimientos.
+Todo lo demas es retorica.
+Ocurre que es costumbre plantear una explicacion "fisica" mas que
+matematica para los problemas fisicos, ya que la solucion matematica
+no suele ser muy didactica, al menos en cursos introductorios como este.
+
+
+
+> Dije otra vez
+> porque Groucho creo que también hablé de aceleración centrífuga.
+
+Que es la que experimenta tu ropa en el lavarropas durante el ciclo de
+centrifugado. Vos decis que la fuerza centrifuga no existe.
+Explica entonces por que la ropa pierde agua al centrifugarla en el
+lavarropas.
+
+
+--
+Herr Grouchox
+
+
+
+
+
+

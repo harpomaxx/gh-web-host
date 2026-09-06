@@ -1,0 +1,54 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_3); 12 Sep 2002 19:10:54 -0000
+Received: (qmail 26749 invoked from network); 12 Sep 2002 19:10:54 -0000
+Received: from unknown (66.218.66.216)
+  by m5.grp.scd.yahoo.com with QMQP; 12 Sep 2002 19:10:54 -0000
+Received: from unknown (HELO io) (200.47.194.80)
+  by mta1.grp.scd.yahoo.com with SMTP; 12 Sep 2002 19:10:53 -0000
+Received: from root by io with local (Exim 3.35 #1 (Debian))
+	id 17pYLj-0000BV-00
+	for <mendonet-l@...>; Thu, 12 Sep 2002 15:05:55 -0300
+Date: Thu, 12 Sep 2002 15:05:55 -0300
+To: mendonet-l@...
+Subject: Re: Re[2]: El =?ISO-8859-1?B?YWNhYvNzZS4=?=
+Message-Id: <20020912150555.7e61334f.root@...>
+In-Reply-To: <4336.020912@...>
+References: <007401c25991$8f7f2680$060aa8c0@...>
+	<4336.020912@...>
+Organization: [fobos]
+X-Mailer: Sylpheed version 0.8.1 (GTK+ 1.2.10; i386-debian-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: k a s t o r <root@...>
+X-Yahoo-Group-Post: member; u=76410190
+
+El Thu, 12 Sep 2002 08:04:03 -0300
+Sebas <xebax@...> escribio:
+
+> >> Che !!! y no creo que sea el unico que le gusta la cancion o que
+> >prefiera> canciones que no se entienden, en ves de cumbia villera!! asique
+> >los> timido que opinenn a mi favor (iba decir otra cosa pero mejor asi no
+> >hay> malos entendido o dobles significados).
+> 
+> GM> Prefiero casi cualquier cosa a la cumbia villera.
+> 
+> No defiendo la cumbia villera, pero hay que admitir son más creativos
+> que las minitas de aserejé...
+> 
+
+eso de asereje.. tiene algun significado el algun tipo de dialecto o es como
+si nosotros hicieramos una cancion con puro bla bla bla chucha chuchi.... y
+demas!
+
+-- 
+
+[ kastor ]                 [-- QUE SE VAYAN TODOS!!! --]
+
+JID = kastor@...   
+KF  = B83D C963 C1F8 7C02 FA82  1DFE 4852 C81A EFE9 177A               
+GPG = http://www.lugmen.org.ar/~kastor/public-key.txt                  
+

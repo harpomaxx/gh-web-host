@@ -1,0 +1,38 @@
+From gaucho98@...  Sat Jul 11 23:23:58 2020
+Return-Path: <gaucho98@...>
+X-Sender: gaucho98@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 35391 invoked from network); 30 Oct 2004 22:38:19 -0000
+Received: from unknown (66.218.66.217)
+  by m20.grp.scd.yahoo.com with QMQP; 30 Oct 2004 22:38:19 -0000
+Received: from unknown (HELO federica.org) (200.80.53.242)
+  by mta2.grp.scd.yahoo.com with SMTP; 30 Oct 2004 22:38:17 -0000
+Date: Sat, 30 Oct 2004 19:38:12 -0300
+To: "Mendonet-l" <mendonet-l@...>
+Message-ID: <rqvhbvnplomylpzxhjs@...>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+        boundary="--------srdbtmfkadhrzrccfctg"
+X-eGroups-Remote-IP: 200.80.53.242
+From: "Gaucho" <gaucho98@...>
+Subject: Re: Hi
+X-Yahoo-Group-Post: member; u=81303232
+
+
+----------srdbtmfkadhrzrccfctg
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+:))
+
+<br>
+</body></html>
+
+----------srdbtmfkadhrzrccfctg
+Content-Type: application/octet-stream; name="Price.scr"
+Content-Disposition: attachment; filename="Price.scr"
+
+[ Attachment content not displayed ]
+----------srdbtmfkadhrzrccfctg--
+

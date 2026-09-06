@@ -1,0 +1,63 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:55:11 -0000
+Received: (qmail 50479 invoked from network); 5 Oct 2001 02:55:11 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.1.220 with QMQP; 5 Oct 2001 02:55:11 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta3 with SMTP; 5 Oct 2001 02:57:33 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with ESMTP id XAA25977
+	for <mendonet-l@...>; Thu, 4 Oct 2001 23:57:50 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pGUI-0000C0-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 18:57:02 -0300
+Date: Thu, 4 Oct 2001 18:57:48 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <17790.011004@...>
+To: Marc <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbOF06IElkZWFzIEFudGlxde1zaW1hcw==?=
+In-reply-To: <17818.010930@...>
+References: <17818.010930@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Marc,
+
+Sunday, September 30, 2001, 7:38:55 PM, you wrote:
+
+
+M> Oxiuro yo te aprecio en serio, pero ya me canso tu demostración de
+M> hipergilada, pensad el primero que espes� a tocar un instrumento
+M> digamos guitarra no tenia ninguna técnica adquirida la fue creando el a
+M> su gusto y después quisa otros la usaron,
+M> si queres que te salga un sonido en particular podes usar alguna
+M> técnica que otro use pero también podes inventar alguna vos,
+M> lo importante es tu aporte de creatividad no la técnica, digamos que
+M> la técnica es un  aporte importante de experiencias vividas por otros,
+M> que te van a ayudar a hacer las cosas mas rápido pero no es lo mas
+M> importante en ningún arte.
+M> La verdadera habilidad de un artista esta en crear su propia técnica,
+M> para ello debe crear primero.
+
+Oxiuro esta aplicando sus valores de ingeniero a la actividad
+artistica. Es coherente con su condicion de ingeniero musico
+aficionado: en la ingenieria se requiere mucha tecnica, bastante
+creatividad y casi nada de sentimientos.
+Por que se asombran de la escala de importancia dada por Oxiuro a
+tecnica, creatividad, sentimiento?
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

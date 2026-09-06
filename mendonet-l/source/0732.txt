@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 27 Nov 2002 13:33:25 -0000
+Received: (qmail 20156 invoked from network); 27 Nov 2002 13:33:25 -0000
+Received: from unknown (66.218.66.217)
+  by m13.grp.scd.yahoo.com with QMQP; 27 Nov 2002 13:33:25 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta2.grp.scd.yahoo.com with SMTP; 27 Nov 2002 13:33:24 -0000
+Received: from kavkeeper by pandora.negyser.com.ar with local (Exim 3.35 #1 (Debian))
+	id 18H2NM-00056F-00
+	for <mendonet-l@...>; Wed, 27 Nov 2002 10:37:12 -0300
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18H2NM-000564-00
+	for <mendonet-l@...>; Wed, 27 Nov 2002 10:37:12 -0300
+Message-ID: <3DE4C985.3040408@...>
+Date: Wed, 27 Nov 2002 10:32:53 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.0.1) Gecko/20020826
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: hola, soy nuevo
+References: <004001c295e6$1906fbe0$0e6da8c0@hastaelojo>
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Mr. Ska wrote:
+> Hola gente de mendonet, me llamo Gabriel, soy un usuario nuevo aca y no se
+> bien de que se trata, pero bueno, espero entretenerme un rato.
+
+Que bueno, porque la lista esta estaba languideciendo pateticamente.
+
+-- 
+Groucho
+
+
+
+
+
+
+
+

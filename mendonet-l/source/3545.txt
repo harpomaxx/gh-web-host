@@ -1,0 +1,44 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 24 Oct 2001 03:36:43 -0000
+Received: (qmail 78606 invoked from network); 24 Oct 2001 03:36:43 -0000
+Received: from unknown (10.1.10.26)
+  by l8.egroups.com with QMQP; 24 Oct 2001 03:36:43 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta1 with SMTP; 24 Oct 2001 03:36:43 -0000
+Received: from 200-41-21-191-tntmen1.impsat.net.ar ([200.41.21.191])
+  by softhome.net with esmtp; Tue, 23 Oct 2001 21:31:23 -0600
+Date: Wed, 24 Oct 2001 00:24:58 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: rodralez <rodralez@...>
+X-Priority: 3 (Normal)
+Message-ID: <217.011024@...>
+To: mendonet-l@...
+Subject: Re[4]: Sobre esos dos pelotudos..
+In-reply-To: <OE15wSA1XvpFVjCRGry00005b19@...>
+References: <OE15wSA1XvpFVjCRGry00005b19@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: rodralez <rodralez@...>
+X-Yahoo-Profile: rodralez
+
+Morganti Federico decia:
+
+>> Fijate en el programa que usas para leer emails debes tener una opcion
+>> para poner un limite al tamaño de los mensajes que te queres bajar.
+>> Por ejemplo, yo no bajo emails de más de 200 kb. Mi programa me avisa
+>> que no se bajé tal email porque excedía el tamaño por mi configurado.
+
+> esa esta guena, perooo........por ahi hay cosas de 500kb que pueden ser
+> interesantes, en este caso, como hacemos?
+
+Entras bajo web a softhome y te bajás el archivo.
+Easy cake !.
+
+rodralez
+
+
+

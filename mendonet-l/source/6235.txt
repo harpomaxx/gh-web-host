@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_2); 24 Apr 2001 07:02:12 -0000
+Received: (qmail 86980 invoked from network); 24 Apr 2001 07:02:12 -0000
+Received: from unknown (10.1.10.142) by l10.egroups.com with QMQP; 24 Apr 2001 07:02:12 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.97) by mta3 with SMTP; 24 Apr 2001 07:02:10 -0000
+Received: (qmail 20095 invoked by uid 1005); 23 Apr 2001 11:46:07 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 3.3334 secs); 23/04/2001 08:46:04
+Received: from antro.micasa (192.168.0.2) by torton.micasa with SMTP; 23 Apr 2001 11:46:00 -0000
+Date: Mon, 23 Apr 2001 08:45:59 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <7365.010423@...>
+To: Marc <mendonet-l@yahoogroups.com>
+Subject: Re[2]: Geek code
+In-reply-To: <9600.010421@...>
+References: <9600.010421@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 21/04/2001, Marc triste detalló:
+
+
+GM>> Amigos: he aqui mi geek code.
+
+GM>> -----BEGIN GEEK CODE BLOCK-----
+GM>>  Version: 3.1
+GM>>  GCS/IT/CC/E d-- s+:+>+: a26- C++(+++) UL++ P+++ L++(++++) E- W++
+GM>>  N o+ K- w++ O- M- V- PS+ PE Y++ PGP-- t+ 5 X++(+++) R- tv+ b++
+GM>>  DI- D++ G++ E++>+++ h! r++ y+>++
+GM>> ------END GEEK CODE BLOCK------
+
+M> muy bonitos los dibujitos
+M> pero creo que te equivocaste de lista :�) compu�o�o
+
+
+Les mande copia para interesarlos en el tema.
+http://www.geekcode.com
+
+-- 
+Groucho Marx
+Colorado como huevo de domador
+
+
+

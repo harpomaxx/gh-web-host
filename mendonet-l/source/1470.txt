@@ -1,0 +1,86 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 6 May 2002 19:01:41 -0000
+Received: (qmail 63554 invoked from network); 6 May 2002 19:01:41 -0000
+Received: from unknown (66.218.66.216)
+  by m5.grp.scd.yahoo.com with QMQP; 6 May 2002 19:01:41 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.93)
+  by mta1.grp.scd.yahoo.com with SMTP; 6 May 2002 19:01:41 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Mon, 6 May 2002 12:01:40 -0700
+To: <mendonet-l@...>
+References: <E1709Tn-00018T-00@...> <1313.020506@...>
+Subject: Re: Re[10]: (unknown)
+Date: Mon, 6 May 2002 14:43:36 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE36WoVQAiEGKROptzz0000546d@...>
+X-OriginalArrivalTime: 06 May 2002 19:01:40.0931 (UTC) FILETIME=[74C3D130:01C1F530]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.192.52]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+----- Original Message -----
+From: "Lupus" <aldocop@...>
+To: <mendonet-l@...>
+Sent: Monday, May 06, 2002 7:31 AM
+Subject: Re[10]: (unknown)
+
+
+> >> > F> ¿entonces cual es la diferencia entre una celula viva y una
+> >> > muerta?
+> >> >Esto no es una definición de vida... estamos discutiendo
+> >> > definiciones de vida.
+> >> bueno aplicando tu definicion de vida ¿cual es la diferencia entre
+> >> una celula viva y una muerta?
+>
+> GM> Ninguna, porque las celulas vivas no existen (ya que irreversiblemente
+> GM> son inconscientes).
+> GM> "celula viva" seria un eufemismo. Lo correcto seria decir "celula
+> GM> funcional".
+>
+>
+> >> > A ver "grosso"... releé lo que yo escribí.... "El coma, si no es
+> >> > definitivo, es vida, si es definitivo, es muerte." O sea, si estás
+> >> > en coma por cuatro meses, no es definitivo, ergo no estás muerto.
+> >>
+> >> pero en esos meses no tengo conciencia, por lo tanto basandome en tu
+> >> definicion, estaria muerto.
+>
+> GM> No. Esos meses que pasaste en coma no estabas muerto, porque se trato
+> GM> de un coma reversible. Lo dificil es saber a priori si un coma es
+> GM> reversible o no... O eso creo. Los que estudian medicina son ustedes.
+> GM> En todo caso, si no se puede saber con certeza si un coma sera
+> GM> reversible o no, entonces es estado vida/no-vida en esos casos es
+> GM> indecidible.
+>
+> Che... estaba pensando... todo este embrollo sale de la idea de que si
+> uno  se  muere,  no puede volver a la vida... tomando como vida, claro
+> está, el concepto clásico.
+>
+> Y  si  tomamos  la  nueva  concepción de: vida = conciencia. Y decimos
+> directamente  que  el  coma absolutamente inconciente es muerte, y que
+> muerte  (redefinida  bajo  la  nueva  concepción)  en  este  caso  es
+> reversible...
+>
+> Si  vida  =  conciencia,  la  artimaña  de  "recuperable"  es  solo un
+> artilugio  para  no  caer  en  la afirmación de inconciente = muerto y
+> luego  muerte  =  reversible. Pero tal vez no sea necesario adjudicar a
+> "muerte"  la  entropía  de  lo irreversible... Si estamos redefiniendo
+> "vida"  lo  lógico  sería  redefinir  también  "muerte" de un modo
+> independiente de la antig�a concepción.
+
+ resumidamente  para mi muerte es la energia  residual que libera un cuerpo
+al perder su funcionalidad  para ser utilizada por otro de igual forma o no
+
+
+

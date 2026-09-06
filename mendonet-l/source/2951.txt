@@ -1,0 +1,41 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 14 Nov 2001 03:26:50 -0000
+Received: (qmail 25542 invoked from network); 14 Nov 2001 03:26:49 -0000
+Received: from unknown (216.115.97.172)
+  by m12.grp.snv.yahoo.com with QMQP; 14 Nov 2001 03:26:49 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2.grp.snv.yahoo.com with SMTP; 14 Nov 2001 03:26:49 -0000
+Received: from a200042124083.rev.prima.com.ar ([200.42.124.83])
+  by softhome.net with esmtp; Tue, 13 Nov 2001 09:24:36 -0700
+Date: Tue, 13 Nov 2001 13:28:32 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Sebas <xebax@...>
+X-Priority: 3 (Normal)
+Message-ID: <5561.011113@...>
+To: Oxiuro <mendonet-l@...>
+Subject: Re[2]: Re2: una ayudita (linux)
+In-reply-To: <865705514.20011113011356@...>
+References: <865705514.20011113011356@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+
+G>> PD:
+G>> http://www.linuxmendoza.org.ar
+G>> --
+G>> Harpo+
+
+
+O> Estas cosas no tendrian que ir a Lug-list o lug-novatos?????????????
+O a tug-culog.
+
+-- 
+Sebas   
+Como si fuera príncipe o cangrejo, la cultura de la violencia devora a su padre. (Comprobación de un especialista.)                       
+
+
+

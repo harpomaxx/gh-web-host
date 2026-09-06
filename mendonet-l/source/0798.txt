@@ -1,0 +1,49 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_4); 29 Sep 2002 04:22:27 -0000
+Received: (qmail 67071 invoked from network); 29 Sep 2002 04:22:26 -0000
+Received: from unknown (66.218.66.218)
+  by m8.grp.scd.yahoo.com with QMQP; 29 Sep 2002 04:22:26 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 29 Sep 2002 04:22:26 -0000
+Received: (qmail 909 invoked by uid 417); 29 Sep 2002 04:22:26 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 29 Sep 2002 04:22:26 -0000
+Received: from a200042124222.rev.prima.com.ar ([200.42.124.222])
+  by softhome.net with esmtp; Sat, 28 Sep 2002 22:22:13 -0600
+Date: Sun, 29 Sep 2002 00:40:39 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <328.020929@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbNl06IERlc2Fmae10byBkZSBm7XNpY2Eu?=
+In-reply-To: <E17v8b6-0005y2-00@...>
+References: <E17v8b6-0005y2-00@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> El agua y
+>> la ropa son aceleradas tangencialmente, a la circunferencia y su
+>> dirección cambia a cada momento, eso no es centrífugo, centrífugo
+>> sería si fueran aceleradas paralelamente al radio.
+
+GM> No funciona...
+GM> Si la resultante de las fuerzas actuando sobre la ropa y el agua no
+GM> tuviera direccion radial, y sentido hacia afuera, por el agua sale
+GM> despedida radialmente hacia afuera y no tangencialmente?
+Puede ser un efecto visual... debería grabarlo y verlo cuadro por
+cuadro, pero no tengo filmadora ni videoreproductora.
+
+
+-- 
+Sebas   
+El matrimonio es la principal causa de divorcio. GM                       
+
+
+

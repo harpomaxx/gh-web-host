@@ -1,0 +1,45 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 24 Aug 2001 03:00:34 -0000
+Received: (qmail 55598 invoked from network); 24 Aug 2001 02:41:24 -0000
+Received: from unknown (10.1.10.142)
+  by m8.onelist.org with QMQP; 24 Aug 2001 02:41:24 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.58)
+  by mta3 with SMTP; 24 Aug 2001 02:41:20 -0000
+Received: (qmail 31229 invoked by uid 1005); 23 Aug 2001 02:59:41 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.158196 secs); 22/08/2001 23:59:39
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 23 Aug 2001 02:59:38 -0000
+Date: Thu, 23 Aug 2001 00:01:31 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <200108211813.f7LIDw901751@...> <4937.010821@...>
+In-Reply-To: <4937.010821@...>
+Subject: Re: Che kastor...
+MIME-Version: 1.0
+Message-Id: <01082300013100.00404@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 21 Ago 2001 22:30, escribiste:
+> kt> che aca yo llegue tarde pero alguien me puede resumir porque
+> kt> tanta bronca con oxiuro?
+> Te corrijo, no es bronca, es lástima.
+
+La verdad que ya me olvide por que empezo.
+
+
+> Por otro lado, las agresiones comenzaron de su lado, y como verás,
+> sus dientes rechinan como castañuelas y corre a pedir ayuda jugándola
+> de víctima.
+
+Si, hasta ahora lo has destrozado.
+
+
+-- 
+Groucho Marx
+

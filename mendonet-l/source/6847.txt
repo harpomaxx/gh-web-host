@@ -1,0 +1,47 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 17 Nov 2000 03:06:46 -0000
+Received: (qmail 93531 invoked from network); 17 Nov 2000 03:06:46 -0000
+Received: from unknown (10.1.10.142) by l7.egroups.com with QMQP; 17 Nov 2000 03:06:46 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 17 Nov 2000 04:07:50 -0000
+Received: from antro.micasa ([200.41.31.49]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id VAA05609 for <mendonet-l@egroups.com>; Thu, 16 Nov 2000 21:02:03 -0300 (GMT)
+Date: Fri, 17 Nov 2000 00:00:21 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <160.001117@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[5]: Perdonen mi ignorancia
+In-reply-To: <6556.001115@...>
+References: <6556.001115@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 15/11/2000, Sebas confiado murmuró:
+
+S>>> ¿GoodPrivacy? Si es un chiste no lo entiendo, si es real, no lo
+S>>> conozco.
+GM>> PGP, Tonton!!!
+GM>> Sistema de criptografia PGP -> poesia criptica -> Joseph P.
+GM>> GoodPrivacy ->>> gracioso.
+GM>> Ok?
+
+S> Epa epa... cuando contesté esto todavía no había leído tu
+S> explicación, además es un chiste compuñoño y no perteneciendo yo a
+S> esa categorización, no estoy obligado a entenderlo, mucho menos a
+S> reirme.
+
+Ok. Lo importante entonces es que los computontos nos reimos a tu
+expensa.
+
+
+-- 
+Groucho Marx
+Se fue como quien se desangra
+
+
+

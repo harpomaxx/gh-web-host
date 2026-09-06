@@ -1,0 +1,56 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_1); 12 Sep 2001 21:04:35 -0000
+Received: (qmail 45471 invoked from network); 12 Sep 2001 21:04:13 -0000
+Received: from unknown (10.1.10.26)
+  by l7.egroups.com with QMQP; 12 Sep 2001 21:04:13 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.29)
+  by mta1 with SMTP; 12 Sep 2001 21:04:13 -0000
+Received: (qmail 3711 invoked by uid 1005); 12 Sep 2001 18:24:47 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.156685 secs); 12/09/2001 15:24:46
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 12 Sep 2001 18:24:45 -0000
+Date: Wed, 12 Sep 2001 15:24:44 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <3B9CC030.8337.471A2C@localhost> <3B9D7A52.27535.D95817@localhost> <1991300319.20010912202657@...>
+In-Reply-To: <1991300319.20010912202657@...>
+Subject: Re: Re[4]: me olvidaba...
+MIME-Version: 1.0
+Message-Id: <01091215244403.00455@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mié 12 Sep 2001 20:26, escribiste:
+
+> msn> Y yo porque te caí mal???? El día del cumpleaños del Rodro
+> msn> pregunto...
+> No dije que me caiste mal, dije que si me peleo con alguien es porque
+> me cayo mal, con vos no quise pelear, es mas, nunca te quise ofender
+> vos te ofendiste vaya a saber uno por que.
+
+Yo se! Yo se!
+
+Liciaga: en la dececada del 80 predominaban los ritmos cuadrados
+Oxiuro: pero obviamente no sabes nada! Acaso los ritmos de 
+Banda-Que-No-Conoce-Nadie eran cuadrados?
+Liciaga: No, solo digo que predominaban los ritmos cuadrados, por 
+ejemplo Otra-Banda-Que-No-Conoce-Nadie, o no Groucho?
+Groucho: yo creo que la musica de los 80, sonaba a lata.
+
+Moraleja:
+Para Oxiuro: No suele ser bien tomado que un desconocido te diga que no 
+sabes nada de algo.
+Para Liciaga: El tipo estaba tratando de ser amistoso, no hostil. Es 
+como si el Morocho de dice a Harpo: Catania vos cerra el orto porque no 
+sabes nada de futbol. Harpo se ofende, y 4 meses despues plantea el 
+tema en una lista de correo? No, porque sabe que el Morocho lo esta 
+puteando de onda.
+
+-- 
+Groucho Marx
+

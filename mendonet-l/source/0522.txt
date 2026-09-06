@@ -1,0 +1,66 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 3 Feb 2003 16:08:57 -0000
+Received: (qmail 21578 invoked from network); 3 Feb 2003 16:08:57 -0000
+Received: from unknown (66.218.66.218)
+  by m5.grp.scd.yahoo.com with QMQP; 3 Feb 2003 16:08:57 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.73)
+  by mta3.grp.scd.yahoo.com with SMTP; 3 Feb 2003 16:08:56 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18fjKC-0007WE-00
+	for <mendonet-l@...>; Mon, 03 Feb 2003 13:20:00 -0300
+Message-ID: <3E3E93F8.2010502@...>
+Date: Mon, 03 Feb 2003 13:08:24 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.0.1) Gecko/20020826
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: (unknown)
+References: <16627429411.20030131201736@...> <15372.030201@...> <4824278190.20030201200152@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Mr Ska escribió::
+> Saturday, February 1, 2003, 8:56:10 AM, usted escribió:
+> S> subir el precio
+> S> de los cigarrillos es hacer prevención, porque la gente fumará menos.
+
+Bulshit. Es el ejemplo clasico de "demanda elastica" que sale en todos 
+los libros de economia elemental.
+La demanda casi no se ve afectada por el precio. Viciosos del orto!
+
+
+
+> S> Mínimamente, pero no creo haber dicho que se les deban cobrar más
+> S> impuestos...
+
+>   tus palabras fueron:
+> 
+>>Yo pienso que están equivocados, y que deberían hacer un aporte extra
+>>a los fondos destinados a salud, al igual que deberían hacerlo los
+>>fumadores.
+
+Puies es justo!!!! Si insumen mas gastos, pudiendo no hacerlo (nadie les 
+obligo a convertirse en fumadores) entonces que contribuyan con mas gastos.
+Es facil de implemetar: le agrgan un impuesto a los cigarrillos y lo 
+destinan al sistema de salud estatal.
+
+De igual modo, los estudiantes universitarios tienen que aportan mas que 
+el resto de la sociedad al financiamiento del sistema educativo.
+
+
+> Si consideramos que parte de los impuestos van destinados a la salud,
+> lo que dijiste equivale a cobrar mas impuestos.
+
+Si, pero solo a los fumadores. Viciosos del orto!
+
+-- 
+Groucho
+
+

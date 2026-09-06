@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 11279 invoked from network); 7 Jul 2000 17:58:13 -0000
+Received: from unknown (10.1.10.142) by m3.onelist.org with QMQP; 7 Jul 2000 17:58:13 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 7 Jul 2000 17:58:12 -0000
+Received: from 200.41.31.115 ([200.41.31.115]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id PAA18531 for <mendonet-l@egroups.com>; Fri, 7 Jul 2000 15:00:54 +0300 (GMT)
+Date: Wed, 5 Jul 2000 23:56:04 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <15997.000705@...>
+To: gonzalo torrisi <mendonet-l@egroups.com>
+Subject: Re: Buenas, soy el oxiuro!!
+In-reply-To: <200007040903328.SM00155@...>
+References: <200007040903328.SM00155@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 04/07/2000, gonzalo histéricamente recitó:
+
+gt> Aver quién sabe esto:
+
+gt> Se posee una lámina de cartón cuadrada de lado L y se
+gt> desea hacer una caja sin tapa de volumen máximo: ¿Cuál
+gt> deben ser las medidas de la base y la altura de las
+gt> paredes para que se cumpla esto?
+gt> por favor siéntanse libre de contestar y ya les tendr�
+gt> nuevos problemas de la vida real.
+
+Una duda: si cuando corto la caja me sobran pedacitos de carton..
+puedo pegarlos con el resto para ampliar la caja, o la caja tiene que
+quedar de una sola pieza de carton?
+
+
+gt> P.D. . Por sierto, Groucho, la respuesta a tu problema de
+gt> la vaca para que coma la mitad de un pastizal circular es
+gt> que la longitud de la cuerda sea de R=57.9392 m
+
+Si... Responde cuando quieras, sabes!
+La pregunta fue formulada hace mas de 1 mes.
+Tanto te costo resolver el problema?
+
+
+-- 
+Groucho Marx
+
+
+

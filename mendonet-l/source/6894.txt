@@ -1,0 +1,33 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+X-Sender: fcanizo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 16 Nov 2000 11:03:23 -0000
+Received: (qmail 87323 invoked from network); 16 Nov 2000 11:03:23 -0000
+Received: from unknown (10.1.10.27) by l9.egroups.com with QMQP; 16 Nov 2000 11:03:23 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta2 with SMTP; 16 Nov 2000 11:03:22 -0000
+Received: (qmail 1201 invoked by uid 722); 16 Nov 2000 11:03:08 -0000
+Date: 16 Nov 2000 11:03:08 -0000
+Message-ID: <20001116110308.1174.qmail@...>
+To: mendonet-l@egroups.com
+Subject: Re: lcb?
+From: fcanizo@...
+
+El 15/11/00, Groucho Marx le susurraba a fcanizo@...:
+ 
+ GM>A mi no me molesto... Fue un archivo pequeño y formaba parte de la
+ GM>conversacion colectiva. Es como si yo hubiera mandado solo a Sebas la
+ GM>explicacion de PGP.
+ GM>Tal vez a vos no te interesaba porque ya sabias que era PGP, pero
+ GM>igual no te quejaste.
+ 
+ Exacto, tal vez fue por que estaba en formato texto (legible
+ para humanos y computadoras desde 1...no sé cuanto), o tal
+ vez fue porque ni me enteré de tal mail.
+ 
+ Pero si me jodió que fuera un archivo de powerpoint. Con qué
+ se lee eso? No me podía mandar un jpg la guacha?
+ 
+ 
+
+

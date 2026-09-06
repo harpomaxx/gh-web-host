@@ -1,0 +1,45 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_2); 22 Nov 2000 15:19:00 -0000
+Received: (qmail 49810 invoked from network); 22 Nov 2000 15:18:58 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 22 Nov 2000 15:18:58 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.83) by mta1 with SMTP; 22 Nov 2000 15:18:51 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id MAA10719 for mendonet-l@egroups.com; Wed, 22 Nov 2000 12:10:50 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Wed, 22 Nov 2000 12:10:49 -0300
+To: mendonet-l@egroups.com
+Subject: Re: qpv
+Message-ID: <20001122121049.E10684@...>
+References: <20001121113951.8804.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <20001121113951.8804.qmail@...>; from fcanizo@... on Tue, Nov 21, 2000 at 11:39:51AM -0000
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Tue, Nov 21, 2000 at 11:39:51AM -0000, Conan el Barbaro dijo:
+> El 17/11/00, Groucho Marx le susurraba a fcanizo@...:
+>  
+>  GM>fuea>  Pero si me jodió que fuera un archivo de powerpoint. Con qué
+>  GM>fuea>  se lee eso? No me podía mandar un jpg la guacha?
+>  GM>
+>  GM>Cagate de risa, pero tengo un visor de imagenes que es capaz de
+>  GM>entender los archivos de powerpoint y los muestra como animaciones
+>  GM>gif.
+>  GM>Se llama QPV.
+>  
+>  Y en qué sistema operativo anda?
+
+Corre bajo BeOS!!!
+Boludo!!!! no te me hagas el UnixER!!! queres?
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

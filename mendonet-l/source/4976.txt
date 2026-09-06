@@ -1,0 +1,70 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 21 Sep 2001 14:54:37 -0000
+Received: (qmail 60195 invoked from network); 21 Sep 2001 14:54:37 -0000
+Received: from unknown (10.1.10.142)
+  by l10.egroups.com with QMQP; 21 Sep 2001 14:54:37 -0000
+Received: from unknown (HELO softhome.net) (204.144.231.93)
+  by mta3 with SMTP; 21 Sep 2001 14:54:37 -0000
+Received: from modem90-as3.mendoza.sinectis.com.ar ([216.244.255.210])
+  by softhome.net with esmtp; Fri, 21 Sep 2001 08:51:33 -0600
+Date: Fri, 21 Sep 2001 04:12:32 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus <aldocop@...>
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <12175.010921@...>
+To: mendonet-l@...
+Subject: Re[2]: Cad del orrrto.....
+In-reply-To: <20010919124609.B17177@...>
+References: <20010919124609.B17177@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+
+                                  Friday, September 21, 2001
+
+El 19/09/2001, mendonet-l decía:
+
+HM> El Tue, Sep 18, 2001 at 03:12:13PM -0300, Groucho Marx dijo:
+>> El Vie 14 Sep 2001 17:10, escribiste:
+>> 
+>> > Te agarre!!
+>> > Ese mail fue enviado con el Outlook Express, como bien dice el
+>> > header.
+>> >
+>> >  SI y..... cual es el problema??? es el que encontre a mas a mano, y
+>> > ni loco me iba a poner a leer todos los mail en linea desde mi
+>> > webmail, esto fue lo primero que hagarre y te confieso que es la
+>> > primera vez que lo uso, no me gusta ningun programa de email, que no
+>> > se en linea o webmail, puesto que en cuanto caiga un virus, los que
+>> > cagaron son todos los de mi liost mail jajajjaa asique cuidensen o me
+>> > recomiendan algun otro mejor.  chau
+>> 
+>> Absurdo. Los virus no "caen" solos sino que alguien generalmente 
+>> incompetente los activa culposamente.
+
+HM> Si usas OE, se pueden llegar a ejecutar automaticamente debido a un bug
+HM> interno de OE. Mi viejo recibio una linda copia de Haptime.A y me temo que voy
+HM> a tener que reinstalarle todo de nuevo....
+
+HM> Segun lo que estuve leyendo en CNET, Haptime.A es un gusano que aprovecha
+HM> fallas de seguridad de OE para ejecutarse automaticamente...extranio no?
+HM> Ah.. y infecta HTML, ASP,HTT.. y borra los .EXE y .DLL ciertos dias del anios.
+
+HM> Tenes info al respecto?? mandamela please!
+
+Yo tengo cierta info que raya la corazonada: ESTÁS HASTA LAS
+PELOTAS... JE JE!!
+
+Lupus
+
+--
+
+" Todo idioma se aleja de lo escrito. Y algunos, como el inglés, que all� donde escriben Londres pronuncian Constantinopla. " ES                
+
+
+

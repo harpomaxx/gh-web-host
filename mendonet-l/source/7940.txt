@@ -1,0 +1,38 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 27 Oct 2000 17:30:50 -0000
+Received: (qmail 26929 invoked from network); 27 Oct 2000 17:30:50 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 27 Oct 2000 17:30:50 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.12) by mta3 with SMTP; 27 Oct 2000 17:30:46 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id NAA06883 for mendonet-l@egroups.com; Fri, 27 Oct 2000 13:58:03 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Fri, 27 Oct 2000 13:58:03 -0300
+To: mendonet-l@egroups.com
+Subject: Re: Boring
+Message-ID: <20001027135803.B6865@...>
+References: <15667.001025@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <15667.001025@...>; from groucho@... on Wed, Oct 25, 2000 at 04:01:00PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-head: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Wed, Oct 25, 2000 at 04:01:00PM -0300, Groucho Marx dijo:
+> Mendonet se ha boringizado mucho, che...
+> No me siento muy capaz de hacer algo al respecto, asi les pido a todos
+> que escriban algo simpaticon...
+> O al menos respondan a lo que los demas dicen...
+
+Tal vez sea por que vos nos has cansado un poco con tu pacata y moralista
+forma de ser... no te parece???
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

@@ -1,0 +1,26 @@
+From joalonso@...  Sat Jul 11 23:23:58 2020
+Return-Path: <joalonso@...>
+Received: (qmail 6837 invoked from network); 13 Apr 2000 20:52:33 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 13 Apr 2000 20:52:33 -0000
+Received: from unknown (HELO q8.egroups.com) (10.1.2.31) by mta1 with SMTP; 13 Apr 2000 20:52:32 -0000
+Received: (qmail 22626 invoked from network); 13 Apr 2000 20:52:30 -0000
+Received: from mail.lanet.com.ar (HELO lanet.com.ar) (200.42.8.134) by mx3.egroups.com with SMTP; 13 Apr 2000 20:52:30 -0000
+Received: from joalonso (ip200042129199.lanet.com.ar [200.42.129.199]) by lanet.com.ar (8.8.7/8.8.7) with SMTP id RAA13772 for <mendonet-l@egroups.com>; Thu, 13 Apr 2000 17:56:32 -0300
+Message-ID: <005301bfa58a$51e38b80$c7812ac8@joalonso>
+To: <mendonet-l@egroups.com>
+References: <Pine.LNX.4.04.10004122340330.5736-100000@...>
+Subject: RE: PROBLEMAS! 
+Date: Thu, 13 Apr 2000 17:51:14 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+X-eGroups-From: =?iso-8859-1?Q?Jose_Octavio_Alonso?= <joalonso@...>
+From: =?iso-8859-1?Q?Jose_Octavio_Alonso?= <joalonso@...>
+
+Si ami me llegó, pero yo tengo cuenta en Lanet
+
+

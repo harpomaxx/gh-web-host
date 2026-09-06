@@ -1,0 +1,31 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 29940 invoked from network); 29 Jun 2000 17:09:22 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 29 Jun 2000 17:09:22 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 29 Jun 2000 17:09:13 -0000
+Received: (qmail 32569 invoked by uid 722); 29 Jun 2000 17:08:23 -0000
+Date: 29 Jun 2000 17:08:23 -0000
+Message-ID: <20000629170823.32549.qmail@...>
+To: mendonet-l@egroups.com
+Subject: La Torrasca
+From: fcanizo@...
+
+El 25/06/00, Groucho Marx le murmuró verborragicamente a Bocha:
+
+GM>B> En 2001, a HAL la podrian matar?
+GM>B> O no esta viva?
+GM>
+GM>Pues no me acuerdo! Hace mucho que la vi.
+GM>Igualmente, un ser vivo con disco rigido (o HAL tenia ferrites?) se muere
+GM>cuando lo apagas pero resucita cuando lo volves a bootear...
+GM>
+GM>Asi que matar a HAL no es tan terrible como matar a un pajarito.
+
+Algo así como matar a "La Torrasca" ?
+
+---
+El saber puede comunicarse, pero la sabiduría no.
+
+	"Siddhartha" - Hermann Hesse
+
+

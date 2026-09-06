@@ -1,0 +1,32 @@
+From goofer@...  Sat Jul 11 23:23:58 2020
+Return-Path: <goofer@...>
+Received: (qmail 4959 invoked from network); 25 Aug 2000 03:17:33 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 25 Aug 2000 03:17:33 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta2 with SMTP; 25 Aug 2000 03:17:33 -0000
+Received: (qmail 21557 invoked by uid 417); 25 Aug 2000 03:18:53 -0000
+Received: from mza2ppp-394.uc.infovia.com.ar (HELO softhome.net) (209.13.230.139) by smtpa.softhome.net with SMTP; 25 Aug 2000 03:18:53 -0000
+Message-ID: <39A5E52F.B270AF67@...>
+Date: Fri, 25 Aug 2000 00:17:03 -0300
+X-Mailer: Mozilla 4.7 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: LINEA ADSL... TOMA NOTA CHABON !
+References: <20000819163614.20070.qmail@...> <01.000823@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: El Goofer <goofer@...>
+
+> Todavia no tengo claro que tipo de direcciones IP te asignan y cuanta
+> conectividad tengo.
+> No me gustaria estar detras de un proxy o de un router que haga NAT
+> conmigo, cagandome toda posibilidad de acceder creativamente a mi
+> maquina desde afuera.
+
+Creativamente...
+O sea que ese mentalista ojeroso todavía te está cagando la cabeza????
+Groucho, Despierta!!!
+La Telekinesis no es un protocolo compatible!!!!
+
+Goofer mirando fijo su cuchara
+

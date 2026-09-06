@@ -1,0 +1,38 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 4 Nov 2000 01:46:49 -0000
+Received: (qmail 29092 invoked from network); 4 Nov 2000 01:46:49 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 4 Nov 2000 01:46:49 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 4 Nov 2000 01:46:47 -0000
+Received: from antro.micasa ([200.41.31.11]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA13379 for <mendonet-l@egroups.com>; Fri, 3 Nov 2000 22:50:00 +0300 (GMT)
+Date: Fri, 3 Nov 2000 22:44:03 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <10947.001103@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Re[2]: Boring
+In-reply-To: <00bc01c043fb$387025e0$9a4afea9@hfgg>
+References: <00bc01c043fb$387025e0$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 01/11/2000, Mariana ruidosamente gritó:
+
+>> >> Quien es LCB?
+>> M> Yo.
+>> Donde esta la M en LCB?
+M> En ningún lado.
+
+Entonces por que sos LCB y que significa LCB?
+
+-- 
+Groucho Marx
+Consciencia: Voz interior que nos advierte que alguien nos está mirando.
+
+
+

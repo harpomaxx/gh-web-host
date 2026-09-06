@@ -1,0 +1,40 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 5660 invoked from network); 21 Aug 2003 05:38:11 -0000
+Received: from unknown (66.218.66.217)
+  by m7.grp.scd.yahoo.com with QMQP; 21 Aug 2003 05:38:11 -0000
+Received: from unknown (HELO vita.com.ar) (200.80.39.12)
+  by mta2.grp.scd.yahoo.com with SMTP; 21 Aug 2003 05:38:09 -0000
+Received: (qmail 16135 invoked by uid 64014); 21 Aug 2003 02:50:50 -0000
+Received: from rodralez@... by wega by uid 1004 with qmail-scanner-1.16 
+ (avp: 4.0.0.1. spamassassin: 2.20.  Clear:SA:0(-4.4/5.0 tests=IN_REP_TO version=2.20):. 
+ Processed in 1.262766 secs); 21 Aug 2003 02:50:50 -0000
+Received: from unknown (HELO SERVIDOR) (rodralez@...@200.41.21.141)
+  by ns1.vita.com.ar with SMTP; 21 Aug 2003 02:50:48 -0000
+Date: Wed, 20 Aug 2003 23:50:55 -0300
+X-Mailer: The Bat! (v1.62r)
+X-Priority: 3 (Normal)
+Message-ID: <1944227175.20030820235055@...>
+To: A Secas <mendonet-l@...>
+Subject: Silver M.
+In-Reply-To: <Law10-F87Cpz8S4vlIH00027138@...>
+References: <Law10-F87Cpz8S4vlIH00027138@...>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, hits=-4.4 required=5.0 tests=IN_REP_TO version=2.20
+X-Spam-Level: 
+From: rodralez <rodralez@...>
+Reply-To: rodralez forknet <rodralez@...>
+X-Yahoo-Group-Post: member; u=152320388
+X-Yahoo-Profile: rodralez
+
+A decía:
+
+Fuiste a ver a Silver Manyacasi ? Qué onda ?
+
+rodralez                      
+
+

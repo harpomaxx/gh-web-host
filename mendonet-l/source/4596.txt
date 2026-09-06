@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 29 Sep 2001 03:40:33 -0000
+Received: (qmail 41107 invoked from network); 29 Sep 2001 03:40:33 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.222 with QMQP; 29 Sep 2001 03:40:33 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta1 with SMTP; 29 Sep 2001 03:40:32 -0000
+Received: from gateway.micasa.org.ar (200-41-31-81-rdunysd1.impsat.net.ar [200.41.31.81])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id AAA15261
+	for <mendonet-l@...>; Sat, 29 Sep 2001 00:45:59 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15n2Uy-0000Fm-00
+	for <mendonet-l@...>; Fri, 28 Sep 2001 15:36:32 -0300
+Date: Fri, 28 Sep 2001 15:36:55 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <4650.010928@...>
+To: Morganti Federico <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbN106IL9FbCBpc2xhbSBoaXpvIGp1c3RpY2lhPw==?=
+In-reply-To: <OE47Dt07FGVtOkncXlr000048a3@...>
+References: <OE47Dt07FGVtOkncXlr000048a3@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Morganti,
+
+MF> lamento comunicarte gallego que el padre de la noelia, ayer me
+MF> mostro una nota en donde en resumidas cuentas decia que nuestra
+MF> facultad todavia no estaba habilitada. Es mas el padre de la
+MF> noelia se acerco a donde estabamos estudiando, diciendo: "mira
+MF> como les mienten"
+
+Quien es esa putita de Noelia?
+
+-- 
+ Groucho
+
+
+

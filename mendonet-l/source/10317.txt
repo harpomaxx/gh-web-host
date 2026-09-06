@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 13193 invoked from network); 9 Jun 2000 11:48:10 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 9 Jun 2000 11:48:10 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 9 Jun 2000 11:48:09 -0000
+Received: from ANTRO ([200.41.31.105]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id IAA14727 for <mendonet-l@egroups.com>; Fri, 9 Jun 2000 08:48:49 +0300 (GMT)
+Date: Wed, 7 Jun 2000 23:38:32 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <10985.000607@...>
+To: Trancos <mendonet-l@egroups.com>
+Subject: Re[2]: Curiosidad (Lupus)
+In-reply-To: <3945A508.A94C1781@...>
+References: <3945A508.A94C1781@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 13/06/2000, Trancos angustiado explicó:
+
+T> mmm...    yo y mi hermano nos enteramos recien hace unos meses
+T> que los cuadros no quedan bien con las rayas...
+T> Creo que simplemente no tenemos buen gusto...
+
+No hagas caso!!!!
+Los cuadros son un tipo particular de rayas.
+Las rayas quedan bien con las rayas, (puedo demostrar esto
+a traves de un teorema para los que osen contradecirme)  asi que
+los cuadros han de quedar bien con las rayas.
+
+
+
+
+-- 
+Groucho Marx
+Es el trabajo del futuro el ser peligroso.
+
+
+

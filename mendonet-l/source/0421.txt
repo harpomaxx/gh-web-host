@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_5); 27 Mar 2003 14:47:14 -0000
+Received: (qmail 69963 invoked from network); 27 Mar 2003 14:47:14 -0000
+Received: from unknown (66.218.66.217)
+  by m7.grp.scd.yahoo.com with QMQP; 27 Mar 2003 14:47:14 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta2.grp.scd.yahoo.com with SMTP; 27 Mar 2003 14:47:13 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18yYv3-0000Lx-00
+	for <mendonet-l@...>; Thu, 27 Mar 2003 12:03:53 -0300
+Message-ID: <3E830ED6.9010708@...>
+Date: Thu, 27 Mar 2003 11:46:46 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: RUIDO
+References: <F76udU5N3FwtFR3wNgP00052345@...>
+In-Reply-To: <F76udU5N3FwtFR3wNgP00052345@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+A Secas wrote:
+> A ver Groucho, si esta en linea; tanto asi como yo de atrevido.
+> enuncie sin repetir y sin masticar:
+> RUIDO; concepto, causas y efectos
+
+ruido: lo que no es señal. En otras palabras: todo lo que no me 
+interesa, lo que me distrae, y que esta mezclado con lo que me interesa, 
+  es ruido.
+
+
+> y finalmente ejemplifique en oraciones cortas
+
+
+"Esta lista es casi completamente ruido." vale como ejemplo de oracion 
+corta?
+
+-- 
+Groucho
+
+

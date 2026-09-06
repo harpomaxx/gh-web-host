@@ -1,0 +1,68 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_4); 28 Sep 2002 03:27:15 -0000
+Received: (qmail 18182 invoked from network); 28 Sep 2002 03:27:15 -0000
+Received: from unknown (66.218.66.218)
+  by m3.grp.scd.yahoo.com with QMQP; 28 Sep 2002 03:27:15 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 28 Sep 2002 03:27:15 -0000
+Received: (qmail 16537 invoked by uid 417); 28 Sep 2002 03:27:14 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 28 Sep 2002 03:27:14 -0000
+Received: from a200042124148.rev.prima.com.ar ([200.42.124.148])
+  by softhome.net with esmtp; Fri, 27 Sep 2002 21:27:07 -0600
+Date: Fri, 27 Sep 2002 23:30:04 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <15979.020927@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbNF06IERlc2Fmae10byBkZSBm7XNpY2Eu?=
+In-reply-To: <00e601c2662c$4acc6aa0$060aa8c0@...>
+References: <00e601c2662c$4acc6aa0$060aa8c0@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+GM> Otra forma de plantear la respuesta 1 es haciendo referencia al principio
+GM> de conservacion del momento angular. Es decir: que la orbita de la luna
+GM> sea estable no es una coincidencia.
+Es que si no fuera estable habría colisionado con la tierra, o ya se
+habría alejado, por lo que no puede ser casual, sino causal.
+
+>> Si hacés el cálculo, verás que la luna debería caer a una aceleración
+>> de algo así como 0.125(o 0.0125, no me acuerdo) m/s2.
+GM> Tuviste en cuenta la masa de la luna, o solo la de la tierra?
+GM> De todas formas, esa fuerza pruduce una aceleracion que produce una
+GM> velocidar radial (de caida) la cual se compone con la velocidad tangencial
+GM> de la luna y se comforma la orbita eliptica.
+GM> Esa seria la respuesta 2.
+Eso mismo digo.
+
+GM> Que es la que experimenta tu ropa en el lavarropas durante el ciclo de
+GM> centrifugado. Vos decis que la fuerza centrifuga no existe.
+GM> Explica entonces por que la ropa pierde agua al centrifugarla en el
+GM> lavarropas.
+Porque la aceleración centrípeta(desencadenada por la fuerza que
+impide que la ropa siga su curso a través del tambor) no puede actuar
+sobre el agua, que sí puede salir del tambor que tiene agujeritos
+suficientemente grandes para el agua, pero insuficientemente grandes
+para la ropa. O sea, la aceleración centrípeta es suficiente para
+cambiar la dirección de la velocidad tangencial de la ropa, pero no
+del agua, simplemente porque sobre el agua no está actuando la fuerza
+que sí actúa sobre la ropa, la de las paredes del tambor. El agua y la
+ropa son aceleradas tangencialmente, a la circunferencia y su
+dirección cambia a cada momento, eso no es centrífugo, centrífugo
+sería si fueran aceleradas paralelamente al radio.
+
+
+-- 
+Sebas   
+La televisión ha hecho maravillas por mi cultura. Cada vez que alguien la enciende, voy a la biblioteca y leo un buen libro. G M                       
+
+
+

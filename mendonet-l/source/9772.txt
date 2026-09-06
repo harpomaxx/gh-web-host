@@ -1,0 +1,74 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 28152 invoked from network); 7 Jul 2000 03:08:34 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 7 Jul 2000 03:08:34 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 7 Jul 2000 03:08:33 -0000
+Received: from pentium.localdomain (rdumend2-200.41.21.4 [200.41.21.4] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id AAA17626 for <mendonet-l@egroups.com>; Fri, 7 Jul 2000 00:11:14 +0300 (GMT)
+Received: from supernet.com.ar (pentium [192.168.1.200] (may be forged)) by pentium.localdomain (8.9.3/8.9.3) with ESMTP id AAA05150 for <mendonet-l@egroups.com>; Fri, 7 Jul 2000 00:11:43 -0300
+Sender: federico@...
+Message-ID: <39654A6E.2EDE2A2B@...>
+Date: Fri, 07 Jul 2000 00:11:42 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.12 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: DIOS ayude a Lupus... y a nosotros
+References: <4797.000623@...> <1957.000624@...> <002a01bfdfde$e6e711a0$0100007f@pc233> <3961A3BE.313B4FCA@...> <3964A428.12694640@...> <000401bfe7b3$e502ee40$a17c2ac8@tepes>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+Sebas wrote:
+
+> > > Tuve un Deja Vu... La Matrix está cambiando
+> > Mm esto me hace acordar a una teoria que escuche, sobre esa sensacion
+> > de "caramba que raro, estoy seguro de que este momento ya lo vivi antes"
+> > la teoria decia algo asi, que en realidad hay unos microsegundos de
+> > diferencia entre digamos nuestra conciencia y el inconciente. supongamos
+> que la parte
+> > inconciente esta un poco atrasada. pero hay algunos momentos en que eso
+> > cambia ??��?? entonces la parte conciente piensa que ya ha vivido ese
+> > momento.
+> > porque en realidad el inconciente ya lo ha vivido, unos microsegundos
+> > antes....
+> Odio intervenir como estudiante de medicina, porque odio a todos los
+> estudiantes de medicina que no son yo(excepto un par de amigos). De hecho
+> simpre les digo que son unos pesados con la medicina, pero en este cso
+> espero entiendan que aporto porque el tema me llama y no por pesado. El
+> déjà-vu sería(es la teoría más aceptada) por isquemias transitorias(o
+> "asfixia por falta de sangre") del lóbulo temporal de la corteza cerebral.
+
+ok, pero yo no me referia al déjà-vu
+
+
+> Y
+> según la doctrina psicoanalítica, el inconciente no puede adelantarse a la
+> conciencia porque es una concecuencia de la "metabolización" de la realidad.
+>
+
+con la explicacion "concecuencia de la "metabolización" de la realidad."
+queres decir, que no se puede adelantar porque la realidad de una persona
+pasa primero por el conciente, pera luego formar parte del inconciente....
+
+y donde dice que eso no puede alterarse?
+
+Por suerte soy estudiante de ingenieria y por lo tanto esa no es una
+explicacion
+suficiente para mi.
+
+
+--
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+"Contrary to popular opinion, Linux is user friendly,
+
+It just happens to be very selective about who makes friends with."
+
+
+
+

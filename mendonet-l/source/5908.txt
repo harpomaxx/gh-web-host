@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_2_0); 8 Aug 2001 07:11:59 -0000
+Received: (qmail 65720 invoked from network); 8 Aug 2001 07:11:59 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 8 Aug 2001 07:11:59 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.77) by mta1 with SMTP; 8 Aug 2001 07:11:57 -0000
+Received: (qmail 5619 invoked by uid 1005); 7 Aug 2001 20:50:33 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.320591 secs); 07/08/2001 17:50:32
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3) by torton.micasa with SMTP; 7 Aug 2001 20:50:30 -0000
+Date: Tue, 7 Aug 2001 17:52:05 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain; charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <16743705.20010806213945@...> <004401c11edc$2ac24e20$6301a8c0@g8>
+In-Reply-To: <004401c11edc$2ac24e20$6301a8c0@g8>
+Subject: Re: linux, hombres y pornografia
+MIME-Version: 1.0
+Message-Id: <01080717520502.00360@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 06 Ago 2001 21:59, escribiste:
+
+>   >  Conclusion: si quieren pornografia no instalen linux.
+>
+> Sea quien seal ese gurú, definitivamente no te aclaró qué significaba
+> cabalmente la frase:
+> Linux en un sacerdocio
+>
+> Goofer es un prosaico win2k
+
+Bah... Contrariamente a lo que muchos piensan, Linux si es amigable.
+Solo que es muy selectivo con sus amigos.
+
+Por cierto: Linux cumplio 10 años la semana pasada. Que loco no?
+
+-- 
+Groucho Marx
+

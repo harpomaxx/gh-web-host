@@ -1,0 +1,52 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 4 Sep 2001 17:56:40 -0000
+Received: (qmail 96571 invoked from network); 4 Sep 2001 17:38:35 -0000
+Received: from unknown (10.1.10.142)
+  by m8.onelist.org with QMQP; 4 Sep 2001 17:38:35 -0000
+Received: from unknown (HELO softhome.net) (204.144.231.93)
+  by mta3 with SMTP; 4 Sep 2001 17:38:35 -0000
+Received: from a200042125025.rev.prima.com.ar ([200.42.125.25])
+  by softhome.net with esmtp; Tue, 04 Sep 2001 11:37:34 -0600
+Date: Tue, 4 Sep 2001 14:21:08 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Sebas <xebax@...>
+X-Priority: 3 (Normal)
+Message-ID: <5598.010904@...>
+To: Marc <mendonet-l@yahoogroups.com>
+Subject: Re[2]: Me cago en vuestra actitud
+In-reply-To: <5898.010903@...>
+References: <5898.010903@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+
+S>> experto. Que el chupaverga de oxiuro me salga con su versito aprendido
+S>> de "pshe culiaito, ni te digo que compilés el quernel porque sheguro
+S>> que no shab� que �" vaya y pase, me lo espero de semejante mamón, pero
+S>> que vos tengás el mismo discurso me hace una mala imagen del
+S>> linuxerismo todo.
+M> desde mi punto de vista vos y muchos mas no saben nada de  windows
+M> entonces que problema hay en usar linux que tampoco saben nada y es
+M> gratis
+Yo ahora uso windon, y si tengo algún problema, sé como arreglarlo(o
+así ha sido hasta ahora)... si tuviera un problema en linux no sabría
+como arreglarlo, debería aprender linux, y me consumiría tiempo del
+que no dispongo.
+
+M> Para un técnico es lo mismo( si este tiene buenos conocimientos de los sistemas operativos
+M>  que usen sus clintes ) reparar los pedos que el usuario se mande.
+Nunca he contratado un técnico. Lo más cerca que estuve fue pedirle
+algo a conan, y después de recibir su ayuda, prefiero arreglármelas
+solo.
+
+
+-- 
+Sebas   
+¡El Arte es el peor enemigo del arte!... un fetiche ante el que ofician, arrodillados, quienes no son artistas.                       
+
+
+

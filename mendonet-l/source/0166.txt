@@ -1,0 +1,43 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 17395 invoked from network); 21 Aug 2003 04:20:05 -0000
+Received: from unknown (66.218.66.217)
+  by m14.grp.scd.yahoo.com with QMQP; 21 Aug 2003 04:20:05 -0000
+Received: from unknown (HELO vita.com.ar) (200.80.39.12)
+  by mta2.grp.scd.yahoo.com with SMTP; 21 Aug 2003 04:20:02 -0000
+Received: (qmail 15515 invoked by uid 64014); 21 Aug 2003 02:32:58 -0000
+Received: from rodralez@... by wega by uid 1004 with qmail-scanner-1.16 
+ (avp: 4.0.0.1. spamassassin: 2.20.  Clear:SA:0(-4.4/5.0 tests=IN_REP_TO version=2.20):. 
+ Processed in 1.515725 secs); 21 Aug 2003 02:32:58 -0000
+Received: from unknown (HELO SERVIDOR) (rodralez@...@200.41.21.141)
+  by ns1.vita.com.ar with SMTP; 21 Aug 2003 02:32:56 -0000
+Date: Wed, 20 Aug 2003 23:33:02 -0300
+X-Mailer: The Bat! (v1.62r)
+X-Priority: 3 (Normal)
+Message-ID: <6210535587.20030820233302@...>
+To: elbeneficio_deladuda <mendonet-l@...>
+Subject: Re[2]: Atraso norteamericano
+In-Reply-To: <bhula4+37bv@...>
+References: <bhula4+37bv@...>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, hits=-4.4 required=5.0 tests=IN_REP_TO version=2.20
+X-Spam-Level: 
+From: rodralez <rodralez@...>
+Reply-To: rodralez forknet <rodralez@...>
+X-Yahoo-Group-Post: member; u=152320388
+X-Yahoo-Profile: rodralez
+
+elbeneficio_deladuda decía:
+
+e> Estuvimos mirando Bowling For Columbine? Impresionante.
+
+Lo mejor de esa pelicula es que un yanqui dice lo que el resto del
+mundo piensa de ellos.
+
+rodralez
+
+

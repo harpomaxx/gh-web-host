@@ -1,0 +1,69 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_1); 9 Sep 2001 00:55:23 -0000
+Received: (qmail 34145 invoked from network); 9 Sep 2001 00:55:22 -0000
+Received: from unknown (10.1.10.142)
+  by l10.egroups.com with QMQP; 9 Sep 2001 00:55:22 -0000
+Received: from unknown (HELO kastor.andromeda) (200.47.194.103)
+  by mta3 with SMTP; 9 Sep 2001 00:55:20 -0000
+Received: from localhost (localhost [[UNIX: localhost]])
+	by kastor.andromeda (8.11.3/8.11.3) id f88Ibvp02092
+	for mendonet-l@...; Sat, 8 Sep 2001 15:37:57 -0300
+Message-Id: <200109081837.f88Ibvp02092@...>
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Organization: @ndromeda group
+To: mendonet-l@...
+Subject: Re: Dos preguntas
+Date: Sat, 8 Sep 2001 15:37:57 -0300
+X-Mailer: KMail [version 1.3]
+References: <20010904113141.21343.qmail@...> <000001c13724$9a51ffa0$6301a8c0@g8> <01090715095701.00363@cubil>
+In-Reply-To: <01090715095701.00363@cubil>
+X-KASTOR: -LIVE FREE OR DIE-
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+From: kastor troy <root@...>
+
+El Vie 07 Sep 2001 15:09, escribiste:
+> El Mar 04 Sep 2001 15:01, escribist=
+e:
+> > >Y recorda: El arca de Noe fue construida por amateurs... el
+> > >=
+Titanic por profesionales.
+> >
+> > plaplaplaplaplaplaplaplapla!!!!!!!!!!!!!=
+
+> >
+> > Gracias Gracias, algo que guardar y compartir orgulloso...
+>
+> Tod=
+o bullshit. Hacen quedar mal a la profesion ingenieril...
+> Acaso en las es=
+pecificaciones de dise~no del Titanic decia: debe
+> soportar una colision c=
+on un iceberg?
+>
+> Que le hubiera pasado al arca del orto si hubiera chocad=
+o contra un
+> iceberg?
+
+groucho, tranquilizate porque esa arca garcha no ex=
+istio, de haber existido 
+se habria hecho mierda contra algo!!!
+
+-- 
+  kast=
+or troy
+ ____________________________
+  root@...
+  kastor@linuxm=
+endoza.org.ar
+  http://www.kastor.com.ar
+  Linux User #179479
+  ICQ #292429=
+71
+  powered by mdk gnu/linux
+ ____________________________
+

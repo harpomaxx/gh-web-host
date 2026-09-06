@@ -1,0 +1,64 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 19295 invoked from network); 10 Nov 2003 14:24:37 -0000
+Received: from unknown (66.218.66.217)
+  by m7.grp.scd.yahoo.com with QMQP; 10 Nov 2003 14:24:37 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (64.76.47.59)
+  by mta2.grp.scd.yahoo.com with SMTP; 10 Nov 2003 14:24:36 -0000
+Received: (qmail 11480 invoked by uid 404); 10 Nov 2003 14:24:34 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar by uid 401 with qmail-scanner-1.16 
+ (uvscan: v4.1.60/v4302. spamassassin: 2.44.  Clear:. 
+ Processed in 0.736015 secs); 10 Nov 2003 14:24:34 -0000
+Received: from unknown (HELO orion) (192.168.100.113)
+  by 0 with SMTP; 10 Nov 2003 14:24:32 -0000
+Date: Mon, 10 Nov 2003 11:24:31 -0300
+To: mendonet-l@...
+Subject: Re: sobre la expo del lug
+Message-Id: <20031110112431.69b79316.cgimenez@...>
+In-Reply-To: <59141202358.20031106171222@...>
+References: <59141202358.20031106171222@...>
+Organization: XNET Cuyo S.A.
+X-Mailer: Sylpheed version 0.9.6claws (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Cristian Gimenez <cgimenez@...>
+X-Originating-IP: 64.76.47.59
+X-Yahoo-Group-Post: member; u=126661993
+
+On Thu, 6 Nov 2003 17:12:22 -0300
+Mr Ska <gabrielsublime@...> wrot=
+e:
+
+> Y Groucho?? que paso??
+> 
+> Te mande una mail el sabado confirmando e=
+l espacio en el programa del
+> lunes para hacer una nota sobre la Expo.
+> 
+=
+> No te llego??
+> 
+> Bue... hubiese estado bueno hablar un poco sobre softw=
+are libre y
+> propietario.
+> 
+> Lastima :/
+> 
+
+groucho cambio su cta de cor=
+reo porq la de lanet le palmo
+
+-- 
+
+  Cristian Gimenez
+  XNET Cuyo S.A.
+ =
+ Investigacion y Desarollo
+  Rioja 979 - 5500 - Mendoza
+  Tel/Fax: +54-261-=
+4252788 
+
+

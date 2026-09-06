@@ -1,0 +1,86 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_1_0); 12 Oct 2000 01:19:41 -0000
+Received: (qmail 11982 invoked from network); 12 Oct 2000 01:19:41 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 12 Oct 2000 01:19:41 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta3 with SMTP; 12 Oct 2000 01:19:39 -0000
+Received: from 200.41.31.102 ([200.41.31.102]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA10704; Wed, 11 Oct 2000 22:15:35 +0300 (GMT)
+Date: Wed, 11 Oct 2000 22:09:54 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <18923.001011@...>
+Subject: Invitacion - GNU/Linux InstallationFest
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+ATENCION!!! ESTO NO ES UNA DE ESAS CADENAS DE MENSAJES DE MIERDA!!!!
+SI TE INTERESA CONOCER GNU/LINUX, LEELO!
+
+sI TE LLEGO ESTE MENSAJE, ES PORQUE TU DIRECCION DE E-MAIL ESTA EN LA
+LIBRETA DE DIRECCIONES DE GROUCHO, LO CUAL MUY PROBABLEMENTE
+SIGNIFIQUE QUE SEAS AMIGO DE GROUCHO. POR LO TANTO, SI TE MOLESTO
+RECIBIR ESTE MENSAJE, COMO AMIGO TE DIGO: JODETE!!!
+
+PD: Reenvia este e-mail a personas que puedan estar interesadas.
+
+Groucho Marx
+
+
+------------------------------------------------------------------------
+
+El lug-men (Grupo de usuarios de Linux de Mendoza) realizara el
+proximo sabado 14 la primera InstalationFest de GNU/Linux en Mendoza.
+
+Que es una InstalationFest?
+InstalationFest como su nombre lo indica es una FIESTA donde la gente
+lleva su computadora con el objetivo de instalarle GNU/linux, esta
+instalación se hace asistida por la gente del LUG (Linux User Group)
+que estara ahi para guiar, contestar dudas, preguntas y solucionar los
+problemas que puedan surgir.
+La entrada es libre y gratuita.
+
+Objetivos del evento:
+- Ayudar a las personas principiantes a instalar Linux en su maquina.
+- Difundir el uso y conocimiento de este sistema operativo.
+- Compartir experiencias, conocimientos, ideas y dudas referidas a
+  GNU/Linux.
+
+Hacia quienes esta dirigido el evento?
+- Personas que desean instalar Linux en su maquina, pero no se animan
+  a hacerlo solas.
+- Personas que quieren usar Linux, pero no consiguen los CDs
+  instaladores.
+- Cualquier persona interesada en Linux que desea compartir sus
+  experiencias, conocimientos y dudas.
+- Personas curiosas que no saben nada acerca de Linux, o saben poco y
+  quieren conocerlo.
+
+Actividades a realizar
+ 10:00 - Charla sobre GNU/Linux
+ 10:30 - Instalacion guiada
+ 13:30 - Descanso - Comida chatarra, etc
+ 14:30 - Show Room
+
+Fecha:
+Sabado 14 de Octubre de 10:00 a 16:00hs 
+
+Lugar:
+Laboratorio de Informatica de la Facultad de Filosofia y Letras U.N.C. 
+Direccion: Centro Universitario Parque General San Martin 
+
+IMPORTANTE
+Leer los requerimientos para realizar la instalacion guiada de Linux,
+y mas informacion en -> http://www.linuxmendoza.org.ar/fest/fest.html
+
+Preguntas, comentarios? -> info@...
+
+Lug-Men usa GNU/Linux en Mendoza
+http://www.linuxmendoza.org.ar
+
+
+

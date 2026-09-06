@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 1 Sep 2001 07:15:17 -0000
+Received: (qmail 3143 invoked from network); 1 Sep 2001 07:15:16 -0000
+Received: from unknown (10.1.10.26)
+  by m8.onelist.org with QMQP; 1 Sep 2001 07:15:16 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.4)
+  by mta1 with SMTP; 1 Sep 2001 07:15:14 -0000
+Received: (qmail 953 invoked by uid 1005); 31 Aug 2001 20:49:50 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.402265 secs); 31/08/2001 17:49:49
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 31 Aug 2001 20:49:47 -0000
+Date: Fri, 31 Aug 2001 17:50:34 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <01082816044503.00457@cubil> <5574.010829@...>
+In-Reply-To: <5574.010829@...>
+Subject: Re: Re[8]: =?iso-8859-1?q?=BFBuenas=3F=20y=20etc=2E=2E=2Ede=20uno=20nuevo?=
+MIME-Version: 1.0
+Message-Id: <0108311750340D.00385@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mié 29 Ago 2001 13:47, escribiste:
+
+> GM> Es justo volver ricos a los hijos de un inventor que no hicieron
+> GM> nada, haciendo que una patente dure decadas?
+> ¿Estás reconociendo que no debería existir la herencia?
+
+Para nada! Otra vez con esa idea?
+Ahh ya veo. Vos decis que el fondo del asunto es que los hijos que no 
+hicieron nada no merecen las riquezas de sus padres, independientemente 
+si se deban a la explotracion de un derecho de propiedad intelectual o 
+a otra cosa...
+
+Pues yo decia que los derechos de propiedad no deben durar tanto como 1 
+generacion humana, sino una parte mucho menor. Mi solucion al problema 
+no es elimiar la herencia, sino reducir la duracion de los derechos de 
+propiedad intelectual.
+
+Quien se cree la bruja esa de Kodama para restringir la publicion de 
+las obras de Borges?
+
+-- 
+Groucho Marx
+

@@ -1,0 +1,78 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 4 Nov 2000 17:42:17 -0000
+Received: (qmail 23980 invoked from network); 4 Nov 2000 17:42:17 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 4 Nov 2000 17:42:17 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 4 Nov 2000 17:42:16 -0000
+Received: from antro.micasa ([200.41.31.10]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id OAA22356 for <mendonet-l@egroups.com>; Sat, 4 Nov 2000 14:45:27 +0300 (GMT)
+Date: Sat, 4 Nov 2000 14:28:19 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <16602.001104@...>
+To: Goofer <mendonet-l@egroups.com>
+Subject: Re[10]: Teletrabajo
+In-reply-To: <000c01c045e3$3a40ec80$0201a8c0@terminal1>
+References: <000c01c045e3$3a40ec80$0201a8c0@terminal1>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 03/11/2000, Goofer angustiosamente blasfemó:
+
+G> aha....
+G> emmmmmm
+G> a ver.....
+G> nop, no me sale...
+G> Trato de imaginarme a Van Gogh sin pinceles ni espátulas y no me lo puedo
+G> imaginar pintor....
+G> Qué-le-va-cha-cer...
+G> Como imaginar a Marc sin el cautín y el estaño...
+G> O al groucho sin las famosas tarjetas que nunca me quiso dar o hacer una
+G> copia....
+
+Sos un gay!!! Como que nunca te quise dar?
+Lo que pasa es que nunca quisiste hacertela vos mismo.
+Toda la informacion para construir la tarjeta estuvo siempre a
+disposicion de cualquiera que mereciera mi confianza (como vos).
+
+Si yo aceptaba hacer tarjetas (incluso a cambio de un precio),
+rapidamente me iban a saturar de pedidos, pues no cabe duda que como
+producto, mi tarjeta es sumamente vendible.
+Y no tengo el tiempo para dedicarme a la construccion de tarjetas.
+
+Por otro lado, si se hacian muy conocidas las tarjetas iban a buscarle
+la forma de cagarlas.
+Ya lo hicieron en 2 oportunidades, pero mi diseño sobrevivio a ambas
+crisis mediante cambios minimos en el codigo del programa.
+De hecho, la ultima version de la tarjeta no necesita ser desoldada
+para realizar cambios en el codigo, y se la puede programar con
+contenido arbitrario gracias a una extension en la interfaz no
+presente en el diseño de referencia original.
+
+Pero ahora se viene un cambio tecnologico importante que inutilizara
+cualquier tarjeta en circulacion (incluso las verdaderas): las
+tarjetas dejaran de ser simples memorias PROM para pasar a ser
+microcontroladores con capacidades criptograficas.
+
+
+G> Los Ingenieros son todos unos fraudes ...
+G> Los únicos que pueden ser lo que son sin ningún tipo de herramienta
+G> somos los mimos...
+G> Los mimos rulez...
+
+Pero los mimos son unos inutiles!!!! Se andan tropezando con paredes
+invisibles, y cuando necesitan correr para uir de la policia, corren
+en el lugar sin avanzar ni un centimetro!
+
+:-)
+
+-- 
+Groucho Marx
+Bueno ya está. Yo me largo de aquí -- Cerebro de Homero J. Simpson
+
+
+

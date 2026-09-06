@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_1_0); 14 Oct 2000 11:03:06 -0000
+Received: (qmail 16198 invoked from network); 14 Oct 2000 11:03:06 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 14 Oct 2000 11:03:06 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 14 Oct 2000 11:03:05 -0000
+Received: from 200.41.31.115 ([200.41.31.115]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id IAA11583 for <mendonet-l@egroups.com>; Sat, 14 Oct 2000 08:06:14 +0300 (GMT)
+Date: Fri, 13 Oct 2000 14:05:05 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <11586.001013@...>
+To: "rodralez@..." <mendonet-l@egroups.com>
+Subject: Re: Sufijos en internet
+In-reply-To: <20001013115945.18158.qmail@...>
+References: <20001013115945.18158.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 13/10/2000, rodralez@... dudando escribió:
+
+
+rsn> Vuelve rodro-reuters... lean esta interesante nota sobre los nuevos 
+rsn> sufijos de que habrá en internet. Despues no digan que no les avisaron.
+
+El mundo esta loco... Los nombres de dominio estan siendo confundidos
+con marcas comerciales, cuando en realidad su analogia es con
+direcciones postales.
+
+Es ridiculo que una empresa se preocupe por comprar todas las oficinas
+que dan a una cierta calle... Igual es ridiculo que una empresa se
+esfuerce por registrar todos los nombres posibles que se parezcan a su
+marca comercial.
+
+Donde trabajo yo, tenian negyser.com.ar y hace un mes se volvieron
+locos y empezaron a registrar nys.com.ar nyssa.com.ar nys-sa.com.ar, y
+los mismos nombres bajo los dominios net.ar, com, y net.
+
+FREAKS!!!!
+
+
+
+-- 
+Groucho Marx
+I don't care to belong to a club that accepts people like me as members. -- Groucho Marx
+
+
+

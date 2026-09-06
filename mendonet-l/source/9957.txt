@@ -1,0 +1,44 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 23010 invoked from network); 30 Jun 2000 01:24:43 -0000
+Received: from unknown (10.1.10.27) by m3.onelist.org with QMQP; 30 Jun 2000 01:24:43 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 30 Jun 2000 01:24:42 -0000
+Received: from 200.41.31.118 ([200.41.31.118]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA20653 for <mendonet-l@egroups.com>; Thu, 29 Jun 2000 22:27:30 +0300 (GMT)
+Date: Tue, 27 Jun 2000 20:49:08 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <14867.000627@...>
+To: Trancos <mendonet-l@egroups.com>
+Subject: Re: Virus (harpo & Rodro)
+In-reply-To: <39543DD8.27FDB228@...>
+References: <39543DD8.27FDB228@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 24/06/2000, Trancos furioso detalló:
+
+
+T> Hace poco puse el antivirus a buscar bichitos y encontre el virus
+T> Mellisa ...  ¿saben donde? ... En dos bonitos archivitos llamados
+T> Coolcard.doc o algo similar...    estaba en los dos archivos. Tanto en
+T> el que trajo Rodro como en el que trajo Harpo.
+T> Esperando que no haya sido de mala leche, les aconsejo, rebisen Uds
+T> tambien.
+
+Me preocuparia, ya que ese archivo se origino en mi maquina.
+Pero como uso el mejor antivirus que existe (la desconfianza) te diria
+que no se origino en mis maquinas la infeccion.
+
+Aparte Mellisa es un virus de e-mail hecho el javascipt. No puede
+estar en un archivo de word.
+Falsa deteccion?
+
+-- 
+Groucho Marx
+Viene callado como buscando el envido
+
+
+

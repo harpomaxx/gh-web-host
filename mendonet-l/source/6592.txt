@@ -1,0 +1,43 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-7_0_1_2); 19 Jan 2001 07:17:35 -0000
+Received: (qmail 45294 invoked from network); 19 Jan 2001 07:17:35 -0000
+Received: from unknown (10.1.10.26) by l10.egroups.com with QMQP; 19 Jan 2001 07:17:35 -0000
+Received: from unknown (HELO torton.micasa) (200.41.31.98) by mta1 with SMTP; 19 Jan 2001 07:17:33 -0000
+Received: (qmail 662 invoked from network); 18 Jan 2001 17:49:39 -0000
+Received: from antro.micasa (192.168.0.2) by torton.micasa with SMTP; 18 Jan 2001 17:49:39 -0000
+Date: Thu, 18 Jan 2001 14:49:37 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <11617.010118@...>
+To: mendonet-l@egroups.com, lug-list@...
+Subject: Millicom
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Ya inauguro en Mendoza la empresa Millicom que se dedica a servicio de
+acceso a Internet por microondas.
+
+Pagando con tarjeta, estan cobrando 90+iva de instalacion y 69+iva de
+tarifa mensual.
+Para que funcione, se requiere tener linea visual hasta ese edificio
+que era del banco BUCI (España al 1200).
+Cobran como 20 pesos por cada metro de torre que haya que instalar
+para lograr la visibilidad.
+Me falta averiguar el alcance del enlace.
+
+La oficina esta en la calle A. Villanueva, pero no me acuerdo el
+numero. Son solo 8 cuadras asi que, caminen!!!
+
+
+-- 
+Groucho Marx
+Asustado como perro que oye truenos
+
+
+

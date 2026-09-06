@@ -1,0 +1,54 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 14 May 2002 00:21:56 -0000
+Received: (qmail 597 invoked from network); 14 May 2002 00:21:56 -0000
+Received: from unknown (66.218.66.216)
+  by m9.grp.scd.yahoo.com with QMQP; 14 May 2002 00:21:56 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.114)
+  by mta1.grp.scd.yahoo.com with SMTP; 14 May 2002 00:21:55 -0000
+Received: from kavkeeper by gateway.micasa.org.ar with local (Exim 3.33 #1 (Debian))
+	id 177NPu-0000Xq-00
+	for <mendonet-l@...>; Mon, 13 May 2002 18:31:38 -0300
+Received: from antro.micasa.org.ar ([192.168.0.2] helo=there)
+	by gateway.micasa.org.ar with smtp (Exim 3.33 #1 (Debian))
+	id 177NPt-0000Xf-00
+	for <mendonet-l@...>; Mon, 13 May 2002 18:31:37 -0300
+Content-Type: text/plain;
+  charset="iso-8859-1"
+To: mendonet-l@...
+Subject: Re: Re[2]:
+Date: Mon, 13 May 2002 21:24:02 -0300
+X-Mailer: KMail [version 1.3.2]
+References: <00fd01c1f769$fde5b100$060aa8c0@...> <11451.020511@...>
+In-Reply-To: <11451.020511@...>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Message-Id: <E177NPt-0000Xf-00@...>
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+El Sáb 11 May 2002 10:49, escribiste:
+
+> GM> 1) las cosas esas que decis permitiran definir un "virus
+> biologico" no un GM> "virus" en general, asi que no viene al caso.
+> GM> 2) Insistis ciegamente en definir los terminos de manera
+> demasiado ajustada GM> a detalles de las instancias particulares que
+> conoces de los objetos a los GM> que el termino se refiere, en lugar
+> de basar la definicion en conceptos algo GM> mas abstractos comunes a
+> toda la clase de objetos designados por el termino. GM> Se te pide la
+> definicion de "vehiculo" y das la definicion de tu bicicleta.
+>
+> Empieza a gustarme la nueva prosa grouchesca...
+
+Que tiene de nuevo? Siempre use un lexico muy amplio y construcciones 
+complejas pero lineales.
+
+-- 
+Herr GrouchoX
+
+
+
+

@@ -1,0 +1,36 @@
+From oxiuro@...  Sat Jul 11 23:23:58 2020
+Return-Path: <oxiuro@...>
+Received: (qmail 25212 invoked from network); 26 Aug 2000 02:47:46 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 26 Aug 2000 02:47:46 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 26 Aug 2000 02:47:46 -0000
+Received: (qmail 31652 invoked by uid 417); 26 Aug 2000 02:49:12 -0000
+Received: from mza2ppp-411.uc.infovia.com.ar (HELO softhome.net) (209.13.230.156) by smtpb.softhome.net with SMTP; 26 Aug 2000 02:49:12 -0000
+Message-ID: <39A7108C.F2A9B681@...>
+Date: Fri, 25 Aug 2000 21:34:20 -0300
+X-Mailer: Mozilla 4.03 [es] (Win95; I)
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: INGENIEROS
+References: <967017783.3378@egroups.com>
+Content-Type: multipart/mixed; boundary="------------C26E954383443E225321177A"
+From: Oxiuro <oxiuro@...>
+
+
+--------------C26E954383443E225321177A
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+  Para que vean la vida de un ingeniero y aprendan a tratarlo y soportarlo
+les mando esto.  Leanlo y denme sus opiniones
+
+--
+OXIURO
+
+
+--------------C26E954383443E225321177A
+Content-Type: text/plain; charset=iso-8859-1; name="INGENIEROS.txt"
+Content-Disposition: inline; filename="INGENIEROS.txt"
+
+[ Attachment content not displayed ]
+--------------C26E954383443E225321177A--
+

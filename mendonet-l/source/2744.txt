@@ -1,0 +1,75 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 21 Nov 2001 19:52:24 -0000
+Received: (qmail 17124 invoked from network); 21 Nov 2001 19:52:24 -0000
+Received: from unknown (216.115.97.167)
+  by m10.grp.snv.yahoo.com with QMQP; 21 Nov 2001 19:52:24 -0000
+Received: from unknown (HELO kastor) (200.63.147.29)
+  by mta1.grp.snv.yahoo.com with SMTP; 21 Nov 2001 19:52:23 -0000
+Received: from there (localhost.localdomain [127.0.0.1])
+	by kastor (Postfix) with SMTP id 06A7539F24
+	for <mendonet-l@...>; Wed, 21 Nov 2001 16:49:41 -0300 (ART)
+Content-Type: text/plain;
+  charset="iso-8859-1"
+Organization: @ndromeda group
+Message-Id: <200111211648.33177@X-KASTOR >
+To: mendonet-l@...
+Subject: Re: Pregunta  para =?iso-8859-1?q?algun=20guru?= =?iso-8859-1?q?=20informatico=2E=2E=2E?=
+Date: Wed, 21 Nov 2001 16:49:41 -0300
+X-Mailer: KMail [version 1.3.1]
+References: <3825.011117@...> <12968.011119@...>
+In-Reply-To: <12968.011119@...>
+X-KASTOR-2: NO AL PAGO DE LA DEUDA EXTERNA!!!
+X-KASTOR-1: don't look my headers ass hole!!!
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+From: kastor troy <root@...>
+
+El Lunes 19 Noviembre 2001 23:13, Lupus escribio:
+> Che, acabo de cambiar=
+ el cooler de mi procesador, y :
+>
+> 1) hay una luz como de 0.5 milimetro=
+s entre el disipador de calor y el
+> procesador,  a ambos costados de la zo=
+na de contacto... eso esta bien?
+
+no deberia.....
+
+>
+> 2)  que  tan  im=
+portante  es  la  grasa  siliconada esa que se suponde
+> deberia  haber  =
+puesto  en  la  zona de contacto? alguien tiene que me
+> preste...?  a  los=
+  amantes  del  chiste facil... desde ya pueden irse
+> metiendo  toda  la=
+  grasa  siliconada  que  quieran  en  el  medio del
+> orrrtooo!!... (cualq=
+uier otro chiste facil... abstenerse...)
+>
+>
+>
+> Lupus
+
+la grasa es para ta=
+par esos 0.5 mm y sirve como transmisor de calor al 
+disipador del fan.
+
+--=
+ 
+  kastor troy
+ ___________________________________________
+  root@mircomp=
+.com.ar
+  kastor@...
+  Linux User #179479
+  ICQ #29242971 -=
+ Jabber ID kastor@...
+  powered by mdk vitamin gnu/linux
+  powered by=
+ fobos server
+ _____________________________________________
+

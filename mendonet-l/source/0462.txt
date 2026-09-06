@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_5); 28 Mar 2003 17:26:14 -0000
+Received: (qmail 93377 invoked from network); 28 Mar 2003 17:05:56 -0000
+Received: from unknown (66.218.66.218)
+  by m10.grp.scd.yahoo.com with QMQP; 28 Mar 2003 17:05:56 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 28 Mar 2003 17:05:55 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18yxZ0-0007eu-00
+	for <mendonet-l@...>; Fri, 28 Mar 2003 14:22:46 -0300
+Message-ID: <3E8480DC.5090103@...>
+Date: Fri, 28 Mar 2003 14:05:32 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: RUIDO
+References: <3E844BD5.9010809@...> <1553.030328@...>
+In-Reply-To: <1553.030328@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+>>>LA CIUDAD ES RUIDO
+> 
+> 
+> La ciudad es ruidosa, que no es lo mismo... las ciudades no
+> ruidosas(sin bocinas, colectivos, escapes petiteros) me resultan muy
+> agradables... especialmente si recién termina de llover.
+> 
+> 
+>>>LA PUBLICIDAD ES RUIDO
+> 
+> 
+> Y ni hablar de la publicidad en la ciudad... qué malas son las
+> propagandas de fanta light. Entre que su gaseosa bala es fea, su
+> propaganda es pésima.
+
+Aparte a la turrita que sale, se la manosean de todas las formas 
+posibles. Me da un poco de vergüenza ajena.
+
+-- 
+Groucho
+
+

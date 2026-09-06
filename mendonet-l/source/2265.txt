@@ -1,0 +1,39 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-8_0_1_3); 25 Dec 2001 19:18:12 -0000
+Received: (qmail 17571 invoked from network); 25 Dec 2001 19:18:11 -0000
+Received: from unknown (216.115.97.171)
+  by m9.grp.snv.yahoo.com with QMQP; 25 Dec 2001 19:18:11 -0000
+Received: from unknown (HELO elserver.forknet.org.ar) (200.47.194.62)
+  by mta3.grp.snv.yahoo.com with SMTP; 25 Dec 2001 19:18:00 -0000
+Received: (qmail 5096 invoked by uid 1000); 25 Dec 2001 17:13:05 -0000
+Date: Tue, 25 Dec 2001 14:13:05 -0300
+To: Lista de correo copada <mendonet-l@...>
+Subject: [leandro@...: Mensaje como cualquier otro... pero espero que sea distinto]
+Message-ID: <20011225141305.F3819@...>
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="y0ulUmNC+osPPQO6"
+Content-Disposition: inline
+User-Agent: Mutt/1.3.22i
+X-Operating-System: Linux elserver 2.4.16 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+Reply-To: harpo@...
+X-Yahoo-Group-Post: member; u=3400103
+X-Yahoo-Profile: harpomaxx
+
+
+--y0ulUmNC+osPPQO6
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+[ Attachment content not displayed ]
+--y0ulUmNC+osPPQO6
+Content-Type: message/rfc822
+Content-Disposition: inline
+
+[ Attachment content not displayed ]
+--y0ulUmNC+osPPQO6--
+

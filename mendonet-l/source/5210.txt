@@ -1,0 +1,63 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2_1); 8 Sep 2001 19:10:03 -0000
+Received: (qmail 27513 invoked from network); 8 Sep 2001 19:10:03 -0000
+Received: from unknown (10.1.10.27)
+  by l10.egroups.com with QMQP; 8 Sep 2001 19:10:03 -0000
+Received: from unknown (HELO elserver.micasa) (200.47.194.25)
+  by mta2 with SMTP; 8 Sep 2001 19:10:01 -0000
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id MAA22398
+	for mendonet-l@yahoogroups.com; Sat, 8 Sep 2001 12:39:00 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Sat, 8 Sep 2001 12:39:00 -0300
+To: mendonet-l@...
+Subject: Re: Re[2]: Me cago en vuestra actitud
+Message-ID: <20010908123900.A22387@...>
+Reply-To: harpo@...
+References: <01090316284704.00361@cubil> <0593.010904@...> <01090521330403.00372@cubil>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <01090521330403.00372@cubil>; from groucho@... on Wed, Sep 05, 2001 at 09:33:04PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.19 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+El Wed, Sep 05, 2001 at 09:33:04PM -0300, Groucho Marx dijo:
+> Ok, ingenierizame inversamente esto:
+> 
+> int lcd_read_byte(void)
+> {
+>   int low,high;
+> 
+>   set_tris_d(LCD_READ);
+>   lcd.rw=1; delay_cycles(1);
+>   lcd.enable=1; delay_cycles(1);
+>   high=lcd.data;
+> 
+>   lcd.enable=0; delay_cycles(1);
+>   lcd.enable=1; delay_us(1);
+>   low=lcd.data;
+> 
+>   lcd.enable=0;
+>   set_tris_d(LCD_WRITE);
+>   return((high<<4)|low);
+> }
+
+Para convencer a alguien se necesitan 2 cosas
+
+1- Un persona que convensa mediante argumentaciones validas (groucho)
+2- Otra persona que tenga el quantum minimo y necesario para ser convensido
+(creo que en estas lista no hay nadie, no te gastes!)
+
+A lo que voy... please cortala con esto.. mandar el codigo en C de tu proyecto
+final.. es ya un extremo jua jua
+
+
+-- 
+Harpo+
+

@@ -1,0 +1,83 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 28451 invoked from network); 24 Jun 2000 12:22:55 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 24 Jun 2000 12:22:55 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 24 Jun 2000 12:22:54 -0000
+Received: from 200.41.31.102 ([200.41.31.102]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id JAA03480 for <mendonet-l@egroups.com>; Sat, 24 Jun 2000 09:23:34 +0300 (GMT)
+Date: Wed, 21 Jun 2000 09:11:50 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <1383.000621@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: =?ISO-8859-1?B?UmVbOF06IE1lIGVuYWplbukgKFNlYmFzKQ==?=
+In-reply-To: <3832.000624@...>
+References: <3832.000624@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 24/06/2000, Lupus fuertemente escribió:
+
+S>> Si tenés las materias primas para fabricar todo eso, entonces es cuestión de
+S>> realizar un proceso de sustitución de importaciones y diversificar la
+S>> industria.
+
+LeL> Nop. Con ciertas cosas no es tan fácil.
+
+S>> ¿Porqué si otros lo hacen nosotros no? Quiero explicaciones de
+S>> porqué no se puede. Lo estoy pidiendo en serio, porque para mí esas
+S>> industrias no existen porque en otros lugares se produce más barato.
+
+LeL> No,  no  es  tan  así  el  tema.  La industria del silicio implica una
+LeL> tecnología muy desarrollada, y si no que te cuente Groucho que de esto
+LeL> debe saber más que yo...
+
+LeL> ¿Sabés lo que es un monocristal de silicio?
+
+LeL> Es  un  cristal  de  dimensiones  conciderables  en  el  que  solo  se
+LeL> encuentran  átomos  de  silicio  entrelazados espacialmente y que debe
+LeL> contar  con  cierta  pureza,  no solo enlo que hace a la auscendcia de
+LeL> contaminantes,  lo que ya es todo un problema porque es muuuuy difícil
+LeL> separar al 99.999999 % otros patomos, sino también en lo que hace a su
+LeL> estructura  cristalográfica, no pueden aparecer más de un cierto y muy
+LeL> pequeño  número  de  defectos  enlos  cristales  porque si no el mismo
+LeL> pierde  sus  características  deseables  como semiconductor.
+
+Y no solo la pureza. La red cristalina debe ser totalmente regular
+(monocristal!).
+
+LeL> Bueno, ya
+LeL> tenemos ahí bastante complejidad, ahora agregale a eso lo necesidad de
+LeL> saturar  al cristal con cantidades bien calculadas y con una presición
+LeL> que  no  recuerdo  pero es en extremo elevada (creo que no se permiten
+LeL> diferencias  mayores  a  unos  átomos cada cientos de miles) con otros
+LeL> átomos, los que también deben estar en estado terriblemente puro, para
+LeL> formar  las  capas  P y n de  un trnsistor.
+
+Y que las zonas a contaminar o no estan separadas por unos pocos
+nanometros...
+
+LeL>  Creeme que la industria es
+LeL> realmente compleja, realmente, y recién hemos llegado a un transistor,
+LeL> que  es  solo  la  base  de  toda, y quiero decir: TODA la electrónica
+LeL> moderna.  Para  construir  un integrado es necesario combinar decenas,
+LeL> cientos,  hasta millones de transistores y diodos y otros elementos, y
+LeL> no  es  posible  realizarlo  en  un  volumen  grande  porque se pierde
+LeL> presición,  hay  que literalmente poner un átomo al lado del otro para
+LeL> fabricar  un integrado, diseñar un integrado es también algo complejo.
+LeL> No  el  diseño  de  su  funcionamiento lógico, eso es tanto más, tanto
+LeL> menos  sencillo,  el  diseño  de  su estructura para que cumpla con el
+LeL> funcionamiento  lógico  es  lo  complejo,  y  es  necesario recurrir a
+LeL> técnicas  laser  muy  complejas  para  la  construcción  de ellos. Esa
+LeL> tecnología SOLO la poseen cuatro o cinco países en el mundo, nada más.
+
+
+
+-- 
+Groucho Marx
+Rápido como escupida de músico
+
+
+

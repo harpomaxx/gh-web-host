@@ -1,0 +1,48 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 10 Nov 2000 15:37:51 -0000
+Received: (qmail 46544 invoked from network); 10 Nov 2000 15:35:35 -0000
+Received: from unknown (10.1.10.27) by l7.egroups.com with QMQP; 10 Nov 2000 15:35:35 -0000
+Received: from unknown (HELO postino4.prima.com.ar) (200.42.0.162) by mta2 with SMTP; 10 Nov 2000 15:35:33 -0000
+Received: from tepes (a200042124164.rev.prima.com.ar [200.42.124.164]) by postino4.prima.com.ar (8.9.1a/8.9.1) with SMTP id MAA59452 for <mendonet-l@egroups.com>; Fri, 10 Nov 2000 12:35:27 -0300 (ART)
+Message-ID: <003b01c04b2b$3e14c780$a47c2ac8@tepes>
+To: <mendonet-l@egroups.com>
+References: <000c01c04aac$4f1ced20$0201a8c0@goofer> <11993.001109@...>
+Subject: RE: Re[2]: A todo esto........
+Date: Fri, 10 Nov 2000 12:03:00 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: "Sebas" <xebax@...>
+
+> Desagradable el frame del costado.... Esa barra de scroll que aparece
+> interrumpiendo todo...
+¡Eso es lo que yo quería decir! No manejo los términos técnicos, pero hago
+la misma crítca que groucho y no sé un pomo de estas cuestiones... soy
+bastante bueno.
+
+> Y no me salgas con que el sitio esta hecho para
+> verse a 1024x768, no lo acepto.
+Eso che, no discriminen a los que no sabemos nada.
+
+> Yo usaria server side inclue
+Yo también, versión 4.3 de "incredible machines"(�...?)
+
+>para
+> colocar el menu del costado en la misma pagina
+¿El menú se sirve con el malbec de la casa?
+
+> Ademas, la barra de direccion dejaria de ser inutil si no
+Eh! pará que la barra de dirección es amiga mía, no la tratás así.
+
+> La mierda esa que dice sponsor de todos colores y letras me distrae
+> demasiado. La odio!!!
+Ah sí, eso estaba feíto
+
+

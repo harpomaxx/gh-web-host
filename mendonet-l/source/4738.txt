@@ -1,0 +1,63 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 19 Sep 2001 07:05:29 -0000
+Received: (qmail 38314 invoked from network); 19 Sep 2001 07:05:29 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.221 with QMQP; 19 Sep 2001 07:05:29 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.124)
+  by mta2 with SMTP; 19 Sep 2001 07:05:30 -0000
+Received: (qmail 8783 invoked by uid 1005); 18 Sep 2001 18:02:47 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.191985 secs); 18/09/2001 15:02:46
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 18 Sep 2001 18:02:45 -0000
+Date: Tue, 18 Sep 2001 15:02:43 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <20010912020454.6553.qmail@...> <14479.010912@...> <OE51fgcxNpl6ulb3m8t00007e89@...>
+In-Reply-To: <OE51fgcxNpl6ulb3m8t00007e89@...>
+Subject: Re: Nadie ha ganado
+MIME-Version: 1.0
+Message-Id: <01091815024302.00460@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Jue 13 Sep 2001 23:52, escribiste:
+
+> vos tambien te pusiste como loco al saber lo del atentado, y creo que
+> dijiste que se lo merecian.
+> ah! Fidel Castro repudio el atentado y se mostro solidario con USA, y
+> es él el que vive en Cuba y no vos
+
+Ah si que iba a decir Fidel? Que le parecia bien el atentado?
+Mas alla de que probablemente el tipo crea en su fuero interno que el 
+atentado estuvo mal, el lo condena por otro motivo: mostrarse magnanimo 
+ante sus enemigos, ganarse el beneplacito de los observadores y quedar 
+como un rey ofreciendo los medicos cubanos sabiendo que nunca serian 
+aceptados.
+
+> ah!  las 10000 no fueron asesinadas, era todo una joda de Video
+> Match, hubieras avisado gallego
+
+Dejense de joder con eso. Matar a otros historicamente ha sido una de 
+las ocupaciones predilectas de la humanidad. Quizas el hombre sea 
+intrinsecamente Malo como dice Harpo, o eliminar a los congeneres sea 
+una estrategia favorecida evolutivamente... No se.
+
+Los ejemplos historicos de matanzas en la historia son innumerables, 
+asi que asombrarse por esta matanza en particular me parese una pose 
+grotesca.
+
+Seria mejor que nadie matara a nadie por motivos de odio e 
+intolerancia? Seguramente, pero despierten: no es esa la naturaleza del 
+hombre, asi como tampoco es la naturaleza del hombre poseer una 
+racionalidad absoluta. Cuando condenan este ataque lo hacen desde una 
+postura racional/moral, que es solo un aspecto del comportamiento 
+humano.
+
+-- 
+Groucho Marx
+

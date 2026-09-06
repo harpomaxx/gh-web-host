@@ -1,0 +1,114 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2_1); 6 Sep 2001 07:04:05 -0000
+Received: (qmail 7988 invoked from network); 6 Sep 2001 07:04:04 -0000
+Received: from unknown (10.1.10.26)
+  by l7.egroups.com with QMQP; 6 Sep 2001 07:04:04 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.102)
+  by mta1 with SMTP; 6 Sep 2001 07:03:52 -0000
+Received: (qmail 1282 invoked by uid 1005); 6 Sep 2001 00:33:07 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.440458 secs); 05/09/2001 21:33:06
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 6 Sep 2001 00:33:04 -0000
+Date: Wed, 5 Sep 2001 21:33:04 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <01090316284704.00361@cubil> <0593.010904@...>
+In-Reply-To: <0593.010904@...>
+Subject: Re: Re[2]: Me cago en vuestra actitud
+MIME-Version: 1.0
+Message-Id: <01090521330403.00372@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 04 Sep 2001 14:14, escribiste:
+
+> >> linuxeros que realmente me emputece. ¿porqué carajo todos tenemos
+> >> que ser "entendidos" en computación?
+>
+> GM> Para que los entendidos en computacion no te la pongan...
+> Hasta ahora, nunca me la puso un entendido en computación,
+> básicamente, porque nunca compré nada, nunca llev� mi máquina a
+> arreglar(mis escasos conocimientos me han permitido, hasta el
+> momento, arreglarmelas solo) y antes de seguir un consejo de un
+> "entendido", leo algo o busco segundas opiniones.
+
+Quizas te la han puesto tal sutilmente que ni lo notaste...
+
+
+Veo que sacaste mi mejor ejemplo hasta ahora de por que hay que saber 
+algo de la relacion computadoras-lammers. Me refiero a la historia del 
+Secretario Academico de la UTN y mis materias aprobadas por 
+equivalencia.
+Ningun comentario sobre eso?
+
+
+> GM> Ejemplo: averigua lo que es la estrategia .NET de Microsoft, y
+> GM> tene miedo, tene mucho miedo del futuro negro que eso permite.
+
+> Para averiguarlo no necesito ser un experto. Puedo preguntarte a vos,
+> o buscarlo en internet.
+
+Resumidamente: si M$ tiene todos tus datos, empresas que quieran 
+venderte servicios pueden contratar acceso a esos datos.
+Suena bien, no?
+No tanto: un servicio que te pueden vender es MS-Word. De ahora en mas, 
+en lugar de tener Word instalado y guardar tus archivos en tu maquina, 
+conectate a un servidor de word y accede a tus archivos en el servidor 
+de archivos, todo mediante tu televisor-caja-boba-navegador-de-la-web.
+Queres comprar algo? Ningun problema. El supermercado se conecta a tu 
+MS-Billetera en los servidores de Microsoft y actualiza tu saldo.
+
+Suena comodo, suena simple, pero pone toda la informacion personal al 
+alcance de una empresa que no se ha caracterizado por sus escrupulos en 
+el pasado.
+
+
+
+> >> GM> Trata de descubrir como funciona cualquier programa
+> >> GM> propietario, y cualquier programa libre y contame la
+> >> diferencia
+> >> Puede ser muy interesante, de hecho si me sobrara tiempo tal vez
+> >> lo intentaría, pero tengo muchas cosas importante que hacer.
+>
+> GM> El punto es que no vas a poder -por mas talento que tengas-
+> GM> entender el programa propietario
+> ¿No hay algo que se llama "ingeniería inversa" o algo así?
+
+Ok, ingenierizame inversamente esto:
+
+int lcd_read_byte(void)
+{
+  int low,high;
+
+  set_tris_d(LCD_READ);
+  lcd.rw=1; delay_cycles(1);
+  lcd.enable=1; delay_cycles(1);
+  high=lcd.data;
+
+  lcd.enable=0; delay_cycles(1);
+  lcd.enable=1; delay_us(1);
+  low=lcd.data;
+
+  lcd.enable=0;
+  set_tris_d(LCD_WRITE);
+  return((high<<4)|low);
+}
+
+
+Ahora ingenierizame inversamente esto:
+
+300f 4312 56a2 14e3 2342 0c49 0102 1f03 3fd5 1b34
+34aa 0412 12af 0e1a 1fa3 2b3a 2d00
+
+Ahora pensa que un programa tipico tiene varios miles de tales 
+instrucciones y decime en que casos vale la pena ingenierizar 
+inversamente el codigo fuente y en cuales el codigo objeto.
+
+-- 
+Groucho Marx
+

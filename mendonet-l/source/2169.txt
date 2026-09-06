@@ -1,0 +1,77 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 18 Jan 2002 17:37:14 -0000
+Received: (qmail 94944 invoked from network); 18 Jan 2002 17:37:13 -0000
+Received: from unknown (216.115.97.171)
+  by m10.grp.snv.yahoo.com with QMQP; 18 Jan 2002 17:37:13 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.95)
+  by mta3.grp.snv.yahoo.com with SMTP; 18 Jan 2002 17:37:11 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16RJEd-0003hA-00
+	for <mendonet-l@...>; Thu, 17 Jan 2002 17:34:07 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16RJEa-0003gz-00
+	for <mendonet-l@...>; Thu, 17 Jan 2002 17:34:04 -0300
+Date: Thu, 17 Jan 2002 17:34:04 -0300
+To: mendonet-l@...
+Subject: Re: Solo con el Pueblo de =?iso-8859-1?Q?p?=
+	=?iso-8859-1?Q?ie_se_levanta_la_Nacion=2E=2E=2E?= coma en Mc Donals !.
+Message-ID: <20020117203404.GM9568@...>
+References: <429.020116@...> <5407.020116@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <5407.020116@...>
+User-Agent: Mutt/1.3.24i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Wed, Jan 16, 2002 at 09:46:38AM -0300, Sebas wrote:
+
+> r>>> Eso es lo mejor. El resto es "Revolución que viene en la Cajita
+> r>>> Feliz".
+> 
+> S>> Rodro, en esto no estoy con vos.... estuviste mal, desmovilizador y
+> S>> reaccionario... dejemos al mundo que se engañe y ensañe con las
+> S>> telefónicas, aunque no les hagan nada, no contribuyamos a su imagen de
+> S>> indestructibilidad... ahora, seriamente, a mí también me molestan un
+> S>> poquito las "revoluciones a la disney" pero vos que estás en el tema,
+> S>> y sacándote la camiseta de la empresa que sé que llevás muy adentro...
+> S>> ¿no hay ninguna maniobra de cajita feliz que sirva?
+> S>> Si yo fuera hacker...¿los podría afectar de alguna manera? Porque eso
+> S>> estaría mostrando la falta de patriotismo de la comunidad hacker
+> S>> argentina... o su absoluta incapacidad.
+> 
+> r> El otro día escuché en la Rock&Pop que lo que jode a las centrales es
+> r> que marqués un nro de larga distancia nacional, pero sin marcar el
+> r> último nro, es decir que la central se queda esperando que marqués y a
+> r> vos no te cobran nada.
+> Mmmmhhh.... muy arriesgado... mirá si de casualidad marcás un número
+> de una de esas provincias que tienen menos dígitos en su número
+> telefónicos y te clavaste con una llamadita a, no sé, Formosa...
+
+Imposible. Todos los numeros de telefono de larga distancia tienen igual
+cantidad de digitos: 10 para ser exactos. Si los numeros locales son de 8
+digitos (por ejemplo Buenos Aires), el prefijo de larga distancia es de
+2 (11).
+Si los numeros locales son de 7 digitos (por ejemplo Mendoza), el prefijo
+es de 3 (261). Y si el numero local es de 6 digitos (por ejemplo San Rafael),
+el prefijo es de 4 (2627).
+
+
+> digitaste mal y de repente estás hablando con Buenos Aires o peor aún,
+> El Cairo...
+
+No, porque no serias tan salame de marcar el prefijo de acceso a DDI (00)
+en lugar del prefijo de acceso a DDN (0).
+
+-- 
+Groucho
+
+
+
+

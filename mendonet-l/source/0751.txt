@@ -1,0 +1,38 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_0); 8 Oct 2002 02:30:07 -0000
+Received: (qmail 8238 invoked from network); 8 Oct 2002 02:30:07 -0000
+Received: from unknown (66.218.66.218)
+  by m5.grp.scd.yahoo.com with QMQP; 8 Oct 2002 02:30:07 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 8 Oct 2002 02:30:07 -0000
+Received: (qmail 23658 invoked by uid 417); 8 Oct 2002 02:30:06 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 8 Oct 2002 02:30:06 -0000
+Received: from a200042124125.rev.prima.com.ar ([200.42.124.125])
+  by softhome.net with esmtp; Mon, 07 Oct 2002 20:30:00 -0600
+Date: Mon, 7 Oct 2002 21:54:53 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <3913.021007@...>
+To: Lupus <mendonet-l@...>
+Subject: =?ISO-8859-1?B?v1k/?=
+In-reply-To: <13869.021006@...>
+References: <13869.021006@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+¿Qué tal estuvo el recital?
+
+-- 
+Sebas   
+El matrimonio es la principal causa de divorcio. GM                       
+
+
+

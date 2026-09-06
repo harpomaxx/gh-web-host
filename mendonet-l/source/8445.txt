@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 15187 invoked from network); 2 Sep 2000 04:49:59 -0000
+Received: from unknown (10.1.10.26) by m1.onelist.org with QMQP; 2 Sep 2000 04:49:59 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 2 Sep 2000 04:49:58 -0000
+Received: from ANTRO ([200.41.31.15]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA18727 for <mendonet-l@egroups.com>; Sat, 2 Sep 2000 01:52:37 +0300 (GMT)
+Date: Fri, 1 Sep 2000 16:53:17 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <0703.000901@...>
+To: harpo <mendonet-l@egroups.com>
+Subject: Re[2]: prueba
+In-reply-To: <Pine.LNX.4.04.10008280730160.31950-100000@...>
+References: <Pine.LNX.4.04.10008280730160.31950-100000@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 28/08/2000, harpo ruidosamente deliró:
+
+S>>Estos problemejos no se arreglan reinstalando windows, sólo se arreglan
+S>>formateando el disco rígido y luego aparecen de nuevo. También debo decir
+S>>que tengo desde hace mucho tiempo un virus, algo así como Echo o Eco o algo
+S>>así, pero que a no ser que sea el causante de mis problemas, no hace nada.
+S>>Escucho ofertas.
+
+h> No entiendo la parte del virus... como puede ser que tengas un virus.
+h> Tal vez esto lo diga sin conocer a fondo tu problema, pero acaso no has
+h> tratado de sacarlo con un antivirus tipo F-prot??
+
+h> Lo demas es obiamente tema para Groucho, ya que el es guru de Windog  por la
+h> zona del bajo mendonet.
+
+Vergonzosamente, ahora soy en Experto En Macintosh de N&S.
+Necesito una vida.
+
+-- 
+Groucho Marx
+Intérprete: Alguien que permite que dos personas de diferentes lenguajes se
+entiendan mediante la repetición a cada uno, de aquello que hubiera sido
+conveniente para el intérprete que el otro dijera.
+
+
+

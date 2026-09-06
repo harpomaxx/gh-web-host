@@ -1,0 +1,141 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 30 Jan 2002 16:54:04 -0000
+Received: (qmail 55497 invoked from network); 30 Jan 2002 16:54:02 -0000
+Received: from unknown (216.115.97.171)
+  by m6.grp.snv.yahoo.com with QMQP; 30 Jan 2002 16:54:02 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta3.grp.snv.yahoo.com with SMTP; 30 Jan 2002 16:54:01 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay2.impsat1.com (8.9.3/8.9.3) with SMTP id NAA28373
+	for <mendonet-l@...>; Wed, 30 Jan 2002 13:55:01 -0300 (GMT)
+Message-ID: <00ba01c1a9ae$fcd97d40$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20020125024705.GB6572@...> <9549.020129@...>
+Subject: Re: Re[2]: ouch!
+Date: Wed, 30 Jan 2002 13:55:56 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> GM>  tenes todo para bajar. No se donde, pero tenes todo.
+> GM> Igualmente, yo no buscaria ahi, porque lo que vas a encontrar es el
+> GM> codigo
+> GM> fuente y tendrias que instalar/bajar primero todas las herarmientas y
+> GM> cosas necesarias para compilar, y conocer algunos detalles de como
+> GM> funciona
+> GM> el sistema para compilar el servidor X (y/o su modulo "savage") y que
+> GM> funcione/interactue bien con el resto de las cosas que tenes ya
+> GM> instaladas compiladas vaya a saber uno como por Pepe Distribucion.
+>
+> No suena como una tarea agradable...
+
+Es agradable, pero muy frustrante.
+De hecho esa es la razon por la que empresas como Red Hat, Mandrake y
+organizaciones como Debian contruyen distribuciones precompiladas
+y prearmadas de Linux... Para que no tengas vos que reinventar la
+rueda y hacer eso por vos mismo.
+
+
+> GM> Yo lo que buscaria seria la pagina de la empresa u organizacion
+> GM> (Conectiva puede ser?) que hace tu distribucion y buscaria el mismo
+> GM> paquete donde viene el servidor X y bajaria una version mas reciente.
+>
+> Ok. Eso har�...
+>
+> A  propósito...  si  bajo  una  versión  de  otra  distribución... eso
+> causaría  problemas...? por qué? qué pasó con lo de la modularización?
+
+Puede causar o no problemas.
+Los problemas pueden ser:
+
+1) porque la otra distribucion utiliza un sistema distinto para empaquetar
+el software y justo vos no tenes la herramienta para leer ese formato
+de archivos instalada.
+En general hay 3 formatos usados:
+- tar.gz usado por Slackware, es simplente un achivo comprimido no diferente
+  de un archivo ZIP o RAR.
+- RPM (RedHat Package Manager) es un formato inventado por RedHat y usado
+  por casi todas las distribuciones que ganan dinero.
+- deb (Debian) es un formato usado por Debian y sus derivados. Tecnicamente
+  muy superior y totalmente basado en estandares.
+
+2) porque un trozo de sofware en una distribucion puede venir dentro de
+un paquete, y en otra distribucion dentro de otra. Entonces, si lo que vos
+queres instalar requiere de un utilitario llamado "verga", el paquete
+que estacuando lo que estas instalando puede declarar "necesito que instales
+el paquete genital-tools" que agrupa a verga y otros utilitarios, pero
+resulta que en otra distribucion verga no viene dentro del paquete
+genital-tools sino en un paquete propio llamado "verga".
+Se te complicaria satisfacer las dependencias necesarias para que ante
+todo bien.
+
+3) Los programas se escriben en forma portable, o sea para que anden en
+muchos sistemas distintos ademas de GNU/Linux.
+Por lo tanto, al momento de compilarlo, hay muchas opciones sobre
+funcionalidad que queres incluir o no, o sobre el lugar donde buscar
+archivos y otras herramientas que el programa necesita para funcionar
+(cuya ubicacion no este normalizada o la norma permita alguna
+discrecionalidad).
+Esas decisiones son sin duda diferentes en cada distribucion. Asi por
+ejemplo un mismo programa compilado por RedHat en Estados Unidos no
+incluya funcionalidad relacionada con criptografia (dadas las estupidas
+leyes al respecto de ese pais), pero el mismo paquete compilado por
+Suse en Alemania si incluya las partes criptograficas.
+
+
+> Además,  no  se supone que el núcleo y las cosa más básicas y mecha de
+> linux  deben  ser  completamente  independientes de la distribución...
+
+No es asi como funciona. Las distribuciones son un invento para
+simplificarle la vida a la gente que no quiere o no sabe lo suficente
+como para compilar y mantenerle el rastro a la enorme cantidad de detalles
+discrecionales que cada programa ofrece y que tenes que ajustar para
+que todos los programas se lleven bien con el resto.
+
+No existe nada llamado sistema operativo Linux.
+Cada componente del sistema es hecho por una persona diferente con sus
+propias ideas de como deben hacerse las cosas, sin coordinacion de ningun
+tipo salvo el criterio ingenieril y las normas aplicables.
+Es mas: muchos componentes ni siquiera estan pensados para usarse en
+Linux (son anteriores en varios años) y andan solo porque estan bien
+hechos y son portables.
+
+Hacer que toda esa maraña de software ande junta es bastante complicado
+y dificil, y por suerte las distribuciones se encargan de ello.
+Como te daras cuenta, hay muchas maneras de lograr lo mismo y cada
+distribucion implementa una distinta.
+
+Por lo tanto, efectivamente las cosas son independientes de la distribucion,
+pero solo si estas dispuesto a manosearlas y ajustarlas para que se
+lleven bien con el resto.
+
+> >> Pero no creo
+> >> que  ese  sea  el  problema  porque el mensaje,luego de advertir de la
+> >> ausencia, indica que va a usar la screen "no me acuerdo" que es la que
+> >> yo quería usar... y no funca...
+>
+> GM> Lo del layout se refiere al teclado. Lo de screen se refiere a la
+placa
+> GM> de video.
+>
+> Este... confundí layout con display... jep...
+
+Tendras que darme el mensaje de error exacto.
+Copialo a un archivo redirigiendo la salida estandar de X con el signo >.
+
+(Mas detalles en lug-novatos)
+
+--
+Groucho
+
+

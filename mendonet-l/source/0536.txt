@@ -1,0 +1,53 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 1 Feb 2003 12:46:59 -0000
+Received: (qmail 59208 invoked from network); 1 Feb 2003 12:46:59 -0000
+Received: from unknown (66.218.66.216)
+  by m14.grp.scd.yahoo.com with QMQP; 1 Feb 2003 12:46:59 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.73)
+  by mta1.grp.scd.yahoo.com with SMTP; 1 Feb 2003 12:46:58 -0000
+Received: from kavkeeper by pandora.negyser.com.ar with local (Exim 3.35 #1 (Debian))
+	id 18exDt-0000U8-00
+	for <mendonet-l@...>; Sat, 01 Feb 2003 09:58:17 -0300
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18exDt-0000Tx-00
+	for <mendonet-l@...>; Sat, 01 Feb 2003 09:58:17 -0300
+Message-ID: <3E3BC1BA.9030408@...>
+Date: Sat, 01 Feb 2003 09:46:50 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.0.1) Gecko/20020826
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: =?ISO-8859-1?Q?Durisimo_!=2E=2E?=
+References: <1751446540.20030131130433@...> <16791.030131@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Envelope-To: mendonet-l@...
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas escribió::
+> MS> Por otro lado lo de "esta vieja puta de Bonafini" si lo dije en serio,
+> MS> la muy puta en plena dictadura militar le mandaba cartas a la embajada
+> MS> yanquie agradeciendo todo lo que hacian.
+> Tus opiniones sobre personas no deberían partir de análisis de hechos
+> puntuales... todo el mundo comete errores, el punto es si aquello fue
+> un error o un actuar consecuente con su manera de pensar. No acuerdo
+> con Bonafini en muchísimas cosas, pero si hay algo que no se le puede
+> achacar es que sea proyanqui.
+
+Estamos hablando de la misma vieja loca que cuando ocurrio el ataque de 
+las torres del WTC, dijo haber sentido una inmensa alegria?
+Porque no me parece un comentario muy proyanki...
+
+-- 
+Groucho
+
+
+
+
+
+

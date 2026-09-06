@@ -1,0 +1,58 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 28 Jan 2002 09:16:37 -0000
+Received: (qmail 62555 invoked from network); 28 Jan 2002 09:16:37 -0000
+Received: from unknown (216.115.97.172)
+  by m5.grp.snv.yahoo.com with QMQP; 28 Jan 2002 09:16:37 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.57)
+  by mta2.grp.snv.yahoo.com with SMTP; 28 Jan 2002 09:16:36 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16UxA5-0000Dh-00
+	for <mendonet-l@...>; Sun, 27 Jan 2002 18:48:29 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 16UxA4-0000DW-00
+	for <mendonet-l@...>; Sun, 27 Jan 2002 18:48:28 -0300
+Date: Sun, 27 Jan 2002 18:48:28 -0300
+To: mendonet-l@...
+Subject: Re: hablando de bancos...
+Message-ID: <20020127214828.GD755@...>
+References: <20020125052714.GG7515@...> <19552.020127@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <19552.020127@...>
+User-Agent: Mutt/1.3.24i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+On Sun, Jan 27, 2002 at 01:15:28PM -0300, Marc wrote:
+
+> >> Sabían  que  hay algunos bancos internacionales que dicen abiertamente
+> >> que ellos SI tienen los dolares para devolver a ahorristas, que QUIREN
+> >> devolver  los  depósitos, por una cuestión de imágen corporativa y que
+> >> han  PEDIDO PERMISO para hacerlo... pero el BCRA lo ha NEGADO... (para
+> >> cubrir a los otros bancos que están trensados con ellos...)
+> 
+> GM> Es una maniobra para sacar de la competencia a bancos rivales de origen
+> GM> argentino que realmente no tienen la guita para devolverla, por ejemplo
+> GM> el Banco Nacion.
+> 
+> 
+> el estado si tiene la guita para devolver, sino  como es que el banco
+> central sale a vender dolares cuando se les da la gana.
+
+Las reservas son de 18000 millones. Antes servian para dar respaldo al
+peso, ahora no alcanzan y por eso tuvieron que devaluar.
+Ahora las usan para manipular el precio del dolar y evitar que suba
+demasiado pronto demasiado alto.
+
+-- 
+Groucho
+
+
+
+

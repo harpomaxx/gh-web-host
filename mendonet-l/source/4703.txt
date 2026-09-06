@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 21 Sep 2001 07:05:20 -0000
+Received: (qmail 63067 invoked from network); 21 Sep 2001 07:05:20 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.223 with QMQP; 21 Sep 2001 07:05:20 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.61)
+  by mta1 with SMTP; 21 Sep 2001 07:05:28 -0000
+Received: (qmail 20626 invoked by uid 1005); 20 Sep 2001 18:55:24 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.189914 secs); 20/09/2001 15:55:23
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 20 Sep 2001 18:55:22 -0000
+Date: Thu, 20 Sep 2001 15:55:21 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <1186050183.20010915000539@...> <01091815245605.00460@cubil> <72398439.20010920090801@...>
+In-Reply-To: <72398439.20010920090801@...>
+Subject: Re: Re[2]: =?iso-8859-1?q?=BFEl=20islam=20hizo=20justicia=3F?=
+MIME-Version: 1.0
+Message-Id: <01092015552103.00445@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Jue 20 Sep 2001 09:08, escribiste:
+
+
+> GM> No, solo necesitaba una pequeña pista para que mi comprension
+> GM> intuitiva de estabilidad de materiales me permitiera
+> ententenderlo. Sin ganas de ofender ni mucho menos, la estabilidad es
+> de las estructuras, la resistencia, ductilidad, etc. es de los
+> materiales. A no ser que hables de un material inestable como por
+> ejemplo un material radioactivo.
+
+Las palabras pueden tener muchos significados, en muchos contextos.
+Estabilidad estructural puede significar algo totalmente distinto: en 
+epistemologia puede querer decir que un cuerpo teorico no ha cambiado 
+en mucho tiempo.
+
+Si digo estabilidad de materiales estructurados, o digo estabilidad de 
+estructuras materiales estoy diciendo lo mismo?
+
+Iba a decir solo "Estabilidad:"pues creo que asi se llama la materia en 
+la facultad. Sabias que hasta 1985 se enseñaba Estabilidad en 
+Electronica.
+
+-- 
+Groucho Marx
+

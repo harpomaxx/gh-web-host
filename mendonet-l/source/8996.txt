@@ -1,0 +1,32 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 27524 invoked from network); 9 Aug 2000 22:33:49 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 9 Aug 2000 22:33:49 -0000
+Received: from unknown (HELO dir-biblio-2.unsl.edu.ar) (170.210.174.162) by mta1 with SMTP; 9 Aug 2000 22:33:45 -0000
+Received: (qmail 15389 invoked by uid 722); 9 Aug 2000 22:33:32 -0000
+Date: 9 Aug 2000 22:33:32 -0000
+Message-ID: <20000809223332.15387.qmail@...>
+To: mendonet-l@egroups.com
+Subject: la vaca atada
+From: fcanizo@...
+
+El 04/08/00, Mariana le blasfemó agresivamente a mendonet-l@egroups.com:
+
+M>El problema es que el programa es medio
+M>porongón y tiene un montón de falencias. Una de ellas es que solo te
+M>permite copiar archivos de las unidades A y B, y por eso estamos
+M>limitados al asunto de la copia en diskette de una máquina a otra. Ahora
+M>iban a ver si lo podían reformar, para que el programa pudiera procesar
+M>desde cualquier unidad, y eso si que sería realmente copado, porque me
+M>ahorraría el trámite de los disquitos.
+M>Pero... hay que esperar.
+
+Y si no es open source o GNU estan cagados por los
+pterodáctilos pues: VAN A TENER QUE ESPERAR!!! Jua Jua!
+
+---
+Todo el mundo quiere llegar a viejo, pero nadie quiere serlo.
+
+	Martin Held
+
+

@@ -1,0 +1,81 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 21243 invoked from network); 15 May 2000 19:27:38 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 15 May 2000 19:27:38 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta3 with SMTP; 15 May 2000 19:27:36 -0000
+Received: from ANTRO ([200.41.31.109]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id QAA22410 for <mendonet-l@egroups.com>; Mon, 15 May 2000 16:26:29 +0300 (GMT)
+Date: Sat, 13 May 2000 21:43:03 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <9904.000513@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Re[2]: respuestas varias
+In-reply-To: <391A83DD.31557B15@...>
+References: <391A83DD.31557B15@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 11/05/2000, Mariana histéricamente deliró:
+
+>> > > Señor PIPI. Nunca Suma Siempre Resta
+ 
+>> M> ¿Qué era esto???...Tengo un vago recuerdo...la escuela primaria, 
+>> M> clase de aritmética y mi señorita explicándolo, pero...��Qu� era 
+>> M> esto??
+ 
+>> Sexto caso de factoreo... un clásico...
+
+M> Ehhh...
+
+M> Gracias por la buena voluntad de responderme, pero no me aclaraste nada.
+M> ¿Por qué?...Bueno, porque desde que abandoné hace 6 años el MZ, mi mente
+M> ha borrado todo lo referido a números, cuentas y otras yerbas (bah, no
+M> todas las yerbas).
+M> En si...decirme simplemente "sexto caso de factoreo" fue lo mismo 
+M> que "@$%*E^%!@$<?+("
+
+M> PIPI...¿No tenía un versito?
+
+Se escribe asi: (ver con tipografia de espaciado fijo)
+
+       SR
+      /  \
+     /\  /\
+     P I P I
+     | | | |
+     N + S -
+
+"Señor Pipi: Nunca suma, siempre resta"
+
+El sexto caso de factoreo es suma o resta de terminos de igual
+exponente. Algo asi:
+
+(a^n+b^n) o (a^n-b^n)
+
+La regla mnemotecnica (Sr. Pipi...) establece las condiciones bajo
+las cuales es posible factorear:
+
+S=Suma
+R=Resta
+P=Par
+I=Impar
+
+Por ejemplo: (a^3-b^3) corresponde a resta (la R de SR) y exponente
+impar (la ultima I de PIPI. El factoreo es posible sacando un factor
+que sea la diferencia de las bases ("RESTA" en "nunca suma siempre
+resta").
+
+Por lo tanto:
+(a^3-b^3)=(a-b)*(a^2+ab+b^2)
+   ^   ^    ^
+   impar  resta
+
+-- 
+Groucho Marx
+Ice Water? Get some Onions - that'll make your eyes water! -- Groucho Marx
+
+
+

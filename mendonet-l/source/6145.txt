@@ -1,0 +1,49 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_2); 11 May 2001 09:53:35 -0000
+Received: (qmail 49907 invoked from network); 11 May 2001 07:00:38 -0000
+Received: from unknown (10.1.10.26) by l8.egroups.com with QMQP; 11 May 2001 07:00:38 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.41) by mta1 with SMTP; 11 May 2001 07:00:36 -0000
+Received: (qmail 698 invoked by uid 1005); 10 May 2001 12:30:18 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.172814 secs); 10/05/2001 09:30:17
+Received: from antro.micasa (192.168.0.2) by torton.micasa with SMTP; 10 May 2001 12:30:16 -0000
+Date: Thu, 10 May 2001 09:30:15 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <18396.010510@...>
+To: goofer <mendonet-l@yahoogroups.com>
+Subject: Re[4]: Muriandre de verdad !.
+In-reply-To: <000001bec449$92a9a280$6301a8c0@g8>
+References: <000001bec449$92a9a280$6301a8c0@g8>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 30/04/2001, goofer angustiado dijo:
+
+>>   o tal ves Anibal el perro de Groucho es un gran animal
+
+g> eeeee.......
+
+>>   o tal ves Anibal el perro......
+>>   Groucho es un gran animal
+>>   Groucho es un animal
+>>   Groucho gran animal
+>>   Groucho es un gran.........
+
+g> eeeeeee........
+
+g> Esta chica ofrece muchos flancos posibles en su amor, groucho...
+
+La pobre no conoce las comas.
+
+
+-- 
+Groucho Marx
+Los viejos programadores nunca mueren. Sólo saltan a una nueva dirección.
+
+
+

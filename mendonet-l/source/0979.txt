@@ -1,0 +1,45 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_0_1); 25 Aug 2002 03:50:06 -0000
+Received: (qmail 43237 invoked from network); 25 Aug 2002 03:50:06 -0000
+Received: from unknown (66.218.66.217)
+  by m13.grp.scd.yahoo.com with QMQP; 25 Aug 2002 03:50:06 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 25 Aug 2002 03:50:05 -0000
+Received: (qmail 11444 invoked by uid 417); 25 Aug 2002 03:50:05 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 25 Aug 2002 03:50:05 -0000
+Received: from a200042124237.rev.prima.com.ar ([200.42.124.237])
+  by softhome.net with esmtp; Sat, 24 Aug 2002 21:50:02 -0600
+Date: Sun, 25 Aug 2002 00:49:31 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <1934.020825@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: URGENTE!!!!
+In-reply-To: <E17IY34-0003nf-00@...>
+References: <E17IY34-0003nf-00@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+¿Cómo carajo hago para que las ecuaciones que inserto en un archivo de
+word(que después puedo transformar o no en uno html) con el editor de
+ecuaciones, queden dentro de ese archivo y no como archivos de imagen?
+O sea, si quiero mandar el archivo .doc o .html, para que aparezcan
+las ecuaciones tengo que mandar los archivitos de imagen y quiero
+mandar un solo archivo....
+AYUUDA!!!!!!!!!!!!
+
+
+-- 
+Sebas   
+"...sus sueños están tan alejados de los nuestros que difícilmente lleguen a estorbarnos algún día...".                       
+
+
+

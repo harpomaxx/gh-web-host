@@ -1,0 +1,95 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 28 Sep 2001 23:45:16 -0000
+Received: (qmail 43899 invoked from network); 28 Sep 2001 23:45:16 -0000
+Received: from unknown (10.1.10.26)
+  by 10.1.1.220 with QMQP; 28 Sep 2001 23:45:16 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.16)
+  by mta1 with SMTP; 28 Sep 2001 23:46:48 -0000
+Received: from gateway.micasa.org.ar (200-41-31-122-rdunysd1.impsat.net.ar [200.41.31.122])
+	by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id UAA08923
+	for <mendonet-l@...>; Fri, 28 Sep 2001 20:48:05 -0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15n3NB-0000GK-00
+	for <mendonet-l@...>; Fri, 28 Sep 2001 16:32:33 -0300
+Date: Fri, 28 Sep 2001 16:32:56 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <12689.010928@...>
+To: Sebas <mendonet-l@...>
+Subject: Re[5]: "Naturaleza del hombre" my ass !
+In-reply-To: <6945.010927@...>
+References: <6945.010927@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Sebas,
+
+Thursday, September 27, 2001, 10:41:15 PM, you wrote:
+
+GM>> En todo caso trata de explicar por que lo que hace el hombre
+GM>> tiene que tener su propia palabra y concepto especial
+GM>> ("artificial"). Recorda que las palabras ayudan a modelar el
+GM>> pensamiento, y si vos usas una palabra especial para designar
+GM>> algo, muy probablemente estes inclinado a pensar que lo designado
+GM>> por esa palabra realmente sea diferente y especial.
+
+S> Artificial implica una transformación por acción del hombre. Sigue
+S> siendo natural, y es una cualidad agregada, o sea, tenemos cosas
+S> naturales vírgenes, y cosas naturales artificiales.
+
+"Cosas naturales artificiales"? Lo decis en serio? Supongamos que si.
+Que significa para vos "sistema de numeracion binario natural"?
+Seria una cosa "artificial natural"?
+Y un artificio matematico? Acaso hay algo natural en la matematica?
+
+
+Para vos la palabra artificial implica una transformacion,
+un desplazamiento del estado de una cosa desde su estado natural
+(virgen). Me das la razon cuando digo que artificial es lo que se
+aparta de lo natural, sin que natural se restringa solo a la
+Naturaleza.
+Lo llamativo ese que ese desplazamiento solo merezca a tu juicio un
+nombre especial cuando lo realiza una persona.
+Entiendo la conveniencia de tal nombre especial, dada la mayor
+importancia de las acciones de las personas que las acciones de otros
+seres vivos, en nuestra vida.
+
+Pero no has aclarado lo que mas me interesaba. Las acciones de las
+personas son esencialmente distintas de las acciones de otros seres
+vivos?
+
+Ya quedo aclarada la necesidad y conveniencia de la palabra
+artificial. Ahora que uses una palabra especial por conveniencia, hace
+especial realmente a esas acciones?
+Que diferencia hay entre la represa de un castor y la de una persona?
+
+
+GM>> Pero en la esencia de esos valores y de las leyes que resultan de su
+GM>> codificacion se encuentra la suposicion tacita de que el hombre es un
+GM>> ser muy altamente racional, lo que considero falso y absurdo a la luz
+GM>> de mis limitadisimos conocimientos de psicologia.
+S> Definitivamente, es el más racional de los animales, lo que no quiere
+S> decir necesariamente que sea muy racional.
+
+S> Sobre el resto no tenía nada que decir, lo que no implica que esté de
+S> acuerdo o no.
+
+Me temo que si: tu silencio si implica que estes de acuerdo o no,
+puesto que no tenes mas alternativa que estar de acuerdo o no estar de
+acuerdo.
+
+q->(p | -p) es siempre verdadero
+O acaso vos querias decir (q->p) | (q->-p)?
+
+-- 
+ Groucho
+
+
+

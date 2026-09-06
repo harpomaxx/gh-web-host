@@ -1,0 +1,67 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 16 May 2002 21:41:30 -0000
+Received: (qmail 28777 invoked from network); 16 May 2002 21:41:29 -0000
+Received: from unknown (66.218.66.216)
+  by m10.grp.scd.yahoo.com with QMQP; 16 May 2002 21:41:29 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.95)
+  by mta1.grp.scd.yahoo.com with SMTP; 16 May 2002 21:41:29 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 16 May 2002 14:41:29 -0700
+To: <mendonet-l@...>
+References: <OE40LqN33HFnwpGR8810000963f@...> <19361.020516@...>
+Subject: Re: Re[14]: (unknown)
+Date: Thu, 16 May 2002 06:31:26 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE38PJb68SAQ2FCddgp00007eb1@...>
+X-OriginalArrivalTime: 16 May 2002 21:41:29.0758 (UTC) FILETIME=[704833E0:01C1FD22]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.193.219]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+----- Original Message -----
+From: "Lupus" <aldocop@...>
+To: <mendonet-l@...>
+Sent: Thursday, May 16, 2002 8:40 AM
+Subject: Re[14]: (unknown)
+
+
+> >> > > Vos decis ademas que porque no fue util (no tuvo aplicacion)
+> >> > > entonces es obsoleta (es vieja). Y sugeris que lo obsoleto y/o
+> >> > > inaplicable es Malo.
+> >> >
+> >> > no util=obsoleto
+> >> > lo obsoleto es eso mismo, no util, nada mas, ni bueno, ni malo
+> >>
+> >> Aha. Planteas la equivalencia (demorada en el tiempo) entre ambos
+> >> conceptos, por el mecanismo de que si no se aplica, se olvida.
+> >> Bueno, como caracterizarias en ese contexto el algebra de Boole?
+> >> En 100 años no se la aplico, pero afortunadamente tampoco fue olvidada.
+> >> Y tengo ejemplos de tecnologias obsoletas pero no olvidadas: por
+> >> ejemplo: las maquinas de vapor.
+>
+> F> no han sido olvidadas porque en algun tiempo fueron usadas y la
+bibliografia
+> F> las documenta, forman parte de la historia
+>
+> Tu culo...
+
+mi culo se tira pedos, no vapor
+
+>
+> Vení al ferrocarril y vas a ver motores a vapor... ;)
+
+algun dia..........
+
+
+

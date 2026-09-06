@@ -1,0 +1,35 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_2); 22 Nov 2000 18:18:46 -0000
+Received: (qmail 41878 invoked from network); 22 Nov 2000 18:18:25 -0000
+Received: from unknown (10.1.10.142) by l7.egroups.com with QMQP; 22 Nov 2000 18:18:25 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.230.130) by mta3 with SMTP; 22 Nov 2000 19:19:27 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id MAA10803 for mendonet-l@egroups.com; Wed, 22 Nov 2000 12:39:24 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Wed, 22 Nov 2000 12:39:24 -0300
+To: Lista de correo copada <mendonet-l@egroups.com>
+Subject: Mendonet cumple un Anio!!
+Message-ID: <20001122123924.L10684@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+Che gente, Copado... Mendonet-l cumple un anio funcionando relativamente bien.
+Si bien la lista se armo en el 98, recien en noviembre del 99 empezo a tener
+un trafico Grosso!
+
+Si Rodralez estuviera vivo, propondria una juntada... pero creo que todos
+estamos comodos con las cosas como estan. Asi que a lo maximo comprense una
+birra y brinden... 
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

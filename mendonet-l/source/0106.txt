@@ -1,0 +1,81 @@
+From asecas2003@...  Sat Jul 11 23:23:58 2020
+Return-Path: <asecas2003@...>
+X-Sender: asecas2003@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 59807 invoked from network); 26 Aug 2003 13:04:11 -0000
+Received: from unknown (66.218.66.217)
+  by m6.grp.scd.yahoo.com with QMQP; 26 Aug 2003 13:04:11 -0000
+Received: from unknown (HELO hotmail.com) (64.4.15.61)
+  by mta2.grp.scd.yahoo.com with SMTP; 26 Aug 2003 13:04:11 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Tue, 26 Aug 2003 06:04:10 -0700
+Received: from 209.99.228.195 by lw10fd.law10.hotmail.msn.com with HTTP;
+	Tue, 26 Aug 2003 13:04:10 GMT
+X-Originating-Email: [asecas2003@...]
+To: mendonet-l@...
+Bcc: 
+Subject:  foro mendocino PARA NABOS
+Date: Tue, 26 Aug 2003 10:04:10 -0300
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1; format=flowed
+Message-ID: <Law10-F612MErPFWy3r00000e9c@...>
+X-OriginalArrivalTime: 26 Aug 2003 13:04:10.0791 (UTC) FILETIME=[8A86F370:01C36BD2]
+From: "A Secas" <asecas2003@...>
+X-Originating-IP: [209.99.228.195]
+X-Yahoo-Group-Post: member; u=141741680
+X-Yahoo-Profile: asecas2004
+
+
+>Che gente estoy haciendo un foro mendocino basado en el programa de
+>radio en el que participo los lunes por fm utn.
+
+Asi que estás laburando en la radio UTN ??. Yo estuve laburando el año 
+pasado ahi como becario. Alguna vez operé el programa " Criado en las 
+calles", que era el programa anterior del Miguel. Ahora también está una 
+minita en "No tan...".
+
+>La idea es que posteen cualquier tema y si da para hacer algo
+>interesante sale despues por el programa.
+
+Mmmm... cualquier tema ?... a ver, tirate una idea sobre que temas podemos 
+proponer.
+
+
+
+Foros de discusión
+Error General
+
+Ran into problems sending Mail. Response: 553 sorry, that domain isn't 
+allowed to be relayed thru this MTA (#5.7.1)
+
+DEBUG MODE
+
+Line : 152
+File : /home/notandistintosfm/foro/includes/smtp.php
+
+
+
+QUE CONCHA ES ESTE MENSAJE DE ERROR
+DECIME que hice mal
+
+explicamelo , hacelo bien clarito, como para que lo entienda mi perro o 
+susana gimenez
+
+
+gracias
+
+
+
+
+
+"SAMURAI,
+PREPARANDO EL ADVENIMIENTO DE NUESTRO  OMNIPOTENTE SEÑOR: eL BICHO BOLITA"
+
+
+http://www.artemza.com.ar/plastica/talquenca/index.htm
+
+_________________________________________________________________
+Charla con tus amigos en línea mediante MSN Messenger: 
+http://messenger.yupimsn.com/
+
+

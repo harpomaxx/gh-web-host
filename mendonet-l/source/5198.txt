@@ -1,0 +1,40 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2_1); 10 Sep 2001 05:35:46 -0000
+Received: (qmail 5233 invoked from network); 10 Sep 2001 05:35:46 -0000
+Received: from unknown (10.1.10.26)
+  by l10.egroups.com with QMQP; 10 Sep 2001 05:35:46 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.55)
+  by mta1 with SMTP; 10 Sep 2001 05:35:44 -0000
+Received: (qmail 22218 invoked by uid 1005); 9 Sep 2001 16:08:02 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.840858 secs); 09/09/2001 13:08:00
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 9 Sep 2001 16:07:58 -0000
+Date: Sun, 9 Sep 2001 13:07:57 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <2572.010906@...> <16655.010906@...>
+In-Reply-To: <16655.010906@...>
+Subject: Re: El che xebax
+MIME-Version: 1.0
+Message-Id: <01090913075700.00458@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Jue 06 Sep 2001 15:44, escribiste:
+
+> S> No me estoy comparando con el che, nada más le estoy demostrando
+> que S> ser médico y luchar por la liberación de los pueblos oprimidos
+> no es S> contradictorio.
+>
+> una cosa esa luchar por los pueblos oprimidos, y otra es acecinar
+
+Asesinaste la ortografia!!
+
+-- 
+Groucho Marx
+

@@ -1,0 +1,73 @@
+From gaucho98@...  Sat Jul 11 23:23:58 2020
+Return-Path: <gaucho98@...>
+X-Sender: gaucho98@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 7 Nov 2001 13:27:19 -0000
+Received: (qmail 53159 invoked from network); 7 Nov 2001 13:27:19 -0000
+Received: from unknown (216.115.97.172)
+  by m11.grp.snv.yahoo.com with QMQP; 7 Nov 2001 13:27:19 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2.grp.snv.yahoo.com with SMTP; 7 Nov 2001 13:27:18 -0000
+Received: from darinka ([200.41.21.215])
+  (AUTH: LOGIN gaucho98@...)
+  by softhome.net with esmtp; Wed, 07 Nov 2001 06:20:02 -0700
+Message-ID: <000b01c16791$05559c20$d71529c8@darinka>
+To: mendonet-l@...
+References: <002601c163d3$45779a40$b21529c8@darinka> <20011105000819.C12145@...>
+Subject: Re2: una ayudita (linux)
+Date: Wed, 7 Nov 2001 10:35:04 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "GAUCHO98" <gaucho98@...>
+
+Bueno ya busque y bueno encontre las fuentes son todas psf, y bueno estan
+comprimidas .
+por otro lado la que yo quiero es ttf, y esta en otro directorio, me
+pregunto si hay algun programa que convierta de ttf, a psf para que yo la
+copie al directorio de las fonts creo que era /usr/shares/consolefonts/
+y por otro lado lo del kernel lo busque pero no dice nada especificamente de
+las ttf, pero hay una parte que la tengo desabilitada y habal de las fuentes
+VGA para consola, era a esto que te referis HARPO??
+
+BUENO CHAU.
+
+----- Original Message -----
+From: "Harpo Maxx" <harpo@...>
+To: <mendonet-l@...>
+Sent: Monday, November 05, 2001 12:08 AM
+Subject: Re: una ayudita (linux)
+
+
+El Fri, Nov 02, 2001 at 04:18:33PM -0300, GAUCHO98 dijo:
+>
+>    a ver quien me ayuda conn unca cosita de linux, tengo entendido que es
+>    posible cambiarle la letra a la consola de linux, quiero saber como lo
+>    hago  y  si  es  posible ponerle la letra electroharmonix, avisenme si
+>    tengo  que  bajarme  algo  de  intermnet  y  como instalo esa letra en
+>    consola,  pero  no desde las Xwin en una Xterm, en CONSOLA, sin que se
+>    me modifique el resto del prompt.
+
+Si tenes que recompilar el kernel con soporta para TTF y luego usar un
+programa en espacio de usuario para modificar las fonts. Seguramente vas a
+tener que pasar los Bitmaps de la fonts de MSsoft a TTF (GNU/Linux version).
+O sea como ves.. se puede hacer pero no es facil. ;-)
+
+PD:
+http://www.linuxmendoza.org.ar
+--
+Harpo+
+
+
+
+Tu uso de Yahoo! Grupos está sujeto a las
+http://ar.docs.yahoo.com/info/utos.html
+
+
+
+

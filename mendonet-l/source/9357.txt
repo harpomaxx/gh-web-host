@@ -1,0 +1,28 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 30989 invoked from network); 29 Jul 2000 14:31:51 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 29 Jul 2000 14:31:51 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 29 Jul 2000 14:31:51 -0000
+Received: (qmail 6440 invoked by uid 722); 29 Jul 2000 14:07:06 -0000
+Date: 29 Jul 2000 14:07:06 -0000
+Message-ID: <20000729140706.6434.qmail@...>
+To: mendonet-l@egroups.com
+Subject: lo vites
+From: fcanizo@...
+
+El 22/07/00, Cabeza le farfulló angustiosamente a mendonet-l@egroups.com:
+
+C>> C>Es verdad, pero sobre linux preguntame lo que quieras.
+C>> 
+C>> Cual es el tamanio en bytes del miembro de la estructura que representa
+C>> el PID???? :)))
+C>
+C>ja ja.. rebuscada la pregunta he? pero tendran que ser 16 bits.
+C>ya que el maximo de procesos es 65536
+
+Mal! Te pregunto en bytes! ;)
+
+---
+Rápido como sapo entre los bichos
+
+

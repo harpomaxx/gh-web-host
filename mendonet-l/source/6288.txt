@@ -1,0 +1,57 @@
+From Marc.mz@...  Sat Jul 11 23:23:58 2020
+Return-Path: <Marc.mz@...>
+X-Sender: Marc.mz@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_1_2); 22 Apr 2001 19:03:15 -0000
+Received: (qmail 6728 invoked from network); 22 Apr 2001 19:03:14 -0000
+Received: from unknown (10.1.10.142) by l8.egroups.com with QMQP; 22 Apr 2001 19:03:14 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 22 Apr 2001 19:03:13 -0000
+Received: (qmail 20110 invoked by uid 417); 22 Apr 2001 18:42:42 -0000
+Received: from unknown (HELO 200-41-31-59-rdunysd1.impsat.net.ar) (200.41.31.59) by i-softhome-tango with SMTP; 22 Apr 2001 18:42:42 -0000
+Date: Sat, 21 Apr 2001 14:24:25 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Marc <Marc.mz@...>
+X-Priority: 3 (Normal)
+Message-ID: <9600.010421@...>
+To: Groucho Marx <mendonet-l@yahoogroups.com>
+Subject: Re: Geek code
+In-reply-To: <13144.010421@...>
+References: <13144.010421@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Marc <marc.mz@...>
+
+
+
+Saturday, April 21, 2001, 3:28:11 AM, you wrote:
+
+GM> Amigos: he aqui mi geek code.
+
+GM> Quiero incluirlo en mi perfil del LUG. Harpo? Coronel?
+
+GM> Luca: en tu administrador de perfiles deberia haber lugar para el geek
+GM> code.
+
+GM> Espero que no les parece muy arrogante L++(++++)
+
+
+GM> -----BEGIN GEEK CODE BLOCK-----
+GM>  Version: 3.1
+GM>  GCS/IT/CC/E d-- s+:+>+: a26- C++(+++) UL++ P+++ L++(++++) E- W++
+GM>  N o+ K- w++ O- M- V- PS+ PE Y++ PGP-- t+ 5 X++(+++) R- tv+ b++
+GM>  DI- D++ G++ E++>+++ h! r++ y+>++
+GM> ------END GEEK CODE BLOCK------
+
+muy bonitos los dibujitos
+pero creo que te equivocaste de lista :�) compu�o�o
+
+
+
+-- 
+  nadie, apoltronado en la tibieza de una vida timorata,
+  puede juzgar a aquel que hace derroche de su propia vitalidad.
+ Marc                            
+
+
+

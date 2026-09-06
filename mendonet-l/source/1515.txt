@@ -1,0 +1,96 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_1); 19 Apr 2002 14:29:49 -0000
+Received: (qmail 26960 invoked from network); 17 Apr 2002 19:11:35 -0000
+Received: from unknown (66.218.66.217)
+  by m9.grp.scd.yahoo.com with QMQP; 17 Apr 2002 19:11:35 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.191)
+  by mta2.grp.scd.yahoo.com with SMTP; 17 Apr 2002 19:11:33 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 17 Apr 2002 12:11:32 -0700
+To: <mendonet-l@...>
+Subject:  para los que saben de virus, ¿que opinan sobre esto?
+Date: Wed, 17 Apr 2002 15:21:30 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE567QaaC4omkfdo8TN00002939@...>
+X-OriginalArrivalTime: 17 Apr 2002 19:11:32.0943 (UTC) FILETIME=[AFC86DF0:01C1E643]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.192.70]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+
+
+
+Sent: Saturday, April 13, 2002 8:56 PM
+Subject: virus
+
+
+
+
+ reenvio a todos los de mi libreta la informacion porque teniendo el norton
+actualizado al dia no lo detecto y realizando los pasos lo detecte.un beso-
+y
+mil perdones-cris
+
+el siguiente es el mail que acabo de recibir
+
+ATENCION YO TENIA ESTE VIRUS.. SIGAN ESTAS INSTRUCCIONES PORQUE SEGURO QUE>
+>
+LO RECIBIERON USTEDES... PUES ESTAN EN MI LIBRETA DE DIRECCIONES.
+> >
+> > SALUDOS
+> > ISABEL
+
+
+> >           Queridos Amigos: en vista de que encontré el famoso osito en
+mi
+máquina, acá les mando los datos de ese virus tan peligroso para que lo
+intercepten.
+Quieren advertir a todos los usuarios de hotmail
+sobre un nuevo virus que circula por medio del MSN Messenger El virus se
+llama jdbgmgr.exe y se transmite automáticamente por
+medio del Messenger y tambien por la libreta de direcciones. El virus no es
+detectado por McAfee o Norton y permanence en letargo  durante 14 días antes
+de dañar el sistema entero. Puede ser borrado antes de que elimine los
+archivos de tu computadora.
+Para eliminarlo, solo hay que hacer los pasos
+siguientes:
+1. Ir a Inicio, pulsar "buscar"
+2.- En búsqueda "archivos o carpetas" escribir el
+nombre jdbgmgr.exe
+3.- Asegurarse de que este buscando en disco "C"
+4.- Pulsar en "buscar ahora"
+5.- Si aparece el virus (el icono es un osito que
+> > tendrá el nombre de jdbgmgr.exe NO ABRIR POR NINGUN MOTIVO
+6.- Pulsar en el botón derecho del ratón y
+eliminarlo (ira a la papelera de reciclaje). O borrarlo con SHITF
+DELETE para que no quede en la papelera.......
+7.- Ir a la papelera de reciclaje y borrarlo
+definitivamente o bien vaciar la papelera entera. SI ENCUENTRAN EN VIRUS EN
+SUS EQUIPOS MANDAR ESTE
+MENSAJE A LAS PERSONAS QUE TENGAN EN SU LIBRETA DE DIRECCIONES
+ANTES DE QUE CAUSE ALGUN DAÑO.
+> >
+> >            GRACIAS
+> >
+> >
+> >      Para enviar un mensaje por la lista:
+> >      <A
+HREF="mailto:panasheliosperez@...">panasheliosperez@yahoogrup
+os.com.mx</A>
+> >
+> >      te agradecemos tus mensajes no mayores de 500
+
+
+
+

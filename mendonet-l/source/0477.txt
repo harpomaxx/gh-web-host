@@ -1,0 +1,77 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 5 Mar 2003 14:41:27 -0000
+Received: (qmail 82219 invoked from network); 5 Mar 2003 14:41:25 -0000
+Received: from unknown (66.218.66.216)
+  by m11.grp.scd.yahoo.com with QMQP; 5 Mar 2003 14:41:25 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta1.grp.scd.yahoo.com with SMTP; 5 Mar 2003 14:41:24 -0000
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18qaJF-0004zM-00
+	for <mendonet-l@...>; Wed, 05 Mar 2003 11:55:53 -0300
+Message-ID: <3E660C77.9080602@...>
+Date: Wed, 05 Mar 2003 11:40:55 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; es-AR; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-ar, es, en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: =?ISO-8859-1?Q?Informatica_para_todos?=
+References: <1404.030305@...>
+In-Reply-To: <1404.030305@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-MailScanner-VirusCheck: Limpio
+From: Herr Groucho <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+> Sucede que yo usaba ocasionalmente el teleport pro, una versión
+> shareware cuyo "craqueador"(estará bien dicho?) no funcionó,
+> probablemente por un problema del disquito en que me lo grabaron. El
+> tiempo de prueba venció, y ya no puedo usarlo más.
+
+Si te gusta el programa, compra la licencia y listo.
+Si no, usa "wget" hecho por el proyecto GNU que permite hacer desde 
+linea de comandos todo lo que hace Teleport.
+Seguramente debe venir una version para Win32.
+
+
+
+> Imagino que en
+> algún lugar de la computadora debe haber un archivito que le diga al
+> programa que ya no debe seguir funcionando, sin importar que lo
+> desinstale y reinstale.
+
+En el registro de Windows probablemente.
+
+
+> Imagino(parte del imaginario popular) tal vez
+> esté en lo que denominan "registro", si es que tal cosa existiera.
+
+Probablemente este ahi.
+
+
+> Imagino también que en una de esas es sólo cuestión de borrar ese
+> archivito para poder usar el teleport por otro "período de prueba".
+
+Si, me encantaria que borraras el registro, asi tenes que reinstalar 
+Windows de nuevo...
+Mejor borra la rama del registro donde el Teleport ese guarda sus datos.
+O mejor hubieras hecho una copia de respaldo del registro antres de 
+instalar esa cagada y comparabas que cambio.
+
+
+> Por favor, indique cuál de mis imaginaciones son correctas, cuales no,
+> e indique además el modo de proceder en caso de que mis imaginaciones
+> no estén tan erradas.
+
+Lo que tenes que hacer es comprar el Teleport o abstenerte de usarlo. Te 
+recomiendo que te abstengas de usarlo y uses en cambio wget.
+
+-- 
+Groucho
+
+

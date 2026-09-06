@@ -1,0 +1,83 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 6 Aug 2002 13:35:20 -0000
+Received: (qmail 16616 invoked from network); 6 Aug 2002 13:35:20 -0000
+Received: from unknown (66.218.66.216)
+  by m1.grp.scd.yahoo.com with QMQP; 6 Aug 2002 13:35:20 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 6 Aug 2002 13:35:20 -0000
+Received: (qmail 1531 invoked by uid 417); 6 Aug 2002 13:35:19 -0000
+Received: from slide-.softhome.net (HELO softhome.net) (172.16.2.21)
+  by shunt-smtp-out-0 with SMTP; 6 Aug 2002 13:35:19 -0000
+Received: from localhost (localhost [127.0.0.1])
+  (uid 417)
+  by softhome.net with local; Tue, 06 Aug 2002 07:35:11 -0600
+To: mendonet-l@...
+Subject: Microsoft sobre las cuerdas...
+Date: Tue, 06 Aug 2002 07:35:11 -0600
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Sender: rodralez@...
+Message-ID: <courier.3D4FD08F.00000770@...>
+From: rodralez@...
+X-Originating-IP: [200.63.151.95]
+X-Yahoo-Group-Post: member; u=3415981
+X-Yahoo-Profile: rodralez
+
+
+Microsoft acepta revelar el código de 'Windows'
+
+Fecha: 06/08/2002
+Medio: El Cronista
+Página / Sección : 12 
+
+
+TRAS CINCO AÑOS, LA EMPRESA ACCEDE AL PEDIDO DE LOS JUECES: La compañía dar� 
+a conocer 119 protocolos, que permitirán a firmas rivales desarrollar 
+programas compatibles con su sistema. Ahora, la Justicia de EE.UU. debe dar 
+su aprobación 
+
+Microsoft, la mayor compañía de software del mundo, quiere evitar que se 
+compliquen sus relaciones con la Justicia de Estados Unidos, en un momento 
+en el que la opinión pública y el Gobierno están más que sensibilizados con 
+la necesidad de transparencia empresarial, ante la avalancha de escándalos 
+que están sacudiendo al país. La empresa fundada por Bill Gates anunció ayer 
+que revelará en las próximas semanas parte del código fuente de sus sistema 
+operativo Windows para cumplir, en parte, con el acuerdo antimonopolio que 
+firmó con el Departamento de Justicia el año pasado, un acuerdo que aún debe 
+ser ratificado por un juzgado federal. La disputa entre la empresa y el 
+Gobierno comenzó hace cinco años.
+En concreto, Microsoft revelará 272 bits de su código informático fuente y 
+113 protocolos de propiedad, lo que permitirá a los fabricantes rivales de 
+software emplear esa información, hasta ahora secreta, para desarrollar 
+aplicaciones compatibles con el sistema Windows. Asimismo, los fabricantes 
+de servidores informáticos podrán licenciar la información de los protocolos 
+revelados por Microsoft para que sus productos
+sean más eficazmente operativos con Windows. El Departamento de Justicia 
+señaló que estudiará los términos uniformes de licencia de Microsoft con las 
+principales compañías informáticas para comprobar que se ajustan a los 
+términos del acuerdo extrajudicial.
+Buscando adaptabilidad
+Microsoft también anunció que la actualización del nuevo sistema operativo 
+Windows XP permitirá a los fabricantes de computadoras y a los usuarios 
+agregar o eliminar algunas aplicaciones del sistema operativo, como el 
+navegador de Internet Explorer, el reproductor de audio y video Media Player 
+y el programa de correo electrónico Outlook Express. ésta era otra de las 
+demandas del sector, que pedía a Microsoft que su sistema operativo fuera 
+más adaptable a otros programas y aplicaciones.
+En el caso antimonopolio original contra la compañía, el Departamento de 
+Justicia y dieciocho estados del país acusaban a Microsoft de ocultar el 
+código fundamental de Windows para perjudicar y obstaculizar el desarrollo 
+de aplicaciones propias a sus competidores. Tras el inicio del caso, 
+Microsoft llegó a un acuerdo extrajudicial con el Departamento de Justicia y 
+nueve de los estados para poner remedio a esta situación de monopolio. Sin 
+embargo, los nueve estados restantes que no firmaron dicho acuerdo continúan 
+pidiendo a la jueza que asumió el caso, Colleen Kollar-Kotelly, que 
+endurezca las sanciones contra la compañía. 
+
+AGENCIAS Nueva York 
+
+

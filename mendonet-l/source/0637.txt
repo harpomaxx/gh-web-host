@@ -1,0 +1,70 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 13 Dec 2002 14:00:44 -0000
+Received: (qmail 25150 invoked from network); 13 Dec 2002 14:00:44 -0000
+Received: from unknown (66.218.66.218)
+  by m3.grp.scd.yahoo.com with QMQP; 13 Dec 2002 14:00:44 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 13 Dec 2002 14:00:41 -0000
+Received: from kavkeeper by pandora.negyser.com.ar with local (Exim 3.35 #1 (Debian))
+	id 18MqRv-0008Dv-00
+	for <mendonet-l@...>; Fri, 13 Dec 2002 11:05:55 -0300
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 18MqRu-0008Dk-00
+	for <mendonet-l@...>; Fri, 13 Dec 2002 11:05:54 -0300
+Message-ID: <3DF9E7CF.5090801@...>
+Date: Fri, 13 Dec 2002 10:59:43 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.0.1) Gecko/20020826
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: piensa??
+References: <3DF35C72.7070103@...> <courier.3DF87900.00000142@...> <1039712156.10486.6.camel@stimpy> <E18MhbQ-0004Fw-00@...> <11916778045.20021213031452@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Mr Ska wrote:
+> Friday, December 13, 2002, 1:39:06 AM, usted escribió:
+> GM> Un momento.
+> GM> Acabo de apercibirme del siguiente hecho: Mr Ska es el hermano de 
+> GM> Cabeza.
+> 
+> Ja, me ha dejado asombrado tu poder de deducción.
+> Sip, somos hermanos, pero que culpa tengo? la familia no se elige.
+> De todas formas me gustaría saber como llegaste a tal conclusión.
+
+Segui el mismo metodo utilizado por Fray Guillermo para deducir el 
+nombre del caballo favorito del abad, en el capitulo 1 de "El Nombre de 
+la Rosa".
+
+Las pistas:
+En tu primer mensaje dijiste que te habian comentado que esta lista era 
+divertida y que se yo. Me pregunte entonces quien te habia hablado de la 
+lista. Pense en Sebas, pero tu "dialogo" posterior con el, no era el de 
+2 personas que se conocen asi que me quede con la duda.
+En este mensaje Cabeza habla familiarmente de vos, de donde deduje que 
+se conocian y que el te habia hecho suscribirte a la lista.
+Luego observe su comentario sobre tu sexualidad, el que daba a entender 
+que tenia datos certeros para opionar sobre el tema. Eso significaria 
+que: o son amantes, o viven juntos. Como el cabeza se que no es gay, 
+tenias que vivir con el.
+Finalmente, desde hace un par de meses, a todos los lugares donde va 
+Cabeza, va su hermano, lo que señala que viven juntos.
+
+Por lo tanto, vos sos el hermano de Cabeza.
+Tendria que haber mirado las cabeceras de los mensajes tambien, para 
+mayor certeza pero no lo hice.
+
+-- 
+Groucho
+
+
+
+
+

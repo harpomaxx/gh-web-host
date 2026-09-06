@@ -1,0 +1,153 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 16 May 2002 20:50:00 -0000
+Received: (qmail 50655 invoked from network); 16 May 2002 20:49:59 -0000
+Received: from unknown (66.218.66.218)
+  by m1.grp.scd.yahoo.com with QMQP; 16 May 2002 20:49:59 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.41)
+  by mta3.grp.scd.yahoo.com with SMTP; 16 May 2002 20:49:59 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Thu, 16 May 2002 13:49:59 -0700
+To: <mendonet-l@...>
+References: <OE26odDres84CpICF5P00009739@...> <8896.020514@...>
+Subject: Re: Re[3]: ovulo con 2 nucleos? Aberracion?
+Date: Wed, 15 May 2002 02:33:49 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE52XEHt3V5g2oHzGkz0000ae8c@...>
+X-OriginalArrivalTime: 16 May 2002 20:49:59.0822 (UTC) FILETIME=[3E8962E0:01C1FD1B]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.192.82]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+----- Original Message -----
+From: "Sebas" <xebax@...>
+To: "Federico" <mendonet-l@...>
+Sent: Tuesday, May 14, 2002 9:30 PM
+Subject: Re[3]: ovulo con 2 nucleos? Aberracion?
+
+
+> >> > > Y ahora viene algo interesante: hasta la 4 division celular del
+> >> > > cigoto (cuando se ha convertido en una pelota de 16 celulas) si uno
+> >> > > elimina todas menos una de esas celulas, la celula restante
+> >> > > continua su desarrollo normal... O uno podria separar entre si cada
+> >> > > celula y cada una se desarrolla normalmente hasta formar un adulto
+> >> > > (asi se forman los gemelos!).
+> >> >
+> >> > eso no lo sabia (lo de los gemelos), por lo que tengo entendido los
+> >> > gemelos univitelinos es cuando un ovulo (binucleado)
+> >> > es fecundado
+> Che, yo había ignorado esta charla, pero ahora accidentalmente lo leí,
+> y me siento en la obligación de explicarlo. Hay dos tipos de gemelos:
+> -bivitelinos: dos óvulos fecundados cada uno por un espermatozoide, o
+> sea que en definitiva son como dos hermanos, es lo que habitualmene se
+> llama "mellizos".
+> -univitelinos: un óvulo, fecundado por un espermatozoide que en un
+> período muy temprano de su división celular duplica su número celular
+> una vez más. Si estas dos masas celulares se separan totalmente,
+> tenemos los gemelos univitelinos, que son dos seres genéticamente
+> iguales. Si no se separan totalmente, tenemos los siameses, que son
+> dos seres genéticamente idénticos, unidos por alguna parte de su
+> cuerpo.
+> Sobre lo que dice Groucho(o Fede, no sé cuál de ellos) de los óvulos
+> binucleados fecundados por dos espermatozoides, es así: está
+> comprobada la existencia de óvulos binucleados, es muy discutido que
+> sean fértiles, y en caso de ser fértiles, es aún más difícil que sean
+> fecundados por dos espermatozoides, dado que la membrana ovular sufre
+> cambio inmediatamente ingresado un espermatozoide, destinados a
+> impedir el ingreso de otro espermatozoide. Suponiendo que así y todo
+> pudiera suceder la doble fecundación, lo más probable es que ese
+> huevo-doble, no fuera procedente, porque desde la primer mitosis en
+> vez de tener 2n tendrías 4n... dicho de otra manera, lo único
+> comprobado, es la existencia de óvulos binucleados, que éstos puedan
+> generar embriones viables es una posibilidad no comprobada desde la
+> observación y de muy difícil concreción desde la lógica.
+
+al pedo la explicacion, ya lo charlamos y llagamos a la misma conclusion
+¿sera que leemos los mismos libros?
+
+>
+> >> No soy el experto en el tema, pero si los gemelos son geneticamente
+> >> identicos es porque provienen de la combinacion del ADN de 1 ovulo con
+> >> 1 espermatozoide. No hay manera de que 1 espermatozoide fusione su
+> >> material genetico con el de 2 nucleos diferentes dentro de 1 ovulo. Si
+> >> hay 2 nucleos que fecundar, pue tendran que participar 2
+> >> espermatoziodes (o un espermatoziode binucleado?) Si fueran 2
+> >> espematozoides los gemelos geneticamente identicos serian casi
+> >> inobservables, lo cual contradice la realidad.
+
+ tenes razon, pero cuando yo lo lei en mis apuntes de obstetricia sacado de
+un libro de la biblioteca de la madre de la Noe, lo puse en el mail y
+des`pues pensandolo mejor, me di cuenta de que no era muy logico, verifique
+la informacion en dicho libro y  es real, la pone como segunda opcion en la
+formacion de univitelinos y no habla de la logica de tal opcion.
+
+> F> no recuerdo que puse pero el ovulo binucleado es fecundado por dos
+> F> espermatozoides, por supuesto
+> Ah, era el fede.... ¿de dónde lo sacaste? Yo he leído lo del óvulo
+> binucleado, pero de que sea fecundado por dos espermatozoides, es la
+> primera vez que lo leo, digo, en calidad de comprobado.
+
+yo lei lo del ovulo binucleado, lo de los dos espermatozoides me lo
+imaginaba, para encontrarle alguna logica
+
+> De todos modos, si eso es posible, se produce en un número ínfimo de
+> casos.
+
+debe ser asi
+
+> >> Por lo tanto, en lugar de un ovulo binucleado, creo que estamos hablano
+> >> de un ovulo fecundado que se dividio en 2 celulas.
+
+esa me gusta mas
+
+> F> no, es un ovulo binucleado, tengo bibliografia a tu disposicion, el
+libro de
+> F> obstetricia
+> A ver... acabo de consultar el libro de obstetricia de Shwarcz y dice
+> lo mismo que yo, o sea, que no está comprobado que los óvulos
+> binucleados sean "procedentes".
+
+lo lei de ahi y de un libro en la biblioteca de la noelia (no recuerdo el
+nombre), no tengo anotado nada mas, pero seguro que es como vos decis
+
+> >> > lugo el material embriologico se separa en dos masas, naciendo dos
+> >> > seres iguales,
+> >> Bueno, yo digo que si separas en 2 el material embriologico (la pelota
+> >> de celulas) antes de la 5ta division celular, tambien obtenes gemelos,
+> >> en numero de 2 a 16 segun en cuantas partes lo dividas.
+> F> interesante
+> �Interesante? ¡Pero si ese es el fundamento biológico de los gemelos
+> idénticos! Digo, es muchísimo más común esto que el óvulo binucleado, que
+> no daría(de ser procedente) gemelos idénticos genéticamente.
+
+> >> Asi es. Pero no entiendo el concepto de 1 ovulo con 2 nucleos.
+> >> Como se forma?
+> F> primero partamos de que un ovulo puede ser fecundado por mas de un
+> F> espermatozoide (excepcionalmente), solo que si los espermatozoide no
+> F> encuentran material genetico del nucleo ovular con quien unirse el
+material
+> F> genetico sobrante se pierde, que sucede si esoso espermatozoides
+encuentran
+> F> material genetico ovular para unirse. bueno, el proceso continua, ese
+es el
+> F> caso de los ovulos binucleados, de todos modos eso es lo que dice mi
+libro
+> F> de obstetricia,
+> ¿Qué clase de libro poronga de obstetricia tenés?
+
+gallego, a ver si nos entendemos, vos leiste lo mismo que yo lei (ovulos
+binucleados), a lo que ambos leimos quise encontrarle una explicacion
+logica, nada mas, ademas son solo apuntes de ese libro ( no recuerdo el
+nombre), puede que esten mal, que se yo, de todos modos me quedo con la otra
+explicacion
+

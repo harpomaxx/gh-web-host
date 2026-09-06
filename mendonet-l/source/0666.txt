@@ -1,0 +1,46 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 16 Dec 2002 23:50:07 -0000
+Received: (qmail 96575 invoked from network); 16 Dec 2002 23:50:07 -0000
+Received: from unknown (66.218.66.216)
+  by m3.grp.scd.yahoo.com with QMQP; 16 Dec 2002 23:50:07 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 16 Dec 2002 23:50:02 -0000
+Received: (qmail 24589 invoked by uid 417); 16 Dec 2002 23:49:49 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 16 Dec 2002 23:49:49 -0000
+Received: from a200042124123.rev.prima.com.ar ([200.42.124.123])
+  by softhome.net with esmtp; Mon, 16 Dec 2002 16:49:44 -0700
+Date: Mon, 16 Dec 2002 20:45:34 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <10864.021216@...>
+To: Groucho Marx <mendonet-l@...>
+Subject: Re[2]: me ausento dos meses
+In-reply-To: <E18Nkj9-0000g0-00@...>
+References: <E18Nkj9-0000g0-00@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+GM> Podes activar el modo vacaciones tambien... Asi no haces que el server
+GM> te envie al pedo mails que no vas a recibir...
+
+GM>         http://www.lugmen.org.ar/listas/info/
+Acabo de ver una minita, de unos 17 a 20 años, morochita y bastante
+culiable en las inmediaciones de la escuela que está al sur de la UTN,
+con una remera de lugmen... hasta merchandising y gruppies ya tienen,
+que los tir�!
+
+
+-- 
+Sebas   
+El subdesarrollo no es una etapa del desarrollo, sino su consecuencia. Eduardo Galeano                       
+
+
+

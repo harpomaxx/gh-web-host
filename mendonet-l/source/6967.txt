@@ -1,0 +1,42 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 14 Nov 2000 16:18:45 -0000
+Received: (qmail 45395 invoked from network); 14 Nov 2000 16:18:45 -0000
+Received: from unknown (10.1.10.142) by m8.onelist.org with QMQP; 14 Nov 2000 16:18:45 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta3 with SMTP; 14 Nov 2000 17:19:50 -0000
+Received: (qmail 31597 invoked by uid 417); 14 Nov 2000 16:23:14 -0000
+Received: from a200042124158.rev.prima.com.ar (200.42.124.158) by smtpb.softhome.net with SMTP; 14 Nov 2000 16:23:14 -0000
+Date: Tue, 14 Nov 2000 12:43:29 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Sebas <xebax@...>
+X-Priority: 3 (Normal)
+Message-ID: <9530.001114@...>
+To: "harpo@..." <mendonet-l@egroups.com>
+Subject: Re[2]: Un par de preguntas sobre the bat
+In-reply-To: <20001113150133.D2007@...>
+References: <20001113150133.D2007@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+
+
+>>   Ando explorando la cuestión, y tengo un par de dudas:
+>>   1- ¿Qué es PGP? En medicina quiere decir parálisis general progresiva,
+>>   pero no sé que tendrá que ver con esto.
+
+hsn> Groucho te lo explicara mucho mas detallaado que yo. Pero te adelante que PGP
+hsn> es un programa que te permite encriptar tu correspondiencia y asi garantizar
+hsn> una cierta seguridad de que nadie leas tus mail (excepto la persona a la que
+hsn> se lo envias)
+Correcto, entonces en eso no me tengo que meter.
+
+¿Y cookies?
+
+-- 
+Sebas                          
+
+
+

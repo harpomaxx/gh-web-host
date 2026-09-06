@@ -1,0 +1,63 @@
+From aletalquenca@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aletalquenca@...>
+X-Sender: aletalquenca@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 16 Nov 2000 00:11:36 -0000
+Received: (qmail 65648 invoked from network); 16 Nov 2000 00:11:35 -0000
+Received: from unknown (10.1.10.27) by l8.egroups.com with QMQP; 16 Nov 2000 00:11:35 -0000
+Received: from unknown (HELO central.inta.gov.ar) (157.92.58.8) by mta2 with SMTP; 16 Nov 2000 00:11:21 -0000
+Received: from bocha_sn@... (a2d51.impsat.net.ar [200.41.21.111]) by central.inta.gov.ar with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21) id W7ZBSA4Y; Wed, 15 Nov 2000 21:13:51 -0300
+Message-ID: <003301c04f1e$a2527520$LocalHost@...>
+To: <mendonet-l@egroups.com>
+References: <18529.001114@...> <1936.001115@...>
+Subject: RE: Re[3]: Perdonen mi ignorancia
+Date: Wed, 15 Nov 2000 13:10:55 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+From: "Alejandro Gomez Talquenca" <aletalquenca@...>
+
+
+----- Original Message -----
+From: Groucho Marx <groucho@...>
+To: Sebas <mendonet-l@egroups.com>
+Sent: Wednesday, November 15, 2000 12:52 AM
+Subject: Re[3]: Perdonen mi ignorancia
+
+
+> El 14/11/2000, Sebas curiosamente mencionó:
+>
+> >>> > Esta mina te está jodiendo... mirá que a mí me gusta la poesía
+críptica y
+> >>> he
+> >>> > leído alguna que otra cosa, pero ya las heterocedasticas proxies y
+las
+> >>> bolas
+> >>> > del gato son demasiado para mi escaso entendimiento.
+> >>>
+> >>> ¿Qué es la poesía críptica? ¿Qué autores la cultivan?
+> hsn>> Yo he leido algo de Joseph P. GoodPrivacy, No me resulto demasiado
+dificil
+> hsn>> entenderlo.
+> S> ¿GoodPrivacy? Si es un chiste no lo entiendo, si es real, no lo
+> S> conozco.
+>
+> PGP, Tonton!!!
+>
+> Sistema de criptografia PGP -> poesia criptica -> Joseph P.
+> GoodPrivacy -> gracioso.
+>
+> Ok?
+
+En las librerias ya esta disponible el proximo best seller intitulado:"Humor
+de ingenieros para dummies"
+
+
+Alejo
+>
+
+

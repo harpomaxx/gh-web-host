@@ -1,0 +1,56 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 14717 invoked from network); 17 Jul 2000 18:30:18 -0000
+Received: from unknown (10.1.10.142) by m4.onelist.org with QMQP; 17 Jul 2000 18:30:18 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 17 Jul 2000 18:30:18 -0000
+Received: (qmail 18942 invoked by uid 417); 17 Jul 2000 18:36:16 -0000
+Received: from mza2ppp-210.uc.infovia.com.ar (209.13.229.210) by smtpb.softhome.net with SMTP; 17 Jul 2000 18:36:16 -0000
+Date: Fri, 14 Jul 2000 19:36:56 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <0817.000714@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: Para todos los...
+In-reply-To: <005701bfede8$6662a680$637c2ac8@tepes>
+References: <005701bfede8$6662a680$637c2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Lupus el Lobo <aldocop@...>
+
+El 7/14/2000 Sebas me decia:
+
+S> ... computontos, cyberñoños y tipos =
+copados que saben mucho de computacion en esta lista...
+S> =BFalguien pod=
+ria responderle una simple pregunta a un ignorante en estas lides?
+S> =BF=
+Porque mi winamp me muestra los nombres de las canciones cortados como esos=
+ archivos de DOS y el mismo cd se ve en otra maquina con el nombre comple=
+to?
+S> Agradezco desde ya las soluciones, muchas, pero muchas gracias
+
+Obvi=
+o: tu winamp no te quiere.
+
+A  mi  me  suele  pasar  esto con varios prog=
+ramas, no tienen afinidad
+conmigo  y  se  reusan  a  funcionar  correctamen=
+te...  te aconsejo lo
+siguiente:  escribiles  palabras  de  amor  en sus l=
+ineas de comandos,
+preferentemente  en ingles, comprales un estabilizad=
+or de tension para
+que se sientan protegidos, correles un antivirus de ve=
+z en cuando para
+que  vean  que  te preocupas por su salud, y si nada de =
+esto funciona,
+formatia  el disco y volve a instalar windon para que ap=
+rendan los muy
+putos,  paso  mas  paso  menos es lo que termina aconsejando=
+ cualquier
+aprendiz de alquimista...
+
+
+

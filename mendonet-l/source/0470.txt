@@ -1,0 +1,37 @@
+From gaucho98@...  Sat Jul 11 23:23:58 2020
+Return-Path: <gaucho98@...>
+X-Sender: gaucho98@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_1); 13 Mar 2003 00:57:11 -0000
+Received: (qmail 87218 invoked from network); 13 Mar 2003 00:57:10 -0000
+Received: from unknown (66.218.66.217)
+  by m3.grp.scd.yahoo.com with QMQP; 13 Mar 2003 00:57:10 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 13 Mar 2003 00:57:10 -0000
+Received: (qmail 8656 invoked by uid 417); 12 Mar 2003 22:09:18 -0000
+Received: from slide-.softhome.net (HELO softhome.net) (172.16.2.21)
+  by shunt-smtp-out-0 with SMTP; 12 Mar 2003 22:09:18 -0000
+Received: from localhost (localhost [127.0.0.1])
+  (uid 417)
+  by softhome.net with local; Wed, 12 Mar 2003 15:09:18 -0700
+References: <3E660C77.9080602@...>
+            <0879.030310@...>
+            <3E6DDF47.10005@...>
+In-Reply-To: <3E6DDF47.10005@...> 
+To: mendonet-l@...
+Subject: que pasa?
+Date: Wed, 12 Mar 2003 15:09:18 -0700
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Sender: gaucho98@...
+Message-ID: <courier.3E6FB00E.00004B56@...>
+From: gaucho98@...
+X-Originating-IP: [200.45.244.23]
+X-Yahoo-Group-Post: member; u=81303232
+
+Hola es a mi a todos les pasa que solo les llega uno o dos mensajes por dia?
+mis mensajes ya no llegan a la lista, y no me llegan la cantidad de emnsajes 
+que me llegaba antes.
+que pasa???
+

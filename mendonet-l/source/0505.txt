@@ -1,0 +1,58 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_4); 8 Feb 2003 11:50:01 -0000
+Received: (qmail 30368 invoked from network); 8 Feb 2003 11:50:00 -0000
+Received: from unknown (66.218.66.217)
+  by m10.grp.scd.yahoo.com with QMQP; 8 Feb 2003 11:50:00 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 8 Feb 2003 11:50:00 -0000
+Received: (qmail 20102 invoked by uid 417); 8 Feb 2003 11:50:00 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 8 Feb 2003 11:50:00 -0000
+Received: from dup-200-42-124-226.prima.net.ar ([200.42.124.226])
+  by softhome.net with esmtp; Sat, 08 Feb 2003 04:49:57 -0700
+Date: Sat, 8 Feb 2003 08:43:44 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <0363.030208@...>
+To: Herr Groucho <mendonet-l@...>
+Subject: Re[2]: (unknown)
+In-reply-To: <3E43DED9.5040206@...>
+References: <3E43DED9.5040206@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+>> Todo depende de la manera de organizarse... pensar en un
+>> psicopedagogo, psicologo, trabajador social o cosas por el estilo para
+>> cada colegio marginal no es tan descabellado, y permitiría manejar
+>> mejor las problemáticas particulares.
+
+HG> Un ejercito de psicopedagogos no pueden reemplazar la supervision ni el 
+HG> conocimiento de los detalles que los padres de cada niño tienen.
+
+No, pero si los padres no cumplen o ponen a los pibes a laburar...
+
+HG> No comprendo que acciones concretas tiene que hacer el Estado para 
+HG> lograr la igualdad de oportunidades en la educacion que estamos discutiendo.
+
+Desde alimentación, pasando por evitar el trabajo infantil y hasta
+proporcionar material escolar.
+
+HG> Tomo tu ejemplo de los 2 padres que ganan lo mismo para familias con 
+HG> distinto numero de hermanos. En tu opinion, la familia con menos hijos 
+HG> los educa mejor. Que propones?
+Me estás confundiendo con ska.
+
+
+-- 
+Sebas   
+Bebo para hacer interesantes a las demás personas.                       
+
+
+

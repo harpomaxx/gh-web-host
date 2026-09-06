@@ -1,0 +1,61 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 22 Nov 2001 17:16:22 -0000
+Received: (qmail 92518 invoked from network); 22 Nov 2001 17:16:22 -0000
+Received: from unknown (216.115.97.171)
+  by m5.grp.snv.yahoo.com with QMQP; 22 Nov 2001 17:16:22 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta3.grp.snv.yahoo.com with SMTP; 22 Nov 2001 17:16:22 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by relay1.impsat1.com (8.9.3/8.9.3) with SMTP id OAA26523
+	for <mendonet-l@...>; Thu, 22 Nov 2001 14:22:04 +0300 (GMT)
+Message-ID: <051301c1737a$6f6cf320$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20011117001050.H18473@...> <3825.011117@...> <20011118140319.I26861@...> <002d01c17263$a6010ce0$9a4afea9@hfgg>
+Subject: Re: Roxette
+Date: Thu, 22 Nov 2001 10:50:33 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+
+> > > >> GM> Si no, es solo un truco comercial de MTV y no un
+> > > >> GM> verdadero unplugged.
+> > > GM> Eso debe ser... Vos viste un truco publicitario, no un
+> > > GM> verdadero umplugged.
+> > >
+> > > ¿Este es el famoso "autodiálogo"?
+> > No.. Estaba dialogando con Oxiuro.
+> >
+> > Referencias:
+> >          Grocuho
+> > >        Sebas
+> > > GM>    Groucho
+> > > >      Groucho
+> > > >>     Oxiuro
+> > > >> GM> Groucho
+>
+> ... Groucho, plis...
+
+Que pasa? Crees que los estoy engañando? De haber estado hablando conmigo
+mismo, habrian 2
+atribuciones de Groucho adyacentes en el dialogo y no es el caso.
+Ademas, no tienen por que creer lo que yo digo: cada mensaje tiene cabeceras
+que hacen referencia al mensaje al cual se esta respondiendo, asi que es muy
+facil ver si yo me respondi a mi mismo o no.
+Los que tienen buenos programas de correo electronico pueden hacer esto
+usando el modo threads para mostrar los mensajes en una estructura de arbol
+vinculados por la relacion "es respuesta de".
+
+--
+Groucho
+
+
+

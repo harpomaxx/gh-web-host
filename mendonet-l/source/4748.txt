@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 18 Sep 2001 09:56:48 -0000
+Received: (qmail 43617 invoked from network); 18 Sep 2001 07:05:29 -0000
+Received: from unknown (10.1.10.142)
+  by l10.egroups.com with QMQP; 18 Sep 2001 07:05:29 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.23)
+  by mta3 with SMTP; 18 Sep 2001 07:05:27 -0000
+Received: (qmail 7423 invoked by uid 1005); 17 Sep 2001 01:12:02 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 3.331902 secs); 16/09/2001 22:11:59
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 17 Sep 2001 01:11:56 -0000
+Date: Sun, 16 Sep 2001 22:11:54 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <01091215270804.00455@cubil> <3939.010912@...>
+In-Reply-To: <3939.010912@...>
+Subject: Re: Re[5]: =?iso-8859-1?q?Tecnica=20vs=20sentimiento?=
+MIME-Version: 1.0
+Message-Id: <01091622115400.00456@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mié 12 Sep 2001 22:32, escribiste:
+
+> GM> Cierto, no es el punto. Si debes cortar por el cuello para no
+> GM> desfigurarle la cara, eso es lo que debes hacer. Si lo haces en
+> GM> otro lado por mas que este cerca, esta mal hecho.
+> Caramba, pensé que se les escaparía el punto... aunque no es
+> estrictamente cierto lo que decís, me descubriste en la intención,
+> asíque te cedo el set.
+
+Lo mio es estrictamente cierto!!
+Yo dije "si debes hacer xxxx entonces xxxx es lo que tenes que hacer".
+
+xxxx=cortar por el cuello.
+
+Formalmente: x implica x que es una tautologia, asi que el set lo gane 
+con limpieza.
+
+
+
+
+-- 
+Groucho Marx
+

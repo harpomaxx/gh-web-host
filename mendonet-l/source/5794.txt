@@ -1,0 +1,43 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 25 Aug 2001 00:41:09 -0000
+Received: (qmail 80000 invoked from network); 25 Aug 2001 00:41:09 -0000
+Received: from unknown (10.1.10.142)
+  by l7.egroups.com with QMQP; 25 Aug 2001 00:41:09 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta3 with SMTP; 25 Aug 2001 00:41:08 -0000
+Received: from elserver.micasa (200-41-21-158-tntmen1.impsat.net.ar [200.41.21.158])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with ESMTP id VAA08827
+	for <mendonet-l@yahoogroups.com>; Fri, 24 Aug 2001 21:41:13 +0300 (GMT)
+Received: (from harpo@localhost)
+	by elserver.micasa (8.8.7/8.8.7) id VAA06226
+	for mendonet-l@yahoogroups.com; Fri, 24 Aug 2001 21:25:19 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Fri, 24 Aug 2001 21:25:19 -0300
+To: mendonet-l@yahoogroups.com
+Subject: Re: Otro suscripto
+Message-ID: <20010824212519.C6193@...>
+Reply-To: harpo@...
+References: <007701c12a72$1f1e43c0$6301a8c0@g8> <1613.010822@...> <01082300591103.00404@cubil>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <01082300591103.00404@cubil>; from groucho@... on Thu, Aug 23, 2001 at 12:59:11AM -0300
+X-Operating-System: Linux elserver.micasa 2.2.18 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: Harpo Maxx <harpo@...>
+
+El Thu, Aug 23, 2001 at 12:59:11AM -0300, Groucho Marx dijo:
+> uno piensa.
+> 
+> Definicion corta:
+> Se trata de una lista acerca de nada.
+
+Con temas tan variados como la vida misma!
+
+-- 
+Harpo+
+

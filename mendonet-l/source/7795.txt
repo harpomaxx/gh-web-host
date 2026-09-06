@@ -1,0 +1,61 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 28 Oct 2000 01:09:41 -0000
+Received: (qmail 24011 invoked from network); 28 Oct 2000 01:09:41 -0000
+Received: from unknown (10.1.10.26) by m2.onelist.org with QMQP; 28 Oct 2000 01:09:41 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta1 with SMTP; 28 Oct 2000 01:09:39 -0000
+Received: from antro.micasa ([200.41.31.103]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA18990 for <mendonet-l@egroups.com>; Fri, 27 Oct 2000 22:10:12 +0300 (GMT)
+Date: Thu, 26 Oct 2000 08:50:51 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <13368.001026@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re: Otra vez...
+In-reply-To: <004601c03de1$58d27f60$ce7d2ac8@tepes>
+References: <004601c03de1$58d27f60$ce7d2ac8@tepes>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 24/10/2000, Sebas agresivamente inventó:
+
+S> Cada vez que abro un documento de word, me dice que no hay espacio
+S> en el disco(quedan 710 Mb) y que deberé guardarlo en otra unidad.
+S> Per oese cartelito no me rompe tanto las pelotas, es decirle que
+S> sí y pasar a otro tema,
+
+Y te vas a adaptar asi de facil a los errores del programa?
+
+
+S>  lo que me jode es que no me deja guardar
+S> los documentos que uso por primera vez de una manera que no sea una
+S> plantilla. Existe la posibilidad de que sea un virus, pero
+S> quería saber si puede ser alguna otra cosa.
+
+El cartel de Word de "no queda espacio" significa en realidad "no
+puedo escribir en el archivo de salida".
+
+Aunque que no quede espacio es la causa mas comun de no poder escribir
+en un archivo, hay varias otras que los que hicieron el Word no parece
+que tuvieron en cuenta.
+Lo que hay que hacer es descubir por que no puede escribir en el
+archivo de salida y en que casos si puede.
+
+Una de las causas es que el archivo este bloqueado por otro proceso
+(otra instancia de Word), pero si te pasa solo con archivos nuevos,
+entonces tampoco es eso.
+
+Una pregunta: si lo grabas como plantilla, pero con extension doc, te
+deja grabarlo?
+
+-- 
+Groucho Marx
+Un biplaza gallego se estrelló en un cementerio. Ya rescataron 5000
+cadáveres.
+
+
+

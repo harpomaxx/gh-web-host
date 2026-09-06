@@ -1,0 +1,188 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 30935 invoked from network); 9 Jul 2000 16:30:01 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 9 Jul 2000 16:30:01 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 9 Jul 2000 16:30:00 -0000
+Received: from 200.41.31.84 ([200.41.31.84]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id NAA28935 for <mendonet-l@egroups.com>; Sun, 9 Jul 2000 13:32:41 +0300 (GMT)
+Date: Sun, 9 Jul 2000 13:03:23 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <16544.000709@...>
+To: Lupus el Lobo <mendonet-l@egroups.com>
+Subject: Re[2]: Buenas, soy el oxiuro!!
+In-reply-To: <18762.000707@...>
+References: <18762.000707@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 07/07/2000, Lupus temeroso murmuró:
+
+gt>> Aver quién sabe esto:
+
+gt>> Se posee una lámina de cartón cuadrada de lado L y se
+gt>> desea hacer una caja sin tapa de volumen máximo: ¿Cuál
+gt>> deben ser las medidas de la base y la altura de las
+gt>> paredes para que se cumpla esto?
+gt>> por favor siéntanse libre de contestar y ya les tendr�
+gt>> nuevos problemas de la vida real.
+
+LeL> Supongo  que  esta  respuesta llegará tarde porque este mail recién lo
+LeL> veo  hoy  y  alguien habrá respondido ya... además calculo que esperás
+LeL> una  especie  de  demostración  que  fundamente la respuesta... bueno,
+LeL> intentaré algo rapidito...
+
+LeL> La  solución  fácil  que  se  me  ocurre  es  esta:  sabemos  que  la
+LeL> configuración  óptima  corresponde a un cubo de arista a, porque es el
+LeL> que más se acerca a una esfera. Además sabemos que la superficie total
+LeL> del  cubo será: S=LxL, osea L exp 2 ("exp" implica "elevado a la"). la
+LeL> superficie  de  un  cubo sin tapa sera de arista "a" será: a exp 2 x 5
+LeL> (ya que serán 5 caras). entonces:
+
+LeL> L exp 2 = a exp 2 x 5
+
+LeL> a=  raiz cuadrada de (L al cuadrado sobre 5). Me cago en mi edición de
+LeL> fórmulas...  esa  es  una  respuesta válida para el alto y ancho de tu
+LeL> cubo,  pero  supongo  que  no  es la respuesta que buscás, simplemente
+LeL> porque  ese  cubo  es  bastante  difícil  de construir... tendrías que
+LeL> cortar   primero  los  cuatro lados que entran en la cartulina y luego
+LeL> armar  el  otro  cuadrado con unas franjitas de longitud mayor que a y
+LeL> ancho  mucho  menor  que  a...
+
+Bueno, pero tampoco eso se puede...
+Fijate las tiritas que te sobran tienen suficiente superfice en total
+como para armar el cuadrado de lado l/sqrt(5) (donde sqrt() es la
+funcion "raiz cuadrada de") pero dado que sqrt(5) es un numero
+irracional, NO EXISTE ninguna forma de agrupar tiras una al lado de la
+otra cuya suma sea l/sqrt(5). Si fuera de otro modo, entonces sqrt(5)
+seria divisible por el numero de tiras y no seria irracional....
+
+Igual nadie dice que las tiras tengan que ser iguales ni nada, asi que
+es un argumento muy debil.
+
+Igual, tratandose de un supuesto problema "del mundo real, voy a
+exigir a mi solucion que implique el menor numero de pasos en la
+construccion d la caja. Nada de coleccionar tiritas y pegarlas! para
+que la caja sea estructuralmente mas robusta y mas linda como obra
+de arte al no tener tantos pedazos pegados.
+
+La solucion que yo propongo, implica desperdiciar 4 cuadraditos en las
+cuatro esquinas, los cuales podrian usarse como materia prima para
+fabricar cajas de tamaño menor y asi ad-infinutum, logrando una gama
+completa de productos y sin desperdiciar nada. :-)
+
+
+La idea es cortar la caja asi: (usar una fuente de espaciado fijo para
+mirar!!!)
+
+  +---+       +---+
+  |   | +---+ |   |  <-- tirar al tacho de basura estos 4 o usarlos
+  +---+ |   | +---+      como aletas para pegar las aristas.
+    +---+---+---+
+    |   |   |   |  <-- caja desarrollada
+    +---+---+---+
+  +---+ |   | +---+
+  |   | +---+ |   |
+  +---+       +---+
+
+Los 4 cuadrados de las esquinas no tienen que ser de igual tamaño que
+la base de la caja. Considero recortar cuadrados porque si cortara
+rectangulos, derrocharia mas carton y no aumentaria en nada ninguna
+dimension de la caja resultante.
+Si bien el fin de semana pude demostrar que efectivamente la
+intuicion de que la caja cuadrada es la mas conveniente en cuanto a
+que encierra mayor volumen con menor superficie, no esta claro que
+dadas las restricciones de este problema, deba construirse una caja
+cuadrada. Una caja petisa derrocharia menos carton en las esquinas,
+por lo podria ser que al tener mas superficie involucrada en la caja
+logremos encerrar mas volumen que con una caja cuadrada.
+
+Entonces el problema es un simple caso de maximizar una funcion
+polinomica de una sola variable.
+
+Este problema se resuelve hallando los extremos relativos de la
+funcion, en donde la derivada primera es nula. Luego se evalua el
+signo de la derivada segunda para ver si lo que hallamos era un
+minimo o un maximo.
+
+
+Solucion:
+
+Si a un cuadrado de lado L le recortamos en las esquinas 4 cuadrados
+de lado x, resulta el desarrollo de una caja sin tapa  de altura x y
+base cuadrada de lado (L-2x).
+El volumen que esta caja puede contener (despreciando el espesor de
+las paredes) es:
+
+   V = x*(L-2x)^2    (el operador "^" significa "elevado a")
+                     (el operador "*" significa "multiplicado por")
+
+Desarrollando:
+
+   V = 4x^3-4Lx^2+xL^2 (un polinomio de orden 3)
+
+En el maximo de la funcion V(x) se cumple:
+
+    V'(x)=0
+
+O sea:
+
+   12x^2-8Lx+L^2=0
+
+Al resolver la ecuacion para x, hallamos que:
+
+   x=L/2
+   x=L/6
+
+son soluciones.
+
+Para ver si alguno de esos puntos es un maximo relativo, vemos
+el signo de la derivada segunda de V(x):
+
+    V"(x)=24x-8L
+    V"(L/2)=4L >0
+    V"(L/6)=-5L <0
+
+En un maximo relativo, la derivada segunda en negativa, por lo
+tanto, la solucion que buscamos es:
+
+  x=L/6
+
+
+LeL> A ver, otro intento:
+
+LeL> El volumen de la caja sin tapa será: V= B1*B2*h (B1 y B2 son los lados
+LeL> de la base que así no es necesariamente cuadrada, y h la "haltura". El
+LeL> problema  está en la restricción de que los 4 pedazos de caret�n deben
+LeL> salir  de  una  cartulina  cuadrada  de  lado L... mmm... lo que se me
+LeL> ocurre  hacer  es intentar escribir mtemáticamente las restricciones y
+LeL> después   expresar   las  medidas  que  te  dije  en  función  de  las
+LeL> restricciones  geométricas  al cortar la cartulina en 5, después poner
+LeL> la  ecuación  de V en función de las restricciones, derivar, igualar a
+LeL> cero  y  sacar los óptimos... esta solución va a ser limpita pero
+LeL> engorrosísima...
+
+Bueno, es lo que hice y es 0 engorroso!!!!
+Estos ingenieros industriales son unos afeminados que arrugan a la
+primera derivada que ven!!!!
+JAJAJAJJAAJ!!!!!
+
+
+LeL> La verdad que estuve haciendo un par de dibujos y no se me ocurre cómo
+LeL> cortar  la  cartulina  en  5 rectángulos que luego sirvan para armar la
+LeL> caja,  osea, que compartan las dimensiones b1, b2 y h en como debe ser
+LeL> y  a  la  vez  que  no sobre cartulina... a lo mejor hay que buscar un
+LeL> óptimo  en  el que sobre algo de cartulina... o a lo mejor la solución
+LeL> que buscabas es la que di primero... espero tu respuesta.
+
+Que no sobre cartulina? Quiero ver eso!!!
+
+
+-- 
+Groucho Marx
+Una tortuga me quitó la dentadura. -- Abel J. Simpson
+
+
+

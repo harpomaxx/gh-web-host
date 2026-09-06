@@ -1,0 +1,73 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+Received: (qmail 31053 invoked from network); 15 Sep 2000 19:15:16 -0000
+Received: from unknown (10.1.10.27) by m2.onelist.org with QMQP; 15 Sep 2000 19:15:16 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.9) by mta2 with SMTP; 15 Sep 2000 19:15:14 -0000
+Received: from a2d57.impsat.net.ar (a2d57.impsat.net.ar [200.41.21.117]) by relay3.impsat1.com (8.9.3/8.9.3) with ESMTP id QAA19693 for <mendonet-l@egroups.com>; Fri, 15 Sep 2000 16:16:32 +0300 (GMT)
+Date: Wed, 13 Sep 2000 20:51:04 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <3868.000913@...>
+To: harpo <mendonet-l@egroups.com>
+Subject: Re[2]: Llega el cablemodem a Mendoza...
+In-reply-To: <Pine.LNX.4.04.10009121226580.21251-100000@...>
+References: <Pine.LNX.4.04.10009121226580.21251-100000@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 12/09/2000, harpo apurado escribió:
+
+h> EL cable modem esta en mendoza desde hace 2 años, de la mano de DON VILA.
+h> Lo unico es que no te lo instalan... no me pregunten por que.
+h> SOLO UNOS PREVILEGIADOS LO TIENEN
+
+Al principio se trato de un problema de tasa interna de retorno...
+Solo les conviene instalar cable modem donde saben que un gran
+porcentaje de clientes van a suscribir el servicio.
+
+La red de supercanal es un hibrido fibra coaxil como corresponde para
+cubrir grandes distancias con poca atenuacion, poco apilamiento de
+amplificadores troncales, y baja cifra de ruido.
+
+La red funciona apropiadamente para transmitir desde el head-end (la
+planta de Supercanal) a cada abonado, pero para transmisiones en
+direccion opuesta se requiere un cambio en todos los amplificadores de
+RF sean bidireccionales (es una forma de decir, internamente son 2
+amplificadores conectados en forma opuesta y con diferentes bandas
+pasantes).
+
+La inversion no es tan terrible, pero el problema es que la banda de
+frecuencia donde ocurren las transmisiones del cable modem al head-end
+(10 a 20 MHz) en primero muy ruidosa (en esa frecuencia transmiten las
+radios de los taxis, y las etapas de FI de todos los receptores de FM
+del universo tanto de radio como de television). Tales interferencias
+no deberian meterse dentro del cable pero lo hacen.
+Por otro lado, la topologia de la red (todo el mundo conectado al
+mismo cable) implica que si el cablemodem del vecino esta
+transmitiendo, yo debo esperar unos milisegundos a que el termine
+antes de poder transmitir mis datos) exactamente igual que en las
+redes Ethernet.
+
+Estos 2 efectos combinados hacen que a Supercanal no le convenga tener
+muchos clientes de cable modem, porque mientras mas clientes tenga,
+pero va a a andar.
+
+Una solucion cara a esto es usar enrutadores o switchs el la red, los
+cuales deberian colgar de los postes cada 2 a 10 cuadras segun la
+densidad del servicio.
+ESO no estan dispuestos a hacerlo segun el ing Gorostrdoy (gerente
+tecnico de supercanal y profesor mio de Sistemas de Comunicaciones 3)
+por lo que olvidense del cable mierda para siempre.
+
+Mucho mejor usar ADSL de la Telefonica!!!
+
+
+-- 
+Groucho Marx
+Si tuviera mi revólver, lo mataría. -- Homero J. Simpson
+
+
+

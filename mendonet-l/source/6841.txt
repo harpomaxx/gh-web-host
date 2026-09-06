@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 17 Nov 2000 03:09:58 -0000
+Received: (qmail 87281 invoked from network); 17 Nov 2000 03:09:56 -0000
+Received: from unknown (10.1.10.26) by l8.egroups.com with QMQP; 17 Nov 2000 03:09:56 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 17 Nov 2000 03:09:54 -0000
+Received: from antro.micasa ([200.41.31.49]) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id VAA05712 for <mendonet-l@egroups.com>; Thu, 16 Nov 2000 21:05:12 -0300 (GMT)
+Date: Fri, 17 Nov 2000 00:03:31 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <112.001117@...>
+To: Sebas <mendonet-l@egroups.com>
+Subject: Re[5]: Un par de preguntas sobre the bat
+In-reply-To: <6559.001115@...>
+References: <6559.001115@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 15/11/2000, Sebas angustiado mencionó:
+
+S>>> ¿Y cookies?
+GM>> Esa era la segunda pregunta? Veo con agrado que estas investigando las
+GM>> opciones de The Bat.
+GM>> Cookies son esas frases graciosas al azar que los tipos cool como
+GM>> Conan y yo incluimos al final de nuestros mensajes.
+S> Veré si puedo hacerlo funcionar, igual si te pinta podés tirarme una
+S> explicación de como se hace... no dej�, no debe ser muy
+S> complicado...�a�n para un estudiante de medicina!
+
+La forma en la que lo hago andar yo es bastante mas complicada de lo
+que deberia ser... Pero que queres... Me encapriche con cookies de mas
+de un renglon de longitud, y la inmensa mayoria de los programas de
+mail que procesan cookies por si mismos aceptan cookies de un solo
+renglon.
+
+Si te conformas con un solo renglon, simplemente escribi las cookies
+de tu agrado (a mano, copy-pasteando o como sea) en el cuadro de
+dialogo: Cuenta -> Propiedades -> Plantillas -> Cookies
+
+-- 
+Groucho Marx
+Es mucho más fácil sugerir soluciones cuando no se sabe nada del problema.
+
+
+

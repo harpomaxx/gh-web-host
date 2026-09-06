@@ -1,0 +1,180 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 30 Nov 2001 21:29:21 -0000
+Received: (qmail 37841 invoked from network); 30 Nov 2001 21:29:21 -0000
+Received: from unknown (216.115.97.167)
+  by m11.grp.snv.yahoo.com with QMQP; 30 Nov 2001 21:29:21 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.95)
+  by mta1.grp.snv.yahoo.com with SMTP; 30 Nov 2001 21:29:18 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 169tx1-0008Dw-00
+	for <mendonet-l@...>; Fri, 30 Nov 2001 17:07:59 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 169tx0-0008Dl-00
+	for <mendonet-l@...>; Fri, 30 Nov 2001 17:07:58 -0300
+Date: Fri, 30 Nov 2001 17:07:57 -0300
+To: mendonet-l@...
+Subject: Re: Siguen las preguntas =?iso-8859-1?Q?in?=
+	=?iso-8859-1?B?Zm9ybeF0aWNhcy4uLg==?=
+Message-ID: <20011130170757.D31458@...>
+References: <01c101c17830$d44c0640$060aa8c0@...> <9789.011129@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <9789.011129@...>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Thu, Nov 29, 2001 at 06:57:35PM -0300, Lupus wrote:
+
+> >> 2)  si  vos  tenés  acceso a la fuente, me podés pasar a mí, que ni en
+> >> pedo me pondría a leer ese código, un programa modificado por vos para
+> >> hacer  con mi máquina lo que quieras...
+> 
+> GM> Y que? Si te doy el programa compilado, no solo vos no podrias ver si le
+> GM> hice una modificacion maligna sino que casi nadie mas.
+> GM> El codigo fuente impide la malicia, en lugar de fomentarla.
+> 
+> Si,  pero al australiano ese muy dificilmente le interese romperme los
+> huevos  a  mí que vivo tranqui acá en argentina... si hubiera enlatado
+> su  programejo vos, que me conocés y podrías jugarme algún chistecito,
+> no  podrías  tocar  lo  que  correr� en mi máquina... pero así, vos, o
+> harpo  o  alguno  de  mis  conocidos cercanos podrían acceder a mí con
+> mayor facilidad...
+
+2 cosas:
+1) No tenes por que aceptar un programa si no podes ver el codigo fuente.
+Exigime el codigo fuente y vas a ver como automaticamente se me van las
+ganas de hacerte joditas (hint: le pedis a Harpo que revise mi programa)
+2) Yo soy un programador competente asi que si quisiera hacerte una jodita
+no me cuesta nada escribir un troyano que invoque al programa enlatado
+que supuestamente no puedo modificar, de manera que primero se ejecute
+mi jodita en mi programa y luego se invoque el programa original.
+
+
+> Bueno...  ese  es  un buen punto... pero entonces los programadores de
+> open sources deben ser conocidos, o no funciona lo de la reputación...
+> vos sabés cómo se llama el australiano ese...?
+
+De este en particular no recuerdo el nombre. Quizas Kastor se acuerde.
+Y que no me acuerde del nomnbre no prueba nada. Yo no se como
+se llama ningun integrante de casi ningun grupo de musica y su popularidad
+y reputacion no se ven afectadas en nada.
+
+
+> GM> 2) firmas digitales: si vos crees o sospechas que te di una version
+> GM> toqueteada del codigo fuente, obtene la version original del autor
+> GM> (posiblemente firmada digitalemente) para verificar cuales fueron
+> GM> mis cambios si es que hubieron.
+> GM> Con lo que sabes de C serias capaz de entender si el cambio es
+> GM> perjudicial o no, o podrias pagarle a alguien para que se fije.
+> 
+> Firma   digital...  eso  me  interesa...  cómo  funciona?  hay  algún
+> mecanismo de seguridad, además de  la filosofía open source?
+
+Las firmas digitales son una aplicacion de la criptografia que permite
+distinguir si un archivo fue modificado o no, y si se origina en quien
+se supone que se esta originando.
+Justo preste mi libro de Redes, asi que la explicacion va a ser bastante
+mas imprecisa de lo que me gustaria.
+Hay 2 esquemas de firmas digitales: uno distribuido y otro centralizado. La
+diferencia es en quien tenes confianza. En el sistema distribuido (por ejemplo
+GPG) vos confias solamente en quien queres confiar, con los motivos de
+confianza que se te de la gana. En el sistema centralizado hay autoridades
+de certificacion, mas o menos como los bancos que te hacen registrar la firma
+y luego cuando firmas algo pueden en teoria ir a preguntar al banco si
+es tu firma y que tan buena persona sos.
+
+El fundamento de las firmas digitales es la critpografia de clave publica.
+Esto es un metodo de cifrado en el cual la clave para cifrar es diferente
+de la clave para descifrar, y ademas, es extraordinariamente dificil
+deducir una clave de otra.
+
+Entonces yo genero 2 claves: una me la guardo en forma secreta (clave
+publica) y la otra la publico en algun lugar donde cualquiera pueda
+conseguirla (clave privada).
+Lo que se encripta con la clave publica solo puede desencriptarse con la
+clave privada y viceversa.
+
+Firmar un archivo seria tener alguna forma de saber si es verdad o no que
+yo lo origine, y que lo que te llega es exactamente igual a lo que yo
+envie.
+Tomo el archivo a firmar, le adjunto mi clave publica, y calculo un "hash" del
+conjunto resultante. Un "hash" es un dato mucho mas pequeño que el archivo
+original, de tamaño fijo y calculado de tal manera que sea muy improbable que
+a 2 archivos diferentes les corresponda el mismo hash.
+Un hash muy ñoño seria contar todas las letras del archivo: 40 aes, 12 bes,
+32 ces, ... 2 zetas, siendo el hash la yuxtaposicion de todos esos numeros:
+401232.....2 Solo los archivos que tengan igual cantidad de cada letra tienen
+el mismo hash y podemos suponer que eso es muy improbable.
+
+Luego encripto con mi clave privada el conjunto formado por el archivo
+original, el hash y mi clave publica y te lo mando por mail.
+
+Vos recibis el archivo y queres saber si es verdad que lo mande yo. Usas mi
+clave publica para desencriptarlo, y al hacerlo obtener 3 datos: mi clave
+publica, la cual podes comparar con la clave publica que obtuviste previamente
+de mi de un canal seguro (te la di personalmente en la casa de Conan) y de la
+cual estas seguro que es mi clave publica y no la de un ñoño que se hizo
+pasar por mi (porque te fijaste que tuviera esa horrible marca de nacimiento
+detras de la oreja al momento de recibir mi clave publica).
+solo yo se mi clave privada, asi que solo yo pude haber sido capaz de
+encriptar mi clave publica de forma que vos pudieras desencriptarla
+correctamente asi que mi autoria del archivo queda probada.
+
+Luego recalculas el hash del conjunto archivo+clave publica y te fijas
+si coincide con el que recibiste de mi.
+Si coinciden entonces el archivo es igual al que yo genere con una altisima
+probabilidad.
+
+De esta forma podes verificar que el archivo no se cambio y que no lo
+envio un tercero, exactamente el tipo de certezas que esperas de un
+documento de papel firmado.
+
+
+
+> >> en  lugar de pedirtelo a vos, porque de todos modos no leeré el código
+> >> y   quienquiera   que  sea  que  me  lo  esté  dando  podría  haberlo
+> >> targiversado...  eso  suponiendo  si  no  es  que  el original no está
+> >> desde  un  ppio construido con el fin de dejar mi máquina a merced del
+> >> clan  autoproclamado  geek  clan,  y  cuyo  fin es sencillamente el de
+> >> dominar al mundo...  ahhhhhggggggg!!!!!!!!!
+> 
+> GM> Dejate de joder. Si el clan autoproclamado de geeks quisiera dominar el
+> GM> mundo
+> GM> mediante puertas traseras en los programas, seria mucho mas facil
+> GM> descubrirlo
+> GM> teniendo el codigo fuente que no teniendolo. No tenes argumentos.
+> 
+> Lo  de  dominar  al  mundo  era absolutamente un chiste... nunca viste
+> pinky y cerebro...??
+
+Por supuesto. Pero sucede que SI ES EL OBJETIVO DEL AUTOPROCLAMADO CLAN
+DE GEEKS DOMINAR AL MUNDO. Por ejemplo, es el lema de todos los eventos
+que organiza el LUGMen.
+
+> GM> Insisto en que que vos seas un salame que no puede leer un programa no
+> GM> dice nada acerca de las ventajas y desventajas de disponer del codigo
+> GM> fuente.
+> 
+> La   mayoria   de  las  personas  somos  salames  incapaces  de  leer
+> programas...  de  hecho en este sentido yo no lo soy tanto como podría
+> serlo...
+
+Y como ayuda a los salames el hecho de que solo el autor de un programa
+pueda cambiar CON FACILIDAD el comportamiento de un programa?
+Quizas si razonas sobre el argumento contrario al que yo defiendo,
+presentandolo de manera coherente podamos todos ver claramente si el codigo
+abierto ayuda o no a la seguridad de los programas.
+
+
+-- 
+Groucho
+
+
+
+

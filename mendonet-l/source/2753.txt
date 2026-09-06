@@ -1,0 +1,53 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 22 Nov 2001 21:57:49 -0000
+Received: (qmail 63089 invoked from network); 22 Nov 2001 21:57:49 -0000
+Received: from unknown (216.115.97.171)
+  by m10.grp.snv.yahoo.com with QMQP; 22 Nov 2001 21:57:49 -0000
+Received: from unknown (HELO gateway.micasa.org.ar) (200.41.31.50)
+  by mta3.grp.snv.yahoo.com with SMTP; 22 Nov 2001 21:57:49 -0000
+Received: from mail by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 1671w6-00049K-00
+	for <mendonet-l@...>; Thu, 22 Nov 2001 19:03:10 -0300
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 1671w5-000497-00
+	for <mendonet-l@...>; Thu, 22 Nov 2001 19:03:09 -0300
+Date: Thu, 22 Nov 2001 19:03:08 -0300
+To: mendonet-l@...
+Subject: Re: Rebax y su =?iso-8859-1?B?ZW1vY2nzbi4u?=
+	=?iso-8859-1?Q?=2E?=
+Message-ID: <20011122190308.G14383@...>
+References: <1006270950.592.56346.m12@...> <001701c17375$df3a6ac0$53e60dd1@LocalHost>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <001701c17375$df3a6ac0$53e60dd1@LocalHost>
+User-Agent: Mutt/1.3.23i
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+
+On Thu, Nov 22, 2001 at 01:30:05PM -0300, morocho wrote:
+
+> >Si una pelicula no la ve nadie, se dice que fracaso. En un espectaculo, los
+> >espectadores son primarios y su razon de ser.
+> >Si un juego deportivo no es jugado por nadie, se dice que fracaso. Los
+> >espectadores son secundarios, la razon de ser es el ejercio fisico y la
+> >competencia constructiva.
+>   De ninguna manera!!!
+>   Euu genio...es lo mismo:
+>   Actores=Futbolistas
+>   Espectador=Hincha
+
+Es lo mismo en el caso de un deporte pervertido y convertido en espectaculo
+como el futbol.
+Pero el futbol no me interesa para nada, yo estoy hablado de deportes en
+general.
+
+-- 
+Groucho
+
+
+
+

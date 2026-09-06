@@ -1,0 +1,55 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 5 Oct 2001 02:47:40 -0000
+Received: (qmail 51133 invoked from network); 5 Oct 2001 02:47:40 -0000
+Received: from unknown (10.1.10.142)
+  by 10.1.1.221 with QMQP; 5 Oct 2001 02:47:40 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta3 with SMTP; 5 Oct 2001 02:49:52 -0000
+Received: from gateway.micasa.org.ar (200-41-31-106-rdunysd1.impsat.net.ar [200.41.31.106])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id XAA24341
+	for <mendonet-l@...>; Thu, 4 Oct 2001 23:55:17 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.32 #1 (Debian))
+	id 15pKpv-0000YD-00
+	for <mendonet-l@...>; Thu, 04 Oct 2001 23:35:39 -0300
+Date: Thu, 4 Oct 2001 23:36:27 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <7983.011004@...>
+To: Sebas <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbOF06IElkZWFzIEFudGlxde1zaW1hcyAz?=
+In-reply-To: <2582.011004@...>
+References: <2582.011004@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Sebas,
+
+Thursday, October 04, 2001, 1:59:18 PM, you wrote:
+
+
+L>> Solo puedo decir en mi defensa que es cierto lo que dice xebax...
+L>> realmente me gusta la cosa pedagógica...
+S> Está bien, pero antes de pedagogizarte, podrías preguntarle a los que
+S> están con vos si les interesa la clase... al respecto recuerdo una
+S> charla que el guagua y yo sufrimos rumbo a Córdoba hace algo más de un
+S> a�on en la cual tratabas de explicarnos porqué en el tendido eléctrico
+S> había un cable que iba más arriba que los demás... �?
+
+El cable de guarda!!!! Funciona como pararayos.
+Lo mas divertido de viajar es tratar de entender todo el entorno, y la
+gente que alli vive.
+
+
+-- 
+Best regards,
+ Groucho                            mailto:groucho@...
+
+
+

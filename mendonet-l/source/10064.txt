@@ -1,0 +1,94 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+Received: (qmail 9819 invoked from network); 22 Jun 2000 18:05:14 -0000
+Received: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 22 Jun 2000 18:05:14 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta2 with SMTP; 22 Jun 2000 18:05:13 -0000
+Received: (qmail 15244 invoked by uid 417); 22 Jun 2000 18:08:08 -0000
+Received: from mza2ppp-40.uc.infovia.com.ar (209.13.229.40) by smtpb.softhome.net with SMTP; 22 Jun 2000 18:08:08 -0000
+Date: Thu, 22 Jun 2000 12:23:43 -0700
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus el Lobo <aldocop@...>
+X-Priority: 3 (Normal)
+Message-ID: <10516.000622@...>
+To: Johi <mendonet-l@egroups.com>
+Subject: Re[2]: mailes de lupus
+In-reply-To: <20000621204817.13094.qmail@...>
+References: <20000621204817.13094.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+From: Lupus el Lobo <aldocop@...>
+
+El 6/21/2000 Johi me decia:
+
+
+J> --- Lupus el Lobo <aldocop@...>=
+ escribio: >
+J> El 6/20/2000 fcanizo@... me decia:
+>> 
+>> fuea>=
+ El 24/06/00, Lupus el Lobo le recalco
+>> insultantemente a Johi:
+>> 
+>> =
+fuea> Che lupo, por que no te pones media pila y le
+>> dedicas por
+>>=
+ fuea> ejemplo todo un dia a estudiar el asunto de tu
+>> mail. (tal
+>> fu=
+ea> vez enviando y reenviando varios paquetes).
+>> Tal vez puedas
+>> fuea> =
+averiguar de una ver por todas que te ocurre.
+>> Es decir, sos
+>> fuea> el =
+unico, asique no tiene por que ser
+>> softhome. Tenes que
+>> fuea> 
+
+=
+>> 
+>> Ahhh... si... =BFy por que ocurre con tanta
+>> aleatoriedad??
+>> 
+=
+>> Igual  voy  a intentar algo con un par de mails, voy
+>> a ver si te env=
+io
+>> una  docenita  de  mails  a  tu  direcion  personal=12
+>> a  ver =
+ si llegan
+>> cortados, para saber si es solo con mendonet
+>> (sospecho que=
+ es asi...).
+>> 
+>> Despues me contas.
+>> 
+J> Che Lupus..nose que mie=
+rda pasa pero la mayoria de tus
+J> mensajes llegan cortados ..pero si te fi=
+jas en la
+J> pagina de e-groups llegan completitos y si ningun tipo
+J> de=
+ problemas.. hay algo raro... 
+
+J> =3D=3D=3D=3D=3D
+J> Johi...
+
+Muy buen dat=
+o! Gracias Johi!
+
+Entonces  el  problema  no  puede  ser  mi programa de ma=
+il ni tampoco
+softhome,  porque  los  mensajes  son  enviados enteros, tien=
+e que ser
+egroups que esta haciendo cagadas!
+
+A  ver  geniecillos,  esto =
+es un llamado a los aprendices de gurus que
+por ahi divagan... =BFQue=
+ puedo hacer???
+
+
+

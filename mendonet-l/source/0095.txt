@@ -1,0 +1,88 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 92894 invoked from network); 11 Sep 2003 17:36:49 -0000
+Received: from unknown (66.218.66.218)
+  by m14.grp.scd.yahoo.com with QMQP; 11 Sep 2003 17:36:49 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (64.76.47.59)
+  by mta3.grp.scd.yahoo.com with SMTP; 11 Sep 2003 17:36:47 -0000
+Received: (qmail 23585 invoked by uid 404); 11 Sep 2003 17:36:43 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar by uid 401 with qmail-scanner-1.16 
+ (uvscan: v4.1.60/v4291. spamassassin: 2.44.  Clear:. 
+ Processed in 0.499886 secs); 11 Sep 2003 17:36:43 -0000
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 11 Sep 2003 17:36:42 -0000
+Date: Thu, 11 Sep 2003 14:36:40 -0300
+To: mendonet-l@...
+Subject: Re: Efemerides.
+Message-Id: <20030911143640.33834b0c.cgimenez@...>
+In-Reply-To: <1048202957.20030911132803@...>
+References: <1048202957.20030911132803@...>
+Organization: XNET Cuyo SA
+X-Mailer: Sylpheed version 0.9.4claws (GTK+ 1.2.10; i386-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pgp-signature";
+ micalg="pgp-sha1"; boundary="=.I8_WEzWbQfJ1oH"
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+
+--=.I8_WEzWbQfJ1oH
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+El Thu, 11 Sep 2003 13:28:03 -0300
+rodralez <rodralez@...> escri=
+bio:
+
+> 
+> Un dia como hoy, un 11 de setiembre, la estupidez del ser huma=
+no se
+> hizo inconmensurable y se transformo en lo que la estupidez
+> inc=
+onmensurable del hombre se suele transformar: en muerte.
+
+ es cierto.. como=
+ paso el tiempo desde que los yanquis mataron gente en
+afganistan no?
+
+> 
+>=
+ Un dia como hoy un grupo de cabrones le jodio la vida a mucha
+> gente,=
+ solamente porque creian que ellos eran los dueños de la verdad.
+> Fund=
+amentalistas, como los llaman por ahi.
+> 
+
+ si.. estos yanquis.. habria que=
+ matarlos a todos..
+
+
+
+-- 
+
+Cristian Gimenez
+http://kastor.org.ar/
+
+XNet Cu=
+yo S.A.
+Investigacion y Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-2=
+61-4252788 
+
+--=.I8_WEzWbQfJ1oH
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+
+iD8DBQE/YLKqSFLIGu/pF3oRAplvAKCkrushMW0qmmeFPzqPkLmT41hUjACgs1/Y
+x1HGDpAHQffy8r9lxBHTdGY=
+=dNbQ
+-----END PGP SIGNATURE-----
+
+--=.I8_WEzWbQfJ1oH--
+

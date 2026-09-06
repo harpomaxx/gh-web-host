@@ -1,0 +1,56 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_1); 12 Sep 2001 05:53:17 -0000
+Received: (qmail 14994 invoked from network); 12 Sep 2001 05:53:03 -0000
+Received: from unknown (10.1.10.142)
+  by m8.onelist.org with QMQP; 12 Sep 2001 05:53:03 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.37)
+  by mta3 with SMTP; 12 Sep 2001 05:52:56 -0000
+Received: (qmail 31716 invoked by uid 1005); 12 Sep 2001 03:05:16 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.186693 secs); 12/09/2001 00:05:15
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 12 Sep 2001 03:05:13 -0000
+Date: Wed, 12 Sep 2001 00:05:12 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <4957.010907@...> <3B9D6B6C.15179.9F25E8@localhost>
+In-Reply-To: <3B9D6B6C.15179.9F25E8@localhost>
+Subject: Re: Se acabo sebitas... UFA!
+MIME-Version: 1.0
+Message-Id: <01091200051201.00446@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mar 11 Sep 2001 01:39, escribiste:
+
+> > Los ataques ya totalmente carentes de elegancia e ingenio de Sebas
+> > y el Liciboy (que parece suscribirse solo a Mendonet para tirarle
+> > mierda a alguien y luego desaparecer), me parece que estan de mas y
+> > los repruebo.
+>
+> Estas totalmente equivocado.
+> Bajo ningún concepto me suscribí a Mendonet para tirarle mierda a
+> nadie. No desaparecí. Aca estoy. Lo que ocurre es que tengo una
+> vida demasiado ocupada y me queda poco tiempo para esto.
+
+Ok, y solo cuando detectas una victima muy facilmente destrozable (ANV, 
+Oxiurio) es que te dignas a escribir?
+Si no escribis, no estas. Ok?
+
+> De todas formas, cuando leas mis últimos mails dirigidos a él,
+> verás que en el fondo mi intención es expresar que me sentí herido
+> por el ataque de ese día, siendo que lo único que yo pretendía era
+> ser sociable. Got the point?
+
+Si, se noto tu intencion. Yo estaba sentado al lado de ustedes 2, pero 
+tambien puedo decirte que el Oxiuro reacciono mas en forma obtusa y 
+confianzuda que agresiva. Es decir que tambien vos te fuieste a la 
+mierda si te sentiste muy agraviado.
+
+-- 
+Groucho Marx
+

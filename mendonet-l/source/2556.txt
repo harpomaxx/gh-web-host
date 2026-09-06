@@ -1,0 +1,150 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 28 Nov 2001 15:48:40 -0000
+Received: (qmail 46283 invoked from network); 28 Nov 2001 15:48:40 -0000
+Received: from unknown (216.115.97.171)
+  by m5.grp.snv.yahoo.com with QMQP; 28 Nov 2001 15:48:40 -0000
+Received: from unknown (HELO relay3.impsat1.com) (200.31.1.19)
+  by mta3.grp.snv.yahoo.com with SMTP; 28 Nov 2001 15:48:40 -0000
+Received: from lagruta (rdumen1-200.41.21.70 [200.41.21.70] (may be forged))
+	by relay3.impsat1.com (8.9.3/8.9.3) with SMTP id MAA03603
+	for <mendonet-l@...>; Wed, 28 Nov 2001 12:40:19 +0300 (GMT)
+Message-ID: <01a701c17825$162f3480$060aa8c0@...>
+To: <mendonet-l@...>
+References: <20011124182134.N6543@...> <16444.011126@...>
+Subject: Re: Re[2]: preguntoso
+Date: Wed, 28 Nov 2001 12:55:19 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+
+> GM> Si hay punteros debe haber asignacion de memoria dinamica. Si no hay
+punteros,
+> GM> entonces el manejo de la memoria dinamica queda a cargo de la maquina
+virtual y
+> GM> el programa es mas sencillo (pero condenado a usar algoritmos mas
+torpes).
+>
+> Pero  convengamos que manejar los punteros es bastante molesto... para
+> hacer  un  programita  choto  la  diferencia  debe  ser  absolutamente
+> despreciable...
+
+Pero los programas chotos no los haces en C, o C++... Los haces en Perl,
+sed, awk, o shell scripting, o si te gustan las cosas nuevas en Python o
+PHP.
+Y no estoy de acuerdo en que el manejo de punteros sea bastante molesto.
+Lo que puede ser molesto es el manejo de la memoria asignada dinamicamente,
+pero en C++ se simplifica bastante debido a la introduccion de los
+operadores
+unarios new y free, mas toda la parafernalia orientada a objetos.
+
+>  es  más...  imagino  que  debe  ser  mecha  empezar a
+> trabajar  con  punteros  solo a partir de programas de una envergadura
+> considerable... a los que nunca creo que acceder�...
+
+Es correcto eso. Mientras mas sofisticado un programa, mas y mas atractivo
+puede ser el uso de punteros.
+De todas formas, cuando sabes usar los punteros y estas en un lenguaje al
+cual se los quitaron te da por las bolas no poder usarlos.
+
+
+> >> no se puede crear una máquina virtual que emule también eso?
+> GM> Si, por supuesto. Pero seria una maquina virtual de Lupus, no de Java.
+>
+> >> y nunca vi que
+> >> permitieran   realmente  hacer  algo  que  fuese  imposible  con  las
+> >> instrucciones tradicionales...
+>
+> GM> Por eso el Java funciona, porque igual podes hacer todo.
+> GM> Turing demostro que cualquier programa puede realizarse disponiendo de
+> GM> solo 3 instrucciones:
+> GM> sumar 1
+> GM> saltearse la siguiente instruccion si el resultado de la operacion
+anterior no es 0.
+> GM> ir a la direccion de memoria x
+> Si... pero lo quiero ver a ese turin programando...
+
+Te sorprenderias... El tipo fue un genio. Entre otras cosas creo las
+bases teoricas de la inteligencia artificial.
+
+> A propósito: cuántas instrucciones tiene assembler? bueno... empecemos
+> por algo más básico: assembler: ¿tiene instrucciones?...
+
+Assembler significa 2 cosas:
+1) Es un lenguaje de programacion que tiene la particularidad de que cada
+una
+de sus intrucciones se corresponde con alguna de las operaciones que el
+procesador puede realizar
+2) Es el compilador que lee un programa escrito en lenguaje assembler y
+genera el programa correspondiente en lenguaje de maquina.
+
+Cada instruccion indica al procesador hacer una operacion
+sencilla del estilo de: leer un registro, sumar 2 registros, leer una
+direccion de
+memoria y cosas asi. Lo mas complicado que puede haber seria: tomar 2
+numeros reales de la pila, elevar el primero a la potencia indicada por el
+segundo
+y guardar el resultado de vuelta en la pila.
+
+En realidad hay 2 tipos de procesadores segun su juego de instrucciones:
+RISC: reduced instruction set computing
+CISC: complex instruccion set computing
+
+La ventaja de RISC es que tiene pocas instrucciones, (de 20 a 60) las cuales
+son muy ortogonales (o sea: todas las instrucciones tienen los mismos modos
+y variedades),
+ y simples de decodificar, de manera que se puede usar la misma palabra de
+instruccion para
+activar cada elemento interno del procesador (data path) y la ejecucion de
+la instruccion
+es muy rapida, tipicamente 1 instruccion por ciclo de maquina.
+La ventaja de CISC es que al tener instrucciones mas poderosas, se pueden
+escribir programas mas cortos, y debido a que el acceso a memoria es
+definitivamente
+la operacion mas lenta de todas las que realiza el procesador, ahorrar
+accesos a memoria
+es una buena idea.
+Debido a que una instruccion CISC requiere por lo general de muchas
+operaciones internas,
+la secuencia de operaciones que corresponde a una instruccion CISC esta
+almacenada en
+una memoria interna del procesador. Esa memoria contiene el programa
+expresado en
+"microcodigo" que es necesario ejecutar por cada instruccion CISC.
+Los procesadorses CISC suelen reconocer entre 600 y 2000 instrucciones.
+
+Cual es mejor, depende de que parte de la tecnica este mas desarrollada
+en un momento particular: si la memoria de muy alta velocidad mejora, CISC
+se
+vuelve mejor, si la logica de control y los compiladores mejoran, RISC se
+vuelve
+mejor.
+Hoy por hoy se cree que RISC es mejor, hace 20 a�nos, eran mejores los CISC.
+Como todo procesador fabricado por Intel mantiene compatibilidad con el 8088
+de 1979, resulta que los procesadores actuales son CISC por fuera pero
+internamente
+descomponen las instrucciones CISC en instrucciones reducidas (pero que no
+son
+RISC porque requieren aun microcodigo). La idea es poner un conversor de
+CISC
+retorcido y feo a CISC bonito y amigable con RISC.
+La idea es poder reordenar o elimiar las instrucciones CISC intermedias,
+para
+aumentar posibilitar de poder realizar varias operaciones RISC internas
+simultanemente.
+Tal reordenacion no se puede hacer con las instrucciones CISC que llegan
+desde
+afuera porque cambaria el significado del programa.
+
+--
+Groucho
+
+

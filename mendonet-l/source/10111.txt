@@ -1,0 +1,65 @@
+From sebas11@...  Sat Jul 11 23:23:58 2020
+Return-Path: <sebas11@...>
+Received: (qmail 22826 invoked from network); 17 Jun 2000 02:45:22 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 17 Jun 2000 02:45:22 -0000
+Received: from unknown (HELO postino4.prima.com.ar) (200.42.0.162) by mta3 with SMTP; 17 Jun 2000 02:45:20 -0000
+Received: from tepes ([200.42.124.42]) by postino4.prima.com.ar (8.9.3/8.9.1) with SMTP id XAA43873 for <mendonet-l@egroups.com>; Fri, 16 Jun 2000 23:45:15 -0300 (ART)
+Message-ID: <001401bfd805$c1d8a4e0$2a7c2ac8@tepes>
+To: <mendonet-l@egroups.com>
+Subject: Negropontistas
+Date: Fri, 16 Jun 2000 23:31:27 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0007_01BFD7EA.FECC8A80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2014.211
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2014.211
+From: "Sebas" <sebas11@...>
+
+
+------=_NextPart_000_0007_01BFD7EA.FECC8A80
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Che, estoy leyendo un libro en el cual le dan con un caño a Nicholas Negr=
+oponte. Me imagino que en este ambito debe haber mas de un lector del "=
+ser digital". =BFPodrian hacerme un pequeño resumen sobre que trata? =
+Especialmente la "logica circular".
+
+
+ Sebas - Llega un momento en que as=
+piramos a escribir algo peor. 
+
+------=_NextPart_000_0007_01BFD7EA.FECC8A80
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>=
+
+<META content=3D"text/html; charset=3Diso-8859-1" http-equiv=3DContent-Typ=
+e>
+<META content=3D"MSHTML 5.00.2014.210" name=3DGENERATOR>
+<STYLE></STYLE>=
+
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>Che, est=
+oy leyendo un libro en el cual le dan con 
+un caño a Nicholas Negroponte.=
+ Me imagino que en este ambito debe haber mas de 
+un lector del "ser di=
+gital". =BFPodrian hacerme un pequeño resumen sobre que 
+trata? Espec=
+ialmente la "logica circular".</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;=
+</DIV>
+<DIV><FONT face=3DArial size=3D2>&nbsp;Sebas - Llega un momento en q=
+ue aspiramos a 
+escribir algo peor. </FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0007_01BFD7EA.FECC8A80--
+

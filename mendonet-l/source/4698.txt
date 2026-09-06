@@ -1,0 +1,41 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_3_2_2); 21 Sep 2001 07:05:06 -0000
+Received: (qmail 73123 invoked from network); 21 Sep 2001 07:05:05 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.221 with QMQP; 21 Sep 2001 07:05:05 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.61)
+  by mta2 with SMTP; 21 Sep 2001 07:05:27 -0000
+Received: (qmail 20595 invoked by uid 1005); 20 Sep 2001 18:44:41 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.157896 secs); 20/09/2001 15:44:40
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 20 Sep 2001 18:44:39 -0000
+Date: Thu, 20 Sep 2001 15:44:38 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@...
+References: <14227.010916@...> <15790.010917@...> <025801c14102$c9b1d760$9a4afea9@hfgg>
+In-Reply-To: <025801c14102$c9b1d760$9a4afea9@hfgg>
+Subject: Re: =?iso-8859-1?q?Mas=20real=20que=20la=20vida=20misma=2E=2E=2E?=
+MIME-Version: 1.0
+Message-Id: <01092015443801.00445@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Mié 19 Sep 2001 08:05, escribiste:
+
+> A mi lo que me llama la atención es la rapidez con la que
+> desarchivaron esas imágenes... 1990!... Deberían haber estado
+> bien guardadas, y sin embargo a las 2 de la tarde yo ya las
+> estaba viendo... Además... ¿Cómo se acordaban que tenían una
+> imágenes de unos turcos festejando... tan rápido?...
+
+Facil: banco de imagenes. No tienen que acordarse, tienen todo 
+catalogado.
+
+-- 
+Groucho Marx
+

@@ -1,0 +1,61 @@
+From cgimenez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <cgimenez@...>
+X-Sender: cgimenez@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 5 Nov 2002 12:02:21 -0000
+Received: (qmail 66488 invoked from network); 5 Nov 2002 12:02:21 -0000
+Received: from unknown (66.218.66.216)
+  by m7.grp.scd.yahoo.com with QMQP; 5 Nov 2002 12:02:21 -0000
+Received: from unknown (HELO multivac.xnetcuyo.com.ar) (200.69.146.78)
+  by mta1.grp.scd.yahoo.com with SMTP; 5 Nov 2002 12:02:20 -0000
+Received: (qmail 7195 invoked by uid 404); 5 Nov 2002 12:02:17 -0000
+Received: from cgimenez@... by multivac.xnetcuyo.com.ar with qmail-scanner-1.01 (uvscan: v4.1.60/v4231. . Clean. Processed in 0.639621 secs); 05 Nov 2002 12:02:17 -0000
+X-Qmail-Scanner-Mail-From: cgimenez@... via multivac.xnetcuyo.com.ar
+X-Qmail-Scanner: 1.01 (Clean. Processed in 0.639621 secs)
+Received: from unknown (HELO kastor) (192.168.100.113)
+  by 0 with SMTP; 5 Nov 2002 12:02:16 -0000
+Date: Tue, 5 Nov 2002 09:03:51 -0300
+To: mendonet-l@...
+Subject: Re: La televisión mendocina está para atrás.
+Message-Id: <20021105090351.2ea4ec01.cgimenez@...>
+In-Reply-To: <143.021105@...>
+References: <143.021105@...>
+Organization: XNetCuyo S.A.
+X-Mailer: Sylpheed version 0.8.5 (GTK+ 1.2.10; i686-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cristian Gimenez <cgimenez@...>
+X-Yahoo-Group-Post: member; u=126661993
+
+On Tue, 5 Nov 2002 00:05:39 -0300
+Sebas <xebax@...> wrote:
+
+> Yo puedo entender que se trabaja con bajo presupuesto... puedo
+> entender que no hay buenos actores, o que el tema sobre el que tenían
+> que escribir no era fácil, pero...¿por qué tenían que hacernos sufrir
+> de esa manera?¿por qué ese sadismo?¿por qué ese intentar avergonzarnos
+> ajenamente?
+> Me estoy refiriendo a los escasos recursos imaginativos que muestran
+> los creativos mendocinos hacedores de la propaganda de Luba, esa donde
+> las ollas y las cucharas pasan bailando al son de una no tan moderna
+> melodía que dice algo así como: "...luba luba luba su vajilla...luba
+> luba luba en la cocina.... se compra una sola vez y dura toda la
+> vida...es de acero inoxidable, luba luba...qué vajilla!"
+> 
+
+realmente... cuando la escuche por primera vez pense que habia tenido un
+regresion en el tiempo y que estaba viendo television de 1975... pero no...el
+comfer la deberia sancionar por mal gusto..
+
+
+-- 
+
+Cristian Gimenez
+
+cgimenez@...
+XNet Cuyo S.A.
+Departamento de Desarrollo
+Rioja 979 - 5500 - Mendoza
+Tel/Fax: 54-261-4252788
+

@@ -1,0 +1,59 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 15 Nov 2000 04:34:58 -0000
+Received: (qmail 91155 invoked from network); 15 Nov 2000 04:34:57 -0000
+Received: from unknown (10.1.10.142) by l8.egroups.com with QMQP; 15 Nov 2000 04:34:57 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta3 with SMTP; 15 Nov 2000 05:36:01 -0000
+Received: from antro.micasa ([200.41.31.114]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id BAA05767 for <mendonet-l@egroups.com>; Wed, 15 Nov 2000 01:38:10 +0300 (GMT)
+Date: Wed, 15 Nov 2000 00:25:20 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <717.001115@...>
+To: Mariana <mendonet-l@egroups.com>
+Subject: Re[2]: A todo esto...
+In-reply-To: <010001c04d08$d987b2c0$9a4afea9@hfgg>
+References: <010001c04d08$d987b2c0$9a4afea9@hfgg>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 12/11/2000, Mariana triste susurró:
+
+M> Pero las cosas entran por los ojos, Groucho... Te guste o no, hoy por hoy la
+M> estética es importantísima en todos los ámbitos, inclusive en las páginas
+M> web. No darle importancia a eso es quedarse.
+M> Creo que la parte técnica es tan valiosa como la estética. Recuerdo una vez
+M> que me bajé una página de la Historia del Cómic, que era solo una página de
+M> Bloc de Notas... HORRIBLE!!!!!!!!!... Comparada con otras, ésta no se la
+M> recomendaría a nadie, ni volvería a consultarla.
+M> Por ej., en la página de Goofer me pareció copado el color terracota del
+M> fondo, aunque yo le hubiese puesto bordeaux... Por lo conceptual ¿vio?
+
+A mi tambien me gusto el color, y sospecho que el vino ese se ve de
+ese color. Terracota, bordeaux, whatever!!!
+
+>> Pero claro, yo soy una especie en extinción.
+M> Ni que lo digas.
+
+No, en serio!!! Se ha llegado al abuso.
+Me parece perfecto un diseño agradable, funcional, el tipo de cosas en
+las que se fijaria un tipo como mi hermano (diseñador industrial).
+Pero la web tiene limitaciones tecnicas importantes si lo que queres
+es dibujar algo.
+Simplemente hay que aceptar que el tamaño de la ventana puede ser
+cualquiera, que los colores pueden ser diferentes, que las tipografias
+pueden estar o no, que es lenta, que es interactiva...
+Entonces hacer un diseño datallado, donde sea importante que se vea
+con ciertos colores, cierta tipografia y cierto tamaño es un abuso.
+
+-- 
+Groucho Marx
+Te presento a la mafia china. Estos sujetos son capaces de matarte 3
+veces antes de que toques el suelo.  -- Edna Krabaple
+
+
+

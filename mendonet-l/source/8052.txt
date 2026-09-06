@@ -1,0 +1,50 @@
+From aletalquenca@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aletalquenca@...>
+X-Sender: aletalquenca@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_0_3); 30 Sep 2000 17:34:02 -0000
+Received: (qmail 1886 invoked from network); 30 Sep 2000 17:34:02 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 30 Sep 2000 17:34:02 -0000
+Received: from unknown (HELO central.inta.gov.ar) (157.92.58.8) by mta3 with SMTP; 30 Sep 2000 17:34:02 -0000
+Received: from bocha_sn@... (a3d13.impsat.net.ar [200.41.21.133]) by central.inta.gov.ar with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2650.21) id TH47JN6J; Sat, 30 Sep 2000 14:36:13 -0300
+Message-ID: <002001c02af5$6b8b0180$LocalHost@...>
+To: <mendonet-l@egroups.com>
+References: <005401c027d6$30ddc9e0$LocalHost@...> <14890.000927@...>
+Subject: RE: Re[2]: grupo de noticias para gustavo
+Date: Sat, 30 Sep 2000 12:45:12 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+From: "Alejandro Gomez Talquenca" <aletalquenca@...>
+
+
+----- Original Message -----
+From: Groucho Marx <groucho@...>
+To: Alejandro Gomez Talquenca <mendonet-l@egroups.com>
+Sent: Wednesday, September 27, 2000 9:22 PM
+Subject: Re[2]: grupo de noticias para gustavo
+
+
+>
+> >> AGT> la dirección es mendonet-l@egroups.com
+> >>
+> >> Grupo de noticcias?
+> >> Es la definicion mas extraña que escuche de esta mierda!!!!!
+> >> Grupo de psicopatas quedaria mejor.
+>
+> AGT> No seas tan escrupuloso, tan puntilloso
+>
+> Por otro lado, Mendonet es una lista de correo (mailing list) no un
+> grupo de noticias (newsgroup).
+>
+> --
+
+Se Inicia Curso de Ceremonial y Protocolo
+Dictado por su eminencia el barón (estrepitosas fanfarrias): GROUCHO von
+MARX>
+>
+

@@ -1,0 +1,46 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 1 Feb 2002 12:50:29 -0000
+Received: (qmail 46077 invoked from network); 1 Feb 2002 12:50:28 -0000
+Received: from unknown (216.115.97.172)
+  by m5.grp.snv.yahoo.com with QMQP; 1 Feb 2002 12:50:28 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta2.grp.snv.yahoo.com with SMTP; 1 Feb 2002 12:50:27 -0000
+Received: from lagruta (200-41-21-70-rdumen1.impsat.net.ar [200.41.21.70])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with SMTP id JAA09236
+	for <mendonet-l@...>; Fri, 1 Feb 2002 09:50:58 +0300 (GMT)
+Message-ID: <003f01c1ab1f$37007fc0$060aa8c0@...>
+To: <mendonet-l@...>
+References: <10501.020129@...> <18603.020131@...>
+Subject: =?iso-8859-1?Q?Re:_Re=5B3=5D:_Delirios_ininfundados..._=BF...=3F_lo_que_h?=
+	=?iso-8859-1?Q?ace_el_tiempo_de_ocio...?=
+Date: Fri, 1 Feb 2002 09:51:48 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+From: "Groucho Marx" <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+> L> Son  problemas... especialmente en lugares como éstos, donde el viento
+> L> es  muy  aleatorio...  de  hecho supongo que es muy poco viable que la
+> L> generación eólica sea una buena idea aquí...
+> ¿Por qué?
+
+Por lo que veniamos hablando.
+Aleatoriedad en la direccion y velocidad, poco porcentaje de dias ventosos,
+y las dificultades tecnicas que acarrearia emparchar eso.
+
+No sabre lo que es el grupo hem, pero puedo saber si un molino de viento
+sera biena idea o no.
+
+--
+Groucho
+
+

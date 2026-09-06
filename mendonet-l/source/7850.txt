@@ -1,0 +1,52 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 28 Oct 2000 07:13:34 -0000
+Received: (qmail 4640 invoked from network); 28 Oct 2000 07:13:34 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 28 Oct 2000 07:13:34 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta2 with SMTP; 28 Oct 2000 07:13:33 -0000
+Received: from antro.micasa ([200.41.31.51]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id EAA19893 for <mendonet-l@egroups.com>; Sat, 28 Oct 2000 04:16:44 +0300 (GMT)
+Date: Sat, 28 Oct 2000 04:01:19 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <6167.001028@...>
+To: "harpo@..." <mendonet-l@egroups.com>
+Subject: Re[2]: Boring
+In-reply-To: <20001027140226.D6865@...>
+References: <20001027140226.D6865@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 27/10/2000, harpo@... curiosamente explicó:
+
+>> Acuso recibo de la primera pedrada.
+>> Me parecen atinadas las propuestas de rodro-reuters.
+>> textos o imagenes que desafien nuestro
+>> intelecto-emoción-imaginación
+
+hsn> Mendonet esta muriendo.. el hecho es ese... la razon.... simple
+hsn> desgaste... 
+hsn> Creo que la propuesta de Rodro-reuters es por demas boluda. Pero
+hsn> bueno si a la gente le pinta que transformemos esto en un simple
+hsn> intercambio de informacion recibida en los inbox de cada uno...
+hsn> ALLA UDs... 
+hsn> Por mi parte prefiero quedarme con el recuerdo del apogeo de
+hsn> mendonet-mailing-list....
+
+En mi caso le he dedicado demasiada energia a otras listas de perfil
+mas tecnico (lug-list y lug-org) o mas ñoñas (cbaymza) y he
+descuidado a Mendonet.
+Pero ya estoy de vuelta!!!
+
+
+-- 
+Groucho Marx
+Pitágoras inventó los corpiños para que los senos no se escapen por la
+tangente.
+
+
+

@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-7_4_1); 29 Sep 2001 16:13:12 -0000
+Received: (qmail 5529 invoked from network); 29 Sep 2001 16:13:12 -0000
+Received: from unknown (10.1.10.26)
+  by l10.egroups.com with QMQP; 29 Sep 2001 16:13:12 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta1 with SMTP; 29 Sep 2001 16:13:11 -0000
+Received: from gateway.micasa.org.ar (200-41-31-56-rdunysd1.impsat.net.ar [200.41.31.56])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with ESMTP id NAA28593
+	for <mendonet-l@...>; Sat, 29 Sep 2001 13:14:46 +0300 (GMT)
+Received: from cubil.micasa.org.ar ([192.168.0.3])
+	by gateway.micasa.org.ar with esmtp (Exim 3.12 #1 (Debian))
+	id 15nLpm-0000fG-00
+	for <mendonet-l@...>; Sat, 29 Sep 2001 12:15:18 -0300
+Date: Sat, 29 Sep 2001 12:15:43 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <19510.010929@...>
+To: Sebas <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbM106IElkZWFzIEFudGlxde1zaW1hcyAy?=
+In-reply-To: <1328.010929@...>
+References: <1328.010929@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+Hello Sebas,
+
+Saturday, September 29, 2001, 12:41:04 AM, you wrote:
+
+S> Yo de joven era un visionario... una vez mi maestra de jardín, cerca de
+S> mitad de año, mandó a llamar a mi vieja, para decirle que me llevara a
+S> un psicólogo, porque lo único que dibujaba eran árboles...
+S> espectaculares árboles para la edad que tenía, pero sólo árboles... no
+S> se daban cuenta de que yo estaba viendo venir la era de la ecología...
+S> Por si les interesa el fin de la historia, me llevó al
+S> psicólogo(asustada por la importancia que la maestra le había dado al
+S> asunto) el chabón me hizo un montón de tests, como una hora estuve, y
+S> al final de la sesión, el tipo me dijo "che, ¿porqué no dibujás alguna
+S> otra cosa aparte de árboles?" Y desde ese día y durante todo el
+S> jardín, empecé a dibujar montones de cosas, eso sí, siempre con un
+S> árbol al lado... ¡qué fiesta se haría un psicoanalista!
+
+
+Aparte que "cura" tan efectiva la que efectuo el psicologo.
+
+
+-- 
+ Groucho
+
+
+

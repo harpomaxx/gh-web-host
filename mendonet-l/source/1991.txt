@@ -1,0 +1,172 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_3); 31 Jan 2002 18:55:15 -0000
+Received: (qmail 84834 invoked from network); 31 Jan 2002 18:55:14 -0000
+Received: from unknown (216.115.97.167)
+  by m8.grp.snv.yahoo.com with QMQP; 31 Jan 2002 18:55:14 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta1.grp.snv.yahoo.com with SMTP; 31 Jan 2002 18:55:14 -0000
+Received: from modem106-as3.mendoza.sinectis.com.ar ([216.244.255.226])
+  by softhome.net with esmtp; Thu, 31 Jan 2002 11:54:02 -0700
+Date: Tue, 29 Jan 2002 12:38:38 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <12526.020129@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbMl06IFNvbG8gY29uIGVsIFB1ZWJsbyBkZSBwaWUgc2UgbGV2YW50?= =?ISO-8859-1?B?YSBsYSBOYWNp824uLi4gY29tYSBlbiBNYyBEb25hbHMgIS4=?=
+In-reply-To: <20020125031435.GD6572@...>
+References: <20020125031435.GD6572@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+
+>> GM> Esos enlaces son finitos, y si logras ocuparlos todos entonces
+>> GM> no solo no te pueden cobrar un centavo por una llamada que nunca hiciste
+>> GM> en realidad sino que bloqueas cualquier otra llamada que si podrian
+>> GM> cobrarle a alquien.
+>> 
+>> GM> Pero si no logras bloquearle los enlaces fue tiempo perdido.
+>> GM> Solo en la retorcida mente de un contador no ganar es lo
+>> GM> mismo que perder.
+>> 
+>> No  es  tan  así  che...  los  contadores  natos  no  registran las no
+>> ganancias  de  ningún  modo,  el  concepto de que una "no ganancia" ES
+>> COMOI  una  perdida (llamado "costo de oportunidad") no es un concepto
+>> contable  sino  financiero,  muy  difundido  entre  administradores de
+>> empresas y economistas.
+
+GM> Contadores, administradores, financistas, economistas, imbeciles....
+GM> Cual es la diferencia?
+
+Un  contador clásico solo REGISTRA información... o CALCULA en función
+de  cierta  información  registrada,  ciertos  conceptos  (impuestos,
+retenciones,   cosas  de  esas...),  usando  técnicas  extremadamente
+mecánicas... es básicamente una técnica... Aunque la contabilidad está
+mutando  hacia  algo  un poco más analítica y están empezando a surgir
+técnicos  terciarios  que  se  encarguen  de  algunas de las cosas que
+mencionaba arriba...
+
+Un  economista  es,  básicamente,  un  científico, no un técnico... (o
+debería  serlo...). Intenta estudiar y desarrollar leyes que expliquen
+el  comportamiento  económico  micro  o  macro,  que  es consecuencia,
+obviamente,  de  la  conjunción  de  comportamientos económicos de los
+individuos, que es función a su vez de su cultura y su psicología...
+Es una ciencia muy empírica... pero que aplica el método científico al
+fin y al cabo.
+
+La  administración  de  empresas  es  un  híbrido  en el que se juntan
+conocimientos  de estas últimas dos, con conocimientos de otras ramas,
+con  muchos  conceptos  que  hacen  al  sentido  común...  intentando
+convencer  a  las  empresas  de que el producto resultante es algo que
+deberían  comprar...  hay  cosas  interesantes en la administración de
+empesas...  te sorprenderías... aunque personalmente encuentro que hay
+cosas   intertesantes   en   prácticamente   todos  los  ámbitos  del
+conocimiento...
+
+GM> Y yo no hablaba del costo de oportunidad, que es mas bien la diferencia
+GM> entre el resultado que habrias obtenido de elegir otro curso de accion y
+GM> el resultado que obtenes por haber elegido el curso de accion que
+GM> elegiste.
+
+Osea, lo que dejaste de ganar dado que tenías las líneas ocupadas y no
+pudiste  concretar  una comunicacion potencial que se habría realizado
+de otro modo... osea, el costo de "no realizar" esa comunicación... un
+costo  que  no existe... como vos bien decías... porque es el costo de
+una ganancia que no se produjo... es un costo de oportunidad. ¿no?
+
+GM> No. Yo me refiero a que algunos imbeciles confunden cursos de accion
+GM> (lo que ellos pueden elegir y controlar) con estados de la naturaleza
+GM> o alternativas (que ellos no controlan sino el ambiente).
+
+GM> Ejemplo: Telefonica dice que va a perder X-Y dinero debido a la pesificacion
+GM> de las tarifas. Mentira! En todo caso, en lugar de ganar X, va a ganar Y.
+GM> Pero no pierden nada. El costo de oportunidad es para evaluar alternativas
+GM> y proyectos, una herramienta en la toma de decisiones. No es un costo
+GM> de verdad en el que incurris de verdad. Es una comparacion entre haber
+GM> hecho una cosa y otra.
+
+La  guita  que  dejás  de  ganar  es un costo de oportunidad... porque
+perdiste la OPORTUNIDAD de ganar esa guita. (
+
+No estamos hablando de el costo generado por un fenómeno completamente
+exógeno  sobre  el que no podemos influir de ningún modo... no estamos
+hablando  del  costo  de no ganar la lotería... por ejemplo... aquí la
+empresa   SI  puede  ejercer  cierta  influencia  indirecta  sobre  la
+forma de concreción de escenario... aún cuando no sea unívocamente una
+desición exclusiva de ella el desarrollo de lo que ocurra...
+
+GM> Sigamos. Ellos dicen que pierden X-Y. Y eso en realidad ni siquiera
+GM> constituye costo de oportunidad porque en realidad ellos no pueden
+GM> elegir si las tarifas se pesifican o no. Eso es parte del ambiente
+GM> para ellos.
+GM>  El ambiente se vuelve mas hostil para ellos, y van a
+GM> ganar menos de lo que podrian haber ganado. Aca ni siquera estan
+GM> comparando lo que ganan con lo qe podrian haber ganado de haber elegido
+GM> otro curso de accion, estan comparando lo que ganan en realidad
+GM> con lo que hubieran ganado en una realidad alternativa donde las
+GM> tarifas no se pesificaban.
+
+Claro,  pero como ellos SI pueden intentar PRESIONAR para que no se de
+el   ambiente  más  hostil,osea,  una  pesificación  de  tarifas  sin
+indexación, lo hacen, y a medida que aumenta su poder de modificar esa
+situación el costo se transforma, aún segun tu concepción, en un costo
+de  oportunidad...  es  la ganancia que no van a tener si no consiguen
+que el gobierno cambie el escenario...
+
+GM> Imaginate si yo digo: si tuviera 1 millon de dolares, los pondria a
+GM> plazo fijo al 1% mensual (para hacer mas facil la cuenta) y ganaria
+GM> 10000 pesos al mes. Como no tengo 1 millon de dolares, estoy perdiendo
+GM> 10000 pesos al mes. Es mentira!! No estoy perdiendo nada!!!
+GM> Veni y mira mi billetera y fijate como NO desaparen 10000 dolares por
+GM> mes de ella.
+
+Es  lo  mismo  que decía antes con el ejemplo de la lotería... no sale
+guita  de  tu  bolsillo  si no ganás la lotería... ahora, si  pudieras
+influir  de  algún  modo  sobre  el  número  sorteado, y tu influencia
+fracasara, podría interpretarse que el costo del fracaso de tu intento
+por  influir  en  el resultado de la lotería fue el no ganar la guita.
+Ese costo de fallar en la negociación sería un costo de oportunidad.
+
+Además, NINGUN costo de oportunidad te saca guita del bolsillo.
+
+Si  en  lugar  de  haber invertido a 1% lo hicieras a 0.5% dejarías de
+ganar  5000  por mes... sería un costo de oportunidad... y sin embargo
+no  verías  que  de  tu  billetera salen 5000 por mes... y supongo que
+estarás  de  acuerdo conmigo en que estarías perdiendo (de ganar) 5000
+por  mes  al  tomar  esa decision... ese costo de oportunidad sería el
+costo de tu decisión mal tomada.
+
+>> Además,  en  este  ejemplo SI podría haber una pérdida REAL (y no solo
+>> virtual  como  el  costo de oportunidad) ya que a la central le cuesta
+>> dinero  mantener  todo  su personal trabajando, si no generan llamadas
+>> que puedan cobrar por permanecer bloqueadas las líneas, y sus ingresos
+>> decrecen   por   debajo   de su punto de equilibrio, estaría perdiendo
+>> (pérdida  contable, osea, el concepto que supongo que vos tenés de una
+>> pérdida)
+
+GM> El concepto verdadero de una perdida: disminucion del patrimonio.
+GM> Yo lo que digo es que esa perdida real (o contable o como la llames) no
+GM> ocurrira porque es practicamente imposible poner de acuerdo a tanta gente
+GM> como para mantener bloqueada a la central, y  por eso digo que es una
+GM> perdida de tiempo, porque no producirias ninguna perdida de verdad a la
+GM> empresa.
+
+En eso estoy de acuerdo desde siempre.
+
+
+
+
+Lupus
+
+-- 
+
+"Lo cotidiano podrá ser una manifestación modesta de lo absurdo, pero aunque Dios - reencarnado en algún sacamuelas- nos obligara a localizar todas nuestras esperanzas en los escarbadientes, la vida no dejaría de ser, por eso, una verdadera maravilla." OG         
+
+
+

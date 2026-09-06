@@ -1,0 +1,48 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 1 Sep 2001 17:44:23 -0000
+Received: (qmail 44362 invoked from network); 1 Sep 2001 17:44:21 -0000
+Received: from unknown (10.1.10.26)
+  by l7.egroups.com with QMQP; 1 Sep 2001 17:44:21 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.82)
+  by mta1 with SMTP; 1 Sep 2001 17:44:20 -0000
+Received: (qmail 4424 invoked by uid 1005); 1 Sep 2001 14:45:15 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.307406 secs); 01/09/2001 11:45:13
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 1 Sep 2001 14:45:12 -0000
+Date: Sat, 1 Sep 2001 11:46:02 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <006701c1319a$79c0fd20$6301a8c0@g8> <12534.010831@...>
+In-Reply-To: <12534.010831@...>
+Subject: Re: Re[2]: =?iso-8859-1?q?=BFDerecho=20a=20la=20propiedad=3F?=
+MIME-Version: 1.0
+Message-Id: <01090111460201.00465@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 31 Ago 2001 12:49, escribiste:
+
+> No sé que será "warez" pero por el contexto me imagino que se refiere
+> a la piratería o algo por el estilo... y en ese punto la filosofía
+> linux se cae un tantito. Nadie que yo conozca ha comprado los
+> programas que usa, o sea que en la práctica, GNU es una lucha sin
+> enemigo. La filosofía me cabe, pero no necesito de ella para seguir
+> teniendo todo gratis, dirán muchos.
+
+
+No se trata de precios, sino de libertades...
+Y quizas por mas que nunca jamas gastarias plata en un programa si 
+fuera imposible conseguirlo trucho, quizas moralmente pienses que es 
+mejor copiar un programa que se supone que se puede copiar y no un 
+programa que se supone que no se puede copiar.
+
+Entonces, por igual precio, estas elevando tu moralidad.
+
+-- 
+Groucho Marx
+

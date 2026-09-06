@@ -1,0 +1,40 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 31053 invoked from network); 29 Jul 2000 14:31:53 -0000
+Received: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 29 Jul 2000 14:31:53 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta1 with SMTP; 29 Jul 2000 14:31:51 -0000
+Received: (qmail 6449 invoked by uid 722); 29 Jul 2000 14:07:06 -0000
+Date: 29 Jul 2000 14:07:06 -0000
+Message-ID: <20000729140706.6441.qmail@...>
+To: mendonet-l@egroups.com
+Subject: cuanto vites?
+From: fcanizo@...
+
+El 23/07/00, harpo le gritó curiosamente a mendonet-l@egroups.com:
+
+h>C>ja ja.. rebuscada la pregunta he? pero tendran que ser 16 bits.
+h>C>ya que el maximo de procesos es 65536
+h>
+h>JUA JUA!
+h>Te aclaro que no tengo del todo clara la respuesta por que no soy ni mucho
+h>menos un GURU!...
+h>
+h>Pero creo que el numero maximo de procesos es 32768, ya que el tipo de dato
+h>dentro de la estructura task_struct{} para PID es un tipo de dato entero,
+h>Pero con signo!
+h>De hecho en mi experiencia nunca encontre un PID mayor de 32768!!
+h>en fin... creo que es asi...
+
+Se podría hacer un sencillo script que lo verifique creando
+procesos.
+
+algo así como:
+
+for 1 to 65536 do
+	sleep 8 millone
+	if 32769 then echo "nos pasamo"
+
+---
+Más agachadas que japonés con visitas
+
+

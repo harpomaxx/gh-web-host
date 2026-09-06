@@ -1,0 +1,39 @@
+From fcanizo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fcanizo@...>
+Received: (qmail 25627 invoked from network); 4 May 2000 22:38:11 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 4 May 2000 22:38:11 -0000
+Received: from unknown (HELO linux0.unsl.edu.ar) (170.210.172.11) by mta3 with SMTP; 4 May 2000 22:38:00 -0000
+Received: (qmail 32342 invoked by uid 722); 4 May 2000 22:37:28 -0000
+Date: 4 May 2000 22:37:28 -0000
+Message-ID: <20000504223728.32332.qmail@...>
+To: mendonet-l@egroups.com
+Subject: alarmas grossas
+From: fcanizo@...
+
+El 30/04/00, Groucho Marx le susurraba a Mariana:
+
+GM>Yo tengo claro el tipo de alarma que voy a instalar en mi villa.
+GM>Cuando se active, no producira sonido, que es inutila a menos que
+GM>supere los 150 dB y deje permanetemente sordo al intruso.
+GM>Se iluminara todo el ambiente y luego de 15 segundos comenzara a salir
+GM>del techo gas irritante, o gas lacrimogeno, de manera que el intruso
+GM>no tenga mas remedio que irse, y no tenga tiempo de llevarse nada.
+GM>
+GM>Mi novia sugiere gas que pica del que tiran los Carabineros de Chile,
+GM>asi tienen las manos ocupadas en rascarse y no se pueden llevar nada.
+
+Interesante lo de las alarmas sin sonido (que alertan a los ladrones y no a la
+policía) y afines que intentan de alguna manera más o menos "inteligente" evitar
+el robo.
+
+Pero considerá mejor lo del gas, no sea cosa que te la active un gato justo
+cuando estés en tu habitación con tu novia haciendo la "gran groucho" desde el
+ropero.
+
+---
+La ventaja de las emociones consiste en extraviarnos, la de la ciencia en no
+conmovernos.
+
+	"El retrato de Dorian Grey" - Oscar Wilde
+
+

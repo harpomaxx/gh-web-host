@@ -1,0 +1,37 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_2_1); 30 Oct 2002 17:06:35 -0000
+Received: (qmail 44714 invoked from network); 30 Oct 2002 17:06:35 -0000
+Received: from unknown (66.218.66.218)
+  by m5.grp.scd.yahoo.com with QMQP; 30 Oct 2002 17:06:35 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta3.grp.scd.yahoo.com with SMTP; 30 Oct 2002 17:06:35 -0000
+Received: (qmail 17720 invoked by uid 417); 30 Oct 2002 17:06:33 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 30 Oct 2002 17:06:33 -0000
+Received: from a200042125085.rev.prima.com.ar ([200.42.125.85])
+  by softhome.net with esmtp; Wed, 30 Oct 2002 10:06:31 -0700
+Date: Wed, 30 Oct 2002 14:04:54 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <0586.021030@...>
+To: mendonet-l@...
+Subject: Mozilla
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+Estaba leyendo el artículo del diario sobre Mozillay me generó
+intriga... ¿alguno de ustedes lo usa?¿qué tal es?
+
+-- 
+ Sebas  
+Demoré  una  vida  en  reconocer la más simple y pura de las verdades patrióticas:  quien  gobierne  podrá  contar, siempre, con la cobardía incondicional de los argentinos. Juan Manuel de Rosas                      
+
+
+

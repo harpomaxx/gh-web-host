@@ -1,0 +1,46 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_7_4); 5 Aug 2002 00:33:54 -0000
+Received: (qmail 10659 invoked from network); 5 Aug 2002 00:33:53 -0000
+Received: from unknown (66.218.66.216)
+  by m6.grp.scd.yahoo.com with QMQP; 5 Aug 2002 00:33:53 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta1.grp.scd.yahoo.com with SMTP; 5 Aug 2002 00:33:53 -0000
+Received: (qmail 22906 invoked by uid 417); 5 Aug 2002 00:33:53 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 5 Aug 2002 00:33:53 -0000
+Received: from a200042124091.rev.prima.com.ar ([200.42.124.91])
+  by softhome.net with esmtp; Sun, 04 Aug 2002 18:33:50 -0600
+Date: Sun, 4 Aug 2002 21:19:27 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <9888.020804@...>
+To: morocho <mendonet-l@...>
+Subject: Re: Consulta
+In-reply-To: <001e01c23b13$5a8554a0$01c705c8@LocalHost>
+References: <001e01c23b13$5a8554a0$01c705c8@LocalHost>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+m>   Claro esta que Groucho me parte y me da vuelta y vuelta como una media en
+m> cuestiones informaticas y toda esa  mierda pero yo propongo por que no algo
+m> mas sencillo, che gallego agarra cualquier disco de office donde viene el
+m> editor de ecuaciones instalalo y que tanto ps, pdf, LATEX  y la reputisima
+m> madre en coche.
+m>  Despues insertas cada ecuacion como objeto en cualquier hoja de word, excel
+m> lo que carajo uses y ya la mierda en coche!!!
+Es lo que había pensado en un primer momento, pero quería ver si había
+alguna otra opción... creo que es lo que voy a hacer.
+
+-- 
+Sebas   
+"El pensamiento oficial del mundo ha decidido que una person alegre es mejor que una triste." Dolina                       
+
+
+

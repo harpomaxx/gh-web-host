@@ -1,0 +1,51 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 17 Oct 2001 01:29:54 -0000
+Received: (qmail 13604 invoked from network); 17 Oct 2001 01:29:53 -0000
+Received: from unknown (10.1.10.142)
+  by m8.onelist.org with QMQP; 17 Oct 2001 01:29:53 -0000
+Received: from unknown (HELO smtp6.impsat.net.ar) (200.31.1.21)
+  by mta3 with SMTP; 17 Oct 2001 01:29:53 -0000
+Received: from gateway.micasa.org.ar (200-41-31-35-rdunysd1.impsat.net.ar [200.41.31.35])
+	by smtp6.impsat.net.ar (8.9.3/8.9.3) with ESMTP id WAA11101
+	for <mendonet-l@...>; Tue, 16 Oct 2001 22:29:51 +0300 (GMT)
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15tZWV-0001li-00
+	for <mendonet-l@...>; Tue, 16 Oct 2001 16:05:07 -0300
+Date: Tue, 16 Oct 2001 16:05:07 -0300
+To: mendonet-l@...
+Subject: Re: =?iso-8859-1?Q?Mas_real_que_la_vida_?=
+	=?iso-8859-1?Q?misma=2E=2E=2E_=28Lupus_indignado_y_vervorragico=2E=2E?=
+	=?iso-8859-1?B?Lik=?=
+Message-ID: <20011016160507.E6734@...>
+References: <20011007193842.A5021@...> <9447.011009@...> <20011010223627.E13391@...> <OE73giJDDXr2yKNJJz400001c01@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <OE73giJDDXr2yKNJJz400001c01@...>
+User-Agent: Mutt/1.3.22i
+From: Groucho Marx <groucho@...>
+
+On Sun, Oct 14, 2001 at 07:13:29PM -0300, Morganti Federico wrote:
+
+> > Aca en Mendonet el unico que ha confesado ver Gran Hermano ha sido el
+> > inefable Morganti. Vos lo conoces personalmente. Podrias decir que su
+> > instruccion formal ha sido de baja calidad o profundidad?
+> 
+> en ningun lado confese ser fanatico de gran hermano
+
+Cierto. No dijiste ser fanatico. Solo diste a entender que lo veias, nombraste
+a algunos participantes, te mostraste ofendido cuando dijimos que era una
+mierda...
+o ves (veias) o no lo ves (veias)?
+
+
+> me aburre,
+
+Es un buen comienzo. A mi me asquea.
+
+--
+Groucho
+

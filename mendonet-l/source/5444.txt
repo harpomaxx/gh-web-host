@@ -1,0 +1,43 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 4 Sep 2001 07:03:33 -0000
+Received: (qmail 87185 invoked from network); 4 Sep 2001 07:03:32 -0000
+Received: from unknown (10.1.10.142)
+  by l9.egroups.com with QMQP; 4 Sep 2001 07:03:32 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.116)
+  by mta3 with SMTP; 4 Sep 2001 07:03:31 -0000
+Received: (qmail 15435 invoked by uid 1005); 3 Sep 2001 18:46:10 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.354 secs); 03/09/2001 15:46:09
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 3 Sep 2001 18:46:07 -0000
+Date: Mon, 3 Sep 2001 15:46:09 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <13542.010824@...> <OE63s3Mpw6yL2m9lHiu000001e1@...> <OE61FTA7OIkUqLpHkat0000098d@...>
+In-Reply-To: <OE61FTA7OIkUqLpHkat0000098d@...>
+Subject: Re: =?iso-8859-1?q?Mas=20real=20que=20la=20vida=20misma=2E=2E=2E?= (Lupus indignado y =?iso-8859-1?q?vervorragico=2E=2E=2E=29?=
+MIME-Version: 1.0
+Message-Id: <01090315460900.00361@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Vie 31 Ago 2001 22:05, escribiste:
+
+Vos la otra vez te quejabas de que te dijeramos Morganti?
+Pero mira tu nombre:
+> From: "Morganti Federico" <federicomorganti@...>
+
+O sea, en lo que a mi respecta, te llamas Morganti y te apellidas 
+Federico.
+
+Y por cierto, tu incapacidad para quotear no cesa de profundizarse.
+si te digo que sos quoting-impaired 
+
+
+-- 
+Groucho Marx
+

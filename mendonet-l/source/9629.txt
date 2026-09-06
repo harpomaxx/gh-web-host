@@ -1,0 +1,70 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 6662 invoked from network); 13 Jul 2000 03:55:32 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 13 Jul 2000 03:55:32 -0000
+Received: from unknown (HELO debian.linux.debian) (200.43.121.38) by mta1 with SMTP; 13 Jul 2000 03:55:31 -0000
+Received: from k6.linux.redhat (VME2ppp-45.uc.infovia.com.ar [209.13.252.109]) by debian.linux.debian (8.8.5/8.8.5) with ESMTP id VAA28349 for <mendonet-l@egroups.com>; Wed, 12 Jul 2000 21:48:40 -0300
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id AAA05095 for <mendonet-l@egroups.com>; Thu, 13 Jul 2000 00:58:50 -0300
+Sender: federico@...
+Message-ID: <396D3E77.2C070B9@...>
+Date: Thu, 13 Jul 2000 00:58:48 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.12 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: Buenas soy el oxiuro!!
+References: <200007122336359.SM00150@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+gonzalo torrisi wrote:
+
+> Cab>Por casualidad vos eras unos de los integrantes del grupo Oxiuro ?
+>
+> Cabecilla, asi es, soy o mejor dicho, era un integrante de la legendaria
+> banda OXIURO
+> (todos de pie cuando se nombra a un ídolo popular, por favor, OK Manflora?)
+> Si queres te puedo dar o por que no vender un demo que grabamos (Para
+> Manflora tambien hay, ta?)
+> Sobre lo de Sentencia, No tengo ni la menor idea de quienes son, pero si me
+> decis quienes tocaban ahi quizas
+> conozca a alguien.
+> Por lo visto no son o eran una banda tan famosa como OXIURO, cosa que le
+> ocurre a Manflora que
+> debe vivir bajo la sombra de una MEGABANDA.
+>
+>
+
+Hola, yo soy Gabriel uno de los integrantes de Sentencia, nosotros tocamos
+con ustedes, o mejor dicho ustedes tocaron con nosotros en la casa de los
+músicos
+y si mal no lo recuerdo las unicas personas que los aplaudieron eran sus
+compañeros del colegio, por favor el demo te lo podes perder en el orto.
+Como para que recordes un poco, nosotros eramos una pequeña banda que tocamos
+con bandas como Fun People, un par de bandas de Chile y hubieramos tocado con
+A.N.I.M.A.L. en panoramix si no se hubiera suspendido, y si todavia no te
+acordas
+pregunta por ahi porque hay un par de bandas que hacen temas nuestros como
+covers,
+nuestra trayectoria no fue muy grande, me imagino que ustedes siendo una
+megabanda
+tocaron de soporte de Metallica, o aunque sea Alma Fuerte, ¿no?, que raro,
+bueno, chau
+suerte y gracias por las partituras de metallica que me presto el guitarrista
+de tu banda.
+
+
+--
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+Windows '95: Ahora para Sega y Nintendo!!!!!
+
+
+
+

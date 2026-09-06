@@ -1,0 +1,47 @@
+From fedped@...  Sat Jul 11 23:23:58 2020
+Return-Path: <fedped@...>
+Received: (qmail 12550 invoked from network); 9 Aug 2000 01:41:36 -0000
+Received: from unknown (10.1.10.142) by m2.onelist.org with QMQP; 9 Aug 2000 01:41:36 -0000
+Received: from unknown (HELO relay2.impsat1.com) (200.31.1.8) by mta1 with SMTP; 9 Aug 2000 01:41:34 -0000
+Received: from k6.linux.redhat (rdumend2-200.41.21.55 [200.41.21.55] (may be forged)) by relay2.impsat1.com (8.9.3/8.9.3) with ESMTP id WAA26680 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 22:44:12 +0300 (GMT)
+Received: from supernet.com.ar (k6 [192.168.1.200] (may be forged)) by k6.linux.redhat (8.9.3/8.9.3) with ESMTP id WAA04625 for <mendonet-l@egroups.com>; Tue, 8 Aug 2000 22:02:05 -0300
+Sender: federico@...
+Message-ID: <3990AD8D.76F1BA7@...>
+Date: Tue, 08 Aug 2000 22:02:05 -0300
+X-Mailer: Mozilla 4.72 [en] (X11; U; Linux 2.2.16 i586)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: Cedeeco
+References: <20000729140706.6447.qmail@...> <007601bff98d$a022bf80$987c2ac8@tepes> <003a01bffd6f$536b4780$090aa8c0@...> <3989EE78.26D7D6B5@...>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+From: Cabeza <fedped@...>
+
+Carlos Cardozo wrote:
+> 
+> Che guachaje, sigue la lista de Cedeeco, y ahora me mandan mails con
+> ofertas grossas de precios como siempre.....
+> de a un artículo, pero pal gremio...
+> Qué hago...
+> Las publico en la lista o quieren que hagamos otra cosa, o simplemente
+> ni les ntereza enterarse...
+> Obviamente muchos no cazan un f�bal lo que digo, pero igual la oferta es
+> pa los que sí...
+> 
+> Goofer Divulgador de economías computontas
+> 
+
+bueno, mandalos, a mi me mandan los precios mayoristas de axsys
+para compararlos nomas
+
+-- 
+  _______________________________________
+ |    .~.                                |
+ |    /V\     fedped@...     |
+ |   // \\    Usuario de Linux # 122505  |
+ |  /(   )\   http://cabezal.cjb.net     |
+ |   ^`~'^    LICQ 13353473              |
+ |_______________________________________|
+Manual said: "Windows 98 or better"... so I installed Linux
+

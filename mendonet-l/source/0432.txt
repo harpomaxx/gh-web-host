@@ -1,0 +1,172 @@
+From xebax@...  Sat Jul 11 23:23:58 2020
+Return-Path: <xebax@...>
+X-Sender: xebax@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_6_5); 20 Mar 2003 12:17:42 -0000
+Received: (qmail 26235 invoked from network); 20 Mar 2003 12:17:42 -0000
+Received: from unknown (66.218.66.217)
+  by m9.grp.scd.yahoo.com with QMQP; 20 Mar 2003 12:17:42 -0000
+Received: from unknown (HELO jive.SoftHome.net) (66.54.152.27)
+  by mta2.grp.scd.yahoo.com with SMTP; 20 Mar 2003 12:17:44 -0000
+Received: (qmail 16648 invoked by uid 417); 20 Mar 2003 12:17:43 -0000
+Received: from shunt-smtp-out-0 (HELO softhome.net) (172.16.3.12)
+  by shunt-smtp-out-0 with SMTP; 20 Mar 2003 12:17:43 -0000
+Received: from dup-200-42-124-12.prima.net.ar ([200.42.124.12])
+  by softhome.net with esmtp; Thu, 20 Mar 2003 05:17:35 -0700
+Date: Thu, 20 Mar 2003 09:16:17 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+X-Priority: 3 (Normal)
+Message-ID: <19386.030320@...>
+To: mendonet-l@...
+Cc: Aldo Coppola <ACOPPOLA2@...>,
+  "=?ISO-8859-1?B?QW5nZWwgR3V0aelycmV6?=" <litoguti@...>,
+  Cristian Vacarezza <cvacarezza@...>,
+  Diego Alonso <alonso@...>,
+  Gabriel Pantol <gabypantol@...>,
+  Juan Mangione <juanmangione@...>,
+  Marianella <killa_inti@...>,
+  Martin Seminara <martinseminara@...>,
+  Maxi Panero <mpanero@...>
+Subject: =?ISO-8859-1?B?QWxnbyBkZSBw4WdpbmEgMTIgeSBkb3MgcHJlZ3VudGFzIG3tYXMu?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Sebas <xebax@...>
+Reply-To: Sebas <xebax@...>
+X-Yahoo-Group-Post: member; u=50327891
+
+El que sigue es un artículo de "página 12":
+Por Eduardo Galeano
+
+Se declara la guerra en nombre de la comunidad internacional, que está
+harta de guerras. Y, como de costumbre, se declara la guerra en nombre
+de  la  paz.  No  es  por  el  petróleo, dicen. Pero si Irak produjera
+rabanitos  en  lugar de petróleo, ¿a quién se le ocurriría invadir ese
+país?   Bush,  Cheney  y  la  dulce  Condoleezza,  ¿habrán  renunciado
+realmente a sus altos empleos en la industria petrolera? ¿Por qué esta
+manía  de  Tony  Blair contra el dictador iraquí? ¿No será porque hace
+treinta  años  Saddam  Hussein nacionalizó la británica Irak Petroleum
+Company? ¿Cuántos pozos espera recibir Aznar en el próximo reparto? La
+sociedad de consumo, borracha de petróleo, tiene pánico al síndrome de
+abstinencia.  En  Irak, el elixir negro es el menos costoso y, quizás,
+el  más  cuantioso.  En una manifestación pacifista, en Nueva York, un
+cartel pregunta: "¿Por qué el petróleo nuestro está bajo las arenas de
+ellos?"
+
+* * *
+
+Estados Unidos ha anunciado una larga ocupación militar, después de la
+victoria.  Sus generales se harán cargo de establecer la democracia en
+Irak.  ¿Será  una  democracia  igual  a  la  que regalaron a Haití, la
+República  Dominicana  o  Nicaragua? Ocuparon Haití durante diecinueve
+años  y  fundaron  un  poder  militar que desembocó en la dictadura de
+Duvalier.  Ocuparon  la  Dominicana  durante  nueve años y fundaron la
+dictadura  de  Trujillo.  Ocuparon  Nicaragua  durante veintiún años y
+fundaron la dictadura de la familia Somoza.
+
+* * *
+
+La  dinastía de los Somoza, que los marines habían puesto en el trono,
+duró  medio siglo, hasta que en 1979 fue barrida por la furia popular.
+Entonces,  el  presidente  Ronald  Reagan montó a caballo y se lanzó a
+salvar  a  su  país amenazado por la revolución sandinista. Nicaragua,
+pobre  entre  los  pobres,  tenía,  en  total,  cinco ascensores y una
+escalera  mecánica,  que  no  funcionaba.  Pero  Reagan denunciaba que
+Nicaragua  era  un  peligro;  y  mientras  él  hablaba,  la televisión
+mostraba  un  mapa  de  Estados Unidos tiñéndose de rojo desde el sur,
+para ilustrar la invasión inminente. El presidente Bush, ¡le copia los
+discursos  que  siembran el pánico? ¿Bush dice Irak donde Reagan decía
+Nicaragua?
+
+* * *
+
+Títulos  de  los  diarios,  en  los días previos a la guerra: "Estados
+Unidos  está  pronto  para  resistir  el  ataque". Record de ventas de
+cintas  aislantes,  máscaras  antigases,  píldoras antirradiaciones...
+¿Por  qué  tiene  más  miedo el verdugo que la víctima? ¿Sólo por este
+clima   de   histeria  colectiva?  ¿O  tiembla  porque  presiente  las
+consecuencias  de  sus  actos?  ¿Y si el petróleo iraquí incendiara el
+mundo?  ¿No  será  esta  guerra  la  mejor  vitamina que el terrorismo
+internacional  está necesitando? Nos dicen que Saddam Hussein alimenta
+a  los  fanáticos  de  Al-Qaida.  ¿Un  criadero de cuervos para que le
+arranquen  los  ojos?  Los  fundamentalistas  islámicos  lo  odian. Es
+satánico  un país donde se ven películas de Hollywood, muchos colegios
+enseñan  inglés,  la  mayoría  musulmana  no impide que los cristianos
+anden con la cruz al pecho y no es muy raro ver mujeres con pantalones
+y  blusas  audaces.  No  hubo  ningún iraquí entre los terroristas que
+voltearon  las  torres de Nueva York. Casi todos eran de Arabia Saudí,
+el  mejor  cliente de Estados Unidos en el mundo. También es saudí Bin
+Laden, ese villano que los satélites persiguen mientras huye a caballo
+por  el  desierto,  y que dice presente cada vez que Bush necesita sus
+servicios de ogro profesional.
+
+* * *
+
+¿Sabía  usted  que  el  presidente  Eisenhower  dijo,  en 1953, que la
+"guerra  preventiva"  era un invento de Hitler? Dijo: "Francamente, yo
+no  me  tomaría  en  serio  a nadie que me viniera a proponer una cosa
+semejante".
+
+* * *
+
+Estados  Unidos  es el país que más armas fabrica y vende en el mundo.
+Es,  también,  el único país que ha arrojado bombas atómicas contra la
+población  civil.  Y  siempre  está,  por  tradición, en guerra contra
+alguien. ¿Quién amenaza la paz universal? ¿Irak?
+
+* * *
+
+¿Irak no respeta las resoluciones de las Naciones Unidas? ¡Las respeta
+Bush,  que acaba de propinar la más espectacular patada a la legalidad
+internacional?  ¡Las respeta Israel, país especializado en ignorarlas?
+Irak  ha  desconocido  17 resoluciones de las Naciones Unidas. Israel,
+64. ¿Bombardeará Bush a su más fiel aliado?
+
+* * *
+
+Irak  fue  arrasado, en 1991, por la guerra de Bush padre, y hambreado
+por  el  bloqueo  posterior.  ¿Qué  armas  de destrucción masiva puede
+esconder  este  país  masivamente  destruido? Israel, que desde el '67
+usurpa  tierras  palestinas,  cuenta con un arsenal de bombas atómicas
+que  le  garantizan  la  impunidad.  Y  Pakistán, otro fiel aliado que
+además  es  un  notorio nido de terroristas, exhibe sus propias ojivas
+nucleares.  Pero el enemigo es Irak, porque "podría tener" esas armas.
+Si  las  tuviera,  como  Corea  del  Norte proclama que las tiene, ¿se
+animarían  a  atacarlo?  ¿Y  las  armas  químicas y biológicas? ¿Quién
+vendió  a  Saddam  Hussein las cepas para fabricar los gases venenosos
+que  asfixiaron  a  los  kurdos,  y los helicópteros para arrojar esos
+gases?  ¿Por qué Bush no muestra los recibos? En aquellos años, guerra
+contra  Irán,  guerra contra los kurdos, ¿era Saddam menos dictador de
+lo  que  es  ahora?  Hasta  Donald  Rumsfeld  lo visitaba en misión de
+amistad.  ¿Por  qué  los kurdos son conmovedores ahora, y antes no? ¿Y
+por  qué  sólo  son  conmovedores  los kurdos de Irak, y no los kurdos
+mucho más numerosos que sacrificó Turquía?
+
+* * *
+
+Y una pregunta final, que pido prestada a John Le Carré:
+��Van a matar a mucha gente, papá?
+¿Nadie que conozcas, querido. Sólo extranjeros.
+
+
+Yo agrego dos preguntitas:
+
+Cuando los aviones se estrellaron contra las torres, corazón
+financiero del imperialismo económico, se habl�, con justa razón, de
+los miles de inocentes no vinculados a ese imperialismo económico que
+habían muerto. Hoy los diarios dicen que los primeros misiles atacaron
+sedes gubernamentales donde podría estar Saddam... ¿acaso todos los
+irakíes que trabajan en esas sedes gubernamentales son "saddames"?
+
+Si el ataque a Afganistán fue para encontrar a bin Laden y destruir el
+regimen talibán... porqué aún está Afganistán ocupado? Y el
+oleoducto que construyen empresas norteamericanas .... ¿es para
+atrapar a quién?
+
+-- 
+ Sebas  
+
+"Hay dos maneras de concebir el mundo. Una, salvarse solo, arrojar ciegamente los demás de la balsa y la otra, un destino de salvarse con todos, comprometer la vida hasta el último náufrago, no dormir esta noche si hay un niño en la calle." Armando Tejada Gomez
+
+
+

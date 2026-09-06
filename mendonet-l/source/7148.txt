@@ -1,0 +1,56 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 10 Nov 2000 03:48:02 -0000
+Received: (qmail 30661 invoked from network); 10 Nov 2000 03:48:02 -0000
+Received: from unknown (10.1.10.26) by m3.onelist.org with QMQP; 10 Nov 2000 03:48:02 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 10 Nov 2000 03:48:01 -0000
+Received: from antro.micasa ([200.41.31.78]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id AAA24002 for <mendonet-l@egroups.com>; Fri, 10 Nov 2000 00:51:13 +0300 (GMT)
+Date: Thu, 9 Nov 2000 23:50:59 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <11993.001109@...>
+To: Goofer <mendonet-l@egroups.com>
+Subject: Re[2]: A todo esto........
+In-reply-To: <000c01c04aac$4f1ced20$0201a8c0@goofer>
+References: <000c01c04aac$4f1ced20$0201a8c0@goofer>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 09/11/2000, Goofer confiadamente dijo:
+
+G> Agradecido Sebas...
+G> Lo de las palabras que se cortan depende mayormente de la
+G> definicion a la hora de verse la página.
+Y del tamaño de la ventana, y de cuanto scroll hayas hecho,
+y de la configuracion del tamaño de la tipografia en el browser,
+y del tipo y version de browser....
+Y de.....
+
+Goofer, si te interesa mi opinion, es esta:
+
+ESP�NSOR? <----- Que palabra te inventaste, chang�i!!!?
+Contador de visitas.... ocultalo... A quien le importa cuanta gente
+entra, ademas de al dueño de la pagina?
+Muy lindo el frame central... Buena eleccion de color. (De que color
+es el malbec?)
+Desagradable el frame del costado.... Esa barra de scroll que aparece
+interrumpiendo todo... Y no me salgas con que el sitio esta hecho para
+verse a 1024x768, no lo acepto. Yo usaria server side inclue para
+colocar el menu del costado en la misma pagina que el contenido
+principal. Ademas, la barra de direccion dejaria de ser inutil si no
+usas frames.
+La mierda esa que dice sponsor de todos colores y letras me distrae
+demasiado. La odio!!!
+
+
+-- 
+Groucho Marx
+>From the moment I picked your book up until I laid it down I was convulsed with laughter. Someday I intend reading it. -- Groucho Marx
+
+
+

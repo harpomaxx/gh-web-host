@@ -1,0 +1,60 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_2_3_0); 7 Nov 2002 18:18:35 -0000
+Received: (qmail 64647 invoked from network); 7 Nov 2002 18:18:35 -0000
+Received: from unknown (66.218.66.218)
+  by m9.grp.scd.yahoo.com with QMQP; 7 Nov 2002 18:18:35 -0000
+Received: from unknown (HELO pandora.negyser.com.ar) (200.41.21.70)
+  by mta3.grp.scd.yahoo.com with SMTP; 7 Nov 2002 18:18:37 -0000
+Received: from kavkeeper by pandora.negyser.com.ar with local (Exim 3.35 #1 (Debian))
+	id 189rGR-0001ho-00
+	for <mendonet-l@...>; Thu, 07 Nov 2002 15:20:23 -0300
+Received: from la-gruta.negyser.com.ar ([192.168.10.6] helo=lanet.com.ar)
+	by pandora.negyser.com.ar with esmtp (Exim 3.35 #1 (Debian))
+	id 189rGR-0001hd-00
+	for <mendonet-l@...>; Thu, 07 Nov 2002 15:20:23 -0300
+Message-ID: <3DCAAE7C.2050400@...>
+Date: Thu, 07 Nov 2002 15:18:36 -0300
+User-Agent: Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.0.1) Gecko/20020826
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: mendonet-l@...
+Subject: Re: (unknown)
+References: <1486.021107@...>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Envelope-To: mendonet-l@...
+From: Groucho Marx <groucho@...>
+X-Yahoo-Group-Post: member; u=20871821
+
+Sebas wrote:
+> ¿Por qué a los autos gasoleros no se les puede poner equipo de gas?
+
+Se dice motor Diesel, en honor a su inventor.
+De igual manera, el otro se lllama motor Otto.
+Y tambien esta el Wankel.
+
+El motor Diesel inyecta un combustible en los cilindros, lo comprime y 
+explota solo por el calor.
+El motor Otto en cambio, aspira el comustible, lo comprime y no explota 
+solo, sino que se ignita con una chispa electrica.
+
+Obviamente, las propiedades del combustible para un motor y otro han de 
+ser diferentes.
+Sucede que las propiedades explosivas del propano + aire son similares
+a las de una mezcla de vapor de nafta de mala calidad + aire, y muy 
+diferentes de las propiedades del vapor de gasoil + aire.
+
+El gas no explotaria por si solo en el motor Diesel. La nafta tampoco. 
+Tienen octanaje demasiado alto....
+
+-- 
+Groucho
+
+
+
+
+
+

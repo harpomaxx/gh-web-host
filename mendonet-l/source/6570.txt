@@ -1,0 +1,56 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_3_1_3); 8 Dec 2000 05:16:01 -0000
+Received: (qmail 58050 invoked from network); 8 Dec 2000 05:16:00 -0000
+Received: from unknown (10.1.10.26) by l7.egroups.com with QMQP; 8 Dec 2000 05:16:00 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.10) by mta1 with SMTP; 8 Dec 2000 05:15:58 -0000
+Received: from antro.micasa ([200.41.31.17]) by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id CAA18123 for <mendonet-l@egroups.com>; Fri, 8 Dec 2000 02:19:20 +0300 (GMT)
+Date: Thu, 7 Dec 2000 23:51:22 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Groucho Marx <groucho@...>
+X-Priority: 3 (Normal)
+Message-ID: <4994.001207@...>
+To: "fcanizo@..." <mendonet-l@egroups.com>
+Subject: Re: ncurses
+In-reply-To: <20001206215949.6980.qmail@...>
+References: <20001206215949.6980.qmail@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El 06/12/2000, fcanizo@... angustiosamente dijo:
+
+fuea>  GM>Nada mal. Ahora explicame como usas ncurses desde Perl.
+fuea>  Ni idea. RTFM.
+
+Que putete!!!!
+Para eso lo hago con dialog y shell scripting...
+O en C.
+
+fuea>  Bueno, te envié un mail privado antes que mencionaba la
+fuea>  librería cdk, pero en este momento no recuerdo si era para
+fuea>  perl. (quiero creer que sí).
+
+No le di toda la bola que merecia ese mensaje, pero lo deje marcado
+como no leido para procesarlo despues de rendir...
+
+ 
+fuea>  Como sea perl es el "glue language" por excelencia, asique no
+fuea>  debería ser difícil.
+
+Esa frase me suena... Ya se! Lo dijo Larry Wall el autor de PERL!!!!
+
+
+fuea>  Tenés los libros de perl que se encuentran en el sitio ruso?
+
+Si, los tengo. Y quiero mas.
+
+-- 
+Groucho Marx
+I will not grease the monkey bars -- Bart Simpson
+
+
+

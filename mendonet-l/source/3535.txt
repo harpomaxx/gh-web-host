@@ -1,0 +1,108 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 19 Oct 2001 05:46:11 -0000
+Received: (qmail 96237 invoked from network); 19 Oct 2001 05:46:11 -0000
+Received: from unknown (10.1.10.27)
+  by 10.1.1.220 with QMQP; 19 Oct 2001 05:46:11 -0000
+Received: from unknown (HELO relay1.impsat1.com) (200.31.1.18)
+  by mta2 with SMTP; 19 Oct 2001 05:46:11 -0000
+Received: from gateway.micasa.org.ar (200-41-31-91-rdunysd1.impsat.net.ar [200.41.31.91])
+	by relay1.impsat1.com (8.9.3/8.9.3) with ESMTP id CAA18455
+	for <mendonet-l@...>; Fri, 19 Oct 2001 02:51:41 +0300 (GMT)
+Received: from groucho by gateway.micasa.org.ar with local (Exim 3.32 #1 (Debian))
+	id 15uPpu-0004AW-00
+	for <mendonet-l@...>; Thu, 18 Oct 2001 23:56:38 -0300
+Date: Thu, 18 Oct 2001 23:56:38 -0300
+To: mendonet-l@...
+Subject: Re: Pregunta =?iso-8859-1?Q?tecnica?=
+Message-ID: <20011018235638.E15853@...>
+References: <01b101c157e9$8628c5a0$060aa8c0@...> <0936.011018@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <0936.011018@...>
+User-Agent: Mutt/1.3.22i
+From: Groucho Marx <groucho@...>
+
+On Thu, Oct 18, 2001 at 10:28:37PM -0300, Sebas wrote:
+
+> >> ¿Por qué se queman los modems?
+> >> Si piensan responder que por exponerlos al fuego, ya lo pensé. Tampoco
+> >> vale "por rociarlos con ácido".
+> 
+> GM> 1) Descargas electrostaticas
+> GM> 2) Sobretensiones
+> ¿Alguna otra precisión?
+> Por ejemplo, cuándo se produce cada una... y además: cuando sube la
+> tensión ¿se quema todo o sólo el modem?
+
+Que conste que el pidio precisiones.
+
+Las descargas electrostaticas se producen toda vez que en un dielectrico
+(o sea un material que no conduce la electricidad) se acumula una carga
+electrica, la que luego se descarga con una corriente muy breve e intensa a
+traves de un componente electronico.
+En el caso del modem, la carga electrostatica se puede acumular en:
+Funda del cable del telefono, ropa del usuario, superficies plasticas de
+la computadora y sus accesorios, alfombras, tapetes, almohadillas para mouse...
+Siempre se acumula carga por procesos de friccion: caminar sobre una alfombra,
+arrastrar el mouse sobre la almoadilla, fuga de carga de los rayos catodicos
+del TRC del monitor, friccion de particulas de polvo sobre el cable de la linea
+telefonica debido a un viento zonda de la san puta...
+Estas cargas pueden alcanzar valores monstruosos. Viste que a veces tocas algo
+metalico y salta una chispa cuando acercas el dedo y puteas porque te duele?
+Para ionizar el aire y producir un arco necesitas al menos 10000 V o sea MUCHOS
+Volts.
+Los componentes electronicos de un modem estan diseñados para trabajar con
+miliamperes, unos pocos amperes como mucho. La aplicacion de 10000 V
+sobre componentes con una resistencia dinamica por lo general baja producira
+decenas o centenas de Amperes como minimo, en cualquier caso miles a millones
+de veces la corriente de operacion normal de los componentes del modem,
+los que lo "quema" o degrada en su operacion.
+Puede no quemarse debido a este fenomeno de los semiconductores: una vez
+que una parte del cuerpo del semiconductor entra en conduccion, un fenomeno
+autosostenido llamado "avalancha" le permite al semiconductor reducir mas y
+mas su resistencia, con lo que la corriente aumenta mas y mas, con lo que
+su resistencia sigue disminuyendo, etc.
+Es un fenomeno muy rapido. La mas minima imperfeccion geometrica del
+semiconductor hara que algunas zonas entren en avalancha antes que el resto,
+esas zonas conduciran rapidamente toda la corriente, la que con suerte
+no circulara por el resto del semiconductor.
+Vi fotografias de eso al microscopio y se ve la seccion del semiconducotor
+atravesada por una linea de cenizas.
+Un semiconductor asi afectado se degradara en su operacion, pero quizas
+sobreviva.
+
+Con sobretensiones me refiero a altas tensiones como en el fenomeno anterior,
+solo que en lugar de deberse a carga acumulada en un dielectrico, se conduce
+por un conductor. Seria el caso de un rayo que cae en tu linea telefonica o
+cerca.
+Si cae cerca igual te afecta porque existe una capacidad elecrica entre el
+cable telefonico y el piso. Por mas que entre el piso y el cable no circule
+corriente, si estudiaste en algun momento de tu vida lo que es un capacitor,
+vas a entender que las variaciones de tension que le aplicas a una placa de
+un capacitor aparecen sobre la otra placa tambien.
+
+Cuando la carga negativa del piso se descarga a traves de la atmosfera sobre
+una nube cargada positivamente, la variacion de tension en el piso se "acopla"
+capacitivamente en la linea telefonica. La decena de millones de Volts o algo
+asi del rayo aparecen en la linea telefonica como algunos pocos miles de Volts,
+los cuales no le caen nada simpaticos a los componentes del modem.
+
+El modem incluye y esta diseñado para soportar estos eventos destructivos hasta
+cierto punto solamente.
+
+Si se quema el modem tambien se puede quemar el resto de la computadora, pero
+es poco probable ya que en las interfaces entre equipos se colocan elementos
+de proteccion: la entrada de la linea telefonica tiene protecciones para las
+calamidades que vengan de la linea telefonica, y el bus de la computadora tiene
+protecciones contra las calamidades (menores) que puedan venir de una placa
+enchudada al mismo.
+
+
+-- 
+Groucho   
+

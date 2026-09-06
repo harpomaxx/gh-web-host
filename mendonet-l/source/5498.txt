@@ -1,0 +1,36 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2); 31 Aug 2001 05:08:40 -0000
+Received: (qmail 98529 invoked from network); 31 Aug 2001 05:08:40 -0000
+Received: from unknown (10.1.10.26)
+  by l9.egroups.com with QMQP; 31 Aug 2001 05:08:40 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.6)
+  by mta1 with SMTP; 31 Aug 2001 05:08:39 -0000
+Received: (qmail 9503 invoked by uid 1005); 29 Aug 2001 18:31:52 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.165328 secs); 29/08/2001 15:31:51
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 29 Aug 2001 18:31:50 -0000
+Date: Wed, 29 Aug 2001 15:31:51 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <008101c12eef$1fbc9a80$9a4afea9@hfgg> <4938.010827@...>
+In-Reply-To: <4938.010827@...>
+Subject: Re: De onda... es mutuo
+MIME-Version: 1.0
+Message-Id: <01082915315103.00455@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 27 Ago 2001 22:31, escribiste:
+
+> LM> Ah!... Y ya tengo la canción que me identifica.
+
+"Bombacha veloz"?
+ 
+-- 
+Groucho Marx
+

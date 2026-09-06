@@ -1,0 +1,120 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_1_2); 5 Dec 2001 15:36:46 -0000
+Received: (qmail 80996 invoked from network); 5 Dec 2001 15:36:46 -0000
+Received: from unknown (216.115.97.167)
+  by m12.grp.snv.yahoo.com with QMQP; 5 Dec 2001 15:36:46 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta1.grp.snv.yahoo.com with SMTP; 5 Dec 2001 15:36:45 -0000
+Received: from modem16-as1.mendoza.sinectis.com.ar ([216.244.255.16])
+  by softhome.net with esmtp; Wed, 05 Dec 2001 08:25:46 -0700
+Date: Tue, 4 Dec 2001 14:08:51 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <9589.011204@...>
+To: mendonet-l@...
+Subject: =?ISO-8859-1?B?UmVbNF06IFNpZ3VlbiBsYXMgcHJlZ3VudGFzIGluZm9ybeF0aWNhcy4u?= =?ISO-8859-1?B?Lg==?=
+In-reply-To: <04e101c17c24$5ca57a20$060aa8c0@...>
+References: <04e101c17c24$5ca57a20$060aa8c0@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+Reply-To: Lupus <aldocop@...>
+X-Yahoo-Group-Post: member; u=26282579
+
+GM> en la pantalla un cartel indicando que se gano la loteria china, y que llame
+GM> al
+GM> 0800 555-5555 para cobrar su premio.
+GM> Un calculo pesimista hecho hace unos años indicaba que una clave de 2048
+GM> bits podria explorarse en un mes con el sistema de la loteria china..
+
+Alusinante!
+
+Y  quién  se  pone  a sacar esas cuentas... a quién se le ocurren esas
+ideas... me gustaría saber...
+
+>> Supongo  que  copiar  pegar  no  funciona...  quier decir, yo no puedo
+>> escribir  un  programa  y  firmarlo  con  la  firma  digital  de  otro
+>> programador...  mierda...  esto  debe  tener implicaciones filosóficas
+>> interesantísimas...
+
+GM> Nunca podrias usar la firma digital del otro porque por definicion, la clave
+GM> privada es PRIVADA (secreta) asi que tu unica opcion es adivinarla.
+
+En realidad ya lo comprendí bastante bien...
+
+Pero la única forma de tener una firma electrónica medianamente segura
+es  poniéndose  a  estudiar  algo  de  cryptografía...  parece  que es
+necesario que uno idee su encriptado privado...
+
+>> GM> Entonces yo genero 2 claves: una me la guardo en forma secreta (clave
+>> GM> publica) y la otra la publico en algun lugar donde cualquiera pueda
+>> GM> conseguirla (clave privada).
+>> No será al revés...?
+
+GM> Si, eso. No jodas con detalles.
+
+je je...
+
+>> Pero:  qué tan probable es que alguien descifre tu calve privada? debe
+>> haber algoritmos descifraclaves supongo...
+
+GM> Los algoritmos de cifrado y descifrado son publicos y conocidos por todos.
+GM> (otra vez la filosofia open source). La seguridad esta en que las claves
+GM> privadas son realmente secretas, y en la diicultad matematica de calcular
+GM> numeros primos grandes.
+
+Ahh... ¡plop?
+
+GM> La ventaja de un algoritmo abierto y publico de cifrado es que cualquier
+GM> cientifico va a romperse el culo tratano de encontrarle una falla o puerta
+GM> trasera con tan que de que su nombre salga publicado en algura revista
+GM> cientifica (consultoria gratis para el creador del algoritmo),
+
+Ja ja!! Eso si es simpático!
+
+GM>  y para el
+GM> publico
+GM> en general, tener mayor certeza de que el algoritmo no tiene puertas
+GM> traseras o debilidades deliberadamente introducidas por el diseñador.
+GM> (mismo argumento que indica que el codigo fuente abierto es mas seguro).
+
+Pero  cómo  puta  puede  ser  posible  que, conociendo el algoritmo de
+decodificación,  el  de  codificación  se  mantenga  oculto  con tanta
+fidelidad...!!?? Eso me asombra...
+
+Será que el codificado es específico y el decodificado es más general,
+con  lo que corriendo el decodificador al revés puede llegarse a miles
+de soluciones distintas, una sola de las cuales es la correcta...?
+
+No...  no  puede  ser  así  porque de ese modo las otras soluciones, a
+pesar  de  no ser la correcta del codificador original, sería aceptada
+por  correcta  por  el  decodificador público, dejando todo el proceso
+invalidado...
+
+¿Cómo carajo? Supongo que será complicado de comprender...
+
+>> Supongo que en el ambiente informático los mejores programadores serán
+>> aquellos  que  hayan  programado  los mejores open sources y con esto
+>> podrán  aprobechar  su reputación para obtener la retribución adecuada
+>> por  sus  conocimientos,  sin  necesidad de vender programas enlatados
+>> porongos...
+
+GM> O son demasiado hippies como para pretender que les paguen por trabajar.
+GM> Ejemplo: Richars Stallman.
+
+y qué come?? (Qué ha programado?)
+
+
+Lupus
+
+-- 
+
+" Todo idioma se aleja de lo escrito. Y algunos, como el inglés, que all� donde escriben Londres pronuncian Constantinopla. " ES                
+
+
+

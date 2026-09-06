@@ -1,0 +1,69 @@
+From root@...  Sat Jul 11 23:23:58 2020
+Return-Path: <root@...>
+X-Sender: root@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_1_1_3); 19 Sep 2002 16:26:44 -0000
+Received: (qmail 32100 invoked from network); 19 Sep 2002 16:26:43 -0000
+Received: from unknown (66.218.66.216)
+  by m9.grp.scd.yahoo.com with QMQP; 19 Sep 2002 16:26:43 -0000
+Received: from unknown (HELO io) (200.47.194.4)
+  by mta1.grp.scd.yahoo.com with SMTP; 19 Sep 2002 16:26:43 -0000
+Received: from root by io with local (Exim 3.35 #1 (Debian))
+	id 17rsc1-0002Wo-00
+	for <mendonet-l@...>; Thu, 19 Sep 2002 01:08:21 -0300
+Date: Thu, 19 Sep 2002 01:08:19 -0300
+To: mendonet-l@...
+Subject: Re: (unknown)
+Message-Id: <20020919010819.5e386683.root@...>
+In-Reply-To: <JPEJJKCOMFIHONLPHPCIOECPCBAA.gaucho98@...>
+References: <15359.020918@...>
+	<JPEJJKCOMFIHONLPHPCIOECPCBAA.gaucho98@...>
+Organization: Linux User Group Mendoza [LugMen]
+X-Mailer: Sylpheed version 0.8.2 (GTK+ 1.2.10; i686-pc-linux-gnu)
+X-Operating-System: Debian GNU/Linux
+X-KASTOR: Muerte al CAPITAL!!!
+X-KASTOR-1: QUE SE VAYAN TODOS!!!!
+User-Agent: Sylpheed version 0.8.2 (GTK+ 1.2.10; i686-debian-linux-gnu)
+Mime-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pgp-signature";
+ micalg="pgp-sha1"; boundary="=.c9p+lT1rfvIV'A"
+From: k a s t o r <root@...>
+X-Yahoo-Group-Post: member; u=76410190
+
+
+--=.c9p+lT1rfvIV'A
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+El Wed, 18 Sep 2002 14:07:17 -0300
+"GAUCHO98" <gaucho98@...> escribio:
+
+> Pues esa no la escuche pero si es en cumbia en especial de esos grupos que
+> tocan los sabados en la tele no me gusta.
+> PD: No te enteraste?? ahoras asereje la estan trduciendo al japones y al
+> chino!!!!!!!! mira que exito.
+
+en chino????? como seria... achereje... achereje.... ??? por favor1!!
+-- 
+
+[ kastor ]                 [-- QUE SE VAYAN TODOS --]
+
+JID = kastor@...   
+KFP = B83D C963 C1F8 7C02 FA82  1DFE 4852 C81A EFE9 177A               
+GPG = http://www.lugmen.org.ar/~kastor/public-key.txt                  
+
+
+
+--=.c9p+lT1rfvIV'A
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (GNU/Linux)
+
+iD8DBQE9iU21SFLIGu/pF3oRAn0tAJwOqnx86yuPJByctCA7fl42+MKnjACeOUDK
+WkrjUUzWYV/Sm15ngu8wmjQ=
+=6ZTG
+-----END PGP SIGNATURE-----
+
+--=.c9p+lT1rfvIV'A--
+

@@ -1,0 +1,53 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 19 May 2002 00:01:44 -0000
+Received: (qmail 89176 invoked from network); 19 May 2002 00:01:44 -0000
+Received: from unknown (66.218.66.216)
+  by m11.grp.scd.yahoo.com with QMQP; 19 May 2002 00:01:44 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.123)
+  by mta1.grp.scd.yahoo.com with SMTP; 19 May 2002 00:01:44 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Sat, 18 May 2002 17:01:44 -0700
+To: <mendonet-l@...>
+References: <OE31XBQpYnUjYHtm7ey0000a539@...> <3558.020517@...>
+Subject: Re: Re[18]: (unknown)
+Date: Sat, 18 May 2002 08:14:37 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE190G1N6vxhttALyo20000bb72@...>
+X-OriginalArrivalTime: 19 May 2002 00:01:44.0148 (UTC) FILETIME=[5C79B940:01C1FEC8]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.192.113]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+----- Original Message -----
+From: "Sebas" <xebax@...>
+To: "Federico" <mendonet-l@...>
+Sent: Friday, May 17, 2002 1:23 PM
+Subject: Re[18]: (unknown)
+
+
+> >> Mi  estimado.  Dentro  de  su  mediandad  de confiabilidad es la única
+> >> herramienta  que  garantiza aproximaciones sucesivas a la verdad y les
+> >> lleva  terrible  bentaja a cualquier otro método de conocimiento de la
+> >> realidad. El hecho de que no sea perfecta no es elemento en su contra,
+> >> especialmente cuando es la menos distorcionada que existe.
+>
+> F> esta bien pero si reconocemos que es medianamente confiable, no podemos
+> F> decir que todo aquello no probado por esa herramienta carece de
+veracidad, a
+> F> no ser que cambiemos y digamos que es 100% confiable
+> Es 100% confiable hasta que se pruebe su error.
+
+yo parto de la base que nada es 100% confiable hasta que se demuestre que lo
+es
+

@@ -1,0 +1,74 @@
+From federicomorganti@...  Sat Jul 11 23:23:58 2020
+Return-Path: <federicomorganti@...>
+X-Sender: federicomorganti@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_3_2); 29 May 2002 18:39:04 -0000
+Received: (qmail 98555 invoked from network); 29 May 2002 18:39:04 -0000
+Received: from unknown (66.218.66.218)
+  by m7.grp.scd.yahoo.com with QMQP; 29 May 2002 18:39:04 -0000
+Received: from unknown (HELO hotmail.com) (216.33.240.206)
+  by mta3.grp.scd.yahoo.com with SMTP; 29 May 2002 18:39:04 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	 Wed, 29 May 2002 11:39:03 -0700
+To: <mendonet-l@...>
+References: <OE3670L4YYo2inIqs7Q0000ae1b@...> <17525.020522@...>
+Subject: Re: Re[11]: (unknown)
+Date: Mon, 27 May 2002 02:53:55 -0300
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4133.2400
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+Message-ID: <OE71xkMlOtnS67IJImq0000485b@...>
+X-OriginalArrivalTime: 29 May 2002 18:39:03.0958 (UTC) FILETIME=[1B726B60:01C20740]
+From: "Federico" <federicomorganti@...>
+X-Originating-IP: [200.45.192.199]
+X-Yahoo-Group-Post: member; u=36606789
+
+
+----- Original Message -----
+From: "Lupus" <aldocop@...>
+To: <mendonet-l@...>
+Sent: Wednesday, May 22, 2002 12:37 PM
+Subject: Re[11]: (unknown)
+
+
+> >> >>  lo que faltaba, ahora nos ponemos a discutir lo que es para cada
+uno
+> >> >> energia y no terminamos mas
+> >> >>  de ttodas formas yo uso la que dice que energia interna es aquella
+> >> >> energia termodinamica de un cuerpo que no puede expresarse en forma
+> >> >> de trabajo o calor.
+> >>
+> >> GM> Si no puede convertirse en trabajo ni en calor, no es energia.
+> >> GM> Verdad, Lupus?
+> >>
+> >> Nop. Que yo sepa eso no es energía...
+> >>
+> >> Bueno,  salvo  que  el  Fede  hable de alguna energía metafísica
+> >> abstracta  que  en  realidad  lo  único  que tiene en común con lo que
+> >> usualmente  se  denomina energía es el nombre... y que justamente tome
+> >> ese nombre para marear a los lectores / escuchas que ignoren la básico
+> >> sobre el concepto de energía, pero que sepan lo suficiente al respecto
+> >> como  para  cometer  el  error  de pensar que se está hablando de algo
+> >> serio por el solo hecho de mencionar la palabra.
+>
+> F> yo solo transcribi lo que Salvat define como energia interna, no me
+culpen,
+> F> busquen energia en el diccionario de sus casas y luego busquen energia
+> F> interna y me escriben todas las definiciones que existen y seguro que
+cada
+> F> uno eligira la que le guste, como en el caso de homeostasis
+>
+> Si mal no recuerdo, refiriéndose a la energía termodinámica interna de
+> un  cuerpo, ésta es proporcional a su temperatura (o a una potencia de
+> su temperatura, no recuerdo... tanto tiempo sin ver termodinámica...).
+> ésta si es convertible en calor.
+
+y si mejor lo lees y despues escribis el mail, ahorramos tiempo
+
+
+

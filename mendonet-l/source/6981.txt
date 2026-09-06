@@ -1,0 +1,40 @@
+From harpo@...  Sat Jul 11 23:23:58 2020
+Return-Path: <harpo@...>
+X-Sender: harpo@...
+X-Apparently-To: mendonet-l@egroups.com
+Received: (EGP: mail-6_2_1); 13 Nov 2000 22:21:31 -0000
+Received: (qmail 812 invoked from network); 13 Nov 2000 22:21:30 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 13 Nov 2000 22:21:30 -0000
+Received: from unknown (HELO elserver.micasa) (209.13.229.66) by mta2 with SMTP; 13 Nov 2000 22:21:21 -0000
+Received: (from harpo@localhost) by elserver.micasa (8.8.7/8.8.7) id PAA02104 for mendonet-l@egroups.com; Mon, 13 Nov 2000 15:01:33 -0300
+X-Authentication-Warning: elserver.micasa: harpo set sender to harpo@... using -f
+Date: Mon, 13 Nov 2000 15:01:33 -0300
+To: mendonet-l@egroups.com
+Subject: Re: Un par de preguntas sobre the bat
+Message-ID: <20001113150133.D2007@...>
+References: <2961.001112@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Mutt/1.2.5i
+In-Reply-To: <2961.001112@...>; from xebax@... on Sun, Nov 12, 2000 at 11:04:12PM -0300
+X-Operating-System: Linux elserver.micasa 2.2.17 
+X-Useless-Harpo-header: Why r U Looking my headers FUCKING ASSHOLE!!
+From: harpo@...
+
+El Sun, Nov 12, 2000 at 11:04:12PM -0300, Sebas dijo:
+>   Ando explorando la cuestión, y tengo un par de dudas:
+>   1- ¿Qué es PGP? En medicina quiere decir parálisis general progresiva,
+>   pero no sé que tendrá que ver con esto.
+
+Groucho te lo explicara mucho mas detallaado que yo. Pero te adelante que PGP
+es un programa que te permite encriptar tu correspondiencia y asi garantizar
+una cierta seguridad de que nadie leas tus mail (excepto la persona a la que
+se lo envias)
+
+-- 
+Eso es lo poco que puedo decir al respecto.
+
+El Harpo!
+

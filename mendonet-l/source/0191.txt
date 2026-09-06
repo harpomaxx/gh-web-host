@@ -1,0 +1,43 @@
+From rodralez@...  Sat Jul 11 23:23:58 2020
+Return-Path: <rodralez@...>
+X-Sender: rodralez@...
+X-Apparently-To: mendonet-l@...
+Received: (qmail 67604 invoked from network); 19 Aug 2003 02:51:28 -0000
+Received: from unknown (66.218.66.218)
+  by m17.grp.scd.yahoo.com with QMQP; 19 Aug 2003 02:51:28 -0000
+Received: from unknown (HELO vita.com.ar) (200.80.39.12)
+  by mta3.grp.scd.yahoo.com with SMTP; 19 Aug 2003 02:51:28 -0000
+Received: (qmail 32726 invoked by uid 64014); 19 Aug 2003 02:51:21 -0000
+Received: from rodralez@... by wega by uid 1004 with qmail-scanner-1.16 
+ (avp: 4.0.0.1. spamassassin: 2.20.  Clear:SA:0(-4.4/5.0 tests=IN_REP_TO version=2.20):. 
+ Processed in 1.400705 secs); 19 Aug 2003 02:51:21 -0000
+Received: from unknown (HELO SERVIDOR) (rodralez@...@200.41.21.132)
+  by ns1.vita.com.ar with SMTP; 19 Aug 2003 02:51:19 -0000
+Date: Mon, 18 Aug 2003 23:51:30 -0300
+X-Mailer: The Bat! (v1.62r)
+X-Priority: 3 (Normal)
+Message-ID: <1614246371.20030818235130@...>
+To: elbeneficio_deladuda <mendonet-l@...>
+Subject: =?ISO-8859-1?B?UmVbMl06IENoYXJy+mEgc2UgcHJlc2VudGE=?=
+In-Reply-To: <bhs0tf+rdmv@...>
+References: <bhs0tf+rdmv@...>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, hits=-4.4 required=5.0 tests=IN_REP_TO version=2.20
+X-Spam-Level: 
+From: rodralez <rodralez@...>
+Reply-To: rodralez forknet <rodralez@...>
+X-Yahoo-Group-Post: member; u=152320388
+X-Yahoo-Profile: rodralez
+
+elbeneficio_deladuda decía:
+
+e> Con respecto a cómo lo enseñan acá, te cuento que yo hice toda mi
+e> educación primaria y secundaria en Santa Fe
+
+Por qué viviste en Santa Fe ?.
+
+rodralez                      
+
+

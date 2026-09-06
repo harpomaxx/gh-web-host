@@ -1,0 +1,50 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_3_2_1); 7 Sep 2001 23:17:35 -0000
+Received: (qmail 26938 invoked from network); 7 Sep 2001 23:16:32 -0000
+Received: from unknown (10.1.10.26)
+  by l9.egroups.com with QMQP; 7 Sep 2001 23:16:32 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.63)
+  by mta1 with SMTP; 7 Sep 2001 23:16:31 -0000
+Received: (qmail 9517 invoked by uid 1005); 7 Sep 2001 19:15:28 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.320354 secs); 07/09/2001 16:15:27
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3)
+  by torton.micasa with SMTP; 7 Sep 2001 19:15:25 -0000
+Date: Fri, 7 Sep 2001 16:15:27 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain;
+  charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <01090521330403.00372@cubil> <3568.010906@...>
+In-Reply-To: <3568.010906@...>
+Subject: Re: Re[4]: Me cago en vuestra actitud
+MIME-Version: 1.0
+Message-Id: <01090716152705.00363@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Jue 06 Sep 2001 13:39, escribiste:
+
+
+> saber computación. Va mucho más allá de saber computación. Si alguna
+> vez toman una acción concreta para que no suceda, avísenme, me les
+> unir� solo por solidaridad y ética, porque en lo que a mí respecta,
+> no tengo planes de cambiar mi computadora por mucho tiempo, dado que
+> me sirve para todo lo que la necesito. ¿Para qué quiero un pentium 18
+> que corra word 2013 si con word 97 me alcanza?
+
+Ingenuo. Cuando salga el Pentium 18, Microsoft va a hacer un Word 2013 
+que necesite un pentium 19 minimo como para funcionar bien.
+Algun nabo que este prendido en la ola del consumismo tecnologico va a 
+comprar el Pentium 18 y el Word 2013 solo porque es lo ultimo.
+Luego te va a mandar archivos escritos en en formato de Word 2013, el 
+cual es distinto a todos los formatos de todos los Words anteriores y 
+por lo tanto no lo vas a poder ver.
+
+Tarde o temprano te van a obligar a usar Word 2013.
+
+-- 
+Groucho Marx
+

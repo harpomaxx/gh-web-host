@@ -1,0 +1,28 @@
+From goofer@...  Sat Jul 11 23:23:58 2020
+Return-Path: <goofer@...>
+Received: (qmail 8471 invoked from network); 17 Aug 2000 06:58:51 -0000
+Received: from unknown (10.1.10.27) by m4.onelist.org with QMQP; 17 Aug 2000 06:58:51 -0000
+Received: from unknown (HELO tango.SoftHome.net) (204.144.231.49) by mta1 with SMTP; 17 Aug 2000 06:58:50 -0000
+Received: (qmail 28668 invoked by uid 417); 17 Aug 2000 06:59:13 -0000
+Received: from mza2ppp-381.uc.infovia.com.ar (HELO softhome.net) (209.13.230.126) by smtpb.softhome.net with SMTP; 17 Aug 2000 06:59:13 -0000
+Message-ID: <399B874F.BC7B5CB6@...>
+Date: Thu, 17 Aug 2000 03:33:51 -0300
+X-Mailer: Mozilla 4.7 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: mendonet-l@egroups.com
+Subject: Re: claridad
+References: <006501c0064b$7ec49460$LocalHost@...> <6604.000816@...> <004301c00804$afdd9640$LocalHost@...>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+From: El Goofer <goofer@...>
+
+> 
+>               Name: 003.gif
+>    003.gif    Type: GIF Image (image/gif)
+>           Encoding: base64
+
+Muy bueno, muy muy bueno
+
+
+

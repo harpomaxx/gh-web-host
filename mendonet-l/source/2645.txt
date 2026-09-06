@@ -1,0 +1,52 @@
+From aldocop@...  Sat Jul 11 23:23:58 2020
+Return-Path: <aldocop@...>
+X-Sender: aldocop@...
+X-Apparently-To: mendonet-l@...
+Received: (EGP: mail-8_0_0_1); 28 Nov 2001 12:08:03 -0000
+Received: (qmail 86485 invoked from network); 28 Nov 2001 12:08:02 -0000
+Received: from unknown (216.115.97.172)
+  by m2.grp.snv.yahoo.com with QMQP; 28 Nov 2001 12:08:02 -0000
+Received: from unknown (HELO softhome.net) (66.54.152.27)
+  by mta2.grp.snv.yahoo.com with SMTP; 28 Nov 2001 12:08:02 -0000
+Received: from modem106-as3.mendoza.sinectis.com.ar ([216.244.255.226])
+  by softhome.net with esmtp; Wed, 28 Nov 2001 04:58:00 -0700
+Date: Mon, 26 Nov 2001 11:15:08 -0300
+X-Mailer: The Bat! (v1.41) UNREG / CD5BF9353B3B7091
+Reply-To: Lupus <aldocop@...>
+Organization: La comunidad del anillo
+X-Priority: 3 (Normal)
+Message-ID: <15468.011126@...>
+To: mendonet-l@...
+Subject: Re[2]: Roxette
+In-reply-To: <20011124163303.F6543@...>
+References: <20011124163303.F6543@...>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+From: Lupus <aldocop@...>
+
+             El 24/11/2001, mendonet-l decía:
+
+
+GM> On Sat, Nov 24, 2001 at 11:26:43AM -0300, Lupus wrote:
+
+>> GM> Los que tienen buenos programas de correo electronico pueden hacer esto
+>> GM> usando el modo threads para mostrar los mensajes en una estructura de arbol
+>> GM> vinculados por la relacion "es respuesta de".
+>> 
+>> ¿Lo qué...?
+>> Dónde encuentro a ese señor en el The Bat!??
+
+GM> No me acuerdo. Ver -> Threads seria un buen candidato...
+
+Cierto!  ya  lo  vi... y es bastante mecha... pero no lo voy a usar de
+todos modos...
+
+Lupus
+
+-- 
+
+Amarte es rozar la eternidad por un segundo. Dejar que se me escape es inaceptable, es incomprensible y, lo peor; es inevitable. La eternidad no es para los humanos.           
+
+
+

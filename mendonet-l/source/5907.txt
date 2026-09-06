@@ -1,0 +1,57 @@
+From groucho@...  Sat Jul 11 23:23:58 2020
+Return-Path: <groucho@...>
+X-Sender: groucho@...
+X-Apparently-To: mendonet-l@yahoogroups.com
+Received: (EGP: mail-7_2_0); 8 Aug 2001 07:11:59 -0000
+Received: (qmail 65701 invoked from network); 8 Aug 2001 07:11:58 -0000
+Received: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 8 Aug 2001 07:11:58 -0000
+Received: from unknown (HELO mail.micasa) (200.41.31.77) by mta1 with SMTP; 8 Aug 2001 07:11:57 -0000
+Received: (qmail 5605 invoked by uid 1005); 7 Aug 2001 20:49:03 -0000
+Received: from groucho@... by torton.micasa with qmail-scanner-0.94 (uvscan: v4.1.20/v4106. . Clean. Processed in 1.294189 secs); 07/08/2001 17:49:02
+Received: from cubil.micasa (HELO cubil) (groucho@192.168.0.3) by torton.micasa with SMTP; 7 Aug 2001 20:49:00 -0000
+Date: Tue, 7 Aug 2001 17:50:35 -0300
+X-Mailer: KMail [version 1.1.99]
+Content-Type: text/plain; charset="ISO-8859-1"
+To: mendonet-l@yahoogroups.com
+References: <16743705.20010806213945@...>
+In-Reply-To: <16743705.20010806213945@...>
+Subject: Re: linux, hombres y pornografia
+MIME-Version: 1.0
+Message-Id: <01080717503501.00360@cubil>
+Content-Transfer-Encoding: 8bit
+From: Groucho Marx <groucho@...>
+
+El Lun 06 Ago 2001 21:39, escribiste:
+
+>     Un buen dia enfrente a mi guru y le dije "quiero linux"
+> a lo que respondio, "ok, ya te lo instalare".
+>     Mientras tanto hacia preguntas como "y no le va a pasar nada a
+> las otras pariciones que poseo si instalo linux en una de ellas? "
+>     Nooooooooo, estate tranquilo, no pasa nada.
+>
+> ....El tiempo pasaba y siempre se postergaba la instalacion y
+> yo mientras tanto seguia con S.O. para ñoños.
+>
+>     Erase una tarde de Sabado cuando por fin se dio la oportunidad
+> "Venite mañana e instalamos linux" escuche. Por fin!!!, el tan
+> ansiado S.O. me habia elegido mi!!!!.
+>
+>     Todo parecia ok, la maquina andaba, iniciaba linux, iniciaba
+> windows, todo era perfecto, entonces decido partir hacia mi hogar
+> luego de haber pasado 7 hs de instalacion, toda una odisea.
+>     Ya en mi hogar decido probar todo y o problema, no me leia una
+> particion que poseia mi disco, se que parece tonto pero esa particion
+> tenia informacion vital recopilada durante anios, mi preciada
+> PORNOGRAFIA!!!!, y estaba ordenada alfabeticamente y por nombres de
+> protagonistas!!!!!!!
+>     Ya no tenia sentido nada, luego de varias consultas no tuve otra
+> solucion tuve que formatear la particion perdiendo mas de 400 Mb de
+> hermosas mujeres.
+
+Seguramente ese formateado de particion estuvo totalmente de mas.
+
+
+
+-- 
+Groucho Marx
+
