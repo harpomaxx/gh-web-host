@@ -10,9 +10,11 @@ Páginas:
 
 - `index.html`: índice de juegos, con una tarjeta por juego.
 - `aventura-matematica.html`: retos de matemática por una ruta de explorador.
+- `taller-de-multiplicaciones.html`: multiplicaciones por dos cifras, con validación de productos parciales y ayudas graduadas.
 - `galaxia-de-tablas.html`: tablas de multiplicar con temática espacial.
 - `expedicion-naturaleza.html`: Ciencias Naturales (seres vivos, ambientes, Mendoza).
 - `aventura-de-palabras.html`: Lengua (poesía, artículos, adjetivos, preposiciones).
+- `maquina-del-tiempo-verbal.html`: Lengua (pretérito perfecto simple e imperfecto), con sala de estudio y pistas.
 - `viaje-al-nuevo-mundo.html`: Ciencias Sociales (exploración, conquista, fundación de ciudades).
 - `constructores-de-frases.html`: Lengua (construcciones sustantivas: núcleo, md, mi).
   Además del juego tiene una **sala de estudio** (`showLearn()`) que explica el tema.

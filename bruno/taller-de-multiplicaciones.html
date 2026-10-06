@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Taller de Multiplicaciones · Bruno</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Baloo+2:wght@600;700;800&display=swap');
+
+  :root{
+    --ink:#293044;--muted:#687086;--paper:#fffdf6;--cream:#fff3d6;
+    --teal:#168b87;--teal-deep:#096763;--teal-soft:#dff7f3;
+    --orange:#f28b35;--orange-deep:#bd581d;--yellow:#ffd45c;
+    --blue:#3d72ce;--red:#d94b55;--green:#278b55;
+    --shadow:rgba(41,48,68,.2);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;min-height:100vh;font-family:'Fredoka',system-ui,sans-serif;color:var(--ink);
+    background:
+      radial-gradient(circle at 12% 12%,rgba(255,212,92,.55),transparent 28%),
+      radial-gradient(circle at 88% 30%,rgba(22,139,135,.25),transparent 31%),
+      linear-gradient(155deg,#f9c76f,#ef8d46 48%,#167e7b);overflow-x:hidden}
+  button,input{font:inherit}
+  button{cursor:pointer}
+  button:focus-visible,input:focus-visible,a:focus-visible{outline:4px solid #3d72ce;outline-offset:3px}
+
+  .scene{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+  .gear-f{position:absolute;top:-70px;opacity:.28;animation:fall linear infinite}
+  @keyframes fall{to{transform:translateY(115vh) rotate(520deg)}}
+  .floor{position:absolute;left:0;right:0;bottom:0;width:100%;height:150px}
+  .wrap{position:relative;z-index:1;width:min(760px,calc(100% - 24px));margin:0 auto;padding:18px 0 42px}
+
+  header{display:flex;justify-content:space-between;align-items:center;gap:12px;background:rgba(255,253,246,.96);
+    border:3px solid var(--ink);border-radius:23px;padding:12px 15px;box-shadow:0 7px 0 var(--shadow);margin-bottom:18px}
+  .brand{display:flex;align-items:center;gap:10px;font-family:'Baloo 2';font-weight:800;color:var(--teal-deep);line-height:1.05}
+  .brand .logo{font-size:1.9rem}.brand small{display:block;color:var(--orange-deep);font-family:'Fredoka';font-size:.72rem}
+  .hud{display:flex;gap:7px;flex-wrap:wrap;justify-content:flex-end}
+  .chip{display:flex;align-items:center;gap:4px;background:#fff;border:2.5px solid var(--ink);border-radius:13px;padding:5px 8px;box-shadow:0 3px 0 #c9bdac;font-size:.9rem}
+
+  .panel,.trail{background:rgba(255,253,246,.97);border:3px solid var(--ink);box-shadow:0 8px 0 var(--shadow)}
+  .panel{border-radius:28px;padding:clamp(18px,5vw,34px)}
+  .hero{text-align:center}.mascot{font-size:4.8rem;filter:drop-shadow(0 5px 0 #0002);animation:bob 2.2s ease-in-out infinite}
+  @keyframes bob{50%{transform:translateY(-8px) rotate(3deg)}}
+  h1,h2,h3{font-family:'Baloo 2';line-height:1.05}
+  h1{font-size:clamp(2rem,8vw,3.3rem);color:var(--teal-deep);margin:5px 0 6px}
+  h2{color:var(--teal-deep);font-size:1.55rem;margin:24px 0 9px}
+  .sub{font-size:1.08rem;line-height:1.4;color:var(--muted);margin:0 auto 16px;max-width:560px}
+  .small{font-size:.88rem;color:var(--muted);line-height:1.35}
+
+  .features{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:19px auto;max-width:540px}
+  .feature{background:var(--cream);border:2.5px solid var(--ink);border-radius:15px;padding:11px 7px;font-weight:600;box-shadow:0 3px 0 #d4b77d}
+  .feature .e{font-size:1.45rem;display:block;margin-bottom:2px}
+  .play,.ghost,.help-btn,.check,.next{border:3px solid var(--ink);font-family:'Baloo 2';font-weight:800;border-radius:16px;box-shadow:0 5px 0 var(--shadow);transition:.12s transform,.12s box-shadow}
+  .play{background:linear-gradient(#25a9a3,#147a76);color:white;font-size:1.2rem;padding:12px 25px}
+  .ghost{background:#fff;color:var(--teal-deep);font-size:1rem;padding:9px 16px;margin-top:11px}
+  .play:hover,.ghost:hover,.help-btn:hover,.check:hover,.next:hover{transform:translateY(-2px);box-shadow:0 7px 0 var(--shadow)}
+  .play:active,.ghost:active,.help-btn:active,.check:active,.next:active{transform:translateY(2px);box-shadow:0 2px 0 var(--shadow)}
+
+  .trail{display:flex;align-items:center;gap:10px;border-radius:18px;padding:9px 12px;margin-bottom:13px}
+  .trail .lab{font-size:.82rem;font-weight:700;white-space:nowrap}.track{height:13px;background:#d9dedc;border:2px solid var(--ink);border-radius:10px;flex:1;position:relative}
+  .fill{height:100%;border-radius:7px;background:linear-gradient(90deg,var(--orange),var(--yellow));transition:width .45s}
+  .walker{position:absolute;top:50%;transform:translate(-50%,-56%);font-size:1.45rem;transition:left .45s}
+  .tab{display:inline-block;background:var(--teal);color:white;border:2.5px solid var(--ink);border-radius:12px;padding:5px 12px;font-weight:700;box-shadow:0 3px 0 #b9aaa0}
+  .qtag{text-align:center;color:var(--orange-deep);font-size:.84rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em}
+  .prompt{text-align:center;font-family:'Baloo 2';font-size:clamp(1.25rem,4.5vw,1.7rem);font-weight:700;line-height:1.2;margin:12px auto 6px;max-width:600px}
+  .scenario{background:var(--cream);border:2px dashed var(--orange-deep);border-radius:14px;padding:10px 13px;text-align:center;line-height:1.35;margin:10px auto;max-width:560px}
+
+  .operation{width:170px;margin:16px auto 18px;padding:7px 18px 9px;background:white;border:3px solid var(--ink);border-radius:16px;box-shadow:0 5px 0 #d5c8b7;font:700 1.8rem/1.12 ui-monospace,SFMono-Regular,Consolas,monospace;text-align:right}
+  .operation .second{border-bottom:3px solid var(--ink);padding-bottom:5px}.operation .times{float:left;color:var(--orange-deep)}
+  .operation .mystery{padding-top:5px;letter-spacing:.12em;color:var(--teal-deep)}
+
+  .steps{display:grid;gap:11px;margin-top:12px}
+  .step{border:2.5px solid #aeb5be;border-radius:17px;padding:12px;background:#f4f4f1;opacity:.68;transition:.2s}
+  .step.active{border-color:var(--teal-deep);background:var(--teal-soft);opacity:1;box-shadow:0 4px 0 rgba(9,103,99,.18)}
+  .step.done{border-color:var(--green);background:#e5f7eb;opacity:1}.step.revealed{border-color:var(--orange-deep);background:#fff0df;opacity:1}
+  .step-head{display:flex;align-items:flex-start;gap:9px;margin-bottom:8px}.step-num{display:grid;place-items:center;min-width:28px;height:28px;border-radius:50%;background:var(--ink);color:white;font-weight:700}
+  .step-title{font-weight:700;line-height:1.25}.step-note{font-size:.84rem;color:var(--muted);font-weight:400;margin-top:2px}
+  .answer-row{display:flex;justify-content:center;gap:8px;align-items:center;flex-wrap:wrap}
+  .answer-row input{width:150px;min-height:48px;border:3px solid var(--ink);border-radius:13px;background:white;text-align:center;font-size:1.25rem;font-weight:700;color:var(--teal-deep)}
+  .answer-row input:disabled{opacity:1;color:var(--ink)}
+  .check{background:var(--orange);color:white;padding:8px 16px;font-size:1rem;min-height:46px}
+  .check:disabled{cursor:default;filter:grayscale(.5);opacity:.55}
+  .step-msg{min-height:20px;text-align:center;font-size:.88rem;font-weight:600;margin-top:7px}.step-msg.ok{color:var(--green)}.step-msg.no{color:var(--red)}
+
+  .help-zone{text-align:center;margin:15px 0 4px}.help-btn{background:var(--yellow);color:var(--ink);padding:9px 18px;font-size:1.03rem}
+  .help-card{display:none;text-align:left;background:#fff7ce;border:3px solid #a87212;border-radius:17px;padding:13px 15px;margin:12px auto 0;max-width:590px;line-height:1.4}
+  .help-card.show{display:block;animation:appear .22s ease-out}.help-card strong{color:#80520a}.help-card .mini-grid{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin-top:9px}
+  .piece{background:white;border:2px solid #a87212;border-radius:10px;padding:7px;text-align:center;font-weight:600}
+  @keyframes appear{from{opacity:0;transform:translateY(-5px)}}
+
+  .feedback{display:none;align-items:center;gap:11px;border:3px solid var(--ink);border-radius:18px;padding:12px;margin-top:16px}
+  .feedback.show{display:flex}.feedback.ok{background:#dcf6e5;color:#165d38}.feedback.no{background:#ffe7df;color:#92391d}
+  .feedback .face{font-size:2rem}.feedback .txt{flex:1;line-height:1.35}.feedback .ex{display:block;font-size:.87rem;margin-top:5px;color:var(--ink)}
+  .next{background:var(--teal);color:white;padding:8px 13px;white-space:nowrap}
+
+  .learn{text-align:left}.learn>p,.learn li{line-height:1.5}.box{background:#fff;border:2.5px solid var(--ink);border-radius:17px;padding:14px;margin:11px 0;box-shadow:0 3px 0 #ddd1c0}
+  .box.teal{background:var(--teal-soft)}.box.orange{background:#fff0df}.box.yellow{background:#fff7ce}.bt{font-family:'Baloo 2';font-weight:800;color:var(--teal-deep);font-size:1.1rem;margin-bottom:5px}
+  .example{font:700 1.12rem/1.55 ui-monospace,SFMono-Regular,Consolas,monospace;text-align:center;background:white;border-radius:12px;border:2px dashed var(--teal-deep);padding:9px;margin-top:9px}
+  .formula{text-align:center;font-family:'Baloo 2';font-weight:800;font-size:1.18rem;color:var(--teal-deep);margin:8px 0}
+  .row-btns{display:flex;gap:9px;justify-content:center;align-items:center;flex-wrap:wrap;margin-top:17px}
+  .win{text-align:center}.medal{font-size:4.5rem}.stars{font-size:2rem;letter-spacing:4px}.badges{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:10px 0}.badge{background:var(--cream);border:2px solid var(--ink);border-radius:13px;padding:7px 10px;font-size:.85rem;font-weight:600}
+  .back{display:inline-block;margin-top:18px;color:white;font-weight:700;text-decoration:none;text-shadow:0 2px 0 #0004}.back:hover{text-decoration:underline}
+  .conf{position:fixed;top:-15px;width:11px;height:17px;z-index:60;pointer-events:none;border-radius:2px}
+
+  @media(max-width:560px){
+    .wrap{width:min(100% - 16px,760px);padding-top:9px}header{padding:9px 10px;border-radius:18px}.brand{font-size:.86rem}.brand .logo{font-size:1.45rem}.chip{font-size:.78rem;padding:4px 6px}
+    .panel{padding:18px 13px;border-radius:22px}.features{grid-template-columns:1fr 1fr}.feature{font-size:.87rem}.trail .lab:last-child{display:none}
+    .feedback.show{align-items:flex-start;flex-wrap:wrap}.feedback .next{margin-left:auto}.help-card .mini-grid{grid-template-columns:1fr}
+  }
+  @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.01ms!important}}
+</style>
+</head>
+<body>
+<div class="scene" id="scene" aria-hidden="true"></div>
+<main class="wrap">
+  <header>
+    <div class="brand"><span class="logo">⚙️</span><span>Taller de<br>Multiplicaciones<small>por dos cifras</small></span></div>
+    <div class="hud" aria-label="Puntaje del juego">
+      <div class="chip"><span>🔩</span><b id="hScore">0</b></div>
+      <div class="chip"><span>🔥</span><b id="hStreak">0</b></div>
+      <div class="chip"><span>❤️</span><b id="hLives">3</b></div>
+    </div>
+  </header>
+  <div id="app"></div>
+  <p style="text-align:center"><a class="back" href="index.html">← Volver a los juegos</a></p>
+</main>
+
+<script>
+/* =====================================================
+   TALLER DE MULTIPLICACIONES — Matemática (4° grado)
+   Multiplicaciones de dos cifras por dos cifras.
+   Valida productos parciales y ofrece ayudas graduadas.
+   ===================================================== */
+const app=document.getElementById('app');
+const hud={score:document.getElementById('hScore'),streak:document.getElementById('hStreak'),lives:document.getElementById('hLives')};
+const rnd=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+const pick=a=>a[rnd(0,a.length-1)];
+const TOTAL=10;
+const state={score:0,streak:0,best:0,lives:3,q:0,correct:0,helpTotal:0,used:new Set()};
+let current=null;
+let run=null;
+
+/* ---------- escenario ---------- */
+(function(){
+  const scene=document.getElementById('scene');
+  const bits=['⚙️','🔩','🔧','✦'];
+  for(let i=0;i<10;i++){
+    const d=document.createElement('div');d.className='gear-f';d.textContent=pick(bits);
+    d.style.left=rnd(2,96)+'vw';d.style.fontSize=rnd(16,31)+'px';
+    d.style.animationDuration=rnd(10,19)+'s';d.style.animationDelay=(-rnd(0,16))+'s';scene.appendChild(d);
+  }
+  scene.insertAdjacentHTML('beforeend',`<svg class="floor" viewBox="0 0 1440 180" preserveAspectRatio="none">
+    <path d="M0 105 C220 65 390 130 620 95 C850 62 1060 132 1440 88 L1440 180 L0 180Z" fill="#096763" opacity=".55"/>
+    <path d="M0 138 C260 105 480 155 760 127 C1040 100 1210 154 1440 126 L1440 180 L0 180Z" fill="#07504d" opacity=".82"/>
+  </svg>`);
+})();
+
+function burst(n=26){
+  const cols=['#168b87','#f28b35','#ffd45c','#3d72ce','#e45a63','#55b978'];
+  for(let i=0;i<n;i++){
+    const c=document.createElement('div');c.className='conf';c.style.left=Math.random()*100+'vw';c.style.background=pick(cols);document.body.appendChild(c);
+    c.animate([{top:'-15px',opacity:1},{top:'104vh',opacity:.9,transform:`translateX(${(Math.random()-.5)*240}px) rotate(${Math.random()*720}deg)`}],
+      {duration:1100+Math.random()*800,easing:'cubic-bezier(.2,.6,.5,1)'}).onfinish=()=>c.remove();
+  }
+}
+function syncHud(){hud.score.textContent=state.score;hud.streak.textContent=state.streak;hud.lives.textContent=state.lives;}
+function parseNum(raw){
+  const s=String(raw??'').replace(/[.\s,]/g,'').trim();
+  return s!==''&&/^\d+$/.test(s)?parseInt(s,10):NaN;
+}
+
+/* =====================================================
+   GENERADOR
+   Todos los ejercicios son distintos dentro de una partida.
+   Cada uno conserva la descomposición b = decenas + unidades.
+   ===================================================== */
+const CONTEXTOS=[
+  {em:'📦',text:(a,b)=>`En el depósito hay <b>${b} cajas</b> con <b>${a} tornillos</b> cada una. ¿Cuántos tornillos hay en total?`},
+  {em:'🎟️',text:(a,b)=>`Una imprenta prepara <b>${b} planchas</b> de <b>${a} entradas</b> cada una. ¿Cuántas entradas imprime?`},
+  {em:'🧱',text:(a,b)=>`Para una obra arman <b>${b} filas</b> de <b>${a} ladrillos</b>. ¿Cuántos ladrillos necesitan?`},
+  {em:'🌱',text:(a,b)=>`En un vivero acomodan <b>${b} bandejas</b> con <b>${a} plantines</b> cada una. ¿Cuántos plantines son?`},
+  {em:'📚',text:(a,b)=>`La biblioteca recibió <b>${b} paquetes</b> de <b>${a} libros</b>. ¿Cuántos libros llegaron?`},
+];
+function genExercise(){
+  let a,b,key,guard=0;
+  do{
+    const stage=Math.min(2,Math.floor(state.q/3));
+    a=stage===0?rnd(12,49):stage===1?rnd(24,79):rnd(38,99);
+    const tens=stage===0?rnd(1,4):stage===1?rnd(2,7):rnd(3,9);
+    let units=rnd(stage===0?2:0,9);
+    if(stage>0 && units<2 && Math.random()<.7) units=rnd(2,9);
+    b=tens*10+units;key=a+'×'+b;guard++;
+  }while(state.used.has(key)&&guard<100);
+  state.used.add(key);
+  const u=b%10, t=Math.floor(b/10), p1=a*u, p2=a*t*10, total=a*b;
+  const context=Math.random()<.38?pick(CONTEXTOS):null;
+  return {
+    topic:'Multiplicación por dos cifras',tag:context?context.em+' Problema del taller':'⚙️ Cuenta del taller',
+    a,b,u,t,p1,p2,total,
+    prompt:context?'Primero armá la cuenta paso a paso.':'Resolvé la multiplicación usando los dos productos parciales.',
+    scenario:context?context.text(a,b):'',
+    explain:`${a} × ${b} = (${a} × ${u}) + (${a} × ${t*10}) = ${p1} + ${p2} = <b>${total}</b>.`
+  };
+}
+
+function showStart(){
+  app.innerHTML=`<section class="panel hero">
+    <div class="mascot">👩‍🔧</div>
+    <h1>Taller de Multiplicaciones</h1>
+    <p class="sub">Practicá multiplicaciones de <b>dos cifras por dos cifras</b>. Acá no importa solamente el resultado: vamos a revisar juntos cada paso.</p>
+    <div class="features">
+      <div class="feature"><span class="e">1️⃣</span>Unidades</div>
+      <div class="feature"><span class="e">🔟</span>Decenas</div>
+      <div class="feature"><span class="e">➕</span>Suma final</div>
+      <div class="feature"><span class="e">💡</span>Pistas cuando quieras</div>
+    </div>
+    <button class="play" onclick="startGame()">¡Abrir el taller! 🔧</button>
+    <div><button class="ghost" onclick="showLearn()">📖 Antes, quiero aprender el método</button></div>
+    <p class="small" style="margin-top:14px">Tenés 3 vidas ❤️ · el primer error activa una ayuda y te deja intentar otra vez.</p>
+  </section>`;
+}
+
+function showLearn(){
+  app.innerHTML=`<section class="panel learn">
+    <div class="tab">📖 Manual del taller</div>
+    <h1 style="font-size:2.1rem;text-align:center">Multiplicar por dos cifras</h1>
+    <p>La clave es desarmar el segundo número en <b>decenas y unidades</b>. Así una cuenta grande se convierte en dos cuentas conocidas.</p>
+
+    <h2>🧩 Ejemplo: 34 × 26</h2>
+    <div class="box teal">
+      <div class="bt">1️⃣ Multiplicamos por las unidades</div>
+      <p>El <b>6</b> ocupa el lugar de las unidades.</p>
+      <div class="formula">34 × 6 = 204</div>
+    </div>
+    <div class="box orange">
+      <div class="bt">🔟 Multiplicamos por las decenas</div>
+      <p>El <b>2</b> de 26 en realidad vale <b>20</b>. Por eso esta fila termina en cero.</p>
+      <div class="formula">34 × 20 = 680</div>
+    </div>
+    <div class="box yellow">
+      <div class="bt">➕ Sumamos los productos parciales</div>
+      <div class="formula">204 + 680 = 884</div>
+      <div class="example">&nbsp;&nbsp;34<br>× 26<br>────<br>&nbsp;204<br>+680<br>────<br>&nbsp;884</div>
+    </div>
+
+    <h2>💡 ¿Cómo funciona la ayuda?</h2>
+    <div class="box">
+      <p><b>Primera pista:</b> te recuerda qué cifra usar.</p>
+      <p><b>Segunda pista:</b> desarma la cuenta en partes más chicas.</p>
+      <p><b>Tercera pista:</b> muestra el producto parcial para que puedas continuar.</p>
+      <p style="margin-bottom:0">También tenés <b>dos intentos por paso</b>. El primer error no quita una vida: activa una orientación.</p>
+    </div>
+    <div class="row-btns">
+      <button class="play" onclick="startGame()">🔧 ¡Ahora sí, a practicar!</button>
+      <button class="ghost" onclick="showStart()">⬅ Volver al inicio</button>
+    </div>
+  </section>`;
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function startGame(){
+  Object.assign(state,{score:0,streak:0,best:0,lives:3,q:0,correct:0,helpTotal:0,used:new Set()});
+  syncHud();loadNext();window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function loadNext(){
+  if(state.q>=TOTAL||state.lives<=0){showWin();return;}
+  current=genExercise();state.q++;
+  run={step:1,attempts:[0,0,0,0],hadError:false,helpThis:0,helpLevel:0};
+  render(current);
+}
+
+function render(ex){
+  const pct=Math.round(((state.q-1)/TOTAL)*100);
+  app.innerHTML=`
+    <div class="trail"><span class="lab">🔧 Trabajo ${state.q}/${TOTAL}</span><div class="track"><div class="fill" style="width:${pct}%"></div><span class="walker" style="left:${pct}%">⚙️</span></div><span class="lab">${state.streak>1?'🔥 x'+state.streak:'Paso a paso'}</span></div>
+    <section class="panel">
+      <div class="tab">${ex.tag}</div><div class="qtag">Orden de trabajo</div>
+      <div class="prompt">${ex.prompt}</div>
+      ${ex.scenario?`<div class="scenario">${ex.scenario}</div>`:''}
+      <div class="operation" aria-label="${ex.a} por ${ex.b}"><div>${ex.a}</div><div class="second"><span class="times">×</span>${ex.b}</div><div class="mystery">????</div></div>
+
+      <div class="steps">
+        ${stepHTML(1,`Multiplicá por las unidades: ${ex.a} × ${ex.u}`,`La cifra de las unidades de ${ex.b} es ${ex.u}.`)}
+        ${stepHTML(2,`Multiplicá por las decenas: ${ex.a} × ${ex.t*10}`,`La cifra ${ex.t} vale ${ex.t*10}. Escribí el producto completo.`)}
+        ${stepHTML(3,`Sumá los productos parciales`,`${ex.p1} + ${ex.p2}`)}
+      </div>
+
+      <div class="help-zone">
+        <button class="help-btn" id="helpBtn" onclick="showHelp()">💡 Necesito ayuda</button>
+        <div class="help-card" id="helpCard" aria-live="polite"></div>
+      </div>
+      <div class="feedback" id="fb" aria-live="polite"></div>
+    </section>`;
+  activateStep(1);
+}
+
+function stepHTML(n,title,note){
+  return `<div class="step${n===1?' active':''}" id="step${n}">
+    <div class="step-head"><span class="step-num">${n}</span><div><div class="step-title">${title}</div><div class="step-note">${note}</div></div></div>
+    <div class="answer-row"><label class="small" for="in${n}">Respuesta:</label><input id="in${n}" type="text" inputmode="numeric" autocomplete="off" disabled aria-label="Respuesta del paso ${n}"><button class="check" id="check${n}" onclick="checkStep(${n})" disabled>Revisar ✓</button></div>
+    <div class="step-msg" id="msg${n}" aria-live="polite"></div>
+  </div>`;
+}
+
+function expected(step){return step===1?current.p1:step===2?current.p2:current.total;}
+function activateStep(step){
+  run.step=step;run.helpLevel=0;
+  const box=document.getElementById('step'+step),inp=document.getElementById('in'+step),btn=document.getElementById('check'+step);
+  box.classList.add('active');inp.disabled=false;btn.disabled=false;
+  const hc=document.getElementById('helpCard');hc.className='help-card';hc.innerHTML='';
+  const hb=document.getElementById('helpBtn');hb.disabled=false;hb.textContent='💡 Necesito ayuda';
+  inp.addEventListener('keydown',e=>{if(e.key==='Enter')checkStep(step);});inp.focus();
+}
+
+function checkStep(step){
+  if(step!==run.step)return;
+  const inp=document.getElementById('in'+step),msg=document.getElementById('msg'+step);
+  const val=parseNum(inp.value);
+  if(Number.isNaN(val)){msg.className='step-msg no';msg.textContent='Escribí una respuesta usando números.';inp.focus();return;}
+  if(val===expected(step)){
+    msg.className='step-msg ok';msg.textContent=pick(['¡Pieza correcta!','¡Ese paso está perfecto!','¡Muy bien calculado!']);
+    finishStep(step,false);return;
+  }
+  run.attempts[step]++;
+  if(run.attempts[step]===1){
+    msg.className='step-msg no';msg.textContent='Casi. Mirá la orientación y probá una vez más.';
+    if(run.helpLevel<1)run.helpLevel=1;
+    renderHelp(step,run.helpLevel,true);inp.select();
+  }else{
+    run.hadError=true;inp.value=expected(step).toLocaleString('es-AR');
+    msg.className='step-msg no';msg.textContent='Anotamos el valor correcto para que puedas continuar.';
+    finishStep(step,true);
+  }
+}
+
+function finishStep(step,revealed){
+  const inp=document.getElementById('in'+step),btn=document.getElementById('check'+step),box=document.getElementById('step'+step);
+  inp.disabled=true;btn.disabled=true;box.classList.remove('active');box.classList.add(revealed?'revealed':'done');
+  if(step<3)activateStep(step+1);else finishExercise();
+}
+
+function showHelp(){
+  if(run.helpLevel<3){run.helpLevel++;run.helpThis++;state.helpTotal++;}
+  renderHelp(run.step,run.helpLevel,false);
+  const btn=document.getElementById('helpBtn');
+  btn.textContent=run.helpLevel<3?'💡 Dame otra pista':'✅ Ayuda completa';btn.disabled=run.helpLevel>=3;
+}
+
+function renderHelp(step,level,automatic){
+  const card=document.getElementById('helpCard');card.className='help-card show';
+  let html='';
+  if(step===1){
+    if(level===1)html=`<strong>🔎 Mirá las unidades.</strong> En ${current.b}, la cifra de las unidades es <b>${current.u}</b>. La primera cuenta es ${current.a} × ${current.u}.`;
+    else if(level===2)html=`<strong>🧩 Separalo.</strong><div class="mini-grid"><div class="piece">${Math.floor(current.a/10)*10} × ${current.u}</div><div class="piece">${current.a%10} × ${current.u}</div></div><p class="small">Resolvé las dos partes y sumalas.</p>`;
+    else html=`<strong>✅ Producto de las unidades:</strong> ${current.a} × ${current.u} = <b>${current.p1}</b>. Copialo en la primera fila y seguí.`;
+  }else if(step===2){
+    if(level===1)html=`<strong>🔎 Ojo con el valor posicional.</strong> El ${current.t} de ${current.b} representa <b>${current.t*10}</b>, no ${current.t}.`;
+    else if(level===2)html=`<strong>🧩 Calculá y desplazá.</strong> Primero pensá ${current.a} × ${current.t}. Después multiplicá ese resultado por 10: agregá un cero al final.`;
+    else html=`<strong>✅ Producto de las decenas:</strong> ${current.a} × ${current.t*10} = <b>${current.p2}</b>. Esta fila termina en cero.`;
+  }else{
+    if(level===1)html=`<strong>🔎 Último paso.</strong> Ahora no volvés a multiplicar: sumá <b>${current.p1} + ${current.p2}</b>.`;
+    else if(level===2)html=`<strong>🧩 Alineá las cifras.</strong><div class="example">${String(current.p1).padStart(5,' ')}<br>+${String(current.p2).padStart(4,' ')}<br>─────</div><p class="small">Empezá a sumar desde la derecha.</p>`;
+    else html=`<strong>✅ Suma final:</strong> ${current.p1} + ${current.p2} = <b>${current.total}</b>.`;
+  }
+  if(automatic)html+=`<p class="small" style="margin-bottom:0">Esta orientación apareció por tu primer intento y no descuenta puntos de ayuda.</p>`;
+  card.innerHTML=html;
+}
+
+function finishExercise(){
+  const ok=!run.hadError;
+  let gained=0;
+  if(ok){
+    state.correct++;state.streak++;if(state.streak>state.best)state.best=state.streak;
+    gained=Math.max(8,15-run.helpThis*2)+(state.streak>=3?5:state.streak>=2?2:0);state.score+=gained;
+    burst(state.streak>=3?40:24);
+  }else{state.streak=0;state.lives--;}
+  syncHud();
+  const fb=document.getElementById('fb');fb.className='feedback show '+(ok?'ok':'no');
+  const last=state.q>=TOTAL||state.lives<=0;
+  fb.innerHTML=`<span class="face">${ok?'⚙️':'🔧'}</span><span class="txt"><b>${ok?pick(['¡Máquina funcionando!','¡Trabajo terminado!','¡Multiplicación perfecta!']):'Terminamos con ayuda. ¡La próxima va a salir mejor!'}</b>${ok&&run.helpThis?` Usaste ${run.helpThis} ${run.helpThis===1?'pista':'pistas'} y ganaste ${gained} puntos.`:''}<span class="ex">📘 ${current.explain}</span></span><button class="next" onclick="loadNext()">${last?'🏁 Resultado':'Siguiente →'}</button>`;
+  document.getElementById('helpBtn').disabled=true;
+  fb.scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+function showWin(){
+  const attempted=state.q||1,acc=Math.round(state.correct/attempted*100),won=state.lives>0;
+  const stars=acc>=90?3:acc>=60?2:1;
+  const badges=[];
+  if(state.correct>=7)badges.push('⚙️ Maestro de productos parciales');
+  if(state.best>=3)badges.push('🔥 Mecánico en racha');
+  if(state.helpTotal===0&&state.correct>0)badges.push('🧠 Cálculo sin pistas');
+  else if(state.helpTotal>0)badges.push('💡 Buen uso de las ayudas');
+  burst(60);
+  app.innerHTML=`<section class="panel win">
+    <div class="tab">🏁 Cierra el taller</div><div class="medal">${won?(stars===3?'🏆':'🥇'):'🧰'}</div>
+    <h1>${won?'¡Taller completado!':'¡Buen trabajo, mecánico!'}</h1>
+    <p class="sub">${won?'Resolviste las diez multiplicaciones paso a paso.':'Se terminaron las vidas, pero cada paso practicado cuenta.'}</p>
+    <div class="stars">${'⭐'.repeat(stars)}${'·'.repeat(3-stars)}</div>
+    <div class="hud" style="justify-content:center;margin:13px 0"><div class="chip">🔩 <b>${state.score}</b> pts</div><div class="chip">✅ <b>${state.correct}/${state.q}</b></div><div class="chip">🔥 <b>${state.best}</b></div></div>
+    <p class="small">Precisión: ${acc}% · ayudas pedidas: ${state.helpTotal}</p>
+    <div class="badges">${badges.map(b=>`<div class="badge">${b}</div>`).join('')}</div>
+    <div class="row-btns"><button class="play" onclick="startGame()">🔄 Nuevo turno</button><button class="ghost" onclick="showLearn()">📖 Repasar el método</button></div>
+  </section>`;
+}
+
+showStart();
+</script>
+</body>
+</html>
