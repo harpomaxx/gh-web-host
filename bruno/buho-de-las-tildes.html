@@ -1,0 +1,1040 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>El Búho de las Tildes · Acentuación</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Baloo+2:wght@600;700;800&family=Caveat:wght@600;700&display=swap');
+
+  :root{
+    --night:#2b2a6b;
+    --night2:#3d3a8f;
+    --owl:#6b4bb8;
+    --owl-deep:#4b2f8f;
+    --gold:#ffc94a;
+    --gold-deep:#f0a81c;
+    --cream:#fbf6ff;
+    --paper:#fffdf8;
+    --line:#3a2f6b;
+    --sand:#ece4fb;
+    /* colores del cuadro del manual (S E G A) */
+    --sobre:#7fb446;  --sobre-deep:#4f7d22;
+    --esdr:#3fa3bd;   --esdr-deep:#1f7189;
+    --grave:#ec7a4f;  --grave-deep:#b84c25;
+    --aguda:#e9b322;  --aguda-deep:#a87a05;
+    /* vocales juntas */
+    --dip:#3c9a55;  --dip-deep:#26703a;
+    --hia:#2f7fd0;  --hia-deep:#1d5a9e;
+    --tri:#7b5bc4;  --tri-deep:#55389a;
+    --ink:#262140;
+    --muted:#6f6886;
+    --ok:#3ca35a;
+    --ok-deep:#2b8044;
+    --no:#e25563;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'Fredoka',system-ui,sans-serif;color:var(--ink);min-height:100vh;overflow-x:hidden;
+    -webkit-tap-highlight-color:transparent;
+    background:
+      radial-gradient(circle at 84% 9%, rgba(255,201,74,.55), transparent 22%),
+      radial-gradient(circle at 10% 88%, rgba(107,75,184,.35), transparent 44%),
+      linear-gradient(170deg,#c9c3f2 0%,#9d93e0 45%,#6d63c4 100%);
+  }
+  /* escenario: tildes y estrellas cayendo */
+  .scene{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+  .bit-f{position:absolute;font-size:1.2rem;opacity:.45;animation:fall linear infinite;color:#fff;font-family:'Baloo 2';font-weight:800}
+  @keyframes fall{0%{transform:translateY(-12vh) rotate(0)}100%{transform:translateY(112vh) rotate(300deg)}}
+  .hill{position:absolute;bottom:0;width:100%}
+
+  .wrap{position:relative;z-index:2;max-width:760px;margin:0 auto;padding:18px 16px 64px}
+
+  /* HEADER */
+  header{display:flex;align-items:center;gap:12px;background:var(--paper);
+    border:3px solid var(--line);border-radius:22px;padding:11px 16px;
+    box-shadow:0 7px 0 rgba(43,42,107,.3);margin-bottom:16px}
+  .brand{font-family:'Baloo 2';font-weight:800;font-size:1.22rem;color:var(--owl-deep);display:flex;align-items:center;gap:8px}
+  .brand .bug{font-size:1.55rem;filter:drop-shadow(0 2px 0 rgba(0,0,0,.12))}
+  .hud{margin-left:auto;display:flex;gap:9px;flex-wrap:wrap}
+  .chip{background:var(--cream);border:2.5px solid var(--line);border-radius:13px;padding:5px 11px;
+    font-weight:600;display:flex;align-items:center;gap:5px;font-size:.92rem;box-shadow:0 3px 0 rgba(43,42,107,.25)}
+  .chip b{font-family:'Baloo 2';font-size:1.05rem}
+  @media(max-width:460px){.brand .nm{display:none}}
+
+  /* PANEL */
+  .panel{background:var(--paper);border:3.5px solid var(--line);border-radius:26px;
+    box-shadow:0 11px 0 rgba(43,42,107,.28);padding:24px 20px;position:relative;
+    animation:grow .42s cubic-bezier(.2,1.4,.4,1) both}
+  @keyframes grow{from{opacity:0;transform:scale(.93) translateY(14px)}to{opacity:1;transform:scale(1) translateY(0)}}
+
+  .tab{position:absolute;top:-16px;left:24px;background:var(--owl);color:#fff;font-family:'Baloo 2';font-weight:700;
+    padding:6px 16px;border-radius:14px;border:3px solid var(--line);box-shadow:0 4px 0 rgba(43,42,107,.3);
+    font-size:.92rem;display:flex;align-items:center;gap:7px}
+
+  /* START */
+  .hero{text-align:center}
+  .hero .explorer{font-size:4.4rem;animation:bob 2.6s infinite ease-in-out;filter:drop-shadow(0 4px 0 rgba(0,0,0,.1))}
+  @keyframes bob{0%,100%{transform:translateY(0) rotate(-3deg)}50%{transform:translateY(-11px) rotate(3deg)}}
+  .hero h1{font-family:'Baloo 2';font-weight:800;font-size:2.05rem;color:var(--owl-deep);margin:6px 0 2px;line-height:1.05}
+  .hero .sub{color:var(--muted);font-size:1.1rem;margin-bottom:16px}
+  .biomes{display:grid;grid-template-columns:1fr 1fr 1fr;gap:9px;max-width:520px;margin:0 auto 18px}
+  @media(max-width:520px){.biomes{grid-template-columns:1fr 1fr}}
+  .biome{background:var(--cream);border:2.5px solid var(--line);border-radius:14px;padding:9px 8px;font-weight:500;
+    font-size:.85rem;display:flex;flex-direction:column;align-items:center;gap:3px;box-shadow:0 3px 0 rgba(43,42,107,.22);text-align:center}
+  .biome .e{font-size:1.5rem}
+
+  .play{font-family:'Baloo 2';font-weight:800;font-size:1.45rem;color:#fff;
+    background:linear-gradient(180deg,#8a6ad6,var(--owl));border:3.5px solid var(--line);border-radius:20px;
+    padding:15px 40px;cursor:pointer;box-shadow:0 8px 0 rgba(43,42,107,.32);transition:transform .1s}
+  .play:active{transform:translateY(5px);box-shadow:0 3px 0 rgba(43,42,107,.32)}
+  .ghost{font-family:'Fredoka';font-weight:600;font-size:1rem;color:var(--owl-deep);background:var(--cream);
+    border:2.5px solid var(--owl);border-radius:16px;padding:12px 18px;cursor:pointer;margin-top:10px;
+    box-shadow:0 4px 0 rgba(43,42,107,.22)}
+  .ghost:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(43,42,107,.22)}
+  .modes{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+
+  /* progress trail */
+  .trail{display:flex;align-items:center;gap:10px;margin-bottom:14px;background:var(--paper);
+    border:3px solid var(--line);border-radius:16px;padding:9px 13px;box-shadow:0 5px 0 rgba(43,42,107,.25)}
+  .trail .lab{font-weight:600;font-size:.88rem;color:var(--muted);white-space:nowrap}
+  .trail .track{flex:1;height:15px;background:var(--sand);border-radius:9px;overflow:hidden;border:2px solid var(--line);position:relative}
+  .trail .fill{height:100%;width:0;background:linear-gradient(90deg,var(--gold),var(--owl));transition:width .5s cubic-bezier(.3,1.4,.5,1)}
+  .trail .walker{position:absolute;top:50%;transform:translate(-50%,-50%);font-size:.95rem;transition:left .5s cubic-bezier(.3,1.4,.5,1)}
+
+  /* QUESTION */
+  .qtag{font-family:'Caveat';font-weight:700;font-size:1.25rem;color:var(--owl);margin-bottom:4px}
+  .prompt{font-size:1.3rem;line-height:1.45;font-weight:500;margin-bottom:6px}
+  .prompt b{color:var(--owl-deep)}
+  .scenario{background:var(--cream);border-left:5px solid var(--gold);border-radius:0 12px 12px 0;
+    padding:11px 14px;font-size:1.12rem;margin:10px 0 4px;color:#40385e}
+  .hintline{font-size:.96rem;color:var(--muted);margin:8px 0 16px;display:flex;align-items:flex-start;gap:6px}
+
+  /* palabra grande */
+  .bigword{font-family:'Baloo 2';font-weight:800;font-size:2.3rem;text-align:center;color:var(--owl-deep);
+    letter-spacing:1px;line-height:1.1;padding:4px 0}
+
+  /* sílabas como fichas (igual que el cuadro del manual) */
+  .syls{display:flex;flex-wrap:wrap;justify-content:center;gap:7px;margin:8px 0}
+  .syl{font-family:'Baloo 2';font-weight:700;font-size:1.35rem;background:#fff;border:2.5px solid #b9b0d6;
+    border-radius:9px;padding:2px 11px;color:var(--ink);min-width:2.2em;text-align:center}
+  .syl.t{background:var(--owl);border-color:var(--owl-deep);color:#fff;font-size:1.6rem;transform:translateY(-3px);
+    box-shadow:0 4px 0 rgba(43,42,107,.3)}
+  .syls.small .syl{font-size:1rem;padding:1px 7px}
+  .syls.small .syl.t{font-size:1.15rem}
+  /* separación con el grupo de vocales marcado */
+  .vg{background:#fff2c6;border-radius:4px;color:var(--owl-deep);font-weight:800}
+  .tn{color:var(--owl);font-weight:800;text-decoration:underline;text-decoration-thickness:3px;text-underline-offset:3px}
+
+  .choices{display:grid;gap:11px}
+  .choices.two{grid-template-columns:1fr 1fr}
+  @media(max-width:460px){.choices.two{grid-template-columns:1fr}}
+  .choice{font-family:'Fredoka';font-size:1.12rem;font-weight:500;background:#fff;border:3px solid var(--line);
+    border-radius:16px;padding:14px 15px;cursor:pointer;text-align:left;box-shadow:0 5px 0 rgba(43,42,107,.22);
+    transition:transform .08s,background .15s;display:flex;align-items:center;gap:11px;color:var(--ink)}
+  .choice .em{font-size:1.35rem;flex-shrink:0}
+  .choice.wordy{font-family:'Baloo 2';font-weight:700;font-size:1.3rem}
+  .choice:hover:not(:disabled){background:var(--cream);transform:translateY(-2px)}
+  .choice:active:not(:disabled){transform:translateY(2px);box-shadow:0 2px 0 rgba(43,42,107,.22)}
+  .choice:disabled{cursor:default}
+  .choice.correct{background:linear-gradient(180deg,var(--ok),var(--ok-deep));color:#fff;border-color:var(--ok-deep);animation:cheer .5s}
+  .choice.wrong{background:linear-gradient(180deg,var(--no),#bf3c49);color:#fff;animation:shake .4s}
+  .choice.dim{opacity:.4}
+  @keyframes cheer{0%,100%{transform:scale(1)}40%{transform:scale(1.05)}}
+  @keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-7px)}75%{transform:translateX(7px)}}
+
+  .tf{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .tf .choice{justify-content:center;font-family:'Baloo 2';font-weight:800;font-size:1.35rem;text-align:center}
+
+  /* elegir una sílaba */
+  .sylpick{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin:6px 0 4px}
+  .sylpick .choice{font-family:'Baloo 2';font-weight:800;font-size:1.5rem;padding:10px 20px;justify-content:center;min-width:76px}
+
+  /* feedback */
+  .fb{margin-top:18px;border-radius:16px;padding:14px 16px;font-weight:600;font-size:1.04rem;display:none;
+    align-items:flex-start;gap:12px;border:3px solid var(--line);animation:grow .35s both;flex-wrap:wrap}
+  .fb.show{display:flex}
+  .fb.ok{background:#e4f7e7;border-color:var(--ok-deep)}
+  .fb.no{background:#fde6e8;border-color:#bf3c49}
+  .fb .face{font-size:1.9rem;line-height:1}
+  .fb .txt{flex:1;min-width:180px}
+  .fb .txt .ex{display:block;margin-top:5px;font-weight:500;font-size:.98rem;color:#4e4668;line-height:1.45}
+  .fb .next{font-family:'Baloo 2';font-weight:800;font-size:1.02rem;color:#fff;background:var(--owl);
+    border:3px solid var(--line);border-radius:14px;padding:10px 18px;cursor:pointer;box-shadow:0 4px 0 rgba(43,42,107,.3);
+    transition:transform .08s;white-space:nowrap;margin-left:auto}
+  .fb .next:active{transform:translateY(3px);box-shadow:0 1px 0 rgba(43,42,107,.3)}
+
+  .badge-pop{position:fixed;top:26%;left:50%;transform:translateX(-50%);z-index:60;pointer-events:none;
+    background:var(--gold);border:4px solid var(--line);border-radius:20px;padding:14px 22px;font-family:'Baloo 2';
+    font-weight:800;font-size:1.3rem;color:var(--line);box-shadow:0 8px 0 rgba(43,42,107,.4);opacity:0;text-align:center}
+
+  /* WIN */
+  .win{text-align:center}
+  .win .medal{font-size:5rem;animation:bob 2.2s infinite ease-in-out}
+  .starsrow{font-size:2.3rem;letter-spacing:6px;margin:10px 0}
+  .row-btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center;margin-top:14px}
+  .badges-won{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:14px 0}
+  .bw{background:var(--cream);border:2.5px solid var(--line);border-radius:12px;padding:7px 11px;font-size:.85rem;font-weight:600;
+    display:flex;align-items:center;gap:5px;box-shadow:0 3px 0 rgba(43,42,107,.22)}
+  .bw .e{font-size:1.2rem}
+
+  .conf{position:fixed;top:-12px;width:11px;height:17px;z-index:55;pointer-events:none;border-radius:2px}
+  .small{color:var(--muted);font-size:.9rem}
+  .back{display:inline-block;margin-top:18px;color:var(--line);font-weight:600;text-decoration:none;
+    background:rgba(255,253,248,.9);border:2.5px solid var(--line);border-radius:14px;padding:8px 14px;
+    box-shadow:0 4px 0 rgba(43,42,107,.22)}
+  .center{text-align:center}
+
+  /* ===== SALA DE ESTUDIO ===== */
+  .learn{text-align:left}
+  .learn h2{font-family:'Baloo 2';font-size:1.5rem;color:var(--owl-deep);margin:22px 0 8px;line-height:1.1}
+  .learn p{font-size:1.08rem;line-height:1.5;margin-bottom:10px}
+  .learn ul{margin:0 0 12px 20px}
+  .learn li{font-size:1.05rem;line-height:1.5;margin-bottom:5px}
+  .box{border:3px solid var(--line);border-radius:18px;padding:13px 15px;margin:12px 0;background:var(--cream);
+    box-shadow:0 5px 0 rgba(43,42,107,.2)}
+  .box .bt{font-family:'Baloo 2';font-weight:800;font-size:1.15rem;margin-bottom:6px;display:flex;align-items:center;gap:7px}
+  .box p{margin-bottom:6px}
+  .box.sobre{border-color:var(--sobre-deep);background:#eef7e2} .box.sobre .bt{color:var(--sobre-deep)}
+  .box.esdr{border-color:var(--esdr-deep);background:#e2f3f7}   .box.esdr .bt{color:var(--esdr-deep)}
+  .box.grave{border-color:var(--grave-deep);background:#fdeae1} .box.grave .bt{color:var(--grave-deep)}
+  .box.aguda{border-color:var(--aguda-deep);background:#fdf5d8} .box.aguda .bt{color:var(--aguda-deep)}
+  .box.dip{border-color:var(--dip-deep);background:#e5f5e9}     .box.dip .bt{color:var(--dip-deep)}
+  .box.hia{border-color:var(--hia-deep);background:#e3effc}     .box.hia .bt{color:var(--hia-deep)}
+  .box.tri{border-color:var(--tri-deep);background:#efe8fb}     .box.tri .bt{color:var(--tri-deep)}
+  .letter{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:9px;
+    color:#fff;font-family:'Baloo 2';font-weight:800;font-size:1.2rem;border:2.5px solid rgba(0,0,0,.2)}
+  .rule{display:inline-block;background:#fff;border:2.5px dashed currentColor;border-radius:12px;padding:5px 10px;
+    font-weight:600;margin:4px 0 6px}
+  .ex-list{display:flex;flex-wrap:wrap;column-gap:18px;row-gap:2px;margin-top:6px}
+  .ex-list .syls{justify-content:flex-start;margin:3px 0}
+  .vow{display:flex;gap:10px;flex-wrap:wrap;margin:8px 0}
+  .vow span{background:#fff;border:2.5px solid var(--line);border-radius:12px;padding:6px 12px;font-weight:600}
+  .keyword{background:#fff2c6;border-radius:6px;padding:1px 5px;font-weight:600}
+  .ejs{margin:6px 0 0 4px;font-size:1.05rem;line-height:1.6}
+  .ejs b{font-family:'Baloo 2';font-size:1.12rem}
+</style>
+</head>
+<body>
+<div class="scene" id="scene"></div>
+<div class="wrap">
+  <header>
+    <div class="brand"><span class="bug">🦉</span> <span class="nm">El Búho de las Tildes</span></div>
+    <div class="hud">
+      <div class="chip"><span>🪶</span><b id="hScore">0</b></div>
+      <div class="chip"><span>🔥</span><b id="hStreak">0</b></div>
+      <div class="chip"><span>❤️</span><b id="hLives">3</b></div>
+    </div>
+  </header>
+  <div id="app"></div>
+  <div class="center"><a class="back" href="index.html">⬅ Volver a los juegos</a></div>
+</div>
+<div class="badge-pop" id="badgePop"></div>
+
+<script>
+/* =====================================================
+   EL BÚHO DE LAS TILDES — Lengua (4° grado)
+   ¿Cuándo usamos tilde? Agudas, graves, esdrújulas y
+   sobresdrújulas. Diptongo, hiato y triptongo.
+   Contenido del manual (Mendoza · Santillana)
+   ===================================================== */
+const app=document.getElementById('app');
+const hud={score:document.getElementById('hScore'),streak:document.getElementById('hStreak'),lives:document.getElementById('hLives')};
+const badgePop=document.getElementById('badgePop');
+
+const rnd=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+const pick=a=>a[rnd(0,a.length-1)];
+const shuffle=a=>{const r=[...a];for(let i=r.length-1;i>0;i--){const j=rnd(0,i);[r[i],r[j]]=[r[j],r[i]];}return r;};
+const sample=(a,n)=>shuffle(a).slice(0,n);
+/* todos los elementos de a que no estén en excl */
+const others=(a,excl)=>a.filter(x=>!(Array.isArray(excl)?excl:[excl]).includes(x));
+/* deja una sola opción por etiqueta (gana la primera) */
+const uniq=opts=>opts.filter((o,i,arr)=>arr.findIndex(x=>x.label===o.label)===i);
+
+const TOTAL=12;
+const state={score:0,streak:0,best:0,lives:3,q:0,correct:0,topics:new Set(),mode:'todo'};
+
+/* ---------- escenario ---------- */
+(function(){const s=document.getElementById('scene');
+  const bits=['´','´','⭐','✨','á','é','í','ó','ú'];
+  for(let i=0;i<11;i++){const d=document.createElement('div');d.className='bit-f';
+    d.textContent=pick(bits);d.style.left=Math.random()*100+'vw';
+    d.style.animationDuration=(9+Math.random()*10)+'s';d.style.animationDelay=Math.random()*9+'s';
+    d.style.fontSize=(1+Math.random()*1.2)+'rem';s.appendChild(d);}
+  s.insertAdjacentHTML('beforeend',`
+   <svg class="hill" viewBox="0 0 1440 200" preserveAspectRatio="none" style="height:130px">
+     <path d="M0,130 Q240,70 480,120 T960,110 T1440,100 L1440,200 L0,200 Z" fill="#4a3f9a" opacity=".45"/>
+     <path d="M0,165 Q300,120 620,160 T1440,150 L1440,200 L0,200 Z" fill="#2b2a6b" opacity=".7"/>
+   </svg>`);
+})();
+
+function burst(n=26){const cols=['#ffc94a','#6b4bb8','#7fb446','#3fa3bd','#ec7a4f','#e9b322'];
+  for(let i=0;i<n;i++){const c=document.createElement('div');c.className='conf';
+    c.style.left=Math.random()*100+'vw';c.style.background=pick(cols);document.body.appendChild(c);
+    c.animate([{top:'-12px',opacity:1},{top:'104vh',opacity:.9,transform:`translateX(${(Math.random()-.5)*240}px) rotate(${Math.random()*720}deg)`}],
+      {duration:1100+Math.random()*800,easing:'cubic-bezier(.2,.6,.5,1)'}).onfinish=()=>c.remove();}
+}
+function popBadge(txt){
+  badgePop.innerHTML=txt;
+  badgePop.animate([{opacity:0,transform:'translateX(-50%) scale(.6)'},
+    {opacity:1,transform:'translateX(-50%) scale(1.08)',offset:.3},
+    {opacity:1,transform:'translateX(-50%) scale(1)',offset:.7},
+    {opacity:0,transform:'translateX(-50%) scale(1) translateY(-26px)'}],{duration:1400,easing:'ease-out'});
+}
+function syncHud(){hud.score.textContent=state.score;hud.streak.textContent=state.streak;hud.lives.textContent=state.lives;}
+
+/* =====================================================
+   BANCO DE PALABRAS
+   Cada palabra va separada en sílabas con guiones.
+   El grupo indica dónde está la sílaba tónica:
+   1 = última (aguda), 2 = penúltima (grave),
+   3 = antepenúltima (esdrújula), 4 = anteantepenúltima (sobresdrújula).
+   Solo palabras que siguen la regla general (sin hiatos con tilde).
+   ===================================================== */
+const BANCO_TXT={
+  1:'me-lón ca-fé com-pás can-ción ra-tón ja-bón so-fá bal-cón sa-lón ca-mión a-vión co-ra-zón pa-pá ma-má be-bé ma-ní co-li-brí jar-dín de-trás tam-bién des-pués in-glés fran-cés me-nú si-llón '+
+    're-loj a-zul pa-pel ver-dad ciu-dad co-mer fe-liz a-rroz pa-red ca-lor a-mor mo-tor can-tar na-riz a-ni-mal es-pa-ñol tam-bor ca-ra-col',
+  2:'lá-piz có-mic tré-bol ár-bol dé-bil fá-cil di-fí-cil a-zú-car cés-ped cár-cel mó-vil ú-til ál-bum dó-lar fút-bol án-gel ca-rác-ter már-mol '+
+    'me-sa ca-sa li-bro pe-rro ga-to lu-nes mar-tes jo-ven e-xa-men or-den cuen-to ma-no ven-ta-na es-cue-la ca-mi-sa pe-lo-ta mon-ta-ña can-tan pla-ya flo-res',
+  3:'te-lé-fo-no brú-ju-la mé-di-co pá-ja-ro mú-si-ca sá-ba-do plá-ta-no lá-gri-ma pí-ca-ro es-drú-ju-la mur-cié-la-go cá-ma-ra nú-me-ro rá-pi-do '+
+    'sí-la-ba pá-gi-na ma-te-má-ti-ca lám-pa-ra pú-bli-co re-lám-pa-go ár-bo-les jó-ve-nes e-xá-me-nes',
+  4:'re-pí-te-me-lo ú-til-men-te dí-gan-se-lo fá-cil-men-te cuén-ta-me-lo dí-ga-me-lo llé-va-te-lo cóm-pra-me-lo có-me-te-lo prés-ta-me-lo ex-plí-ca-se-lo re-gá-la-me-lo',
+};
+const CLASE={1:'aguda',2:'grave',3:'esdrújula',4:'sobresdrújula'};
+const CLASE_PL={1:'agudas',2:'graves',3:'esdrújulas',4:'sobresdrújulas'};
+const LUGAR={1:'última',2:'penúltima',3:'antepenúltima',4:'anteantepenúltima'};
+const EMC={1:'🟨',2:'🟧',3:'🟦',4:'🟩'};   /* colores del cuadro del manual */
+
+const ACENTO={a:'á',e:'é',i:'í',o:'ó',u:'ú'};
+const sinTilde=s=>s.normalize('NFD').replace(/́/g,'').normalize('NFC');
+const tieneTilde=s=>/[áéíóú]/.test(s);
+const vocalAbierta=c=>'aeoáéó'.includes(c);
+
+/* le pone tilde a una sílaba sin tilde: va en la vocal abierta;
+   si hay dos cerradas, en la segunda (cuí, guí) */
+function ponerTilde(sil){
+  const ch=[...sil];
+  let idx=ch.findIndex(c=>'aeo'.includes(c));
+  if(idx<0){ for(let i=ch.length-1;i>=0;i--) if('iu'.includes(ch[i])){idx=i;break;} }
+  if(idx<0) return sil;
+  ch[idx]=ACENTO[ch[idx]];
+  return ch.join('');
+}
+
+const BANCO=[];
+for(const p of [1,2,3,4]){
+  BANCO_TXT[p].split(/\s+/).filter(Boolean).forEach(w=>{
+    const s=w.split('-');
+    const palabra=s.join('');
+    BANCO.push({w:palabra, s, p, t:s.length-p, tilde:tieneTilde(palabra),
+      fin:sinTilde(palabra.slice(-1))});
+  });
+}
+/* regla del manual */
+function llevaTilde(p,fin){
+  if(p>=3) return true;
+  const nsv='aeiouns'.includes(fin);
+  return p===1 ? nsv : !nsv;
+}
+function finTexto(fin){
+  if('aeiou'.includes(fin)) return `vocal (<b>${fin}</b>)`;
+  if(fin==='n'||fin==='s') return `<b>${fin}</b>`;
+  return `consonante <b>${fin}</b>`;
+}
+/* por qué lleva (o no) tilde */
+function porQue(x){
+  if(x.p===4) return `<b>${x.w}</b> es <b>sobresdrújula</b>, y las sobresdrújulas <b>siempre</b> llevan tilde.`;
+  if(x.p===3) return `<b>${x.w}</b> es <b>esdrújula</b>, y las esdrújulas <b>siempre</b> llevan tilde.`;
+  const ft=finTexto(x.fin);
+  if(x.p===1) return x.tilde
+    ? `<b>${x.w}</b> es <b>aguda</b> y termina en ${ft}: las agudas llevan tilde cuando terminan en n, s o vocal.`
+    : `<b>${x.w}</b> es <b>aguda</b> pero termina en ${ft}: no lleva tilde (las agudas solo la llevan si terminan en n, s o vocal).`;
+  return x.tilde
+    ? `<b>${x.w}</b> es <b>grave</b> y termina en ${ft}: las graves llevan tilde cuando terminan en consonante, menos n y s.`
+    : `<b>${x.w}</b> es <b>grave</b> y termina en ${ft}: no lleva tilde (las graves la llevan solo si terminan en consonante que no sea n ni s).`;
+}
+/* fichas de sílabas; tonic=-1 para no marcar */
+function fichas(s,tonic=-1,small=false){
+  return `<div class="syls${small?' small':''}">${s.map((x,i)=>`<span class="syl${i===tonic?' t':''}">${x}</span>`).join('')}</div>`;
+}
+/* separación en línea con la tónica subrayada */
+function sepHTML(x){return x.s.map((y,i)=>i===x.t?`<span class="tn">${y}</span>`:y).join('-');}
+const deClase=p=>BANCO.filter(x=>x.p===p);
+
+/* =====================================================
+   VOCALES JUNTAS: diptongo, hiato, triptongo
+   El tipo se deduce del grupo de vocales:
+   3 vocales = triptongo · dos abiertas o una cerrada con
+   tilde = hiato · el resto = diptongo.
+   ===================================================== */
+const VOC_TXT=
+  /* diptongos */
+  'ai-re ciu-dad cui-da-do fui puer-ta bai-le cie-lo nue-ve rei-na pei-ne a-gua hue-vo pie-dra tie-rra jau-la au-to rui-do viu-da cuen-to sie-te sue-lo vie-jo cau-sa '+
+  /* hiatos */
+  'po-e-ta te-a-tro rí-o pa-ís ma-íz le-ón ca-no-a pe-le-a ma-re-o co-rre-o o-cé-a-no dí-a tí-a frí-o po-li-cí-a ba-úl re-ír o-í-do ca-er le-er '+
+  /* triptongos */
+  'miau buey Pa-ra-guay es-tu-diáis U-ru-guay a-ve-ri-guáis';
+const ES_VOCAL=(w,i)=>{const c=w[i].toLowerCase();
+  if('aeiouáéíóú'.includes(c)) return true;
+  return c==='y' && i===w.length-1 && i>0 && 'aeiouáéíóú'.includes(w[i-1].toLowerCase());};
+const TIPO_TXT={dip:'diptongo',hia:'hiato',tri:'triptongo'};
+const TIPO_EM={dip:'🤝',hia:'✂️',tri:'⭐'};
+const KIND_TXT={
+  AC:'una vocal abierta + una vocal cerrada átona',
+  CA:'una vocal cerrada átona + una vocal abierta',
+  CC:'dos vocales cerradas',
+  AA:'dos vocales abiertas juntas',
+  CtA:'una vocal cerrada tónica + una vocal abierta',
+  ACt:'una vocal abierta + una vocal cerrada tónica',
+  TRI:'vocal cerrada átona + vocal abierta + vocal cerrada átona',
+};
+const VOCALES=[];
+VOC_TXT.split(/\s+/).forEach(w=>{
+  const s=w.split('-'), palabra=s.join('');
+  let ini=-1,len=0;
+  for(let i=0;i<palabra.length;i++){
+    if(ES_VOCAL(palabra,i)){let j=i;while(j<palabra.length&&ES_VOCAL(palabra,j))j++;
+      if(j-i>=2){ini=i;len=j-i;break;} i=j;}
+  }
+  const g=palabra.slice(ini,ini+len);
+  const lg=g.toLowerCase();
+  let tipo,kind;
+  if(len===3){tipo='tri';kind='TRI';}
+  else if(vocalAbierta(lg[0])&&vocalAbierta(lg[1])){tipo='hia';kind='AA';}
+  else if('íú'.includes(lg[0])){tipo='hia';kind='CtA';}
+  else if('íú'.includes(lg[1])){tipo='hia';kind='ACt';}
+  else{tipo='dip';kind=vocalAbierta(lg[0])?'AC':vocalAbierta(lg[1])?'CA':'CC';}
+  VOCALES.push({w:palabra,s,g,ini,tipo,kind});
+});
+const deTipo=t=>VOCALES.filter(x=>x.tipo===t);
+/* posiciones de corte (índices de letra donde empieza una sílaba) */
+function cortes(s){const r=[];let k=0;for(let i=0;i<s.length-1;i++){k+=s[i].length;r.push(k);}return r;}
+function desdeCortes(w,cs){const c=[...new Set(cs)].filter(x=>x>0&&x<w.length).sort((a,b)=>a-b);
+  const r=[];let prev=0;c.forEach(x=>{r.push(w.slice(prev,x));prev=x;});r.push(w.slice(prev));return r.join(' - ');}
+/* separación con el grupo de vocales resaltado */
+function sepVoc(x){
+  let k=0;
+  return x.s.map(y=>{const a=k,b=k+y.length;k=b;
+    return [...y].map((c,i)=>{const pos=a+i;return pos>=x.ini&&pos<x.ini+x.g.length?`<span class="vg">${c}</span>`:c;}).join('');
+  }).join('-');
+}
+function porQueVoc(x){
+  if(x.tipo==='tri') return `En <b>${x.w}</b> (${sepVoc(x)}) se juntan tres vocales, <b>${x.g}</b>, en una sola sílaba: ${KIND_TXT.TRI}. Es un <b>triptongo</b>.`+
+    (x.g.endsWith('y')?' Ojo: la <b>y</b> del final suena como <b>i</b>.':'');
+  if(x.tipo==='hia') return `En <b>${x.w}</b> (${sepVoc(x)}) hay ${KIND_TXT[x.kind]}: se separan en sílabas diferentes. Es un <b>hiato</b>.`;
+  return `En <b>${x.w}</b> (${sepVoc(x)}) hay ${KIND_TXT[x.kind]}: se pronuncian juntas en una sola sílaba. Es un <b>diptongo</b>.`;
+}
+
+/* Emoji según lo que ES la opción, nunca según si es la correcta */
+const EM={pal:'🔤',sil:'🧩',regla:'📏',num:'🔢',def:'📖'};
+
+/* =====================================================
+   GENERADORES
+   ===================================================== */
+
+/* ---------- TEMA 1 · Sílaba tónica ---------- */
+function genTonica(){
+  const modo=pick(['cual','cual','lugar','queEs']);
+  if(modo==='cual'){
+    const x=pick(BANCO);
+    const otras=others(x.s.map((_,i)=>i),x.t);
+    const idxs=[x.t,...sample(otras,Math.min(3,otras.length))].sort((a,b)=>a-b);
+    return {topic:'Sílaba tónica',tag:'🔊 Sílaba tónica',type:'syl',
+      prompt:'¿Cuál es la <b>sílaba tónica</b> de esta palabra?',
+      scenario:`<div class="bigword">${x.w}</div>`,
+      hint:'Decila en voz alta, despacito: la tónica es la que suena <b>más fuerte</b>.',
+      choices:uniq(idxs.map(i=>({label:x.s[i],ok:i===x.t}))),
+      explain:`Se dice ${sepHTML(x)}: la sílaba que suena más fuerte es <b>${x.s[x.t]}</b>.`};
+  }
+  if(modo==='lugar'){
+    const x=pick(BANCO);
+    return {topic:'Sílaba tónica',tag:'🔊 Sílaba tónica',
+      prompt:`En <b>${x.w}</b>, la sílaba tónica es <b>${x.s[x.t]}</b>. ¿En qué lugar está, contando desde el final?`,
+      scenario:fichas(x.s,x.t),
+      hint:'Contá de atrás para adelante: última, penúltima, antepenúltima, anteantepenúltima.',
+      choices:[1,2,3,4].map(p=>({label:LUGAR[p],ok:p===x.p,em:EM.sil})),
+      explain:`Contando desde el final, <b>${x.s[x.t]}</b> es la <b>${LUGAR[x.p]}</b> sílaba. Por eso ${x.w} es <b>${CLASE[x.p]}</b>.`};
+  }
+  return {topic:'Sílaba tónica',tag:'🔊 Sílaba tónica',
+    prompt:'¿Qué es la <b>sílaba tónica</b>?',
+    hint:'Pensá en cómo suena la palabra cuando la decís.',
+    choices:shuffle([
+      {label:'La sílaba que se pronuncia con más fuerza',ok:true,em:EM.def},
+      {label:'Siempre la primera sílaba de la palabra',ok:false,em:EM.def},
+      {label:'La sílaba que tiene más letras',ok:false,em:EM.def},
+      {label:'Siempre la última sílaba de la palabra',ok:false,em:EM.def},
+    ]),
+    explain:'La sílaba tónica es la que <b>suena más fuerte</b>. Puede estar en la última, la penúltima, la antepenúltima o la anteantepenúltima sílaba, y a veces lleva tilde.'};
+}
+
+/* ---------- TEMA 2 · Clasificar (S E G A) ---------- */
+function genClasificar(){
+  const modo=pick(['clase','clase','buscar','tf']);
+  if(modo==='clase'){
+    const x=pick(BANCO);
+    const verFichas=Math.random()<.5;
+    return {topic:'Clasificar',tag:'🗂️ Agudas, graves y esdrújulas',
+      prompt:`¿Qué clase de palabra es <b>${x.w}</b>?`,
+      scenario:verFichas?fichas(x.s,x.t):`<div class="bigword">${x.w}</div>`,
+      hint:verFichas?'La sílaba violeta es la tónica. ¿En qué lugar está, desde el final?':'Buscá la sílaba tónica y contá desde el final.',
+      choices:[1,2,3,4].map(p=>({label:CLASE[p],ok:p===x.p,em:EMC[p]})),
+      explain:`${sepHTML(x)}: la tónica está en la <b>${LUGAR[x.p]}</b> sílaba, así que es <b>${CLASE[x.p]}</b>.`};
+  }
+  if(modo==='buscar'){
+    const p=rnd(1,4);
+    const buena=pick(deClase(p));
+    const malas=others([1,2,3,4],p).map(q=>pick(deClase(q)));
+    return {topic:'Clasificar',tag:'🗂️ Agudas, graves y esdrújulas',
+      prompt:`¿Cuál de estas palabras es <b>${CLASE[p]}</b>?`,
+      hint:`Las ${CLASE_PL[p]} tienen la sílaba tónica en la <b>${LUGAR[p]}</b> sílaba.`,
+      choices:shuffle([buena,...malas].map(x=>({label:x.w,ok:x===buena,em:EM.pal}))),
+      explain:`<b>${buena.w}</b> (${sepHTML(buena)}) tiene la tónica en la ${LUGAR[p]} sílaba. `+
+        malas.map(m=>`${m.w} es ${CLASE[m.p]}`).join(', ')+'.'};
+  }
+  const x=pick(BANCO);
+  const dice=Math.random()<.5;
+  const p=dice?x.p:pick(others([1,2,3,4],x.p));
+  return {topic:'Clasificar',tag:'🗂️ Agudas, graves y esdrújulas',type:'tf',
+    prompt:`¿Es cierto que <b>${x.w}</b> es una palabra <b>${CLASE[p]}</b>?`,
+    hint:`Las ${CLASE_PL[p]} tienen la tónica en la ${LUGAR[p]} sílaba.`,
+    choices:[{label:'✅ Verdadero',ok:dice},{label:'❌ Falso',ok:!dice}],
+    explain:dice
+      ? `Sí: ${sepHTML(x)} tiene la tónica en la ${LUGAR[x.p]} sílaba.`
+      : `No: ${sepHTML(x)} tiene la tónica en la <b>${LUGAR[x.p]}</b> sílaba, así que es <b>${CLASE[x.p]}</b>.`};
+}
+
+/* ---------- TEMA 3 · ¿Lleva tilde? ---------- */
+function genTilde(){
+  const modo=pick(['lleva','escribir','escribir','porque']);
+  /* mitad con tilde y mitad sin, para que no se adivine */
+  const conT=Math.random()<.5;
+  const x=pick(BANCO.filter(y=>y.tilde===conT));
+  const base=x.s.map(sinTilde);
+  if(modo==='lleva'){
+    return {topic:'La tilde',tag:'✍️ ¿Lleva tilde?',type:'tf',
+      prompt:`Así suena la palabra (la sílaba violeta es la tónica). ¿Lleva <b>tilde</b>?`,
+      scenario:fichas(base,x.t),
+      hint:'Primero fijate si es aguda, grave o esdrújula. Después mirá en qué letra termina.',
+      choices:[{label:'✍️ Sí, lleva',ok:x.tilde},{label:'🚫 No lleva',ok:!x.tilde}],
+      explain:`Se escribe <b>${x.w}</b>. ${porQue(x)}`};
+  }
+  if(modo==='escribir'){
+    const plano=base.join('');
+    const opciones=[{label:x.w,ok:true}];
+    opciones.push({label:plano,ok:false});
+    opciones.push({label:base.map((y,i)=>i===x.t?ponerTilde(y):y).join(''),ok:false});
+    sample(others(base.map((_,i)=>i),x.t),2).forEach(j=>
+      opciones.push({label:base.map((y,i)=>i===j?ponerTilde(y):y).join(''),ok:false}));
+    const ops=uniq(opciones).slice(0,4).map(o=>({...o,em:EM.pal}));
+    return {topic:'La tilde',tag:'✍️ ¿Lleva tilde?',
+      prompt:'¿Cuál está <b>bien escrita</b>?',
+      scenario:fichas(base,x.t),
+      hint:'La sílaba violeta es la tónica. Aplicá la regla: ¿aguda, grave o esdrújula? ¿En qué termina?',
+      choices:shuffle(ops),
+      explain:`Se escribe <b>${x.w}</b>. ${porQue(x)}`};
+  }
+  /* por qué lleva tilde */
+  const y=pick(BANCO.filter(z=>z.tilde));
+  const razon={1:'Es aguda y termina en n, s o vocal',2:'Es grave y termina en consonante (que no es n ni s)',
+    3:'Es esdrújula: siempre llevan tilde',4:'Es sobresdrújula: siempre llevan tilde'};
+  const extra=[{label:'Es una palabra muy larga',ok:false,em:EM.regla}];
+  return {topic:'La tilde',tag:'✍️ ¿Lleva tilde?',
+    prompt:`¿Por qué <b>${y.w}</b> lleva tilde?`,
+    scenario:fichas(y.s,y.t),
+    hint:'Mirá dónde está la tónica y en qué letra termina la palabra.',
+    choices:shuffle([...[1,2,3,4].map(p=>({label:razon[p],ok:p===y.p,em:EM.regla})),...extra]).slice(0,5),
+    explain:porQue(y)};
+}
+
+/* un ejemplo del banco con esa clase y esa terminación */
+function ejemploFin(p,fin,lleva){
+  const e=BANCO.filter(z=>z.p===p&&z.fin===fin);
+  const w=e.length?pick(e):pick(BANCO.filter(z=>z.p===p&&z.tilde===lleva));
+  return ` Ejemplo: <b>${w.w}</b>.`;
+}
+
+/* ---------- TEMA 4 · Las reglas ---------- */
+function genReglas(){
+  const modo=pick(['siempre','agudas','graves','lugar','tf','regla']);
+  const T='📏 Las reglas';
+  if(modo==='siempre') return {topic:'Reglas',tag:T,
+    prompt:'¿Qué palabras llevan tilde <b>siempre</b>?',
+    hint:'Mirá el cuadro: hay dos columnas que dicen "Siempre llevan tilde".',
+    choices:shuffle([
+      {label:'Las esdrújulas y las sobresdrújulas',ok:true,em:EM.regla},
+      {label:'Las agudas y las graves',ok:false,em:EM.regla},
+      {label:'Solo las agudas',ok:false,em:EM.regla},
+      {label:'Ninguna: siempre depende de cómo terminan',ok:false,em:EM.regla},
+    ]),
+    explain:'Las <b>esdrújulas</b> (te-lé-fo-no) y las <b>sobresdrújulas</b> (re-pí-te-me-lo) <b>siempre</b> llevan tilde.'};
+  if(modo==='agudas'||modo==='graves'){
+    const ag=modo==='agudas';
+    return {topic:'Reglas',tag:T,
+      prompt:`Las palabras <b>${ag?'agudas':'graves'}</b> llevan tilde cuando terminan en…`,
+      hint:ag?'Pensá en me-lón, ca-fé, com-pás.':'Pensá en lá-piz, có-mic, tré-bol.',
+      choices:shuffle([
+        {label:'n, s o vocal',ok:ag,em:EM.regla},
+        {label:'consonante, menos n y s',ok:!ag,em:EM.regla},
+        {label:'cualquier letra',ok:false,em:EM.regla},
+        {label:'nunca llevan tilde',ok:false,em:EM.regla},
+      ]),
+      explain:ag
+        ? 'Las <b>agudas</b> llevan tilde cuando terminan en <b>n, s o vocal</b>: me<b>lón</b>, ca<b>fé</b>, com<b>pás</b>.'
+        : 'Las <b>graves</b> llevan tilde cuando terminan en <b>consonante, menos n y s</b>: <b>lá</b>piz, <b>có</b>mic, <b>tré</b>bol.'};
+  }
+  if(modo==='lugar'){
+    const p=rnd(1,4);
+    return {topic:'Reglas',tag:T,
+      prompt:`En las palabras <b>${CLASE_PL[p]}</b>, ¿dónde está la sílaba tónica?`,
+      hint:'Contamos las sílabas desde el final de la palabra.',
+      choices:[1,2,3,4].map(q=>({label:'En la '+LUGAR[q]+' sílaba',ok:q===p,em:EMC[q]})),
+      explain:`En las ${CLASE_PL[p]} la tónica está en la <b>${LUGAR[p]}</b> sílaba. Ejemplo: ${sepHTML(pick(deClase(p)))}.`};
+  }
+  if(modo==='tf'){
+    const af=pick([
+      ['Todas las palabras agudas llevan tilde.',false,'Solo las agudas que terminan en n, s o vocal. Por ejemplo, re-<b>loj</b> o pa-<b>pel</b> no llevan.'],
+      ['Las esdrújulas siempre llevan tilde.',true,'Sí: las esdrújulas y las sobresdrújulas siempre llevan tilde.'],
+      ['Las sobresdrújulas a veces no llevan tilde.',false,'Las sobresdrújulas <b>siempre</b> llevan tilde: re-<b>pí</b>-te-me-lo.'],
+      ['En las graves, la sílaba tónica es la penúltima.',true,'Sí: <b>lá</b>-piz, <b>me</b>-sa, <b>có</b>-mic.'],
+      ['En las agudas, la sílaba tónica es la última.',true,'Sí: me-<b>lón</b>, ca-<b>fé</b>, re-<b>loj</b>.'],
+      ['Las graves que terminan en vocal llevan tilde.',false,'No: las graves llevan tilde si terminan en consonante (menos n y s). <b>Me</b>-sa no lleva.'],
+      ['En las esdrújulas, la tónica es la antepenúltima sílaba.',true,'Sí: <b>brú</b>-ju-la, <b>mé</b>-di-co.'],
+      ['Las agudas que terminan en n llevan tilde.',true,'Sí: can-<b>ción</b>, ra-<b>tón</b>, me-<b>lón</b>.'],
+      ['Las graves que terminan en s llevan tilde.',false,'No: las graves que terminan en s no llevan tilde, como <b>lu</b>-nes o <b>flo</b>-res.'],
+    ]);
+    return {topic:'Reglas',tag:T,type:'tf',
+      prompt:`¿Verdadero o falso? <b>${af[0]}</b>`,
+      hint:'Acordate del cuadro "¿Cuándo usamos tilde?".',
+      choices:[{label:'✅ Verdadero',ok:af[1]},{label:'❌ Falso',ok:!af[1]}],
+      explain:af[2]};
+  }
+  /* regla aplicada a una terminación */
+  const p=rnd(1,2);
+  const fin=pick(['n','s','a','e','o','l','r','z','d']);
+  const lleva=llevaTilde(p,fin);
+  return {topic:'Reglas',tag:T,type:'tf',
+    prompt:`Una palabra <b>${CLASE[p]}</b> que termina en <b>${fin}</b>, ¿lleva tilde?`,
+    hint:p===1?'Agudas: tilde si terminan en n, s o vocal.':'Graves: tilde si terminan en consonante, menos n y s.',
+    choices:[{label:'✍️ Sí, lleva',ok:lleva},{label:'🚫 No lleva',ok:!lleva}],
+    explain:(p===1
+      ? `Las agudas llevan tilde cuando terminan en n, s o vocal. Esta termina en ${finTexto(fin)}, así que <b>${lleva?'sí':'no'}</b> lleva.`
+      : `Las graves llevan tilde cuando terminan en consonante, menos n y s. Esta termina en ${finTexto(fin)}, así que <b>${lleva?'sí':'no'}</b> lleva.`)
+      +ejemploFin(p,fin,lleva)};
+}
+
+/* ---------- TEMA 5 · Diptongo o hiato ---------- */
+function genDipHiato(){
+  const modo=pick(['tipo','tipo','separar','porque','buscar','tf','def']);
+  const T='🤝 Diptongo y hiato';
+  if(modo==='tipo'){
+    const x=pick(Math.random()<.85?[...deTipo('dip'),...deTipo('hia')]:deTipo('tri'));
+    return {topic:'Diptongo y hiato',tag:T,
+      prompt:`En <b>${x.w}</b>, las vocales <b>${x.g}</b> forman…`,
+      scenario:`<div class="bigword">${x.w}</div>`,
+      hint:'Separala en sílabas: ¿las vocales quedan juntas o se separan?',
+      choices:['dip','hia','tri'].map(t=>({label:capit(TIPO_TXT[t]),ok:t===x.tipo,em:TIPO_EM[t]})),
+      explain:porQueVoc(x)};
+  }
+  if(modo==='separar'){
+    const x=pick(VOCALES);
+    const w=x.w, cs=cortes(x.s);
+    const correcto=desdeCortes(w,cs);
+    const vars=new Set();
+    /* el error típico: cortar el diptongo o pegar el hiato */
+    if(x.tipo==='hia') vars.add(desdeCortes(w,others(cs,x.ini+1)));
+    else vars.add(desdeCortes(w,[...cs,x.ini+1]));
+    if(x.tipo==='tri') vars.add(desdeCortes(w,[...cs,x.ini+2]));
+    let guard=0;
+    while(vars.size<4&&guard++<60){
+      const r=Math.random();
+      let n=[...cs];
+      if(r<.4&&n.length) n=others(n,pick(n));
+      else if(r<.7) n.push(rnd(1,w.length-1));
+      else if(n.length){const c=pick(n);n=[...others(n,c),c+pick([-1,1])];}
+      const v=desdeCortes(w,n);
+      if(v!==correcto) vars.add(v);
+    }
+    vars.delete(correcto);
+    const ops=[{label:correcto,ok:true},...[...vars].slice(0,3).map(v=>({label:v,ok:false}))].map(o=>({...o,em:EM.sil}));
+    return {topic:'Diptongo y hiato',tag:T,
+      prompt:`¿Cómo se separa en sílabas <b>${w}</b>?`,
+      hint:'Diptongo y triptongo: las vocales quedan juntas. Hiato: se separan.',
+      choices:shuffle(ops),
+      explain:porQueVoc(x)};
+  }
+  if(modo==='porque'){
+    const x=pick([...deTipo('dip'),...deTipo('hia')]);
+    const kinds=x.tipo==='dip'?['AC','CA','CC']:['AA','CtA','ACt'];
+    const intruso=x.tipo==='dip'?pick(['AA','CtA']):pick(['CC','AC']);
+    return {topic:'Diptongo y hiato',tag:T,
+      prompt:`En <b>${x.w}</b> (${sepVoc(x)}) hay un <b>${TIPO_TXT[x.tipo]}</b>. ¿Cómo se forma?`,
+      hint:'Vocales abiertas: a, e, o. Vocales cerradas: i, u. Átona = sin fuerza · tónica = con fuerza.',
+      choices:shuffle([...kinds,intruso].map(k=>({label:capit(KIND_TXT[k]),ok:k===x.kind,em:EM.regla}))),
+      explain:`Las vocales son <b>${x.g}</b>: ${KIND_TXT[x.kind]}. `+(x.tipo==='dip'?'Se pronuncian juntas en una sola sílaba.':'Se pronuncian en sílabas distintas.')};
+  }
+  if(modo==='buscar'){
+    const t=pick(['dip','hia']);
+    const otro=t==='dip'?'hia':'dip';
+    const buena=pick(deTipo(t));
+    const malas=sample(deTipo(otro),3);
+    return {topic:'Diptongo y hiato',tag:T,
+      prompt:`¿Cuál de estas palabras tiene <b>${TIPO_TXT[t]}</b>?`,
+      hint:t==='dip'?'Buscá las vocales que se quedan juntas en la misma sílaba.':'Buscá las vocales que se separan en sílabas diferentes.',
+      choices:shuffle([buena,...malas].map(x=>({label:x.w,ok:x===buena,em:EM.pal}))),
+      explain:porQueVoc(buena)+' Las otras tienen '+TIPO_TXT[otro]+': '+malas.map(m=>sepVoc(m)).join(', ')+'.'};
+  }
+  if(modo==='tf'){
+    const x=pick([...deTipo('dip'),...deTipo('hia')]);
+    const juntas=Math.random()<.5;
+    const ok=juntas===(x.tipo==='dip');
+    return {topic:'Diptongo y hiato',tag:T,type:'tf',
+      prompt:`En <b>${x.w}</b>, las vocales <b>${x.g}</b> se pronuncian ${juntas?'<b>juntas, en una sola sílaba</b>':'<b>separadas, en sílabas distintas</b>'}.`,
+      hint:'Decila despacito separando en sílabas.',
+      choices:[{label:'✅ Verdadero',ok},{label:'❌ Falso',ok:!ok}],
+      explain:porQueVoc(x)};
+  }
+  const t=pick(['dip','hia']);
+  const DEF={dip:'La unión de dos vocales en una misma sílaba',hia:'Dos vocales juntas que se separan en sílabas diferentes',
+    tri:'La unión de tres vocales en una misma sílaba'};
+  return {topic:'Diptongo y hiato',tag:T,
+    prompt:`¿Qué es un <b>${TIPO_TXT[t]}</b>?`,
+    hint:'Acordate: en uno las vocales se quedan juntas y en el otro se separan.',
+    choices:shuffle([...['dip','hia','tri'].map(k=>({label:DEF[k],ok:k===t,em:EM.def})),
+      {label:'Una sílaba que lleva tilde',ok:false,em:EM.def}]),
+    explain:t==='dip'
+      ? '<b>Diptongo</b>: la unión de dos vocales en una misma sílaba, como <b>ai</b>-re o <b>ciu</b>-dad.'
+      : '<b>Hiato</b>: dos vocales juntas que se separan en sílabas diferentes, como po-e-ta o rí-o.'};
+}
+
+/* ---------- TEMA 6 · Vocales y triptongo ---------- */
+function genVocales(){
+  const modo=pick(['abcer','abcer','grupo','contar','tribuscar','tridef']);
+  const T='⭐ Vocales y triptongo';
+  if(modo==='abcer'){
+    const v=pick(['a','e','i','o','u']);
+    const ab='aeo'.includes(v);
+    return {topic:'Vocales y triptongo',tag:T,type:'tf',
+      prompt:`La vocal <b style="font-size:1.6rem">${v}</b>, ¿es abierta o cerrada?`,
+      hint:'Abrí la boca al decirla: con algunas se abre mucho y con otras casi nada.',
+      choices:[{label:'🅰️ Abierta',ok:ab},{label:'ℹ️ Cerrada',ok:!ab}],
+      explain:'Vocales <b>abiertas</b>: a, e, o. Vocales <b>cerradas</b>: i, u. '+`La <b>${v}</b> es ${ab?'abierta':'cerrada'}.`};
+  }
+  if(modo==='grupo'){
+    const ab=Math.random()<.5;
+    return {topic:'Vocales y triptongo',tag:T,
+      prompt:`¿Cuáles son las vocales <b>${ab?'abiertas':'cerradas'}</b>?`,
+      hint:'Son cinco vocales en total: tres de un grupo y dos del otro.',
+      choices:shuffle([
+        {label:'a, e, o',ok:ab,em:EM.pal},
+        {label:'i, u',ok:!ab,em:EM.pal},
+        {label:'a, i, u',ok:false,em:EM.pal},
+        {label:'e, o, u',ok:false,em:EM.pal},
+      ]),
+      explain:'Vocales <b>abiertas</b>: a, e, o. Vocales <b>cerradas</b>: i, u.'};
+  }
+  if(modo==='contar'){
+    const x=pick(VOCALES);
+    const n=x.g.length;
+    return {topic:'Vocales y triptongo',tag:T,
+      prompt:`¿Cuántas vocales aparecen <b>juntas</b> en <b>${x.w}</b>?`,
+      hint:x.g.endsWith('y')?'Ojo: la <b>y</b> al final de la palabra suena como <b>i</b>.':'Buscá las vocales que están una al lado de la otra.',
+      choices:['1','2','3','4'].map(k=>({label:k,ok:+k===n,em:EM.num})),
+      explain:`Aparecen <b>${n}</b> vocales juntas: <b>${x.g}</b>. `+porQueVoc(x)};
+  }
+  if(modo==='tribuscar'){
+    const buena=pick(deTipo('tri'));
+    const malas=[...sample(deTipo('dip'),2),pick(deTipo('hia'))];
+    return {topic:'Vocales y triptongo',tag:T,
+      prompt:'¿Cuál de estas palabras tiene <b>triptongo</b>?',
+      hint:'Buscá tres vocales juntas en la misma sílaba.',
+      choices:shuffle(uniq([buena,...malas].map(x=>({label:x.w,ok:x===buena,em:EM.pal})))),
+      explain:porQueVoc(buena)};
+  }
+  const preg=Math.random()<.5;
+  return preg
+    ? {topic:'Vocales y triptongo',tag:T,
+      prompt:'¿Qué es un <b>triptongo</b>?',
+      hint:'"Tri" quiere decir tres, como en triciclo.',
+      choices:shuffle([
+        {label:'La unión de tres vocales en una misma sílaba',ok:true,em:EM.def},
+        {label:'La unión de dos vocales en una misma sílaba',ok:false,em:EM.def},
+        {label:'Tres sílabas que llevan tilde',ok:false,em:EM.def},
+        {label:'Tres vocales que se separan en sílabas distintas',ok:false,em:EM.def},
+      ]),
+      explain:'El <b>triptongo</b> es la unión de tres vocales en una misma sílaba: miau, buey, Pa-ra-<b>guay</b>, es-tu-<b>diáis</b>.'}
+    : {topic:'Vocales y triptongo',tag:T,
+      prompt:'¿Cómo se forma un <b>triptongo</b>?',
+      hint:'La del medio es la que suena más abierta.',
+      choices:shuffle([
+        {label:'Cerrada átona + abierta + cerrada átona',ok:true,em:EM.regla},
+        {label:'Abierta + abierta + abierta',ok:false,em:EM.regla},
+        {label:'Abierta + cerrada + abierta',ok:false,em:EM.regla},
+        {label:'Cerrada tónica + abierta + abierta',ok:false,em:EM.regla},
+      ]),
+      explain:'Se forma con <b>vocal cerrada átona + vocal abierta + vocal cerrada átona</b>: m<b>iau</b> (i-a-u), b<b>uey</b> (u-e-y).'};
+}
+function capit(s){return s.charAt(0).toUpperCase()+s.slice(1);}
+
+/* pools ponderados según lo que elija jugar */
+const POOLS={
+  todo:[genTonica,genTonica,genClasificar,genClasificar,genClasificar,genTilde,genTilde,genTilde,genReglas,genReglas,
+        genDipHiato,genDipHiato,genDipHiato,genVocales,genVocales],
+  tildes:[genTonica,genTonica,genClasificar,genClasificar,genClasificar,genTilde,genTilde,genTilde,genReglas,genReglas],
+  vocales:[genDipHiato,genDipHiato,genDipHiato,genVocales,genVocales],
+};
+let lastPrompt='';
+function nextExercise(){
+  const pool=POOLS[state.mode]||POOLS.todo;
+  let ex, tries=0;
+  do{ ex=pick(pool)(); tries++; }while(ex.prompt===lastPrompt && tries<6);
+  lastPrompt=ex.prompt;
+  return ex;
+}
+
+/* =====================================================
+   FLUJO / UI
+   ===================================================== */
+const OKMSG=['¡Ojo de búho!','¡Uhuuu, perfecto!','¡Qué buen oído!','¡Muy bien!','¡Sos un genio de las tildes!','¡Exacto!'];
+const NOMSG=['¡Casi! Mirá la explicación.','Uy, esa se escapó volando.','Tranqui, así se aprende.','¡Nada grave! La próxima sale.'];
+
+function showStart(){
+  app.innerHTML=`
+   <div class="panel hero">
+     <div class="explorer">🦉</div>
+     <h1>El Búho de las Tildes</h1>
+     <p class="sub">Encontrá la sílaba tónica, poné las tildes en su lugar y descubrí diptongos, hiatos y triptongos.</p>
+     <div class="biomes">
+       <div class="biome"><span class="e">🔊</span> Sílaba tónica</div>
+       <div class="biome"><span class="e">🗂️</span> Agudas, graves, esdrújulas</div>
+       <div class="biome"><span class="e">✍️</span> ¿Lleva tilde?</div>
+       <div class="biome"><span class="e">📏</span> Las reglas</div>
+       <div class="biome"><span class="e">🤝</span> Diptongo y hiato</div>
+       <div class="biome"><span class="e">⭐</span> Triptongo</div>
+     </div>
+     <button class="play" onclick="startGame('todo')">¡A volar! 🦉</button>
+     <div class="modes">
+       <button class="ghost" onclick="startGame('tildes')">✍️ Solo tildes</button>
+       <button class="ghost" onclick="startGame('vocales')">🤝 Solo diptongo e hiato</button>
+     </div>
+     <div><button class="ghost" onclick="showLearn()">📖 Antes, quiero repasar el tema</button></div>
+     <p class="small" style="margin-top:14px">${TOTAL} preguntas · tenés 3 vidas ❤️ · sumá racha 🔥 para más plumas 🪶</p>
+   </div>`;
+}
+
+/* ---------- SALA DE ESTUDIO ---------- */
+function ej(w,t){const s=w.split('-');return fichas(s,t,true);}
+function showLearn(){
+  app.innerHTML=`
+   <div class="panel learn">
+     <div class="tab">📖 El nido de estudio</div>
+     <h2 style="margin-top:8px">🔊 La sílaba tónica</h2>
+     <p>Cuando decimos una palabra, hay una sílaba que <b>suena más fuerte</b> que las otras: es la
+        <span class="keyword">sílaba tónica</span>. Probá decir <b>me-LÓN</b>, <b>ME-sa</b>, <b>te-LÉ-fo-no</b>.</p>
+     <p>Según <b>dónde</b> esté la sílaba tónica, contando <b>desde el final</b>, las palabras se llaman
+        agudas, graves, esdrújulas o sobresdrújulas. Algunas además llevan <b>tilde</b> ( ´ ).</p>
+
+     <h2>✍️ ¿Cuándo usamos tilde?</h2>
+     <div class="box aguda">
+       <div class="bt"><span class="letter" style="background:var(--aguda)">A</span> Aguda</div>
+       <p>La sílaba tónica está en la <b>última</b> sílaba.</p>
+       <span class="rule" style="color:var(--aguda-deep)">Llevan tilde cuando terminan en n, s o vocal.</span>
+       <div class="ex-list">${ej('me-lón',1)}${ej('ca-fé',1)}${ej('com-pás',1)}</div>
+       <p class="small" style="margin:4px 0 0">Sin tilde: re-<b>loj</b>, a-<b>zul</b>, pa-<b>pel</b> (terminan en otra consonante).</p>
+     </div>
+     <div class="box grave">
+       <div class="bt"><span class="letter" style="background:var(--grave)">G</span> Grave</div>
+       <p>La sílaba tónica está en la <b>penúltima</b> sílaba.</p>
+       <span class="rule" style="color:var(--grave-deep)">Llevan tilde cuando terminan en consonante, menos n y s.</span>
+       <div class="ex-list">${ej('lá-piz',0)}${ej('có-mic',0)}${ej('tré-bol',0)}</div>
+       <p class="small" style="margin:4px 0 0">Sin tilde: <b>me</b>-sa, <b>lu</b>-nes, <b>jo</b>-ven (terminan en vocal, s o n).</p>
+     </div>
+     <div class="box esdr">
+       <div class="bt"><span class="letter" style="background:var(--esdr)">E</span> Esdrújula</div>
+       <p>La sílaba tónica está en la <b>antepenúltima</b> sílaba.</p>
+       <span class="rule" style="color:var(--esdr-deep)">Siempre llevan tilde.</span>
+       <div class="ex-list">${ej('te-lé-fo-no',1)}${ej('brú-ju-la',0)}${ej('mé-di-co',0)}</div>
+     </div>
+     <div class="box sobre">
+       <div class="bt"><span class="letter" style="background:var(--sobre)">S</span> Sobresdrújula</div>
+       <p>La sílaba tónica está en la <b>anteantepenúltima</b> sílaba.</p>
+       <span class="rule" style="color:var(--sobre-deep)">Siempre llevan tilde.</span>
+       <div class="ex-list">${ej('re-pí-te-me-lo',1)}${ej('ú-til-men-te',0)}${ej('dí-gan-se-lo',0)}</div>
+     </div>
+
+     <h2>🦉 Truco del búho</h2>
+     <ul>
+       <li>1️⃣ Separá la palabra en sílabas y decila en voz alta.</li>
+       <li>2️⃣ Encontrá la que suena más fuerte: la <b>tónica</b>.</li>
+       <li>3️⃣ Contá desde el final: ¿última, penúltima, antepenúltima…?</li>
+       <li>4️⃣ Mirá la última letra y aplicá la regla.</li>
+     </ul>
+
+     <h2>🔤 Vocales abiertas y cerradas</h2>
+     <div class="vow">
+       <span>🅰️ Abiertas: <b>a, e, o</b></span>
+       <span>ℹ️ Cerradas: <b>i, u</b></span>
+     </div>
+
+     <div class="box dip">
+       <div class="bt">🤝 1. Diptongo</div>
+       <p>Es la unión de <b>dos vocales en una misma sílaba</b>. Se pronuncian juntas.</p>
+       <p style="margin-bottom:2px">Se forma cuando hay:</p>
+       <ul style="margin-bottom:6px">
+         <li>una vocal abierta + una vocal cerrada átona</li>
+         <li>una vocal cerrada átona + una vocal abierta</li>
+         <li>dos vocales cerradas</li>
+       </ul>
+       <div class="ejs"><b>aire</b> (ai-re) · <b>ciudad</b> (ciu-dad) · <b>cuidado</b> (cui-da-do) · <b>fui</b> (fui)</div>
+     </div>
+     <div class="box hia">
+       <div class="bt">✂️ 2. Hiato</div>
+       <p>Ocurre cuando <b>dos vocales juntas se separan</b> en sílabas diferentes.</p>
+       <p style="margin-bottom:2px">Se forma cuando hay:</p>
+       <ul style="margin-bottom:6px">
+         <li>dos vocales abiertas juntas</li>
+         <li>una vocal cerrada tónica + una vocal abierta</li>
+         <li>una vocal abierta + una vocal cerrada tónica</li>
+       </ul>
+       <div class="ejs"><b>poeta</b> (po-e-ta) · <b>teatro</b> (te-a-tro) · <b>río</b> (rí-o) · <b>país</b> (pa-ís)</div>
+     </div>
+     <div class="box tri">
+       <div class="bt">⭐ 3. Triptongo</div>
+       <p>Es la unión de <b>tres vocales en una misma sílaba</b>.</p>
+       <p style="margin-bottom:2px">Se forma con: vocal cerrada átona + vocal abierta + vocal cerrada átona.</p>
+       <div class="ejs"><b>miau</b> (miau) · <b>buey</b> (buey) · <b>Paraguay</b> (Pa-ra-guay) · <b>estudiáis</b> (es-tu-diáis)</div>
+       <p class="small" style="margin:6px 0 0">Ojo: la <b>y</b> al final de buey o Paraguay suena como <b>i</b>.</p>
+     </div>
+     <p class="small">Átona = que no suena fuerte · tónica = que suena fuerte.</p>
+
+     <div class="row-btns">
+       <button class="play" onclick="startGame('todo')">🦉 ¡Ahora sí, a jugar!</button>
+       <button class="ghost" onclick="showStart()">⬅ Volver al inicio</button>
+     </div>
+   </div>`;
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function startGame(mode){
+  state.mode=mode||state.mode||'todo';
+  state.score=0;state.streak=0;state.best=0;state.lives=3;state.q=0;state.correct=0;state.topics=new Set();
+  syncHud();loadNext();
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+let current=null;
+function loadNext(){
+  if(state.q>=TOTAL || state.lives<=0){ showWin(); return; }
+  current=nextExercise();
+  state.q++;
+  render(current);
+}
+
+function render(ex){
+  const pct=Math.round(((state.q-1)/TOTAL)*100);
+  const scenario = ex.scenario?`<div class="scenario">${ex.scenario}</div>`:'';
+  let choicesHTML;
+  if(ex.type==='tf'){
+    choicesHTML=`<div class="tf" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice" onclick="answer(${i})">${c.label}</button>`).join('')}</div>`;
+  }else if(ex.type==='syl'){
+    choicesHTML=`<div class="sylpick" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice" onclick="answer(${i})">${c.label}</button>`).join('')}</div>`;
+  }else{
+    choicesHTML=`<div class="choices" id="choices">${ex.choices.map((c,i)=>
+      `<button class="choice${c.em===EM.pal||c.em===EM.sil?' wordy':''}" onclick="answer(${i})">${c.em?`<span class="em">${c.em}</span>`:''}<span>${c.label}</span></button>`).join('')}</div>`;
+  }
+  app.innerHTML=`
+   <div class="trail">
+     <span class="lab">🪶 ${state.q}/${TOTAL}</span>
+     <div class="track"><div class="fill" style="width:${pct}%"></div><span class="walker" style="left:${pct}%">🦉</span></div>
+     <span class="lab">${state.streak>1?'🔥 x'+state.streak:''}</span>
+   </div>
+   <div class="panel">
+     <div class="tab">${ex.tag}</div>
+     <div class="qtag" style="margin-top:8px">El búho pregunta…</div>
+     <div class="prompt">${ex.prompt}</div>
+     ${scenario}
+     <p class="hintline">💡 <span>${ex.hint||''}</span></p>
+     ${choicesHTML}
+     <div class="fb" id="fb"></div>
+   </div>`;
+}
+
+function reward(ok){
+  if(ok){
+    state.streak++;state.correct++;
+    if(state.streak>state.best)state.best=state.streak;
+    const bonus=state.streak>=3?10:state.streak>=2?5:0;
+    state.score+=10+bonus;
+    burst(state.streak>=3?40:24);
+    if(state.streak===3) popBadge('🔥 ¡Racha de 3!<br>+10 bonus');
+    else if(state.streak>=5) popBadge('🌟 ¡Imparable! x'+state.streak);
+  }else{
+    state.streak=0;state.lives--;
+  }
+  syncHud();
+}
+
+function answer(i){
+  const ex=current;
+  const ok=ex.choices[i].ok;
+  document.querySelectorAll('#choices .choice').forEach((b,bi)=>{
+    b.disabled=true;
+    if(ex.choices[bi].ok) b.classList.add('correct');
+    else if(bi===i) b.classList.add('wrong');
+    else b.classList.add('dim');
+  });
+  if(ok) state.topics.add(ex.topic);
+  reward(ok);
+  const fb=document.getElementById('fb');
+  fb.className='fb show '+(ok?'ok':'no');
+  const face=ok?pick(['🦉','😄','🤩','⭐','🪶']):pick(['🙈','😅','🤔','🪹']);
+  const last=(state.q>=TOTAL||state.lives<=0);
+  fb.innerHTML=`<span class="face">${face}</span>
+    <span class="txt">${ok?pick(OKMSG):pick(NOMSG)}<span class="ex">📘 ${ex.explain}</span></span>
+    <button class="next" onclick="loadNext()">${last?'🏁 Resultado':'Seguir →'}</button>`;
+  fb.scrollIntoView({behavior:'smooth',block:'nearest'});
+}
+
+const TOPIC_BADGE={
+  'Sílaba tónica':'🔊 Oído de búho',
+  'Clasificar':'🗂️ Clasificador SEGA',
+  'La tilde':'✍️ Maestro de tildes',
+  'Reglas':'📏 Sabio de las reglas',
+  'Diptongo y hiato':'🤝 Detective de vocales',
+  'Vocales y triptongo':'⭐ Cazador de triptongos',
+};
+function showWin(){
+  const won=state.lives>0;
+  const acc=Math.round((state.correct/TOTAL)*100);
+  const stars= acc>=90?3 : acc>=60?2 : 1;
+  burst(64);
+  const badges=[...state.topics].map(t=>`<div class="bw"><span class="e">${TOPIC_BADGE[t].split(' ')[0]}</span>${TOPIC_BADGE[t].split(' ').slice(1).join(' ')}</div>`).join('');
+  app.innerHTML=`
+   <div class="panel win">
+     <div class="tab">🏁 Fin del vuelo</div>
+     <div class="medal" style="margin-top:10px">${won?(stars===3?'🏆':'🎖️'):'🪹'}</div>
+     <h1 style="font-family:'Baloo 2';color:var(--owl-deep);font-size:2rem;margin:6px 0">
+       ${won?'¡Vuelo completo!':'¡Buen intento, búho!'}
+     </h1>
+     <p class="sub" style="color:var(--muted)">${won?'Encontraste tónicas, tildes y vocales juntas 🦉':'Se acabaron las vidas, pero aprendiste un montón.'}</p>
+     <div class="starsrow">${'⭐'.repeat(stars)}${'·'.repeat(3-stars)}</div>
+     <div class="hud" style="justify-content:center;margin:6px 0">
+       <div class="chip"><span>🪶</span><b>${state.score}</b> pts</div>
+       <div class="chip"><span>✅</span><b>${state.correct}/${TOTAL}</b></div>
+       <div class="chip"><span>🔥</span><b>${state.best}</b> racha</div>
+     </div>
+     <p class="small" style="margin-top:6px">Precisión: ${acc}%</p>
+     ${badges?`<p class="small" style="margin-top:14px">🏅 Insignias ganadas:</p><div class="badges-won">${badges}</div>`:''}
+     <div class="row-btns">
+       <button class="play" onclick="startGame()">🔄 Otro vuelo</button>
+       <button class="ghost" onclick="showLearn()">📖 Repasar el tema</button>
+       <button class="ghost" onclick="showStart()">🏠 Inicio</button>
+     </div>
+   </div>`;
+}
+
+showStart();
+</script>
+</body>
+</html>

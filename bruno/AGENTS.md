@@ -18,6 +18,10 @@ Páginas:
 - `viaje-al-nuevo-mundo.html`: Ciencias Sociales (exploración, conquista, fundación de ciudades).
 - `constructores-de-frases.html`: Lengua (construcciones sustantivas: núcleo, md, mi).
   Además del juego tiene una **sala de estudio** (`showLearn()`) que explica el tema.
+- `fabrica-de-fracciones.html`: Matemática (fracciones).
+- `buho-de-las-tildes.html`: Lengua (sílaba tónica; agudas, graves, esdrújulas y
+  sobresdrújulas; reglas de tilde; diptongo, hiato y triptongo). Tiene sala de estudio
+  y modos "solo tildes" / "solo diptongo e hiato".
 
 ## Tarea habitual
 
