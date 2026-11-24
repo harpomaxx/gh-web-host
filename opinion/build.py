@@ -331,6 +331,8 @@ def main():
         sys.exit("No .md files in %s" % POSTS_DIR)
 
     posts = []
+    active_slugs = set()
+    draft_count = 0
 
     for name in sources:
         with open(os.path.join(POSTS_DIR, name), encoding="utf-8") as fh:
@@ -344,10 +346,8 @@ def main():
         author = meta.get("author") or DEFAULT_AUTHOR
         post_url = absolute_url(slug + ".html")
         image_url = absolute_url(meta.get("image") or "")
-
-        if meta.get("draft", "").lower() in ("true", "yes", "1"):
-            print("  skipped (draft): %s" % name)
-            continue
+        is_draft = meta.get("draft", "").lower() in ("true", "yes", "1")
+        active_slugs.add(slug)
 
         subtitle_block = (
             '<p class="subtitle">%s</p>' % inline(subtitle) if subtitle else ""
@@ -357,6 +357,14 @@ def main():
             '<meta name="twitter:image" content="%s">'
             % (html.escape(image_url, quote=True), html.escape(image_url, quote=True))
             if image_url else ""
+        )
+        draft_notice = (
+            '    <p class="draft-notice">Draft — work in progress</p>\n'
+            if is_draft else ""
+        )
+        robots_meta = (
+            '<meta name="robots" content="noindex, nofollow">\n'
+            if is_draft else ""
         )
 
         page = (
@@ -368,8 +376,9 @@ def main():
             .replace("{{date_iso}}", html.escape(iso_date, quote=True))
             .replace("{{author}}", html.escape(author, quote=True))
             .replace("{{image_meta}}", image_meta)
+            .replace("{{robots_meta}}", robots_meta)
             .replace("{{date_human}}", html.escape(human_date(iso_date), quote=False))
-            .replace("{{draft_notice}}", "")
+            .replace("{{draft_notice}}", draft_notice)
             .replace("{{subtitle_block}}", subtitle_block)
             .replace("{{content}}", markdown_to_html(body))
         )
@@ -378,16 +387,20 @@ def main():
         with open(target, "w", encoding="utf-8") as fh:
             fh.write(page)
 
-        posts.append({
-            "slug": slug,
-            "title": title,
-            "date": iso_date,
-            "date_human": human_date(iso_date),
-            "summary": blurb,
-        })
-        print("  %s -> %s.html" % (name, slug))
+        if is_draft:
+            draft_count += 1
+            print("  %s -> %s.html (draft, unlisted)" % (name, slug))
+        else:
+            posts.append({
+                "slug": slug,
+                "title": title,
+                "date": iso_date,
+                "date_human": human_date(iso_date),
+                "summary": blurb,
+            })
+            print("  %s -> %s.html" % (name, slug))
 
-    remove_stale_posts({p["slug"] for p in posts})
+    remove_stale_posts(active_slugs)
 
     # Newest first; ties broken by the higher slug.
     posts.sort(key=lambda p: (p["date"], p["slug"]), reverse=True)
@@ -422,7 +435,10 @@ def main():
     with open(os.path.join(BASE, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(index)
 
-    print("\nDone: %d post(s) and index.html" % len(posts))
+    print(
+        "\nDone: %d published post(s), %d unlisted draft(s), and index.html"
+        % (len(posts), draft_count)
+    )
 
 
 if __name__ == "__main__":

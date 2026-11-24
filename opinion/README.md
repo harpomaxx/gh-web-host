@@ -42,7 +42,7 @@ Front-matter fields:
 | `date`     | `YYYY-MM-DD`. Drives the index order and the displayed date. |
 | `subtitle` | Optional standfirst under the title.                         |
 | `summary`  | Index blurb. Falls back to `subtitle`, then the first paragraph. |
-| `draft`    | `true` keeps the post out of the build.                      |
+| `draft`    | `true` generates an unlisted page with a draft notice and excludes it from the index. |
 | `author`   | Optional author metadata; defaults in `build.py`.            |
 | `image`    | Optional sharing image URL/path for Open Graph/Twitter cards.|
 
@@ -55,9 +55,10 @@ becomes `post003.html`.
 python3 build.py
 ```
 
-This rewrites every `postNNN.html` and regenerates `index.html`. Run it
-after each edit — the generated HTML is committed to the repo, since the
-site is served as static files.
+This rewrites every `postNNN.html` and regenerates `index.html`. Draft
+pages are generated for direct sharing but are omitted from the index and
+marked `noindex`. Run the build after each edit — the generated HTML is
+committed to the repo, since the site is served as static files.
 
 ## Supported markdown
 

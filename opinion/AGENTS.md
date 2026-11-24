@@ -51,7 +51,7 @@ subtitle: Optional subtitle
 summary: Optional index/meta summary
 author: Optional author metadata
 image: Optional sharing image URL/path
-draft: true # optional; excludes from build
+draft: true # optional; generates an unlisted page excluded from the index
 ---
 
 Body text...
@@ -69,4 +69,4 @@ Supported Markdown is intentionally limited: headings, paragraphs, links, images
 
 ## Notes
 
-`build.py` removes stale generated post pages when their source Markdown file is missing or marked as draft. The source filename determines the output slug: `posts/post003.md` becomes `post003.html`.
+`build.py` generates draft pages with a visible draft notice and `noindex` metadata, but excludes them from the homepage. It removes stale generated post pages when their source Markdown file is missing. The source filename determines the output slug: `posts/post003.md` becomes `post003.html`.
