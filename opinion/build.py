@@ -369,6 +369,7 @@ def main():
             .replace("{{author}}", html.escape(author, quote=True))
             .replace("{{image_meta}}", image_meta)
             .replace("{{date_human}}", html.escape(human_date(iso_date), quote=False))
+            .replace("{{draft_notice}}", "")
             .replace("{{subtitle_block}}", subtitle_block)
             .replace("{{content}}", markdown_to_html(body))
         )

@@ -111,6 +111,19 @@ body {
   margin-bottom: 2.5rem;
 }
 
+.draft-notice {
+  display: inline-block;
+  margin: 0 0 1.35rem;
+  padding: 0.32rem 0.5rem 0.28rem;
+  border: 1px solid #999999;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.68rem;
+  line-height: 1;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #555555;
+}
+
 .post-header h1 {
   margin: 0.6rem 0 0.5rem;
   font-size: 2.1rem;
